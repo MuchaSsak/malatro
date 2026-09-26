@@ -20,9 +20,14 @@ msgstr "(capped)"
 #. placeholder {0}: formatNumber(stats.attempts)
 #. placeholder {1}: formatNumber(stats.met)
 #. placeholder {2}: formatNumber(stats.total)
-#: src/screens/Collection.tsx:323
+#: src/screens/Collection.tsx:342
 msgid "{0} answers · {1}/{2} tasks met"
 msgstr "{0} answers · {1}/{2} tasks met"
+
+#. placeholder {0}: JOKERS.length
+#: src/screens/Collection.tsx:474
+msgid "{0} jokers"
+msgstr "{0} jokers"
 
 #. placeholder {0}: l(HAND_BY_ID[fx.hand].name)
 #. placeholder {1}: fx.level
@@ -31,19 +36,19 @@ msgid "{0} leveled up to lvl.{1}"
 msgstr "{0} leveled up to lvl.{1}"
 
 #. placeholder {0}: formatNumber(poolSize)
-#: src/screens/MainMenu.tsx:339
+#: src/screens/MainMenu.tsx:336
 msgid "{0} tasks in this deck"
 msgstr "{0} tasks in this deck"
 
-#: src/screens/MainMenu.tsx:57
+#: src/screens/MainMenu.tsx:55
 msgid "A matura roguelike deckbuilder"
 msgstr "A matura roguelike deckbuilder"
 
-#: src/screens/GameScreen.tsx:146
+#: src/screens/GameScreen.tsx:147
 msgid "A testing panel appears on the table (money, mult, win the blind). Runs where you use it are not saved to the leaderboard."
 msgstr "A testing panel appears on the table (money, mult, win the blind). Runs where you use it are not saved to the leaderboard."
 
-#: src/screens/MainMenu.tsx:241
+#: src/screens/MainMenu.tsx:238
 msgid "A wrong answer, an idea, a bug? Tell us."
 msgstr "A wrong answer, an idea, a bug? Tell us."
 
@@ -51,11 +56,11 @@ msgstr "A wrong answer, an idea, a bug? Tell us."
 msgid "Abandon run"
 msgstr "Abandon run"
 
-#: src/screens/GameScreen.tsx:183
+#: src/screens/GameScreen.tsx:184
 msgid "Abandon this run? Progress will be lost."
 msgstr "Abandon this run? Progress will be lost."
 
-#: src/screens/Collection.tsx:502
+#: src/screens/Collection.tsx:634
 msgid "Abandoned"
 msgstr "Abandoned"
 
@@ -63,29 +68,35 @@ msgstr "Abandoned"
 msgid "Account created - welcome!"
 msgstr "Account created - welcome!"
 
-#: src/screens/Collection.tsx:336
+#: src/screens/Collection.tsx:364
 msgid "Accuracy"
 msgstr "Accuracy"
 
-#: src/screens/GameScreen.tsx:164
+#: src/screens/GameScreen.tsx:165
 msgid "Activate"
 msgstr "Activate"
 
-#: src/screens/GameScreen.tsx:143
+#: src/screens/GameScreen.tsx:144
 msgid "Activate cheats?"
 msgstr "Activate cheats?"
 
-#: src/screens/Collection.tsx:134
-#: src/screens/Collection.tsx:140
+#: src/screens/Collection.tsx:150
+#: src/screens/Collection.tsx:156
+#: src/screens/Collection.tsx:478
 msgid "All"
 msgstr "All"
 
 #. placeholder {0}: counts.all
-#: src/screens/Collection.tsx:122
+#: src/screens/Collection.tsx:138
 msgid "All ({0})"
 msgstr "All ({0})"
 
-#: src/screens/Collection.tsx:446
+#. placeholder {0}: MIN_ANSWERS - stats.attempts
+#: src/screens/Collection.tsx:354
+msgid "answer {0} more tasks"
+msgstr "answer {0} more tasks"
+
+#: src/screens/Collection.tsx:578
 msgid "Answer accuracy per run"
 msgstr "Answer accuracy per run"
 
@@ -94,17 +105,17 @@ msgid "Answer from the key"
 msgstr "Answer from the key"
 
 #. placeholder {0}: counts.ok
-#: src/screens/Collection.tsx:125
+#: src/screens/Collection.tsx:141
 msgid "Answered correctly ({0})"
 msgstr "Answered correctly ({0})"
 
-#: src/screens/Collection.tsx:539
+#: src/screens/Collection.tsx:671
 msgid "Answers"
 msgstr "Answers"
 
 #: src/components/game/Sidebar.tsx:265
-#: src/screens/Collection.tsx:533
-#: src/screens/MainMenu.tsx:474
+#: src/screens/Collection.tsx:665
+#: src/screens/MainMenu.tsx:471
 msgid "Ante"
 msgstr "Ante"
 
@@ -116,7 +127,7 @@ msgstr "Ante {0}"
 #. placeholder {0}: run.ante
 #. placeholder {1}: run.money
 #. placeholder {2}: run.jokers.length
-#: src/screens/MainMenu.tsx:417
+#: src/screens/MainMenu.tsx:414
 msgid "Ante {0} · ${1} · {2} Jokers"
 msgstr "Ante {0} · ${1} · {2} Jokers"
 
@@ -138,10 +149,10 @@ msgstr "Audio"
 #: src/components/game/OptionsPanel.tsx:154
 #: src/components/game/RunInfo.tsx:37
 #: src/components/viewer/TaskViewer.tsx:511
-#: src/screens/Collection.tsx:51
-#: src/screens/MainMenu.tsx:259
-#: src/screens/MainMenu.tsx:428
-#: src/screens/MainMenu.tsx:504
+#: src/screens/Collection.tsx:65
+#: src/screens/MainMenu.tsx:256
+#: src/screens/MainMenu.tsx:425
+#: src/screens/MainMenu.tsx:501
 msgid "Back"
 msgstr "Back"
 
@@ -154,11 +165,11 @@ msgid "Background at 30 fps and lower resolution, no blur"
 msgstr "Background at 30 fps and lower resolution, no blur"
 
 #: src/components/cards/TaskInfo.tsx:28
-#: src/screens/Collection.tsx:134
+#: src/screens/Collection.tsx:150
 msgid "Basic"
 msgstr "Basic"
 
-#: src/screens/Collection.tsx:320
+#: src/screens/Collection.tsx:339
 msgid "Basic matura"
 msgstr "Basic matura"
 
@@ -167,7 +178,7 @@ msgid "Beat the Boss to raise the Ante"
 msgstr "Beat the Boss to raise the Ante"
 
 #: src/components/game/GameOver.tsx:47
-#: src/screens/MainMenu.tsx:480
+#: src/screens/MainMenu.tsx:477
 msgid "Best hand"
 msgstr "Best hand"
 
@@ -180,6 +191,10 @@ msgstr "Big Blind"
 #: src/components/game/OptionsPanel.tsx:20
 msgid "Blockier background at 20 fps, no shine animations, no idle sway"
 msgstr "Blockier background at 20 fps, no shine animations, no idle sway"
+
+#: src/screens/Collection.tsx:55
+msgid "Boss blinds"
+msgstr "Boss blinds"
 
 #: src/components/viewer/TaskViewer.tsx:270
 msgid "Boss: no scratch paper!"
@@ -208,7 +223,7 @@ msgstr "Buy and use immediately"
 msgid "Buy for ${0}"
 msgstr "Buy for ${0}"
 
-#: src/screens/Collection.tsx:382
+#: src/screens/Collection.tsx:410
 msgid "By difficulty"
 msgstr "By difficulty"
 
@@ -229,7 +244,7 @@ msgstr "Cards played"
 msgid "Cash Out: ${0}"
 msgstr "Cash Out: ${0}"
 
-#: src/screens/Collection.tsx:138
+#: src/screens/Collection.tsx:154
 msgid "Category"
 msgstr "Category"
 
@@ -275,20 +290,20 @@ msgstr "Clear"
 msgid "Close (Esc)"
 msgstr "Close (Esc)"
 
-#: src/screens/Collection.tsx:38
+#: src/screens/Collection.tsx:46
 msgid "Collection"
 msgstr "Collection"
 
-#: src/screens/MainMenu.tsx:68
+#: src/screens/MainMenu.tsx:66
 msgid "COLLECTION"
 msgstr "COLLECTION"
 
-#: src/screens/Collection.tsx:337
+#: src/screens/Collection.tsx:365
 msgid "Confidence"
 msgstr "Confidence"
 
-#: src/screens/MainMenu.tsx:318
-#: src/screens/MainMenu.tsx:422
+#: src/screens/MainMenu.tsx:315
+#: src/screens/MainMenu.tsx:419
 msgid "Continue"
 msgstr "Continue"
 
@@ -312,7 +327,7 @@ msgstr "Could not sign in"
 msgid "Could not sign out"
 msgstr "Could not sign out"
 
-#: src/screens/Collection.tsx:340
+#: src/screens/Collection.tsx:368
 msgid "Coverage"
 msgstr "Coverage"
 
@@ -320,11 +335,11 @@ msgstr "Coverage"
 msgid "CRT effect"
 msgstr "CRT effect"
 
-#: src/screens/Collection.tsx:524
+#: src/screens/Collection.tsx:656
 msgid "Date"
 msgstr "Date"
 
-#: src/screens/Collection.tsx:527
+#: src/screens/Collection.tsx:659
 msgid "Deck"
 msgstr "Deck"
 
@@ -353,7 +368,7 @@ msgid "Discards"
 msgstr "Discards"
 
 #. placeholder {0}: counts.dontknow
-#: src/screens/Collection.tsx:128
+#: src/screens/Collection.tsx:144
 msgid "Don't know ({0})"
 msgstr "Don't know ({0})"
 
@@ -385,7 +400,8 @@ msgstr "Entering..."
 msgid "Eraser"
 msgstr "Eraser"
 
-#: src/screens/Collection.tsx:332
+#: src/screens/Collection.tsx:352
+#: src/screens/Collection.tsx:359
 msgid "Estimated exam score"
 msgstr "Estimated exam score"
 
@@ -394,11 +410,11 @@ msgid "Everything on, background capped at 60 fps"
 msgstr "Everything on, background capped at 60 fps"
 
 #: src/components/cards/TaskInfo.tsx:28
-#: src/screens/Collection.tsx:134
+#: src/screens/Collection.tsx:150
 msgid "Extended"
 msgstr "Extended"
 
-#: src/screens/Collection.tsx:320
+#: src/screens/Collection.tsx:339
 msgid "Extended matura"
 msgstr "Extended matura"
 
@@ -406,13 +422,22 @@ msgstr "Extended matura"
 msgid "Figure from the original sheet"
 msgstr "Figure from the original sheet"
 
-#: src/screens/Collection.tsx:344
+#: src/screens/Collection.tsx:550
+msgid "Final boss"
+msgstr "Final boss"
+
+#: src/screens/Collection.tsx:372
 msgid "Focus on"
 msgstr "Focus on"
 
 #: src/components/cards/cardInfo.tsx:21
 msgid "Foil: +50 Chips"
 msgstr "Foil: +50 Chips"
+
+#. placeholder {0}: boss.minAnte
+#: src/screens/Collection.tsx:540
+msgid "From ante {0}"
+msgstr "From ante {0}"
 
 #: src/components/game/OptionsPanel.tsx:110
 msgid "Fullscreen (F)"
@@ -434,7 +459,7 @@ msgstr "Game speed"
 msgid "Graphics"
 msgstr "Graphics"
 
-#: src/screens/MainMenu.tsx:79
+#: src/screens/MainMenu.tsx:77
 msgid "Guest"
 msgstr "Guest"
 
@@ -443,11 +468,11 @@ msgstr "Guest"
 msgid "Hands"
 msgstr "Hands"
 
-#: src/screens/Collection.tsx:107
+#: src/screens/Collection.tsx:123
 msgid "Hardest"
 msgstr "Hardest"
 
-#: src/screens/Collection.tsx:311
+#: src/screens/Collection.tsx:330
 msgid "high"
 msgstr "high"
 
@@ -459,7 +484,7 @@ msgstr "High"
 msgid "Holographic: +10 Mult"
 msgstr "Holographic: +10 Mult"
 
-#: src/screens/MainMenu.tsx:74
+#: src/screens/MainMenu.tsx:72
 msgid "HOW TO"
 msgstr "HOW TO"
 
@@ -481,20 +506,24 @@ msgstr "Improve your run!"
 msgid "Joker Pack"
 msgstr "Joker Pack"
 
+#: src/screens/Collection.tsx:52
+msgid "Jokers"
+msgstr "Jokers"
+
 #: src/components/cards/PackCard.tsx:26
 msgid "JUMBO"
 msgstr "JUMBO"
 
 #: src/components/game/OptionsPanel.tsx:58
-#: src/screens/MainMenu.tsx:355
+#: src/screens/MainMenu.tsx:352
 msgid "Language"
 msgstr "Language"
 
-#: src/screens/MainMenu.tsx:441
+#: src/screens/MainMenu.tsx:438
 msgid "Leaderboard"
 msgstr "Leaderboard"
 
-#: src/screens/MainMenu.tsx:453
+#: src/screens/MainMenu.tsx:450
 msgid "Leaderboard needs Supabase (see README)."
 msgstr "Leaderboard needs Supabase (see README)."
 
@@ -502,7 +531,7 @@ msgstr "Leaderboard needs Supabase (see README)."
 msgid "Let's go!"
 msgstr "Let's go!"
 
-#: src/screens/Collection.tsx:131
+#: src/screens/Collection.tsx:147
 msgid "Level"
 msgstr "Level"
 
@@ -513,11 +542,11 @@ msgid "Level up: [c:+{0}] Chips and [m:+{1}] Mult"
 msgstr "Level up: [c:+{0}] Chips and [m:+{1}] Mult"
 
 #: src/components/viewer/TaskBoard.tsx:112
-#: src/screens/MainMenu.tsx:457
+#: src/screens/MainMenu.tsx:454
 msgid "Loading..."
 msgstr "Loading..."
 
-#: src/screens/MainMenu.tsx:94
+#: src/screens/MainMenu.tsx:92
 msgid "Log in"
 msgstr "Log in"
 
@@ -525,7 +554,7 @@ msgstr "Log in"
 msgid "Log in to appear on the leaderboard"
 msgstr "Log in to appear on the leaderboard"
 
-#: src/screens/MainMenu.tsx:94
+#: src/screens/MainMenu.tsx:92
 msgid "Log out"
 msgstr "Log out"
 
@@ -537,11 +566,11 @@ msgstr "Login"
 msgid "Login: 3-20 characters, lowercase letters, digits, - or _"
 msgstr "Login: 3-20 characters, lowercase letters, digits, - or _"
 
-#: src/screens/Collection.tsx:502
+#: src/screens/Collection.tsx:634
 msgid "Lost"
 msgstr "Lost"
 
-#: src/screens/Collection.tsx:311
+#: src/screens/Collection.tsx:330
 msgid "low"
 msgstr "low"
 
@@ -561,11 +590,11 @@ msgstr "Main Menu"
 msgid "Marked: don't know"
 msgstr "Marked: don't know"
 
-#: src/screens/Collection.tsx:44
+#: src/screens/Collection.tsx:58
 msgid "Matura readiness"
 msgstr "Matura readiness"
 
-#: src/screens/Collection.tsx:311
+#: src/screens/Collection.tsx:330
 msgid "medium"
 msgstr "medium"
 
@@ -579,7 +608,7 @@ msgstr "MEGA"
 
 #. placeholder {0}: formatNumber(counts.all)
 #. placeholder {1}: formatNumber(pool.all.length)
-#: src/screens/Collection.tsx:116
+#: src/screens/Collection.tsx:132
 msgid "Met {0} of {1}"
 msgstr "Met {0} of {1}"
 
@@ -587,11 +616,11 @@ msgstr "Met {0} of {1}"
 msgid "Money earned"
 msgstr "Money earned"
 
-#: src/screens/Collection.tsx:106
+#: src/screens/Collection.tsx:122
 msgid "Most correct"
 msgstr "Most correct"
 
-#: src/screens/Collection.tsx:105
+#: src/screens/Collection.tsx:121
 msgid "Most missed"
 msgstr "Most missed"
 
@@ -612,11 +641,11 @@ msgid "New login? We create the account automatically. Same login next time = yo
 msgstr "New login? We create the account automatically. Same login next time = your results."
 
 #: src/components/game/GameOver.tsx:130
-#: src/screens/MainMenu.tsx:310
+#: src/screens/MainMenu.tsx:307
 msgid "New Run"
 msgstr "New Run"
 
-#: src/screens/Collection.tsx:108
+#: src/screens/Collection.tsx:124
 msgid "Newest exam"
 msgstr "Newest exam"
 
@@ -624,7 +653,7 @@ msgstr "Newest exam"
 msgid "Next Round"
 msgstr "Next Round"
 
-#: src/screens/GameScreen.tsx:153
+#: src/screens/GameScreen.tsx:154
 msgid "No"
 msgstr "No"
 
@@ -633,16 +662,16 @@ msgstr "No"
 msgid "No answer"
 msgstr "No answer"
 
-#: src/screens/Collection.tsx:450
-#: src/screens/Collection.tsx:515
+#: src/screens/Collection.tsx:582
+#: src/screens/Collection.tsx:647
 msgid "No finished runs yet."
 msgstr "No finished runs yet."
 
-#: src/screens/MainMenu.tsx:463
+#: src/screens/MainMenu.tsx:460
 msgid "No runs yet. Be the first!"
 msgstr "No runs yet. Be the first!"
 
-#: src/screens/Collection.tsx:170
+#: src/screens/Collection.tsx:186
 msgid "No tasks match these filters."
 msgstr "No tasks match these filters."
 
@@ -684,7 +713,7 @@ msgstr "Open task"
 msgid "Options"
 msgstr "Options"
 
-#: src/screens/MainMenu.tsx:65
+#: src/screens/MainMenu.tsx:63
 msgid "OPTIONS"
 msgstr "OPTIONS"
 
@@ -712,12 +741,12 @@ msgstr "PIN: at least 4 characters"
 msgid "Pixel cursor"
 msgstr "Pixel cursor"
 
-#: src/screens/MainMenu.tsx:62
-#: src/screens/MainMenu.tsx:404
+#: src/screens/MainMenu.tsx:60
+#: src/screens/MainMenu.tsx:401
 msgid "PLAY"
 msgstr "PLAY"
 
-#: src/screens/Collection.tsx:168
+#: src/screens/Collection.tsx:184
 msgid "Play a run: every task you answer lands here."
 msgstr "Play a run: every task you answer lands here."
 
@@ -733,11 +762,11 @@ msgstr "Play Hand"
 msgid "Play time"
 msgstr "Play time"
 
-#: src/screens/MainMenu.tsx:82
+#: src/screens/MainMenu.tsx:80
 msgid "Played {playTime}"
 msgstr "Played {playTime}"
 
-#: src/screens/MainMenu.tsx:471
+#: src/screens/MainMenu.tsx:468
 msgid "Player"
 msgstr "Player"
 
@@ -745,19 +774,19 @@ msgstr "Player"
 msgid "Polychrome: x1.5 Mult"
 msgstr "Polychrome: x1.5 Mult"
 
-#: src/screens/MainMenu.tsx:388
+#: src/screens/MainMenu.tsx:385
 msgid "Prefer tasks I haven't met yet"
 msgstr "Prefer tasks I haven't met yet"
 
-#: src/screens/MainMenu.tsx:376
+#: src/screens/MainMenu.tsx:373
 msgid "random"
 msgstr "random"
 
-#: src/screens/MainMenu.tsx:71
+#: src/screens/MainMenu.tsx:69
 msgid "RANKING"
 msgstr "RANKING"
 
-#: src/screens/Collection.tsx:104
+#: src/screens/Collection.tsx:120
 msgid "Recent"
 msgstr "Recent"
 
@@ -782,7 +811,7 @@ msgstr "Reduced motion"
 msgid "Remaining deck: {0}"
 msgstr "Remaining deck: {0}"
 
-#: src/screens/Collection.tsx:579
+#: src/screens/Collection.tsx:711
 msgid "Replay"
 msgstr "Replay"
 
@@ -802,7 +831,7 @@ msgstr "Reroll"
 msgid "Rerolls"
 msgstr "Rerolls"
 
-#: src/screens/Collection.tsx:530
+#: src/screens/Collection.tsx:662
 msgid "Result"
 msgstr "Result"
 
@@ -813,6 +842,11 @@ msgstr "Result saved to the leaderboard"
 #: src/components/viewer/TaskViewer.tsx:451
 msgid "Revealed value"
 msgstr "Revealed value"
+
+#. placeholder {0}: boss.reward ?? 5
+#: src/screens/Collection.tsx:546
+msgid "Reward ${0}"
+msgstr "Reward ${0}"
 
 #: src/components/game/BlindSelect.tsx:94
 msgid "Reward:"
@@ -839,7 +873,7 @@ msgstr "Rules"
 msgid "Run Info"
 msgstr "Run Info"
 
-#: src/screens/Collection.tsx:47
+#: src/screens/Collection.tsx:61
 msgid "Runs"
 msgstr "Runs"
 
@@ -851,8 +885,8 @@ msgstr "Saved to the leaderboard"
 msgid "Saving to leaderboard..."
 msgstr "Saving to leaderboard..."
 
-#: src/screens/Collection.tsx:536
-#: src/screens/MainMenu.tsx:477
+#: src/screens/Collection.tsx:668
+#: src/screens/MainMenu.tsx:474
 msgid "Score"
 msgstr "Score"
 
@@ -862,11 +896,11 @@ msgid "Score at least"
 msgstr "Score at least"
 
 #: src/components/game/GameOver.tsx:59
-#: src/screens/Collection.tsx:545
+#: src/screens/Collection.tsx:677
 msgid "Seed"
 msgstr "Seed"
 
-#: src/screens/MainMenu.tsx:371
+#: src/screens/MainMenu.tsx:368
 msgid "Seed (optional)"
 msgstr "Seed (optional)"
 
@@ -884,19 +918,19 @@ msgstr "Select for play"
 msgid "Sell"
 msgstr "Sell"
 
-#: src/screens/MainMenu.tsx:278
+#: src/screens/MainMenu.tsx:275
 msgid "Send"
 msgstr "Send"
 
-#: src/screens/MainMenu.tsx:254
+#: src/screens/MainMenu.tsx:251
 msgid "Sending needs Supabase (see README)."
 msgstr "Sending needs Supabase (see README)."
 
-#: src/screens/MainMenu.tsx:278
+#: src/screens/MainMenu.tsx:275
 msgid "Sending..."
 msgstr "Sending..."
 
-#: src/screens/Collection.tsx:373
+#: src/screens/Collection.tsx:401
 msgid "Share of exam points"
 msgstr "Share of exam points"
 
@@ -904,7 +938,7 @@ msgstr "Share of exam points"
 msgid "SHOP"
 msgstr "SHOP"
 
-#: src/screens/Collection.tsx:120
+#: src/screens/Collection.tsx:136
 msgid "Show"
 msgstr "Show"
 
@@ -934,7 +968,7 @@ msgstr "Skip Blind"
 msgid "Small Blind"
 msgstr "Small Blind"
 
-#: src/screens/Collection.tsx:153
+#: src/screens/Collection.tsx:169
 msgid "Sort"
 msgstr "Sort"
 
@@ -946,13 +980,13 @@ msgstr "Sort Hand"
 msgid "Sound effects"
 msgstr "Sound effects"
 
-#: src/screens/Collection.tsx:506
-#: src/screens/MainMenu.tsx:396
+#: src/screens/Collection.tsx:638
+#: src/screens/MainMenu.tsx:393
 msgid "Start a new run? The current run will be lost."
 msgstr "Start a new run? The current run will be lost."
 
-#: src/screens/MainMenu.tsx:99
-#: src/screens/MainMenu.tsx:238
+#: src/screens/MainMenu.tsx:97
+#: src/screens/MainMenu.tsx:235
 msgid "Suggest an update"
 msgstr "Suggest an update"
 
@@ -968,6 +1002,11 @@ msgstr "Take"
 msgid "Take this card"
 msgstr "Take this card"
 
+#. placeholder {0}: boss.targetMult
+#: src/screens/Collection.tsx:543
+msgid "Target ×{0}"
+msgstr "Target ×{0}"
+
 #. placeholder {0}: task.task
 #. placeholder {1}: task.pts
 #: src/components/viewer/TaskBoard.tsx:104
@@ -979,7 +1018,7 @@ msgstr "Task {0}. (0-{1})"
 msgid "Task Pack"
 msgstr "Task Pack"
 
-#: src/screens/Collection.tsx:41
+#: src/screens/Collection.tsx:49
 msgid "Tasks"
 msgstr "Tasks"
 
@@ -1000,7 +1039,7 @@ msgstr "Theorem Pack"
 msgid "This card is face down - play it to reveal it"
 msgstr "This card is face down - play it to reveal it"
 
-#: src/screens/Collection.tsx:542
+#: src/screens/Collection.tsx:674
 msgid "Time"
 msgstr "Time"
 
@@ -1057,7 +1096,7 @@ msgstr "Vouchers & Boss"
 msgid "Welcome back!"
 msgstr "Welcome back!"
 
-#: src/screens/Collection.tsx:502
+#: src/screens/Collection.tsx:634
 msgid "Won"
 msgstr "Won"
 
@@ -1085,7 +1124,7 @@ msgstr "Your answer was wrong ✗"
 msgid "Your note: {note}"
 msgstr "Your note: {note}"
 
-#: src/screens/MainMenu.tsx:246
+#: src/screens/MainMenu.tsx:243
 msgid "Your suggestion..."
 msgstr "Your suggestion..."
 

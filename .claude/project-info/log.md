@@ -131,3 +131,5 @@ Added 10 more Kevin MacLeod CC BY 4.0 tracks: `main` playlist now 11, `shop` 9. 
 ## [2026-09-26] features | full answer verification (2,462 verified cards, 33 fixes), Collection (tasks / matura readiness / runs + seed replay), progress store + card stickers, A-D option picker (`opts`), chips hint, "don't know" mark, drawing Ctrl+Z/Y, prefer-new-tasks weighting, knowledge bonus per correct answer, cheat panel (10 taps on a blind chip), GameOver centring fix, blind-select skip buttons visible; open question #5 resolved
 
 ## [2026-09-26] menu | GitHub link + "Suggest an update" form (Supabase `suggestions`, insert-only, migration 20260926200000), logo-card TRYWIALNE easter egg (`public/easter/trywialne.jpg`, text fallback), default locale now English (Polish choice persisted in settings)
+
+## [2026-09-26] ui | Collection adds Jokers + Boss blinds tabs (all shown, no discovery lock); readiness estimate hidden below 10 answers per level, untouched categories shrink to the level accuracy (not 0.5); menu user panel + fullscreen/lang moved to the top row; TRYWIALNE scrim bleeds past the stage; reveal cheat is a toggle; cheat prompt ignores scrim clicks

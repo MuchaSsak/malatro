@@ -603,12 +603,32 @@ export function cheat(run: RunState, ctx: Ctx, kind: CheatKind) {
   else if (kind === "mult") run.cheatMult = (run.cheatMult ?? 1) * 10;
   else if (kind === "hand") round!.handsLeft += 1;
   else if (kind === "discard") round!.discardsLeft += 1;
-  else if (kind === "reveal") for (const c of round!.hand) c.reveal = "value";
+  else if (kind === "reveal") toggleCheatReveal(round!);
   else if (kind === "win") {
     round!.score = Math.max(round!.score, round!.target);
     winRound(run, ctx);
   }
   ctx.fx({ kind: "sound", name: kind.startsWith("money") ? "buy" : "click" });
+}
+
+/** 👁 is a toggle: on reveals the hand, off puts back whatever reveal each card had before. */
+function toggleCheatReveal(round: RoundState) {
+  const cards = [...round.hand, ...round.deck, ...round.discardPile];
+  if (round.cheatRevealed) {
+    for (const c of cards) {
+      if (!(c.uid in round.cheatRevealed)) continue;
+      const prev = round.cheatRevealed[c.uid];
+      if (prev) c.reveal = prev;
+      else delete c.reveal;
+    }
+    round.cheatRevealed = undefined;
+    return;
+  }
+  round.cheatRevealed = {};
+  for (const c of round.hand) {
+    round.cheatRevealed[c.uid] = c.reveal ?? null;
+    c.reveal = "value";
+  }
 }
 
 function loseRun(run: RunState) {

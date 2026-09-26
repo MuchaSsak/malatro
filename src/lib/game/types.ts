@@ -182,6 +182,8 @@ export type RoundState = {
   startedAt: number;
   /** boss "Zegar": epoch ms when the timer runs out */
   deadline: number | null;
+  /** reveal cheat is on: each card it revealed, with the reveal it had before (restored on toggle off) */
+  cheatRevealed?: Record<string, RevealKind | null>;
 };
 
 export type CashoutLine = { label: L10n; money: number; tone: "blind" | "hands" | "interest" | "joker" | "other" };

@@ -137,7 +137,8 @@ function GameTable({ onMainMenu, onNewRun }: GameScreenProps) {
           <GameOver onNewRun={onNewRun} onMainMenu={onMainMenu} />
         </>
       )}
-      <Modal isOpen={modal === "cheats"} onClose={() => setModal(null)}>
+      {/* the prompt pops mid-tapping, so stray clicks outside must not dismiss it */}
+      <Modal isOpen={modal === "cheats"} onClose={() => setModal(null)} isScrimClosable={false}>
         <div className="flex w-[640px] flex-col gap-5 p-7 text-center">
           <div className="tx font-pixel text-5xl text-money">
             <Trans>Activate cheats?</Trans>

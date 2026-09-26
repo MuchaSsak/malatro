@@ -10,10 +10,19 @@ type ModalProps = {
   className?: string;
   /** light rim like Balatro's overlay panels */
   isRimmed?: boolean;
+  /** false: clicks on the scrim do nothing (only the panel's own buttons or Escape close it) */
+  isScrimClosable?: boolean;
 };
 
 /** Stage-space modal: dark scrim, panel pops in, Escape closes. */
-export default function Modal({ isOpen, onClose, children, className, isRimmed = true }: ModalProps) {
+export default function Modal({
+  isOpen,
+  onClose,
+  children,
+  className,
+  isRimmed = true,
+  isScrimClosable = true,
+}: ModalProps) {
   useEffect(() => {
     if (!isOpen) return;
     const handleKey = (e: KeyboardEvent) => e.key === "Escape" && onClose();
@@ -31,7 +40,7 @@ export default function Modal({ isOpen, onClose, children, className, isRimmed =
           exit={{ opacity: 0 }}
         >
           {/* scrim bleeds past the 16:9 stage so letterbox bands darken too */}
-          <div className="absolute -inset-[1500px] bg-black/55" onPointerDown={onClose} />
+          <div className="absolute -inset-[1500px] bg-black/55" onPointerDown={isScrimClosable ? onClose : undefined} />
           <motion.div
             initial={{ scale: 0.8, y: 40 }}
             animate={{ scale: 1, y: 0 }}

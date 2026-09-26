@@ -72,7 +72,7 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
           <Trans>HOW TO</Trans>
         </PixelButton>
       </div>
-      <div className="absolute bottom-[70px] left-[40px] flex items-center gap-3 rounded-panel bg-panel/90 px-5 py-3 shadow-hard">
+      <div className="absolute left-[40px] top-[36px] flex items-center gap-3 rounded-panel bg-panel/90 px-5 py-3 shadow-hard">
         <div className="flex flex-col">
           <span className="tx font-pixel text-3xl text-white">{displayName ?? <Trans>Guest</Trans>}</span>
           {playTime && (
@@ -106,9 +106,6 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
         >
           <GithubIcon />
         </a>
-      </div>
-      <AnimatePresence>{isTrywialne && <TrywialneEgg onClose={() => setIsTrywialne(false)} />}</AnimatePresence>
-      <div className="absolute bottom-[70px] right-[40px] flex gap-2">
         <PixelButton size="md" tone="panel" className="px-4" onClick={toggleFullscreen} aria-label="Fullscreen">
           <FullscreenIcon isIn={isFullscreen} />
         </PixelButton>
@@ -123,6 +120,7 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
           </PixelButton>
         ))}
       </div>
+      <AnimatePresence>{isTrywialne && <TrywialneEgg onClose={() => setIsTrywialne(false)} />}</AnimatePresence>
       <Modal isOpen={modal === "play"} onClose={() => setModal(null)}>
         <NewRunPanel
           hasRun={!!run && run.phase !== "gameover" && run.phase !== "won"}
@@ -192,12 +190,15 @@ function TrywialneEgg({ onClose }: { onClose: () => void }) {
     <motion.button
       type="button"
       onClick={onClose}
-      className="absolute inset-0 z-[300] grid place-items-center bg-black/70"
+      className="absolute inset-0 z-[300] grid place-items-center"
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
     >
+      {/* scrim bleeds past the 16:9 stage so the letterbox bands darken too */}
+      <div className="absolute -inset-[1500px] bg-black/75" />
       <motion.div
+        className="relative"
         initial={{ scale: 0.2, rotate: -25 }}
         animate={{ scale: 1, rotate: [-25, 6, -3, 0] }}
         exit={{ scale: 0.4, opacity: 0 }}

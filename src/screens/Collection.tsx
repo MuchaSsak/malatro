@@ -1,33 +1,41 @@
 import { Trans, useLingui } from "@lingui/react/macro";
 import { useState } from "react";
 
+import JokerCard from "~/components/cards/JokerCard";
 import TaskCard from "~/components/cards/TaskCard";
+import BlindChip from "~/components/game/BlindChip";
 import PixelButton from "~/components/ui/PixelButton";
+import RichText from "~/components/ui/RichText";
 import { useGame } from "~/contexts/GameContext";
 import { useSettings } from "~/contexts/SettingsContext";
 import { useViewer } from "~/contexts/ViewerContext";
 import { audio } from "~/lib/audio";
 import { CATEGORIES, SUITS } from "~/lib/game/categories";
+import { BOSSES } from "~/lib/game/content/bosses";
+import { JOKERS, RARITY_COLOR, RARITY_NAME } from "~/lib/game/content/jokers";
 import { DIFFICULTIES } from "~/lib/game/constants";
 import type { TaskPool } from "~/lib/game/deck";
-import type { CategoryId, Level, TaskRecord } from "~/lib/game/types";
+import type { CategoryId, JokerRarity, Level, TaskRecord } from "~/lib/game/types";
 import { type RunRecord, type TaskProgress, taskStatus, useProgress } from "~/lib/progress";
 import { cn, formatDuration, formatNumber } from "~/lib/utils";
 
 type CollectionProps = { onClose: () => void; onPlay: () => void };
 
-type Tab = "cards" | "stats" | "runs";
+type Tab = "cards" | "jokers" | "bosses" | "stats" | "runs";
 type StatusFilter = "all" | "ok" | "dontknow";
 type SortKey = "recent" | "missed" | "correct" | "diff" | "exam";
 
 const CATEGORY_IDS = Object.keys(CATEGORIES) as CategoryId[];
 const PAGE_SIZE = 40;
 const LEVEL_TONE: Record<Level, string> = { P: "#4BC292", R: "#a782d1" };
+/** answers per level before the readiness estimate means anything */
+const MIN_ANSWERS = 10;
+const RARITIES: JokerRarity[] = ["common", "uncommon", "rare", "legendary"];
 
 /**
  * Balatro-style Collection: every task the player has met, split into "answered correctly" and
- * "don't know" (last answer wrong, or marked by hand), plus study stats per matura level and the
- * run history with one-click seed replays. All of it reads the local progress store.
+ * "don't know" (last answer wrong, or marked by hand), every joker and boss blind, study stats per
+ * matura level and the run history with one-click seed replays. Progress reads the local store.
  */
 export default function Collection({ onClose, onPlay }: CollectionProps) {
   const [tab, setTab] = useState<Tab>("cards");
@@ -39,6 +47,12 @@ export default function Collection({ onClose, onPlay }: CollectionProps) {
         </div>
         <PixelButton tone={tab === "cards" ? "red" : "panel"} size="md" onClick={() => setTab("cards")}>
           <Trans>Tasks</Trans>
+        </PixelButton>
+        <PixelButton tone={tab === "jokers" ? "red" : "panel"} size="md" onClick={() => setTab("jokers")}>
+          <Trans>Jokers</Trans>
+        </PixelButton>
+        <PixelButton tone={tab === "bosses" ? "red" : "panel"} size="md" onClick={() => setTab("bosses")}>
+          <Trans>Boss blinds</Trans>
         </PixelButton>
         <PixelButton tone={tab === "stats" ? "red" : "panel"} size="md" onClick={() => setTab("stats")}>
           <Trans>Matura readiness</Trans>
@@ -53,6 +67,8 @@ export default function Collection({ onClose, onPlay }: CollectionProps) {
       </div>
       <div className="min-h-0 flex-1">
         {tab === "cards" && <CardsTab />}
+        {tab === "jokers" && <JokersTab />}
+        {tab === "bosses" && <BossesTab />}
         {tab === "stats" && <StatsTab />}
         {tab === "runs" && <RunsTab onPlay={onPlay} />}
       </div>
@@ -254,8 +270,9 @@ type Agg = { ok: number; miss: number; met: number; total: number; weight: numbe
 
 /**
  * Per level: attempts, accuracy and coverage per category. The readiness estimate weights each
- * category by its share of matura points in the pool and uses a Laplace-smoothed accuracy, so a
- * category the player never touched counts as a coin flip rather than as mastered or failed.
+ * category by its share of matura points in the pool; each category's accuracy is shrunk towards
+ * the player's overall accuracy at that level, so a category never touched counts as "about as good
+ * as elsewhere" rather than as mastered or failed. Below MIN_ANSWERS there is no estimate at all.
  */
 function levelStats(pool: TaskPool, tasks: Record<string, TaskProgress>, level: Level) {
   const byCat = Object.fromEntries(
@@ -276,15 +293,17 @@ function levelStats(pool: TaskPool, tasks: Record<string, TaskProgress>, level: 
     byDiff[Math.max(1, Math.min(5, t.diff)) - 1].ok += p.ok;
     byDiff[Math.max(1, Math.min(5, t.diff)) - 1].miss += p.miss;
   }
-  const cats = CATEGORY_IDS.filter((c) => byCat[c].total > 0).map((c) => {
+  const inLevel = CATEGORY_IDS.filter((c) => byCat[c].total > 0);
+  const attempts = inLevel.reduce((s, c) => s + byCat[c].ok + byCat[c].miss, 0);
+  const correct = inLevel.reduce((s, c) => s + byCat[c].ok, 0);
+  const prior = (correct + 1) / (attempts + 2);
+  const cats = inLevel.map((c) => {
     const a = byCat[c];
-    return { id: c, ...a, share: a.weight / Math.max(1, points), acc: (a.ok + 1) / (a.ok + a.miss + 2) };
+    return { id: c, ...a, share: a.weight / Math.max(1, points), acc: (a.ok + 2 * prior) / (a.ok + a.miss + 2) };
   });
-  const attempts = cats.reduce((s, c) => s + c.ok + c.miss, 0);
-  const correct = cats.reduce((s, c) => s + c.ok, 0);
   const met = cats.reduce((s, c) => s + c.met, 0);
   const total = cats.reduce((s, c) => s + c.total, 0);
-  const readiness = cats.reduce((s, c) => s + c.share * c.acc, 0);
+  const readiness = attempts >= MIN_ANSWERS ? cats.reduce((s, c) => s + c.share * c.acc, 0) : null;
   return { cats, byDiff, attempts, correct, met, total, readiness };
 }
 
@@ -328,10 +347,19 @@ function LevelPanel({ level, stats }: { level: Level; stats: ReturnType<typeof l
       <div className="flex items-center gap-5">
         <Gauge value={stats.readiness} tone={tone} />
         <div className="flex flex-1 flex-col gap-2 font-pixel text-2xl text-white">
-          <div>
-            <Trans>Estimated exam score</Trans>:{" "}
-            <span style={{ color: tone }}>{Math.round(stats.readiness * 100)}%</span>
-          </div>
+          {stats.readiness === null ? (
+            <div>
+              <Trans>Estimated exam score</Trans>:{" "}
+              <span className="text-white/60">
+                <Trans>answer {MIN_ANSWERS - stats.attempts} more tasks</Trans>
+              </span>
+            </div>
+          ) : (
+            <div>
+              <Trans>Estimated exam score</Trans>:{" "}
+              <span style={{ color: tone }}>{Math.round(stats.readiness * 100)}%</span>
+            </div>
+          )}
           <div className="text-xl text-white/70">
             <Trans>Accuracy</Trans>: {accuracy === null ? "-" : `${Math.round(accuracy * 100)}%`} ·{" "}
             <Trans>Confidence</Trans>: {confidence}
@@ -402,8 +430,8 @@ function LevelPanel({ level, stats }: { level: Level; stats: ReturnType<typeof l
   );
 }
 
-/** Semicircle gauge (0..1). */
-function Gauge({ value, tone }: { value: number; tone: string }) {
+/** Semicircle gauge (0..1); null = not enough data, drawn empty with a "?". */
+function Gauge({ value, tone }: { value: number | null; tone: string }) {
   const r = 70;
   const len = Math.PI * r;
   return (
@@ -415,18 +443,125 @@ function Gauge({ value, tone }: { value: number; tone: string }) {
         strokeWidth={20}
         strokeLinecap="round"
       />
-      <path
-        d="M 20 95 A 70 70 0 0 1 160 95"
-        fill="none"
-        stroke={tone}
-        strokeWidth={20}
-        strokeLinecap="round"
-        strokeDasharray={`${len * Math.max(0, Math.min(1, value))} ${len}`}
-      />
-      <text x={90} y={92} textAnchor="middle" className="font-pixel" fontSize={36} fill="#fff">
-        {Math.round(value * 100)}%
+      {!!value && (
+        <path
+          d="M 20 95 A 70 70 0 0 1 160 95"
+          fill="none"
+          stroke={tone}
+          strokeWidth={20}
+          strokeLinecap="round"
+          strokeDasharray={`${len * Math.max(0, Math.min(1, value ?? 0))} ${len}`}
+        />
+      )}
+      <text
+        x={90}
+        y={92}
+        textAnchor="middle"
+        className="font-pixel"
+        fontSize={36}
+        fill={value === null ? "rgba(255,255,255,.5)" : "#fff"}
+      >
+        {value === null ? "?" : `${Math.round(value * 100)}%`}
       </text>
     </svg>
+  );
+}
+
+/** Jokers */
+
+function JokersTab() {
+  const { l } = useSettings();
+  const { t } = useLingui();
+  const [rarity, setRarity] = useState<JokerRarity | "all">("all");
+  const shown = JOKERS.filter((j) => rarity === "all" || j.rarity === rarity).sort(
+    (a, b) => RARITIES.indexOf(a.rarity) - RARITIES.indexOf(b.rarity),
+  );
+  return (
+    <div className="flex h-full flex-col gap-3">
+      <div className="flex items-center gap-2">
+        <span className="tx mr-2 font-pixel text-2xl text-white">
+          <Trans>{JOKERS.length} jokers</Trans>
+        </span>
+        <Chip isActive={rarity === "all"} onClick={() => setRarity("all")}>
+          {t`All`}
+        </Chip>
+        {RARITIES.map((r) => (
+          <Chip key={r} isActive={rarity === r} tone={RARITY_COLOR[r]} onClick={() => setRarity(r)}>
+            {l(RARITY_NAME[r])} ({JOKERS.filter((j) => j.rarity === r).length})
+          </Chip>
+        ))}
+      </div>
+      <div className="scroll-thin min-h-0 flex-1 overflow-y-auto rounded-panel bg-inset-deep p-4">
+        <div className="grid grid-cols-3 gap-4">
+          {shown.map((def) => (
+            <div key={def.id} className="flex gap-4 rounded-panel bg-panel p-3 shadow-hard-sm">
+              <JokerCard joker={{ uid: def.id, id: def.id, vars: def.initVars?.() ?? {} }} scale={0.72} />
+              <div className="flex min-w-0 flex-1 flex-col gap-1.5">
+                <div className="tx font-pixel text-3xl leading-none text-white">{l(def.name)}</div>
+                <div className="flex gap-2 font-pixel text-lg">
+                  <span className="rounded px-2 text-white" style={{ backgroundColor: RARITY_COLOR[def.rarity] }}>
+                    {l(RARITY_NAME[def.rarity])}
+                  </span>
+                  <span className="text-money">${def.cost}</span>
+                </div>
+                <div className="rounded-lg bg-paper px-2.5 py-2 font-pixel text-xl leading-tight text-ink">
+                  <RichText
+                    text={l(def.desc)}
+                    vars={def.vars?.({ uid: def.id, id: def.id, vars: def.initVars?.() ?? {} }, null)}
+                  />
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+/** Bosses */
+
+function BossesTab() {
+  const { l } = useSettings();
+  const shown = [...BOSSES].sort((a, b) => Number(!!a.isFinisher) - Number(!!b.isFinisher) || a.minAnte - b.minAnte);
+  return (
+    <div className="scroll-thin h-full overflow-y-auto rounded-panel bg-inset-deep p-4">
+      <div className="grid grid-cols-3 gap-4">
+        {shown.map((boss) => (
+          <div
+            key={boss.id}
+            className="flex items-center gap-4 rounded-panel bg-panel p-3 shadow-hard-sm"
+            style={{ boxShadow: `inset 6px 0 0 ${boss.color}` }}
+          >
+            <BlindChip kind="boss" bossId={boss.id} size={96} />
+            <div className="flex min-w-0 flex-1 flex-col gap-1.5">
+              <div className="tx font-pixel text-3xl leading-none" style={{ color: boss.color }}>
+                <span className="[filter:brightness(1.6)]">{l(boss.name)}</span>
+              </div>
+              <div className="flex flex-wrap gap-x-3 font-pixel text-lg text-white/70">
+                <span>
+                  <Trans>From ante {boss.minAnte}</Trans>
+                </span>
+                <span className="text-red">
+                  <Trans>Target ×{boss.targetMult}</Trans>
+                </span>
+                <span className="text-money">
+                  <Trans>Reward ${boss.reward ?? 5}</Trans>
+                </span>
+                {boss.isFinisher && (
+                  <span className="text-important">
+                    <Trans>Final boss</Trans>
+                  </span>
+                )}
+              </div>
+              <div className="rounded-lg bg-inset px-2.5 py-2 font-pixel text-xl leading-tight text-white">
+                <RichText text={l(boss.desc)} />
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
   );
 }
 

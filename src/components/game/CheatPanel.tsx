@@ -51,7 +51,17 @@ export default function CheatPanel() {
           {buttons.map(([kind, label, isEnabled]) => (
             <PixelButton
               key={kind}
-              tone={kind === "win" ? "red" : kind === "mult" ? "red" : kind.startsWith("money") ? "money" : "panel"}
+              tone={
+                kind === "reveal" && run.round?.cheatRevealed
+                  ? "blue"
+                  : kind === "win"
+                    ? "red"
+                    : kind === "mult"
+                      ? "red"
+                      : kind.startsWith("money")
+                        ? "money"
+                        : "panel"
+              }
               size="sm"
               className="h-10 px-2 text-xl"
               disabled={!isEnabled}
