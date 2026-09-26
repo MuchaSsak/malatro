@@ -91,3 +91,9 @@ supabase, vendor): startup ~295 KB gzip vs ~416 KB single bundle.
 ## [2026-09-26] lint | 7 findings: stale counts 2520->2505, conf gap resolved, bundle/code-split facts, boss mult, answer wording; 2 open questions updated/removed
 
 ## [2026-09-26] robustness | ErrorBoundary (reload / reset saved run), WebGL-less CSS gradient fallback, meta description/OG tags; open questions #6 #7 #9 #15 resolved
+
+## 2026-09-26 — public-repo prep
+
+Added root `LICENSE` (MIT, code only; third-party assets + CKE content excluded; not-affiliated
+notice). Slimmed root `README.md` to a minimal public readme; moved its only unique facts here:
+Supabase setup steps (`technologies.md`) and F/Esc/Delete controls (`requirements.md`).

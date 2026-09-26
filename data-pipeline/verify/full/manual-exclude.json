@@ -1,0 +1,17 @@
+[
+ {
+  "exam": "f2005-P-2011-maj",
+  "task": "27",
+  "reason": "value 8 = x+y given in the task"
+ },
+ {
+  "exam": "f2005-P-2014-czerwiec",
+  "task": "4",
+  "reason": "a+b=f(1)=0 read off the given point K=(1,0) without solving"
+ },
+ {
+  "exam": "f2005-R-2015-czerwiec",
+  "task": "7",
+  "reason": "sum 105 is given in the task"
+ }
+]

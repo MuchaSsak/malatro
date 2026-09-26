@@ -17,7 +17,9 @@
     "translate": "lingui extract --clean && lingui compile --typescript --strict",
     "i18n:compile": "lingui compile --typescript --strict",
     "data:build": "python data-pipeline/build_dataset.py",
-    "supabase:types": "supabase gen types typescript --local --schema public > src/lib/supabase/database.types.ts"
+    "db:push": "supabase db push",
+    "supabase:types": "supabase gen types typescript --linked --schema public > src/lib/supabase/database.types.tmp && mv src/lib/supabase/database.types.tmp src/lib/supabase/database.types.ts",
+    "supabase:types:local": "supabase gen types typescript --local --schema public > src/lib/supabase/database.types.tmp && mv src/lib/supabase/database.types.tmp src/lib/supabase/database.types.ts"
   },
   "dependencies": {
     "@lingui/core": "^5.9.5",

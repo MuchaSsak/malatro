@@ -61,6 +61,14 @@ used, `design.md` for the visual libraries, `data-model.md` for Supabase schema.
 Both are read once via `zod` in `src/lib/env.ts`; never read real `.env`/`.env.local` values, only
 `.env.example` names them. Local dev values come from `supabase start` output.
 
+### Supabase setup (optional — login + leaderboard)
+
+1. Needs the Supabase CLI + Docker. `supabase start` runs the local stack, applies
+   `supabase/migrations/*`, and prints the local API URL + publishable key.
+2. Copy `.env.example` → `.env.local`, set the two vars above.
+3. Email confirmation is disabled for the local stack (`supabase/config.toml`). A **hosted** project
+   must also have "Confirm email" turned off (Authentication settings) — login is slug + PIN, not email.
+
 ## Repo layout
 
 ```

@@ -41,4 +41,4 @@ repo. Extend-mode conventions: one owner per fact, source tags (`[user]`, `[repo
 | Matching Malatro's look to real Balatro from screenshots | `research/balatro-visuals-and-assets.md`, `research/balatro-mechanics.md` |
 | Reusing patterns from the reference monorepo (`context/`) | `research/context-analysis.md` |
 
-Root pointers: `../../CLAUDE.md` (session routing) and `../../README.md` (developer quick start).
+Root pointers: `../../CLAUDE.md` (session routing) and `../../README.md` (minimal public readme — dev setup lives in `technologies.md`).

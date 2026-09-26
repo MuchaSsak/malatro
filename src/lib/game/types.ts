@@ -49,6 +49,7 @@ export type TaskRecord = {
   session: string; // maj | czerwiec | sierpien | probna | diagnostyczna
   formula: string; // 2005 | 2015 | 2023
   conf?: "high" | "medium"; // annotation confidence (low ones are dropped by build_dataset.py)
+  fig?: boolean; // solving needs the sheet's figure: the English sheet shows the original crop too
 };
 
 export type HandTypeId =

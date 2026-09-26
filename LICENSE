@@ -1,0 +1,41 @@
+MIT License
+
+Copyright (c) 2026 MuchaSsak
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---------------------------------------------------------------------------
+
+Scope: this license covers the original source code of Malatro only.
+It does NOT cover the following third-party material, which remains under
+its own terms:
+
+- Matura task content (public/tasks/, public/data/): derived from exam
+  materials published by Centralna Komisja Egzaminacyjna (CKE).
+- Fonts (public/fonts/): m6x11 by Daniel Linssen (attribution required);
+  Pixelify Sans under the SIL Open Font License 1.1.
+- Music (public/audio/music/): "Hep Cats" and "Chill Wave" by Kevin MacLeod
+  (incompetech.com), CC BY 4.0.
+- Sound effects (public/audio/sfx/): Kenney, CC0.
+- Background shader (src/components/layout/BalatroBackground.tsx): adapted
+  from React Bits by David Haz, MIT + Commons Clause v1.0; see the notice
+  in that file.
+
+Malatro is an unofficial fan project and is not affiliated with or endorsed
+by LocalThunk or Playstack. "Balatro" is a trademark of its respective owner.

@@ -1,0 +1,10400 @@
+[
+[
+{
+"exam": "f2005-P-2005-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "5"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "7"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "8"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "1"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "11"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "2"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "3"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "4"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "5"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "6"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "7"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "8"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2006-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "11"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "5"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "7"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "9"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "1"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "10"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "2"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "3"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "4"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "6"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "7"
+},
+{
+"exam": "f2005-P-2006-styczen-zimowa",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-P-2007-maj",
+"task": "1"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "5"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "6"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "7"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "8"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2008-maj",
+"task": "1"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "11"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "12"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "5"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "6"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "7"
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "10"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "12"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "13"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "14"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "15"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "16"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "17"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "18"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "19"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "2"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "20"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "22"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "24"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "25"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "27"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "29"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "3"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "32"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "33"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "34"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "4"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "5"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "8"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2009-maj",
+"task": "1"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "11"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "5"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "6"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "7"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "8"
+},
+{
+"exam": "f2005-P-2009-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "1"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "10"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "11"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "12"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "14"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "15"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "16"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "18"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "19"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "22"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "24"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "25"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "27"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "28"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "3"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "31"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "32"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "33"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "4"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "5"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "6"
+}
+],
+[
+{
+"exam": "f2005-P-2010-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "11"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "12"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "13"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "14"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "15"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "16"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "17"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "18"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "19"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "20"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "21"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2010-maj",
+"task": "23"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "24"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "25"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "27"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "29"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "31"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "32"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "33"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "6"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "7"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "8"
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "1"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "10"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "13"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "14"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "15"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "16"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "17"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "18"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "19"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "2"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "20"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "23"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "24"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "27"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "28"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "3"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "32"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "33"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "34"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "6"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "8"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-P-2011-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "11"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "13"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "14"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "16"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "17"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "20"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "21"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "22"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "23"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "27"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "28"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "30"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "31"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "32"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "33"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "6"
+}
+],
+[
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "1"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "11"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "12"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "13"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "14"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "15"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "16"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "17"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "18"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "19"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "20"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "21"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "23"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "26"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "27"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "29"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "3"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "30"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "31"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "32"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "33"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "7"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "8"
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2012-maj",
+"task": "1"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "11"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "12"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "13"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "14"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "15"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "16"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "17"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "18"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "19"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "20"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2012-maj",
+"task": "23"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "24"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "25"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "28"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "31"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "32"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "33"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "34"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "5"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "6"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "1"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "10"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "12"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "13"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "14"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "15"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "16"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "17"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "18"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "19"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "23"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "24"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "26"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "28"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "29"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "3"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "30"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "32"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "5"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "7"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "1"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "11"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "12"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "13"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "14"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "15"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "16"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "17"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "18"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "2"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "20"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "21"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "24"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "25"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "27"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "28"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "29"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "3"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "32"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "33"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "34"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "4"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "5"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2005-P-2013-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "12"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "13"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "14"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "15"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "16"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "17"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "18"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "19"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "20"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "21"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2013-maj",
+"task": "23"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "24"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "25"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "26"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "27"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "29"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "33"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "34"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "5"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "6"
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "10"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "12"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "13"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "14"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "15"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "16"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "17"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "18"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "19"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "2"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "20"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "21"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "23"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "24"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "25"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "27"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "28"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "29"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "3"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "31"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "33"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "34"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "5"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "6"
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2014-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "12"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "13"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "14"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "15"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "16"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "17"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "19"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "20"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "21"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "22"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2005-P-2014-maj",
+"task": "24"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "25"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "26"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "27"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "29"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "30"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "32"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "33"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "34"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "5"
+}
+],
+[
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "13"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "14"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "15"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "16"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "17"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "18"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "21"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "22"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "23"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "24"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "27"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "29"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "31"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "32"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "33"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "34"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "4"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "5"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "6"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2015-maj",
+"task": "1"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "10"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "11"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "12"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "14"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "15"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "16"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "17"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "19"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "2"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "20"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "22"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2005-P-2015-maj",
+"task": "24"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "25"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "28"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "29"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "3"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "30"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "32"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "33"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "34"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "4"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "7"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "8"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "1"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "11"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "12"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "13"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "14"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "15"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "16"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "17"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "18"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "19"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "2"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "20"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "21"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "23"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "24"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "25"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "26"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "28"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "29"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "3"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "32"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "34"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "4"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "5"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "7"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "8"
+},
+{
+"exam": "f2005-R-2005-maj",
+"task": "13"
+},
+{
+"exam": "f2005-R-2005-maj",
+"task": "14"
+},
+{
+"exam": "f2005-R-2005-maj",
+"task": "18"
+},
+{
+"exam": "f2005-R-2005-maj",
+"task": "19"
+}
+],
+[
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "10"
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "12"
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "2"
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "3"
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "4"
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "5"
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "6"
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "7"
+},
+{
+"exam": "f2005-R-2006-maj",
+"task": "13"
+},
+{
+"exam": "f2005-R-2006-maj",
+"task": "15"
+},
+{
+"exam": "f2005-R-2006-maj",
+"task": "16"
+},
+{
+"exam": "f2005-R-2006-maj",
+"task": "17"
+},
+{
+"exam": "f2005-R-2006-maj",
+"task": "18"
+},
+{
+"exam": "f2005-R-2006-styczen-zimowa",
+"task": "12"
+},
+{
+"exam": "f2005-R-2006-styczen-zimowa",
+"task": "17"
+},
+{
+"exam": "f2005-R-2006-styczen-zimowa",
+"task": "18"
+}
+],
+[
+{
+"exam": "f2005-R-2007-maj",
+"task": "1"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "3"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "7"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "8"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "12"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "8"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "9"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "2"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "3"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2005-R-2010-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2010-maj",
+"task": "2"
+},
+{
+"exam": "f2005-R-2010-maj",
+"task": "3"
+},
+{
+"exam": "f2005-R-2010-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "1"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "10"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "3"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "7"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "9"
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-R-2011-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "6"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "7"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "8"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "9"
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2005-R-2012-maj",
+"task": "1"
+},
+{
+"exam": "f2005-R-2012-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2012-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2012-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2012-maj",
+"task": "6"
+},
+{
+"exam": "f2005-R-2012-maj",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-R-2013-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "12"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "3"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "8"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "9"
+},
+{
+"exam": "f2005-R-2014-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-R-2014-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2005-R-2014-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2005-R-2014-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-R-2014-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2005-R-2014-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2014-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2014-maj",
+"task": "2"
+},
+{
+"exam": "f2005-R-2014-maj",
+"task": "3"
+},
+{
+"exam": "f2005-R-2014-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2014-maj",
+"task": "7"
+},
+{
+"exam": "f2005-R-2014-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2005-R-2015-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2015-maj",
+"task": "2"
+},
+{
+"exam": "f2005-R-2015-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2015-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2015-maj",
+"task": "8"
+},
+{
+"exam": "f2005-R-2016-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-R-2016-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2005-R-2016-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2005-R-2016-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-R-2016-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-R-2016-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-R-2016-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2016-maj",
+"task": "2"
+},
+{
+"exam": "f2005-R-2016-maj",
+"task": "3"
+},
+{
+"exam": "f2005-R-2016-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2016-maj",
+"task": "6"
+},
+{
+"exam": "f2005-R-2016-maj",
+"task": "8"
+},
+{
+"exam": "f2005-R-2017-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2005-R-2017-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-R-2017-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2005-R-2017-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-R-2017-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "2"
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "7"
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "1"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "4"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "7"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "8"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "6"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "7"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2005-R-2020-maj",
+"task": "10"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "11"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "12"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "5"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "6"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "7"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "1"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "10"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "11"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "14"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "15"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "17"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "19"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "2"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "20"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "21"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "24"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "25"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "29"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "3"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "30"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "31"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "33"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "4"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "5"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "1"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "10"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "11"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "12"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "14"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "15"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "16"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "17"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "18"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "19"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "2"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "20"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "22"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "23"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "24"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "27"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "29"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "3"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "30"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "32"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "33"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "4"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "5"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "7"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2015-maj",
+"task": "10"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "22"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2015-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "29"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "7"
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "12"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "26"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "29"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "6"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "8"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2016-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2015-P-2016-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "26"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "28"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "5"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "7"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "8"
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "11"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "23"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "29"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "31"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "8"
+},
+{
+"exam": "f2015-P-2016-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2017-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "10"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "22"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2017-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "29"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "5"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "8"
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "11"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "12"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "22"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "31"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2018-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "10"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2015-P-2018-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "27"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "7"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "11"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "12"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "23"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "7"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "8"
+},
+{
+"exam": "f2015-P-2018-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2019-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "10"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2019-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "26"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "5"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "7"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "11"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "12"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "22"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "26"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "6"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "7"
+},
+{
+"exam": "f2015-P-2019-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2015-P-2020-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "1"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "11"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "12"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "13"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "14"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "15"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "16"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "17"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "2"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "23"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "25"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "27"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "3"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "30"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "31"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "32"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "33"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "34"
+},
+{
+"exam": "f2015-P-2020-kwiecien-probna",
+"task": "5"
+}
+],
+[
+{
+"exam": "f2015-P-2020-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "10"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "22"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2015-P-2020-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "27"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "7"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "8"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "11"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "12"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "22"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "23"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "31"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "6"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "7"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "8"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "35"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-P-2021-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "10"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "22"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2021-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "26"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "27"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "28"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "35"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "5"
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "1"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "10"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "11"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "12"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "13"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "15"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "16"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "17"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "18"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "19"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "2"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "20"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "24"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "25"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "26"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "27"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "28"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "3"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "30"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "32"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "33"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "5"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "6"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "23"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "26"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "28"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "35"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "35"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2022-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2015-P-2022-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "27"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "28"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "35"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "5"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "8"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "22"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "26"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "28"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "35"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "7"
+},
+{
+"exam": "f2015-P-2022-sierpien",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "35"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "36"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-P-2023-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2023-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "22"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2023-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "26"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "27"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "28"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "35"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "36"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "7"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "11"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "26"
+}
+],
+[
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "28"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "29"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "31"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "35"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "36"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "8"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "35"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "36"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-P-2024-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "22"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2015-P-2024-maj",
+"task": "26"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "28"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "29"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "35"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "36"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "7"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "11"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "22"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "23"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "26"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "27"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "28"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "29"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "35"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "36"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "6"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "7"
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "6"
+}
+],
+[
+{
+"exam": "f2015-P-2025-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "10"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "11"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2015-P-2025-maj",
+"task": "22"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "28"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "29"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "32"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "12"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "20"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "23"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "25"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "28"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "29"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "31"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "6"
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "34"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-P-2026-maj",
+"task": "1"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "12"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "13"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "14"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "15"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "16"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "17"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "18"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "19"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "2"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "20"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "21"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2026-maj",
+"task": "23"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "24"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "25"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "28"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "3"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "30"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "31"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "33"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "34"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "4"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "5"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "6"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "1"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "10"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "12"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "13"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "14"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "15"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "16"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "17"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "18"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "19"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "2"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "21"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "23"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "24"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "28"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "29"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "3"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "30"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "31"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "32"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "33"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "34"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "4"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "5"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "6"
+}
+],
+[
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "1"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "12"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "16"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "17"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "18"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "2"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "6"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "7"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "8"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "9"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "1"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "12"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "16"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "17"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "18"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "5"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "6"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "7"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "8"
+},
+{
+"exam": "f2015-R-2014-grudzien-probna",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-R-2015-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "14"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "16"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "6"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "15"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "16"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "6"
+},
+{
+"exam": "f2015-R-2016-maj",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2018-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "14"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "15"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "6"
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-R-2019-czerwiec",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-R-2019-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "12"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "15"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "6"
+},
+{
+"exam": "f2015-R-2019-maj",
+"task": "7"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2020-czerwiec",
+"task": "6"
+}
+],
+[
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "1"
+},
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "10"
+},
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "11"
+},
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "13"
+},
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "2"
+},
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "3"
+},
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "5"
+},
+{
+"exam": "f2015-R-2020-kwiecien-probna",
+"task": "9"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "14"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "15"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2015-R-2021-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "12"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "15"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2021-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "1"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "10"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "11"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "12"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "13"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "15"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "2"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "3"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "4"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "5"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "9"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2022-czerwiec",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2015-R-2022-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "12"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "7"
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2023-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "12"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "14"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "16"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "8"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "14"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2024-czerwiec",
+"task": "6"
+}
+],
+[
+{
+"exam": "f2015-R-2024-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "12"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "14"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "16"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "8"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "10"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "12"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "13"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "15"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2015-R-2026-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "1"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "11"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "14"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "15"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "2"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "3"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "4"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "5"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "6"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "1"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "12"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "13"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "16"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "18"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "19"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "2"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "20"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "21"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "22"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "23"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "25.1"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "25.2"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "26"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "27"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "29"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "30.1"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "30.2"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "32"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "5"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "6"
+},
+{
+"exam": "f2023-P-2022-grudzien-diagnostyczna",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "1"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "13.2"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "14"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "18"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "2"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "20"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "21"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "22"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "24"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "25"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "26"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "28"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "29"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "3"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "30.2"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "6"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "1"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "10.3"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "11"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "12.1"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "12.2"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "13.1"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "14.1"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "15"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "16.2"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "16.3"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "18"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "19"
+}
+],
+[
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "2"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "20"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "21"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "22"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "23"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "24.1"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "24.2"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "24.3"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "25"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "3"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "6"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "15.1"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "15.2"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "29.1"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "29.2"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "33"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "1"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "12"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "13"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "15"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "17"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "19"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "2"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "21"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "22"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "23"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "24"
+}
+],
+[
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "25"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "26"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "27"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "28"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "29.1"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "3"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "30"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "6"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "8"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2023-maj",
+"task": "12.2"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "14"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "15"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "16"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "17"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "18"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "2"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "20"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "21"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "22"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2023-P-2023-maj",
+"task": "24"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "25"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "26"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "28"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "29"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "30"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "31.2"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "4"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "7"
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "12"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "13"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "16"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "18"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "19"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "2"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "20"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "21"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "22"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "23"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "24"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "28"
+}
+],
+[
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "29.1"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "29.2"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "3"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "30"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "31"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "32"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "33"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "5"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "6"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "8"
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "13"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "16.1"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "25"
+}
+],
+[
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2023-P-2024-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "1"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "15"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "16"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "17.1"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "17.2"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "18"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "19"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "2"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "20"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "21"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "22"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "24"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "26"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "27"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "28"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "29"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "30"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "5"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "7"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2023-P-2024-maj",
+"task": "13"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "16"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "17"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "19"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "2"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "21"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "22"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "23"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "24"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "25.1"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "26"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "27"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "28"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "29"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "30"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "31"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "4"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "7"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "1"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "10"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "11.2"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "13"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "14"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "15"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "16"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "17"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "18"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "19"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "2"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "20"
+}
+],
+[
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "21"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "22"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "24"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "25"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "26"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "27"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "28"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "29"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "30"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "6"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "7"
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "14.1"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "15.1"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "15.2"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "19.1"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "19.2"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "20"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "22"
+}
+],
+[
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "24"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "26"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2023-P-2025-maj",
+"task": "1"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "12.2"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "12.3"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "13"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "14.1"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "15"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "16"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "17"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "18.1"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "18.2"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "19"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "2"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "20"
+}
+],
+[
+{
+"exam": "f2023-P-2025-maj",
+"task": "22"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "23"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "25"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "26"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "27"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "28"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "29"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "3"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "30"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "31"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "7"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "1"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "10"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "11"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "12.1"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "14.3"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "15"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "16"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "17"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "19"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "2"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "20"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "21.1"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "21.2"
+}
+],
+[
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "22.1"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "22.2"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "24"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "26"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "27"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "28"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "29"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "3"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "30"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "31"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "4"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "12.1"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "13.1"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "13.2"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "14.1"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "15"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "16"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "17"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "18"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "19"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "2"
+}
+],
+[
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "21"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "22"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "23"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "25"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "27"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "28"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "29"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "30"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "31"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "32"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2023-P-2026-maj",
+"task": "1"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "11"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "12.1"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "13.2"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "15"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "16"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "17"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "18"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "19"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "2"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "20"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "22"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "23"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "24.1"
+}
+],
+[
+{
+"exam": "f2023-P-2026-maj",
+"task": "24.2"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "26"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "27"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "28"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "29"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "3"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "30"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "32"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "33.1"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "33.2"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "4"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "6"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "8"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "11.2"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "12"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "13"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "14"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "15"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "16"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "17"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "18"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "2"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "20"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "22"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "23"
+}
+],
+[
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "25"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "26"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "28"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "29"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "3"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "30"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "31"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "32.1"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "32.2"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "4"
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "1"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "10"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "12"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "14.1"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "15"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "16"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "17"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "18"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "19"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "2"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "20"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "21"
+}
+],
+[
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "22.2"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "23.1"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "24"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "25"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "26"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "28"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "29"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "3"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "30"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "4"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "6"
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "7"
+},
+{
+"exam": "f2023-R-2022-grudzien-diagnostyczna",
+"task": "1"
+},
+{
+"exam": "f2023-R-2022-grudzien-diagnostyczna",
+"task": "11"
+},
+{
+"exam": "f2023-R-2022-grudzien-diagnostyczna",
+"task": "12"
+},
+{
+"exam": "f2023-R-2022-grudzien-diagnostyczna",
+"task": "4"
+},
+{
+"exam": "f2023-R-2022-grudzien-diagnostyczna",
+"task": "7"
+}
+],
+[
+{
+"exam": "f2023-R-2022-marzec-pokazowa",
+"task": "10"
+},
+{
+"exam": "f2023-R-2022-marzec-pokazowa",
+"task": "11"
+},
+{
+"exam": "f2023-R-2022-marzec-pokazowa",
+"task": "6.2"
+},
+{
+"exam": "f2023-R-2022-marzec-pokazowa",
+"task": "7"
+},
+{
+"exam": "f2023-R-2022-marzec-pokazowa",
+"task": "9"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2023-R-2023-czerwiec",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-R-2023-maj",
+"task": "1"
+},
+{
+"exam": "f2023-R-2023-maj",
+"task": "12.2"
+},
+{
+"exam": "f2023-R-2023-maj",
+"task": "13"
+},
+{
+"exam": "f2023-R-2023-maj",
+"task": "2"
+},
+{
+"exam": "f2023-R-2023-maj",
+"task": "3"
+},
+{
+"exam": "f2023-R-2023-maj",
+"task": "7"
+},
+{
+"exam": "f2023-R-2023-maj",
+"task": "8"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "11"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "13.2"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "4"
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "8"
+}
+],
+[
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "1"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "10"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "12"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "13.2"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "3"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "5"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "6"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "7"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "8"
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "9"
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "1"
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "10"
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "11"
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "13.2"
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "3"
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "4"
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "6"
+}
+],
+[
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "10"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "12.2"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "5"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "7"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "1"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "10"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "12.2"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "3"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "4"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "6"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "8"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "9"
+}
+],
+[
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "1"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "12"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "2"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "3"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "6"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "8"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "9"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "1"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "11"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "12.2"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "2"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "6"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "8"
+}
+]
+]

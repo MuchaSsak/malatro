@@ -10,7 +10,7 @@ import type { TaskRecord } from "~/lib/game/types";
 const BOARD_W = 1600;
 const SHEET_W = 1300;
 const MARGIN = 70;
-/** English statements that refer to a picture also get the original figure under the text. */
+/** Fallback for cards without a verified `fig` flag: statements that mention a picture get the crop. */
 const FIGURE_RE = /figure|graph|diagram|drawing|shown|picture|table|plot|chart|grid|see the/i;
 
 type TaskBoardProps = {
@@ -52,7 +52,7 @@ export default function TaskBoard({ task, sheet, statement, zoom, tool, strokes,
   const scale = (viewport.w * zoom) / BOARD_W;
   const boardH = Math.max(viewport.h / scale, sheetH + 2 * MARGIN);
   const sheetW = sheet === "pl" ? Math.min(SHEET_W, task.w * 1.9) : SHEET_W;
-  const hasFigure = sheet === "en" && !!statement && FIGURE_RE.test(statement);
+  const hasFigure = sheet === "en" && (task.fig ?? (!!statement && FIGURE_RE.test(statement)));
 
   const handlePanStart = (e: PointerEvent<HTMLDivElement>) => {
     if (tool.mode !== "none" || !viewportRef.current) return;

@@ -6,7 +6,9 @@ Outputs:
   public/tasks/<exam>/<task>.webp    task crops (included tasks only)
   data-pipeline/dataset-report.json  counts + validation problems
 
-Usage: python data-pipeline/build_dataset.py
+Usage: python data-pipeline/build_dataset.py [--require-verified]
+
+--require-verified ships only cards marked `verified` by apply_full.py (full re-solve pass).
 """
 
 from __future__ import annotations
@@ -15,6 +17,7 @@ import json
 import math
 import re
 import shutil
+import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
@@ -23,6 +26,7 @@ APP = ROOT.parent
 OUT = ROOT / "out"
 ANN = ROOT / "annotations"
 PUBLIC = APP / "public"
+REQUIRE_VERIFIED = "--require-verified" in sys.argv
 
 CATEGORIES = {
     "liczby", "wyrazenia", "rownania", "funkcje", "ciagi", "analiza", "trygonometria",
@@ -93,6 +97,11 @@ def main():
                 stats["crop_issue_dropped"] = stats.get("crop_issue_dropped", 0) + 1
                 problems.append({"exam": exam_id, "task": key, "problem": "crop issue", "notes": a.get("crop_issue")})
                 continue
+            if REQUIRE_VERIFIED and not a.get("verified"):
+                # full second-opinion pass (VERIFY-FULL.md): only independently re-solved cards ship
+                stats["unverified_dropped"] = stats.get("unverified_dropped", 0) + 1
+                problems.append({"exam": exam_id, "task": key, "problem": "not verified"})
+                continue
             if a.get("confidence") == "low":
                 stats["low_confidence_dropped"] += 1
                 problems.append({"exam": exam_id, "task": key, "problem": "low confidence", "notes": a.get("notes")})
@@ -133,6 +142,9 @@ def main():
                     "conf": a.get("confidence", "high"),
                 }
             )
+            if "has_figure" in a:
+                # English sheet: show the original crop under the translation (else the client guesses)
+                records[-1]["fig"] = bool(a["has_figure"])
             if a.get("statement_en"):
                 statements[exam_id][key] = a["statement_en"].strip()
             stats["included"] += 1
