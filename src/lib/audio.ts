@@ -43,7 +43,8 @@ export type SfxName = keyof typeof SFX;
  * Soundtrack: each mood is a playlist (files in /audio/music/<slug>_kevin-macleod.mp3). The first
  * track opens, the rest play shuffled, reshuffling on wrap. Tracks never use howler's `loop` —
  * with html5 audio that loops on a setTimeout that drifts/gets throttled and leaves the music
- * stopped; advancing on the native `end` event is reliable.
+ * stopped; advancing on the native `end` event is reliable. The music must never go silent: a
+ * failed or interrupted play never disables a playlist, and a watchdog restarts whatever stalled.
  */
 const PLAYLISTS = {
   main: [
@@ -73,7 +74,20 @@ const PLAYLISTS = {
 } as const;
 export type MusicName = keyof typeof PLAYLISTS;
 
-type Channel = { order: string[]; index: number; howl: Howl | null; pauseTimer?: number; failures: number };
+type Channel = {
+  order: string[];
+  index: number;
+  howl: Howl | null;
+  pauseTimer?: number;
+  /** when the last load / play() began, to spot a track that never starts */
+  loadStartedAt: number;
+  /** play() was called and hasn't started yet (a second call would start a second copy) */
+  isPlayQueued: boolean;
+};
+
+/** watchdog period, and how long a track may sit loading before we skip it */
+const WATCHDOG_MS = 2500;
+const LOAD_TIMEOUT_MS = 12_000;
 
 function shuffle<T>(items: T[]): T[] {
   const a = [...items];
@@ -92,6 +106,8 @@ class AudioManager {
   private musicVolume = 0.35;
   private musicRate = 0.9;
   private isUnlocked = false;
+  private lastStartAt = 0;
+  private watchdog?: number;
 
   setVolumes(sfx: number, music: number) {
     this.sfxVolume = sfx;
@@ -125,6 +141,26 @@ class AudioManager {
     this.isUnlocked = true;
     Howler.autoUnlock = true;
     if (this.current) this.startMusic(this.current);
+    this.watchdog ??= window.setInterval(() => this.checkMusic(), WATCHDOG_MS);
+  }
+
+  /** Watchdog: the current playlist should be audible; revive it if a track stalled or got stuck quiet. */
+  private checkMusic() {
+    const name = this.current;
+    if (!name || !this.isUnlocked || this.musicVolume <= 0) return;
+    const ch = this.channel(name);
+    const h = ch.howl;
+    if (!h) return this.startMusic(name);
+    const isStuck = Date.now() - ch.loadStartedAt > LOAD_TIMEOUT_MS;
+    if (h.state() === "loading" || (ch.isPlayQueued && !h.playing())) {
+      if (isStuck) this.nextTrack(name, ch);
+      return;
+    }
+    if (h.state() === "unloaded") return this.nextTrack(name, ch);
+    if (!h.playing()) return this.startMusic(name);
+    // a fade that got cut off (throttled timers, quick screen flips) can leave the track at ~0
+    if (Date.now() - this.lastStartAt > 2000 && Math.abs(h.volume() - this.musicVolume) > 0.02)
+      h.volume(this.musicVolume);
   }
 
   playMusic(name: MusicName) {
@@ -137,7 +173,10 @@ class AudioManager {
       if (ch && p) {
         p.fade(p.volume(), 0, 800);
         window.clearTimeout(ch.pauseTimer);
-        ch.pauseTimer = window.setTimeout(() => p.pause(), 850);
+        ch.pauseTimer = window.setTimeout(() => {
+          p.pause();
+          ch.isPlayQueued = false;
+        }, 850);
       }
     }
     if (this.isUnlocked) this.startMusic(name);
@@ -147,7 +186,7 @@ class AudioManager {
     let ch = this.channels.get(name);
     if (!ch) {
       const [first, ...rest] = PLAYLISTS[name];
-      ch = { order: [first, ...shuffle(rest)], index: 0, howl: null, failures: 0 };
+      ch = { order: [first, ...shuffle(rest)], index: 0, howl: null, loadStartedAt: 0, isPlayQueued: false };
       this.channels.set(name, ch);
     }
     return ch;
@@ -158,19 +197,26 @@ class AudioManager {
       src: [`/audio/music/${ch.order[ch.index]}_kevin-macleod.mp3`],
       html5: true,
       volume: 0,
-      onplay: () => (ch.failures = 0),
+      onplay: () => (ch.isPlayQueued = false),
       onend: () => this.nextTrack(name, ch),
-      onloaderror: () => this.nextTrack(name, ch, true),
-      onplayerror: () => this.nextTrack(name, ch, true),
+      // a missing/broken file skips ahead (after a beat, so an offline page doesn't spin)
+      onloaderror: () => window.setTimeout(() => ch.howl === h && this.nextTrack(name, ch), 1000),
+      // usually a play() interrupted by our own pause (quick screen switch): keep the track, the
+      // watchdog or the next visit resumes it; never treat it as a broken file
+      onplayerror: () => {
+        ch.isPlayQueued = false;
+        if (this.current === name) window.setTimeout(() => this.current === name && this.startMusic(name), 500);
+      },
     });
     ch.howl = h;
+    ch.loadStartedAt = Date.now();
     return h;
   }
 
-  private nextTrack(name: MusicName, ch: Channel, isFailure = false) {
+  private nextTrack(name: MusicName, ch: Channel) {
     ch.howl?.unload();
     ch.howl = null;
-    if (isFailure && ++ch.failures >= ch.order.length) return; // every file broken: stay silent
+    ch.isPlayQueued = false;
     ch.index += 1;
     if (ch.index >= ch.order.length) {
       const last = ch.order[ch.order.length - 1];
@@ -186,8 +232,13 @@ class AudioManager {
     const ch = this.channel(name);
     window.clearTimeout(ch.pauseTimer);
     const h = ch.howl ?? this.load(name, ch);
+    this.lastStartAt = Date.now();
     h.rate(this.musicRate);
-    if (!h.playing()) h.play();
+    if (!h.playing() && !ch.isPlayQueued) {
+      ch.isPlayQueued = true;
+      ch.loadStartedAt = Date.now();
+      h.play();
+    }
     h.fade(h.volume(), this.musicVolume, 1200);
   }
 
