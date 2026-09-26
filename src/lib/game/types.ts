@@ -198,6 +198,8 @@ export type RunStats = {
   rerolls: number;
   bossesBeaten: number;
   moneyEarned: number;
+  /** active play time in ms; gaps between actions are capped so idle/closed tabs don't count */
+  playTimeMs?: number;
 };
 
 export type RunPhase = "blind-select" | "round" | "cashout" | "shop" | "pack" | "gameover" | "won";

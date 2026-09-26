@@ -97,3 +97,8 @@ supabase, vendor): startup ~295 KB gzip vs ~416 KB single bundle.
 Added root `LICENSE` (MIT, code only; third-party assets + CKE content excluded; not-affiliated
 notice). Slimmed root `README.md` to a minimal public readme; moved its only unique facts here:
 Supabase setup steps (`technologies.md`) and F/Esc/Delete controls (`requirements.md`).
+
+## 2026-09-26 — run play time
+
+Added `RunStats.playTimeMs` (active time, 60 s idle cap per action gap), shown as "Play time" /
+"Czas gry" on the Game Over panel. Not submitted to Supabase (would need an RPC/column change).

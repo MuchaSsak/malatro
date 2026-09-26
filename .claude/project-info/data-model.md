@@ -48,6 +48,7 @@ both in `src/lib/game/types.ts` — full field list there. Highlights not obviou
   surviving a page reload with `pending` still set means the UI replays and resolves it rather than
   losing the play.
 - `RunState.plan: BlindPlan` — this ante's Small/Big tag and Boss id, rolled once per ante.
+- `RunStats.playTimeMs?` — active play time; `engine.act` adds the gap since `updatedAt`, capped at 60 s, skipped once phase is `gameover`/`won`. Optional so old saves load (treated as 0). Local only, not sent to `submit_run`.
 
 ## localStorage keys
 

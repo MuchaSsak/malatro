@@ -188,6 +188,7 @@ export function createRun(difficulty: DifficultyMode, seed: string, now: number)
       rerolls: 0,
       bossesBeaten: 0,
       moneyEarned: 0,
+      playTimeMs: 0,
     },
     notes: {},
     known: {},

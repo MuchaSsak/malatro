@@ -12,7 +12,7 @@ import { DIFFICULTIES } from "~/lib/game/constants";
 import { BOSS_BY_ID } from "~/lib/game/content/bosses";
 import { HAND_BY_ID } from "~/lib/game/hands";
 import type { HandTypeId } from "~/lib/game/types";
-import { formatNumber } from "~/lib/utils";
+import { formatDuration, formatNumber } from "~/lib/utils";
 
 type GameOverProps = { onNewRun: () => void; onMainMenu: () => void };
 
@@ -51,6 +51,7 @@ export default function GameOver({ onNewRun, onMainMenu }: GameOverProps) {
     [t`Correct notes`, String(run.stats.correctNotes), "#4BC292"],
     [t`Rerolls`, String(run.stats.rerolls), "#4BC292"],
     [t`Money earned`, `$${run.stats.moneyEarned}`, "#F3B958"],
+    [t`Play time`, formatDuration(run.stats.playTimeMs ?? 0), "#fff"],
     [t`Seed`, run.seed, "#fff"],
   ];
 

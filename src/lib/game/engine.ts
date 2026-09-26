@@ -11,6 +11,9 @@ import type { DifficultyMode, RunState } from "~/lib/game/types";
 
 export const STORAGE_KEY = "malatro_run_v1";
 
+/** longest gap between two actions still counted as play time */
+const IDLE_CAP_MS = 60_000;
+
 export type EngineListener = () => void;
 export type FxListener = (fx: R.Fx) => void;
 
@@ -75,7 +78,12 @@ export class GameEngine {
       throw e;
     }
     draft.rng = rng.state;
-    draft.updatedAt = Date.now();
+    const now = Date.now();
+    if (this.state.phase !== "gameover" && this.state.phase !== "won") {
+      const gap = Math.max(0, Math.min(now - this.state.updatedAt, IDLE_CAP_MS));
+      draft.stats.playTimeMs = (draft.stats.playTimeMs ?? 0) + gap;
+    }
+    draft.updatedAt = now;
     this.commit(draft);
     for (const f of queued) this.emit(f);
     return true;

@@ -50,7 +50,7 @@ msgid "Ante"
 msgstr "Ante"
 
 #. placeholder {0}: run.ante
-#: src/components/game/GameOver.tsx:72
+#: src/components/game/GameOver.tsx:73
 msgid "Ante {0}"
 msgstr "Ante {0}"
 
@@ -105,7 +105,7 @@ msgid "Best hand"
 msgstr "Best hand"
 
 #: src/components/game/BlindSelect.tsx:40
-#: src/components/game/GameOver.tsx:88
+#: src/components/game/GameOver.tsx:89
 #: src/components/game/Sidebar.tsx:81
 msgid "Big Blind"
 msgstr "Big Blind"
@@ -217,11 +217,11 @@ msgstr "CRT effect"
 msgid "Defeated / Skipped"
 msgstr "Defeated / Skipped"
 
-#: src/components/game/GameOver.tsx:86
+#: src/components/game/GameOver.tsx:87
 msgid "Defeated by"
 msgstr "Defeated by"
 
-#: src/components/game/HandArea.tsx:162
+#: src/components/game/HandArea.tsx:164
 msgid "Deselect"
 msgstr "Deselect"
 
@@ -249,7 +249,7 @@ msgstr "e.g. mateusz"
 msgid "Email confirmation is enabled in Supabase - disable it for PIN login"
 msgstr "Email confirmation is enabled in Supabase - disable it for PIN login"
 
-#: src/components/game/GameOver.tsx:107
+#: src/components/game/GameOver.tsx:108
 msgid "Endless Mode"
 msgstr "Endless Mode"
 
@@ -289,7 +289,7 @@ msgstr "Fullscreen (F)"
 msgid "Game"
 msgstr "Game"
 
-#: src/components/game/GameOver.tsx:69
+#: src/components/game/GameOver.tsx:70
 msgid "GAME OVER"
 msgstr "GAME OVER"
 
@@ -367,7 +367,7 @@ msgstr "Loading..."
 msgid "Log in"
 msgstr "Log in"
 
-#: src/components/game/GameOver.tsx:101
+#: src/components/game/GameOver.tsx:102
 msgid "Log in to appear on the leaderboard"
 msgstr "Log in to appear on the leaderboard"
 
@@ -391,7 +391,7 @@ msgstr "Low"
 msgid "Main menu"
 msgstr "Main menu"
 
-#: src/components/game/GameOver.tsx:114
+#: src/components/game/GameOver.tsx:115
 msgid "Main Menu"
 msgstr "Main Menu"
 
@@ -423,7 +423,7 @@ msgstr "Negative: +1 Joker slot"
 msgid "New login? We create the account automatically. Same login next time = your results."
 msgstr "New login? We create the account automatically. Same login next time = your results."
 
-#: src/components/game/GameOver.tsx:111
+#: src/components/game/GameOver.tsx:112
 #: src/screens/MainMenu.tsx:147
 msgid "New Run"
 msgstr "New Run"
@@ -432,7 +432,8 @@ msgstr "New Run"
 msgid "Next Round"
 msgstr "Next Round"
 
-#: src/components/game/HandArea.tsx:150
+#: src/components/game/HandArea.tsx:148
+#: src/components/game/HandArea.tsx:149
 msgid "No answer"
 msgstr "No answer"
 
@@ -515,6 +516,10 @@ msgstr "Play as guest"
 msgid "Play Hand"
 msgstr "Play Hand"
 
+#: src/components/game/GameOver.tsx:54
+msgid "Play time"
+msgstr "Play time"
+
 #: src/screens/MainMenu.tsx:295
 msgid "Player"
 msgstr "Player"
@@ -588,11 +593,11 @@ msgstr "Rules"
 msgid "Run Info"
 msgstr "Run Info"
 
-#: src/components/game/GameOver.tsx:98
+#: src/components/game/GameOver.tsx:99
 msgid "Saved to the leaderboard"
 msgstr "Saved to the leaderboard"
 
-#: src/components/game/GameOver.tsx:96
+#: src/components/game/GameOver.tsx:97
 msgid "Saving to leaderboard..."
 msgstr "Saving to leaderboard..."
 
@@ -605,7 +610,7 @@ msgstr "Score"
 msgid "Score at least"
 msgstr "Score at least"
 
-#: src/components/game/GameOver.tsx:54
+#: src/components/game/GameOver.tsx:55
 msgid "Seed"
 msgstr "Seed"
 
@@ -614,7 +619,7 @@ msgid "Seed (optional)"
 msgstr "Seed (optional)"
 
 #: src/components/game/BlindSelect.tsx:56
-#: src/components/game/HandArea.tsx:162
+#: src/components/game/HandArea.tsx:164
 msgid "Select"
 msgstr "Select"
 
@@ -648,7 +653,7 @@ msgid "Skip Blind"
 msgstr "Skip Blind"
 
 #: src/components/game/BlindSelect.tsx:40
-#: src/components/game/GameOver.tsx:88
+#: src/components/game/GameOver.tsx:89
 #: src/components/game/Sidebar.tsx:81
 msgid "Small Blind"
 msgstr "Small Blind"
@@ -754,7 +759,7 @@ msgstr "Welcome back!"
 msgid "Wrong PIN for this login"
 msgstr "Wrong PIN for this login"
 
-#: src/components/game/GameOver.tsx:69
+#: src/components/game/GameOver.tsx:70
 msgid "YOU WIN!"
 msgstr "YOU WIN!"
 
