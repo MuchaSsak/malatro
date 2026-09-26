@@ -1,0 +1,534 @@
+{
+ "exam": {
+  "id": "f2023-P-2025-sierpien",
+  "formula": "2023",
+  "level": "P",
+  "year": 2025,
+  "session": "sierpien",
+  "month": "08",
+  "code": "MMAP-P0-100-2508",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2025-sierpien-poprawkowa-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2025-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2023-P-2025-sierpien.pdf",
+  "keyFile": "f2023-P-2025-sierpien-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin poprawkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 32,
+  "keyPages": 31,
+  "examBytes": 3367177,
+  "keyBytes": 1705547
+ },
+ "keyHead": "Rodzaj dokumentu: Zasady oceniania rozwiązań\nzadań\nEgzamin maturalny\nEgzamin:\nMatematyka\nPrzedmiot:\nPoziom podstawowy\nPoziom:\nFormy arkusza:\n19 sierpnia 2025 r.\nTermin egzaminu:\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nUwagi ogólne:\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym\nzapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną\nliczbę punktów.\n3. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do uzyskania\nliczbą punktów za dane zadanie).\nUwaga:\nGdy wymaganie egzaminacyjne dotyczy treści z II etapu edukacyjnego, dopisano „SP”.\nZadanie 1. (0–1)\nWymagania określone w podstawie programowej1\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nWykonywanie obliczeń na liczbach\nI.7) stosuje interpretację […] algebraiczną\nrzeczywistych, także przy użyciu\nwartości bezwzględnej […].\nkalkulatora, stosowanie praw działań\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\n1 Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy\nprogramowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia\n(Dz.U. z 2024 r. poz. 1019).\nZasady oceniania rozwiązań zadań\nZadanie 2. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.4) stosuje […] prawa działań na potęgach\n1. Stosowanie obiektów matematycznych\n[…].\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD\nZadanie 3. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.3) stosuje własności pierwiastków\n1. Stosowanie obiektów matematycznych\ndowolnego stopnia […].\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nZadanie 4. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.9) stosuje związek logarytmowania\n1. Stosowanie obiektów matematycznych\nz potęgowaniem, posługuje się wzorami na\ni operowanie nimi, interpretowanie pojęć\nlogarytm iloczynu, logarytm ilorazu\nmatematycznych.\ni logarytm potęgi.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA\nZadanie 5. (0–2)\nWymaganie ogólne\nWymagania szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nI.2) przeprowadza proste dowody dotyczące\nkilkuetapowych, podawanie argumentów\npodzielności liczb całkowitych i reszt\nuzasadniających poprawność rozumowania,\nz dzielenia […];\nodróżnianie dowodu od przykładu.\nI.4) stosuje […] prawa działań na potęgach\n[…].\nZasady oceniania\n2 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.\n1 pkt – przekształcenie wyrażenia  850 −2145  do postaci  2150 −2145.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\nKorzystamy z własności działań na potęgach i otrzymujemy:\n850 −2145 = (23)50 −2145 = 2150 −2145\nWyłączamy wspólny czynnik przed nawias:\n2150 −2145 = 2145 ⋅(25 −1) = 2145 ⋅31\nLiczba  2145  jest liczbą całkowitą, zatem liczba  850 −2145  jest podzielna przez  31.\nZasady oceniania rozwiązań zadań\nZadanie 6. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nII.1) stosuje wzory skróconego mnożenia\nWykonywanie obliczeń na liczbach\nna:  (𝑎+ 𝑏)2,  (𝑎−𝑏)2,  𝑎2 −𝑏2.\nrzeczywistych, także przy użyciu\nkalkulatora, stosowanie praw działań\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA\nZadanie 7. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.3) rozwiązuje nierówności liniowe z jedną\n1. Stosowanie obiektów matematycznych\nniewiadomą.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nZadanie 8. (0–3)\nWymaganie ogólne\nWymagania szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.1) przekształca równania i nierówności\n1. Stosowanie obiektów matematycznych\nw sposób równoważny, w tym np.\ni operowanie nimi, interpretowanie pojęć\nprzekształca równoważnie równanie\nmatematycznych.\n𝑥 + 1 = 𝑥 + 3\n5\n2𝑥−1;\nIII.4) rozwiązuje równania […] kwadratowe.\nI.6) posługuje się pojęciem przedziału\nliczbowego […].\nZasady oceniania\n3\n5𝑥\n3 pkt – zastosowanie poprawnej metody i rozwiązanie równania\n𝑥 − 8  w zbiorze\n3𝑥 − 7 =\nliczb rzeczywistych  oraz  wskazanie tego rozwiązania równania, które należy do\nprzedziału  (5\n4 , +∞):  𝑥= 4\n.\n3\n3\n5𝑥\n2 pkt – rozwiązanie równania\n𝑥 − 8  w zbiorze liczb rzeczywistych:\n3𝑥 − 7 =\n𝑥= 6\n5  oraz  𝑥= 4\n.\n3\n3\n5𝑥\n1 pkt – przekształcenie równania\n𝑥 − 8  do równania kwadratowego, np.\n3𝑥 − 7 =\n3(𝑥−8) = 5𝑥(3𝑥−7).\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający popełni błędy rachunkowe przy przekształcaniu równania i otrzyma\nrównanie kwadratowe postaci  𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0, które ma co najmniej jedno rozwiązanie\nrzeczywiste i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 2 punkty za całe\nrozwiązanie.\n2. Jeżeli zdający nie spełni kryterium za 1 punkt, a przy przekształcaniu równania popełnia\nbłędy i otrzyma równanie kwadratowe postaci  𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0, które nie ma rozwiązań\nrzeczywistych, albo otrzyma równanie, które nie jest kwadratowe, to otrzymuje 0 punktów\nza całe rozwiązanie.\n3. Jeżeli zdający, przekształcając równanie wymierne do równania kwadratowego, zastosuje\nbłędną metodę - np. zapisze  15𝑥= (3𝑥−7)(𝑥−8), to otrzymuje 0 punktów za całe\nrozwiązanie.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nPrzekształcamy równanie:\n3\n5𝑥\n𝑥−8\n3𝑥−7 =\n3(𝑥−8) = 5𝑥(3𝑥−7)\nRozwiązujemy otrzymane równanie kwadratowe:\n3𝑥−24 = 15𝑥2 −35𝑥\n15𝑥2 −38𝑥+ 24 = 0\nObliczamy wyróżnik  Δ  trójmianu kwadratowego  15𝑥2 −38𝑥+ 24:\nΔ = (−38)2 −4 ⋅15 ⋅24 = 1444 −1440 = 4\nStąd:\n𝑥1 = −(−38) −√4\n= 6\n5 ∉(5\n4 , +∞)\n2 ⋅15\n𝑥2 = −(−38) + √4\n= 4\n3 ∈(5\n4 , +∞)\n2 ⋅15\nPonadto  4\n3 ≠7\n3  oraz  4\n3\n5𝑥\n3 ≠8. Zatem jedynym rozwiązaniem równania\n𝑥 − 8\n3𝑥 − 7 =\nw zbiorze  (5\n4 , +∞)  jest liczba  4\n3 .\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nZadanie 9. (0–2)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.4) rozwiązuje […] nierówności\n1. Stosowanie obiektów matematycznych\nkwadratowe.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody i zapisanie zbioru rozwiązań nierówności:\n𝑥∈(−3, 1)\nALBO\n– zastosowanie poprawnej metody i przedstawienie zbioru rozwiązań nierówności\nw postaci graficznej z poprawnie zaznaczonymi końcami przedziału, np.\n−3\n1\n𝑥\n1 pkt – obliczenie/zapisanie pierwiastków trój",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/1.webp",
+   "size": [
+    919,
+    209
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  |√5 −3| + |√5 −1|  jest równa\nA.  2√5 −4\nB.  2√5 + 4\nC.  2\nD.  4",
+   "key": "Zadanie 1. (0–1)\nWymagania określone w podstawie programowej1\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nWykonywanie obliczeń na liczbach\nI.7) stosuje interpretację […] algebraiczną\nrzeczywistych, także przy użyciu\nwartości bezwzględnej […].\nkalkulatora, stosowanie praw działań\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\n1 Rozporządzenie Ministra Edukacji z dnia 28 czerwca 2024 r. zmieniające rozporządzenie w sprawie podstawy\nprogramowej kształcenia ogólnego dla liceum ogólnokształcącego, technikum oraz branżowej szkoły II stopnia\n(Dz.U. z 2024 r. poz. 1019).\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/2.webp",
+   "size": [
+    919,
+    233
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  25−2\n125−4  jest równa\nA.  5−16\nB.  5−2\nC.  54\nD.  58",
+   "key": "Zadanie 2. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.4) stosuje […] prawa działań na potęgach\n1. Stosowanie obiektów matematycznych\n[…].\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/3.webp",
+   "size": [
+    919,
+    206
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n3\n3\nLiczba  √24\n+ √192\njest równa\n3\n3\n3\nA.  6\nB.  3√6\nC.  6√3\nD.  6√6",
+   "key": "Zadanie 3. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.3) stosuje własności pierwiastków\n1. Stosowanie obiektów matematycznych\ndowolnego stopnia […].\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/4.webp",
+   "size": [
+    919,
+    217
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  log3 2 −log3 18  jest równa\nC.  1\nB.  (−1\nA.  (−2)\n2)\n2\nD.  2",
+   "key": "Zadanie 4. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.9) stosuje związek logarytmowania\n1. Stosowanie obiektów matematycznych\nz potęgowaniem, posługuje się wzorami na\ni operowanie nimi, interpretowanie pojęć\nlogarytm iloczynu, logarytm ilorazu\nmatematycznych.\ni logarytm potęgi.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2025-sierpien/5.webp",
+   "size": [
+    958,
+    85
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–2)\nWykaż, że liczba  𝟖𝟓𝟎−𝟐𝟏𝟒𝟓  jest podzielna przez  𝟑𝟏.",
+   "key": "Zadanie 5. (0–2)\nWymaganie ogólne\nWymagania szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nI.2) przeprowadza proste dowody dotyczące\nkilkuetapowych, podawanie argumentów\npodzielności liczb całkowitych i reszt\nuzasadniających poprawność rozumowania,\nz dzielenia […];\nodróżnianie dowodu od przykładu.\nI.4) stosuje […] prawa działań na potęgach\n[…].\nZasady oceniania\n2 pkt – poprawne przekształcenia i przeprowadzenie pełnego rozumowania.\n1 pkt – przekształcenie wyrażenia  850 −2145  do postaci  2150 −2145.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\nKorzystamy z własności działań na potęgach i otrzymujemy:\n850 −2145 = (23)50 −2145 = 2150 −2145\nWyłączamy wspólny czynnik przed nawias:\n2150 −2145 = 2145 ⋅(25 −1) = 2145 ⋅31\nLiczba  2145  jest liczbą całkowitą, zatem liczba  850 −2145  jest podzielna przez  31.\nZasady oceniania rozwiązań zadań\nZadanie 5.\n1 pkt – przekształcenie wyrażenia  850 −2145  do postaci  (23)50 −2145."
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/6.webp",
+   "size": [
+    919,
+    233
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDla każdej liczby rzeczywistej  𝑥  i dla każdej liczby rzeczywistej  𝑦  wartość wyrażenia\n(3𝑥+ 𝑦)2 −(3𝑥−𝑦)2  jest równa wartości wyrażenia\nA.  12𝑥𝑦\nB.  (−12𝑥𝑦)\nC.  2𝑦2\nD.  4𝑦2",
+   "key": "Zadanie 6. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nII.1) stosuje wzory skróconego mnożenia\nWykonywanie obliczeń na liczbach\nna:  (𝑎+ 𝑏)2,  (𝑎−𝑏)2,  𝑎2 −𝑏2.\nrzeczywistych, także przy użyciu\nkalkulatora, stosowanie praw działań\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/7.webp",
+   "size": [
+    919,
+    329
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nZbiorem wszystkich rozwiązań nierówności\n3 −𝑥≥5𝑥−1\n2\njest przedział\nB.  (−∞, 7\nD.  [7\nA.  (−∞, 1]\n6]\nC.  [1, +∞)\n6 , +∞)",
+   "key": "Zadanie 7. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.3) rozwiązuje nierówności liniowe z jedną\n1. Stosowanie obiektów matematycznych\nniewiadomą.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 3,
+   "image": "f2023-P-2025-sierpien/8.webp",
+   "size": [
+    919,
+    243
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–3)\nDane jest równanie\n3\n𝑥−8 ,   gdzie   𝑥≠7\n5𝑥\n3   i   𝑥≠8.\n3𝑥−7 =\nWyznacz wszystkie rozwiązania tego równania należące do przedziału  (𝟓\n𝟒, +∞).\nZapisz obliczenia.",
+   "key": "Zadanie 8. (0–3)\nWymaganie ogólne\nWymagania szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.1) przekształca równania i nierówności\n1. Stosowanie obiektów matematycznych\nw sposób równoważny, w tym np.\ni operowanie nimi, interpretowanie pojęć\nprzekształca równoważnie równanie\nmatematycznych.\n𝑥 + 1 = 𝑥 + 3\n5\n2𝑥−1;\nIII.4) rozwiązuje równania […] kwadratowe.\nI.6) posługuje się pojęciem przedziału\nliczbowego […].\nZasady oceniania\n3\n5𝑥\n3 pkt – zastosowanie poprawnej metody i rozwiązanie równania\n𝑥 − 8  w zbiorze\n3𝑥 − 7 =\nliczb rzeczywistych  oraz  wskazanie tego rozwiązania równania, które należy do\nprzedziału  (5\n4 , +∞):  𝑥= 4\n.\n3\n3\n5𝑥\n2 pkt – rozwiązanie równania\n𝑥 − 8  w zbiorze liczb rzeczywistych:\n3𝑥 − 7 =\n𝑥= 6\n5  oraz  𝑥= 4\n.\n3\n3\n5𝑥\n1 pkt – przekształcenie równania\n𝑥 − 8  do równania kwadratowego, np.\n3𝑥 − 7 =\n3(𝑥−8) = 5𝑥(3𝑥−7).\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający popełni błędy rachunkowe przy przekształcaniu równania i otrzyma\nrównanie kwadratowe postaci  𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0, które ma co najmniej jedno rozwiązanie\nrzeczywiste i konsekwentnie rozwiąże zadanie do końca, to otrzymuje 2 punkty za całe\nrozwiązanie.\n2. Jeżeli zdający nie spełni kryterium za 1 punkt, a przy przekształcaniu równania popełnia\nbłędy i otrzyma równanie kwadratowe postaci  𝑎𝑥2 + 𝑏𝑥+ 𝑐= 0, które nie ma rozwiązań\nrzeczywistych, albo otrzyma równanie, które nie jest kwadratowe, to otrzymuje 0 punktów\nza całe rozwiązanie.\n3. Jeżeli zdający, przekształcając równanie wymierne do równania kwadratowego, zastosuje\nbłędną metodę - np. zapisze  15𝑥= (3𝑥−7)(𝑥−8), to otrzymuje 0 punktów za całe\nrozwiązanie.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nPrzekształcamy równanie:\n3\n5𝑥\n𝑥−8\n3𝑥−7 =\n3(𝑥−8) = 5𝑥(3𝑥−7)\nRozwiązujemy otrzymane równanie kwadratowe:\n3𝑥−24 = 15𝑥2 −35𝑥\n15𝑥2 −38𝑥+ 24 = 0\nObliczamy wyróżnik  Δ  trójmianu kwadratowego  15𝑥2 −38𝑥+ 24:\nΔ = (−38)2 −4 ⋅15 ⋅24 = 1444 −1440 = 4\nStąd:\n𝑥1 = −(−38) −√4\n= 6\n5 ∉(5\n4 , +∞)\n2 ⋅15\n𝑥2 = −(−38) + √4\n= 4\n3 ∈(5\n4 , +∞)\n2 ⋅15\nPonadto  4\n3 ≠7\n3  oraz  4\n3\n5𝑥\n3 ≠8. Zatem jedynym rozwiązaniem równania\n𝑥 − 8\n3𝑥 − 7 =\nw zbiorze  (5\n4 , +∞)  jest liczba  4\n3 .\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nZadanie 8.\nUwaga:\n3𝑥−7 = 5𝑥\n3\nJeżeli zdający popełnia błąd przy przekształceniu równania\n𝑥−8  do postaci\nrównania kwadratowego, lecz dalej stosuje poprawną metodę rozwiązania otrzymanego\nrównania kwadratowego i konsekwentnie oblicza pierwiastki tego równania, to może\notrzymać 1 punkt za całe rozwiązanie."
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2025-sierpien/9.webp",
+   "size": [
+    919,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–2)\nRozwiąż nierówność\n−𝟑𝒙𝟐> 𝟔𝒙−𝟗\nZapisz obliczenia.",
+   "key": "Zadanie 9. (0–2)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.4) rozwiązuje […] nierówności\n1. Stosowanie obiektów matematycznych\nkwadratowe.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody i zapisanie zbioru rozwiązań nierówności:\n𝑥∈(−3, 1)\nALBO\n– zastosowanie poprawnej metody i przedstawienie zbioru rozwiązań nierówności\nw postaci graficznej z poprawnie zaznaczonymi końcami przedziału, np.\n−3\n1\n𝑥\n1 pkt – obliczenie/zapisanie pierwiastków trójmianu kwadratowego  −3𝑥2 −6𝑥+ 9:\n𝑥1 = −3  oraz  𝑥2 = 1 .\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający, obliczając pierwiastki trójmianu  −3𝑥2 −6𝑥+ 9, popełni błędy (ale\notrzyma dwa różne pierwiastki) i konsekwentnie do popełnionych błędów zapisze zbiór\nrozwiązań nierówności, to otrzymuje 1 punkt za całe rozwiązanie.\n2. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego, w przypadku gdy błędnie\nobliczony przez zdającego wyróżnik  Δ  jest ujemny, to otrzymuje 0 punktów za całe\nrozwiązanie.\n3. Jeżeli zdający rozpatruje inny niż podany w zadaniu trójmian kwadratowy, który nie wynika\nz błędu przekształcenia (np.  −3𝑥2 −6𝑥), i w konsekwencji rozpatruje inną nierówność\n(np.  −3𝑥2 −6𝑥> 0), to otrzymuje 0 punktów za całe rozwiązanie.\n4. Jeżeli zdający poda zbiór rozwiązań w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziału i jednocześnie zapisze niewłaściwy przedział jako zbiór rozwiązań\n(np.  𝑥∈[−3, 1]), to otrzymuje 1 punkt za całe rozwiązanie.\nKryteria uwzględniające specyficzne trudności w uczeniu się matematyki\nJeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności\nw postaci  (1, −3), to otrzymuje 2 punkty.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nPrzekształcamy nierówność:\n−3𝑥2 > 6𝑥−9\n−3𝑥2 −6𝑥+ 9 > 0   /: (−3)\n𝑥2 + 2𝑥−3 < 0\nObliczamy miejsca zerowe funkcji  𝑦= 𝑥2 + 2𝑥−3.\nObliczamy wyróżnik trójmianu  𝑥2 + 2𝑥−3:\nΔ = 22 −4 ⋅1 ⋅(−3) = 16\nStąd:\n𝑥1 = −2 −√16\n= −3     oraz     𝑥2 = −2 + √16\n= 1\n2 ⋅1\n2 ⋅1\nSzkicujemy wykres funkcji  𝑦= 𝑥2 + 2𝑥−3.\nOdczytujemy argumenty, dla których funkcja przyjmuje wartości ujemne.\n−3\n1\n𝑥\nZbiorem rozwiązań nierówności jest przedział  (−3, 1).\nZadanie 9.\n1 pkt – zastosowanie poprawnej metody obliczenia pierwiastków trójmianu kwadratowego\n−3𝑥2 −6𝑥+ 9, tzn. zastosowanie wzorów na pierwiastki trójmianu kwadratowego\ni obliczenie tych pierwiastków\nALBO\n– konsekwentne (do otrzymanego w wyniku popełnienia błędów o charakterze\ndyskalkulicznym ujemnego wyróżnika) narysowanie paraboli,\nALBO\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\n– poprawne rozwiązanie nierówności  −3𝑥2 −6𝑥> 0  (tzn. stosuje się punkt 6.\nogólnych zasad oceniania),\nALBO\n– konsekwentne (do wyznaczonych przez siebie pierwiastków oraz rozpatrywanego\ntrójmianu i nierówności) wyznaczenie zbioru rozwiązań nierówności.\nUwagi:\n1. Jeżeli zdający, rozwiązując nierówność, pomyli porządek liczb na osi liczbowej i zapisze\nzbiór rozwiązań nierówności w postaci  (1, −3), to może otrzymać 2 punkty za całe\nrozwiązanie.\n2. Nie stosuje się uwag 2. i 3. z zasad oceniania arkusza standardowego.\n3. Akceptowane jest zapisanie pierwiastków trójmianu w postaci  𝑎+ 𝑏√𝑐, gdzie  𝑎, 𝑏, 𝑐  są\nliczbami wymiernymi."
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/10.webp",
+   "size": [
+    919,
+    200
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nSuma wszystkich rozwiązań równania  (3𝑥−12)(10 + 5𝑥)(𝑥−3) = 0  jest równa\nA.  (−5)\nB.  (−1)\nC.  5\nD.  9",
+   "key": "Zadanie 10. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.5) rozwiązuje równania wielomianowe\n1. Stosowanie obiektów matematycznych\npostaci  𝑊(𝑥) = 0  dla wielomianów\ni operowanie nimi, interpretowanie pojęć\ndoprowadzonych do postaci iloczynowej.\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2025-sierpien/11.webp",
+   "size": [
+    919,
+    226
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–2)\nWłaściciel restauracji kupił  75  kilogramów pomidorów:  𝑥  kg pomidorów malinowych\nw cenie  11  złotych za kilogram oraz  𝑦  kg pomidorów cherry w cenie  7,98  złotych za\nkilogram. Za pomidory zapłacił łącznie  752,52  złotych.\nOblicz, ile kilogramów pomidorów malinowych kupił właściciel restauracji.\nZapisz obliczenia.",
+   "key": "Zadanie 11. (0–2)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIV.2) stosuje układy równań do\n2. Dobieranie i tworzenie modeli\nrozwiązywania zadań tekstowych.\nmatematycznych przy rozwiązywaniu\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody i poprawny wynik:  51 kg.\n1 pkt – zapisanie układu dwóch równań z dwiema niewiadomymi pozwalającego obliczyć  𝑥\noraz  𝑦, np.\n𝑥+ 𝑦= 75     oraz     11𝑥+ 7,98𝑦= 752,52\nALBO\n– zapisanie równania z jedną niewiadomą pozwalającego obliczyć  𝑥, np.\n11𝑥+ 7,98 ⋅(75 −𝑥) = 752,52,\nALBO\n– zapisanie równania z jedną niewiadomą pozwalającego obliczyć  𝑦, np.\n11 ⋅(75 −𝑦) + 7,98𝑦= 752,52,\nALBO\n– zapisanie różnicy  752,52 −75 ⋅7,98  oraz  zapisanie różnicy  11 −7,98,\nALBO\n– zapisanie różnicy  75 ⋅11 −752,52  oraz  zapisanie różnicy  11 −7,98.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający sprawdza warunki zadania dla wybranych par liczb  𝑥  oraz  𝑦  i wskaże\nwłaściwą odpowiedź, ale nie uzasadni, że jest to jedyne rozwiązanie zadania, to otrzymuje\n1 punkt za całe rozwiązanie.\n2. Jeżeli zdający w rozwiązaniu używa wartości przybliżonych i otrzymuje wynik różny od  51,\nto może otrzymać co najwyżej 1 punkt za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nPo uwzględnieniu warunków zadania otrzymujemy:\n𝑥+ 𝑦= 75     oraz     11𝑥+ 7,98𝑦= 752,52\nZ pierwszego z tych równań wyznaczamy  𝑦= 75 −𝑥  i podstawiamy w miejsce  𝑦  do\ndrugiego z równań, w wyniku czego otrzymujemy:\n11𝑥+ 7,98 ⋅(75 −𝑥) = 752,52\n11𝑥+ 598,5 −7,98𝑥= 752,52\nZasady oceniania rozwiązań zadań\n3,02𝑥= 154,02\n𝑥= 51\nWłaściciel restauracji kupił  51  kilogramów pomidorów malinowych.\nSposób II\nGdyby właściciel restauracji kupił tylko pomidory cherry, to zapłaciłby za nie\n75 ⋅7,98 = 598,50  złotych, a więc o  752,52 −598,50 = 154,02  złotych mniej niż zapłacił\nw rzeczywistości.\nJeden kilogram pomidorów malinowych kosztuje o  11 −7,98 = 3,02  złotych więcej niż\njeden kilogram pomidorów cherry.\nZatem właściciel restauracji kupił  154,02 ∶3,02 = 51  kilogramów pomidorów malinowych.\nZadanie 11.\n1 pkt – zapisanie równania  11𝑥+ 7,98𝑦= 752,52."
+  },
+  {
+   "task": "12.1",
+   "num": 12,
+   "sub": 1,
+   "points": 2,
+   "image": "f2023-P-2025-sierpien/12_1.webp",
+   "size": [
+    949,
+    987
+   ],
+   "stem": "Zadanie 12.\nFunkcja  𝑓  jest określona następująco:\ndla  𝑥∈(−5, −3]\n−2𝑥−10\n𝑓(𝑥) = {\ndla  𝑥∈(−3, 4]\n𝑥−1\nWykres funkcji  𝑦= 𝑓(𝑥)  przedstawiono w kartezjańskim układzie współrzędnych  (𝑥, 𝑦)\nna rysunku poniżej.\n𝑦\n5\n4\n𝑦= 𝑓(𝑥)\n3\n2\n1\n0\n𝑥\n−5\n−4\n−3\n−2\n−1\n1\n2\n3\n4\n5\n−1\n−2\n−3\n−4\n−5",
+   "text": "Zadanie 12.1. (0–2)\nUzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania\nbyły prawdziwe.\n1. Miejscem zerowym funkcji  𝑓  jest liczba  ……… .\n2. Wartość wyrażenia  𝑓(−2) + 3 ⋅𝑓(2)  jest równa  ……… .",
+   "key": "Zadanie 12.1. (0–2)\nWymaganie ogólne\nWymagania szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nV.3) odczytuje i interpretuje wartości funkcji\ninformacjami przedstawionymi w tekście,\nokreślonych za pomocą […] wykresów,\nzarówno matematycznym, jak\nwzorów […];\ni popularnonaukowym, a także w formie\nV.4) odczytuje z wykresu funkcji: […]\nwykresów, diagramów, tabel.\nmiejsca zerowe […].\nZasady oceniania\n2 pkt – poprawne uzupełnienie dwóch zdań.\n1 pkt – poprawne uzupełnienie jednego zdania.\n0 pkt – brak spełnienia powyższych kryteriów.\nRozwiązanie\n1. Miejscem zerowym funkcji  𝑓  jest liczba  1.\n2. Wartość wyrażenia  𝑓(−2) + 3 ⋅𝑓(2)  jest równa  0.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nZadanie 12.1.\nStosuje się zasady oceniania arkusza standardowego."
+  },
+  {
+   "task": "12.2",
+   "num": 12,
+   "sub": 2,
+   "points": 2,
+   "image": "f2023-P-2025-sierpien/12_2.webp",
+   "size": [
+    949,
+    987
+   ],
+   "stem": "Zadanie 12.\nFunkcja  𝑓  jest określona następująco:\ndla  𝑥∈(−5, −3]\n−2𝑥−10\n𝑓(𝑥) = {\ndla  𝑥∈(−3, 4]\n𝑥−1\nWykres funkcji  𝑦= 𝑓(𝑥)  przedstawiono w kartezjańskim układzie współrzędnych  (𝑥, 𝑦)\nna rysunku poniżej.\n𝑦\n5\n4\n𝑦= 𝑓(𝑥)\n3\n2\n1\n0\n𝑥\n−5\n−4\n−3\n−2\n−1\n1\n2\n3\n4\n5\n−1\n−2\n−3\n−4\n−5",
+   "text": "Zadanie 12.2. (0–2)\nUzupełnij zdania. Wpisz odpowiednie przedziały w wykropkowanych miejscach, aby\nzdania były prawdziwe.\n1. Zbiorem wartości funkcji  𝑓  jest przedział  ………………… .\n2. Zbiorem wszystkich rozwiązań nierówności  𝑓(𝑥) < −2  jest przedział  ………………… .",
+   "key": "Zadanie 12.2. (0–2)\nWymaganie ogólne\nWymaganie szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nV.4) odczytuje z wykresu funkcji: […] zbiór\ninformacjami przedstawionymi w tekście,\nwartości, […] przedziały, w których funkcja\nzarówno matematycznym, jak\nprzyjmuje wartości […] mniejsze […] od\ni popularnonaukowym, a także w formie\ndanej liczby […].\nwykresów, diagramów, tabel.\nZasady oceniania\n2 pkt – poprawne uzupełnienie dwóch zdań.\n1 pkt – poprawne uzupełnienie jednego zdania.\n0 pkt – brak spełnienia powyższych kryteriów.\nRozwiązanie\n1. Zbiorem wartości funkcji  𝑓  jest przedział  [−4, 3].\n2. Zbiorem wszystkich rozwiązań nierówności  𝑓(𝑥) < −2  jest przedział  (−4, −1).\nUwaga:\nOdpowiedź zdającego uznajemy za poprawną tylko wtedy, gdy można w sposób\njednoznaczny ustalić, czy zapisany przez zdającego przedział jest otwarty czy domknięty.\nKryteria uwzględniające specyficzne trudności w uczeniu się matematyki\nJeśli zdający pomyli porządek liczb na osi liczbowej przy zachowaniu poprawnych krańców\nprzedziału, np. zapisze, że zbiorem wartości funkcji  𝑓  jest przedział  [3, −4], to otrzymuje\n1 punkt za tak uzupełnione zdanie.\nZadanie 12.2.\nStosuje się zasady oceniania arkusza standardowego."
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/13.webp",
+   "size": [
+    940,
+    514
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–1)\nMiejscem zerowym funkcji liniowej  𝑔  jest liczba  (−3).\nDla argumentu  0  funkcja  𝑔  przyjmuje wartość  (−3\n2).\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nFunkcja  𝑔  jest określona wzorem\nA.  𝑔(𝑥) = −1\n2 𝑥−3\n2\nB.  𝑔(𝑥) = −1\n2 𝑥+ 3\n2\nC.  𝑔(𝑥) = 1\n2 𝑥−3\n2\nD.  𝑔(𝑥) = 1\n2 𝑥+ 3\n2",
+   "key": "Zadanie 13. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nV.6) wyznacza wzór funkcji liniowej na\n1. Stosowanie obiektów matematycznych\npodstawie informacji o jej wykresie lub o jej\ni operowanie nimi, interpretowanie pojęć\nwłasnościach.\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "14.1",
+   "num": 14,
+   "sub": 1,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/14_1.webp",
+   "size": [
+    944,
+    623
+   ],
+   "stem": "Zadanie 14.\nFunkcja kwadratowa  𝑓  jest określona wzorem  𝑓(𝑥) = 1\n2 𝑥2 + 𝑏𝑥+ 𝑐, gdzie  𝑏  oraz  𝑐  są\nliczbami rzeczywistymi. Jednym z miejsc zerowych funkcji  𝑓  jest liczba  6.\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  prosta o równaniu  𝑥= 1  jest osią symetrii\nwykresu funkcji  𝑓.",
+   "text": "Zadanie 14.1. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nFunkcja  𝑓  jest określona wzorem\nA.  𝑓(𝑥) = 1\n2 (𝑥−4)(𝑥−6)\nB.  𝑓(𝑥) = 1\n2 (𝑥−4)(𝑥+ 6)\nC.  𝑓(𝑥) = 1\n2 (𝑥+ 4)(𝑥−6)\nD.  𝑓(𝑥) = 1\n2 (𝑥+ 4)(𝑥+ 6)",
+   "key": "Zadanie 14.1. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nV.9) wyznacza wzór funkcji kwadratowej na\n1. Stosowanie obiektów matematycznych\npodstawie informacji o tej funkcji lub o jej\ni operowanie nimi, interpretowanie pojęć\nwykresie.\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC"
+  },
+  {
+   "task": "14.2",
+   "num": 14,
+   "sub": 2,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/14_2.webp",
+   "size": [
+    944,
+    496
+   ],
+   "stem": "Zadanie 14.\nFunkcja kwadratowa  𝑓  jest określona wzorem  𝑓(𝑥) = 1\n2 𝑥2 + 𝑏𝑥+ 𝑐, gdzie  𝑏  oraz  𝑐  są\nliczbami rzeczywistymi. Jednym z miejsc zerowych funkcji  𝑓  jest liczba  6.\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  prosta o równaniu  𝑥= 1  jest osią symetrii\nwykresu funkcji  𝑓.",
+   "text": "Zadanie 14.2. (0–1)\nOceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\nWspółczynnik  𝑏  we wzorze funkcji  𝑓  jest liczbą dodatnią.\nP\nF\nWspółczynnik  𝑐  we wzorze funkcji  𝑓  jest liczbą dodatnią.\nP\nF",
+   "key": "Zadanie 14.2. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nV.8) interpretuje współczynniki występujące\n1. Stosowanie obiektów matematycznych\nwe wzorze funkcji kwadratowej w postaci\ni operowanie nimi, interpretowanie pojęć\nogólnej, kanonicznej i iloczynowej (jeśli\nmatematycznych.\nistnieje).\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.\nRozwiązanie\nFF\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "14.3",
+   "num": 14,
+   "sub": 3,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/14_3.webp",
+   "size": [
+    944,
+    478
+   ],
+   "stem": "Zadanie 14.\nFunkcja kwadratowa  𝑓  jest określona wzorem  𝑓(𝑥) = 1\n2 𝑥2 + 𝑏𝑥+ 𝑐, gdzie  𝑏  oraz  𝑐  są\nliczbami rzeczywistymi. Jednym z miejsc zerowych funkcji  𝑓  jest liczba  6.\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  prosta o równaniu  𝑥= 1  jest osią symetrii\nwykresu funkcji  𝑓.",
+   "text": "Zadanie 14.3. (0–1)\nFunkcja  𝑔  jest określona dla każdej liczby rzeczywistej  𝑥  wzorem  𝑔(𝑥) = 𝑓(𝑥−3).\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nOsią symetrii wykresu funkcji  𝑔  jest prosta o równaniu\nA.  𝑥= −2\nB.  𝑥= 1\nC.  𝑥= 3\nD.  𝑥= 4",
+   "key": "Zadanie 14.3. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nV.12) na podstawie wykresu funkcji\n1. Stosowanie obiektów matematycznych\n𝑦= 𝑓(𝑥)  szkicuje wykresy funkcji\ni operowanie nimi, interpretowanie pojęć\n𝑦= 𝑓(𝑥−𝑎),  𝑦= 𝑓(𝑥) + 𝑏.\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/15.webp",
+   "size": [
+    919,
+    292
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\nCiąg  (𝑎𝑛)  jest określony wzorem  𝑎𝑛= 32 ⋅ (−1)𝑛\ndla każdej liczby naturalnej  𝑛≥1.\n2𝑛−1\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nSzósty wyraz ciągu  (𝑎𝑛)  jest równy\nA.  (−2)\nB.  (−1)\nC.  1\nD.  2",
+   "key": "Zadanie 15. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVI.1) oblicza wyrazy ciągu określonego\n1. Stosowanie obiektów matematycznych\nwzorem ogólnym.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/16.webp",
+   "size": [
+    919,
+    294
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\nCiąg arytmetyczny  (𝑎𝑛)  jest określony dla każdej liczby naturalnej  𝑛≥1.\nRóżnica tego ciągu jest równa  (−4)  oraz  𝑎10 = −24.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nSzósty wyraz ciągu  (𝑎𝑛)  jest równy\nA.  (−12)\nB.  (−8)\nC.  (−4)\nD.  0",
+   "key": "Zadanie 16. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVI.5) stosuje wzór na 𝑛-ty wyraz […] ciągu\n1. Stosowanie obiektów matematycznych\narytmetycznego.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nB"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/17.webp",
+   "size": [
+    919,
+    344
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–1)\nCiąg geometryczny  (𝑎𝑛), o wszystkich wyrazach rzeczywistych różnych od  0, jest\nokreślony dla każdej liczby naturalnej  𝑛≥1.\nWyrazy tego ciągu spełniają warunek  𝑎3 = −8 ⋅𝑎6 .\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nIloraz ciągu  (𝑎𝑛)  jest równy\nB.  (−1\nC.  1\nA.  (−2)\n2)\n2\nD.  2",
+   "key": "Zadanie 17. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVI.6) stosuje wzór na 𝑛-ty wyraz […] ciągu\n1. Stosowanie obiektów matematycznych\ngeometrycznego.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nB\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/18.webp",
+   "size": [
+    919,
+    440
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\nTrzywyrazowy ciąg  (√5, 1, 𝑥)  jest arytmetyczny.\nTrzywyrazowy ciąg  (√5, 1, 𝑦)  jest geometryczny.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczby  𝑥  oraz  𝑦  spełniają warunki\nA.  𝑥< 0    i   𝑦< 0\nB.  𝑥< 0   i   𝑦> 0\nC.  𝑥> 0    i   𝑦< 0\nD.  𝑥> 0   i   𝑦> 0",
+   "key": "Zadanie 18. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVI.7) wykorzystuje własności ciągów, w tym\n1. Stosowanie obiektów matematycznych\narytmetycznych i geometrycznych, do\ni operowanie nimi, interpretowanie pojęć\nrozwiązywania zadań […].\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nB"
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/19.webp",
+   "size": [
+    919,
+    297
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nKąt  𝛼  jest ostry oraz  cos 𝛼= 5\n.\n13\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nTangens kąta  𝛼  jest równy\nA.  5\nB.  12\nC.  13\nD.  12\n12\n13\n12\n5",
+   "key": "Zadanie 19. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVII.2) korzysta z wzorów\nsin2 𝛼+ cos2 𝛼= 1,  tg 𝛼= sin𝛼\n1. Stosowanie obiektów matematycznych\n.\ncos𝛼\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/20.webp",
+   "size": [
+    919,
+    222
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  sin 30° ⋅cos 60° + sin 60° ⋅cos 30°  jest równa\nA.  1\n√2\n√3\n2\n2\n2\nB.\nC.\nD.  1",
+   "key": "Zadanie 20. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVII.1) wykorzystuje definicje funkcji: sinus,\n1. Stosowanie obiektów matematycznych\ncosinus […] dla kątów od  0°  do  180°,\ni operowanie nimi, interpretowanie pojęć\nw szczególności wyznacza wartości funkcji\nmatematycznych.\ntrygonometrycznych dla kątów  30°, 45°,\n60°.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD"
+  },
+  {
+   "task": "21.1",
+   "num": 21,
+   "sub": 1,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/21_1.webp",
+   "size": [
+    919,
+    776
+   ],
+   "stem": "Zadanie 21.\nPunkty  𝐴,  𝐵,  𝐶  oraz  𝐷  leżą na okręgu o środku w punkcie  𝑆  i o promieniu  36.\nPunkt  𝑆  leży na odcinku  𝐵𝐷. Kąt  𝐵𝐷𝐴  ma miarę  40°, a kąt  𝐷𝐵𝐶  ma miarę  65°\n(zobacz rysunek).\n𝐷\n40°\n𝑆\n36\n𝐴\n𝐶\n65°\n𝐵",
+   "text": "Zadanie 21.1. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nMiara kąta ostrego  𝐵𝑆𝐴  jest równa\nA.  20°\nB.  40°\nC.  50°\nD.  80°",
+   "key": "Zadanie 21.1. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nVIII.5) stosuje własności kątów wpisanych\nkilkuetapowych, podawanie argumentów\ni środkowych.\nuzasadniających poprawność rozumowania,\nodróżnianie dowodu od przykładu.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "21.2",
+   "num": 21,
+   "sub": 2,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/21_2.webp",
+   "size": [
+    919,
+    776
+   ],
+   "stem": "Zadanie 21.\nPunkty  𝐴,  𝐵,  𝐶  oraz  𝐷  leżą na okręgu o środku w punkcie  𝑆  i o promieniu  36.\nPunkt  𝑆  leży na odcinku  𝐵𝐷. Kąt  𝐵𝐷𝐴  ma miarę  40°, a kąt  𝐷𝐵𝐶  ma miarę  65°\n(zobacz rysunek).\n𝐷\n40°\n𝑆\n36\n𝐴\n𝐶\n65°\n𝐵",
+   "text": "Zadanie 21.2. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDługość łuku  𝐵𝐶, na którym jest oparty kąt wpisany  𝐶𝐷𝐵, jest równa\nA.  8𝜋\nB.  10𝜋\nC.  13𝜋\nD.  20𝜋",
+   "key": "Zadanie 21.2. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nVIII.6) stosuje wzory na […] długość łuku\nkilkuetapowych, podawanie argumentów\nokręgu.\nuzasadniających poprawność rozumowania,\nodróżnianie dowodu od przykładu.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nB"
+  },
+  {
+   "task": "22.1",
+   "num": 22,
+   "sub": 1,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/22_1.webp",
+   "size": [
+    919,
+    589
+   ],
+   "stem": "Zadanie 22.\nDany jest trójkąt  𝐴𝐵𝐶, w którym  |𝐴𝐵| = 6,  |𝐴𝐶| = 4  oraz  |∡𝐶𝐴𝐵| = 60°  (zobacz\nrysunek).\n𝐶\n4\n60°\n𝐴\n6\n𝐵",
+   "text": "Zadanie 22.1. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nPole trójkąta  𝐴𝐵𝐶  jest równe\nA.  6\nB.  6√3\nC.  12\nD.  12√3",
+   "key": "Zadanie 22.1. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVII.3) stosuje […] wzór na pole trójkąta\n1. Stosowanie obiektów matematycznych\n𝑃= 1\n2 ⋅𝑎⋅𝑏⋅sin 𝛾.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nB\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "22.2",
+   "num": 22,
+   "sub": 2,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/22_2.webp",
+   "size": [
+    919,
+    589
+   ],
+   "stem": "Zadanie 22.\nDany jest trójkąt  𝐴𝐵𝐶, w którym  |𝐴𝐵| = 6,  |𝐴𝐶| = 4  oraz  |∡𝐶𝐴𝐵| = 60°  (zobacz\nrysunek).\n𝐶\n4\n60°\n𝐴\n6\n𝐵",
+   "text": "Zadanie 22.2. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDługość boku  𝐵𝐶  trójkąta  𝐴𝐵𝐶  jest równa\nA.  √28\nB.  √40\nC.  8\nD.  √76",
+   "key": "Zadanie 22.2. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVII.3) stosuje twierdzenie cosinusów […].\n1. Stosowanie obiektów matematycznych\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA"
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/23.webp",
+   "size": [
+    930,
+    663
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nDany jest trapez  𝐴𝐵𝐶𝐷  o podstawach  𝐴𝐵  i  𝐶𝐷  takich, że  |𝐴𝐵| = 2 ⋅|𝐶𝐷|.\nPrzekątne  𝐴𝐶  i  𝐵𝐷  przecinają się w punkcie  𝐸  (zobacz rysunek).\n𝐷\n𝐶\n𝐸\n𝐵\n𝐴\nOceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\nPola trójkątów  𝐵𝐶𝐸  oraz  𝐴𝐸𝐷  są równe.\nP\nF\nP\nF\nPole trójkąta  𝐴𝐵𝐸  jest dwa razy większe od pola trójkąta  𝐶𝐷𝐸.",
+   "key": "Zadanie 23. (0–1)\nWymaganie ogólne\nWymagania szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nVIII.4) korzysta z własności […] przekątnych\nkilkuetapowych, podawanie argumentów\nw […] trapezach;\nuzasadniających poprawność rozumowania,\nVIII.8) korzysta z cech podobieństwa\nodróżnianie dowodu od przykładu.\ntrójkątów;\nVIII.9) wykorzystuje zależności między\nobwodami oraz między polami figur\npodobnych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.\nRozwiązanie\nPF\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/24.webp",
+   "size": [
+    943,
+    323
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–1)\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  proste  𝑘  oraz  𝑙  są określone równaniami\n𝑘:  𝑦= (3 −𝑚)𝑥+ 5\n𝑙:   𝑦= (𝑚+ 3)𝑥−4\nUzupełnij zdanie. Wpisz odpowiednią liczbę w wykropkowanym miejscu, aby zdanie\nbyło prawdziwe.\nProste  𝑘  oraz  𝑙  są równoległe, gdy liczba  𝑚  jest równa  ……… .",
+   "key": "Zadanie 24. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIX.2) posługuje się równaniami prostych na\n1. Stosowanie obiektów matematycznych\npłaszczyźnie, w postaci kierunkowej […],\ni operowanie nimi, interpretowanie pojęć\nw tym wyznacza równanie prostej\nmatematycznych.\no zadanych własnościach (takich, jak np.\n[…] równoległość do innej prostej).\nZasady oceniania\n1 pkt – poprawne uzupełnienie zdania.\n0 pkt – brak spełnienia powyższego kryterium.\nRozwiązanie\nProste  𝑘  oraz  𝑙  są równoległe, gdy liczba  𝑚  jest równa  0.\nZadanie 24.\nStosuje się zasady oceniania arkusza standardowego."
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/25.webp",
+   "size": [
+    930,
+    386
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (0–1)\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  dany jest okrąg  𝒪  o równaniu\n𝒪:  (𝑥−1)2 + (𝑦+ 3)2 = 4\nOceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\nP\nF\nOkrąg  𝒪  nie ma punktów wspólnych z osią  𝑂𝑥  układu współrzędnych.\nOkrąg  𝒪  ma z osią  𝑂𝑦  układu współrzędnych dokładnie dwa punkty wspólne.\nP\nF",
+   "key": "Zadanie 25. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIX.4) posługuje się równaniem okręgu\n(𝑥−𝑎)2 + (𝑦−𝑏)2 = 𝑟2.\n1. Stosowanie obiektów matematycznych\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.\nRozwiązanie\nPP\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 4,
+   "image": "f2023-P-2025-sierpien/26.webp",
+   "size": [
+    942,
+    935
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (0–4)\nDany jest graniastosłup prawidłowy trójkątny  𝐴𝐵𝐶𝐷𝐸𝐹. Wysokość podstawy  𝐴𝐵𝐶  jest\nrówna  2√3. Przekątna  𝐴𝐸  ściany bocznej  𝐴𝐵𝐸𝐷  tworzy z krawędzią  𝐴𝐵  kąt o mierze  60°\n(zobacz rysunek).\n𝐹\n𝐸\n𝐷\n𝐶\n2ξ3\n60°\n𝐴\n𝐵\nOblicz objętość i pole powierzchni całkowitej tego graniastosłupa. Zapisz obliczenia.",
+   "key": "Zadanie 26. (0–4)\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n4. Stosowanie i tworzenie strategii przy\nX.5) oblicza objętości i pola powierzchni\nrozwiązywaniu zadań, również w sytuacjach\ngraniastosłupów […], również\nnietypowych.\nz wykorzystaniem trygonometrii.\nZasady oceniania\n4 pkt – poprawna metoda obliczenia objętości i pola powierzchni całkowitej graniastosłupa\noraz  poprawne wyniki:  𝑉= 48  i  𝑃𝑐= 56√3.\n3 pkt – obliczenie objętości graniastosłupa:  𝑉= 48,\nALBO\n– obliczenie pola powierzchni całkowitej graniastosłupa:  𝑃𝑐= 56√3.\n2 pkt – obliczenie długości krawędzi podstawy:  𝑎= 4  oraz  obliczenie wysokości\ngraniastosłupa:  𝐻= 4√3,\nALBO\n– zapisanie wzoru na objętość graniastosłupa w zależności od jednej zmiennej, np.\n𝑉= 𝑎2 ⋅ √3\n⋅𝑎√3,  oraz  zapisanie wzoru na pole powierzchni całkowitej\n4\ngraniastosłupa w zależności od jednej zmiennej, np.  𝑃𝑐= 2 ⋅𝑎2 ⋅ √3\n+ 3 ⋅𝑎⋅𝑎√3.\n4\n1 pkt – obliczenie długości krawędzi podstawy:  𝑎= 4,\nALBO\n– zapisanie zależności pomiędzy długością krawędzi podstawy a wysokością\ngraniastosłupa, np.:  tg 60° = 𝐻\n,  𝐻= 𝑎√3.\n𝑎\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli jedynym błędem zdającego jest:\na) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej,\nb) błędne zastosowanie twierdzenia Pitagorasa,\nc) błędne zastosowanie twierdzenia cosinusów,\nd) zastosowanie niepoprawnej tożsamości  √𝑥2 + 𝑦2 = 𝑥+ 𝑦,\nlub\ne) błędne zastosowanie własności trójkąta o kątach  30°,  60°,  90°,\ni rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać\nco najwyżej 2 punkty za całe rozwiązanie (za konsekwentne obliczenie objętości i pola\npowierzchni całkowitej graniastosłupa).\nJeżeli zdający popełni więcej niż jeden z wymienionych błędów a)–e), to otrzymuje\n0 punktów za całe rozwiązanie, o ile nie nabył prawa do innej liczby punktów.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\n2. Jeżeli zdający popełni błąd, który nie jest błędem rachunkowym, ale otrzyma długość\nkrawędzi podstawy większą od  2√3, to może otrzymać co najwyżej 2 punkty za całe\nrozwiązanie (za konsekwentne obliczenie objętości i pola powierzchni całkowitej\ngraniastosłupa).\nPrzykładowe pełne rozwiązanie\nPrzyjmujemy oznaczenia jak na rysunku:\n𝑎 – długość krawędzi podstawy,\n𝐻 – wysokość graniastosłupa.\n𝐹\n𝐷\n𝐸\n𝐻\n𝐶\n2ξ3\n60°\n𝐴\n𝑎\n𝐵\nZauważamy, że  𝑎> 0  i  𝐻> 0.\nPodstawą graniastosłupa jest trójkąt równoboczny, stąd:\n2√3 = 𝑎√3\n2\nZatem:\n𝑎= 4\nObliczamy wysokość  𝐻  graniastosłupa:\ntg 60° = 𝐻\n𝑎= 𝐻\n4\nZasady oceniania rozwiązań zadań\nStąd:\n𝐻= 4 ⋅tg 60° = 4√3\nObliczamy objętość  𝑉  graniastosłupa:\n𝑉= 𝑎2 ⋅√3\n⋅𝐻= 42 ⋅√3\n⋅4√3 = 4√3 ⋅4√3 = 48\n4\n4\nObliczamy pole powierzchni całkowitej  𝑃𝑐  graniastosłupa:\n𝑃𝑐= 2 ⋅𝑎2 ⋅√3\n+ 3 ⋅𝑎⋅𝐻= 2 ⋅42 ⋅√3\n+ 3 ⋅4 ⋅4√3 = 8√3 + 48√3 = 56√3\n4\n4\nZadanie 26.\n2 pkt – zapisanie wzoru na objętość graniastosłupa w zależności od jednej zmiennej, np.\n𝑉= 𝑎2 ⋅ √3\n⋅𝑎√3,  LUB  zapisanie wzoru na pole powierzchni całkowitej\n4\ngraniastosłupa w zależności od jednej zmiennej, np.  𝑃𝑐= 2 ⋅𝑎2 ⋅ √3\n+ 3 ⋅𝑎⋅𝑎√3.\n4"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/27.webp",
+   "size": [
+    919,
+    253
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–1)\nObjętość walca o promieniu podstawy  2  jest równa  16𝜋2.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWysokość tego walca jest równa\nD.  4𝜋\nA.  2\nB.  4\nC.  2𝜋",
+   "key": "Zadanie 27. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nX.5) oblicza objętości […] walca […].\n1. Stosowanie obiektów matematycznych\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD"
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2025-sierpien/28.webp",
+   "size": [
+    919,
+    227
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWszystkich trzycyfrowych liczb naturalnych większych od  500, w których zapisie\ndziesiętnym występują tylko cyfry nieparzyste, jest\nA.  13\nB.  50\nC.  75\nD.  107",
+   "key": "Zadanie 28. (0–1)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nXI.2) zlicza obiekty, stosując reguły\n2. Dobieranie i tworzenie modeli\nmnożenia i dodawania […].\nmatematycznych przy rozwiązywaniu\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2025-sierpien/29.webp",
+   "size": [
+    947,
+    290
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–2)\nDoświadczenie losowe polega na dwukrotnym rzucie symetryczną sześcienną kostką do gry,\nktóra na każdej ściance ma inną liczbę oczek – od jednego oczka do sześciu oczek.\nZapisujemy kolejno liczby wyrzuconych oczek i w ten sposób otrzymujemy liczbę\ndwucyfrową, przy czym pierwsza wyrzucona liczba oczek jest cyfrą dziesiątek, a druga –\ncyfrą jedności tej liczby dwucyfrowej.\nOblicz prawdopodobieństwo zdarzenia  𝑨  polegającego na tym, że otrzymana w ten\nsposób liczba dwucyfrowa będzie nieparzysta i podzielna przez  𝟑. Zapisz obliczenia.",
+   "key": "Zadanie 29. (0–2)\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nXII.1) oblicza prawdopodobieństwo\n2. Dobieranie i tworzenie modeli\nw modelu klasycznym.\nmatematycznych przy rozwiązywaniu\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody obliczenia prawdopodobieństwa zdarzenia  𝐴\ni uzyskanie poprawnego wyniku:  𝑃(𝐴) = 6\n.\n36\n1 pkt – wypisanie wszystkich zdarzeń elementarnych LUB obliczenie/podanie liczby tych\nzdarzeń:  |Ω| = 6 ⋅6, LUB sporządzenie tabeli o  36  polach odpowiadających\nzdarzeniom elementarnym, LUB sporządzenie pełnego drzewa stochastycznego\nALBO\n– wypisanie (lub zaznaczenie w tabeli) wszystkich zdarzeń elementarnych\nsprzyjających zdarzeniu  𝐴  i  niewypisanie żadnego niewłaściwego,\nALBO\n– podanie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu  𝐴:\n|𝐴| = 6, o ile nie zostały zliczone błędne pary,\nALBO\n– sporządzenie fragmentu drzewa stochastycznego, który zawiera wszystkie gałęzie\nsprzyjające zdarzeniu  𝐴, oraz  zapisanie prawdopodobieństwa na co najmniej\njednym odcinku każdego z etapów doświadczenia,\nALBO\n– podanie prawdopodobieństwa jednoelementowego zdarzenia (elementarnego):  1\n,\n36\nALBO\n– zapisanie tylko  𝑃(𝐴) = 1\n,\n6\nALBO\n– zapisanie tylko  𝑃(𝐴) = 6\n.\n36\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwaga:\nJeżeli zdający zapisuje tylko liczby  1  i  6  (lub  6  i  36) i z rozwiązania nie wynika znaczenie\ntych liczb, to otrzymuje 0 punktów za całe rozwiązanie.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nZdarzeniami elementarnymi są wszystkie uporządkowane pary liczb  (𝑥, 𝑦), gdzie\n𝑥, 𝑦∈{1, 2, 3, 4, 5, 6}.\nW tabeli literą  𝒜  zaznaczamy zdarzenia elementarne sprzyjające zdarzeniu  𝐴.\nII rzut\n𝟔\n𝟏\n𝟐\n𝟑\n𝟒\n𝟓\n𝟏\n𝒜\n𝟐\n𝒜\nI rzut\n𝟑\n𝒜\n𝟒\n𝒜\n𝟓\n𝒜\n𝟔\n𝒜\nMoc zbioru  Ω  jest równa  36. Zdarzeń sprzyjających zdarzeniu  𝐴  jest  6.\nZatem prawdopodobieństwo zdarzenia  𝐴  jest równe  6\n36 = 1\n.\n6\nZadanie 29.\n1 pkt – zapisanie jedynie liczby  36  (należy traktować to jako wyznaczenie liczby wszystkich\nzdarzeń elementarnych).\nUwagi:\n1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi ze\nstandardowych zasad oceniania.\nZasady oceniania rozwiązań zadań\n2. Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające\nzdarzeniu  𝐴, lecz popełni błąd w ich zliczeniu (np. |𝐴| = 5) i konsekwentnie zapisze\nwynik (np. 5\n36), to otrzymuje 2 punkty."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 3,
+   "image": "f2023-P-2025-sierpien/30.webp",
+   "size": [
+    949,
+    1044
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–3)\nW stacji diagnostycznej odnotowywano liczby usterek wykrytych podczas przeglądów\ntechnicznych pięcioletnich samochodów w lipcu 2025 roku.\nWszystkie odnotowane wyniki przedstawiono na poniższym diagramie.\nNa osi poziomej podano liczbę usterek, które zostały wykryte podczas przeglądów,\na na osi pionowej podano liczbę samochodów, w których wykryto daną liczbę usterek.\n18\n16\n14\n12\nliczba\n10\nsamochodów\n8\n6\n4\n2\n0\n1\n2\n3\n4\n5\nliczba usterek\nUzupełnij zdania. Wpisz odpowiednie liczby w wykropkowanych miejscach, aby zdania\nbyły prawdziwe.\n1. Dominanta liczby usterek wykrytych na tej stacji podczas tych przeglądów jest równa\n………… .\n2. Średnia arytmetyczna liczby usterek wykrytych na tej stacji podczas tych przeglądów jest\nrówna  ………… .\n3. Liczba samochodów, w których wykryto podczas tych przeglądów co najmniej dwie\nusterki, stanowi  …………  procent liczby samochodów, w których wykryto dokładnie\njedną usterkę.",
+   "key": "Zadanie 30. (0–3)\nWymaganie ogólne\nWymagania szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nXII.2) oblicza średnią arytmetyczną […],\ninformacjami przedstawionymi w tekście,\nznajduje […] dominantę.\nzarówno matematycznym, jak\nSP V. Obliczenia procentowe.\ni popularnonaukowym, a także w formie\n5) stosuje obliczenia procentowe do\nwykresów, diagramów, tabel.\nrozwiązywania problemów w kontekście\npraktycznym […].\nZasady oceniania\n3 pkt – poprawne uzupełnienie trzech zdań.\n2 pkt – poprawne uzupełnienie dwóch zdań.\n1 pkt – poprawne uzupełnienie jednego zdania.\n0 pkt – brak spełnienia powyższych kryteriów.\nUwaga:\nNie akceptuje się zaokrągleń otrzymanych wyników.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nRozwiązanie\n1. Dominanta liczby usterek wykrytych na tej stacji podczas tych przeglądów jest równa  1.\n2. Średnia arytmetyczna liczby usterek wykrytych na tej stacji podczas tych przeglądów jest\nrówna  2.\n3. Liczba samochodów, w których wykryto podczas tych przeglądów co najmniej dwie\nusterki, stanowi  125  procent liczby samochodów, w których wykryto dokładnie jedną\nusterkę.\nZadanie 30.\nStosuje się zasady oceniania arkusza standardowego."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2025-sierpien/31.webp",
+   "size": [
+    948,
+    520
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (0–2)\nHotel ma do dyspozycji gości  80  pokoi jednoosobowych.\nWłaściciel hotelu przeanalizował wpływ ceny za dobę hotelową na liczbę wynajętych pokoi\ni stwierdził, że:\n•\nprzy wyjściowej cenie wynoszącej  120 zł za jedną dobę hotelową wszystkie pokoje są\nwynajęte\n•\nkażdy wzrost ceny za dobę hotelową o  5 zł skutkuje spadkiem liczby wynajmowanych\npokoi o  1.\nPrzyjmijmy, że dobowy przychód  𝑃  hotelu z wynajmowania pokoi, w zależności od\npodwyżki ceny wyjściowej za dobę hotelową o  5𝑥  złotych, opisuje funkcja\n𝑃(𝑥) = (80 −𝑥)(120 + 5𝑥)\ngdzie  𝑥  jest liczbą całkowitą spełniającą warunki  𝑥≥0  i  𝑥≤80.\nOblicz, jaka powinna być cena wynajęcia jednoosobowego pokoju (za dobę hotelową),\naby dobowy przychód hotelu z wynajmowania pokoi był największy. Zapisz obliczenia.",
+   "key": "Zadanie 31. (0–2)\nWymaganie ogólne\nWymaganie szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nXIII) rozwiązuje zadania optymalizacyjne\ninformacjami przedstawionymi w tekście,\nw sytuacjach dających się opisać funkcją\nzarówno matematycznym, jak\nkwadratową.\ni popularnonaukowym, a także w formie\nwykresów, diagramów, tabel.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody i poprawny wynik:  260 zł.\n1 pkt – obliczenie liczby  𝑥  podwyżek, przy których dobowy przychód hotelu\nz wynajmowania pokoi będzie największy:  28,\nALBO\n– obliczenie pierwszej współrzędnej  𝑝  wierzchołka paraboli z własności\n𝑃(𝑘1) = 𝑃(𝑘2), gdzie  𝑘1,  𝑘2  są różnymi liczbami takimi, że  |𝑝−𝑘1| = |𝑝−𝑘2|:\n𝑝= 𝑘1 + 𝑘2\n= 28.\n2\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający błędnie oblicza pierwszą współrzędną wierzchołka paraboli,\ni konsekwentnie do popełnionego błędu oblicza cenę wynajęcia pokoju, dla której\nprzychód hotelu będzie największy, to może otrzymać 1 punkt za całe rozwiązanie (o ile\npierwsza współrzędna jest liczbą należącą do dziedziny).\n2. Jeżeli zdający nie zapisze, że  28  należy do dziedziny funkcji  𝑃, to może otrzymać\n2 punkty za całe rozwiązanie.\n3. Jeżeli zdający zapisze tylko  28  i  260 zł, to otrzymuje 1 punkt.\nZasady oceniania rozwiązań zadań\n4. Jeżeli zdający oblicza największą wartość funkcji  𝑃  z wykorzystaniem rachunku\nróżniczkowego i nie zapisze przedziałów monotoniczności funkcji, to może otrzymać\n2 punkty za całe rozwiązanie (gdy wyznaczy pochodną funkcji kwadratowej\n𝑓(𝑥) = (80 −𝑥)(120 + 5𝑥), obliczy miejsce zerowe pochodnej funkcji  𝑓(𝑥)  i wskaże\ncenę wynajęcia pokoju, dla której przychód hotelu będzie największy).\n5. Jeżeli zdający oblicza  𝑃(28 −𝑘)  oraz  𝑃(28 + 𝑘), gdzie  𝑘≠0, i wskaże cenę\nwynajęcia pokoju:  260 zł, dla której przychód hotelu będzie największy, to może otrzymać\n2 punkty za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nWykresem funkcji  𝑃(𝑥) = (80 −𝑥)(120 + 5𝑥),  gdzie  𝑥  jest liczbą całkowitą z przedziału\n[0, 80], jest zbiór punktów leżących na paraboli o wierzchołku w punkcie  𝑊= (𝑝, 𝑞)\ni ramionach skierowanych w dół.\nObliczamy miejsca zerowe funkcji kwadratowej  𝑓(𝑥) = (80 −𝑥)(120 + 5𝑥):\n(80 −𝑥)(120 + 5𝑥) = 0\n𝑥1 = 80     lub     𝑥2 = −24\nStąd:\n𝑝= 𝑥1 + 𝑥2\n= 80 + (−24)\n= 28 ∈{0, 1, 2, … , 80}\n2\n2\nTo oznacza, że dobowy przychód hotelu będzie największy, gdy  𝑥= 28.\nObliczamy cenę wynajęcia pokoju, dla której przychód hotelu będzie największy:\n120 + 5𝑥= 120 + 5 ⋅28 = 260 zł\nSposób II\nWykresem funkcji  𝑃(𝑥) = (80 −𝑥)(120 + 5𝑥),  gdzie  𝑥  jest liczbą całkowitą z przedziału\n[0, 80], jest zbiór punktów leżących na paraboli o wierzchołku w punkcie  𝑊= (𝑝, 𝑞)\ni ramionach skierowanych w dół.\nPrzekształcamy wzór funkcji  𝑃  do postaci ogólnej:\n𝑃(𝑥) = 9600 + 400𝑥−120𝑥−5𝑥2 = −5𝑥2 + 280𝑥+ 9600\nObliczamy pierwszą współrzędną wierzchołka paraboli:\n𝑝= −280\n2 ⋅(−5) = 28 ∈{0, 1, 2, … , 80}\nTo oznacza, że dobowy przychód hotelu będzie największy przy podwyżce ceny za dobę\nhotelową o  5 ⋅28 = 140  złotych.\nWtedy cena wynajęcia pokoju jest równa  120 + 140 = 260  złotych.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2025 r.\nOcena prac osób ze stwierdzoną dyskalkulią\nObowiązują zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej\ndyskalkulii z dodatkowym uwzględnieniem:\nI. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze\nstwierdzoną dyskalkulią (punkty 1.–12.);\nII. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy\nosób ze stwierdzoną dyskalkulią – egzamin maturalny z matematyki, poziom\npodstawowy, termin poprawkowy 2025.\nI. Ogólne zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną\ndyskalkulią\n1. Nie należy traktować jako błędy merytoryczne pomyłek, wynikających z:\n•\nbłędnego przepisania\n•\nprzestawienia cyfr\n•\nzapisania innej cyfry, ale o podobnym wyglądzie\n•\nprzestawienia położenia przecinka\n•\nprzestawienia położenia znaku liczby.\n2. W przypadku błędów, wynikających ze zmiany znaku liczby, należy w każdym zadaniu\noddzielnie przeanalizować, czy zdający opanował inne umiejętności, poza\numiejętnościami rachunkowymi, oceniane w zadaniu. W przypadku opanowania\nbadanych umiejętności zdający powinien otrzymać przynajmniej 1 punkt.\n3. We wszystkich zadaniach otwartych, w których wskazano poprawną metodę\nrozwiązania, części lub całości zadania, zdającemu należy przyznać przynajmniej\n1 punkt, zgodnie z kryteriami do poszczególnych zadań.\n4. Jeśli zdający przedstawia nieprecyzyjne zapisy, na przykład pomija nawiasy lub\nzapisuje nawiasy w niewłaściwych miejscach, ale przeprowadza poprawne\nrozumowanie lub stosuje właściwą strategię, to może otrzymać przynajmniej 1 punkt\nza rozwiązanie zadania.\n5. W przypadku zadania wymagającego wyznaczenia pierwiastków trójmianu\nkwadratowego zdający może otrzymać 1 punkt, jeżeli przedstawi poprawną metodę\nwyznaczania pierwiastków trójmianu kwadratowego, przy podanych w treści zadania\nwartościach liczbowych.\n6. W przypadku zadania wymagającego rozwiązania nierówności kwadratowej zdający\nmoże otrzymać 1 punkt, jeżeli stosuje poprawny algorytm rozwiązywania nierówności\nkwadratowej, przy podanych w treści zadania wartościach liczbowych.\n7. W przypadku zadania wymagającego stosowania własności funkcji kwadratowej\nzdający może otrzymać 1 punkt za wykorzystanie konkretnych własności funkcji\nkwadratowej, istotnych przy poszukiwaniu rozwiązania.\nZasady oceniania rozwiązań zadań\n8. W przypadku zadania wymagającego zastosowania własności ciągów arytmetycznych\nlub geometrycznych zdający może otrzymać 1 punkt, jeżeli przedstawi wykorzystanie\ntakiej własności ciągu, która umożliwia znalezienie rozwiązania zadania.\n9. W przypadku zadania wymagającego analizowania figur geometrycznych na\npłaszczyźnie kartezjańskiej zdający może otrzymać punkty, jeżeli przy poszukiwaniu\nrozwiązania przedstawi poprawne rozumowanie, wykorzystujące własności figur"
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "exam": {
+  "id": "f2005-P-2005-maj",
+  "formula": "2005",
+  "level": "P",
+  "year": 2005,
+  "session": "maj",
+  "month": "05",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/stories/Matura2005/mat_podst_a1.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/Matura_odp_2005/mat_a1_schemat.pdf",
+  "examFile": "f2005-P-2005-maj.pdf",
+  "keyFile": "f2005-P-2005-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure); Arkusz I (poziom podstawowy)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2005-2/",
+  "examPages": 13,
+  "keyPages": 3,
+  "examBytes": 217725,
+  "keyBytes": 121878
+ },
+ "keyHead": "SCHEMAT OCENIANIA ARKUSZA EGZAMINACYJNEGO I\nzadania\nNr\nNr\nLiczba\nczynno-\nEtapy rozwiązania zadania\npunktów\nści\nObliczenie prawdopodobieństwa wylosowania białej\n4\n1 p\n1.1\n1 =\nkuli spośród 4 kul białych i 5 czarnych:\np\n9\nObliczenie prawdopodobieństwa wylosowania białej\n1\n3\n1 p\n1.2\n2 =\nkuli spośród 3 kul białych i 4 czarnych:\np\n7\nPorównanie obliczonych wyników i sformułowanie\n1 p\n1.3\np 〉\nodpowiedzi:\np\n1\n2\n+\n2 〉\nn\n1\nZapisanie nierówności:\n2.1\n1 p\n+\n3\nn\n1\n2\nPrzekształcenie nierówności do postaci liniowej\n2.2\n1 p\nlub (\n)(\n)\n〈\n−\n+\n〉\nlub iloczynowej:\nn\n3\n2\n3\nn\n3\nn\n1\n0\n2\nRozwiązanie nierówności w zbiorze liczb naturalnych:\n2.3\n1 p\nn = 1 lub n = 2\n3\n4\n=\n=\nSformułowanie odpowiedzi:\na\n,\na\n2.4\n1 p\n1\n2\n4\n7\nWykorzystanie podzielności wielomianu przez dwu-\nx +\nW −\n=\nmian\n2\nnp.\n( 2)\n0\nlub podzielenie wielomianu\n3.1\n1 p\nx +\nW x przez dwumian\n( )\n2\n=\n3.2\nWyznaczenie k :\nk\n3\n1 p\n3\nRozłożenie wielomianu na czynniki:\n3.3\n1 p\n( )\n(\n)(\n)\n=\n−\n+\n2\nW\nx\nx\n1\nx\n2\nPodanie pierwiastków wielomianu:\n1 p\n3.4\n=\n=\n−\n=\nx\nx\n,2\nx\n1\n1\n2\n3\nWprowadzenie oznaczeń wskazujących, że liczby two-\nrzą ciąg geometryczny,\nnp. x – liczba płyt ustawionych na górnej półce, gdzie\n〈\n∈\nx 24\ni\nx\nN\n4.1\n1 p\n+\n24– liczba płyt ustawionych na środkowej półce,\n24\n24⋅\n– liczba płyt ustawionych na dolnej półce\nx\nWykorzystanie sumy trzech wyrazów ciągu geome-\ntrycznego i ułożenie równania z niewiadomą x:\n4\n4.2\n1 p\n576\n+\n+\n=\nx\n24\n76\n(*)\nx\nPrzekształcenie równania (*) do postaci\n4.3\n1 p\n2\n−\n+\n=\n(**):\nx\n52\nx\n576\n0\n(**)\n=\n=\n4.4\nRozwiązanie równania (**):\nx\n16\n,\nx\n36\n1 p\n1\n2\nZapisanie odpowiedzi zgodnie z warunkami zadania.\n4.5\nNa górnej półce jest 16 płyt, zaś na dolnej półce jest\n1 p\nich 36.\n1\nWprowadzenie oznaczeń, np.:\nx – liczba kolejnych obniżek ceny jednej kurtki,\n1 p\n5.1\n(\n)\n−\n60\nx\n– zysk ze sprzedaży jednej kurtki,\n(\n)\n+\n40\nx\n– liczba sprzedanych kurtek\nOkreślenie funkcji f opisującej miesięczny zysk:\n5\n1 p\n5.2\n( )\n(\n)(\n)\nlub ( )\n=\n−\n+\n=\n−\n2\n+\n+\nf\nx\n60\nx\n40\nx\nf\nx\nx\n20\nx\n2400\nWyznaczenie wartości argumentu\nx , dla której funk-\nw\n5.3\n1 p\n=\ncja przyjmuje największą wartość:\nx\n10\nw\n5.4\nWyznaczenie szukanej ceny: 150 zł\n1 p\n+\n2 〈\nRozwiązanie nierówności:\nx\n3\ni wyznaczenie\nzbioru A\n6.1\n2 p\n(w tym 1 p. za metodę oraz 1 p. za obliczenia):\n(\n)1;5\n=\n−\nA\nRozwiązanie nierówności:\n(\n)\n−\n3\n≤\n−\n+\n+\n2\nx\n1\n8\nx\n3\n13\nx\n2\n6\nx\n3\n6\n=\n−\ni wyznaczenie zbioru B:\nB\n2;2\n6.2\n2 p\n(w tym 1 p. za doprowadzenie nierówności do postaci\nx ≤\n2\n4\noraz 1 p. za rozwiązanie otrzymanej nierówno-\nści kwadratowej\n)1;2\n6.3\nA ∩\n∩B\n=\n−\nWyznaczenie zbioru\nB\n:\nA\n1 p\nB −\n−A\n=\nWyznaczenie zbioru\nA\n:\nB\n2;1\n6.4\n1 p\nNaszkicowanie diagramu:\n7.1\n1 p\n7\nCzas w godzinach\n7.2\nObliczenie średniej liczby godzin: 2,75\n1 p\nObliczenie wariancji (w tym 1 p. za metodę oraz 1 p.\n7.3\n2 p\nza obliczenia): 0,94\n7.4\nObliczenie odchylenia standardowego: 0,97\n1 p\nWykorzystanie warunku dla czworokąta opisanego\nna okręgu  (w tym 1 p. za metodę oraz 1 p. za oblicze-\n8\n8.1\n2p\nnia):\n+\n=\nAB\nDC\n16,3\ndm\n,\n=\n2\nObliczenie pola\nS\nczworokąta:\nS\n48,9\ndm\n8.2\n1 p\nABCD\nABCD\n= π\n≈\n2\nObliczenie pola\nS koła:\nSk\n9\n28\n,\n27\ndm\nk\n8.3\n1 p\nSk ≈\n2\nlub\n28\n,\n26\ndm\nObliczenie pola\nrS niewykorzystanej części materiału:\n8.4\n1 p\nSr ≈\n2\nSr ≈",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2005-maj/1.webp",
+   "size": [
+    950,
+    1485
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (3 pkt)\nW pudełku są trzy kule białe i pięć kul czarnych. Do pudełka można albo dołożyć jedną kulę\nbiałą albo usunąć z niego jedną kulę czarną, a następnie wylosować z tego pudełka jedną kulę.\nW którym z tych przypadków wylosowanie kuli białej jest bardziej prawdopodobne?\nWykonaj odpowiednie obliczenia.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2005-maj/2.webp",
+   "size": [
+    950,
+    1472
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (4 pkt)\n+\nn\n2\nDany jest ciąg (\n)\n=\n=\na\n, gdzie\nan\ndla\nn\n,1\n,2\n3\n...\nWyznacz wszystkie wyrazy tego ciągu\nn\n+\n3\nn\n1\n1 .\nwiększe od 2\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2005-maj/3.webp",
+   "size": [
+    950,
+    1469
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (4 pkt)\n( )\n=\n3\n+\n2\n−\nDany jest wielomian\nW x\nx\nkx\n4.\na) Wyznacz współczynnik k tego wielomianu wiedząc, że wielomian ten jest podzielny\n+\nprzez dwumian\nx\n2\n.\nb) Dla wyznaczonej wartości k rozłóż wielomian na czynniki i podaj wszystkie jego\npierwiastki.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2005-maj/4.webp",
+   "size": [
+    950,
+    1486
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (5 pkt)\nNa trzech półkach ustawiono 76 płyt kompaktowych. Okazało się, że liczby płyt na półkach\ngórnej, środkowej i dolnej tworzą rosnący ciąg geometryczny. Na środkowej półce stoją\n24 płyty. Oblicz, ile płyt stoi na półce górnej, a ile płyt stoi na półce dolnej.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2005-maj/5.webp",
+   "size": [
+    950,
+    1485
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (4 pkt)\nSklep sprowadza z hurtowni kurtki płacąc po 100 zł za sztukę i sprzedaje średnio 40 sztuk\nmiesięcznie po 160 zł. Zaobserwowano, że każda kolejna obniżka ceny sprzedaży kurtki\no 1 zł zwiększa sprzedaż miesięczną o 1 sztukę. Jaką cenę kurtki powinien ustalić\nsprzedawca, aby jego miesięczny zysk był największy?\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2005-maj/6.webp",
+   "size": [
+    950,
+    1474
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (6 pkt)\nDane są zbiory liczb rzeczywistych:\n{\n}\n=\n+\n〈\nA\nx\n:\nx\n2\n3\n{\n}\n(\n)\n3\n=\n−\n≤\n3\n−\n2\n+\n+\nB\nx\n:\n2\nx\n1\n8\nx\n13\nx\n6\nx\n3\nA ∩\nB −\nZapisz w postaci przedziałów liczbowych zbiory\nA\n, B\n,\nB\noraz\nA\n.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2005-maj/7.webp",
+   "size": [
+    950,
+    1485
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (5 pkt)\nW poniższej tabeli przedstawiono wyniki sondażu przeprowadzonego w grupie uczniów,\ndotyczącego czasu przeznaczanego dziennie na przygotowanie zadań domowych.\nCzas\n1\n2\n3\n4\n(w godzinach)\nLiczba\n5\n10\n15\n10\nuczniów\na) Naszkicuj diagram słupkowy ilustrujący\nwyniki tego sondażu.\nb) Oblicz średnią liczbę godzin, jaką\nuczniowie\nprzeznaczają\ndziennie\nna\nprzygotowanie zadań domowych.\nc) Oblicz\nwariancję\ni\nodchylenie\nstandardowe\nczasu\nprzeznaczonego\ndziennie\nna\nprzygotowanie\nzadań\ndomowych. Wynik podaj z dokładnością\ndo 0,01.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2005-maj/8.webp",
+   "size": [
+    950,
+    1487
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (6 pkt)\nZ kawałka materiału o kształcie i wymiarach\nczworokąta ABCD (patrz na rysunek obok)\nwycięto okrągłą serwetkę o promieniu 3 dm.\nOblicz, ile procent całego materiału stanowi\njego niewykorzystana część. Wynik podaj\nz dokładnością do 0,01 procenta.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2005-maj/9.webp",
+   "size": [
+    950,
+    1484
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (6 pkt)\nRodzeństwo w wieku 8 i 10 lat otrzymało razem w spadku 84100 zł. Kwotę tę złożono\nw banku, który stosuje kapitalizację roczną przy rocznej stopie procentowej 5%. Każde\nz dzieci otrzyma swoją część spadku z chwilą osiągnięcia wieku 21 lat. Życzeniem\nspadkodawcy było takie podzielenie kwoty spadku, aby w przyszłości obie wypłacone części\nspadku zaokrąglone do 1 zł były równe. Jak należy podzielić kwotę 84100 zł między\nrodzeństwo? Zapisz wszystkie wykonywane obliczenia.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-P-2005-maj/10.webp",
+   "size": [
+    950,
+    1420
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (7 pkt)\nW ostrosłupie czworokątnym prawidłowym wysokości przeciwległych ścian bocznych\npoprowadzone z wierzchołka ostrosłupa mają długości h i tworzą kąt o mierze 2α. Oblicz\nobjętość tego ostrosłupa.",
+   "key": ""
+  }
+ ]
+}

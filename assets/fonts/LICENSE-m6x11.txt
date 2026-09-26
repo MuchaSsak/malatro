@@ -1,0 +1,10 @@
+m6x11 / m6x11plus — pixel fonts by Daniel Linssen (managore)
+Source   : https://managore.itch.io/m6x11  (downloaded directly from itch.io uploads 1029800 & 9387458, 2026-09-26)
+Licence  : "free to use with attribution"  (itch.io page text; also embedded in m6x11plus.ttf name table ID 13)
+Attribution to show in credits:  "m6x11 font by Daniel Linssen (managore.itch.io)"
+
+Usage notes (from author):
+  m6x11      -> use font-size 16, 32, 48 px ... (multiples of 16)   124 codepoints (basic Latin)
+  m6x11plus  -> use font-size 18, 36, 54 px ... (multiples of 18)   226 codepoints (Latin-1 + extras, up to U+03BC)
+  metrics: average width 6, ascender 11, descender 3, x-height 8
+This is the font family Balatro uses (Balatro ships m6x11plus).

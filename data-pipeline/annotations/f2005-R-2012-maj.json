@@ -1,0 +1,90 @@
+{
+ "exam": "f2005-R-2012-maj",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 2, "value_tex": "2", "answer_tex": "-1,0,1,2",
+   "category": "rownania", "topic_pl": "Rownanie kwadratowe - liczby calkowite", "topic_en": "Quadratic equation - integers",
+   "difficulty": 4,
+   "summary_pl": "4 kolejne liczby całk.: największa = suma kwadratów pozostałych (suma liczb)",
+   "summary_en": "4 consecutive integers: largest = sum of squares of the rest (sum of numbers)",
+   "statement_en": "Find four consecutive integers such that the largest of them equals the sum of the squares of the other three.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "2", "include": false, "exclude_reason": "interval_or_set",
+   "category": "rownania", "difficulty": 3,
+   "notes": "Rozwiazanie nierownosci wielomianowej x^4+x^2>=2x: suma przedzialow (-inf,0] u [1,+inf)."
+  },
+  {
+   "task": "3", "include": false, "exclude_reason": "interval_or_set",
+   "category": "trygonometria", "difficulty": 3,
+   "notes": "Rownanie trygonometryczne cos2x+2=3cosx ma nieskonczenie wiele rozwiazan okresowych: x=2k*pi lub x=+-pi/3+2k*pi."
+  },
+  {
+   "task": "4", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 0, "value_tex": "\\sqrt{14}-\\sqrt{14}", "answer_tex": "m=\\sqrt{14} \\lor m=-\\sqrt{14}",
+   "category": "rownania", "topic_pl": "Rownanie kwadratowe z parametrem", "topic_en": "Quadratic equation with a parameter",
+   "difficulty": 5,
+   "summary_pl": "$x^2-(m+2)x+m+4=0$, $x_1^4+x_2^4=4m^3+6m^2-32m+12$. Oblicz $m$ (suma wart.)",
+   "summary_en": "$x^2-(m+2)x+m+4=0$, $x_1^4+x_2^4=4m^3+6m^2-32m+12$. Find $m$ (sum of values)",
+   "statement_en": "Find all values of the parameter m for which the equation x^2 - (m+2)x + m + 4 = 0 has two distinct real roots x1, x2 such that x1^4 + x2^4 = 4m^3 + 6m^2 - 32m + 12.",
+   "confidence": "high", "notes": "Rozwiazania m=sqrt(14) i m=-sqrt(14); suma tych dwoch wartosci wynosi 0."
+  },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 61.33333333333333, "value_tex": "\\frac{184}{3}", "answer_tex": "4,12,36 \\lor \\frac{4}{9},-\\frac{20}{9},\\frac{100}{9}",
+   "category": "ciagi", "topic_pl": "Ciag geometryczny i arytmetyczny", "topic_en": "Geometric and arithmetic sequence",
+   "difficulty": 5,
+   "summary_pl": "Ciąg geom.; +8 do 2. wyrazu daje arytm.; +64 do ost. daje geom. Znajdź liczby (suma)",
+   "summary_en": "Geometric seq.; +8 to 2nd term gives arithmetic; +64 to last gives geometric. Find the numbers (sum)",
+   "statement_en": "Three numbers form a geometric sequence. If 8 is added to the second number, the sequence becomes arithmetic. If 64 is then added to the last number of this new arithmetic sequence, the resulting sequence becomes geometric again. Find these numbers, taking into account all possibilities.",
+   "confidence": "high", "notes": "Dwa zestawy rozwiazan: (4,12,36) oraz (4/9,-20/9,100/9); suma wszystkich szesciu liczb = 184/3."
+  },
+  {
+   "task": "6", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 1162.5, "value_tex": "\\frac{2325}{2}", "answer_tex": "\\min=\\frac{2045}{4},\\ \\max=\\frac{2605}{4}",
+   "category": "analityczna", "topic_pl": "Optymalizacja - odleglosc punktow", "topic_en": "Optimization - distance between points",
+   "difficulty": 5,
+   "summary_pl": "$P=(\\frac12m+\\frac52,m)$, $m\\in\\langle-1,7\\rangle$, $Q=(\\frac{55}{2},0)$. Min i max $|PQ|^2$ (suma)",
+   "summary_en": "$P=(\\frac12m+\\frac52,m)$, $m\\in\\langle-1,7\\rangle$, $Q=(\\frac{55}{2},0)$. Min and max $|PQ|^2$ (sum)",
+   "statement_en": "In the coordinate system, consider all points P of the form P = (1/2 m + 5/2, m), where m ranges over the interval [-1,7]. Calculate the smallest and the largest value of |PQ|^2, where Q = (55/2, 0).",
+   "confidence": "high", "notes": "Min |PQ|^2 = 511.25 (dla m=7), max |PQ|^2 = 651.25 (dla m=-1); suma = 1162.5."
+  },
+  {
+   "task": "7", "include": false, "exclude_reason": "proof",
+   "category": "wyrazenia", "difficulty": 2,
+   "notes": "Dowod nierownosci a^3+b^3>=a^2b+ab^2 dla a+b>=0."
+  },
+  {
+   "task": "8", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 280, "value_tex": "280", "answer_tex": "280",
+   "category": "kombinatoryka", "topic_pl": "Zliczanie - permutacje z powtorzeniami", "topic_en": "Counting - permutations with repetition",
+   "difficulty": 4,
+   "summary_pl": "Ile 8-cyfrowych liczb ma iloczyn cyfr równy 12?",
+   "summary_en": "How many 8-digit numbers have digit product equal to 12?",
+   "statement_en": "Calculate how many eight-digit natural numbers there are such that the product of the digits in their decimal representation equals 12.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "9", "include": false, "exclude_reason": "expression",
+   "category": "planimetria", "difficulty": 4,
+   "notes": "Pole trojkata AED wyrazone wzorem ab^3/(2(a^2+b^2)) - odpowiedz symboliczna zalezna od a,b."
+  },
+  {
+   "task": "10", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 25504.823073293411, "value_tex": "1760\\sqrt{210}", "answer_tex": "V=1760\\sqrt{210}",
+   "category": "stereometria", "topic_pl": "Ostroslup - objetosc", "topic_en": "Pyramid - volume",
+   "difficulty": 4,
+   "summary_pl": "Ostrosłup ABCS: $AS\\perp$podstawa, $AS=8\\sqrt{210}$, $BS=118$, $CS=131$. Oblicz objętość",
+   "summary_en": "Pyramid ABCS: $AS\\perp$base, $AS=8\\sqrt{210}$, $BS=118$, $CS=131$. Find the volume",
+   "statement_en": "The base of pyramid ABCS is an isosceles triangle ABC. Edge AS is the height of the pyramid, and |AS| = 8*sqrt(210), |BS| = 118, |CS| = 131. Calculate the volume of this pyramid.",
+   "confidence": "high", "notes": "AB=22, AC=61, BC=61 (isoceles, trojkat 22-22-61 niemozliwy); pole podstawy=660; V=1760*sqrt(210)."
+  },
+  {
+   "task": "11", "include": false, "exclude_reason": "proof",
+   "category": "prawdopodobienstwo", "difficulty": 2,
+   "notes": "Dowod nierownosci P(A' n B) <= 0,3 przy danym P(A n B')=0,7."
+  }
+ ]
+}

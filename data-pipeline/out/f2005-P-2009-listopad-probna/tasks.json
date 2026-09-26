@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2009-listopad-probna",
+  "formula": "2005",
+  "level": "P",
+  "year": 2009,
+  "session": "probna",
+  "month": "11",
+  "code": "MMA-P1_1P-095",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2010/arkusz.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2010/rozwiazania.pdf",
+  "examFile": "f2005-P-2009-listopad-probna.pdf",
+  "keyFile": "f2005-P-2009-listopad-probna-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "CKE probna matura listopad 2009 (P only); key = merged 'rozwiazania.pdf' (klucz + przykladowe rozwiazania) + '091208_zasady_punktowania.pdf' (schematy oceniania)",
+  "duplicateOf": null,
+  "keyUrl2": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2010/091208_zasady_punktowania.pdf",
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/",
+  "examPages": 17,
+  "keyPages": 30,
+  "examBytes": 402608,
+  "keyBytes": 590409
+ },
+ "keyHead": "Centralna\nKomisja\nEgzaminacyjna\nMateriał współfinansowany ze środków Unii Europejskiej\nw ramach Europejskiego Funduszu Społecznego\nPróbny egzamin maturalny z matematyki\nlistopad 2009\nKlucz odpowiedzi do zadań zamkniętych\ni przykładowe rozwiązania zadań otwartych\nKlucz odpowiedzi do zadań zamkniętych\nNr zadania\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nOdpowiedź A\nC\nB\nB\nC\nA\nB\nA\nD\nA\nC\nB\nB\nC\nC\nD\nA\nD\nC\nD\nA\nA\nD\nD\nA\nPrzykładowe rozwiązania zadań otwartych\nZadanie 26. (2 punkty)\n2\n−\n+\n≤\nRozwiąż nierówność\nx\n3\nx\n2\n0\n.\nRozwiązanie:\n( )\n=\n−\n+\n2\nObliczam miejsca zerowe funkcji kwadratowej\nf x\nx\n3\nx\n2\n:\n(\n)\n2\nΔ = −\n−⋅⋅\n=\n−\n=\nΔ =\n3\n4 1 2\n9\n8\n1\n1\n−\n+\n3 1\n3 1\n=\n=\n=\n=\nx\n1\nx\n2\n1\n2\n2\n2\nRysuję fragment wykresu funkcji kwadratowej f i na jego podstawie odczytuję\nrozwiązanie nierówności:\ny\n6\n5\n4\n3\n2\n1\nx\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n-1\n-2\nx∈\nOdpowiedź:\n1, 2 .\n( )\n(\n)(\n)\n=\n−\n−\nUwaga: Można przedstawić funkcję f w postaci\nf x\nx\n1\nx\n2\ni odczytać\nrozwiązanie nierówności.\n2\nZadanie 27. (2 punkty)\n3\n−\n2\n+\n−\n=\nRozwiąż równanie\nx\n7\nx\n2\nx\n14\n0\n.\nRozwiązanie:\nStosuję metodę grupowania, by przedstawić lewą stronę równania w postaci iloczynowej:\n) (\n)(\n(\n)\n(\n)\n−\n+\n−\n=\n−\n+\n−\n=\n+\n−\nx\n3\n7\nx\n2\n2\nx\n14\nx\n2\nx\n7\n2\nx\n7\nx\n2\n2\nx\n7\n.\nZ równania (\n)(\n)\n+\n−\n=\nx\n2\n2\nx\n7\n0\notrzymujemy, że\nx +\n=\nx −\n=\n2\n2\n0\nlub\n7\n0\n.\nx +\n=\nx −\n=\nRównanie\n2\n2\n0\nnie ma rozwiązań. Rozwiązaniem równania\n7\n0\njest liczba 7.\n=\nOdpowiedź: Jedynym rozwiązaniem jest\nx\n7\n.\nZadanie 28. (2 punkty)\n(\n)\n(\n)\nA =\n=\nW układzie współrzędnych na płaszczyźnie punkty\n2, 5\ni\nC\n6, 7\nsą przeciwległymi\nwierzchołkami kwadratu ABCD. Wyznacz równanie prostej BD.\nRozwiązanie:\n−\n7\n5\n1\n=\n=\nObliczam współczynnik kierunkowy prostej AC:\na\n, a następnie wyznaczam\nAC\n−\n6\n2\n2\n= −.\nwspółczynnik kierunkowy prostej BD prostopadłej do AC:\na\n2\nBD\n+\n+\n⎛\n⎞\n2\n6 5\n7\n(\n)\n=\n=\nWyznaczam współrzędne środka S odcinka AC:\nS\n,\n4,6\ni wyznaczam\n⎜\n⎟\n⎝\n2\n2\n⎠\n−, przechodzącej przez punkt S.\nrównanie prostej o współczynniku kierunkowym 2\n= −\n+\nOdpowiedź:\ny\n2\nx\n14\n.\nZadanie 29. (2 punkty)\n4\nα =\nα\n+\nα\nKąt α jest ostry i\ntg\n. Oblicz\nsin\ncos\n.\n3\nRozwiązanie:\nI sposób rozwiązania:\nα\nZ definicji funkcji tangens mamy sin\n4\n4\nα =\nα\n=\nα\n, zatem\nsin\ncos\n. Podstawiam tę równość\ncos\n3\n3\n2\n⎛\n⎞+\n4 cos\n9\nα\n+\nα\n= i otrzymuję\nα\nα\n=\nα =\ndo tożsamości\nsin\n2\ncos\n2\n1\ncos\n2\n1\n, a stąd\ncos\n2\n.\n⎜\n⎟\n⎝\n3\n⎠\n25\n3\n3\nα\n=\nα\n=\n−\nZatem\ncos\nlub\ncos\n. Ujemny wynik odrzucam, ponieważ zgodnie z warunkami\n5\n5\n4\nzadania kąt α jest kątem ostrym. Obliczam wartości funkcji\nα =\nsin",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/1.webp",
+   "size": [
+    956,
+    226
+   ],
+   "stem": "",
+   "text": "Zadanie 1.\n(1 pkt)\nWskaż nierówność, która opisuje sumę przedziałów zaznaczonych na osi liczbowej.\n6\nx\n–2\nx −\n>\nx −\n<\nx −\n<\nx −\n>\nA.\nB.\nC.\nD.\n2\n4\n2\n4\n4\n2\n4\n2",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/2.webp",
+   "size": [
+    956,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 2.\n(1 pkt)\nNa seans filmowy sprzedano 280 biletów, w tym 126 ulgowych. Jaki procent sprzedanych\nbiletów stanowiły bilety ulgowe?\nA. 22%\nB. 33%\nC. 45%\nD. 63%",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/3.webp",
+   "size": [
+    956,
+    119
+   ],
+   "stem": "",
+   "text": "Zadanie 3.\n(1 pkt)\n6% liczby x jest równe 9. Wtedy\nx =\nx =\nx =\nx =\nA.\n240\nB.\n150\nC.\n24\nD.\n15",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/4.webp",
+   "size": [
+    956,
+    150
+   ],
+   "stem": "",
+   "text": "Zadanie 4.\n(1 pkt)\n4\n⎛\n⎞\n1\n−\n3\nIloraz\n32\n: 8\njest równy\n⎜\n⎟\n⎝\n⎠\n2−\n27\n2−\n3\n3\n27\nA.\nB.\nC.\n2\nD.\n2",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/5.webp",
+   "size": [
+    956,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 5.\n(1 pkt)\nx =\nO liczbie x wiadomo, że\nlog\n9\n. Zatem\n3\n1\n=\n=\n=\n=\n93\n3\nA.\nx\n2\nB.\nx\nC.\nx\nD.\nx\n9\n2",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/6.webp",
+   "size": [
+    956,
+    266
+   ],
+   "stem": "",
+   "text": "Zadanie 6.\n(1 pkt)\n3\n+\n3\nWyrażenie\n27x\ny\njest równe iloczynowi\n)(\n)\nA. (\n+\n2\n−\n+\n2\n3\nx\ny\n9\nx\n3\nxy\ny\n)(\n)\nB. (\n+\n2\n+\n+\n2\n3\nx\ny\n9\nx\n3\nxy\ny\n)(\n)\nC. (\n−\n2\n+\n+\n2\n3\nx\ny\n9\nx\n3\nxy\ny\n)(\n)\nD. (\n−\n2\n−\n+\n2\n3\nx\ny\n9\nx\n3\nxy\ny",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/7.webp",
+   "size": [
+    956,
+    135
+   ],
+   "stem": "",
+   "text": "Zadanie 7.\n(1 pkt)\n( )\n( )\n( )\n( )\n=\n−\n+ oraz\n=\n⋅\n3\n3\nDane są wielomiany:\nW x\nx\n3\nx\n1\nV x\n2\nx\n. Wielomian\nW x V x\njest równy\n5\n−\n4\n+\n3\n6\n−\n4\n+\n3\n5\n+\n+\n5\n+\n4\n+\n3\nA.\n2\nx\n6\nx\n2\nx\nB.\n2\nx\n6\nx\n2\nx\nC.\n2\nx\n3\nx\n1\nD.\n2\nx\n6\nx\n2\nx",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/8.webp",
+   "size": [
+    947,
+    128
+   ],
+   "stem": "",
+   "text": "Zadanie 8.\n(1 pkt)\n(\n)\n2\n= −\n+\nWierzchołek paraboli o równaniu\ny\n3\nx\n1\nma współrzędne\nA. (\n)\nB. (\n)\nC. (\n)\nD. (\n)\n−\n−\n1,0\n0, 1\n1,0\n0,1",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": null,
+   "image": "f2005-P-2009-listopad-probna/9.webp",
+   "size": [
+    947,
+    124
+   ],
+   "stem": "",
+   "text": "Zadanie 9.\n(1 pkt)\n( )\n=\n+\n−\n2\nDo wykresu funkcji\nf x\nx\nx\n2\nnależy punkt\nA. (\n)\nB. (\n)\nC. (\n)\nD. (\n)\n−−\n−\n−−\n−−\n1, 4\n1,1\n1, 1\n1, 2",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/10.webp",
+   "size": [
+    947,
+    167
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\n−\nx\n5\n2\n=\nRozwiązaniem równania\njest liczba\n+\nx\n3\n3\nC. 17\nA. 21\nB. 7\n3\nD. 0",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/11.webp",
+   "size": [
+    947,
+    491
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\nZbiór rozwiązań nierówności (\n)(\n)\n+\n−\n>\nx\n1\nx\n3\n0\nprzedstawiony jest na rysunku\nA.\nx\n–1\n3\nB.\nx\n1\n–3\nC.\nx\n–1\n3\nD.\nx\n–3\n1",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/12.webp",
+   "size": [
+    947,
+    125
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\nciąg (\n)\n(\n) (\n)\nn\nn =\n= −\n⋅\n−\nDla\n1,2,3,...\nna\njest określony wzorem:\nna\n1\n3\nn\n. Wtedy\na <\na =\na =\na >\nA.\n0\nB.\n0\nC.\n1\nD.\n1\n3\n3\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/13.webp",
+   "size": [
+    947,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nW ciągu arytmetycznym  trzeci wyraz jest równy 14, a jedenasty jest równy 34. Różnica tego\nciągu jest równa\n5\nD. 2\nA. 9\nB.\n2\nC. 2\n5",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/14.webp",
+   "size": [
+    947,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\nW ciągu geometrycznym (\n)\na =\na = −. Iloraz tego ciągu jest równy\nna\ndane są:\n32\ni\n4\n1\n4\n1\n1\n−\n−\nA. 12\nB.\n2\nC.\nD.\n12\n2",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/15.webp",
+   "size": [
+    950,
+    175
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\n8\nKąt α jest ostry i\nα =\n. Wtedy cosα jest równy\nsin\n9\nA. 1\n8\n17\n65\n9\nB.\n9\nC.\nD.\n9\n9",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/16.webp",
+   "size": [
+    950,
+    363
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nDany jest trójkąt prostokątny (patrz rysunek). Wtedy tgα jest równy\n3\n1\nα\n2\n2\n3\n1\nA.\n2\nB.\nC.\nD.\n3\n2\n2",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/17.webp",
+   "size": [
+    950,
+    159
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\n=\n=\nAB =\nW trójkącie równoramiennym ABC dane są\noraz\n. Wysokość\nAC\nBC\n7\n12\nopuszczona z wierzchołka C jest równa\nA.\n13\nB.\n5\nC. 1\nD. 5",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/18.webp",
+   "size": [
+    950,
+    378
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nAB =\nAC =\nCD =\n&\nOblicz długość odcinka AE wiedząc, że AB CD\ni\n6\n,\n4\n,\n8\n.\nD\nB\n8\n6\nE\nC\nA\n4\nAE =\nAE =\nAE =\nAE =\nA.\n2\nB.\n4\nC.\n6\nD.\n12",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/19.webp",
+   "size": [
+    950,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\n(\n)\n(\n)\nA = −\nB =\nDane są punkty\n2,3\noraz\n4,6\n. Długość odcinka AB jest równa\nA.\n208\nB.\n52\nC.\n45\nD.\n40",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/20.webp",
+   "size": [
+    950,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\nPromień okręgu o równaniu (\n)\n2\n−\n+\n=\nx\n1\ny\n2\n16\njest równy\nA. 1\nB. 2\nC. 3\nD. 4",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/21.webp",
+   "size": [
+    950,
+    175
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\n( )\n=\n+\nWykres funkcji liniowej określonej wzorem\nf x\n3\nx\n2\njest prostą prostopadłą do prostej\no równaniu:\n1\n1\n= −\n−\n=\n+\n=\n+\n=\n−\nA.\ny\nx\n1\nB.\ny\nx\n1\nC.\ny\n3\nx\n1\nD.\ny\n3\nx\n1\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/22.webp",
+   "size": [
+    950,
+    145
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\n(\n)\n(\n)\n= −\n+\n−\nA =\n−\nProsta o równaniu\ny\n4\nx\n2\nm\n7\nprzechodzi przez punkt\n2, 1\n. Wtedy\n1\n1\nm =\nm =\nm = −\nm = −\nA.\n7\nB.\n2 2\nC.\nD.\n17\n2",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/23.webp",
+   "size": [
+    950,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nPole powierzchni całkowitej sześcianu jest równe 150 cm2. Długość krawędzi tego sześcianu\njest równa\nA. 3,5 cm\nB. 4 cm\nC. 4,5 cm\nD. 5 cm",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/24.webp",
+   "size": [
+    950,
+    119
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nŚrednia arytmetyczna pięciu liczb: 5, x, 1, 3, 1 jest równa 3. Wtedy\nx =\nx =\nx =\nx =\nA.\n2\nB.\n3\nC.\n4\nD.\n5",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2009-listopad-probna/25.webp",
+   "size": [
+    950,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\n{\n}\n{\n}\nA =\nB =\nWybieramy liczbę a ze zbioru\n2,3,4,5\noraz liczbę b ze zbioru\n1,4\n. Ile jest takich par\n(\n)\n⋅ jest liczbą nieparzystą?\n,a b , że iloczyn a b\nA. 2\nB. 3\nC. 5\nD. 20",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2009-listopad-probna/26.webp",
+   "size": [
+    947,
+    81
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\n−\n+\n≤\n2\nRozwiąż nierówność\nx\n3\nx\n2\n0\n.",
+   "key": "Zadanie 26. (2 punkty)\n2\n−\n+\n≤\nRozwiąż nierówność\nx\n3\nx\n2\n0\n.\nRozwiązanie:\n( )\n=\n−\n+\n2\nObliczam miejsca zerowe funkcji kwadratowej\nf x\nx\n3\nx\n2\n:\n(\n)\n2\nΔ = −\n−⋅⋅\n=\n−\n=\nΔ =\n3\n4 1 2\n9\n8\n1\n1\n−\n+\n3 1\n3 1\n=\n=\n=\n=\nx\n1\nx\n2\n1\n2\n2\n2\nRysuję fragment wykresu funkcji kwadratowej f i na jego podstawie odczytuję\nrozwiązanie nierówności:\ny\n6\n5\n4\n3\n2\n1\nx\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n-1\n-2\nx∈\nOdpowiedź:\n1, 2 .\n( )\n(\n)(\n)\n=\n−\n−\nUwaga: Można przedstawić funkcję f w postaci\nf x\nx\n1\nx\n2\ni odczytać\nrozwiązanie nierówności.\n2\nZadanie 26. (2 punkty)\nRozwiąż nierówność x2 −3x + 2 ≤0.\nI sposób rozwiązania: obliczanie wyróżnika\nObliczamy miejsca zerowe funkcji kwadratowej f(x) = x2 −3x + 2:\n∆= (−3)2 −4 · 1 · 2 = 9 −8 = 1,\n√\n∆= 1,\nx1 = 3 −1\nx2 = 3 + 1\n= 1,\n= 2.\n2\n2\nlub zapisujemy nierówność w postaci: (x −1)(x −2) ≤0.\n8\nRysujemy fragment wykresu funkcji kwadratowej f i na jego podstawie odczytujemy\nrozwiązania nierówności:\ny\n4\n3\n2\n1\nx\n0\n−2\n−1\n1\n2\n3\n4\n−1\nOdpowiedź: x ∈⟨1, 2⟩.\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy:\n• obliczy lub poda prawidłowo pierwiastki trójmianu kwadratowego x = 1, x = 2\ni na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n• rozłoży trójmian kwadratowy na czynniki liniowe, np. (x −1)(x −2) i na tym\npoprzestanie lub błędnie rozwiąże nierówność\nalbo\n• popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu\nkwadratowego i konsekwentnie do popełnionego błędu rozwiąże nierówność, np.\n√\n√\n3−\n√\n√\nzapisze, że x1 = 3−\n17\n, x2 = 3+\n17\n17\n, 3+\n17\n, x ∈\n.\n2\n2\n2\n2\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy:\n• poda zbiór rozwiązań nierówności: ⟨1, 2⟩lub x ∈⟨1, 2⟩lub 1 ≤x ≤2\nalbo\n• sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nnierówności w postaci x ≥1, x ≤2\nalbo\n• poda zbiór rozwiązań nierówności w postaci graﬁcznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\n1\n2\nUwagi:\n1. Przyznajemy 2 punkty za rozwiązanie, w którym zdający poprawnie obliczy pier-\nwiastki trójmianu x = 1, x = 2 i zapisze np.: x ∈⟨−1, 2⟩, popełniając tym samym\nbłąd przy przepisywaniu jednego z pierwiastków.\n9\n2. W związku z rozbieżnością w rozumieniu i używaniu spójników w języku potocznym\noraz formalnym języku matematycznym akceptujemy zapis, np.: x ≥1, x ≤2.\nII sposób rozwiązania: postać kanoniczna lub moduł\nZapisujemy nierówność np. w postaci: x2−3x+2−9\n4 + 9\n4 ≤0, a następnie przekształcamy\nją\n\u0000\n\u00012 −1\n\u0000\n\u00012 ≤1\nx −3\nx −3\n4 ≤0\nlub\n2\n2\n4\nx −3\n≤1\n\u0000\n\u0001 \u0000\n\u0001\nx −3\n2 −1\nx −3\n2 + 1\n≤0\nlub\n2\n2\n2\n2\nx −3\n2 ≤1\n2 i x −3\n2 ≥−1\n(x −2)(x −1) ≤0\nlub\n2\nW pierwszym przypadku odczytujemy miejsca zerowe funkcji f(x) = (x −1)(x −2):\nx = 1, x = 2. Następnie rysujemy fragment wykresu funkcji:\ny\n4\n3\n2\n1\nx\n0\n−2\n−1\n1\n2\n3\n4\n−1\nW drugim przypadku rozwiązujemy obie nierówności.\nPodajemy zbiór rozwiązań nierówności: x ∈⟨1, 2⟩lub x ≥1, x ≤2 lub 1 ≤x ≤2.\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy:\n• rozłoży trójmian kwadratowy na czynniki liniowe, np. (x −1)(x −2) i na tym\npoprzestanie lub błędnie rozwiąże nierówność\nx −3\n≤\n1\n• zapisze nierówność\n2 i na tym poprzestanie lub błędnie zapisze zbiór\n2\nrozwiązań nierówności\nalbo\n• popełni błąd rachunkowy przy rozkładaniu trójmianu kwadratowego na czynniki\ni konsekwentnie do popełnionego błędu rozwiąże nierówność\nx + 3\n≤\n1\n• błędnie zapisze nierówność, np.:\n2 i konsekwentnie do tego rozwiąże\n2\nnierówność.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy:\n• poda zbiór rozwiązań nierówności: ⟨1, 2⟩lub x ∈⟨1, 2⟩lub 1 ≤x ≤2\nalbo\n• sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nnierówności w postaci x ≥1, x ≤2\n10\nalbo\n• poda zbiór rozwiązań nierówności w postaci graﬁcznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\n1\n2\nIII sposób rozwiązania: wzory Vi`ete’a\nZapisujemy równania: x1 + x2 = 3 i x1 · x2 = 2.\nObliczamy pierwiastki: x1 = 1, x2 = 2.\nRysujemy fragment wykresu funkcji:\ny\n4\n3\n2\n1\nx\n0\n−2\n−1\n1\n2\n3\n4\n−1\nPodajemy zbiór rozwiązań nierówności: x ∈⟨1, 2⟩lub x ≥1, x ≤2.\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy:\n• prawidłowo zapisze równania wynikające ze wzorów Vi`ete’a : x1 + x2 = 3 oraz\nx1 · x2 = 2, obliczy pierwiastki trójmianu kwadratowego: x1 = 1, x2 = 2 i na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n• błędnie zapisze równania wynikające ze wzorów Vi`ete’a: x1 + x2 = −3 i x1 · x2 = 2\nlub x1 + x2 = 3 i x1 · x2 = −2 i konsekwentnie do tego rozwiąże nierówność.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy:\n• poda zbiór rozwiązań nierówności: ⟨1, 2⟩lub x ∈⟨1, 2⟩lub 1 ≤x ≤2\nalbo\n• sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nnierówności w postaci x ≥1, x ≤2.\nalbo\n• poda zbiór rozwiązań nierówności w postaci graﬁcznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\n1\n2\n11"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2009-listopad-probna/27.webp",
+   "size": [
+    947,
+    81
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\n3\n−\n2\n+\n−\n=\nRozwiąż równanie\nx\n7\nx\n2\nx\n14\n0\n.",
+   "key": "Zadanie 27. (2 punkty)\n3\n−\n2\n+\n−\n=\nRozwiąż równanie\nx\n7\nx\n2\nx\n14\n0\n.\nRozwiązanie:\nStosuję metodę grupowania, by przedstawić lewą stronę równania w postaci iloczynowej:\n) (\n)(\n(\n)\n(\n)\n−\n+\n−\n=\n−\n+\n−\n=\n+\n−\nx\n3\n7\nx\n2\n2\nx\n14\nx\n2\nx\n7\n2\nx\n7\nx\n2\n2\nx\n7\n.\nZ równania (\n)(\n)\n+\n−\n=\nx\n2\n2\nx\n7\n0\notrzymujemy, że\nx +\n=\nx −\n=\n2\n2\n0\nlub\n7\n0\n.\nx +\n=\nx −\n=\nRównanie\n2\n2\n0\nnie ma rozwiązań. Rozwiązaniem równania\n7\n0\njest liczba 7.\n=\nOdpowiedź: Jedynym rozwiązaniem jest\nx\n7\n.\nZadanie 27. (2 punkty)\nRozwiąż równanie x3 −7x2 + 2x −14 = 0.\nI sposób rozwiązania: grupowanie\nPrzedstawiamy lewą stronę równania w postaci iloczynowej, stosując metodę grupowa-\nnia:\nx3 −7x2 + 2x −14 = x2(x −7) + 2(x −7) = (x2 + 2)(x −7).\nZ równania (x2 + 2)(x −7) = 0 otrzymujemy, że\nx2 + 2 = 0\nlub\nx −7 = 0.\nRównanie x2 +2 = 0 nie ma rozwiązań. Rozwiązaniem równania x −7 = 0 jest liczba 7.\nOdpowiedź: Jedynym rozwiązaniem równania x3 −7x2 + 2x −14 = 0 jest x = 7.\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy pogrupuje wyrazy do postaci, z której łatwo można przejść do postaci iloczynowej,\nnp.: x2(x −7) + 2(x −7) = 0 lub x(x2 + 2) −7(x2 + 2) = 0 i na tym poprzestanie lub\ndalej popełni błędy.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy bezbłędnie wyznaczy rozwiązanie równania: x = 7.\nUwagi:\n1. Nie wymagamy komentarza, że równanie x2 + 2 = 0 jest sprzeczne lub że nie ma\nrozwiązania.\n2. Zdający może od razu zapisać rozkład na czynniki. Jeśli na tym poprzestanie lub\nbłędnie poda rozwiązanie równania, to otrzymuje 1 punkt.\n3. Jeżeli zdający otrzyma rozwiązanie x = 7 i poda dodatkowo inne „rozwiązania”,\n√\n√\nnp. x =\n2, x = −\n2, to otrzymuje 1 punkt.\n4. Jeżeli zdający podejmuje próbę grupowania, która nie prowadzi do postaci iloczy-\nnowej np. (x3 −14) −x(7x −2) = 0 lub (x3 −14) + x(−7x + 2) = 0 i na tym\npoprzestaje, to otrzymuje 0 pkt.\n√\n√\n5. Jeżeli zdający poda odpowiedź x = 7, x = i\n2, x = −i\n2, to otrzymuje 2 punkty,\na gdy poda odpowiedź x = √\n−2, x = −√\n−2 oraz x = 7, to otrzymuje 1 punkt.\nDrugi sposób rozwiązania polega na odgadnięciu pierwiastka całkowitego wielomianu\n(x = 7) i podzieleniu wielomianu przez dwumian x −7 (metodą „pisemną” lub za\npomocą algorytmu Hornera)."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2009-listopad-probna/28.webp",
+   "size": [
+    950,
+    117
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\n(\n)\n(\n)\nA =\n=\nW układzie współrzędnych na płaszczyźnie punkty\n2, 5\ni\nC\n6, 7\nsą przeciwległymi\nwierzchołkami kwadratu ABCD. Wyznacz równanie prostej BD.",
+   "key": "Zadanie 28. (2 punkty)\n(\n)\n(\n)\nA =\n=\nW układzie współrzędnych na płaszczyźnie punkty\n2, 5\ni\nC\n6, 7\nsą przeciwległymi\nwierzchołkami kwadratu ABCD. Wyznacz równanie prostej BD.\nRozwiązanie:\n−\n7\n5\n1\n=\n=\nObliczam współczynnik kierunkowy prostej AC:\na\n, a następnie wyznaczam\nAC\n−\n6\n2\n2\n= −.\nwspółczynnik kierunkowy prostej BD prostopadłej do AC:\na\n2\nBD\n+\n+\n⎛\n⎞\n2\n6 5\n7\n(\n)\n=\n=\nWyznaczam współrzędne środka S odcinka AC:\nS\n,\n4,6\ni wyznaczam\n⎜\n⎟\n⎝\n2\n2\n⎠\n−, przechodzącej przez punkt S.\nrównanie prostej o współczynniku kierunkowym 2\n= −\n+\nOdpowiedź:\ny\n2\nx\n14\n.\nZadanie 28. (2 punkty)\nW układzie współrzędnych na płaszczyźnie punkty A = (2, 5) i C = (6, 7) są przeciwle-\ngłymi wierzchołkami kwadratu ABCD. Wyznacz równanie prostej BD.\nI sposób rozwiązania: współczynnik kierunkowy\nObliczamy współczynnik kierunkowy prostej AC: aAC = 7−5\n6−2 = 1\n2, a następnie wyzna-\nczamy współczynnik kierunkowy prostej BD prostopadłej do AC: aBD = −2.\n12\n\u0000 2+6\n\u0001\n2 , 5+7\nWyznaczamy współrzędne środka S odcinka AC: S =\n= (4, 6) i wyznaczamy\n2\nrównanie prostej o współczynniku kierunkowym −2, przechodzącej przez punkt S.\nOdpowiedź: y = −2x + 14.\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy wyznaczy równanie prostej AC lub jej współczynnik kierunkowy oraz:\n• obliczy współczynnik kierunkowy prostej BD\nlub\n• poda współrzędne środka S odcinka AC: S = (4, 6) i na tym poprzestanie lub dalej\npopełnia błędy.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy zapisze równanie prostej BD, np.:\n• y = −2x + 14\n• y = −2(x −4) + 6\n• 2x + y −14 = 0\n• 4(x −4) + 2(y −6) = 0.\nVI sposób rozwiązania: Na podstawie współrzędnych punktów A = (2, 5) i C = (6, 7)\nzapisujemy równość odległości |AP| = |CP| (lub kwadratów odległości |AP|2 = |CP|2)\nod dowolnego punktu P leżącego na symetralnej odcinka AC, np.:\n(x −2)2 + (y −5)2 = (x −6)2 + (y −7)2.\nWyznaczamy równanie prostej BD w dowolnej postaci, np. y = −2x + 14.\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\np\n(x −2)2 + (y −5)2 lub\ngdy zapisze, że |AP| = |CP| oraz jedną z długości |AP| =\np\n(x −6)2 + (y −7)2 (lub jej kwadrat) i na tym poprzestanie lub dalej popełnia\n|CP| =\nbłędy.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy zapisze równanie prostej BD, np.\n• y = −2x + 14\n• y = −2(x −4) + 6\n• 2x + y −14 = 0\n• 4(x −4) + 2(y −6) = 0\n• (x −2)2 + (y −5)2 = (x −6)2 + (y −7)2.\nInne sposoby rozwiązania polegały na:\n• wyznaczeniu współrzędnych punktów B i D, a następnie równania prostej przecho-\ndzącej przez te dwa punkty (sposób II);\n• wyznaczeniu równania symetralnej odcinka AC ze wzoru\n(xC −xA)x + (yC −yA)y −(xC −xA)xS −(yC −yA)yS = 0\n(sposób III);\n13\n• skorzystaniu z iloczynu skalarnego wektorów (sposób IV);\n• wyznaczeniu równania parametrycznego prostej BD:\n\u001a\nx = 4 −2t\ny = 6 + 4t\n(sposób V).\nUwaga: W sposobie II dopuszczano odczytanie współrzędnych punktów B, D i S bez-\npośrednio z rysunku na papierze kratkowanym, np.:\ny\nD=(3,8)\nC=(6,7)\nS=(4,6)\nA=(2,5)\nB=(5,4)\nx"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2009-listopad-probna/29.webp",
+   "size": [
+    950,
+    108
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\n4\nα =\nα\n+\nα\nKąt α jest ostry i\ntg\n. Oblicz\nsin\ncos\n.\n3",
+   "key": "Zadanie 29. (2 punkty)\n4\nα =\nα\n+\nα\nKąt α jest ostry i\ntg\n. Oblicz\nsin\ncos\n.\n3\nRozwiązanie:\nI sposób rozwiązania:\nα\nZ definicji funkcji tangens mamy sin\n4\n4\nα =\nα\n=\nα\n, zatem\nsin\ncos\n. Podstawiam tę równość\ncos\n3\n3\n2\n⎛\n⎞+\n4 cos\n9\nα\n+\nα\n= i otrzymuję\nα\nα\n=\nα =\ndo tożsamości\nsin\n2\ncos\n2\n1\ncos\n2\n1\n, a stąd\ncos\n2\n.\n⎜\n⎟\n⎝\n3\n⎠\n25\n3\n3\nα\n=\nα\n=\n−\nZatem\ncos\nlub\ncos\n. Ujemny wynik odrzucam, ponieważ zgodnie z warunkami\n5\n5\n4\nzadania kąt α jest kątem ostrym. Obliczam wartości funkcji\nα =\nsin\n, a następnie wartość\n5\n4\n3\n7\nα\n+\nα\n=\n+\n=\nwyrażenia\nsin\ncos\n.\n5\n5\n5\n7\nα\n+\nα\n=\nOdpowiedź:\nsin\ncos\n.\n5\n3\nII sposób rozwiązania:\nRysuję trójkąt prostokątny, w którym oznaczam przyprostokątne 3x i 4x oraz\n4\nzaznaczam kąt ostry α tak, aby\nα =\ntg\n.\n3\n4x\n3x\nZ twierdzenia Pitagorasa obliczam długość przeciwprostokątnej: (\n)\n(\n)\n2\n2\n+\n=\n2\n4\nx\n3\nx\n25\nx\n.\n4\nα =\nZatem przeciwprostokątna ma długość 5x . Obliczam wartości funkcji\nsin\n5\n3\n4\n3\n7\nα =\nα\n+\nα\n=\n+\n=\ni\ncos\n. Stąd\nsin\ncos\n.\n5\n5\n5\n5\n7\nα\n+\nα\n=\nOdpowiedź:\nsin\ncos\n.\n5\nZadanie 29. (2 punkty)\nKąt α jest ostry i tg α = 4\n3. Oblicz sin α + cos α.\nIII sposób rozwiązania: trójkąt prostokątny\nRysujemy trójkąt prostokątny, w którym oznaczamy przyprostokątne 3x i 4x oraz za-\nznaczamy kąt ostry α tak, aby tg α = 4\n3.\nUwaga: Zdający może oznaczyć długości przyprostokątnych liczbami 3 oraz 4.\n4x\nα\n3x\nZ twierdzenia Pitagorasa obliczamy długość przeciwprostokątnej: (4x)2 + (3x)2 = 25x2.\nZatem przeciwprostokątna ma długość 5x. Obliczamy wartości funkcji sin α = 4\n5 oraz\ncos α = 3\n5. Stąd sin α + cos α = 4\n5 + 3\n5 = 7\n5.\n14\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy:\n• obliczy długość przeciwprostokątnej trójkąta prostokątnego o przyprostokątnych\ndługości 3 i 4 (lub np. 3x i 4x), nawet z błędem rachunkowym oraz zapisze co\nnajmniej jedną z liczb sin α lub cos α i na tym zakończy lub dalej popełnia błędy\nalbo\n• narysuje trójkąt prostokątny o przyprostokątnych długości 3 i 4 (lub np. 3x i 4x)\ni zaznaczy w tym trójkącie poprawnie kąt α\nalbo\n• obliczy sin α + cos α popełniając błąd rachunkowy.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy obliczy sin α + cos α = 7\n5.\nPozostałe sposoby rozwiązania polegały na:\n• zapisaniu układu równań z niewiadomymi sin α i cos α oraz doprowadzeniu tego\nukładu do równania kwadratowego z jedną niewiadomą (sin α lub cos α). Jedno\nrównanie pochodziło z wyrażenia funkcji tangens za pomocą pozostałych dwóch\nfunkcji, drugim była tzw. „jedynka trygonometryczna” (sposób I i II);\n• odczytaniu z tablic przybliżonej wartości α, a następnie znalezieniu w tablicach dla\ntej wartości α odpowiednich wartości sin α oraz cos α (sposób IV)."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2009-listopad-probna/30.webp",
+   "size": [
+    947,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\n+\n+\n+\n⎛\nm\n1\nm\n3\nm\n9\n⎞\nWykaż, że dla każdego m ciąg\n⎜\n,\n,\n⎟\njest arytmetyczny.\n⎝\n4\n6\n12\n⎠",
+   "key": "Zadanie 30. (2 punkty)\n+\n+\n+\n⎛\n⎞\nm\n1\nm\n3\nm\n9\nWykaż, że dla każdego m ciąg\n⎜\n,\n,\n⎟\njest arytmetyczny.\n⎝\n4\n6\n12\n⎠\nRozwiązanie:\nI sposób rozwiązania:\nWystarczy sprawdzić, że zachodzi następujący związek między sąsiednimi wyrazami\n+\na\na\n=\n−\n+\nciągu:\na\nn\n1\nn\n1\n.\nn\n2\n+\n+\n+\nm\n1\nm\n3\nm\n9\n=\n=\n=\nMamy\na\n,\na\n,\na\n.\n1\n2\n3\n4\n6\n12\n+\n+\nm\n1\nm\n9\n+\n+\n+ +\n+\n+\n+\na\na\n3\nm\n3\nm\n9\n4\nm\n12\nm\n3\n4\n12\n=\n=\n=\n=\n=\nZatem\n1\n3\na\n.\n2\n2\n2\n24\n24\n6\n+\n+\n+\n⎛\nm\n1\nm\n3\nm\n9\n⎞\n⎜\n⎟\nStąd wynika, że ciąg\n,\n,\njest arytmetyczny dla każdego m.\n⎝\n4\n6\n12\n⎠\nII sposób rozwiązania:\n+\n+\n+\nm\n1\nm\n3\nm\n9\n=\n=\n=\nMamy\na\n,\na\n,\na\n.\n1\n2\n3\n4\n6\n12\n−\n=\n−\nWystarczy sprawdzić, że\na\na\na\na\n.\n2\n1\n3\n2\nObliczamy:\n+\n+\n+\n+\nm\n3\nm\n1\nm\n9\nm\n3\n−\n=\n−\n6\n4\n12\n6\n+\n−\n−\n+\n−\n−\nm\nm\nm\nm\n2\n6\n3\n3\n9\n2\n6\n=\n12\n12\n−\n+\n−\n+\nm\n3\nm\n3\n=\n12\n12\n4\nZadanie 30. (2 punkty)\n\u0000 m+1\n\u0001\n4 , m+3\n6 , m+9\nWykaż, że dla każdego m ciąg\njest arytmetyczny.\n12\nI sposób rozwiązania: wykorzystanie własności ciągu arytmetycznego\nWystarczy sprawdzić, że zachodzi następujący związek między sąsiednimi wyrazami\nciągu: an = an−1+an+1\n(lub 2an = an−1 + an+1).\n2\nMamy a1 = m+1\n4 , a2 = m+3\n6 , a3 = m+9\n12 . Zatem\nm+1\n+ m+9\na1 + a3\n= 3m + 3 + m + 9\n= 4m + 12\n= m + 3\n4\n12\n=\n= a2\n2\n2\n24\n24\n6\nlub\na1 + a3 = m + 1\n+ m + 9\n= 3m + 3 + m + 9\n= 4m + 12\n= m + 3\n= 2a2.\n4\n12\n12\n12\n3\n\u0000 m+1\n\u0001\n4 , m+3\n6 , m+9\nStąd wynika, że ciąg\njest arytmetyczny dla każdego m.\n12\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy zapisze warunek:\nm+1\n+ m+9\n= m + 3\n4\n12\n2\n6\nlub\nm + 1\n+ m + 9\n= 2 · m + 3\n.\n4\n12\n6\n15\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy z przedstawionego zapisu wynika, że otrzymana równość jest tożsamością.\nPozostałe sposoby rozwiązania polegały na:\n• obliczeniu obu różnic i przekonaniu się, że dla każdego m są one równe (sposób II);\n• obliczeniu różnicy r = a2 −a1 i wyrazu a3 = a2 + r (sposób III);\n• skorzystaniu ze wzorów na drugi i trzeci wyraz ciągu arytmetycznego, ułożeniu\nukładu równań i przekonaniu się, że jest on spełniony tożsamościowo dla każdego\nm (sposób IV)."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2009-listopad-probna/31.webp",
+   "size": [
+    950,
+    443
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nTrójkąty ABC i CDE są równoboczne. Punkty A, C i E leżą na jednej prostej. Punkty K, L i M\nsą środkami odcinków AC, CE i BD (zobacz rysunek). Wykaż, że punkty K, L i M\nsą wierzchołkami trójkąta równobocznego.\nD\nM\nB\nA\nE\nK\nC\nL",
+   "key": "Zadanie 31. (2 punkty)\nTrójkąty ABC i CDE są równoboczne. Punkty A, C i E leżą na jednej prostej. Punkty K, L i M\nsą środkami odcinków AC, CE i BD (zobacz rysunek). Wykaż, że punkty K, L i M\nsą wierzchołkami trójkąta równobocznego.\nD\nM\nB\nA\nE\nC\nL\nK\nRozwiązanie:\n=\n=\n°\nZ warunków zadania wynika, że\n)\nBAC\n)\nDCE\n60\n, więc odcinki AB i CD są\nrównoległe. Czworokąt ACDB jest trapezem. Odcinek KM łączy środki boków\nnierównoległych w tym trapezie, więc jest równoległy do jego podstaw. Wobec tego\nMKL =\n°\n)\n60\n.\n=\n=\n°\nPodobnie\n)\nACB\n)\nCED\n60\n, więc odcinki BC i DE są równoległe. Czworokąt BCED\njest trapezem. Odcinek ML łączy środki boków nierównoległych w tym trapezie, więc jest\nKLM =\n°\nrównoległy do jego podstaw. Wobec tego\n)\n60\n.\nOdpowiedź: Dwa kąty trójkąta KLM mają miarę 60°, zatem jest to trójkąt równoboczny.\nZadanie 31. (2 punkty)\nTrójkąty ABC i CDE są równoboczne. Punkty A, C i E leżą na jednej prostej. Punkty\nK, L i M są środkami odcinków AC, CE i BD (zobacz rysunek). Wykaż, że punkty K,\nL i M są wierzchołkami trójkąta równobocznego.\nD\nM\nB\nA\nE\nK\nC\nL\nI sposób rozwiązania: linia środkowa trapezu\nZ warunków zadania wynika, że |∡BAC| = |∡DCE| = 60◦, więc odcinki AB i CD są\nrównoległe. Czworokąt ACDB jest więc trapezem. Wynika stąd, że odcinek KM łączy\nśrodki boków nierównoległych w tym trapezie, więc jest równoległy do jego podstaw.\nWobec tego |∡MKL| = 60◦. Analogiczne rozumowanie przeprowadzamy dla trapezu\nCEDB i wykazujemy, że |∡MLK| = 60◦, a więc trójkąt KLM jest równoboczny.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n• gdy uzasadni, że odcinek KM jest równoległy do AB (lub do CD) oraz, że od-\ncinek ML jest równoległy do DE (lub do BC), oraz zapisze, że |∡MKL| = 60◦\ni |∡MLK| = 60◦.\nW uzasadnieniu wymagamy, aby zdający zapisał, że czworokąty ABCD oraz\nCEDB są trapezami oraz, że punkty K, L, M są środkami odpowiednich ramion\ntych trapezów\nalbo\n• powoła się na twierdzenie o odcinku łączącym środki nierównoległych boków tra-\npezu.\n16\nUwaga: Jeśli zdający zapisze tylko, że trójkąt jest równoboczny albo uzupełni rysunek\no odcinki KM i ML i zaznaczy kąty 60◦przy wierzchołkach K i L trójkąta KLM, to\notrzymuje 0 punktów.\nDwa następne sposoby rozwiązania inaczej wykorzystywały twierdzenie o linii środkowej\ntrapezu; w sposobie II korzystamy z tego, że długość linii środkowej trapezu jest śred-\nnią arytmetyczną długości podstaw, w sposobie III prowadzimy wysokości BK i DL,\na następnie korzystamy z własności linii środkowej trapezu KLDB.\nZdający, zamiast powoływać się na twierdzenie o linii środkowej trapezu, mogli skorzy-\nstać z właściwej postaci twierdzenia odwrotnego to twierdzenia Talesa. Związane z tym\nproblemy zostały omówione wcześniej.\nZadanie 31 miało na celu sprawdzenie umiejętności opisanych w standardzie V (rozumo-\nwanie i wnioskowanie). Dlatego w powyżej opisanych sposobach rozwiązania wymagano\npoprawnego, bezbłędnego dowodu i nie opisano sytuacji, w których egzaminator mógł\nprzyznać 1 punkt. Takie sytuacje wyróżniono natomiast w sposobie IV. Egzaminato-\nrzy zostali natomiast poinformowani, że w wyjątkowych sytuacjach (np. dowód pro-\nwadzony poprawnie, ale niedokończony) możliwe jest przyznanie 1 punktu, ale decyzje\nw tych przypadkach podejmuje CZEM. Miało to zapewnić porównywalność takich ocen.\nZgłaszano także wszystkie rozwiązania poprawne nieopisane w schemacie oceniania.\nIV sposób rozwiązania: geometria analityczna\nUmieszczamy oba trójkąty w układzie współrzędnych jak na rysunku i oznaczamy dłu-\ngość boku trójkąta ABC przez a oraz długość boku trójkąta CDE przez b.\n√\nD=( a\n2 + b\n2 , b\n3)\n2\nM\n√\nB=(0, a\n3)\n2\nA=(−a\nK\nC=( a\nL=( a\n2 + b\nE\n2 ,0)\n2 ,0)\n2 ,0)\n√\n√\nWtedy B = (0, a\n3), C = ( a\n2, 0), L = ( a\n2 + b\n2, 0) i D = a\n2 + b\n2, b\n3).\n2\n2\nPunkt M jest środkiem odcinka BD, więc\n!\n√\n√\n\u0012a + b\n\u0013\n0 + ( a\n2 + b\n2)\na\n3 + b\n3\n√\n, a + b\n2\n2\nM =\n=\n3\n,\n·\n.\n2\n2\n4\n4\n17\n√\nProsta KM ma współczynnik kierunkowy równy\n3, więc jest nachylona do osi Ox pod\n√\nkątem 60◦. Współczynnik kierunkowy prostej ML jest równy −\n3, co oznacza, że kąt\nnachylenia prostej ML do osi Ox jest równy 120◦, więc kąt MLK ma miarę 60◦. Stąd\nwnioskujemy, że trójkąt KLM jest równoboczny.\nUwaga: Po umieszczeniu obu trójkątów w układzie współrzędnych i obliczeniu współ-\nrzędnych punktów K, L i M zdający może obliczyć długości boków trójkąta KLM\ni stwierdzić, że są one równe a+b\n2 . Może też obliczać kwadraty tych długości.\nZdający otrzymuje\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\ngdy umieści trójkąty w układzie współrzędnych i wyznaczy współrzędne punktów K, L,\nM w zależności od długości boków trójkątów ABC i CDE i na tym poprzestanie lub\ndalej popełni błąd.\nZdający otrzymuje\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\n• gdy obliczy współczynniki kierunkowe prostych KM oraz ML i na tej podstawie\npoda kąty trójkąta KLM\nalbo\n• obliczy długości boków trójkąta KLM.\nUwaga: Układ współrzędnych może być umieszczony inaczej, np. początkiem układu\nmoże być punkt A albo punkt C."
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2009-listopad-probna/32.webp",
+   "size": [
+    950,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (5 pkt)\nUczeń przeczytał książkę liczącą 480 stron, przy czym każdego dnia czytał jednakową liczbę\nstron. Gdyby czytał każdego dnia o 8 stron więcej, to przeczytałby tę książkę o 3  dni\nwcześniej. Oblicz, ile dni uczeń czytał tę książkę.",
+   "key": "Zadanie 32. (5 punktów)\nUczeń przeczytał książkę liczącą 480 stron, przy czym każdego dnia czytał jednakową liczbę\nstron. Gdyby czytał każdego dnia o 8 stron więcej, to przeczytałby tę książkę o 3  dni\nwcześniej. Oblicz, ile dni uczeń czytał tę książkę.\nRozwiązanie:\nOznaczam: x – liczba stron przeczytanych każdego dnia, y – liczba dni.\nZapisuję i rozwiązuję układ równań:\n⋅\n=\n⎧⎪⎨\nx y\n480\n(\n) (\n)\n+\n⋅\n−\n=\n⎪⎩\nx\n8\ny\n3\n480\n480\n=\nZ pierwszego równania mamy\nx\n, zatem\ny\n⎛\n⎞\n480\n(\n)\n+\n⋅\n−\n=\n⋅\n8\ny\n3\n480\ny\n⎜\n⎟\ny\n⎝\n⎠\n(\n)(\n)\n+\n−\n=\n480\n8\ny\ny\n3\n480\ny\n−\n−\n=\n2\nPo uproszczeniu otrzymuję równanie\ny\n3\ny\n180\n0\n.\nRozwiązaniem równania są liczby: –12 oraz 15. Odrzucam ujemną liczbę dni.\nOdpowiedź: Uczeń przeczytał książkę w ciągu 15 dni.\n5\nZadanie 32. (5 punktów)\nUczeń przeczytał książkę liczącą 480 stron, przy czym każdego dnia czytał jednakową\nliczbę stron. Gdyby czytał każdego dnia o 8 stron więcej, to przeczytałby tę książkę o 3\ndni wcześniej. Oblicz, ile dni uczeń czytał tę książkę.\nUwaga: Rozwiązania, w których zdający myli typy wielkości, np. dodaje liczbę stron\ndo liczby dni, a także rozwiązania, w których przyjmuje, że liczby stron przeczytanych\nw kolejnych dniach tworzą ciąg arytmetyczny o różnicy 8, oceniamy na 0 punktów.\nI sposób rozwiązania: układ równań\nOznaczamy: x – liczba stron przeczytanych każdego dnia, y – liczba dni.\nZapisujemy i rozwiązujemy układ równań:\n\u001a\nx · y = 480\n(x + 8) · (y −3) = 480\nZ pierwszego równania mamy x = 480\ny , zatem\n\u0012480\n\u0013\n+ 8\n· (y −3) = 480,\ny\nczyli\n(480 + 8y)(y −3) = 480y.\n18\nPo uproszczeniu otrzymujemy równanie kwadratowe y2 −3y −180 = 0.\nDo tego równania kwadratowego można dojść także inną metodą. Wykonujemy mnoże-\nnia w drugim równaniu:\nxy −3x + 8y −24 = 480\ni po podstawieniu xy = 480 otrzymujemy równanie liniowe:\n8y −3x = 24.\nStąd obliczamy x = 8\n3 · y −8 i podstawiamy do pierwszego równania. Otrzymujemy\n\u00128\n\u0013\n3 · y −8\n= 480.\ny ·\nPo uproszczeniu otrzymujemy równanie kwadratowe y2 −3y −180 = 0.\nRozwiązaniami tego równania kwadratowego są liczby: y = −12 oraz y = 15. Odrzucamy\nujemną liczbę dni.\nOdpowiedź: Uczeń przeczytał książkę w ciągu 15 dni.\nUwaga: W zamieszczonym poniżej schemacie używamy niewiadomych x, y oznaczają-\ncych odpowiednio liczbę stron przeczytanych każdego dnia oraz liczbę dni. Oczywiście\nw pracach maturalnych te niewiadome mogą być oznaczane w inny sposób. Nie wyma-\ngamy, by te niewiadome były wyraźnie opisane na początku rozwiązania, o ile z postaci\nrównań jasno wynika ich znaczenie.\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na\ndrodze do całkowitego rozwiązania zadania\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . .\nZapisanie zależności między liczbą stron przeczytanych jednego dnia oraz liczbą dni,\nnp.: x · y = 480 lub (x + 8)(y −3) = 480,\ngdzie x jest liczbą stron przeczytanych jednego dnia, a y – liczbą dni.\nRozwiązanie, w którym jest istotny postęp\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . .\nZapisanie układu równań z niewiadomymi x i y, np.:\n\u001a\nx · y = 480\n(x + 8) · (y −3) = 480\nPokonanie zasadniczych trudności zadania\n3 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . .\nZapisanie równania z jedną niewiadomą x lub y, np:\n\u0012480\n\u0013\n(x + 8) ·\n−3\n= 480\nx\nlub\n\u0012480\n\u0013\n+ 8\n· (y −3) = 480\ny\n19\nlub\nx2 + 8x −1280 = 0\nlub\ny2 −3y −180 = 0.\nUwaga: Zdający nie musi zapisywać układu równań, może bezpośrednio zapisać rów-\nnanie z jedną niewiadomą.\nPokonanie zasadniczych trudności zadania, ale w trakcie ich pokonywania\nzostały popełnione błędy rachunkowe, usterki\n2 pkt\n. . . . . . . . . . . . . . . . . . . . .\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania zadania (np. błędy rachunkowe)\n4 pkt\n. . . . . . . .\n• rozwiązanie równania kwadratowego z niewiadomą x bezbłędnie i nieobliczenie\nliczby dni\nalbo\n• rozwiązanie równania kwadratowego z niewiadomą x z błędem rachunkowym i kon-\nsekwentne obliczenie liczby dni\nalbo\n• rozwiązanie zadania do końca z błędem rachunkowym popełnionym w którejkolwiek\nfazie rozwiązania, w tym również na początku, dalsze rozwiązanie jest przeprowa-\ndzone konsekwentnie w stosunku do popełnionego błędu a sam błąd nie spowodował\nistotnej zmiany w sposobie rozwiązywania zadania (np. nie spowodował, że otrzy-\nmano równanie liniowe zamiast kwadratowego lub nie zmienił liczby dopuszczalnych\npierwiastków równania).\nRozwiązanie bezbłędne\n5 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nOdrzucenie odpowiedzi y = −12 i podanie prawidłowej odpowiedzi: Uczeń przeczytał\ntę książkę w ciągu 15 dni.\nUwaga: Jeśli zdający nie opisze wprowadzonych oznaczeń, a z przedstawionego roz-\nwiązania nie można jednoznacznie zinterpretować wprowadzonych niewiadomych (np.\nzapisy są wzajemnie sprzeczne), to oceniamy rozwiązanie na 0 punktów."
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2009-listopad-probna/33.webp",
+   "size": [
+    950,
+    150
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\n(\n)\n(\n)\nA =\nB =\nPunkty\n2,0\ni\n12,0\nsą\nwierzchołkami\ntrójkąta\nprostokątnego\nABC\n=\no przeciwprostokątnej AB. Wierzchołek C leży na prostej o równaniu y\nx\n. Oblicz\nwspółrzędne punktu C.",
+   "key": "Zadanie 33. (4 punkty)\n(\n)\n(\n)\nA =\nB =\nPunkty\n2,0\ni\n12,0\nsą\nwierzchołkami\ntrójkąta\nprostokątnego\nABC\n=\no przeciwprostokątnej AB. Wierzchołek C leży na prostej o równaniu y\nx\n. Oblicz\nwspółrzędne punktu C.\nRozwiązanie:\nI sposób rozwiązania:\ny =\nPunkt C leży na prostej o równaniu\nx\ni na okręgu, którego środkiem jest środek\nprzeciwprostokątnej, a promień jest równy połowie długości tej przeciwprostokątnej.\n(\n)\n(\n)\n=\n−\n2\n+\n−\n2\n=\nObliczam długość przeciwprostokątnej AB:\nAB\n12\n2\n0\n0\n10\n.\n(\n)\nS =\nWyznaczam współrzędne środka przeciwprostokątnej:\n7,0\n.\nZapisuję równanie okręgu: (\n)\n−\n2\n+\n2\n=\nx\n7\ny\n25\n=\n⎧\ny\nx\nRozwiązuję układ równań (\n⎨\n)\n−\n2\n+\n=\n2\nx\n7\ny\n25\n⎩\nOtrzymuję równanie z jedną niewiadomą:\n2\n−x\n+\n=\nx\n7\n12\n0\nx =\nx =\nRozwiązaniem tego równania są liczby:\n4\n,\n3\n.\n1\n2\n(\n)\n(\n)\n=\nC =\nOdpowiedź: Warunki zadania spełniają dwa punkty:\nC\n4,4\noraz\n3,3\n.\nII sposób rozwiązania:\n(\n)\n(\n)\nOznaczmy współrzędne punktu C przez (\n)\n=\n−\n2\n+\n−\n2\n=\n,x y . Wtedy\nAB\n12\n2\n0\n0\n10\n,\n(\n)\n(\n)\n(\n)\n(\n)\n2\n2\n2\n2\n=\n−\n+\n−\n=\n−\n+\n−\nAC\nx\n2\ny\n0\n,\nBC\nx\n12\ny\n0\n.\n2\n2\n2\n+\n=\nTrójkąt ABC jest prostokątny, więc spełniona jest równość\nAC\nBC\nAB\n, czyli\n(\n)\n(\n)\n2\n2\n−\n+\n+\n−\n+\n=\n2\n2\n2\nx\n2\ny\nx\n12\ny\n10\n.\ny =\nPunkt C leży też na prostej o równaniu\nx\n, zatem aby obliczyć jego współrzędne, należy\nrozwiązać układ równań:\n(\n)\n(\n)\n⎧\n2\n2\n−\n+\n2\n+\n−\n+\n2\n=\n2\nx\n2\ny\nx\n12\ny\n10\n⎨\n=\ny\nx\n⎩\n2\n−\n+\n+\n2\n+\n2\n−\n+\n+\n2\n=\nx\n4\nx\n4\nx\nx\n24\nx\n144\nx\n100\n−\n+\n=\n2\n4\nx\n28\nx\n48\n0\n−x\n+\n=\n2\nx\n7\n12\n0\n=\n=\nx\n4,\nx\n3\n1\n2\n(\n)\n(\n)\n=\nC =\nOdpowiedź: Warunki zadania spełniają dwa punkty:\nC\n4,4\noraz\n3,3\n.\n6\nZadanie 33. (4 punkty)\nPunkty A = (2, 0) i B = (12, 0) są wierzchołkami trójkąta prostokątnego ABC o prze-\nciwprostokątnej AB. Wierzchołek C leży na prostej o równaniu y = x. Oblicz współ-\nrzędne punktu C.\nI sposób rozwiązania: prosta i okrąg\nPunkt C leży na prostej o równaniu y = x i na okręgu, którego środkiem jest środek\nprzeciwprostokątnej, a promień jest równy połowie długości tej przeciwprostokątnej.\nObliczamy długość przeciwprostokątnej AB: |AB| = |12 −2| = 10.\nWyznaczamy współrzędne środka przeciwprostokątnej: S = (7, 0).\nZapisujemy równanie okręgu: (x −7)2 + y2 = 25.\n20\nRozwiązujemy układ równań\n\u001a\ny = x\n(x −7)2 + y2 = 25\nPo podstawieniu y = x do drugiego równania, otrzymujemy równanie z jedną niewia-\ndomą:\n(x −7)2 + x2 = 25,\nczyli po uproszczeniu\nx2 −7x + 12 = 0.\nRozwiązaniami tego równania są liczby: x1 = 3, x2 = 4.\nOdpowiedź: Warunki zadania spełniają dwa punkty: C = (3, 3) oraz C = (4, 4).\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do\npełnego rozwiązania\n1 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nWyznaczenie współrzędnych środka przeciwprostokątnej: S = (7, 0).\nRozwiązanie, w którym jest istotny postęp\n2 pkt\n. . . . . . . . . . . . . . . . . . . . . . . .\nZapisanie układu równań (dana prosta i okrąg o średnicy AB)\n\u001a\ny = x\n(x −7)2 + y2 = 25\nPokonanie zasadniczych trudności zadania\n3 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . .\nSprowadzenie układu równań do równania kwadratowego z jedną niewiadomą\nx2 −7x + 12 = 0\ny2 −7y + 12 = 0.\nlub\nRozwiązanie bezbłędne\n4 pkt\n. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .\nObliczenie współrzędnych obu punktów C: C = (3, 3), C = (4, 4).\nUwagi:\n1. Jeżeli zdający popełni błąd rachunkowy w zapisie układu równań i na tym poprze-\nstanie, to przyznajemy 1 punkt.\n2. Jeżeli zdający popełni błąd rachunkowy w sprowadzeniu układu równań do rów-\nnania kwadratowego z jedną niewiadomą i na tym poprzestanie, to przyznajemy 2\npunkty.\n3. Jeżeli zdający popełni błąd rachunkowy w zapisie układu równań lub w sprowadze-\nniu układu równań do równania kwadratowego z jedną niewiadomą i konsekwentnie\nrozwiąże zadanie do końca, to przyznajemy 3 punkty.\n21\nPozostałe sposoby rozwiązania polegały na:\n• przyjęciu, że C = (x, x) i zastosowaniu twierdzenia Pitagorasa (sposób II);\n• przyjęciu, że C = (x, x) i skorzystaniu z iloczynu skalarnego −→\nAC · −−→\nBC = 0 (sposób\nIII);\n• odczytaniu współrzędnych punktu C z rysunku zrobionego na papierze kratkowa-\nnym (sposób IV);\n• skorzystaniu z własności wysokości trójkąta prostokątnego poprowadzonej z wierz-\nchołka kąta prostego (sposób V);\n• skorzystaniu ze współczynników kierunkowych prostych AC i BC (sposób VI).\nUwaga: W sposobie IV rozwiązanie bezbłędne polega na wskazaniu obu możliwości\nC = (3, 3) i C = (4, 4) oraz wykazaniu, że zadanie ma tylko dwa rozwiązania. Samo\nwskazanie punktów było oceniane na 2 pkt (za wskazanie jednego punktu C zdający\notrzymywał 1 punkt)."
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2009-listopad-probna/34.webp",
+   "size": [
+    950,
+    114
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (4 pkt)\n2\nPole trójkąta prostokątnego jest równe\n60 cm . Jedna przyprostokątna jest o 7 cm dłuższa\nod drugiej. Oblicz długość przeciwprostokątnej tego trójkąta.",
+   "key": "Zadanie 34. (4 punkty)\n2\nPole trójkąta prostokątnego jest równe\n60 cm . Jedna przyprostokątna jest o 7 cm dłuższa\nod drugiej. Oblicz długość przeciwprostokątnej tego trójkąta.\nOznaczam: a, b – długości przyprostokątnych danego trójkąta.\nZapisuję układ równań\n=\n+\n⎧⎪⎨\na\nb\n7\n1\n⋅\n=\na b\n60\n⎪⎩\n2\n1\n(\n)\n+\n=\nOtrzymuję równanie z jedną niewiadomą\n2 b\n7\nb\n60\n, którego pierwiastkami są liczby\nb =\nb = −\n8\noraz\n15\n.\nb =\na =\n+\n=\nOdrzucam ujemny pierwiastek, gdyż b jest długością odcinka. Zatem\n8\n,\n8\n7\n15\n.\n=\n+\n=\n+\n=\n=\nTeraz obliczam długość przeciwprostokątnej\n2\n2\n2\n2\n.\nc\na\nb\n8\n15\n289\n17\nOdpowiedź: Przeciwprostokątna ma długość 17 cm.\n7\nCENTRALNA KOMISJA EGZAMINACYJNA\nCentralny Zespół Ekspertów Matematycznych (CZEM)\nO SCHEMATACH OCENIANIA ZADAŃ OTWARTYCH\nPRÓBNEJ MATURY Z MATEMATYKI\nprzeprowadzonej 3 listopada 2009 r.\nProjekt, w ramach którego opracowano zasady oceniania zadań otwartych, schematy\noceniania i przeprowadzono ocenianie prac egzaminacyjnych był współﬁnansowany z\nprojektu Unii Europejskiej „Kapitał Ludzki”, projekt 4.2 „Pilotaż nowych egzaminów\nmaturalnych i eksternistycznych”.\n1. Ogólne zasady oceniania zadań otwartych\nDotychczas stosowany system oceniania zadań maturalnych (były to wyłącznie zadania\notwarte) polegał na wyróżnieniu w rozwiązaniu oddzielnych czynności, które miały być\nwykonane przez zdającego i przyznawaniu punktów za wykonanie każdej czynności od-\ndzielnie. Ogólna zasada oceniania zadań otwartych począwszy od matury 2010 roku jest\nnieco inna. Przyjęty system, nazwany systemem holistycznym, polega na spojrzeniu\ncałościowym na rozwiązanie. Każdy nauczyciel matematyki, oceniając rozwiązanie za-\ndania, potraﬁodpowiedzieć na pytanie, czy zadanie zostało w istocie rozwiązane przez\nucznia. Ta myśl stała się kluczowa dla nowego sposobu oceniania. Polega on z grubsza\nna tym, że ocena zależy przede wszystkim od tego, jak daleko zdający doprowadził\nswoje rozwiązanie.\nZadania otwarte znajdujące się w arkuszu maturalnym dzielimy na dwie grupy: zada-\nnia krótkiej odpowiedzi (za 2 punkty) i zadania rozszerzonej odpowiedzi (od 4 do 6\npunktów). W zadaniach krótkiej odpowiedzi zdający otrzymuje 1 punkt za rozwiązanie,\nktórego nie doprowadził do końca lub w którym popełnił pewne błędy; określone jest\njednak pewne minimum, które w tym rozwiązaniu musi być dokonane, by ten jeden\npunkt przyznać. W rozwiązaniach zadań rozszerzonej odpowiedzi zostaje wyróżniona\nnajważniejsza faza, nazywana pokonaniem zasadniczych trudności zadania. Przy-\njęto zasadę, że za pokonanie zasadniczych trudności zadania przyznaje się co najmniej\npołowę punktów, jakie zdający otrzymałby za bezbłędne rozwiązanie tego zadania. Tak\nwięc w zadaniu za 4 punkty, za pokonanie zasadniczych trudności przyznajemy 2 lub\n3 punkty (zależnie od zadania). W zadaniu za 5 punktów za pokonanie zasadniczych\ntrudności zadania na ogół przyznajemy 3 punkty. W zadaniach za 6 punktów – na ogół\n3 lub 4 punkty.\nWyróżnienie w rozwiązaniu zadania rozszerzonej odpowiedzi fazy pokonania zasadni-\nczych trudności zadania powoduje następnie wyróżnienie kilku innych faz. Przed po-\nkonaniem zasadniczych trudności zadania wyróżniamy jeszcze jedną lub dwie fazy je\npoprzedzające: dokonanie niewielkiego postępu, który jednak jest konieczny dla rozwią-\nzania zadania oraz dokonanie istotnego postępu w rozwiązaniu zadania. Zdający, który\npokonał zasadnicze trudności zadania mógł na tym poprzestać lub mógł kontynuować\nrozwiązanie. Wyróżniamy ważną kategorię rozwiązań, w których zdający pokonał za-\nsadnicze trudności zadania i kontynuował rozwiązanie do końca, jednak w rozwiązaniu\n1\npopełnił błędy niewpływające na poprawność całego rozumowania (np. nieistotne dla\ncałego rozumowania błędy rachunkowe lub niektóre błędy nieuwagi). Analogicznie wy-\nróżniamy kategorię pokonania zasadniczych trudności z nieistotnymi błędami. W każ-\ndym przypadku określana jest liczba punktów przyznawana za rozwiązania w każdej\n(lub niektórych) z powyższych kategorii. Należy tu podkreślić, że schemat oceniania\nrozwiązania zadania jest traktowany jako integralna część zadania; na ogół ten schemat\noceniania uwzględnia wszystkie typowe sposoby rozwiązania i czasami również niektóre\nnietypowe.\nPodsumowując: w rozwiązaniach zadań krótkiej odpowiedzi wyróżniamy następujące\ntrzy kategorie. Dla ujednolicenia terminologii, w rozwiązaniach, za które przyznajemy\n1 punkt, piszemy także o pokonaniu zasadniczych trudności.\n1.\nrozwiązanie, w którym nie zostały pokonane zasadnicze trudności za-\n0 pkt\ndania\n2.\nzostały pokonane zasadnicze trudności zadania, ale zadanie nie zostało\n1 pkt\nrozwiązane bezbłędnie\n3.\nzadanie zostało rozwiązane bezbłędnie\n2 pkt\nPokażemy teraz kilka przykładowych sposobów przydziału punktów za poszczególne\nfazy rozwiązania zadań rozszerzonej odpowiedzi. Najprostszy podział punktów za roz-\nwiązanie zadania za 4 punkty wygląda następująco:\n1.\nrozwiązanie, w którym nie ma istotnego postępu\n0 pkt\n2.\nzostał dokonany istotny postęp w rozwiązaniu zadania, ale nie zostały\n1 pkt\npokonane zasadnicze trudności zadania\nlub\nzostały pokonane zasadnicze trudności zadania, rozwiązanie zadania\nnie zostało doprowadzone do końca, ale w trakcie pokonywania zasad-\nniczych trudności zadania zostały popełnione błędy, usterki\n3.\nzostały pokonane zasadnicze trudności zadania i zdający na tym po-\n2 pkt\nprzestał lub błędnie kontynuował rozwiązanie\n4.\nzostały pokonane zasadnicze trudności zadania, zdający doprowadził\n3 pkt\nrozwiązanie do końca, ale rozwiązanie zadania zawiera błędy, usterki\n5.\nzadanie zostało rozwiązane bezbłędnie\n4 pkt\nPrzykładowy przydział punktów za rozwiązanie zadania za 5 punktów może przedsta-\nwiać się następująco:\n2\n1.\nrozwiązanie, w którym nie ma istotnego postępu\n0 pkt\n2.\nzostał dokonany istotny postęp w rozwiązaniu zadania, ale nie zostały\n1 pkt\npokonane zasadnicze trudności zadania\n3.\nzostały pokonane zasadnicze trudności zadania, ale w trakcie ich po-\n2 pkt\nkonywania zostały popełnione błędy, usterki\n4.\nzasadnicze trudności zadania zostały pokonane bezbłędnie i zdający\n3 pkt\nna t"
+  }
+ ]
+}

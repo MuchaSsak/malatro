@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2015-czerwiec",
+  "formula": "2005",
+  "level": "P",
+  "year": 2015,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "MMA-P1_1P-153",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2015-czerwiec-matura-stara-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2015-czerwiec-matura-stara-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2005-P-2015-czerwiec.pdf",
+  "keyFile": "f2005-P-2015-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "formula do 2014 (technikum); termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 22,
+  "keyPages": 13,
+  "examBytes": 506184,
+  "keyBytes": 595539
+ },
+ "keyHead": "EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2014/2015\nFORMUŁA DO 2014\n(„STARA MATURA”)\nMATEMATYKA\nPOZIOM PODSTAWOWY\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nARKUSZ MMA-P1\nCZERWIEC 2015\n2\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\nKlucz punktowania zadań zamkniętych\nNr\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nzad.\nOdp.\nB\nB\nC\nC\nC\nD\nC\nA\nB\nA\nB\nC\nA\nA\nB\nD\nB\nA\nC\nD\nD\nD\nD\nC\nA\nSchemat oceniania zadań otwartych\nZadanie 26. (2 pkt)\nx \n2\n\nRozwiąż nierówność\n7\n28\n0\n.\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania:\nx \n2\nZnajdujemy pierwiastki trójmianu kwadratowego\n7\n28\n:\n podajemy je bezpośrednio, np. zapisując pierwiastki trójmianu lub postać iloczynową\ntrójmianu lub zaznaczając na wykresie\nlub \n\n\nx ,\nx \n\n\n7\nx\n2\nx\n2\n2\n2\n1\n2\nalbo\n obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:\n\n\n0\n28\n0\n28\n\n\n\n\n\n\n\n\n\n\n2\n,\nx\n2\n,\n.\n0\n4 7\n28\n28\nx\n2\n1\n2\n14\n14\nDrugi etap rozwiązania:\n\n\n\nx\nPodajemy zbiór rozwiązań nierówności: 2\nx\n2\nlub\n2,2\nlub\n2,2\nnp. odczytując\n\n\n\n2\nf x\n7\nx\n28\ngo ze szkicu wykresu funkcji\n.\n\n2\nx\n2\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy:\n zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\no rozłoży trójmian kwadratowy na czynniki liniowe, np. \n\n\n\n\n7\nx\n2\nx\n2\ni na\ntym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n3\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\no obliczy lub poda pierwiastki trójmianu kwadratowego\nx  i\nx \ni na\n2\n2\n1\n2\ntym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n\n\n2\n\nf x\n7\nx\n28\no zaznaczy na wykresie miejsca zerowe funkcji\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n realizując pierwszy etap popełni błąd (ale otrzyma dwa różne pierwiastki)\ni konsekwentnie do tego rozwiąże nierówność, np. popełni błąd rachunkowy przy\nobliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do\npopełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy:\n poda zbiór rozwiązań nierówności: 2\n\n\nx\n2\n\nx\nlub\n2,2\nlub\n2,2\nalbo\n sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\n\n\nnierówności w postaci: 2\nx\n2\nalbo\n poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\n\n2\n2\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu\nx\nx  i\nx \ni zapisze, np.\n, popełniając tym samym błąd przy przepisywaniu\n2\n2\n2, 2\n1\n2\njednego z pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\n, to przyznajemy 2 punkty.\nx\n\nnierówności w postaci\n2, 2\nZadanie 27. (2 pkt)\n4\n\n3\n\n\n\nRozwiąż równanie\nx\n2\nx\n27\nx\n54\n.0\nRozwiązanie (metoda grupowania)\nPrzedstawiamy lewą stronę równania w postaci iloczynu, stosując metodę grupowania\nwyrazów\n3\n\n\n\n\nx\n(\nx\n2\n)\n27\n(\nx\n2\n)\n0\n\n\n\n3\n(\nx\n27)(\nx\n2)\n0\n.\nx  lub\nx \nStąd\n3\n2\n.\n4\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n\n\n3\ngdy zapisze lewą stronę równania w postaci iloczynu, np.:\n(\nx\n27\n)(\nx\n2\n)\ni na tym\npoprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\n\n\n\ngdy wyznaczy bezbłędnie oba rozwiązania równania:\nx\n,3\nx\n.2\nZadanie 28. (2 pkt)\nx  przyjmuje wartość największą równą 4. Do wykresu\nFunkcja kwadratowa  f  dla\n3\n\n\nA \nfunkcji  f  należy punkt\n1, 3\n. Zapisz wzór funkcji kwadratowej  f .\nI sposób rozwiązania\nx  funkcja kwadratowa  f  przyjmuje wartość największą\nWykorzystując fakt, że dla\n3\n\n\n\n2\n\n\n\n\nrówną 4, możemy zapisać:\nf x\na\nx\n3\n4\n.\n\n\nA \nPunkt\n1,3\nnależy do wykresu funkcji, zatem możemy obliczyć wartość\n1\n\n\n2\na\n\n\na \nwspółczynnika a:\n1 3\n4\n3\n,  stąd\n.\n4\n1\n\n\n\n2\n\n\n\n\nZapisujemy wzór funkcji  f  w postaci\nf x\nx\n3\n4\n.\n4\nSchemat oceniania I sposobu rozwiązania",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/1.webp",
+   "size": [
+    950,
+    209
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\n3\nLiczba (\n)\n0,2\n25− jest równa\n4\n3\n1\n1\n35\nC. 3\n2\nA.\nB.\n5\nD.\n3\n3\n2\n5\n5",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/2.webp",
+   "size": [
+    950,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\nPrzy 23-procentowej stawce podatku VAT cena brutto samochodu jest równa 45 018 zł. Jaka\njest cena netto tego samochodu?\nA. 34 663,86 zł\nB. 36 600 zł\nC. 44 995 zł\nD. 55 372,14 zł",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/3.webp",
+   "size": [
+    950,
+    240
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\nWskaż nierówność, która opisuje zaznaczony na osi liczbowej przedział otwarty (\n)\n4, 2\n.\n−\n4\n0\n2\n−\nA.\nx −\n1\n3\nB.\nx +\n3\n<\n1\nC.\nx +\n1\n<\n3\nD.\nx −\n3\n<\n1\n<",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/4.webp",
+   "size": [
+    950,
+    136
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\n3\n3\nLiczba\n17\nm\njest podzielna przez 19 dla\n+\nA.\nm = −\n8\nB.\nm = −\n2\nC.\nm =\n2\nD.\nm =\n8",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/5.webp",
+   "size": [
+    950,
+    324
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\n2\n(\nx\n)3\n−\n−\nDla\nrównanie\nx\n0\nx\n2\n≠\n=\n−\nx\nA. nie ma rozwiązań.\nB. ma dokładnie jedno rozwiązanie.\nC. ma dwa różne rozwiązania.\nD. ma trzy różne rozwiązania.",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/6.webp",
+   "size": [
+    947,
+    264
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\nRównanie\n2\nx\n2\n11\nx\n3\n0\n+\n+\n=\nA. nie ma rozwiązań rzeczywistych.\nB. ma dokładnie jedno rozwiązanie rzeczywiste.\nC. ma dwa dodatnie rozwiązania rzeczywiste.\nD. ma dwa ujemne rozwiązania rzeczywiste.",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/7.webp",
+   "size": [
+    947,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\nx\n4\n+\n( )\nDo dziedziny funkcji f określonej wzorem\nf x\nnie mogą należeć liczby\n=\n2\n(\n)\nx x\n1\n−\nA.\nx = − i\n4\nx =\n0\nB.\nx = − i\n4\nx =\n1\nC.\nx =\n0\ni\nx =\n1\nD.\nx = − i\n1\nx =\n1",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/8.webp",
+   "size": [
+    947,
+    179
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\nx\n1\nWyrażenie\n, określone dla\nx\n0\ni\nx\n1\n, jest równe\n1 −\n≠\n≠\nx\nx\n−\n2\n2\n2\nx\nx\n1\nx\nx\n1\nx\n1\nx\nx\n1\n−\n+\n−\n−\n−\n−\n−\nA.\nB.\nC.\nD.\n2\n2\n2\nx\nx\nx\nx\nx\nx\nx\n1\n−\n−\n−\n−",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/9.webp",
+   "size": [
+    947,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\nLiczba\n8log 2\n2\njest równa\n+\n4\nA. 8\nB. 6\nC. 4\nD. 3,5",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/10.webp",
+   "size": [
+    947,
+    137
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\n2 +\nNajmniejszą wartością funkcji kwadratowej\nf\n(\nx\n)\nx\n4\nx\njest\n=\nA. 4\n−\nB.\n2\nC.0\nD.4\n−",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/11.webp",
+   "size": [
+    950,
+    585
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\nNa rysunku przedstawiono fragment wykresu pewnej funkcji liniowej f .\ny\n6\n5\n4\n3\n2\n1\nx\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n-1\n( )\ny\nf\nx\n=\n-2\n-3\n-4\nFunkcja liniowa g, której wykres jest symetryczny do wykresu funkcji f względem poziomej\nosi układu współrzędnych, jest określona wzorem\nA. ( )\nB. ( )\nC. ( )\nD. ( )\ng x\n2\nx\n2\ng x\n2\nx\n2\ng x\n2\nx\n2\ng x\n2\nx\n2\n= −\n−\n=\n−\n= −\n+\n=\n+",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/12.webp",
+   "size": [
+    950,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\nCiąg arytmetyczny (\n)\nna\njest określony wzorem\nna\n2\nn\n−, dla\n1\nn ≥. Suma stu\n1\n=\npoczątkowych kolejnych wyrazów tego ciągu jest równa\nA. 9900\nB. 9950\nC. 10000\nD. 10050",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/13.webp",
+   "size": [
+    950,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nCiąg\nx\n35,\nx\n10,\nx\n20\njest geometryczny. Stąd wynika, że\n+\n−\n+\nA.\nx = −\n8\nB.\nx = −\n1\nC.\nx =\n5\nD.\nx =\n15",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/14.webp",
+   "size": [
+    950,
+    178
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\nKąt α jest najmniejszym z kątów trójkąta prostokątnego o bokach długości\nWtedy\n,2\n,3\n.1\n3\n1\n2\n3\n3\nA.\ncos\nB.\ncos\nC.\ncos\nD.\ncos\nα\n=\nα\n=\nα\n=\nα\n=\n2\n2\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/15.webp",
+   "size": [
+    950,
+    202
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\n2\n2sin\ncos\nα\n⋅\nα\nDla każdego kąta α , spełniającego warunek 0\n90\n°, wyrażenie\njest\n° <\nα\n<\n2\n2\n1 cos\nsin\n+\nα\n−\nα\nrówne\n2\nA. cosα\nB.  sinα\nC. 2sinα\nD.\ncos α",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/16.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nBok rombu ma taką samą długość jak przekątna kwadratu. Pole rombu jest równe polu\nkwadratu. Zatem kąt ostry tego rombu ma miarę\nA.\n75\nB. 45°\nC. 60°\nD. 30°\n°",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/17.webp",
+   "size": [
+    950,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\n(\n)\n(\n)\nDane są punkty\nA = −\n2, 5\noraz\nB =\n4,\n1\n. Promień okręgu opisanego na trójkącie\n−\nrównobocznym ABC jest równy\nA.\n6\nB. 2 6\nC. 6 3\nD. 3 3",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/18.webp",
+   "size": [
+    950,
+    141
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\n(\n)\nSuma odległości punktu\nA = −\n2, 4\nod prostych o równaniach\nx =\n3\ni\ny = − jest równa\n1\nA. 10\nB. 9\nC. 8\nD. 7",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/19.webp",
+   "size": [
+    950,
+    470
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nW trójkącie ABC wpisanym w okrąg o środku w punkcie S, miara kąta ABC jest równa\n40\n°\n(zobacz rysunek).\nC\nα\nB\n40°\nA\nS\nMiara α kąta, jaki bok AC tworzy z promieniem CS, jest równa\nA.\n40\n°\nB.\n45\n°\nC.\n50\n°\nD.\n60\n°\nα =\nα =\nα =\nα =",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/20.webp",
+   "size": [
+    950,
+    180
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\nDany jest stożek, którego przekrojem osiowym jest trójkąt o bokach długości: 6, 10 i 10.\nStosunek pola powierzchni bocznej stożka do pola jego podstawy jest równy\nA. 4\nB. 5\nC. 5\nD. 10\n3\n4\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/21.webp",
+   "size": [
+    950,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\nKażda krawędź ostrosłupa prawidłowego trójkątnego ma długość równą 8. Pole powierzchni\ncałkowitej tego ostrosłupa jest równe\nA. 16 3\nB. 32 3\nC. 48 3\nD. 64 3",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/22.webp",
+   "size": [
+    951,
+    105
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\nPromień kuli o objętości\nV\n288\njest równy\n=\nπ\nA. 18\nB. 9\nC. 8\nD. 6",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/23.webp",
+   "size": [
+    951,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nMedianą zestawu danych\n,2\n,3\n,5\nx\n,\n,1\n9\njest liczba 4. Wtedy x może być równe\nA. 2\nB. 3\nC. 4\nD. 5",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/24.webp",
+   "size": [
+    951,
+    125
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nIle jest wszystkich liczb naturalnych trzycyfrowych, których iloczyn cyfr jest równy 4?\nA. 3\nB. 4\nC. 6\nD. 8",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-czerwiec/25.webp",
+   "size": [
+    951,
+    179
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\nRzucamy dwa razy symetryczną sześcienną kostką do gry. Prawdopodobieństwo otrzymania\niloczynu oczek równego cztery jest równe\nA. 1\nB. 1\nC. 1\nD. 5\n12\n18\n9\n36",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-czerwiec/26.webp",
+   "size": [
+    956,
+    80
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\nRozwiąż nierówność\n7\nx −\n2\n28\n0\n.\n≤",
+   "key": "Zadanie 26. (2 pkt)\nx \n2\n\nRozwiąż nierówność\n7\n28\n0\n.\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania:\nx \n2\nZnajdujemy pierwiastki trójmianu kwadratowego\n7\n28\n:\n podajemy je bezpośrednio, np. zapisując pierwiastki trójmianu lub postać iloczynową\ntrójmianu lub zaznaczając na wykresie\nlub \n\n\nx ,\nx \n\n\n7\nx\n2\nx\n2\n2\n2\n1\n2\nalbo\n obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:\n\n\n0\n28\n0\n28\n\n\n\n\n\n\n\n\n\n\n2\n,\nx\n2\n,\n.\n0\n4 7\n28\n28\nx\n2\n1\n2\n14\n14\nDrugi etap rozwiązania:\n\n\n\nx\nPodajemy zbiór rozwiązań nierówności: 2\nx\n2\nlub\n2,2\nlub\n2,2\nnp. odczytując\n\n\n\n2\nf x\n7\nx\n28\ngo ze szkicu wykresu funkcji\n.\n\n2\nx\n2\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy:\n zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\no rozłoży trójmian kwadratowy na czynniki liniowe, np. \n\n\n\n\n7\nx\n2\nx\n2\ni na\ntym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n3\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\no obliczy lub poda pierwiastki trójmianu kwadratowego\nx  i\nx \ni na\n2\n2\n1\n2\ntym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n\n\n2\n\nf x\n7\nx\n28\no zaznaczy na wykresie miejsca zerowe funkcji\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n realizując pierwszy etap popełni błąd (ale otrzyma dwa różne pierwiastki)\ni konsekwentnie do tego rozwiąże nierówność, np. popełni błąd rachunkowy przy\nobliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do\npopełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy:\n poda zbiór rozwiązań nierówności: 2\n\n\nx\n2\n\nx\nlub\n2,2\nlub\n2,2\nalbo\n sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\n\n\nnierówności w postaci: 2\nx\n2\nalbo\n poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\n\n2\n2\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu\nx\nx  i\nx \ni zapisze, np.\n, popełniając tym samym błąd przy przepisywaniu\n2\n2\n2, 2\n1\n2\njednego z pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\n, to przyznajemy 2 punkty.\nx\n\nnierówności w postaci\n2, 2"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-czerwiec/27.webp",
+   "size": [
+    956,
+    92
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\nx\n4\n2\nx\n3\n27\nx\n54\n.0\nRozwiąż równanie\n−\n+\n−\n=",
+   "key": "Zadanie 27. (2 pkt)\n4\n\n3\n\n\n\nRozwiąż równanie\nx\n2\nx\n27\nx\n54\n.0\nRozwiązanie (metoda grupowania)\nPrzedstawiamy lewą stronę równania w postaci iloczynu, stosując metodę grupowania\nwyrazów\n3\n\n\n\n\nx\n(\nx\n2\n)\n27\n(\nx\n2\n)\n0\n\n\n\n3\n(\nx\n27)(\nx\n2)\n0\n.\nx  lub\nx \nStąd\n3\n2\n.\n4\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n\n\n3\ngdy zapisze lewą stronę równania w postaci iloczynu, np.:\n(\nx\n27\n)(\nx\n2\n)\ni na tym\npoprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\n\n\n\ngdy wyznaczy bezbłędnie oba rozwiązania równania:\nx\n,3\nx\n.2"
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-czerwiec/28.webp",
+   "size": [
+    956,
+    118
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\nFunkcja kwadratowa,  f  dla\nx = − przyjmuje wartość największą równą 4. Do wykresu\n3\n(\n)\nfunkcji  f  należy punkt\nA = −\n1, 3\n. Zapisz wzór funkcji kwadratowej  f .",
+   "key": "Zadanie 28. (2 pkt)\nx  przyjmuje wartość największą równą 4. Do wykresu\nFunkcja kwadratowa  f  dla\n3\n\n\nA \nfunkcji  f  należy punkt\n1, 3\n. Zapisz wzór funkcji kwadratowej  f .\nI sposób rozwiązania\nx  funkcja kwadratowa  f  przyjmuje wartość największą\nWykorzystując fakt, że dla\n3\n\n\n\n2\n\n\n\n\nrówną 4, możemy zapisać:\nf x\na\nx\n3\n4\n.\n\n\nA \nPunkt\n1,3\nnależy do wykresu funkcji, zatem możemy obliczyć wartość\n1\n\n\n2\na\n\n\na \nwspółczynnika a:\n1 3\n4\n3\n,  stąd\n.\n4\n1\n\n\n\n2\n\n\n\n\nZapisujemy wzór funkcji  f  w postaci\nf x\nx\n3\n4\n.\n4\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ...............................................................................................................1 p.\ngdy\n Zapisze wzór funkcji, w którym nieznany jest tylko współczynnik stojący przy x2,\n\n\n\n2\n\n\n\n\nnp.\n,\nf x\na\nx\n3\n4\nalbo\n popełni błąd rachunkowy przy obliczeniu współczynnika a i konsekwentnie do\npopełnionego błędu zapisze wzór funkcji kwadratowej f.\nZdający otrzymuje ...............................................................................................................2 p.\n1\n\n\n\n2\n\n\n\n\ngdy zapisze wzór funkcji kwadratowej  f  : np.\nf x\nx\n3\n4\n.\n4\nII sposób rozwiązania\n\n2\n\n\nFunkcja kwadratowa może być opisana wzorem\nf x\n( )\nax\nbx\nc\n.\nx ,\nWykorzystując fakt, że funkcja kwadratowa  f  przyjmuje wartość największą dla\n3\n\nb\n.\nmożemy zapisać:\n3\n2\na\n5\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\n\n\n2\n\n.\nStąd\nb\n6\na\n, czyli\nf x\n( )\nax\n6\nax\nc\n\n\nW \n\n\n\nPunkt\n3,4\nnależy do wykresu funkcji, zatem możemy zapisać:  4\n9\na\n18\na\nc\n\n\n\n2\n\n\n.\nStąd\nc\n9\na\n4\n, czyli\nf x\n( )\nax\n6\nax\n9\na\n4\n\n\nA \nPunkt\n1,3\nnależy do wykresu funkcji, zatem możemy obliczyć wartość\n1\n\n\n\n\na \nwspółczynnika a:\n,  stąd\n.\na\n6\na\n9\na\n4\n3\n4\n6\n7\nb \nc \nWyznaczamy wartości b i c:\n,\n4\n4\n1\n6\n7\n2\n\n\n\n\nZapisujemy wzór funkcji  f :\nf\n(\nx\n)\nx\nx\n.\n4\n4\n4\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ...............................................................................................................1 p.\ngdy\n Zapisze wzór funkcji, w którym nieznany jest tylko jeden współczynnik trójmianu\n\n2\n\n\n\n2\n\n\n,\nkwadratowego\nf x\n( )\nax\nbx\nc\n, np.\nf x\n( )\nax\n6\nax\n9\na\n4\nalbo\n popełni błędy rachunkowe przy obliczeniu współczynników a, b, c i konsekwentnie do\npopełnionych błędów zapisze wzór funkcji kwadratowej f.\nZdający otrzymuje ...............................................................................................................2 p.\n1\n6\n7\n\n\n2\n\n\ngdy zapisze wzór funkcji kwadratowej  f  : np.\nf\n(\nx\n)\nx\nx\n.\n4\n4\n4"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-czerwiec/29.webp",
+   "size": [
+    918,
+    392
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\nBok AB czworokąta ABCD wpisanego w okrąg jest średnicą tego okręgu (zobacz rysunek).\n2\n2\n2\n2\nUdowodnij, że\nAD\nBD\nBC\nAC\n.\n+\n=\n+\nD\nC\nO\nB\nA",
+   "key": "Zadanie 29. (2 pkt)\nBok AB czworokąta ABCD wpisanego w okrąg jest średnicą tego okręgu (zobacz rysunek).\n2\n2\n2\n2\n\n\n\nUdowodnij, że\nAD\nBD\nBC\nAC\n.\nD\nC\nO\nB\nA\nDowód\nKąt ADB jest prosty, jako kąt wpisany w okrąg oparty na jego średnicy.\n6\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\nPodobnie stwierdzamy, że kąt ACB jest prosty.\nZ twierdzenia Pitagorasa dla tych trójkątów prostokątnych otrzymujemy\n2\n2\n2\n2\n2\n2\n\n\n\n\nAB\nAD\nBD\noraz\nAB\nAC\nBC\n.\nPorównując prawe strony tych równości otrzymujemy tezę. To kończy dowód.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................. 1 pkt\ngdy zauważy, że kąty ADB i ACB  są proste, wykorzysta twierdzenie Pitagorasa\n2\n2\n2\n2\n2\n2\n\n\n\n\ni zapisze równości:\nAB\nAD\nBD\n,\nAB\nAC\nBC\ni na tym poprzestanie lub\ndalej popełnia błędy.\nZdający otrzymuje ............................................................................................................. 2 pkt\ngdy uzasadni równość."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-czerwiec/30.webp",
+   "size": [
+    950,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\nW siedmiowyrazowym ciągu arytmetycznym środkowy wyraz jest równy 0. Udowodnij,\nże suma wyrazów tego ciągu jest równa 0.",
+   "key": "Zadanie 30. (2 pkt)\nW siedmiowyrazowym ciągu arytmetycznym środkowy wyraz jest równy 0. Udowodnij,\nże suma wyrazów tego ciągu jest równa 0.\nRozwiązanie\nCiąg \n\na\njest ciągiem arytmetycznym, złożonym z siedmiu wyrazów. Zatem środkowym\nn\n\n\n\nwyrazem tego ciągu jest\na\na\n3\nr\n0\n. Suma wyrazów tego ciągu jest równa\n4\n1\n\n\n\n\n\n\n\nS\na\na\na\na\na\na\na\n.\nWykorzystując\nwzór\nna\nwyraz\nogólny\nciągu\n7\n1\n2\n3\n4\n5\n6\n7\narytmetycznego lub wzór na sumę wyrazów ciągu arytmetycznego, zapisujemy sumę ciągu\nw postaci\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nS\na\na\nr\na\n2\nr\na\n3\nr\na\n4\nr\na\n5\nr\na\n6\nr\n7\na\n21\nr\n7\n1\n1\n1\n1\n1\n1\n1\n1\nr\n\n\n\nPonieważ\na\n3\n0\n, więc\na\n3\nr\n.\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\nStąd\nS\n7\na\n21\nr\n7\n3\nr\n21\nr\n21\nr\n21\nr\n0\n.\n7\n1\nZatem suma wyrazów tego ciągu jest równa 0.\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy\n\n\n\nzapisze sumę wszystkich wyrazów ciągu w postaci\nS\n7\na\n21\nr\ni na tym\n7\n1\npoprzestanie lub dalej popełni błędy\nalbo\n\n\n\nzapisze wszystkie wyrazy ciągu w zależności od wyrazu\na , np.\na\na\n3\nr\n,\n4\n1\n4\n\n\n\n\n\n\n\n\n\n\na\na\n2\nr\n,\na\na\nr\n,\na\na\nr\n,\na\na\n2\nr\n,\na\na\n3\nr\n, i na tym\n2\n4\n3\n4\n5\n4\n6\n4\n7\n4\npoprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy uzasadni, że suma wyrazów ciągu jest równa 0.\n7\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-czerwiec/31.webp",
+   "size": [
+    956,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nZe zbioru cyfr {\n}\n1,2,3,4,5,6,7,8 losujemy kolejno dwie cyfry (losowanie bez zwracania)\ni tworzymy liczby dwucyfrowe tak, że pierwsza wylosowana cyfra jest cyfrą dziesiątek,\na druga – cyfrą jedności. Oblicz prawdopodobieństwo utworzenia liczby podzielnej przez 4.",
+   "key": "Zadanie 31. (2 pkt)\nZe zbioru cyfr \n\n1,2,3,4,5,6,7,8 losujemy kolejno dwie cyfry (losowanie bez zwracania)\ni tworzymy liczby dwucyfrowe tak, że pierwsza wylosowana cyfra jest cyfrą dziesiątek,\na druga – cyfrą jedności. Oblicz prawdopodobieństwo utworzenia liczby podzielnej przez 4.\nI sposób rozwiązania (klasyczna definicja prawdopodobieństwa)\nZdarzeniami elementarnymi są wszystkie pary uporządkowane \n\n\nx,\ny\n, gdzie x\ny\n,\nutworzone z dwóch cyfr wylosowanych ze zbioru \n\n1,2,3, 4,5,6,7,8 , przy czym x oznacza\ncyfrę dziesiątek, y oznacza cyfrę jedności.\n\n\nLiczba wszystkich zdarzeń elementarnych jest równa\n8 7\n56\n.\nNiech A oznacza zdarzenie, że utworzona liczba jest podzielna przez 4.\nZatem\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA \n1,2 , 1,6 , 2,4 , 2,8 , 3,2 , 3,6 , 4,8 , 5,2 , 5,6 , 6,4 , 6,8 , 7,2 , 7,6 , 8,4\nLiczba zdarzeń elementarnych sprzyjających zdarzeniu A jest więc równa\nA \n14\n.\n14\n1\n\nP A \n\nPrawdopodobieństwo zdarzenia A jest równe:\n.\n56\n4\nII sposób rozwiązania (metoda tabeli)\n1\n2\n3\n4\n5\n6\n7\n8\n\n\n1\nx\n2\nx\n\n\n3\n\nx\n\nSymbole w tabeli oznaczają odpowiednio:\n4\nx\n\nx – zdarzenie niemożliwe\n5\n\nx\n\n – zdarzenie elementarne sprzyjające\n\n\n6\nx\nzdarzeniu A\n7\n\n\nx\n\n\nA \n8 7\n56\ni\n14\n, zatem\n8\n\nx\n14\n1\n\nP A \n\n.\n56\n4\nSchemat oceniania I i II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy\n obliczy liczbę wszystkich możliwych zdarzeń elementarnych:\n\n\n8 7\n56\nalbo\n obliczy (zaznaczy poprawnie w tabeli) liczbę zdarzeń elementarnych sprzyjających\nA \nzdarzeniu A :\n14\n8\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\nZdający otrzymuje  ............................................................................................................ 2 pkt\n1\n\nP A \ngdy obliczy prawdopodobieństwo zdarzenia A:\n.\n4\nUwaga\nJeżeli zdający popełnił błąd przy zliczaniu w tabeli par, spełniających warunki zadania\ni konsekwentnie do popełnionego błędu obliczy prawdopodobieństwo, to otrzymuje 1 punkt.\nIII sposób rozwiązania (metoda drzewa)\nDrzewo:\n1\n8\n1\n1\n1\n1\n1\n8\n8\n8\n8\n8\n1\n1\n8\n8\n2\n1\n3\n4\n5\n6\n7\n8\n2\n2\n1\n7\n7\n7\n2\n2\n7\n1\n7\n7\n2\n2\n7\n7\n2\n4\n8\n2\n2\n4\n2\n4\nPrawdopodobieństwo zdarzenia A (liczba jest podzielna przez 4) jest więc równe:\n2\n2\n2\n1\n2\n2\n2\n1\n14\n1\n1\n1\n1\n1\n1\n1\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n.\nP A\n8\n8\n8\n8\n8\n8\n8\n8\n56\n4\n7\n7\n7\n7\n7\n7\n7\n7\nSchemat oceniania III sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy narysuje pełne drzewo i przynajmniej na jednej gałęzi zapisze prawdopodobieństwo\nZdający otrzymuje  ............................................................................................................ 2 pkt\n1\n\nP A \ngdy obliczy prawdopodobieństwo zdarzenia A:\n.\n4\nUwagi\nP A , to otrzymuje za całe\n1. Jeśli zdający rozwiąże zadanie do końca i otrzyma\n( )\n1\nrozwiązanie 0 punktów.\n2. Jeśli zdający dodaje prawdopodobieństwa na gałęziach drzewa, to za całe rozwiązanie\notrzymuje 1 punkt (pod warunkiem, że prawdopodobieństwa na gałęziach drzewa są\nzapisane prawidłowo).\n3. Jeżeli zdający popełni błąd przy przepisywaniu prawdopodobieństw z gałęzi drzewa lub\nw zapisaniu prawdopodobieństwa na jednej gałęzi drzewa lub nie zaznaczy jednej istotnej\ngałęzi drzewa i konsekwentnie do popełnionego błędu oblicza prawdopodobieństwo, to\notrzymuje 1 punkt.\n9\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2015-czerwiec/32.webp",
+   "size": [
+    956,
+    110
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\nDany jest romb o boku długości 35. Długości przekątnych tego rombu różnią się o 14.\nOblicz pole tego rombu.",
+   "key": "Zadanie 32. (4 pkt)\nDany jest romb o boku długości 35. Długości przekątnych tego rombu różnią się o 14.\nOblicz pole tego rombu.\nRozwiązanie\nNiech krótsza przekątna tego rombu ma długość 2x (zobacz rysunek). Wtedy druga\nx \nprzekątna ma długość równą 2\n14\n.\nx + 77\nx\n\nx + 77\nx\n35\nPrzekątne rombu przecinają się pod kątem prostym oraz dzielą się na połowy, zatem możemy\nzapisać równanie wynikające z twierdzenia Pitagorasa:\n\n\n2\n\n\n\nx\n2\nx\n7\n35\n2\n.\nPo uporządkowaniu otrzymujemy równanie:\n2\n\n\n\nx\n7\nx\n588\n0\n.\nx \nx \nTo równanie ma dwa rozwiązania:\n21\n,\n28\n. Odrzucamy ujemne rozwiązanie\nx \nx \n\ni zapisujemy długości przekątnych tego rombu: 2\n42\noraz 2\n14\n56\n. Szukane pole\nrombu równa się więc:\n1 42 56\nP \n\n\n\n1176\n.\n2\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania  ...................................................................................................... 1 p.\nZdający oznaczy długości przekątnych tego rombu i zapisze zależności między długościami\ntych przekątnych, np.\nx \n2x i 2\n14\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie, w którym jest istotny postęp  ...................................................................... 2 p.\nZdający zastosuje twierdzenie Pitagorasa i zapisze równanie z jedną niewiadomą, np.\n10\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\n\n\n2\n2\n\n\n\n2\nx\nx\n7\n35\ni na tym zakończy lub dalej popełni błędy.\nUwaga\nJeżeli zdający zapisze układ równań opisujący sytuację w zadaniu, np.\n\n\n\np\nq\n7\n\n2\n\n2\n\n2\np\nq\n35\n\ngdzie p i q oznaczają długości połówek, odpowiednio, większej i mniejszej przekątnej tego\nrombu, to przyznajemy 2 punkty.\nPokonanie zasadniczych trudności zadania  .....................................................................  3 p.\nZdający rozwiąże powyższe równanie, otrzymując dwa rozwiązania:\nx \nx \n21\n,\n28\n,\nodrzuci ujemne rozwiązanie i na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne  ..............................................................................................................  4 p.\nZdający obliczy pole tego rombu:\n1 42 56\nP \n\n\n\n1176\n.\n2\nUwaga\nJeżeli zdający odgadnie długości przekątnych rombu i sprawdzi, że wtedy bok rombu ma\ndługość 35, to otrzymuje 1 punkt. Jeżeli ponadto obliczy poprawnie pole tego rombu, to\notrzymuje 2 punkty.\n11\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2015-czerwiec/33.webp",
+   "size": [
+    956,
+    454
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\nWysokość prostopadłościanu ABCDEFGH jest równa 1, a długość przekątnej BH jest równa\nsumie długości krawędzi AB i BC. Oblicz objętość tego prostopadłościanu.\nH\nG\nE\nF\nD\nC\nA\nB",
+   "key": "Zadanie 33. (4 pkt)\nWysokość prostopadłościanu ABCDEFGH jest równa 1, a długość przekątnej BH jest równa\nsumie długości krawędzi AB i BC. Oblicz objętość tego prostopadłościanu.\nG\nH\nE\nF\nD\nC\nA\nB\nRozwiązanie\nPrzyjmijmy oznaczenia jak na rysunku.\nH\nG\nE\nF\nd\n1\nD\nC\nb\na\nA\nB\nZ twierdzenia Pitagorasa dla trójkąta DBH otrzymujemy\n2\n2\n2\n\n\n\n\n\n2\n2\n2\n21\nBH\nBD\nDH\n, czyli\nd\na\nb\n.\n\n\nStąd i z równości\nd\na\nb\notrzymujemy\n\n\n2\n\n\n2\n\n2\n,\na\nb\na\nb\n1\n2\n\n\n2\n\n2\n\n2\n,\na\n2\nab\nb\na\nb\n1\n1\nab \n2\n1\n1\n\n\n\nObjętość V prostopadłościanu jest zatem równa\nV\nab\n1\n1\n.\n2\n2\n12\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ......................................................................................................................... 1 pkt\nZdający\n zapisze długość przekątnej w zależności od długości boków podstawy:\n\n\nd\na\nb\nalbo\n zapisze zależność między długością przekątnej prostopadłościanu i długościami jego\n\n\n\n\n\n2\n2\n2\n21\nkrawędzi, np.:\nd\na\nb\n.\nRozwiązanie, w którym jest istotny postęp ...................................................................... 2 pkt\nZdający zapisze równanie pozwalające obliczyć pole podstawy prostopadłościanu:\n\n\n2\n\n\n\n.\na\nb\na\n2\nb\n2\n1\nPokonanie zasadniczych trudności zadania ..................................................................... 3 pkt\n1\n\nZdający obliczy pole podstawy prostopadłościanu:\nab\n.\n2\nRozwiązanie pełne .............................................................................................................. 4 pkt\n1 .\nZdający obliczy objętość prostopadłościanu:\n2\nUwaga\nJeżeli zdający rozwiąże zadanie jedynie w przypadku prostopadłościanu, którego podstawa\nABCD jest kwadratem, to może otrzymać co najwyżej 2 punkty, przy czym 1 punkt\n\n\n2\n2\n\n\n2\notrzymuje za  zapisanie równania\nd\na\n2\n1\n, natomiast 2 punkty otrzymuje za\nrozwiązanie zadania do końca w tym przypadku. Jeśli natomiast zauważy, że\nprostopadłościanów opisywanych w zadaniu jest nieskończenie wiele, więc wystarczy\n\nobliczyć objętość tylko w przypadku gdy a\nb\n, to może otrzymać co najwyżej 3 punkty."
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2015-czerwiec/34.webp",
+   "size": [
+    950,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (5 pkt)\nDeweloper oferuje możliwość kompletnego wyposażenia kuchni i salonu w ofercie „Malejące\nraty”. Wysokość pierwszej raty ustalono na 775 zł. Każda następna rata jest o 10 zł mniejsza\nod poprzedniej. Całkowity koszt wyposażenia kuchni i salonu ustalono na 30 240 zł. Oblicz\nwysokość ostatniej raty i liczbę wszystkich rat.",
+   "key": "Zadanie 34. (5 pkt)\nDeweloper oferuje możliwość kompletnego wyposażenia kuchni i salonu w ofercie „Malejące\nraty”. Wysokość pierwszej raty ustalono na 775 zł. Każda następna rata jest o 10 zł mniejsza\nod poprzedniej. Całkowity koszt wyposażenia kuchni i salonu ustalono na 30 240 zł. Oblicz\nwysokość ostatniej raty i liczbę wszystkich rat.\nRozwiązanie\n1 \n\n\nKolejne raty tworzą ciąg arytmetyczny, w którym pierwszy wyraz\na\n775\ni różnica\nr\n10\n.\n\nJeżeli n oznacza liczbę rat, to suma wszystkich rat jest równa\nS\n30\n240\n. Wykorzystując\nn\nwzór na sumę n początkowych wyrazów ciągu arytmetycznego,  zapisujemy równanie\n\n\n\n\n\n\n\n\n2\n775\nn\n1\n10\n\n\nn\n30\n240\n.\n2\nPrzekształcamy to równanie równoważnie i otrzymujemy\n\n\n\n\n\n780\n5\nn\nn\n30\n240\ni dalej\n2\n\n\n\nn\n156\nn\n6048\n0\n.\nRównanie to ma dwa rozwiązania\n13\nEgzamin maturalny z matematyki – stara formuła\nRozwiązania zadań i schemat punktowania – poziom podstawowy\n1 \n2 \nn\n72\ni\nn\n84\n.\n72 \n\n\nObliczamy teraz wysokość ostatniej raty, czyli\na\n65\ni\na\n55\n.\n84\nDrugie rozwiązanie odrzucamy, jako sprzeczne z warunkami zadania, a całkowity koszt\nwyposażenia kuchni i salonu zostanie spłacony w 72 ratach.\nOdpowiedź: Liczba rat to 72. Ostatnia rata wyniosła 65 zł.\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze\ndo całkowitego rozwiązania zadania ................................................................................ 1 pkt\nZdający zauważy, że problem daje się opisać za pomocą ciągu arytmetycznego, w którym\n\npierwszym wyrazem jest 775, a różnicą tego ciągu jest 10\n.\nRozwiązanie, w którym jest istotny postęp  .................................................................... 2 pkt\n\n\n\n\n\n\n\n\n2\n775\nn\n1\n10\n\n\nZdający zapisze równania z niewiadomą\nn np.\nn\n30\n240\n.\n:\n2\nPokonanie zasadniczych trudności zadania .................................................................... 3 pkt\nRozwiązanie równania kwadratowego z niewiadomą n i otrzymanie dwóch rozwiązań\n1 \n2 \nn\n72\ni\nn\n84\n.\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają poprawności\nrozwiązania (np. drobne błędy rachunkowe lub wadliwe przepisanie)  ....................... 4 pkt\n rozwiązanie równania z niewiadomą n z błędem rachunkowym  (o ile przynajmniej jedno\nrozwiązanie jest liczbą naturalną) i konsekwentne do popełnionego błędu obliczenie\nwysokość ostatniej raty\nalbo\n rozwiązanie równania kwadratowego i odrzucenie jednego rozwiązania i brak obliczenia\nlub obliczenie błędnie wysokości ostatniej raty.\nRozwiązanie pełne  ............................................................................................................ 5 pkt\nWyznaczenie liczby rat:  72\ni wysokości ostatniej raty: 65 zł."
+  }
+ ]
+}

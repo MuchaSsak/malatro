@@ -1,0 +1,15 @@
+context/
+node_modules/
+dist/
+.env
+.env.local
+*.log
+data-pipeline/raw/
+data-pipeline/.cache/
+__pycache__/
+supabase/.temp/
+src/lib/supabase/database.types.tmp
+
+# research-only third-party material (copyrighted, never published)
+assets/references/
+.claude/project-info/research/reactbits-balatro.tsx

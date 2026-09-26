@@ -1,0 +1,83 @@
+{
+  "exam": "f2005-R-2016-czerwiec",
+  "tasks": [
+    {
+      "task": "1", "include": false, "exclude_reason": "interval_or_set",
+      "category": "rownania", "difficulty": 4, "notes": "Answer is the interval <-8,-2>"
+    },
+    {
+      "task": "2", "include": true, "exclude_reason": null,
+      "answer_kind": "sum", "value": 5.497787143782138, "value_tex": "\\frac{7\\pi}{4}", "answer_tex": "x=\\frac{3\\pi}{4} \\lor x=\\frac{\\pi}{3} \\lor x=\\frac{2\\pi}{3}",
+      "category": "trygonometria", "topic_pl": "Równanie trygonometryczne", "topic_en": "Trigonometric equation",
+      "difficulty": 4,
+      "summary_pl": "Rozwiąż $\\sin^3x-3\\sin x\\cos^2x-3\\cos^3x+\\sin^2x\\cos x=0$ (suma)", "summary_en": "Solve the equation (sum of solutions)",
+      "statement_en": "Solve the equation $\\sin^3x-3\\sin x\\cos^2x-3\\cos^3x+\\sin^2x\\cos x=0$ in the interval $(0,\\pi)$.",
+      "confidence": "high", "notes": "Three solutions in (0,π): 3π/4, π/3, 2π/3; sum=7π/4"
+    },
+    {
+      "task": "3", "include": false, "exclude_reason": "interval_or_set",
+      "category": "rownania", "difficulty": 5, "notes": "Answer is the interval (8/3, 35/13)"
+    },
+    {
+      "task": "4", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 17, "value_tex": "17", "answer_tex": "17",
+      "category": "ciagi", "topic_pl": "Ciąg rekurencyjny", "topic_en": "Recursive sequence",
+      "difficulty": 3,
+      "summary_pl": "$a_1=1,a_{n+1}=2a_n+3n+2$: średnia $(a_2+3),(a_3+2)$", "summary_en": "$a_1=1,a_{n+1}=2a_n+3n+2$: mean of $(a_2+3),(a_3+2)$",
+      "statement_en": "Sequence $(a_n)$ is given by $a_1=1$, $a_{n+1}=2a_n+3n+2$ for $n\\ge1$. Compute the arithmetic mean of the numbers $a_2+3$ and $a_3+2$.",
+      "confidence": "high", "notes": "a2=7, a3=22; mean of 10 and 24 is 17"
+    },
+    {
+      "task": "5", "include": false, "exclude_reason": "proof",
+      "category": "wyrazenia", "difficulty": 3, "notes": ""
+    },
+    {
+      "task": "6", "include": false, "exclude_reason": "expression",
+      "category": "analityczna", "difficulty": 4, "notes": "Answer is two line equations y=0 and y=(3/4)x (symbolic)"
+    },
+    {
+      "task": "7", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 0.22685185185185186, "value_tex": "\\frac{49}{216}", "answer_tex": "\\frac{49}{216}",
+      "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo - rzuty kostką", "topic_en": "Probability - dice rolls",
+      "difficulty": 4,
+      "summary_pl": "4 rzuty kostką: $P(\\text{dokł. dwie }2\\text{ lub dwie }5)$", "summary_en": "4 dice rolls: $P(\\text{exactly two 2s or two 5s})$",
+      "statement_en": "A symmetric six-sided die is rolled four times. Compute the probability of the event that exactly two 2's or exactly two 5's are obtained. Give the answer as an irreducible fraction.",
+      "confidence": "high", "notes": ""
+    },
+    {
+      "task": "8", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 0.6666666666666666, "value_tex": "\\frac{2}{3}", "answer_tex": "\\frac{2}{3}",
+      "category": "planimetria", "topic_pl": "Sześciokąt i trójkąt - optymalizacja pola", "topic_en": "Hexagon and triangle - area optimization",
+      "difficulty": 5,
+      "summary_pl": "Odcinek $AB=10$: stosunek obwodów przy min. sumie pól", "summary_en": "Segment $AB=10$: ratio of perimeters at minimum total area",
+      "statement_en": "[Figure] Given is a segment $AB$ of length 10. Consider all regular hexagons $ACDMEF$ and equilateral triangles $MBG$ with common vertex $M$ lying on segment $AB$. Compute the ratio of the perimeter of hexagon $ACDMEF$ to the perimeter of triangle $MBG$ in the case when the sum of the areas of these two polygons is smallest.",
+      "confidence": "high", "notes": "x=2 minimizes area sum; perimeters 12 and 18, ratio 2/3"
+    },
+    {
+      "task": "9", "include": false, "exclude_reason": "proof",
+      "category": "planimetria", "difficulty": 4, "notes": ""
+    },
+    {
+      "task": "10", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 0.14285714285714285, "value_tex": "\\frac{1}{7}", "answer_tex": "\\sin\\angle PAB=\\frac{1}{7}",
+      "category": "trygonometria", "topic_pl": "Twierdzenie cosinusów i sinusów", "topic_en": "Law of cosines and sines",
+      "difficulty": 4,
+      "summary_pl": "Trójkąt $AC=BC=10$, kąt $120°$: $\\sin\\angle PAB$", "summary_en": "Triangle $AC=BC=10$, angle $120°$: find $\\sin\\angle PAB$",
+      "statement_en": "Given is triangle $ABC$ in which $AC=BC=10$, $\\angle ACB=120°$. On side $CB$ a point $P$ is chosen dividing that side in the ratio $3:2$ (measured from point $C$). Compute the sine of angle $PAB$.",
+      "confidence": "high", "notes": ""
+    },
+    {
+      "task": "11", "include": false, "exclude_reason": "interval_or_set",
+      "category": "funkcje", "difficulty": 4, "notes": "Answer is a range of parameter k"
+    },
+    {
+      "task": "12", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 124.70765814495916, "value_tex": "72\\sqrt3", "answer_tex": "V=72\\sqrt3",
+      "category": "stereometria", "topic_pl": "Objętość ostrosłupa prawidłowego", "topic_en": "Volume of a regular pyramid",
+      "difficulty": 5,
+      "summary_pl": "Ostrosłup: krawędź boczna $10$, $AD=2\\sqrt{13}$. Objętość?", "summary_en": "Pyramid: lateral edge 10, $AD=2\\sqrt{13}$. Volume?",
+      "statement_en": "Triangle $ABC$ is the base of a regular pyramid $ABCS$, whose lateral edge has length 10. Point $D$ is the midpoint of the height $SO$ of the pyramid, and $AD=2\\sqrt{13}$. Compute the volume of this pyramid.",
+      "confidence": "high", "notes": ""
+    }
+  ]
+}

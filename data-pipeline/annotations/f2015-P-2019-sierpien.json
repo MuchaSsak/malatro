@@ -1,0 +1,310 @@
+{
+ "exam": "f2015-P-2019-sierpien",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 2, "value_tex": "2", "answer_tex": "2",
+   "category": "liczby", "topic_pl": "Logarytmy", "topic_en": "Logarithms",
+   "difficulty": 1,
+   "summary_pl": "Oblicz $\\log_{\\sqrt7}7$",
+   "summary_en": "Compute $\\log_{\\sqrt7}7$",
+   "statement_en": "The number $\\log_{\\sqrt7}7$ is equal to: A. 2 B. 7 C. $\\sqrt7$ D. $\\frac12$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.003937068899651656, "value_tex": "127-48\\sqrt{7}", "answer_tex": "127-48\\sqrt7",
+   "category": "liczby", "topic_pl": "Działania na pierwiastkach", "topic_en": "Operations on roots",
+   "difficulty": 2,
+   "summary_pl": "Oblicz kwadrat liczby $8-3\\sqrt7$",
+   "summary_en": "Compute the square of $8-3\\sqrt7$",
+   "statement_en": "The square of the number $8-3\\sqrt7$ equals: A. $127+48\\sqrt7$ B. $127-48\\sqrt7$ C. $1-48\\sqrt7$ D. $1+48\\sqrt7$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "3", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 64, "value_tex": "64", "answer_tex": "b-a=64",
+   "category": "liczby", "topic_pl": "Procenty", "topic_en": "Percentages",
+   "difficulty": 2,
+   "summary_pl": "75% z $a$=177, 59% z $b$=177. Oblicz $b-a$",
+   "summary_en": "75% of $a$=177, 59% of $b$=177. Find $b-a$",
+   "statement_en": "If 75% of a number $a$ equals 177 and 59% of a number $b$ equals 177, then: A. $b-a=26$ B. $b-a=64$ C. $a-b=26$ D. $a-b=64$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "4", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 0.8, "value_tex": "\\frac{4}{5}", "answer_tex": "x=-\\frac{1}{5} \\lor x=1",
+   "category": "rownania", "topic_pl": "Równania wielomianowe", "topic_en": "Polynomial equations",
+   "difficulty": 2,
+   "summary_pl": "Rozwiąż $x(5x+1)=5x+1$ (suma rozwiązań)",
+   "summary_en": "Solve $x(5x+1)=5x+1$ (sum of solutions)",
+   "statement_en": "The equation $x(5x+1)=5x+1$ has exactly: A. one solution: $x=1$. B. two solutions: $x=1$ and $x=-1$. C. two solutions: $x=-\\frac15$ and $x=1$. D. two solutions: $x=\\frac15$ and $x=-1$.",
+   "confidence": "high", "notes": "Closed task; correct option C states two roots, value is their sum per sum-of-solutions rule."
+  },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 3, "value_tex": "3", "answer_tex": "a=3",
+   "category": "rownania", "topic_pl": "Układ równań z parametrem", "topic_en": "System with parameter",
+   "difficulty": 2,
+   "summary_pl": "Układ z parametrem: $x=3,y=1$. Wyznacz $a$",
+   "summary_en": "System with parameter: $x=3, y=1$. Find $a$",
+   "statement_en": "The pair of numbers $x=3$ and $y=1$ is a solution of the system of equations $\\begin{cases}-x+12y=a^2\\\\2x+ay=9\\end{cases}$ for: A. $a=\\frac73$ B. $a=-3$ C. $a=3$ D. $a=-\\frac73$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "6", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": -2, "value_tex": "-2", "answer_tex": "x=2 \\lor x=-4",
+   "category": "rownania", "topic_pl": "Równania wymierne", "topic_en": "Rational equations",
+   "difficulty": 2,
+   "summary_pl": "Rozwiąż $\\frac{(x-2)(x+4)}{(x-4)^2}=0$ (suma rozw.)",
+   "summary_en": "Solve $\\frac{(x-2)(x+4)}{(x-4)^2}=0$ (sum of solutions)",
+   "statement_en": "The equation $\\frac{(x-2)(x+4)}{(x-4)^2}=0$ has exactly: A. one solution: $x=2$. B. one solution: $x=-2$. C. two solutions: $x=2, x=-4$. D. two solutions: $x=-2, x=4$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "7", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 6, "value_tex": "6", "answer_tex": "x=0 \\lor x=6",
+   "category": "funkcje", "topic_pl": "Miejsca zerowe funkcji kwadratowej", "topic_en": "Zeros of a quadratic function",
+   "difficulty": 1,
+   "summary_pl": "Miejsca zerowe $f(x)=9-(3-x)^2$ (suma)",
+   "summary_en": "Zeros of $f(x)=9-(3-x)^2$ (sum)",
+   "statement_en": "The zeros of the quadratic function $f$ given by $f(x)=9-(3-x)^2$ are the numbers: A. 0 and 3 B. -6 and 6 C. 0 and -6 D. 0 and 6",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "8", "include": false, "exclude_reason": "interval_or_set",
+   "category": "funkcje", "difficulty": 2,
+   "notes": "Answer is the range as an interval, not a single number."
+  },
+  {
+   "task": "9", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 25, "value_tex": "25", "answer_tex": "125^{2/3}=25",
+   "category": "liczby", "topic_pl": "Potęgi", "topic_en": "Powers",
+   "difficulty": 2,
+   "summary_pl": "Która z liczb jest większa od 5?",
+   "summary_en": "Which of the numbers is greater than 5?",
+   "statement_en": "A number greater than 5 is: A. $\\left(\\frac{1}{25}\\right)^{-\\frac12}$ B. $\\left(\\frac{1}{25}\\right)^{-\\frac15}$ C. $125^{\\frac23}$ D. $125^{\\frac13}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "10", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -4, "value_tex": "-4", "answer_tex": "a=-4",
+   "category": "analityczna", "topic_pl": "Punkt na prostej", "topic_en": "Point on a line",
+   "difficulty": 1,
+   "summary_pl": "Punkt $A=(a,3)$ na prostej $y=\\frac34x+6$. Oblicz $a$",
+   "summary_en": "Point $A=(a,3)$ on line $y=\\frac34x+6$. Find $a$",
+   "statement_en": "Point $A=(a,3)$ lies on the line given by the equation $y=\\frac34x+6$. It follows that: A. $a=-4$ B. $a=4$ C. $a=\\frac{33}{4}$ D. $a=\\frac{39}{4}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "11", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -27, "value_tex": "-27", "answer_tex": "S_9=-27",
+   "category": "ciagi", "topic_pl": "Ciąg arytmetyczny", "topic_en": "Arithmetic sequence",
+   "difficulty": 2,
+   "summary_pl": "Ciąg arytm.: $a_1=-11$, $a_9=5$. Oblicz $S_9$",
+   "summary_en": "Arithmetic seq.: $a_1=-11$, $a_9=5$. Find $S_9$",
+   "statement_en": "In the arithmetic sequence $(a_n)$, defined for $n\\ge1$, two terms are given: $a_1=-11$ and $a_9=5$. The sum of the first nine terms of this sequence equals: A. -24 B. -27 C. -16 D. -18",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "12", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.6666666666666666, "value_tex": "\\frac{2}{3}", "answer_tex": "q=\\frac{2}{3}",
+   "category": "ciagi", "topic_pl": "Ciąg geometryczny", "topic_en": "Geometric sequence",
+   "difficulty": 2,
+   "summary_pl": "Ciąg geom.: $a_2=162$, $a_5=48$. Oblicz iloraz",
+   "summary_en": "Geometric seq.: $a_2=162$, $a_5=48$. Find ratio",
+   "statement_en": "All terms of the geometric sequence $(a_n)$, defined for $n\\ge1$, are positive numbers. The second term of this sequence equals 162, and the fifth term equals 48. This means that the ratio of this sequence equals: A. $\\frac23$ B. $\\frac34$ C. $\\frac13$ D. $\\frac12$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "13", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.38461538461538464, "value_tex": "\\frac{5}{13}", "answer_tex": "\\sin\\alpha=\\frac{5}{13}",
+   "category": "trygonometria", "topic_pl": "Jedynka trygonometryczna", "topic_en": "Pythagorean trig identity",
+   "difficulty": 1,
+   "summary_pl": "$\\cos\\alpha=\\frac{12}{13}$. Oblicz $\\sin\\alpha$",
+   "summary_en": "$\\cos\\alpha=\\frac{12}{13}$. Find $\\sin\\alpha$",
+   "statement_en": "The cosine of an acute angle $\\alpha$ equals $\\frac{12}{13}$. Then: A. $\\sin\\alpha=\\frac{13}{12}$ B. $\\sin\\alpha=\\frac{1}{13}$ C. $\\sin\\alpha=\\frac{5}{13}$ D. $\\sin\\alpha=\\frac{25}{169}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "14", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 36, "value_tex": "36", "answer_tex": "\\angle ACD=36°",
+   "category": "planimetria", "topic_pl": "Kąty w trójkącie", "topic_en": "Angles in a triangle",
+   "difficulty": 3,
+   "summary_pl": "Trójkąt $AC=BC$, $\\angle BCD=72°$. Oblicz $\\angle ACD$",
+   "summary_en": "Triangle $AC=BC$, $\\angle BCD=72°$. Find $\\angle ACD$",
+   "statement_en": "Given is an isosceles triangle $ABC$ in which $|AC|=|BC|$. On the base $AB$ of this triangle lies a point $D$ such that $|AD|=|CD|$, $|BC|=|BD|$, and $\\angle BCD=72°$ (see figure). It follows that angle $ACD$ has measure: A. $38°$ B. $36°$ C. $42°$ D. $40°$ [Figure: triangle ABC with point D on side AB; angle BCD marked 72° at vertex C between CB and CD]",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "15", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 3, "value_tex": "3", "answer_tex": "r=3",
+   "category": "analityczna", "topic_pl": "Okrąg styczny do osi", "topic_en": "Circle tangent to axes",
+   "difficulty": 2,
+   "summary_pl": "Okrąg styczny do $Oy$ i $y=2$, $S=(a,5)$. Promień?",
+   "summary_en": "Circle tangent to $Oy$ and $y=2$, $S=(a,5)$. Radius?",
+   "statement_en": "A circle with center at point $S=(a,5)$ is tangent to the $Oy$ axis and to the line with equation $y=2$. The radius of this circle equals: A. 3 B. 5 C. 2 D. 4",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "16", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 45, "value_tex": "45", "answer_tex": "\\angle SAC=45°",
+   "category": "stereometria", "topic_pl": "Ostrosłup prawidłowy", "topic_en": "Regular pyramid",
+   "difficulty": 3,
+   "summary_pl": "Ostrosłup: ściany boczne równoboczne. Oblicz $\\angle SAC$",
+   "summary_en": "Pyramid: equilateral lateral faces. Find $\\angle SAC$",
+   "statement_en": "The base of the regular quadrilateral pyramid $ABCDS$ is the square $ABCD$ (see figure). All lateral faces of this pyramid are equilateral triangles. The measure of angle $SAC$ equals: A. $60°$ B. $45°$ C. $90°$ D. $75°$ [Figure: pyramid ABCDS, square base ABCD, apex S]",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "17", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 5, "value_tex": "5", "answer_tex": "m=5",
+   "category": "analityczna", "topic_pl": "Proste równoległe", "topic_en": "Parallel lines",
+   "difficulty": 1,
+   "summary_pl": "Proste równoległe: $y=(4m+1)x-19$, $y=(5m-4)x+20$",
+   "summary_en": "Parallel lines: $y=(4m+1)x-19$, $y=(5m-4)x+20$",
+   "statement_en": "The lines with equations $y=(4m+1)x-19$ and $y=(5m-4)x+20$ are parallel when: A. $m=5$ B. $m=-\\frac14$ C. $m=\\frac54$ D. $m=-5$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "18", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 152, "value_tex": "152", "answer_tex": "L=(80,72)",
+   "category": "analityczna", "topic_pl": "Środek odcinka", "topic_en": "Midpoint of a segment",
+   "difficulty": 1,
+   "summary_pl": "$S=(40,40)$ - środek $KL$, $K=(0,8)$. Wyznacz $L$ (suma wsp.)",
+   "summary_en": "S=(40,40) is midpoint of KL, K=(0,8). Find L (sum of coords)",
+   "statement_en": "In the coordinate system, point $S=(40,40)$ is the midpoint of segment $KL$, one of whose endpoints is point $K=(0,8)$. Therefore: A. $L=(20,24)$ B. $L=(-80,-72)$ C. $L=(-40,-24)$ D. $L=(80,72)$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "19", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 14, "value_tex": "14", "answer_tex": "Q=(6,8)",
+   "category": "analityczna", "topic_pl": "Symetrie punktów", "topic_en": "Point reflections",
+   "difficulty": 1,
+   "summary_pl": "$P=(-6,-8)$: sym. wzgl. Ox, potem Oy. $Q$? (suma wsp.)",
+   "summary_en": "P=(-6,-8): reflect in Ox, then Oy. Find Q (sum of coords)",
+   "statement_en": "Point $P=(-6,-8)$ was first transformed by reflection about the $Ox$ axis, and then by reflection about the $Oy$ axis. As a result of these transformations, point $Q$ was obtained. Therefore: A. $Q=(6,8)$ B. $Q=(-6,-8)$ C. $Q=(8,6)$ D. $Q=(-8,-6)$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "20", "include": false, "exclude_reason": "no_numeric",
+   "category": "analityczna", "difficulty": 2,
+   "notes": "Answer identifies which named point (A/B/C/D) shares P's quadrant; no numeric final answer requested."
+  },
+  {
+   "task": "21", "include": false, "exclude_reason": "statement",
+   "category": "stereometria", "difficulty": 2,
+   "notes": "Options are descriptive comparison statements about the diagonal (130) vs segments a,b,c,d, not a number to output."
+  },
+  {
+   "task": "22", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 22, "value_tex": "22", "answer_tex": "l=22",
+   "category": "stereometria", "topic_pl": "Stożek i kula", "topic_en": "Cone and sphere",
+   "difficulty": 3,
+   "summary_pl": "Pole stożka=3 razy pole kuli, $r_{kula}=2$. Tworząca?",
+   "summary_en": "Cone area=3x sphere area, sphere r=2. Slant height?",
+   "statement_en": "The total surface area of a certain cone is 3 times greater than the surface area of a certain sphere. The radius of this sphere equals 2 and is the same as the radius of the base of this cone. The slant height of this cone has length equal to: A. 12 B. 11 C. 24 D. 22",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "23", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 14, "value_tex": "14", "answer_tex": "14",
+   "category": "statystyka", "topic_pl": "Średnia i mediana", "topic_en": "Mean and median",
+   "difficulty": 2,
+   "summary_pl": "Średnia 10 liczb (4x liczba $x$)=12. Oblicz medianę",
+   "summary_en": "Mean of 10 numbers (4 copies of x)=12. Find median",
+   "statement_en": "The arithmetic mean of the ten natural numbers 3, 10, 5, x, x, x, x, 12, 19, 7 equals 12. The median of these numbers equals: A. 14 B. 12 C. 16 D. x",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "24", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 27, "value_tex": "27", "answer_tex": "27",
+   "category": "kombinatoryka", "topic_pl": "Liczby czterocyfrowe", "topic_en": "Four-digit numbers",
+   "difficulty": 2,
+   "summary_pl": "Ile 4-cyfrowych liczb parzystych z cyfr 1,2,3?",
+   "summary_en": "How many 4-digit even numbers using only digits 1,2,3?",
+   "statement_en": "The number of all four-digit even natural numbers in which only the digits 1, 2, 3 appear is: A. 54 B. 81 C. 8 D. 27",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "25", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.4166666666666667, "value_tex": "\\frac{5}{12}", "answer_tex": "\\frac{5}{12}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo klasyczne", "topic_en": "Classical probability",
+   "difficulty": 1,
+   "summary_pl": "60 osób, 35 kobiet. Losujemy 1. $P$(mężczyzna)=?",
+   "summary_en": "60 people, 35 women. Draw 1. $P$(man)=?",
+   "statement_en": "In a group of 60 people (women and men) there are 35 women. One person is drawn from this group. The probability of drawing each person is the same. The probability of the event that a man is drawn equals: A. $\\frac{1}{60}$ B. $\\frac{1}{25}$ C. $\\frac{7}{12}$ D. $\\frac{5}{12}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "26", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 1, "value_tex": "1", "answer_tex": "x=-4 \\lor x=4 \\lor x=1",
+   "category": "rownania", "topic_pl": "Równanie wielomianowe", "topic_en": "Polynomial equation",
+   "difficulty": 2,
+   "summary_pl": "Rozwiąż $(x^2-16)(x^3-1)=0$ (suma rozwiązań)",
+   "summary_en": "Solve $(x^2-16)(x^3-1)=0$ (sum of solutions)",
+   "statement_en": "Solve the equation $(x^2-16)(x^3-1)=0$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "27", "include": false, "exclude_reason": "interval_or_set",
+   "category": "rownania", "difficulty": 2,
+   "notes": "Solution of the quadratic inequality is the interval [1, 3/2]."
+  },
+  {
+   "task": "28", "include": false, "exclude_reason": "proof",
+   "category": "liczby", "difficulty": 2,
+   "notes": "Wykaż że... proof of an inequality for positive x."
+  },
+  {
+   "task": "29", "include": false, "exclude_reason": "proof",
+   "category": "planimetria", "difficulty": 3,
+   "notes": "Wykaż, że kąt ACB ma miarę 120° - proof."
+  },
+  {
+   "task": "30", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.2777777777777778, "value_tex": "\\frac{5}{18}", "answer_tex": "P(A)=\\frac{5}{18}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo klasyczne", "topic_en": "Classical probability",
+   "difficulty": 2,
+   "summary_pl": "Losowanie liczby 2-cyfr. Oblicz $P(A)$ (cyfry parz./nieparz.)",
+   "summary_en": "Draw a 2-digit number. Find $P(A)$ (odd tens, even units)",
+   "statement_en": "From the set of all two-digit natural numbers, one number is drawn at random. Compute the probability of event $A$, that the drawn number has, in its decimal representation, a tens digit belonging to the set $\\{1,3,5,7,9\\}$ and, at the same time, a units digit belonging to the set $\\{0,2,4,6,8\\}$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "31", "include": false, "exclude_reason": "expression",
+   "category": "analityczna", "difficulty": 2,
+   "notes": "Wyznacz równanie prostej BD - symbolic equation of a line, not a number."
+  },
+  {
+   "task": "32", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 10, "value_tex": "10", "answer_tex": "a_{40}=10",
+   "category": "ciagi", "topic_pl": "Ciąg arytmetyczny - układ równań", "topic_en": "Arithmetic sequence system",
+   "difficulty": 3,
+   "summary_pl": "Ciąg arytm.(40 wyr.): sumy parz=1340, nieparz=1400. $a_{40}$?",
+   "summary_en": "Arith. seq (40 terms): even-index sum=1340, odd-index sum=1400. Find $a_{40}$",
+   "statement_en": "In the arithmetic sequence $(a_1, a_2, \\ldots, a_{39}, a_{40})$, the sum of the terms of this sequence with even indices equals 1340, and the sum of the terms with odd indices equals 1400. Find the last term of this arithmetic sequence.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "33", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 26, "value_tex": "26", "answer_tex": "r=26",
+   "category": "planimetria", "topic_pl": "Cięciwa okręgu", "topic_en": "Chord of a circle",
+   "difficulty": 3,
+   "summary_pl": "Cięciwa okręgu: odl. od środka 10cm, dł.=promień+22cm",
+   "summary_en": "Circle chord: dist. from center 10cm, length=radius+22cm",
+   "statement_en": "The center of a circle lies at a distance of 10 cm from a chord of this circle. The length of this chord is 22 cm greater than the radius of this circle. Compute the radius of this circle.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "34", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 381.6222681599641, "value_tex": "\\frac{512\\sqrt{5}}{3}", "answer_tex": "V=\\frac{512\\sqrt5}{3}",
+   "category": "stereometria", "topic_pl": "Objętość ostrosłupa", "topic_en": "Volume of a pyramid",
+   "difficulty": 3,
+   "summary_pl": "Ostrosłup: kraw. boczna 12, $\\tg\\alpha=\\frac{2}{\\sqrt5}$. Objętość?",
+   "summary_en": "Pyramid: lateral edge 12, $\\tan\\alpha=\\frac{2}{\\sqrt5}$. Volume?",
+   "statement_en": "The length of the lateral edge of the regular quadrilateral pyramid $ABCDS$ equals 12 (see figure). The lateral edge forms with the height of this pyramid an angle $\\alpha$ such that $\\tan\\alpha=\\frac{2}{\\sqrt5}$. Compute the volume of this pyramid. [Figure: pyramid ABCDS, lateral edge 12, angle $\\alpha$ at apex S between edge SA and height SO, square base ABCD with center O]",
+   "confidence": "high", "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,254 @@
+{
+ "exam": {
+  "id": "f2015-R-2015-czerwiec",
+  "formula": "2015",
+  "level": "R",
+  "year": 2015,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "MMA-R1_1P-153",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2015-czerwiec-matura-rozszerzona.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2015-czerwiec-matura-rozszerzona-odpowiedzi.pdf",
+  "examFile": "f2015-R-2015-czerwiec.pdf",
+  "keyFile": "f2015-R-2015-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 22,
+  "keyPages": 21,
+  "examBytes": 369010,
+  "keyBytes": 472868
+ },
+ "keyHead": "EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2014/2015\nFORMUŁA OD 2015\n(„NOWA MATURA”)\nMATEMATYKA\nPOZIOM ROZSZERZONY\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nARKUSZ MMA-R1\nCZERWIEC 2015\n2\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nKlucz punktowania zadań zamkniętych\nNr\n1\n2\n3\n4\n5\nzad.\nOdp.\nD\nB\nC\nC\nA\nSchemat oceniania zadania 6. i zadań otwartych\nZadanie 6. (0–2)\n\n\nWyznacz największą liczbę całkowitą spełniającą nierówność\nx\nx\n1025\n. W poniższe\nkratki wpisz – kolejno – cyfrę setek, cyfrę dziesiątek i cyfrę jedności otrzymanego wyniku.\nOdpowiedź\nSzukaną liczbą jest 512.\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy zapisze cyfry: 5, 1, 2 .\nZadanie 7. (0–2)\n3\n61\n\n\n\n\n\n,1\nProsta o równaniu\ny\nx\njest styczna od okręgu o środku\nS\n4\n. Wyznacz\n4\n14\npromień tego okręgu.\nRozwiązanie\n122\n\n\n\n\nZapisujemy równanie prostej w postaci ogólnej :\n3\nx\n4\ny\n0\n. Obliczamy długość\n7\n122\n\n\n\n\n3 1 4\n4\n11\n7\n\n\npromienia okręgu:\nr\n.\n35\n\n2\n2\n3\n4\nOdpowiedź\n11\nr \nPromień okręg ma długość\n.\n35\n3\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nSchemat oceniania\nZdający otrzymuje  .............................................................................................................. 1 p.\n122\n\n\n\n\ngdy zapisze równanie prostej w postaci:\n3\nx\n4\ny\n0\noraz  wykorzysta wzór na\n7\n122\n\n\n\n\n3 1\n4\n4\n7\n\nodległość punktu od prostej i zapisze\nr\ni na tym poprzestanie lub\n\n2\n2\n3\n4\ndalej popełni błędy.\nZdający otrzymuje  ............................................................................................................... 2 p.\n11\nr \ngdy obliczy promień okręgu\n.\n35\nZadanie 8. (0–3)\n6\na\na \n\nNiech\nlog 2\n. Wykaż, że\nlog 64\n.\n12\n6\n1\na\nI sposób rozwiązania\nZmieniamy podstawę logarytmu i wykonujemy kolejno przekształcenia\n6\nlog 64\nlog 2\n6log 2\n6\na\n\n\n\n\nlog 64\n12\n12\n12\n. To kończy dowód.\n6\n\n\n\n12\n\nlog 6\nlog 12\nlog 2\n1\na\nlog\n12\n12\n12\n\n\n12\n\n2\n\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania zadania  ......................................................................................... 1 p.\nZdający zapisze, że\nlog 64\n\n12\nlog 64\n6\nlog 6\n12\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ..... ….…………...…………………………..2 p.\nZdający zapisze, że\n6\nlog 2\n\nlog 64\n12\n6\n\n\n12\nlog\n\n\n12\n\n2\n\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne……......................................................…...……………………... ........ 3 p.\nZdający przeprowadzi pełne rozumowanie.\nII sposób rozwiązania\nZauważamy kolejno, że\n6\na\n6log 2\nlog 64\na \n\n\n12\n12\nlog 64.\n6\n\n\n1\nlog 12\nlog 2\nlog 6\n12\n12\n12\nA to kończy dowód.\n4\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania zadania  ........................................................................................ 1 p.\nZdający zapisze, że\n6\n6\na\nlog 2\na \n12\n\n\n1\nlog 12\nlog 2\n12\n12\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ..... ….…………...…………………………..2 p.\nZdający zapisze, że\n6\na\nlog 64\na \n12\n\n1\nlog 6\n12\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne……......................................................…...……………………... ........ 3 p.\nZdający przeprowadzi pełne rozumowanie.\nIII sposób rozwiązania\na \na \nRówność\nlog 2\njest równoważna równości 12\n. Podzielimy tę równość stronami\n2\n12\nprzez dodatnią liczbę 2a . Otrzymujemy równość\na\n12\n2\n\n\na\n\n1\na\n, a zatem\n6\n2\n.\na\na\n2\n2\nPonieważ obie strony równości są dodatnie, więc ta równość jest równoważna równości\n6\na\n\n6\na\n\n1\na\n\n6\n64\n, a zatem\n16\n64\n.\na\n6\na\n\nOstatnia równość oznacza, że\nlog 64\n. To kończy dowód.\n6\n1\na\nSchemat oceniania III sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania zadania  ........................................................................................ 1 p.\nZdający zapisze, że\na\n12\n2\n\na\na\n2\n2\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ..... ….…………...…………………………..2 p.\nZdający zapisze, że\n\n6\na\n\n1\na\n6\n64\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne……......................................................…...……………………... ........ 3 p.\nZdający przeprowadzi pełne rozumowanie.\n5\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nZadanie 9. (0–3)\nW trójkącie ABC kąt wewnętrzny przy wierzchołku A ma miarę 50, a kąt wewnętrzny przy\nwierzchołku C ma miarę 60. Okrąg\n1o przechodzi przez punkt A i przecina boki AB i AC\ntrójkąta odpowiednio w punktach D i E. Okrąg\n2o przechodzi przez punkt B, przecina okrąg\n1o w punkcie D oraz w punkcie F leżącym wewnątrz trójkąta ABC. Ponadto okrąg\n2o\nprzecina bok BC trójkąta w punkcie G.\nD\nB\nA\n50\nF\nG\nE\n60\nC\nUdowodnij, że na czworokącie CEFG można opisać okrąg.\n6\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nRozwiązanie\n\n\nABC \n\n\n\n\nTrzeci kąt trójkąta ABC ma miarę:\n180",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2015-czerwiec/1.webp",
+   "size": [
+    950,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0−1)\nCiąg (\n)\na\njest określony wzorem\na\na\nn\n6\ndla każdej liczby naturalnej\nn\n1\n. Trzeci\n=\n+\n−\n≥\nn\nn\n1\nn\n+\nwyraz tego ciągu jest równy\na = −. Wyraz\n1\na jest równy\n3\n2\nA.\nB.\n2\nC. 2\nD. 3\n3\n−\n−",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2015-czerwiec/2.webp",
+   "size": [
+    950,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0−1)\nLiczba punktów wspólnych wykresów funkcji\ny\n= −+ i\nx\n1\ny\nlog\nx\njest równa\n=\n2\nA. 0\nB. 1\nC. 2\nD. 3",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2015-czerwiec/3.webp",
+   "size": [
+    950,
+    317
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0−1)\nKtóra z poniższych funkcji, określonych w zbiorze liczb rzeczywistych, nie ma minimum\nlokalnego ani maksimum lokalnego?\n2 +\nA.\nf\n(\nx\n)\n4\nx\n5\nx\n=\n3\n2\nB.\nf\n(\nx\n)\n3\nx\n2\nx\n=\n+\n1\n3 +\nC.\nf\n(\nx\n)\nx\n2\nx\n=\n3\n(\n)\n2\nD.\nf\n(\nx\n)\n4\nx\n1\n=\n+",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2015-czerwiec/4.webp",
+   "size": [
+    950,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0−1)\n(\n)\nDla dowolnego kąta α wartość wyrażenia\nsin\nsin 180\njest równa wartości\nα\n+\n°−\nα\nwyrażenia\nA. sin 2α\nB.\nsinα\nC. 2sinα\nD. 0\n−",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2015-czerwiec/5.webp",
+   "size": [
+    950,
+    204
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0−1)\nZbiór K – to zbiór wszystkich liczb rzeczywistych x, dla których wartość liczbowa wyrażenia\n2 −\nx\n(\nx\n9\n)\njest liczbą rzeczywistą. Zatem\nB. K = (\n)\nA. K =\n,3\n0\n,3\n,\n3\n,0\n3\n−\n∪\n+\n∞\n−\n∞\n−\n∪\nC. K = (\n)\n(\n)\nD. K = (\n)\n(\n)\n,3\n0\n,3\n,\n3\n,0\n3\n−\n∪\n+\n∞\n−\n∞\n−\n∪",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2015-czerwiec/6.webp",
+   "size": [
+    950,
+    175
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0−2)\nWyznacz największą liczbę całkowitą spełniającą nierówność\nx\nx\n1025\n. W poniższe\n<\n−\nkratki wpisz – kolejno – cyfrę setek, cyfrę dziesiątek i cyfrę jedności otrzymanego wyniku.",
+   "key": "Zadanie 6. (0–2)\n\n\nWyznacz największą liczbę całkowitą spełniającą nierówność\nx\nx\n1025\n. W poniższe\nkratki wpisz – kolejno – cyfrę setek, cyfrę dziesiątek i cyfrę jedności otrzymanego wyniku.\nOdpowiedź\nSzukaną liczbą jest 512.\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy zapisze cyfry: 5, 1, 2 ."
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2015-czerwiec/7.webp",
+   "size": [
+    950,
+    139
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0−2)\n3\n61\n(\n)\nProsta o równaniu\ny\nx\njest styczna od okręgu o środku\nS\n,1 −\n4\n. Wyznacz\n=\n−\n=\n4\n14\npromień tego okręgu.",
+   "key": "Zadanie 7. (0–2)\n3\n61\n\n\n\n\n\n,1\nProsta o równaniu\ny\nx\njest styczna od okręgu o środku\nS\n4\n. Wyznacz\n4\n14\npromień tego okręgu.\nRozwiązanie\n122\n\n\n\n\nZapisujemy równanie prostej w postaci ogólnej :\n3\nx\n4\ny\n0\n. Obliczamy długość\n7\n122\n\n\n\n\n3 1 4\n4\n11\n7\n\n\npromienia okręgu:\nr\n.\n35\n\n2\n2\n3\n4\nOdpowiedź\n11\nr \nPromień okręg ma długość\n.\n35\n3\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nSchemat oceniania\nZdający otrzymuje  .............................................................................................................. 1 p.\n122\n\n\n\n\ngdy zapisze równanie prostej w postaci:\n3\nx\n4\ny\n0\noraz  wykorzysta wzór na\n7\n122\n\n\n\n\n3 1\n4\n4\n7\n\nodległość punktu od prostej i zapisze\nr\ni na tym poprzestanie lub\n\n2\n2\n3\n4\ndalej popełni błędy.\nZdający otrzymuje  ............................................................................................................... 2 p.\n11\nr \ngdy obliczy promień okręgu\n.\n35"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2015-czerwiec/8.webp",
+   "size": [
+    947,
+    107
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0−3)\n6\na\nNiech\na =\nlog\n2\n. Wykaż, że\nlog 64\n.\n= −\n12\n6\n1\na",
+   "key": "Zadanie 8. (0–3)\n6\na\na \n\nNiech\nlog 2\n. Wykaż, że\nlog 64\n.\n12\n6\n1\na\nI sposób rozwiązania\nZmieniamy podstawę logarytmu i wykonujemy kolejno przekształcenia\n6\nlog 64\nlog 2\n6log 2\n6\na\n\n\n\n\nlog 64\n12\n12\n12\n. To kończy dowód.\n6\n\n\n\n12\n\nlog 6\nlog 12\nlog 2\n1\na\nlog\n12\n12\n12\n\n\n12\n\n2\n\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania zadania  ......................................................................................... 1 p.\nZdający zapisze, że\nlog 64\n\n12\nlog 64\n6\nlog 6\n12\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ..... ….…………...…………………………..2 p.\nZdający zapisze, że\n6\nlog 2\n\nlog 64\n12\n6\n\n\n12\nlog\n\n\n12\n\n2\n\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne……......................................................…...……………………... ........ 3 p.\nZdający przeprowadzi pełne rozumowanie.\nII sposób rozwiązania\nZauważamy kolejno, że\n6\na\n6log 2\nlog 64\na \n\n\n12\n12\nlog 64.\n6\n\n\n1\nlog 12\nlog 2\nlog 6\n12\n12\n12\nA to kończy dowód.\n4\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania zadania  ........................................................................................ 1 p.\nZdający zapisze, że\n6\n6\na\nlog 2\na \n12\n\n\n1\nlog 12\nlog 2\n12\n12\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ..... ….…………...…………………………..2 p.\nZdający zapisze, że\n6\na\nlog 64\na \n12\n\n1\nlog 6\n12\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne……......................................................…...……………………... ........ 3 p.\nZdający przeprowadzi pełne rozumowanie.\nIII sposób rozwiązania\na \na \nRówność\nlog 2\njest równoważna równości 12\n. Podzielimy tę równość stronami\n2\n12\nprzez dodatnią liczbę 2a . Otrzymujemy równość\na\n12\n2\n\n\na\n\n1\na\n, a zatem\n6\n2\n.\na\na\n2\n2\nPonieważ obie strony równości są dodatnie, więc ta równość jest równoważna równości\n6\na\n\n6\na\n\n1\na\n\n6\n64\n, a zatem\n16\n64\n.\na\n6\na\n\nOstatnia równość oznacza, że\nlog 64\n. To kończy dowód.\n6\n1\na\nSchemat oceniania III sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania zadania  ........................................................................................ 1 p.\nZdający zapisze, że\na\n12\n2\n\na\na\n2\n2\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ..... ….…………...…………………………..2 p.\nZdający zapisze, że\n\n6\na\n\n1\na\n6\n64\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne……......................................................…...……………………... ........ 3 p.\nZdający przeprowadzi pełne rozumowanie.\n5\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2015-czerwiec/9.webp",
+   "size": [
+    950,
+    655
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0−3)\nW trójkącie ABC kąt wewnętrzny przy wierzchołku A ma miarę 50°, a kąt wewnętrzny przy\nwierzchołku C ma miarę 60°. Okrąg\n1o przechodzi przez punkt A i przecina boki AB i AC\ntrójkąta odpowiednio w punktach D i E. Okrąg\n2o przechodzi przez punkt B, przecina okrąg\n1o w punkcie D oraz w punkcie F leżącym wewnątrz trójkąta ABC. Ponadto okrąg\n2o\nprzecina bok BC trójkąta w punkcie G.\nD\nB\nA\n50°\nF\nG\nE\n60°\nC\nUdowodnij, że na czworokącie CEFG można opisać okrąg.",
+   "key": "Zadanie 9. (0–3)\nW trójkącie ABC kąt wewnętrzny przy wierzchołku A ma miarę 50, a kąt wewnętrzny przy\nwierzchołku C ma miarę 60. Okrąg\n1o przechodzi przez punkt A i przecina boki AB i AC\ntrójkąta odpowiednio w punktach D i E. Okrąg\n2o przechodzi przez punkt B, przecina okrąg\n1o w punkcie D oraz w punkcie F leżącym wewnątrz trójkąta ABC. Ponadto okrąg\n2o\nprzecina bok BC trójkąta w punkcie G.\nD\nB\nA\n50\nF\nG\nE\n60\nC\nUdowodnij, że na czworokącie CEFG można opisać okrąg.\n6\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nRozwiązanie\n\n\nABC \n\n\n\n\nTrzeci kąt trójkąta ABC ma miarę:\n180\n50\n60\n70\n.\nPołączmy punkt F z punktami D, E i G.\nD\nB\nA\n50\nF\nG\nE\n60\nC\nCzworokąty ADFE i BDFG są wpisane odpowiednio w okręgi\nO i\nO , więc\n1\n2\nDFE \n\n\n\nDFG \n\n\n\n180\n50\n130\noraz\n180\n70\n110\n. Zatem\n\n\nEFG \n\n\n\n\n360\n130\n110\n120\n.\n\n\n\n\n\nStąd\nEFG\nECG\n120\n60\n180\n, zatem na czworokącie CEFG można opisać\nokrąg, co kończy dowód.\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp  ......................................................................  1 p.\nDFE \n\nDFG \n\nObliczenie miary kąta DFE:\n130\nalbo miary kąta DFG:\n110\n.\nPokonanie zasadniczych trudności zadania  .....................................................................  2 p.\nEFG \n\nObliczenie miary kąta EFG:\n120\n.\nRozwiązanie pełne  ..............................................................................................................  3 p.\nPełne uzasadnienie, że na czworokącie CEFG można opisać okrąg.\n7\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2015-czerwiec/10.webp",
+   "size": [
+    947,
+    84
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0−4)\nRozwiąż równanie (\n)\n2\n2\n2\n(\n)\n4sin\nx\n1 sin\nx\ncos\nx\n3sin\nx\n, dla\nx\n,0\n−\n⋅\n=\n−\n∈−\nπ",
+   "key": "Zadanie 10. (0–4)\nRozwiąż równanie \n\n\n\n\n\n2\n\n\n\n2\n\n2\nx\n,0\n4sin\nx\n1 sin\nx\ncos\nx\n3sin\nx\n, dla\n.\nRozwiązanie\n2\n\n2\n i zapisujemy równanie\nKorzystamy ze wzoru\nsin\nx\ncos\nx\n1\n\n\nw postaci równoważnej \n\n\n\n\n\n\n\n\n2\n2\n2\n2\n2\n.\n4sin\nx\n1 sin\nx\ncos\nx\n3sin\nx\n4sin\nx\n1 sin\nx\n1 4sin\nx\nPrzekształcamy to równanie i zapisujemy je w postaci iloczynowej:\n\n\n\n\n\n\n4sin\n2\nx\n1 sin\nx\n1 4sin\n2\nx\n0\n,\n\n\n\n2\n\n\n\n\n4sin\nx\n1\nsin\nx\n1\n0\n,\n\n\n\n\n\n\n\n\n\n\n.\n2sin\nx\n1\n2sin\nx\n1\nsin\nx\n1\n0\n1\n\n\nx \n\n\nx \nWarunek\nsin\njest sprzeczny z założeniem\nx\n,0\n,  bo wtedy sin\n0.\n2\n\n\n1\n5\n\n\n\n\nx \n\n\nZatem  warunki\nsin\ni\nx\n,0\nwyznaczają rozwiązanie\nx\nlub\nx\n,\n2\n6\n6\n\n\n\nx   i\n\n\na warunki sin\n1\nx\n,0\n\nwyznaczają rozwiązanie\nx\n.\n2\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp, ale nie zostały pokonane zasadnicze\ntrudności zadania ............................................................................................................... 1 pkt\nZapisanie równania z niewiadomą sin x : \n\n\n\n\n2\n2\n4sin\nx\n1 sin\nx\n1 4sin\nx\n.\nRozwiązanie, w którym jest istotny postęp ..................................................................... 2 pkt\n1\n1\nx \nx \nx .\nZapisanie równania w postaci alternatywy:\nsin\nlub\nsin\n,  lub sin\n1\n2\n2\nPokonanie zasadniczych trudności zadania .................................................................... 3 pkt\nRozwiązanie jednego z trzech równań  w przedziale \n\n\n\n,0\nRozwiązanie pełne ............................................................................................................. 4 pkt\nPodanie wszystkich rozwiązań należących do przedziału \n\n\n\n,0\n:\n\n\n\n5\n\n\n\nx\nlub\nx\n,  lub\nx\n.\n6\n6\n2\nUwagi\n1\nx \n1. Jeżeli zdający nie odrzuci warunku\nsin\noraz wyznaczy z pozostałych\n2\nwarunków poprawne rozwiązania równania, to otrzymuje 3 punkty.\n2. Jeżeli zdający poda ogólne rozwiązania równania bez uwzględnienia przedziału\n\n\n\n\n,0\n, to otrzymuje 3 punkty.\n8\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2015-czerwiec/11.webp",
+   "size": [
+    950,
+    141
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0−4)\nW trójkąt prostokątny o przyprostokątnych długości 15 i 20 wpisano okrąg. Oblicz długość\nodcinka łączącego wierzchołek kąta prostego tego trójkąta z punktem wspólnym okręgu\ni przeciwprostokątnej.",
+   "key": "Zadanie 11. (0–4)\nW trójkąt prostokątny o przyprostokątnych długości 15 i 20 wpisano okrąg. Oblicz długość\nodcinka łączącego wierzchołek kąta prostego tego trójkąta z punktem wspólnym okręgu\ni przeciwprostokątnej.\nRozwiązanie\nPrzyjmijmy oznaczenia jak na rysunku.\nA\nD\nr\nB\nC\nAB \n25\nObliczamy, korzystając z twierdzenia Pitagorasa, długość przeciwprostokątnej AB:\n3\nCAB \nCAB\ni kosinus kąta\n:\ncos\n.\n5\nObliczamy promień okręgu wpisanego w trójkąt prostokątny:\n\n\n\n\nAC\nBC\nAB\n15\n20\n25\n\n\n\nr\n5\n.\n2\n2\nAD \n10\nZ  twierdzenia o odcinkach stycznych wyznaczamy długość odcinka AD:\n.\nObliczamy CD stosując twierdzenie kosinusów dla trójkąta ACD:\n3\n2\n2\n2\n\n\n\n\n\n\n\n\n\nCD\nAC\nAD\n2\nAC AD\ncos\nCAD\n225 100\n2 15 10\n145\n.\n5\nCD \nStąd\n145\n.\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\nZdający obliczy długość przeciwprostokątnej i kosinusa kąta ostrego trójkąta:\n3\nAB \nCAB \n25\n,\ncos\n.\n5\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nr \nZdający obliczy długość promienia okręgu wpisanego w trójkąt:\n5\n..\n9\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\nAD \nObliczenie długości odcinka AD:\n10\n.\nRozwiązanie pełne  ...........................................................................................................  4 pkt\nCD \nWyznaczenie długości odcinka CD:\n145\n.\nUwaga\nJeżeli zdający zakłada, że odcinek CD jest prostopadły do przeciwprostokątnej AB i z tego\nkorzysta, to za całe zadanie może otrzymać nie więcej niż 1 punkt."
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2015-czerwiec/12.webp",
+   "size": [
+    950,
+    175
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0−4)\nDany jest trójkąt ABC , w którym\nBC =\na\n. Z wierzchołka B poprowadzono środkową BD do\nboku AC. Punkt S jest środkiem odcinka BD. Przez punkty A i S poprowadzono prostą, która\n2\nprzecięła bok BC w punkcie P . Wykaż, że długość odcinka CP jest równa\na\n.\n3",
+   "key": "Zadanie 12. (0–4)\nBC \nDany jest trójkąt ABC , w którym\na\n. Z wierzchołka B poprowadzono środkową BD do\nboku AC. Punkt S jest środkiem odcinka BD. Przez punkty A i S poprowadzono prostą, która\n2\nprzecięła bok BC w punkcie P . Wykaż, że długość odcinka CP jest równa\na\n.\n3\nRozwiązanie\nRysujemy trójkąt ABC ,  zaznaczamy punkty\nD\n,\nS\n,\nP\ni rysujemy odcinek SM równoległy do\nM \nAC i taki, że\nBC\n.\nC\nM\nD\nP\nS\nA\nB\nBS\nBM\n1\n1\n\n\n\n\nTrójkąty BSM i BDC są podobne, zatem\n, stąd\nBM\nCM\na\nDB\nBC\n2\n2\n1\n1\n\n\ni\nMS\nDC\nAC\n2\n4\n\nTrójkąty PSM i PAC są podobne, zatem PM\nPC\nMP\nPM\nCM\n\n\n. Stąd\nMS\nAC\nMS\nAC\n1\n\nMP\na\nMP\n1\n1\n2\n\n\n\n\ni\n, czyli\n4\nMP\nMP\na\n. Stąd\nMP\na\n.\n1\nAC\n2\n6\nAC\n4\n1\n1\n2\n\n\n\n\n\nSzukany odcinek ma więc długość:\nCP\nMC\nMP\na\na\na\n, co należało wykazać.\n2\n6\n3\n10\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki ale konieczny na drodze do pełnego\nrozwiązania ..........................................................................................................................  1 p.\nBS\nBM\n1\n\n\nZdający zauważy, że trójkąty BSM i BDC są podobne i zapisze proporcję\nDB\nBC\n2\ni na tym poprzestanie lub dalej popełni błędy.\nRozwiązanie, w którym jest istotny postęp  ......................................................................  2 p.\nZdający obliczy długość odcinka CM oraz wyznaczy długość odcinka MS w zależności od\n1\n1\n1\n\n\n\ndługości odcinka AC :\nCM\na\n,\nMS\nDC\nAC\ni na tym poprzestanie lub dalej\n2\n2\n4\npopełni błędy.\nPokonanie zasadniczych trudności zadania  .....................................................................  3 p.\n1\n\nZdający obliczy długość odcinka MP:\nMP\na\n.\n6\nRozwiązanie pełne  ..............................................................................................................  4 p.\n2\n\nZdający przeprowadzi pełne rozumowania, tzn. wyznaczy długość odcinka:\n.\nCP\na\n3"
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2015-czerwiec/13.webp",
+   "size": [
+    950,
+    104
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0−5)\nOblicz, ile jest wszystkich liczb naturalnych pięciocyfrowych parzystych, w których zapisie\nwystępują co najwyżej dwie dwójki.",
+   "key": "Zadanie 13. (0–5)\nOblicz, ile jest wszystkich liczb naturalnych pięciocyfrowych parzystych, w których zapisie\nwystępują co najwyżej dwie dwójki.\nRozwiązanie\nW zapisie liczby mają być co najwyżej dwie dwójki, tzn. zero dwójek lub jedna dwójka, lub\ndwie dwójki.\n1. Obliczamy, ile jest liczb 5-cyfrowych parzystych, w których zapisie nie ma dwójki: na\npierwszym miejscu występuje dowolna spośród 8 cyfr (bez zera i dwójki), na drugim jedna\nz 9 cyfr (bez dwójki), na trzecim jedna z 9 cyfr (bez dwójki), na czwartym jedna z 9 cyfr (bez\ndwójki) i na piątym miejscu jedna z cyfr należących do zbioru\n\n8,6,4,0\n. Zatem liczb\n\n\n\n\n\nparzystych pięciocyfrowych bez dwójki jest:\n8\n9\n9\n9\n4\n23328\n.\n2. Obliczamy, ile jest liczb 5-cyfrowych parzystych, w których zapisie jest dokładnie jedna\ndwójka:\na) dwójka występuje na pierwszym miejscu, na drugim dowolna z 9 cyfr (bez dwójki), na\ntrzecim dowolna z 9 cyfr (bez dwójki), na czwartym dowolna z 9 cyfr (bez dwójki), na piątym\ndowolna z cyfr należących do zbioru \n\n8,6,4,0\n. Zatem liczb parzystych pięciocyfrowych\n\n\n\n\nz dwójką na pierwszym miejscu jest:\n9\n9\n9\n4\n2916\n.\n11\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nb) dwójka występuje na drugim miejscu, na pierwszym dowolna z 8 cyfr (bez dwójki i zera),\nna trzecim dowolna z 9 cyfr (bez dwójki), na czwartym dowolna z 9 cyfr (bez dwójki), na\npiątym dowolna z cyfr należących do zbioru \n\n8,6,4,0\n. Zatem liczb parzystych\n\n\n\n\npięciocyfrowych z dwójką na drugim miejscu jest:\n8\n9\n9\n4\n2592\n.\nc) dwójka występuje na trzecim miejscu, na pierwszym dowolna z 8 cyfr (bez dwójki i zera),\nna drugim dowolna z 9 cyfr (bez dwójki), na czwartym dowolna z 9 cyfr (bez dwójki), na\npiątym dowolna z cyfr należących do zbioru \n\n8,6,4,0\n. Zatem liczb parzystych\n\n\n\n\npięciocyfrowych z dwójką na trzecim miejscu jest:\n.\n8\n9\n9\n4\n2592\nd) dwójka występuje na czwartym miejscu, na pierwszym dowolna z 8 cyfr (bez dwójki\ni zera), na drugim dowolna z 9 cyfr (bez dwójki), na trzecim dowolna z 9 cyfr (bez dwójki),\nna piątym dowolna z cyfr należących do zbioru \n\n8,6,4,0\n. Zatem liczb parzystych\n\n\n\n\npięciocyfrowych z dwójką na czwartym miejscu jest:\n8\n9\n9\n4\n2592\n.\ne) dwójka na piątym miejscu, na pierwszym dowolna z 8 cyfr (bez dwójki i zera), na drugim\ndowolna z 9 cyfr (bez dwójki), na trzecim dowolna z 9 cyfr (bez dwójki), na czwartym\ndowolna z 9 cyfr (bez dwójki). Zatem liczb parzystych pięciocyfrowych z dwójką na piątym\n\n\n\n\nmiejscu jest:\n8\n9\n9\n9\n5832\n.\nStąd wszystkich liczb pięciocyfrowych z jedną dwójką jest:\n\n\n\n\n\n2916\n2592\n2592\n2592\n5832\n16524\n.\n3. Obliczamy, ile jest liczb 5-cyfrowych parzystych, w których zapisie są dokładnie dwie\ndwójki:\na) jedna dwójka występuje na pierwszym miejscu, druga na drugim, trzecim lub czwartym,\nzatem każdą z pozostałych środkowych dwóch cyfr wybieramy spośród 9 cyfr (bez dwójki)\ni piątą cyfrę spośród z cyfr należących do zbioru \n\n8,6,4,0\n. Tych liczb jest więc:\n\n\n\n\n3\n9\n9\n4\n972\n.\nb)  jedna dwójka występuje na pierwszym miejscu, a druga dwójka na piątym miejscu, zatem\nkażdą z pozostałych środkowych  trzech cyfr wybieramy spośród 9 cyfr (bez dwójki). Tych\n\n\n\nliczb jest więc:\n9\n9\n9\n729\n.\nc) jedna dwójka występuje na drugim miejscu, a druga dwójka na trzecim lub czwartym\nmiejscu, zatem pierwszą cyfrę wybieramy spośród 8 (bez dwójki i zera) pozostałą środkową\nspośród 9 cyfr (bez dwójki) i piątą cyfrę spośród z cyfr należących do zbioru \n\n8,6,4,0\n. Tych\n\n\n\n\nliczb jest więc:\n.\n2\n8\n9\n4\n576\nd) jedna dwójka występuje na drugim miejscu, a druga dwójka na piątym miejscu, zatem\npierwszą cyfrę wybieramy spośród 8 (bez dwójki i zera),  pozostałe dwie środkowe cyfry\n\n\n\nspośród 9 (bez dwójki). Tych liczb jest więc:\n8\n9\n9\n648\n.\ne)  jedna dwójka występuje na trzecim miejscu, a druga dwójka na czwartym miejscu, zatem\npierwszą cyfrę wybieramy spośród 8 (bez dwójki i zera), drugą spośród 9 i piątą cyfrę spośród\nz cyfr należących do zbioru \n\n\n\n\n8,6,4,0\n.Tych liczb jest więc:\n8\n9\n4\n288\n.\n12\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nf) jedna dwójka występuje na trzecim lub na czwartym miejscu, a druga dwójka na piątym\nmiejscu, zatem pierwszą cyfrę wybieramy spośród 8 (bez dwójki i zera), drugą spośród 9 (bez\ndwójki) i trzecią lub czwartą cyfrę spośród 9 (bez dwójki). Tych liczb jest więc:\n\n\n\n\n2\n8\n9\n9\n1296\n.\nStąd wszystkich liczb pięciocyfrowych z dwiema dwójkami jest\n\n\n\n\n\n\n.\n972\n729\n576\n648\n288\n1296\n4509\nZatem wszystkich liczb pięciocyfrowych parzystych, w których zapisie występują co\n\n\n\nnajwyżej dwie dwójki jest:\n23328\n16524\n4509\n44361\n.\nOdpowiedź: Jest 44361 liczb parzystych, w których zapisie występują co najwyżej dwie\ndwójki.\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania  .........................................................................................................................  1 p.\nZapisanie, że szukamy liczb, w których zapisie występuje zero, jedna lub dwie dwójki\n\n\n\n\n\ni obliczenie, ile jest liczb pięciocyfrowych parzystych bez dwójki:\n8\n9\n9\n9\n4\n23328\n.\nRozwiązanie, w którym jest istotny postęp  ......................................................................  3 p.\nObliczenie, ile jest liczb pięciocyfrowych parzystych , w których zapisie jest dokładnie jedna\n\n\n\n\n\ndwójka:\n2916\n2592\n2592\n2692\n5832\n16524\n.\nUwaga\nZdający otrzymuje 2 punkty, gdy pominie jeden przypadek.\nPokonanie zasadniczych trudności zadania  .....................................................................  4 p.\nObliczenie, ile jest liczb pięciocyfrowych parzystych , w których zapisie są\n\n\n\n\n\n\ndwie dwójki:\n972\n729\n576\n648\n288\n1296\n4509\n.\nUwaga\nZdający otrzymuje 3 punkty, gdy pominie jeden przypadek.\nRozwiązanie pełne  ..............................................................................................................  5 p.\nObliczenie, ile jest wszystkich liczb, w który"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2015-czerwiec/14.webp",
+   "size": [
+    956,
+    189
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0−5)\nPodstawą ostrosłupa ABCDS jest trapez ABCD. Przekątna AC tego trapezu ma długość\n8\n3\n,\njest prostopadła do ramienia  BC i tworzy z dłuższą podstawą AB tego trapezu kąt o mierze\n30°. Każda krawędź boczna tego ostrosłupa ma tę samą długość\n4\n5\n. Oblicz odległość\nspodka wysokości tego ostrosłupa od jego krawędzi bocznej SD.",
+   "key": "Zadanie 14. (0–5)\nPodstawą ostrosłupa ABCDS jest trapez ABCD. Przekątna AC tego trapezu ma długość\n8\n3\n,\njest prostopadła do ramienia  BC i tworzy z dłuższą podstawą AB tego trapezu kąt o mierze\n30. Każda krawędź boczna tego ostrosłupa ma tę samą długość\n4\n5\n. Oblicz odległość\nspodka wysokości tego ostrosłupa od jego krawędzi bocznej SD.\nRozwiązanie\nPrzyjmijmy oznaczenia jak na rysunku.\nS\nK\nH\n.\nD\nC\n.\n30°\nA\nB\nO\nKrawędzie boczne ostrosłupa są tej samej długości, zatem spodek wysokości ostrosłupa jest\nśrodkiem okręgu opisanego na podstawie ostrosłupa i trapez ABCD jest trapezem\nrównoramiennym, gdzie |AD|=|BC|.  Przekątna d trapezu będącego podstawą ostrosłupa jest\nprostopadła do ramienia |BC|. Stąd środek O okręgu opisanego na podstawie jest środkiem\ndłuższej podstawy AB trapezu. Zatem ściana boczna ABS jest prostopadła do płaszczyzny\npodstawy.\n\n.\nZ trójkąta ABC  mamy\nBC\nAD\n8\nODA \n\n\nDalej wyznaczamy\n60\ni\nAO\nOD\n, czyli trójkąt AOD jest trójkątem\nrównobocznym o boku długości 8.\n\n\n2\nH \n\nH \nZ trójkąta SOD lub AOS  mamy\n2\n28\n4 5\n. Stąd\n.\n4\n8 5\nOK \nZ trójkąta SOD otrzymujemy:\n.  Krawędzie boczne ostrosłupa są tej samej\n5\ndługości, zatem spodek wysokości ostrosłupa jest środkiem okręgu opisanego na podstawie\nostrosłupa i trapez ABCD jest trapezem równoramiennym, gdzie |AD|=|BC|.  Przekątna d\n14\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\ntrapezu będącego podstawą ostrosłupa jest prostopadła do ramienia |BC|. Stąd środek O\nokręgu opisanego na podstawie jest środkiem dłuższej podstawy AB trapezu. Zatem ściana\nboczna ABS jest prostopadła do płaszczyzny podstawy.\n\n.\nZ trójkąta ABC  mamy\nBC\nAD\n8\nDalej mamy\nODA \n\ni AO\n\n, czyli trójkąt AOD jest trójkątem równobocznym o\n60\nOD\nboku długości 8.\n\n\n2\nH \n\n2\n28\nH \nZ trójkąta SOD lub AOS  mamy\n4 5\n. Stąd\n4\n.\n8 5\nOK \nZ trójkąta SOD otrzymujemy:\n.\n5\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do\ncałkowitego rozwiązania zadania ……………………………………………………………..1 pkt\nZauważenie, że spodek wysokości ostrosłupa jest środkiem krawędzi AB podstawy i ściana\nboczna ABS jest prostopadła do płaszczyzny podstawy.\nRozwiązanie, w którym jest istotny postęp …………………………………………………..2 pkt\n\n.\nWyznaczenie długości ramienia trapezu:\nBC\nAD\n8\nPokonanie zasadniczych trudności zadania…………………………………………………..3 pkt\nH \nObliczenie wysokości ostrosłupa:\n4\ni poprawnie zinterpretowanie odległości spodka\nwysokości od krawędzi bocznej SD.\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe) ………………………………………….4 pkt\nObliczenie długości odcinka OK z  błędami rachunkowymi.\nRozwiązanie pełne ……………………………………………………………………………..5 pkt\n8 5\nOK \nObliczenie długości odcinka OK:\n.\n5\n15\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 6,
+   "image": "f2015-R-2015-czerwiec/15.webp",
+   "size": [
+    950,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0−6)\nm\n2\nm\n6\n+\n−\n( )\n2\n(\n)\nFunkcja f jest określona wzorem\nf x\nx\nm\n2\nx\nm\n5\ndla każdej liczby\n=\n−\n−\n+\n−\nm\n5\n−\nrzeczywistej x . Wyznacz całkowite wartości parametru m, dla których funkcja f przyjmuje\nwartość największą i ma dwa różne miejsca zerowe o jednakowych znakach.",
+   "key": "Zadanie 15. (0–6)\n2\n\n\nm\nm\n6\n\n\n\n\n2\n\n\n\n\nFunkcja f jest określona wzorem\nf x\nx\nm\n2\nx\nm\n5\ndla każdej liczby\n\nm\n5\nrzeczywistej x . Wyznacz całkowite wartości parametru m, dla których funkcja f przyjmuje\nwartość największą i ma dwa różne miejsca zerowe o jednakowych znakach.\nRozwiązanie\nm \nZałożenie\n5\n.\n\n\n2\nm\nm\n6\n, czyli \n\n\n\n\n\n\nm  lub\nm \nGdy\n0\nm\n3\nm\n2\n0\n, a więc dla\n3\n2\nfunkcja jest\n\nm\n5\nm \nm  i\nm \nliniowa i nie spełnia warunków zadania. Zatem\n5\n,\n3\n2\n.\nWówczas funkcja f jest kwadratowa oraz:\n\n\n2\nm\nm\n6\n przyjmuje wartość największą, gdy\n\n0\n,\n\nm\n5\n ma dwa różne dwa różne miejsca zerowe wtedy i tylko wtedy, gdy\n\n0\n,\n ma dwa miejsca zerowe o jednakowych znakach, gdy dodatkowo\n\n\nx x\n0\n.\n1\n2\n2\n\n\nm\nm\n6\n\nRozwiązujemy nierówność\n0\n, otrzymując kolejno\n\nm\n5\n2\n\n\nm\nm\n6\n\n0\n,\n\nm\n5\n\n\n\n\n\nm\n3\nm\n2\n\n0\n,\n\nm\n5\n\n\n\n\n\n\n\n\nm\n3\nm\n2\nm\n5\n0\n.\n\n\n\n\nm\n\nZatem\n, 3\n2,5\n.\n\nRozwiązujemy nierówność\n0\n, otrzymując kolejno\n2\n\n\nm\nm\n6\n\n\n\n\n\n\n2\n\n\n\n\n\n\nm\n2\n4\nm\n5\n0\n,\n\nm\n5\n\n\n\n\n2\n\n\n2\n\n\n\nm\n2\n4\nm\nm\n6\n0\n,\n\n\n\n\n\n2\n\n\n\n\n\nm\n2\n4\nm\n3\nm\n2\n0\n,\n\n\n\n\n\n\n\n\n\n\n\n\nm\n2\nm\n2\n4\nm\n3\n0\n,\n\n\n\n\n\n\n\nm\n2\nm\n2\n4\nm\n12\n0\n,\n\n\n\n\n\n\n\nm\n2\n3\nm\n14\n0\n.\n14\n\n\n\nZatem\nm\n2\n.\n3\n\n\nx x\n0\nRozwiązujemy nierówność\n. Możemy wykorzystać wzór Viète’a na iloczyn\n1\n2\npierwiastków trójmianu kwadratowego i wtedy nierówność ma postać\n\nm\n5\n\n0\n.\n\n\n2\nm\nm\n6\n\nm\n5\nRozwiązujemy tę nierówność, otrzymując kolejno\n16\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\n\n\n2\n\nm\n5\n\n0\n,\n\n\n2\nm\nm\n6\n\n\n\n\n2\n\n\n\n\nm\n5\nm\n2\nm\n3\n0\n,\n\n\n\n\n\n\nm\n\n\n.\n, 3\n2,5\n5,\n\n\n14 ,2\n\n\n\n\n\n\n\n\n\n\nm\n\n\nm\n\n\n.\nOtrzymaliśmy zatem\n, 3\n2,5\ni\nm\ni\n, 3\n2,5\n5,\n\n\n\n3\n\n\n\n14 , 3\n\n\nm .\nStąd\nm\n. Jedyną liczą całkowitą z tego przedziału jest\n4\n\n\n\n3\n\nSchemat oceniania\nRozwiązanie zadania składa się z trzech etapów.\nPierwszy etap polega zapisaniu warunku, przy którym funkcja f jest kwadratowa i ma dwa\nróżne pierwiastki, a następnie rozwiązaniu nierówności\n2\n\n\nm\nm\n6\n14\n\n\n\n\n\n\n2\n\n\n\n\n\n\n\n\n\nm\n2\n4\nm\n5\n0\n:\nm\n2\n.\n\nm\n5\n3\n\n\nZa poprawne rozwiązanie nierówności\n0\nzdający otrzymuje 1 punkt.\nUwaga\n\nJeżeli zdający zapisze\n0\n, to za tę część otrzymuje 0 punktów.\nDrugi etap polega na zapisaniu warunku, przy którym funkcja kwadratowa f przyjmuje\n\n\n2\nm\nm\n6\n\nwartość największą:\n0\n\nm\n5\n\nm\n5\n\noraz ma dwa różne miejsca zerowe o jednakowych znakach:\n0\n.\n\n\n2\nm\nm\n6\n\nm\n5\nZa tę część rozwiązania zdający może otrzymać 4 punkty.\nPodział punktów za drugi etap rozwiązania:\n2\n\n\nm\nm\n6\n\n\n\n\n\nm\n\n- Za rozwiązanie nierówności\n0\n:\n, 3\n2,5\nzdający otrzymuje\n\nm\n5\n2 punkty.\n\n\n- Za rozwiązanie nierówności\nx x\n0\nzdający otrzymuje 2 punkty.\n1\n2\nPrzy czym w tej części:\n\nm\n5\n\n1 punkt zdający otrzymuje za zapisanie wyrażenia\nx x\nw postaci\n,\n1\n2\n2\n\n\nm\nm\n6\n\nm\n5\n2 punkty zdający otrzymuje za rozwiązanie nierówności \n\n2\n\nm\n5\n\n0\n:\n2\n\n\nm\nm\n6\n\n\n\n\n\n\nm\n\n\n\n, 3\n2,5\n5,\n17\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nTrzeci etap polega na wyznaczeniu części wspólnej rozwiązań nierówności z etapu\nm .\npierwszego i drugiego oraz podaniu liczby całkowitej spełniającej warunki zadania:\n4\nZa tę część rozwiązania zdający może otrzymać 1 punkt.\nUwaga\nZa ostatni etap 1 punkt przyznajemy jedynie wówczas, gdy zdający poprawnie wykona\netap I, rozwiąże nierówność i popełnia błędy w rozwiązaniu nierówności z etapu II albo gdy\npopełnia błędy w etapie I i dobrze rozwiąże co najmniej jedną nierówność z etapu II i poda\nwszystkie całkowite wartości parametru m, dla których są spełnione warunki zadania."
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 7,
+   "image": "f2015-R-2015-czerwiec/16.webp",
+   "size": [
+    950,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0−7)\nRozpatrujemy wszystkie stożki, w których suma długości tworzącej i promienia podstawy jest\nrówna 2. Wyznacz wysokość tego spośród rozpatrywanych stożków, którego objętość jest\nnajwiększa. Oblicz tę objętość.",
+   "key": "Zadanie 16. (0–7)\nRozpatrujemy wszystkie stożki, w których suma długości tworzącej i promienia podstawy jest\nrówna 2. Wyznacz wysokość tego spośród rozpatrywanych stożków, którego objętość jest\nnajwiększa. Oblicz tę objętość.\nPrzykładowe rozwiązanie (I sposób)\nPrzyjmijmy oznaczenia jak na rysunku.\nS\nl\nh\nr\nA\nB\nO\n\n\n\n.\nZ warunków zadania wynika, że\nl\nr\n2\n, skąd\nl\n2\nr\n2\n2\n2\n\n\nZ twierdzenia Pitagorasa dla trójkąta AOS otrzymujemy\nAS\nAO\nOS\n, czyli\n2\n\n2\n\n2\nl\nr\nh\n.\n\n2\n\n2\n\n, więc\nStąd\nh\nl\nr\n. Ale\nl\n2\nr\n\n\n2\n\n\n\n2\n\n\n\n2\n\n2\n\n\n\n\nh\n2\nr\nr\n4\n4\nr\nr\nr\n4\n4\nr\n2 1\nr\n.\nObjętość stożka jest więc równa\n1\n1\n2\n2\n\n\n\n\n2\n\n\n2\n\n\n\n\n2\n\n\n\n\n4\n\nV\nr h\nr\n2 1\nr\nr\n1\nr\nr\n1\nr\n.\n3\n3\n3\n3\nObjętość jest zatem funkcją zmiennej r i jest określona wzorem\n18\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\n2\n2\n\n\n\n\n\n4\n\n\n\n4\n\n5\nV r\nr\n1\nr\nr\nr\n.\n3\n3\n\n, a więc dziedziną funkcji V jest\nZ warunków geometrycznych zadania wynika, że 0\nr\n1\nprzedział \n\n0,1 .\n\n\n\nRozważmy funkcję\nf r\nr\n4\nr\n5\nokreśloną dla każdej liczby rzeczywistej r.\nPochodna funkcji f jest równa\n\n\n\n\n\n\n\n\nf\nr\n4\nr\n3\n5\nr\n4\nr\n3\n4\n5\nr\n.\n4\nr \nr \nMiejscami zerowymi pochodnej są\nlub\n.\n0\n5\n\n4\n\n\n4\n\n\n\n\n\n\n\nPochodna funkcji jest ujemna dla\n, a dodatnia dla\n.\nr\n, 0\n,\nr\n0, 5\n\n\n\n\n5\n\n\n\nZatem w przedziale \n\n4\n4\n0,\nfunkcja V jest rosnąca, a w przedziale\n5 ,1 malejąca. W punkcie\n5\n4\nr \nosiąga maksimum lokalne, które jest jednocześnie największą jej wartością. Wartość ta\n5\njest równa\n2\n\n4\n\n2\n\n4\n\n\n4\n\n2\n16\n1\n32 5\n\n\n\n\n\n\n\n\n\n\nV\n1\n.\n\n\n\n\n\n\n\n5\n\n3\n\n5\n\n\n5\n\n3\n25\n5\n375\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie zadania składa się z trzech etapów.\na) Pierwszy etap (3 punkty) składa się z trzech części:\n zapisanie wysokości stożka jako funkcji zmiennej r:\n\n\nh\n4\n4\nr\n,\n2\n\n zapisanie objętości stożka jako funkcji jednej zmiennej:\n\n\n\n2\nV r\nr\n1\nr\n3\n określenie dziedziny funkcji: 0\n\n.\nr\n1\nZa poprawne rozwiązanie każdej z części tego etapu zdający otrzymuje 1 punkt, o ile\npoprzednia część etapu została zrealizowana bezbłędnie.\nUwaga\nJeśli zdający popełni błąd przy wyznaczaniu dziedziny albo pominie wyznaczenie dziedziny,\nale funkcja objętości zostanie zapisana prawidłowo, to otrzymuje za tę cześć 2 punkty i może\notrzymać punkty, które odpowiadają kolejnym etapom rozwiązania zadania.\nb) Drugi etap (3 punkty) składa się z trzech części:\n\n\n\n wyznaczenie pochodnej funkcji\n\n4\n\n5\n\n3\n\n4\nf r\nr\nr\n:\nf\nr\n4\nr\n5\nr\n4\n obliczenie miejsc zerowych pochodnej:\nr \nr \n0\nlub\n5\n uzasadnienie (np. badanie monotoniczności funkcji), że funkcja V posiada wartość\n4\nr \nnajwiększą dla\n.\n5\nZa poprawne rozwiązanie każdej z części tego etapu zdający otrzymuje 1 punkt, o ile\npoprzednia część etapu została zrealizowana bezbłędnie.\n19\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\nc) Trzeci etap (1 punkt) – końcowe obliczenia.\n4\n\n4\n\n32 5\nr \n\nObliczenie objętości stożka dla\n:\nV\n.\n\n\n5\n\n5\n\n375\nUwaga\nPunkty za realizację danego etapu przyznajemy tylko wówczas, gdy zdający rozwiązał\npoprawnie poprzedni etap zadania.\nPrzykładowe rozwiązanie (II sposób)\nPrzyjmijmy oznaczenia jak na rysunku.\nS\nl\nh\nr\nA\nB\nO\n\n\n\n.\nZ warunków zadania wynika, że\nl\nr\n2\n, skąd\nl\n2\nr\n2\n2\n2\n\n\nZ twierdzenia Pitagorasa dla trójkąta AOS otrzymujemy\nAS\nAO\nOS\n, czyli\n2\n\n2\n\n2\nl\nr\nh\n.\n2\n\n2\n\n2\n\n, więc\nStąd\nr\nl\nh\n. Ale\nl\n2\nr\n\n\n2\n2\n\n\n\n2\nr\n2\nr\nh\n,\n2\n\n\n\n2\n\n2\nr\n4\n4\nr\nr\nh\n,\n\n\n2\n4\nr\n4\nh\n,\n1\n\n2\nr\n1\nh\n.\n4\nObjętość stożka jest więc równa\n2\n\n\n\n\n\n\n1\n1\n1\n1\n1\n1\n1\n1\n1\n\n\n2\n\n\n\n2\n\n\n\n\n2\n\n4\n\n\n\n\n3\n\n5\nV\nr h\n1\nh\nh\n1\nh\nh\nh\nh\nh\nh\n.\n\n\n\n\n\n\n3\n3\n\n4\n\n3\n\n2\n16\n\n3\n\n2\n16\n\nObjętość jest zatem funkcją zmiennej h i jest określona wzorem\n\n\n1\n1\n\n\n\n\n3\n\n5\nV h\nh\nh\nh\n.\n\n\n3\n\n2\n16\n\n\n\nZ warunków geometrycznych zadania wynika, że 0\nh\n2\n, a więc dziedziną funkcji V jest\nprzedział \n\n0,2 .\n20\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\n1\n1\n\n\n\n3\n\n5\nRozważmy funkcję\nf h\nh\nh\nh\nokreśloną dla każdej liczby rzeczywistej h.\n2\n16\nPochodna funkcji f jest równa\n3\n5\n\n\n\n2\n\n4\nf\nh\n1\nh\nh\n.\n2\n16\n2 5\n2 5\nh  lub\nh \nh \nh \nMiejscami zerowymi pochodnej są\n2\nlub\nlub\n2\n.\n5\n5\n\n\n\n\n2 5\n2 5\n\n\n\nPochodna funkcji jest ujemna dla\nh\n2,\n, 2\n, a dodatnia dla\n\n\n\n\n\n\n\n\n5\n5\n\n\n\n\n\n\n2 5 2 5\n\n\n\n\n\n\n\n\nh\n,\n2\n,\n2,\n.\n\n\n\n\n5\n5\n\n\nZatem w przedziale \n5 ,2 malejąca.\n\n2\n5\n2\n0,\nfunkcja V jest rosnąca, a w przedziale\n5\n5\n2 5\nh \nW punkcie\nosiąga maksimum lokalne, które jest jednocześnie największą jej\n5\nwartością. Wartość ta jest równa\n\n\n1\n1\n\n\n\n\n\nV h\nh\nh\n3\nh\n5\n\n\n3\n\n2\n16\n\n\n\n3\n5\n\n\n\n\n\n\n\n2 5\n1 2 5\n1\n2 5\n32 5\n\n\n\n\n\n\n\n\nV\n1\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n5\n3\n2\n5\n16\n5\n375\n\n\n\n\n\n\n\n\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie zadania składa się z trzech etapów.\na) Pierwszy etap (3 punkty) składa się z trzech części:\n1\n zapisanie promienia podstawy stożka jako funkcji zmiennej h:\n\nr\n1\nh\n2\n,\n4\n zapisanie objętości stożka jako funkcji jednej zmiennej:\n\n\n1\n1\n\n\n\n\n3\n\n5\nV h\nh\nh\nh\n\n\n3\n\n2\n16\n\n określenie dziedziny funkcji: 0\n\n\nh\n2\n.\nZa poprawne rozwiązanie każdej z części tego etapu zdający otrzymuje 1 punkt, o ile\npoprzednia część etapu została zrealizowana bezbłędnie.\nUwaga\nJeśli zdający popełni błąd przy wyznaczaniu dziedziny albo pominie wyznaczenie dziedziny,\nale funkcja objętości zostanie zapisana prawidłowo, to otrzymuje za tę cześć 2 punkty i może\notrzymać punkty, które odpowiadają kolejnym etapom rozwiązania zadania.\nb) Drugi etap (3 punkty) składa się z trzech części:\n1\n1\n3\n5\n\n\n wyznaczenie pochodnej funkcji\n\n\n\n\n\n\n3\n5\n2\n4\nf h\nh\nh\nh\n:\nf\nh\n1\nh\nh\n2\n16\n2\n16\n21\nEgzamin maturalny z matematyki – nowa formuła\nRozwiązania zadań i schemat punktowania – poziom rozszerzony\n2 5\n2 5\n obliczenie miejsc zerowych pochodnej:\nh  lub\nh \nh \n2\nlub\nlub\n5\n5\nh \n2\n.\n uzasadnienie (np. "
+  }
+ ]
+}

@@ -1,0 +1,240 @@
+{
+ "exam": {
+  "id": "f2015-R-2020-kwiecien-probna",
+  "formula": "2015",
+  "level": "R",
+  "year": 2020,
+  "session": "probna",
+  "month": "04",
+  "code": "MMA-R1_1P",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Probny/2020/MMA-R1_1P.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Probny/2020/MMA-R1-1P-zasady.pdf",
+  "examFile": "f2015-R-2020-kwiecien-probna.pdf",
+  "keyFile": "f2015-R-2020-kwiecien-probna-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "CKE probny egzamin maturalny 2020 (online, April 2020)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2015/materialy-dodatkowe/probny-egzamin-maturalny-2020/",
+  "examPages": 20,
+  "keyPages": 21,
+  "examBytes": 1777648,
+  "keyBytes": 279476
+ },
+ "keyHead": "PRÓBNY EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2019/2020\nMATEMATYKA\nPOZIOM ROZSZERZONY\nFORMUŁA OD 2015\n(„NOWA MATURA”)\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nDLA ARKUSZY\nKWIECIEŃ 2020\nSchemat oceniania\nPoziom rozszerzony\nKlucz punktowania zadań zamkniętych\nNumer zadania\n1\n2\n3\n4\nOdpowiedź\nD\nC\nA\nB\nKlucz punktowania zadań kodowanych\nZad 5.\n0    9    6\nOdpowiedź\n0\n9\n6\nx\n2\n( )\nOblicz współczynnik kierunkowy stycznej do wykresu funkcji\n−, określonej dla\nf x\n=\nx\n1\n(\n)\n36\nkażdej liczby rzeczywistej\nx ≠, poprowadzonej w punkcie\n1\n6,\ntego wykresu.\nA =\n5\nW poniższe kratki wpisz kolejno cyfrę jedności i dwie cyfry po przecinku skończonego\nrozwinięcia dziesiętnego otrzymanego wyniku.\nRozwiązanie\n(\n)\n2\nx x\n−\n1\n−\nx\n2\nx\n2\n−\n2\nx\n( )\n( )\n′\n, dla\nx ≠. Zatem\nf ′\n.\nf\nx\n=\n=\n1\n6\n=\n0,96\n(\n)\n(\n)\n2\n2\n1\n1\nx\n−\nx\n−\nZadanie 6. (0–3)\nW trójkącie ABC kąt BAC jest dwa razy większy od kąta ABC. Wykaż, że prawdziwa jest\n2\n2\nrówność\nBC\n−\nAC\n=\nAB\n⋅\nAC\n.\nRozwiązanie I sposób\nOznaczmy\nS\nABC\n=\nα\n, BC\n=\na\n, AC\n=\nb\n, AB\n=\nc\n. Przy tych oznaczeniach teza ma postać\n2\n2\na\n−\nb\n=\nbc\n.\nWtedy\nS\nBAC\n=\n2\nα\n. Poprowadźmy dwusieczną AD kąta BAC i niech CD\n=\nx\n, jak na\nrysunku.\nC\nx\nD\n2α\nb\na\n−\nx\nα\nα\nα\nB\nA\nc\nPonieważ kąty ABD i BAD są równe, więc trójkąt ABD jest równoramienny. Zatem\n2\nSchemat oceniania\nPoziom rozszerzony\noraz\n.\nAD\n=\nBD\n=\na\n−\nx\nS\nADB\n=\n180\n°−\n2\nα\nStąd wynika, że\n2\n. Zatem kąty trójkąta ABC są równe odpowiednim kątom\nS\nADC\n=\nα\ntrójkąta DAC, co oznacza, że te trójkąty są podobne. Prawdziwe są więc proporcje\nAC\nCD\noraz AC\nCD\n,\n=\n=\nBC\nAC\nAB\nAD\nczyli\nb\nx\noraz b\nx\n=\n=\n.\na\nb\nc\na\n−\nx\nStąd\nb\n2\n=\nax\noraz ab\n−\nbx\n=\ncx\n.\nZ drugiej równości otrzymujemy\nbx\n+\ncx\n=\nab\n,\n(\n)\nx b\n+\nc\n=\nab\n,\nab\nx\n=\n.\nb\nc\n+\nZatem równość\nb\n2\n=\nax\nmożemy zapisać w postaci\nab\nb\n2\n=\na b\n⋅\n,\nc\n+\na\n2\nb\n=\n,\nb\nc\n+\n(\n)\nb b\n+\nc\n=\na\n2\n,\nb\n2\n+\nbc\n=\na\n2\n,\na\n2\n−\nb\n2\n=\nbc\n.\nTo kończy dowód.\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp  ......................................................................  1 p.\nZdający, przy przyjętych oznaczeniach, zapisze jedną z równości: b\nx\n, b\nx\n=\n=\n.\na\nb\nc\na\n−\nx\nPokonanie zasadniczych trudności zadania  .....................................................................  2 p.\nZdający zapisze zależność, w której występują tylko wielkości a, b i c, ale nie wykaże tezy,\nab\n.\nnp. zapisze\nb\n2\n=\na b\n⋅\n+\nc\nRozwiązanie pełne  ..............................................................................................................  3 p.\nZdający przeprowadzi pełne rozumowanie.\n3\nSchemat oceniania\nPoziom rozszerzony\nRozwiązanie II sposób\nOznaczmy\nS\n, BC\n, AC\n, AB\n.\nABC\n=\nα\n=\na\n=\nb\n=\nc\nC\na\nb\n2α\nα\nB\nc\nA\nWtedy\nS\nBAC\n2\n. Przy tych oznaczeniach teza ma postać\n=\nα\na\n2\nb\n2\nbc\n.\n−\n=\nZ twierdzenia sinusów otrzymujemy\nAC\nBC\nb\na\n=\n, czyli sin\n=\n.\nsin\nsin 2\n2sin\ncos\nα\nα\nα\nα\nα\nStąd\na\n=\n2 cos\nb\nα\n.\nZ twierdzenia cosinusów wynika natomiast\nb\n2\n=\na\n2\n+\nc\n2\n−\n2\nac\ncos\nα\n,",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2020-kwiecien-probna/1.webp",
+   "size": [
+    940,
+    148
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nNiech\n. Wtedy\nL\n\nlog\n2\n\nlog\n3\n\nlog\n4\n2\n2\n3\nA.\nB.\nC.\nL \nD.\nL\n\n1\nL \n2\n3\nL \n4",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2020-kwiecien-probna/2.webp",
+   "size": [
+    940,
+    174
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\n\n\nOkrąg o równaniu \n\n\n\n2\n2\njest styczny do okręgu o środku\nS \n12,5\nx\n\n3\n\ny\n\n7\n\n625\ni promieniu r. Wynika stąd, że\nA.\nr \n5\nB.\nr \n15\nC.\nr \n10\nD.\nr \n20",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2020-kwiecien-probna/3.webp",
+   "size": [
+    940,
+    168
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nLiczba \n\n\n\n2\n2\n1\n\n2\n\n2\n\n2\njest równa\nA. 1\nB.\n\n1\nC. 3 2 2\nD. 2 2\n\n1\n",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2020-kwiecien-probna/4.webp",
+   "size": [
+    940,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nSpośród poniższych nierówności wskaż tę, którą spełniają dokładnie trzy liczby całkowite.\n3\n4\n3\n4\nA.\nx \n5\n2\nB.\nx \n5\n2\nC.\nx \n4\n2\nD.\nx \n3\n2\n\n\n\n\n4\n3\n5\n5",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2020-kwiecien-probna/5.webp",
+   "size": [
+    950,
+    289
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–2)\n2\nx\n\nOblicz współczynnik kierunkowy stycznej do wykresu funkcji\nf x\n, określonej dla\n\nx\n1\n\n\n36\nkażdej liczby rzeczywistej\nx , poprowadzonej w punkcie\n1\nA \n6,\ntego wykresu.\n5\nW poniższe kratki wpisz kolejno cyfrę jedności, pierwszą i drugą cyfrę po przecinku\nskończonego rozwinięcia dziesiętnego otrzymanego wyniku.",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2020-kwiecien-probna/6.webp",
+   "size": [
+    950,
+    118
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–3)\nW trójkącie ABC kąt BAC jest dwa razy większy od kąta ABC. Wykaż, że prawdziwa jest\n2\n2\nrówność\nBC\n\nAC\n\nAB\n\nAC\n.",
+   "key": "Zadanie 6. (0–3)\nW trójkącie ABC kąt BAC jest dwa razy większy od kąta ABC. Wykaż, że prawdziwa jest\n2\n2\nrówność\nBC\n−\nAC\n=\nAB\n⋅\nAC\n.\nRozwiązanie I sposób\nOznaczmy\nS\nABC\n=\nα\n, BC\n=\na\n, AC\n=\nb\n, AB\n=\nc\n. Przy tych oznaczeniach teza ma postać\n2\n2\na\n−\nb\n=\nbc\n.\nWtedy\nS\nBAC\n=\n2\nα\n. Poprowadźmy dwusieczną AD kąta BAC i niech CD\n=\nx\n, jak na\nrysunku.\nC\nx\nD\n2α\nb\na\n−\nx\nα\nα\nα\nB\nA\nc\nPonieważ kąty ABD i BAD są równe, więc trójkąt ABD jest równoramienny. Zatem\n2\nSchemat oceniania\nPoziom rozszerzony\noraz\n.\nAD\n=\nBD\n=\na\n−\nx\nS\nADB\n=\n180\n°−\n2\nα\nStąd wynika, że\n2\n. Zatem kąty trójkąta ABC są równe odpowiednim kątom\nS\nADC\n=\nα\ntrójkąta DAC, co oznacza, że te trójkąty są podobne. Prawdziwe są więc proporcje\nAC\nCD\noraz AC\nCD\n,\n=\n=\nBC\nAC\nAB\nAD\nczyli\nb\nx\noraz b\nx\n=\n=\n.\na\nb\nc\na\n−\nx\nStąd\nb\n2\n=\nax\noraz ab\n−\nbx\n=\ncx\n.\nZ drugiej równości otrzymujemy\nbx\n+\ncx\n=\nab\n,\n(\n)\nx b\n+\nc\n=\nab\n,\nab\nx\n=\n.\nb\nc\n+\nZatem równość\nb\n2\n=\nax\nmożemy zapisać w postaci\nab\nb\n2\n=\na b\n⋅\n,\nc\n+\na\n2\nb\n=\n,\nb\nc\n+\n(\n)\nb b\n+\nc\n=\na\n2\n,\nb\n2\n+\nbc\n=\na\n2\n,\na\n2\n−\nb\n2\n=\nbc\n.\nTo kończy dowód.\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp  ......................................................................  1 p.\nZdający, przy przyjętych oznaczeniach, zapisze jedną z równości: b\nx\n, b\nx\n=\n=\n.\na\nb\nc\na\n−\nx\nPokonanie zasadniczych trudności zadania  .....................................................................  2 p.\nZdający zapisze zależność, w której występują tylko wielkości a, b i c, ale nie wykaże tezy,\nab\n.\nnp. zapisze\nb\n2\n=\na b\n⋅\n+\nc\nRozwiązanie pełne  ..............................................................................................................  3 p.\nZdający przeprowadzi pełne rozumowanie.\n3\nSchemat oceniania\nPoziom rozszerzony\nRozwiązanie II sposób\nOznaczmy\nS\n, BC\n, AC\n, AB\n.\nABC\n=\nα\n=\na\n=\nb\n=\nc\nC\na\nb\n2α\nα\nB\nc\nA\nWtedy\nS\nBAC\n2\n. Przy tych oznaczeniach teza ma postać\n=\nα\na\n2\nb\n2\nbc\n.\n−\n=\nZ twierdzenia sinusów otrzymujemy\nAC\nBC\nb\na\n=\n, czyli sin\n=\n.\nsin\nsin 2\n2sin\ncos\nα\nα\nα\nα\nα\nStąd\na\n=\n2 cos\nb\nα\n.\nZ twierdzenia cosinusów wynika natomiast\nb\n2\n=\na\n2\n+\nc\n2\n−\n2\nac\ncos\nα\n,\nwięc\na\n2\n2\n2\n,\nb\n=\na\n+\nc\n−\n2\nac\n⋅\n2\nb\na c\n2\n2\n2\n2\n,\nb\n=\na\n+\nc\n−\nb\n3\n2\n2\n2\n,\nb\n=\na b\n+\nbc\n−\na c\n3\n2\n2\n2\n0\n,\nb\n−\nbc\n+\na c\n−\na b\n=\n(\n)\n(\n)\n2\n2\n2\nb b\n−\nc\n−\na\nb\n−\nc\n=\n0\n,\n(\n)\n(\n)\n(\n)\n2\n0\n,\nb\n−\nc\nb b\n+\nc\n−\na\n=\n)(\n)\n(\n2\n2\n0\n.\nb\n−\nc\nb\n+\nbc\n−\na\n=\n2\n2\nStąd wynika, że b\n=\nc\nlub\na\n−\nb\n=\nbc\n. Zauważmy, że gdy b\n=\nc\n, to trójkąt ABC jest\nrównoramienny, więc\nS\nACB\n=\nS\nABC\n=\nα\n, więc 4α =180°, skąd\nα =\n45\n° i 2\nα = 0°. To\n9\noznacza, że wówczas trójkąt jest równoramienny i prostokątny, więc b\ni\n2\n.\n=\nc\na\n=\nb\nRówność\n2\n2\njest więc wtedy również prawdziwa, gdyż\na\n−\nb\n=\nbc\n(\n)\n2\n2\n2\n2\n2\n2\n2\n.\nb\n−\nb\n=\nb\n−\nb\n=\nb\n=\nbc\nTo kończy dowód.\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp  ......................................................................  1 p.\nb\na\nZdający, przy przyjętych oznaczeniach, zapisze obie równości sin\n=\n,\n2sin\ncos\nα\nα\nα\nb\n2\n=\na\n2\n+\nc\n2\n−\n2\nac\ncos\nα\n.\n4\nSchemat oceniania\nPoziom rozszerzony\nPokonanie zasadniczych trudności zadania  .....................................................................  2 p.\nZdający zapisze zależność, w której występują tylko wielkości a, b i c, ale nie wykaże tezy,\na\nnp. zapisze\nb\n2\n=\na\n2\n+\nc\n2\n−\n2\nac\n⋅\n.\n2\nb\nRozwiązanie pełne  ..............................................................................................................  3 p.\nZdający przeprowadzi pełne rozumowanie."
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2020-kwiecien-probna/7.webp",
+   "size": [
+    890,
+    142
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–3)\n\n\nπ\nUdowodnij, że dla dowolnego kąta\n0,\nprawdziwa jest nierówność\n\n2\n\n\n\n\nπ\nπ\n1\nsin\ncos\n.\n\n\n\n\n\n\n12\n12\n4",
+   "key": "Zadanie  7. (0–3)\n(\n)\nπ\nUdowodnij, że dla dowolnego kąta\nα ∈\n0,\nprawdziwa jest nierówność\n2\n(\n)\n(\n)\nπ\nπ\n1\nsin\n−\nα\n⋅\ncos\n+\nα\n<\n.\n12\n12\n4\nRozwiązanie (I sposób)\nMnożąc obie strony nierówności przez 2, otrzymujemy nierówność równoważną\n(\n)\n(\n)\nπ\nπ\n1\n2sin\ncos\n,\n−\nα\n⋅\n+\nα\n<\n12\n12\n2\nπ\nπ\n2\n2\n+\nα\n−\nα\n1\n6\n6\n2cos\nsin\n.\n⋅\n<\n2\n2\n2\nTę nierówność możemy zapisać w sposób równoważny, korzystając ze wzoru na sinus\nróżnicy kątów, w postaci\n1\nπ\nsin\n−\nsin 2\nα\n<\n,\n6\n2\n1\n1\n−\nsin 2\nα\n<\n,\n2\n2\nsin 2\nα >\n0\n.\n(\n)\n0, π\n(\n)\nTa nierówność jest prawdziwa dla każdego\nα ∈\n, gdyż wtedy\n2\n0,\n.\nα\n∈\nπ\n2\nRozwiązanie (II sposób)\nKorzystając ze wzoru na sinus różnicy kątów i ze wzoru na cosinus sumy kątów,\notrzymujemy\n(\n)(\n)\n1\nπ\nπ\nπ\nπ\nsin\ncos\ncos\nsin\ncos\ncos\nsin\nsin\n,\nα\n−\nα\nα\n−\nα\n<\n12\n12\n12\n12\n4\n1\nπ\nπ\nπ\nπ\nπ\nπ\nsin\ncos\ncos\n2\nsin\n2\nsin\ncos\ncos\n2\nsin\ncos\nsin\ncos\nsin\n2\n,\nα\n−\nα\nα\n−\nα\nα\n+\nα\n<\n12\n12\n12\n12\n12\n12\n4\n(\n)\n(\n)\n1\nπ\nπ\nπ\nπ\nsin\ncos\nsin\n2\ncos\n2\nsin\ncos\nsin\n2\ncos\n2\n,\nα\n+\nα\n−\nα\nα\n+\n<\n12\n12\n12\n12\n4\n1\nπ\nπ\nsin\ncos\n1 sin\ncos\n1\n,\n⋅−\nα\nα\n⋅<\n12\n12\n4\n1\n1\nπ\nπ\n2sin\ncos\nsin\ncos\n,\n⋅\n−\nα\nα\n<\n2\n12\n12\n4\n(\n)\n1\n1\nπ\nsin 2\nsin\ncos\n,\n⋅\n⋅\n−\nα\nα\n<\n2\n12\n4\n1\n1\nπ\nsin\nsin\ncos\n,\n⋅\n−\nα\nα\n<\n2\n6\n4\n1 1\n1\nsin\ncos\n,\n⋅\n−\nα\nα\n<\n2 2\n4\nsin\nα\ncos\nα >\n0\n.\n(\n)\n0, π\nTa nierówność jest prawdziwa dla każdego\nα ∈\n, gdyż wtedy sin\nα >\n0\ni cos\nα >\n0\n.\n2\n5\nSchemat oceniania\nPoziom rozszerzony\nRozwiązanie (III sposób)\n(\n)\n0, π\n5\nπ\nπ\nπ\nπ\nπ\n7\nπ\nJeżeli\n, to\noraz\n. Ponieważ w przedziale\nα ∈\n−\n<\n−\nα\n<\n<\n+\nα\n<\n2\n12\n12\n12\n12\n12\n12\nπ π\n,\nfunkcja sinus jest rosnąca, a w przedziale  0,π funkcja cosinus jest malejąca, więc\n−\n2\n2\n(\n)\n0, π\ndla każdego\nprawdziwe są nierówności\nα ∈\n2\n(\n)\n(\n)\nπ\nπ\nπ\nπ\nsin\nsin\noraz\ncos\ncos\n.\n−\nα\n<\n+\nα\n<\n12\n12\n12\n12\nZatem\n(\n)\n(\n)\nπ\nπ\nπ\nπ\n1\nπ\nπ\n1\nπ\n1 1\n1\nsin\n−\nα\ncos\n+\nα\n<\nsin\ncos\n=\n⋅\n2sin\ncos\n=\n⋅\nsin\n=\n⋅\n=\n.\n12\n12\n12\n12\n2\n12\n12\n2\n6\n2 2\n4\nTo kończy dowód.\nSchemat oceniania I, II i III sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp  ......................................................................  1 p.\nZdający\nπ\nπ\n2\n2\n+\nα\n−\nα\n1\n6\n6\n• zapisze nierówność w postaci\n2cos\nsin\n<\n2\n2\n2\nalbo\nπ\nπ\n1\n• zapisze nierówność w postaci\nsin\ncos\n⋅−\n1 sin\nα\ncos\nα\n⋅<\n1\n12\n12\n4\nalbo\n(\n)\n0, π\n• uzasadni, że\nα ∈\nprawdziwa jest jedna z nierówności\n2\n(\n)\n(\n)\nπ\nπ\nπ\nπ\nsin\n−\nα\n<\nsin\n,\ncos\n+\nα\n<\ncos\n12\n12\n12\n12\nPokonanie zasadniczych trudności zadania  .....................................................................  2 p.\nZdający\nπ\n1\n1\n1\nπ\n• zapisze nierówność w postaci\nsin\nsin 2\nsin\nsin\ncos\n−\nα\n<\n⋅\n−\nα\nα\n<\n2\n6\n4\n6\n2\nalbo\n• zapisze nierówność w postaci 1\nπ\n1\nsin\nsin\ncos\n⋅\n−\nα\nα\n<\n2\n6\n4\nalbo\n(\n)\n0, π\n• uzasadni, że\nα ∈\nprawdziwe są obie nierówności\n2\n(\n)\n(\n)\nπ\nπ\nπ\nπ\nsin\n−\nα\n<\nsin\n,\ncos\n+\nα\n<\ncos\n.\n12\n12\n12\n12\nRozwiązanie pełne  ..............................................................................................................  3 p.\nZdający przeprowadzi pełne rozumowanie.\n6\nSchemat oceniania\nPoziom rozszerzony"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2020-kwiecien-probna/8.webp",
+   "size": [
+    916,
+    86
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–3)\n\n\n8\n2\n2\n4\n1\nWykaż, że równanie\nx\n\nx\n\nx\n\nx\n\nma tylko jedno rozwiązanie rzeczywiste\n1\n.\nx ",
+   "key": "Zadanie 8. (0–3)\n(\n)\nWykaż, że równanie\n8\n2\n2\n4\n1\nma tylko jedno rozwiązanie rzeczywiste\nx = .\nx\n+\nx\n=\nx\n+\nx\n−\n1\nRozwiązanie\nRównanie możemy zapisać w postaci równoważnej\nx\n8\n+\nx\n2\n=\n2\nx\n4\n+\n2\nx\n−\n2\n,\nx\n8\n−\n2\nx\n4\n+ +\n1\nx\n2\n−\n2\nx\n+ =\n1\n0\n,\n(\n)\n2\n(\n)\n2\nx\n4\n1\nx\n1\n0\n.\n−\n+\n−\n=\nLewa strona równania jest sumą dwóch liczb nieujemnych, więc jest ona równa 0 wtedy\ni tylko wtedy, gdy oba składniki są równe 0, czyli wtedy i tylko wtedy, gdy\n(\n)\n2\ni (\n)\n2\nx −\n4\n1\n0\nx −\n1\n0\n,\n=\n=\n4\n1\n0\ni\n.\nx −=\nx −=\n1\n0\nDrugie z otrzymanych równań ma tylko jedno rozwiązanie\nx = . Jest to również rozwiązanie\n1\npierwszego z równań. To kończy dowód.\nSchemat oceniania\nPokonanie zasadniczych trudności zadania  .....................................................................  2 p.\nZdający zapisze równanie w postaci (\n)\n2\n(\n)\n2\nx\n4\n1\nx\n1\n0\n.\n−\n+\n−\n=\nRozwiązanie pełne  ..............................................................................................................  3 p.\nZdający przeprowadzi pełne rozumowanie."
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2020-kwiecien-probna/9.webp",
+   "size": [
+    950,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–4)\nZe zbioru wszystkich liczb naturalnych ośmiocyfrowych, w których zapisie dziesiętnym\nwystępują tylko cyfry ze zbioru \n\n0,1, 3, 5, 7, 9 , losujemy jedną. Oblicz prawdopodobieństwo\nzdarzenia polegającego na tym, że suma cyfr wylosowanej liczby jest równa 3.",
+   "key": "Zadanie 9. (0–4)\nZe zbioru wszystkich liczb naturalnych ośmiocyfrowych, w których zapisie dziesiętnym\nwystępują tylko cyfry ze zbioru {\n}\n0,1, 3, 5, 7, 9 , losujemy jedną. Oblicz prawdopodobieństwo\nzdarzenia polegającego na tym, że suma cyfr wylosowanej liczby jest równa 3.\nRozwiązanie\nZauważmy, że elementami zbioru Ω wszystkich zdarzeń elementarnych są ośmiocyfrowe\nliczby, których cyfry wzięte są ze zbioru {\n}\n0,1, 3, 5, 7, 9 . Wszystkich takich liczb tyle, ile\nośmiowyrazowych ciągów (\n)\n{\n}\n{\n}\nx x\n,\n,...,\nx\n, w których\nx ∈\n1,3,5,7,9\ni\nix ∈\n0,1,3,5,7,9\ndla\n1\n2\n8\n1\n{\n}\n(\n)\n{\n}\n{\n}\n2\n≤≤\ni\n8\n. Zatem\nΩ=\nx x\n,\n,...,\nx\n:\nx\n∈\n1,3,5,7,9 i\nx\n∈\n0,1,3,5,7,9 dla\ni\n≥\n2\noraz\n1\n2\n8\n1\ni\nΩ= ⋅\n5 6\n7\n.\nNiech A oznacza zdarzenie polegające na tym, że suma cyfr wylosowanej liczby jest równa 3.\nLiczby, które spełniają ten warunek mają jedną z następujących postaci:\n• pierwszą cyfrą jest 3 (licząc od lewej strony) i kolejne cyfry są zerami. Taka liczba jest\ntylko jedna.\n• pierwszą cyfrą jest 1, na dwóch spośród pozostałych siedmiu miejscach są dwie cyfry 1, a\nna pozostałych pięciu miejscach są cyfry 0. Takich liczb jest ( )\n7\n1⋅\n.\n2\n7\nSchemat oceniania\nPoziom rozszerzony\nZatem\n( )\n7\n1\n1\n21\n22\n.\nA = +\n= +\n=\n2\nPrawdopodobieństwo zdarzenia A jest więc równe:\n22\n11\nP\n(\nA\n)\n=\n=\n≈\n,0\n00001571\n.\n7\n699840\n5\n⋅\n6\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający\n• zapisze liczbę wszystkich zdarzeń elementarnych:\n5 6\n7\nΩ= ⋅\nalbo\n• zapisze dwa przypadki liczb, których suma cyfr jest równa 3.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający\n• zapisze liczbę wszystkich zdarzeń elementarnych zapisze dwa przypadki liczb,\nktórych suma cyfr jest równa 3\nalbo\n• zapisze liczbę wszystkich zdarzeń elementarnych sprzyjających zdarzeniu A:\n( )\n7\nA = +\n1\n.\n2\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZdający zapisze liczbę wszystkich zdarzeń elementarnych oraz liczbę zdarzeń sprzyjających\n( )\n7\nzdarzeniu A:\n7\n,\n.\nΩ= ⋅\n5 6\nA = +\n1\n2\nRozwiązanie pełne ................................................................................................................ 4 p.\n22\nZdający wyznaczy szukane prawdopodobieństwo, np.:\n.\n5\n⋅\n6\n7"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2020-kwiecien-probna/10.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–4)\nDany jest rosnący ciąg geometryczny \n\na aq aq\n,\n,\n2\n, którego wszystkie wyrazy i iloraz są\nliczbami całkowitymi nieparzystymi. Jeśli największy wyraz ciągu zmniejszymy o 4, to\notrzymamy ciąg arytmetyczny. Oblicz wyraz aq tego ciągu.",
+   "key": "Zadanie 10. (0–4)\nDany jest rosnący ciąg geometryczny (\n)\na aq aq\n,\n,\n2\n, którego wszystkie wyrazy i iloraz są\nliczbami całkowitymi nieparzystymi. Jeśli największy wyraz ciągu zmniejszymy o 4, to\notrzymamy ciąg arytmetyczny. Oblicz wyraz aq tego ciągu.\nRozwiązanie\nCiąg jest rosnący, zatem największym jego wyrazem jest liczba\naq .  Ciąg arytmetyczny\n2\ntworzą więc liczby (\n)\n2 −\na\n,\na\n⋅\nq\n,\na\n⋅\nq\n4\n.\n(\n)\n2 −\n4\na\n+\naq\nKorzystając z własności ciągu arytmetycznego mamy, że\naq\n=\n, czyli\n2\n(\n)\n2 −\n2\naq\n=\na\n+\naq\n4\n.\nPrzekształcając otrzymaną równość otrzymujemy w szczególności:\n−\naq\n2\n+\n2\naq\n−\na\n=\n−\n4\n,\n8\nSchemat oceniania\nPoziom rozszerzony\n(\n)\n2\n2\n1\n4\n,\n−\na\nq\n−\nq\n+\n=\n−\n2 =\n(\n)\n1\n4\n.\na\nq\n−\nWszystkie wyrazy mają być nieparzystymi liczbami całkowitymi. Zatem\na\n=\n1\noraz\n2 =\n(\n)\nq\n−\n1\n4\n. Stąd\nq\n−\n1 =\n2\n, zatem\nq\n=\n3\nlub\nq\n=\n−\n1\n. Ostatnie wynik nie spełnia warunków\nzadania.\nZatem drugi wyraz jest równy:\naq\n=\n3\n.\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp ........................................................................ 1 p.\nZdający zapisze dla odpowiednich wyrażeń równość wynikającą z własności ciągu\n(\n)\n2 −\na\naq\n4\n+\narytmetycznego, np.:\naq\n=\n.\n2\nPokonanie zasadniczych trudności zadania ....................................................................... 2 p.\nZdający zapisze równanie, w którym jedna ze stron jest iloczynem liczb całkowitych, a druga\nkonkretną liczbą całkowitą, pozwalające wyznaczyć całkowite wartości niewiadomych, np.:\n2 =\n(\n)\na\nq\n1\n4\n.\n−\nPokonanie prawie pełne ....................................................................................................... 3 p.\nZdający wykorzysta rozkład liczby 4 na czynniki i wyznaczy co najmniej jedną z liczb:\na lub q.\nRozwiązanie pełne ................................................................................................................ 4 p.\nZdający obliczy drugi wyraz ciągu: 3."
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2020-kwiecien-probna/11.webp",
+   "size": [
+    950,
+    155
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–4)\nDany jest nieskończony ciąg okręgów \n\nno\no równaniach\nx\n2\ny\n2\n2\n11\n\nn\nn . Niech Pk\n\n\n,\n1\nbędzie pierścieniem ograniczonym zewnętrznym okręgiem\no\n i wewnętrznym okręgiem\no\n2 .\n2\n1\nk\nk\nOblicz sumę pól wszystkich pierścieni Pk, gdzie\nk .\n1",
+   "key": "Zadanie 11. (0–4)\nDany jest nieskończony ciąg okręgów (\n)\nno\no równaniach\nx\n2\n+\ny\n2\n=\n2\n11\n−\nn\nn ≥. Niech Pk\n1\n,\nbędzie pierścieniem ograniczonym zewnętrznym okręgiem\no\n− i wewnętrznym okręgiem\n2\nk\n1\no\n2 .\nOblicz sumę pól wszystkich pierścieni Pk, gdzie\nk ≥.\n1\nk\nRozwiązanie\nRównanie przedstawia rodzinę współśrodkowych okręgów o środku w początku układu\n(\n)\n11\n−\nn\nwspółrzędnych i promieniach\nr\n2\n. Promień pierwszego okręgu jest równy\nr =\n2\n5\n,\n=\n1\n9\nzaś drugiego –\nr =\n2\n. Pole pierwszego pierścienia jest równe\nP\n2\n10\n2\n9\n2\n9\n, pole\n=\nπ\n⋅\n−\nπ\n⋅\n=\nπ\n⋅\n2\n2\n1\nnastępnego pierścienia jest równe\nP\n2\n8\n2\n7\n2\n7\n. Pole każdego z opisanych\n=\nπ\n⋅\n−\nπ\n⋅\n=\nπ\n⋅\n2\npierścieni można zapisać w postaci\nkP\n2\n12 2\n−\nk\n2\n11 2\n−\nk\n2\n11 2\n−\nk\n. Zauważamy, że pola\n=\nπ\n⋅\n−\nπ\n⋅\n=\nπ\n⋅\n(\n)\n11 2\n−\nk\n+\n1\nπ\n⋅\n2\n1\npierścieni tworzą nieskończony ciąg geometryczny o ilorazie\nq\n2\n−\n2\n.\n=\n=\n=\n11 2\nπ\n⋅\n2\n−\nk\n4\n1\nPonieważ\nq =\n< , warunek istnienia sumy jest spełniony i można zastosować wzór na\n1\n4\nπ\n⋅\n2\n9\n4\n2\n11\nπ\nsumę wszystkich wyrazów ciągu geometrycznego zbieżnego:\nS\n2\n9\n.\n=\n=\n⋅\nπ\n⋅\n=\n1\n3\n3\n−\n1\n4\n9\nSchemat oceniania\nPoziom rozszerzony\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający obliczy pole pierwszego pierścienia ograniczonego okręgiem pierwszym i drugim\n9\nP\n=\n2\n⋅\nπ\n.\n1\nRozwiązanie, w którym jest istotny postęp  ......................................................................  2 p.\n1\nZdający zauważy, że pola pierścieni tworzą ciąg geometryczny o ilorazie\n.\nq =\n4\nPokonanie zasadniczych trudności zadania  .....................................................................  3 p.\n2\n9\n⋅\nπ\nZdający zastosuje wzór na sumę szeregu geometrycznego\n.\nS\n=\n1\n−\n1\n4\nRozwiązanie pełne  ..............................................................................................................  4 p.\n2\n11\n⋅\nπ\nZdający obliczy sumę pól wszystkich pierścieni\nS\noraz w trakcie rozwiązywania\n=\n3\nzadania zapisze, że taka suma istnieje, bo iloraz ciągu spełnia warunek\nq < .\n1"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2020-kwiecien-probna/12.webp",
+   "size": [
+    950,
+    134
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–5)\nTrapez prostokątny ABCD o podstawach AB i CD jest opisany na okręgu. Ramię BC ma długość\n10, a ramię AD jest wysokością trapezu. Podstawa AB jest 2 razy dłuższa od podstawy CD.\nOblicz pole tego trapezu.",
+   "key": "Zadanie 12. (0–5)\nTrapez prostokątny ABCD o podstawach AB i CD jest opisany na okręgu. Ramię BC ma\ndługość 10, a ramię AD jest wysokością trapezu. Podstawa AB jest 2 razy dłuższa od\npodstawy CD. Oblicz pole tego trapezu.\nRozwiązanie\nPoprowadźmy wysokość CE trapezu i przyjmijmy oznaczenia jak na rysunku.\nb\nC\nD\nh\n10\nh\nd\nA\nB\nE\na\nPodstawa AB jest dwa razy dłuższa od podstawy CD, więc\n2\n.\na\n=\nb\nZatem\nEB\n=\nAB\n−\nCD\n=\n2\nb\n−\nb\n=\nb\n.\nPonieważ trapez jest opisany na okręgu, więc\nAB\n+\nCD\n=\nAD\n+\nBC\n,\nczyli\n10\nSchemat oceniania\nPoziom rozszerzony\n2\nb\n+\nb\n=\nh\n+\n10\n,\n(1)\nh\n3\nb\n10\n.\n=\n−\nZ twierdzenia Pitagorasa dla trójkąta BCE otrzymujemy\n2\n2\n2\n,\nEB\n+\nCE\n=\nBC\n2\n2\n2\n.\nb\n+\nh\n=\n10\nStąd i z (1) otrzymujemy równanie z jedną niewiadomą b\n(\n)\n2\nb\n2\n+\n3\nb\n−\n10\n=\n100\n,\n,\nb\n2\n+\n9\nb\n2\n−\n60\nb\n+\n100\n=\n100\n10\n2\n60\n0\n,\nb\n−\nb\n=\n(\n)\n10\nb b −\n6\n0\n,\n=\nlub\n.\nb =\n0\nb =\n6\nTylko drugie z tych rozwiązań jest dodatnie, więc\nb =\n6\n.\nZatem\na =\n2 6\n12\ni\nh = ⋅−\n3 6 10\n8\n.\n⋅\n=\n=\nPole trapezu jest równe\na\n+\nb\n18 8\nP\n=\n⋅\nh\n=\n⋅=\n72\n.\nABCD\n2\n2\nZ twierdzenia Pitagorasa dla trójkąta ABD otrzymujemy\n2\n2\n2\nAD\n+\nAB\n=\nBD\n,\n.\n12\n2\n+\n8\n2\n=\nd\n2\nStąd\nd =\n144\n64\n208\n4 13\n.\n+\n=\n=\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ............................................................................................................ 1 p.\nZdający zapisze zależność między długościami boków trapezu\n• wynikającą z własności czworokąta opisanego na okręgu:\na\n+\nb\n=\nh\n+\n10\nalbo\n• wynikającą z twierdzenia Pitagorasa: (\n)\n2\na\n−\nb\n+\nh\n2\n=\n10\n2\n.\nRozwiązanie, w którym jest istotny postęp  ....................................................................... 2 p.\nZdający zapisze układ równań (tyle równań niezależnych ile niewiadomych), pozwalający\ni (\n)\n2\nobliczyć długości boków trapezu, np.:\n2\n2\ni\n.\na\n+\nb\n=\nh\n+\n10\na\n−\nb\n+\nh\n=\n10\na\n=\n2\nb\nPokonanie zasadniczych trudności zadania  ...................................................................... 3 p.\n(\n)\n2\nZdający zapisze równanie z jedną niewiadomą, np.:\nb\n2\n3\nb\n10\n100\n.\n+\n−\n=\nRozwiązanie prawie pełne  .................................................................................................. 4 p.\nZdający\n• obliczy długość jednego z boków trapezu i na tym zakończy\nalbo\n• obliczy pole trapezu, popełniając w trakcie rozwiązania zadania błędy rachunkowe.\nRozwiązanie pełne  ............................................................................................................... 5 p.\nZdający obliczy pole trapezu ABCD:\n.\nP\n=\n72\nABCD\n11\nSchemat oceniania\nPoziom rozszerzony\nUwaga\nJeżeli zdający obliczy długości boków trapezu i na tym zakończy, to otrzymuje 4 punkty."
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2020-kwiecien-probna/13.webp",
+   "size": [
+    950,
+    141
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–5)\nWierzchołki A i B trójkąta prostokątnego ABC leżą na osi Oy układu współrzędnych. Okrąg\nwpisany w ten trójkąt jest styczny do boków AB, BC i CA w punktach – odpowiednio –\n\n\n\n\n\n\nP \n0,10 ,\nQ \n8, 6\ni\nR \n9,13\n. Oblicz współrzędne wierzchołków A, B i C tego trójkąta.",
+   "key": "Zadanie 13. (0–5)\nWierzchołki A i B trójkąta prostokątnego ABC leżą na osi Oy układu współrzędnych. Okrąg\nwpisany w ten trójkąt jest styczny do boków AB, BC i CA w punktach – odpowiednio –\n(\n)\n(\n)\n(\n)\nP =\n0,10 ,\nQ =\n8, 6\ni\nR =\n9,13\n. Oblicz współrzędne wierzchołków A, B i C tego trójkąta.\nRozwiązanie (I sposób)\nWspółczynnik kierunkowy prostej PR jest równy\n13 10\n−\n1\n,\na\n=\n=\nPR\n9\n−\n0\n3\na środek E cięciwy PR ma współrzędne\n(\n)\n9 23\nE =\n,\n.\n2\n2\nSymetralna cięciwy PR , a więc prosta prostopadła do prostej PR i przechodząca przez punkt\nE ma równanie postaci\n(\n)\n9\n23\ny\n= −\n3\nx\n−\n+\n,\n2\n2\ny\n= −\n3\nx\n+\n25\n.\n(\n)\nPrzecina ona oś Oy w punkcie B. Zatem\nB =\n0,25\n.\nTak samo wyznaczymy współrzędne wierzchołka A.\nWspółczynnik kierunkowy prostej PR jest równy\n6 10\n−\n1\na\n=\n= −\n,\nPQ\n8\n−\n0\n2\na środek D cięciwy PQ ma współrzędne\n(\n)\n4,8\n.\nD =\nProsta przechodząca przez punkt D i prostopadła do prostej PQ, czyli symetralna cięciwy PQ\nma równanie postaci\n(\n)\ny\n=\n2\nx\n−\n4\n+ ,\n8\ny\n2\nx\n.\n=\n(\n)\nPrzecina ona oś Oy w punkcie A. Zatem\nA =\n0,0\n.\n12\nSchemat oceniania\nPoziom rozszerzony\ny\n27\n26\nB\n25\n24\n23\n22\n21\n20\n19\n18\n17\n16\n15\nR\n14\nE\n13\n12\nC\n11\nF\nP\n10\n9\n8\nD\n7\n6\nQ\n5\n4\n3\n2\nA\nx\n1\n-2 -1\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18\n-1\n-2\nPozostaje obliczyć współrzędne wierzchołka C. Możemy je obliczyć na kilka sposobów.\nSposób I.\nWystarczy wyznaczyć równania prostych AQ i BR zawierających boki odpowiednio AC i BC.\nPunkt ich przecięcia to wierzchołek C.\nRównanie prostej AQ ma postać\n6 0\n−\n(\n)\n0\n0\n,\ny\n=\nx\n−\n+\n8 0\n−\n3\n.\ny\n=\nx\n4\nRównanie prostej BR z kolei ma postać,\n13 25\n−\n(\n)\ny\nx\n0\n25\n,\n=\n−\n+\n9 0\n−\n4\ny\nx\n25\n.\n= −\n+\n3\nZatem\n4\n3\n−\nx\n+\n25\n=\nx\n,\n3\n4\n25\n25\n=\nx\n,\n12\n12\n,\nx =\n3\n(\n)\nwięc\ny =\n4 12\n9\n, czyli\n12,9\n.\n⋅\n=\nC =\nSposób II.\nWystarczy wyznaczyć równanie jednej z prostych AQ lub BR oraz równanie symetralnej\ncięciwy QR. Punkt ich przecięcia to wierzchołek C.\n3\nRównanie prostej AQ ma postać\ny\n=\nx\n.\n4\nWspółczynnik kierunkowy prostej QR jest równy\n13\n−\n6\n7\n,\na\n=\n=\nQR\n9\n−\n8\na środek F cięciwy QR ma współrzędne\n(\n)\n17 19\nF =\n,\n.\n2\n2\n13\nSchemat oceniania\nPoziom rozszerzony\nProsta przechodząca przez punkt F i prostopadła do prostej PQ  ma równanie postaci\n(\n)\n1\n17\n19\ny\nx\n,\n= −\n−\n+\n7\n2\n2\n1\n75\ny\nx\n.\n= −\n+\n7\n7\nZatem\n1\n75\n3\n−\nx\n+\n=\nx\n,\n7\n7\n4\n75\n25\n=\n28 x\n,\n7\nx =\n12\n,\n3\n(\n)\nwięc\ny =\n4 12\n9\n, czyli\n12,9\n.\n⋅\n=\nC =\nRozwiązanie (II sposób)\nWyznaczmy równanie okręgu przechodzącego przez punkty P, Q i R. Jest to okrąg opisany na\ntrójkącie PQR i jednocześnie wpisany w trójkąt ABC. Możemy wyznaczyć to równanie na\nkilka sposobów.\nSposób I .\nOkrąg ten na równanie postaci (\n)\n(\n)\n2\n2\nx\n−\na\n+\ny\n−\nb\n=\nr\n2\n. Współrzędne punktów P, Q i R\nspełniają równanie tego okręgu, więc otrzymujemy układ równań\n\n(\n)\n2\n(\n)\n2\n0\n−\na\n+\n10\n−\nb\n=\nr\n2\n\na\n2\nb\n2\n20\nb\n100\nr\n2\n+\n−\n+\n=\n\n\n(\n)\n(\n)\n2\n2\n2\n2\n2\n2\n8\n−\na\n+\n6\n−\nb\n=\nr\n, czyli\na\n+\nb\n−\n16\na\n−\n12\nb\n+\n100\n=\nr\n\n\n\n\na\n2\n+\nb\n2\n−\n18\na\n−\n26\nb\n+\n250\n=\nr\n2\n(\n)\n2\n(\n)\n2\n9\na\n13\nb\nr\n2\n−\n+\n−\n=\n\n\nOdejmując stronami od pierwszego równania drugie i od drugiego trzecie, otrzymujemy\n16\na\n−\n8\nb\n=\n0\n\n.\n\n2\na\n+\n14\nb\n−\n150\n=\n0\n\nZ pierwszego równania otrzymujemy\nb\n=\n2\na\n, więc\na\n+ ⋅\n7 2\na\n−\n75\n=\n0\n,\n15\na =\n75\n,\na =\n5\n,\n(\n)\nzatem\nb\n2\na\n10\n, więc środkiem tego okręgu jest punkt\nS =\n5,10\n.\n=\n=\nBok AC trójkąta ABC jest zawarty w prostej przechodzącej przez punkt Q i prostopadłej do\npromienia SQ, a więc w stycznej do okręgu przechodzącej przez punkt Q. Współczynnik\nkierunkowy prostej SQ jest równy\n6 10\n−\n4\na\n=\n= −\n,\nSQ\n8\n−\n5\n3\nwięc prosta AC – prostopadła do SQ i przechodząca przez Q ma równanie postaci\n3\n(\n)\n8\n6\n,\ny\n=\nx\n−\n+\n4\n3\n.\ny\n=\nx\n4\n(\n)\nPrzecina ona oś Oy w punkcie\n0,0\n.\nA =\nBok BC trójkąta ABC jest zawarty w prostej przechodzącej przez punkt R i prostopadłej do\npromienia SR, a więc w stycznej do okręgu przechodzącej przez punkt R. Współczynnik\nkierunkowy prostej SR jest równy\n13 10\n3\n−\na\n=\n=\n,\nSR\n9\n5\n4\n−\nwięc prosta BC – prostopadła do SR i przechodząca przez R ma równanie postaci\n14\nSchemat oceniania\nPoziom rozszerzony\n4\n(\n)\n9\n13\n,\ny\n= −\nx\n−\n+\n3\n4\n25\n.\ny\n= −\nx\n+\n3\n(\n)\nPrzecina ona oś Oy w punkcie\n0,25\n.\nB =\nPunkt C leży na prostej AC i na prostej BC, więc jego współrzędne obliczymy, rozwiązując\nukład równań\n3\n\ny\n=\nx\n\n4\n.\n4\ny\n= −\nx\n+\n25\n\n3\nStąd\n4\n3\n−\nx\n+\n25\n=\nx\n,\n3\n4\n25\n25\n=\nx\n,\n12\nx =\n12\n,\n3\n(\n)\nwięc\ny =\n4 12\n⋅\n=\n9\n, czyli\nC =\n12,9\n.\nSchemat oceniania I i II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ............................................................................................................ 1 p.\nZdający\n• obliczy (zapisze) współczynnik kierunkowy jednej z cięciw PQ, PR, QR:\n1\n1\na\n= −\n,\na\n=\n,\na\n=\n7\n2\n3\nPQ\nPR\nQR\nalbo\n• zapisze (zaznaczy na rysunku), że odpowiednie wierzchołki leżą w równej odległości\nod punktów P, Q, R.\nRozwiązanie, w którym jest istotny postęp  ....................................................................... 2 p.\nZdający zapisze równanie symetralnej co najmniej jednej spośród cięciw, np.:\ny\n2\nx\n,\n=\n(\n)\n1\n17\n19\ny\n3 +\nx\n25\n,\ny\nx\n=\n−\n= −\n−\n+\n7\n2\n2\nPokonanie zasadniczych trudności zadania  ...................................................................... 3 p.\nZdający\n(\n)\n(\n)\n• wyznaczy współrzędne wierzchołków leżących na osi Oy:\nA\n=\n,0\n25\n,\nB\n=\n,0\n0\n.\nalbo\n• obliczy współrzędne środka okręgu wpisanego w trójkąt ABC lub wyznaczy równanie\n,  (\n)\n(\n)\n(\n)\n2\n2\ntego okręgu:\n5,10\nx\n5\ny\n10\n25\n.\nS =\n−\n+\n−\n=\nRozwiązanie prawie pełne  .................................................................................................. 4 p.\nZdający zapisze układ równań prowadzące do wyznaczenia współrzędnych wierzchołka C,\n3\n4\nnp.:\ny\n=\nx\ni\ny\n= −\nx\n+\n25\n.\n4\n3\nRozwiązanie pełne  ............................................................................................................... 5 p.\n(\n)\nZdający wyznaczy współrzędne wszystkich wierzchołków trójkąta ABC:\nA =\n0,0\n,\n(\n)\n(\n)\nB =\n0,25\n,\nC =\n12,9\n.\n15\nSchemat oceniania\nPoziom rozszerzony"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 6,
+   "image": "f2015-R-2020-kwiecien-probna/14.webp",
+   "size": [
+    890,
+    195
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–6)\nWyznacz wszystkie wartości parametru m, dla których równanie\n\n\n\nx\n2\n\n3\nmx\n\nm\n\n1 2\nm\n\n1\n\n0\n1\n1\n2\nma dwa różne rozwiązania\n1x ,\n2x spełniające warunki:\nx x\n\n\n0\noraz\n0\n\n\n\n.\n1\n2\n3\nx\nx\n1\n2",
+   "key": "Zadanie 14. (0–6)\nWyznacz wszystkie wartości parametru m, dla których równanie\n(\n)(\n)\nx\n2\n3\nmx\nm\n1\n2\nm\n1\n0\n−\n+\n+\n−\n=\n1\n1\n2\nma dwa różne rozwiązania\n1x ,\n2x spełniające warunki:\nx\n⋅\nx\n≠\n0\noraz\n0\n<\n+\n≤\n.\n1\n2\n3\nx\nx\n1\n2\nRozwiązanie I sposób\n(\n)(\n)\nWyróżnik trójmianu kwadratowego\nx\n2\n−\n3\nmx\n+\nm\n+\n1\n2\nm\n−\n1\njest równy\n(\n)(\n)\n(\n)\n2\n∆=\n9\nm\n2\n−⋅\n4\nm\n+\n1\n2\nm\n−\n1\n=\nm\n2\n−\n4\nm\n+\n4\n=\nm\n−\n2\n.\nDla każdej liczby rzeczywistej\nm ≠\n2\nwyróżnik jest dodatni, więc równanie ma dwa różne\nrozwiązania\nx\n=\nm\n+ oraz\n1\nx\n=\n2\nm\n−.\n1\n1\n2\n1\nPrzy założeniu\nm ≠− oraz\n1\nm ≠\notrzymujemy dwie nierówności\n2\n1\n1\n1\n1\n2\n+\n>\n0\noraz\n+\n≤\n.\n1\n2\n1\n1\n2\n1\n3\nm\n+\nm\n−\nm\n+\nm\n−\nPrzekształcamy w sposób równoważny pierwszą z nich\n2\nm\n−+\n1\nm\n+\n1\n,\n>\n0\n(\n)(\n)\nm\n+\n1\n2\nm\n−\n1\n(\n)(\n)\n3\n1\n2\n1\n0\n.\nm m\n+\nm\n−\n>\n) (\n)\n1\n(\n1,0\n,\n+∞.\nm∈−\n∪\n2\nPrzekształcamy w sposób równoważny drugą nierówność\n1\n1\n2\n+\n≤\nm\n+\n1\n2\nm\n−\n1\n3\n3\nm\n2\n≤\n(\n)(\n)\nm\n+\n1\n2\nm\n−\n1\n3\n(\n)(\n)\n9\nm\n−\n2\nm\n+\n1\n2\nm\n−\n1\n0\n≤\n(\n)(\n)\n3\nm\n+\n1\n2\nm\n−\n1\n−\n4\nm\n2\n+\n7\nm\n+\n2\n0\n≤\n(\n)(\n)\n3\nm\n+\n1\n2\nm\n−\n1\n)(\n)\n1\n(\n4\nm\n2\nm\n−\n−\n+\n4\n0\n≤\n(\n)(\n)\n3\nm\n+\n1\n2\nm\n−\n1\n)(\n)(\n1\n(\n)(\n)\n12\nm\n2\nm\nm\n1\n2\nm\n1\n0\n−\n−\n+\n+\n−\n≤\n4\n)\n1 1\n(\n)\n)\n, 1\n,\n2,\n+∞.\nm∈−∞−\n∪−\n∪\n4 2\n1\n)\n(\n)\nOstatecznie otrzymujemy\nm∈−\n4 ,0\n2,\n+∞.\n∪\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie zadania składa się z dwóch etapów.\nPierwszy z nich polega na obliczeniu wyróżnika trójmianu kwadratowego i stwierdzeniu, że\ndla każdej wartości parametru\nm ≠\n2\nistnieją dwa różne rozwiązania rzeczywiste.\n16\nSchemat oceniania\nPoziom rozszerzony\n(\n)(\n)\n(\n)\n2\n9\n2\n4\n1\n2\n1\n2\n4\n4\n2\n∆=\nm\n−⋅\nm\n+\nm\n−\n=\nm\n−\nm\n+\n=\nm\n−\nZa poprawne rozwiązanie tego etapu zdający otrzymuje 1 punkt.\nDrugi etap polega na wyznaczeniu rozwiązań równania w zależności od parametru m,\n1\n1\n1\n1\n2\nzapisaniu nierówności\n+\n>\n0\noraz\n+\n≤\n, rozwiązaniu tych\n1\n2\n1\n1\n2\n1\n3\nm\n+\nm\n−\nm\n+\nm\n−\nnierówności, a następnie ustaleniu części wspólnej wszystkich rozwiązań. .\nZa ten etap rozwiązania zdający otrzymuje 5 punktów.\nPodział punktów za drugi etap rozwiązania:\nZa wyznaczenie pierwiastków w zależności od parametru m:\nx\nm\n+ oraz\n1\nx\n2\nm\n−.\n1\n=\n=\n1\n2\nzdający otrzymuje 1 punkty.\n1\n1\n) (\n)\n1\n(\nZa zapisanie nierówności\n+\n>\n0\ni jej rozwiązanie\nm∈−\n1,0\n∪\n,\n+∞\n2\n1\n2\n1\nm\n+\nm\n−\nzdający otrzymuje 1 punkt.\n)(\n)\n(\n1\n−\n4\nm\n−\n2\nm\n+\n1\n1\n2\n4\nZa zapisanie nierówności\n+\n≤\nw postaci\n≤\n0\n(\n)(\n)\nm\n1\n2\nm\n1\n3\n3\nm\n1\n2\nm\n1\n+\n−\n+\n−\n)\n(\n)\n1 1\n)\nzdający otrzymuje 1 punkt, za jej rozwiązanie\nm∈−∞−\n, 1\n∪−\n,\n∪\n2,\n+∞ zdający\n4 2\notrzymuje 1 punkty.\n1\n)\n(\n+∞ zdający otrzymuje 1 punkt.\n)\nZa zapisanie części wspólnej rozwiązań\nm∈−\n4 ,0\n∪\n2,\nRozwiązanie II sposób\nObliczamy wyróżnik trójmianu kwadratowego:\n(\n)(\n)\n(\n)\n2\n9\nm\n2\n4\nm\n1\n2\nm\n1\nm\n2\n4\nm\n4\nm\n2\n.\n∆=\n−⋅\n+\n−\n=\n−\n+\n=\n−\nDla każdej liczby rzeczywistej\n2\nwyróżnik jest dodatni, więc równanie ma dwa różne\nm ≠\nrozwiązania.\n1\n1\n2\nNierówność\n0\nprzekształcamy w sposób równoważny\n<\n+\n≤\nx\nx\n3\n1\n2\nx\n+\nx\n2\n0\n.\n<\n1\n2\n≤\nx x\n3\n1\n2\nZe wzorów Viète’a otrzymujemy\n3\n2\nm\n0\n<\n≤\n.\n(\n)(\n)\n1\n2\n1\n3\nm\n+\nm\n−\n3\nm\nNierówność\n0\nmożemy zapisać w postaci\n<\n(\n)(\n)\n1\n2\n1\nm\n+\nm\n−\n) (\n)\n1\n(\n)(\n)\n(\n3\nm m\n+\n1\n2\nm\n−\n1\n>\n0\nstąd\nm∈−\n1,0\n∪\n,\n+∞.\n2\n3\nm\n2\nNatomiast nierówność (\nprzekształcamy równoważnie\n≤\n)(\n)\n1\n2\n1\n3\nm\n+\nm\n−\n3\n2\nm\n≤\n,\n(\n)(\n)\n1\n2\n1\n3\nm\n+\nm\n−\n17\nSchemat oceniania\nPoziom rozszerzony\n(\n)(\n)\n9\nm\n−\n2\nm\n+\n1\n2\nm\n−\n1\n0\n,\n≤\n(\n)(\n)\n3\nm\n+\n1\n2\nm\n−\n1\n−\n4\nm\n2\n+\n7\nm\n+\n2\n0\n,\n≤\n(\n)(\n)\n3\nm\n+\n1\n2\nm\n−\n1\n)(\n)\n(\n1\n4\n2\n−\nm\n−\nm\n+\n4\n0\n,\n≤\n(\n)(\n)\n3\nm\n+\n1\n2\nm\n−\n1\n1\n\n\n(\n)\n(\n)(\n)\n12\n2\n1\n2\n1\n0\n.\n−\nm\n−\nm\n+\nm\n+\nm\n−\n≤\n\n\n4\n\n\n)\n(\n)\n1 1\n)\nWięc\n+∞.\nm∈−∞−\n, 1\n∪−\n,\n∪\n2,\n4 2\n1\n)\n(\n)\nOstatecznie otrzymujemy\n4 ,0\n2,\n+∞.\nm∈−\n∪\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie zadania składa się z dwóch etapów.\nPierwszy z nich polega na obliczeniu wyróżnika trójmianu kwadratowego i stwierdzeniu, że\ndla każdej wartości parametru\nm ≠\n2\nistnieją dwa różne rozwiązania rzeczywiste.\n(\n)(\n)\n(\n)\n2\n∆=\n9\nm\n2\n−⋅\n4\nm\n+\n1\n2\nm\n−\n1\n=\nm\n2\n−\n4\nm\n+\n4\n=\nm\n−\n2\nZa poprawne rozwiązanie tego etapu zdający otrzymuje 1 punkt.\nx\n+\nx\n2\nDrugi etap polega na zapisaniu nierówności w postaci równoważnej\n0\n,\n<\n1\n2\n≤\nx x\n3\n1\n2\n3\nm\n2\nwykorzystaniu wzorów Viète’a , zapisaniu nierówności\n, rozwiązaniu\n0\n<\n≤\n(\n)(\n)\nm\n+\n1\n2\nm\n−\n1\n3\ntych nierówności, a następnie ustaleniu ostatecznej odpowiedzi.\nZa ten etap rozwiązania zdający otrzymuje 5 punktów.\nPodział punktów za drugi etap rozwiązania:\n3\nm\n2\nZa wykorzystanie wzorów Viète’a i zapisanie nierówności\n0\n<\n≤\nzdający\n(\n)(\n)\nm\n1\n2\nm\n1\n3\n+\n−\notrzymuje 1 punkt.\n3\nm\nZa rozwiązanie nierówności (\n>\n0\n)(\n)\nm\n+\n1\n2\nm\n−\n1\n) (\n)\n(\n1\n+∞ zdający otrzymuje 1 punkt.\nm∈−\n1,0\n∪\n,\n2\n)(\n)\n(\n1\n−\n4\nm\n−\n2\nm\n+\n3\nm\n2\n4\nZa zapisanie nierówności (\n≤\nw postaci\n≤\n0\n)(\n)\n(\n)(\n)\nm\n+\n1\n2\nm\n−\n1\n3\n3\nm\n+\n1\n2\nm\n−\n1\n)\n(\n)\n1 1\n)\nzdający otrzymuje 1 punkt, za jej rozwiązanie\nm∈−∞−\n, 1\n∪−\n,\n∪\n2,\n+∞ zdający\n4 2\notrzymuje 1 punkt.\n1\n)\n(\n+∞ zdający otrzymuje 1 punkt.\n)\nZa zapisanie ostatecznej odpowiedzi\n4 ,0\n2,\nm∈−\n∪\n18\nSchemat oceniania\nPoziom rozszerzony"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 7,
+   "image": "f2015-R-2020-kwiecien-probna/15.webp",
+   "size": [
+    950,
+    822
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–7)\nRozpatrujemy wszystkie możliwe drewniane szkielety o kształcie przedstawionym na rysunku,\nwykonane z listewek. Każda z tych listewek ma kształt prostopadłościanu o podstawie\nkwadratu o boku długości x. Wymiary szkieletu zaznaczono na rysunku.\nx\nx\na) Wyznacz objętość V drewna potrzebnego do budowy szkieletu jako funkcję zmiennej x.\nb) Wyznacz dziedzinę funkcji V.\nc) Oblicz tę wartość x, dla której zbudowany szkielet jest możliwie najcięższy, czyli kiedy\nfunkcja V osiąga wartość największą. Oblicz tę największą objętość.",
+   "key": "Zadanie 15. (0–7)\nRozpatrujemy wszystkie możliwe drewniane szkielety o kształcie przedstawionym na\nrysunku, wykonane z listewek. Każda z tych listewek ma kształt prostopadłościanu o\npodstawie kwadratu o boku długości x. Wymiary szkieletu zaznaczono na rysunku.\n10 −\n2\nx\n6\n6\nx\nx\na) Wyznacz objętość V drewna potrzebnego do budowy szkieletu jako funkcję zmiennej x.\nb) Wyznacz dziedzinę funkcji V.\nc) Oblicz tę wartość x, dla której zbudowany szkielet jest możliwie najcięższy, czyli kiedy\nfunkcja V osiąga wartość największą. Oblicz tę największą objętość.\nRozwiązanie\nRozpatrywana bryła zbudowana jest z dwunastu belek. Każda z nich jest prostopadłościanem,\nktórego podstawą jest kwadrat o boku długości x.\nCztery „pionowe belki” mają długość\n6 −\n2\n, cztery poziome (równoległe do płaszczyzny\nx\nrysunku) mają długość\n10 −\n3\nx\n, natomiast cztery poziome (prostopadłe do płaszczyzny\nrysunku) mają długość\n6\n−\nx\n. Zatem objętość V rozpatrywanej bryły jest równa sumie\nobjętości wszystkich 12 belek, więc\n(\n)\n(\n)\n(\n)\n(\n)\nV\n=\n4\nx\n2\n6\n−\n2\nx\n+\n4\nx\n2\n10\n−\n3\nx\n+\n4\nx\n2\n6\n−\nx\n=\n4\nx\n2\n6\n−\n2\nx\n+\n10\n−\n3\nx\n+\n6\n−\nx\n=\n(\n)\n(\n)\n2\n2\n3\n=\n4\nx\n22\n−\n6\nx\n=\n8 11\nx\n−\n3\nx\n.\nOtrzymaliśmy zatem funkcję V zmiennej x określoną wzorem\n(\n)\n( )\n8 11\n2\n3\n3\n.\nV x\n=\nx\n−\nx\nWyznaczmy dziedzinę funkcji V. Z warunków geometrycznych zadania wynika, że\nx >\n0\n5\n5\n(\noraz 6\n≥\n2x\ni\n10\n−\n2\nx\n≥\n2\nx\n. Stąd otrzymujemy\n0\n<\nx\n≤\n, czyli\nD =\n0,\n.\n2\n2\nV\nUwaga\n(\n)\n5\nMożemy też przyjąć, że\n0,\n.\nD =\n2\nV\nPochodna funkcji V jest równa\n(\n)\n5\n( )\n(\n)\n′\n8\n22\n9\n2\n8\n22\n9\ndla\n0\n.\nV\nx\n= ⋅\nx\n−\nx\n=\nx\n−\nx\n<\nx\n≤\n2\n19\nSchemat oceniania\nPoziom rozszerzony\nObliczmy miejsca zerowe i zbadajmy znak pochodnej.\n(\n)\n22\n5\n22\n( )\n′\n0\n0\n0\n,\nV\nx\n=\n⇔\nx\n=\n∨\nx\n=\n∧\n<\nx\n≤\n⇔\nx\n=\n9\n2\n9\n(\n)\n22\n5\n22\n( )\n′\n0\n0\n0\n0\n,\nV\nx\n>\n⇔\nx\n>\n∧\nx\n<\n∧\n<\nx\n≤\n⇔\n<\nx\n<\n9\n2\n9\n(\n)\n22\n5\n22\n5\n( )\n′\n0\n0\n0\n.\nV\nx\n<\n⇔\nx\n<\n∨\nx\n>\n∧\n<\nx\n≤\n⇔\n<\nx\n≤\n9\n2\n9\n2\n5\nZatem w przedziale (\n22\n22\n0,\nfunkcja V jest rosnąca, w przedziale\n,\njest malejąca,\n9\n9\n2\n22\na w punkcie\nx =\nosiąga maksimum lokalne, które jest jednocześnie największą wartością\n9\ntej funkcji, gdyż jest to jedyne maksimum lokalne funkcji, a funkcja jest różniczkowalna.\n22\nDla\nx =\nfunkcja V przyjmuje wartość\n9\n(\n)\n(\n)\n(\n)\n(\n)\n(\n) (\n)\n2\n3\n2\n484\n42592\n67\n22\n22\n22\n22\n2\n1\nV\n=\n8 11\n⋅\n−⋅\n3\n=\n88\n⋅\n1 3\n−⋅\n=\n88\n⋅\n⋅\n=\n=\n175\n.\n9\n9\n9\n9\n9\n81\n3\n243\n243\nSchemat oceniania\nRozwiązanie zadania składa się z trzech etapów.\nI. Pierwszy etap, który oceniamy na 3 punkty, składa się z trzech części:\nI.1) zapisania długości każdej z belek użytych do konstrukcji, w zależności od x:\n6 −\n2\nx\n,\n6\n−\nx\n,\n10 −\n3\nx\n.\n(\n)\nI.2)  zapisania objętości V ,  jako funkcji zmiennej x:\nV\n(\nx\n)\n=\n8\n⋅\n11\nx\n2\n−\n3\nx\n3\n(\n5\nI.3)  wyznaczenia dziedziny funkcji V:\nD =\n0,\n2\nV\nUwaga.\n(\n)\n5\nAkceptujemy zapis\nD =\n0,\n.\n2\nV\nZa poprawne rozwiązanie każdej z części tego etapu zdający otrzymuje 1 punkt, o ile\npoprzednia część etapu została zrealizowana bezbłędnie.\nUwagi\n(\n)\n5\n1. Jeśli zdający popełni błąd przy wyznaczaniu dziedziny (akceptujemy zapis\nD =\n0,\n)\n2\nV\nalbo pominie wyznaczenie dziedziny, ale funkcja objętości zostanie zapisana prawidłowo,\nto otrzymuje za tę cześć 2 punkty i może otrzymać punkty, które odpowiadają kolejnym\netapom rozwiązania zadania.\n2. Jeśli zdający poprawnie zapisze długości dwóch „rodzajów” belek, popełni błąd przy\nkolejnej i konsekwentnie wyznacza funkcję objętości, to za pierwszy etap może otrzymać\nco najwyżej 1 punkt (za dziedzinę), ale może otrzymać punkty, które odpowiadają\nkolejnym etapom rozwiązania zadania.\nII. Drugi etap, za który zdający może otrzymać 3 punkty, składa się z trzech części:\n(\n)\nII.1) wyznaczenie pochodnej funkcji  wielomianowej\nf\n(\nx\n)\n=\n8\n⋅\n11\nx\n2\n−\n3\nx\n3\n:\n( )\n(\n)\nf\n'\nx\n=\n8\nx\n22\n−\n9\nx\n;\n22\nII.2) obliczenie miejsc zerowych pochodnej funkcji f:\nx =\n0\n,\nx =\n;\n9\nII.3) uzasadnienie (np. badanie monotoniczności funkcji), że funkcja V posiada wartość\n(\n)\n22\n22\nnajwiększą dla\nx =\n: pochodna funkcji jest dodatnia wówczas gdy\nx∈\n0,\n,\n9\n9\n(\n22\n5\npochodna jest ujemna dla\nx∈\n,\n.\n9\n2\n20\nSchemat oceniania\nPoziom rozszerzony\nZa poprawne rozwiązanie każdej z części tego etapu zdający otrzymuje 1 punkt, o ile\npoprzednia część etapu została zrealizowana bezbłędnie.\nIII. Trzeci etap to obliczenie największej objętości bryły:  (\n)\n22\n42592\n67\nV\n=\n=\n175\n.\n9\n243\n243\nZa ten etap zdający może otrzymać 1 punkt, o ile rozwiązał poprawnie poprzedni etap\nzadania.\n21"
+  }
+ ]
+}

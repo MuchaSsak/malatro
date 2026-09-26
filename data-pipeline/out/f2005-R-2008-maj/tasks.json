@@ -1,0 +1,198 @@
+{
+ "exam": {
+  "id": "f2005-R-2008-maj",
+  "formula": "2005",
+  "level": "R",
+  "year": 2008,
+  "session": "maj",
+  "month": "05",
+  "code": "MMA-R1_1P-082",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2008/mat_pr.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2008/mat_pr_rozw.pdf",
+  "examFile": "f2005-R-2008-maj.pdf",
+  "keyFile": "f2005-R-2008-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2008-2/",
+  "examPages": 18,
+  "keyPages": 16,
+  "examBytes": 303188,
+  "keyBytes": 325643
+ },
+ "keyHead": "ARKUSZ ZAWIERA INFORMACJE PRAWNIE CHRONIONE\nDO MOMENTU ROZPOCZĘCIA EGZAMINU!\nMiejsce\nna naklejkę\nEGZAMIN MATURALNY\nZ MATEMATYKI\nMAJ\nROK 2008\nPOZIOM ROZSZERZONY\nCzas pracy 180 minut\nInstrukcja dla zdającego\n1. Sprawdź,\nczy\narkusz\negzaminacyjny\nzawiera\n18 stron\n(zadania 1 – 12). Ewentualny brak zgłoś przewodniczącemu\nzespołu nadzorującego egzamin.\n2. Rozwiązania zadań i odpowiedzi zamieść w miejscu na to\nprzeznaczonym.\n3. W\nrozwiązaniach\nzadań\nprzedstaw\ntok\nrozumowania\nprowadzący do ostatecznego wyniku.\n4. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym\ntuszem/atramentem.\n5. Nie używaj korektora, a błędne zapisy przekreśl.\n6. Pamiętaj, że zapisy w brudnopisie nie podlegają ocenie.\n7. Obok każdego zadania podana jest maksymalna liczba punktów,\nktórą możesz uzyskać za jego poprawne rozwiązanie.\n8. Możesz korzystać z zestawu wzorów matematycznych, cyrkla\nZa rozwiązanie\ni linijki oraz kalkulatora.\nwszystkich zadań\n9. Na karcie odpowiedzi wpisz swoją datę urodzenia i PESEL.\nmożna otrzymać\nNie wpisuj żadnych znaków w części przeznaczonej dla\nłącznie\negzaminatora.\n50 punktów\nŻyczymy powodzenia!\nWypełnia zdający\nprzed rozpoczęciem pracy\nKOD\nPESEL ZDAJĄCEGO\nZDAJĄCEGO\n2\nEgzamin maturalny z matematyki\nPoziom rozszerzony\nZadanie 1. (4 pkt)\nWielomian f, którego fragment wykresu przedstawiono na poniższym rysunku spełnia\n( )\n=\n=\n3\n−\n2\n+\n−\nwarunek\nf\n(0)\n90\n. Wielomian g dany jest wzorem\ng x\nx\n14\nx\n63\nx\n90\n. Wykaż,\nże ( )\n(\n)\n= −\n−\n∈\ng x\nf\nx\ndla x\nR\n.\ny\nf\n1\n-3\n-6\n-5\nx\n1\n0\nZ rysunku odczytuję miejsca zerowe funkcji f i zapisuję jej wzór w postaci\n=\n+\n+\n+\nf x\n( )\na x\n(\n6)(\nx\n5)(\nx\n3)\niloczynowej\n.\n=\n+\n+\n+\n=\nFunkcja spełnia warunek\nf\n(0)\n90\n, czyli (0\na\n6)(0\n5)(0\n3)\n90\n.\na = i zapisuję wzór funkcji f:\nObliczam współczynnik a:\n1\n=\n+\n+\n+\nf x\n( )\n(\nx\n6)(\nx\n5)(\nx\n3)\n.\n=\n+\n+\n+\n3\n2\nWzór funkcji f zapisuję w postaci:\nf x\n( )\nx\n14\nx\n63\nx\n90\n.\n(\n)\n(\n)\n(\n)\n(\n)\n⎡\n⎤\n−\n−\n= −\n−\n3\n+\n−\n2\n+\n−\n+\n=\nf\nx\nx\n14\nx\n63\nx\n90\n⎣\n⎦\n= −−\n+\n−\n+\n=\n⎡\n⎤\nx\n3\n14\nx\n2\n63\nx\n90\n⎣\n⎦\n( )\n=\n−\n+\n−\n=\nx\n3\n14\nx\n2\n63\nx\n90\ng x\n(\n)\n( )\n−\n−\n=\n∈\nZatem\nf\nx\ng x\ndla x\nR\n.\nEgzamin maturalny z matematyki\n3\nPoziom rozszerzony\nZadanie 2. (4 pkt)\n−\n+\n−\n<\nRozwiąż nierówność\nx\n2\n3\nx\n6\nx\n.\n−\n= ⋅\n−\n−\n<\n3\nx\n6\n3\nx\n2\n, więc nierówność przyjmuje postać: 4\nx\n2\nx\n.\nRozwiązanie nierówności:\n⎧−\n(\n)\n(\n)\n−\n< −\n∈−∞\n4\nx\n2\nx\ngdy\nx\n,0\n⎪⎪−\n(\n)\n)\n−\n<\n∈\n4\nx\n2\nx\ngdy\nx\n0,2\n⎨\n⎪\n(\n)\n)\n−\n<\n∈\n∞\n4\nx\n2\nx\ngdy\nx\n2,\n⎪⎩\n⎧\n8\n(\n)\n>\n∈−∞\nx\ngdy\nx\n,0\n⎪\n3\n⎪⎪\n8 gdy\n)\n>\n∈\nx\nx\n0,2\n⎨\n5\n⎪\n⎪\n8 gdy\n)\n<\n∈\n∞\nx\nx\n2,\n⎪⎩\n3\nW przedziale (\n)\nnierówność nie ma rozwiązania.\n−∞\n,0\n)\nRozwiązaniem nierówności w przedziale\n0,2 są liczby rzeczywiste należące do\n⎛\n⎞\nprzedziału 8, 2\n)\n2,∞ są\n, natomiast rozwiązaniem nierówności w przedziale\n⎜\n⎟\n⎝\n5\n⎠\n⎞⎟⎠\n8\nliczby rzeczywiste należące do przedziału\n2, 3\n.\n⎛\n⎞\n, jest więc przedział 8 8\n−\n+\n−\n<\nRozwiązaniem nierówności\nx\n2\n3\nx\n6\nx\n,\n.\n⎜\n⎟\n⎝\n5 3\n⎠\n4\nEgzamin maturalny z matematyki",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/1.webp",
+   "size": [
+    950,
+    715
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (4 pkt)\nWielomian f, którego fragment wykresu przedstawiono na poniższym rysunku spełnia\n( )\n=\n=\n3\n−\n2\n+\n−\nwarunek\nf\n(0)\n90\n. Wielomian g dany jest wzorem\ng x\nx\n14\nx\n63\nx\n90\n. Wykaż,\nże ( )\n(\n)\n= −\n−\n∈\ng x\nf\nx\ndla x\nR\n.\ny\nf\n1\n-3\n-6\n-5\nx\n1\n0",
+   "key": "Zadanie 1. (4 pkt)\nWielomian f, którego fragment wykresu przedstawiono na poniższym rysunku spełnia\n( )\n=\n=\n3\n−\n2\n+\n−\nwarunek\nf\n(0)\n90\n. Wielomian g dany jest wzorem\ng x\nx\n14\nx\n63\nx\n90\n. Wykaż,\nże ( )\n(\n)\n= −\n−\n∈\ng x\nf\nx\ndla x\nR\n.\ny\nf\n1\n-3\n-6\n-5\nx\n1\n0\nZ rysunku odczytuję miejsca zerowe funkcji f i zapisuję jej wzór w postaci\n=\n+\n+\n+\nf x\n( )\na x\n(\n6)(\nx\n5)(\nx\n3)\niloczynowej\n.\n=\n+\n+\n+\n=\nFunkcja spełnia warunek\nf\n(0)\n90\n, czyli (0\na\n6)(0\n5)(0\n3)\n90\n.\na = i zapisuję wzór funkcji f:\nObliczam współczynnik a:\n1\n=\n+\n+\n+\nf x\n( )\n(\nx\n6)(\nx\n5)(\nx\n3)\n.\n=\n+\n+\n+\n3\n2\nWzór funkcji f zapisuję w postaci:\nf x\n( )\nx\n14\nx\n63\nx\n90\n.\n(\n)\n(\n)\n(\n)\n(\n)\n⎡\n⎤\n−\n−\n= −\n−\n3\n+\n−\n2\n+\n−\n+\n=\nf\nx\nx\n14\nx\n63\nx\n90\n⎣\n⎦\n= −−\n+\n−\n+\n=\n⎡\n⎤\nx\n3\n14\nx\n2\n63\nx\n90\n⎣\n⎦\n( )\n=\n−\n+\n−\n=\nx\n3\n14\nx\n2\n63\nx\n90\ng x\n(\n)\n( )\n−\n−\n=\n∈\nZatem\nf\nx\ng x\ndla x\nR\n.\nEgzamin maturalny z matematyki\n3\nPoziom rozszerzony"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/2.webp",
+   "size": [
+    947,
+    1349
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (4 pkt)\n−\n+\n−\n<\nRozwiąż nierówność\nx\n2\n3\nx\n6\nx\n.",
+   "key": "Zadanie 2. (4 pkt)\n−\n+\n−\n<\nRozwiąż nierówność\nx\n2\n3\nx\n6\nx\n.\n−\n= ⋅\n−\n−\n<\n3\nx\n6\n3\nx\n2\n, więc nierówność przyjmuje postać: 4\nx\n2\nx\n.\nRozwiązanie nierówności:\n⎧−\n(\n)\n(\n)\n−\n< −\n∈−∞\n4\nx\n2\nx\ngdy\nx\n,0\n⎪⎪−\n(\n)\n)\n−\n<\n∈\n4\nx\n2\nx\ngdy\nx\n0,2\n⎨\n⎪\n(\n)\n)\n−\n<\n∈\n∞\n4\nx\n2\nx\ngdy\nx\n2,\n⎪⎩\n⎧\n8\n(\n)\n>\n∈−∞\nx\ngdy\nx\n,0\n⎪\n3\n⎪⎪\n8 gdy\n)\n>\n∈\nx\nx\n0,2\n⎨\n5\n⎪\n⎪\n8 gdy\n)\n<\n∈\n∞\nx\nx\n2,\n⎪⎩\n3\nW przedziale (\n)\nnierówność nie ma rozwiązania.\n−∞\n,0\n)\nRozwiązaniem nierówności w przedziale\n0,2 są liczby rzeczywiste należące do\n⎛\n⎞\nprzedziału 8, 2\n)\n2,∞ są\n, natomiast rozwiązaniem nierówności w przedziale\n⎜\n⎟\n⎝\n5\n⎠\n⎞⎟⎠\n8\nliczby rzeczywiste należące do przedziału\n2, 3\n.\n⎛\n⎞\n, jest więc przedział 8 8\n−\n+\n−\n<\nRozwiązaniem nierówności\nx\n2\n3\nx\n6\nx\n,\n.\n⎜\n⎟\n⎝\n5 3\n⎠\n4\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2008-maj/3.webp",
+   "size": [
+    944,
+    1357
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (5 pkt)\n(\n)\n(\n)\nx =\n+\nx =\n−\n2\n−\n2\n+\n2\n+\n+\n=\nLiczby\n5\n23\ni\n5\n23\nsą rozwiązaniami równania\nx\np\nq\nx\np\nq\n0\n1\n2\nz niewiadomą x. Oblicz wartości p i q .",
+   "key": "Zadanie 3. (5 pkt)\n(\n)\n(\n)\nx =\n+\nx =\n−\n2\n−\n2\n+\n2\n+\n+\n=\nLiczby\n5\n23\ni\n5\n23\nsą rozwiązaniami równania\nx\np\nq\nx\np\nq\n0\n1\n2\nz niewiadomą x. Oblicz wartości p i q .\nZapisuję równanie kwadratowe w postaci iloczynowej:\n(\n) (\n)\n−\n−\n⋅\n−\n+\n=\nx\n5\n23\nx\n5\n23\n0\nprzekształcam je do postaci ogólnej\n(\n)\nx −\n2\n−\n=\n5\n23\n0\n−\n+\n=\nx\n2\n10\nx\n2\n0\nPorównuję odpowiednie współczynniki obu postaci równania i stwierdzam, że\n+\n=\n+\n=\nmuszą być spełnione równocześnie dwa warunki:\np\n2\nq\n2\n10\ni\np\nq\n2\n.\n⎧\n+\n=\np\n2\nq\n2\n10\nRozwiązuję układ równań\n⎨\n+\n=\np\nq\n2\n⎩\n=\n−\nDokonuję podstawienia:\nq\n2\np\ni otrzymuję równanie kwadratowe z jedną\n2\n−\n−\n=\nniewiadomą:\np\n2\np\n3\n0\n.\np =\np = −.\nRozwiązaniem tego równania kwadratowego są liczby:\n3\nlub\n1\n1\n2\nObliczam wartości q w zależności od p:\np =\nq = −, natomiast dla\np = −,\nq = .\nDla\n3\n,\n1\n1\n3\n1\n1\n2\n2\nEgzamin maturalny z matematyki\n5\nPoziom rozszerzony"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/4.webp",
+   "size": [
+    947,
+    1349
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (4 pkt)\n2\n=\n+ w przedziale 0,2π .\nRozwiąż równanie\n4cos\nx\n4sin\nx\n1",
+   "key": "Zadanie 4. (4 pkt)\n2\n=\n+ w przedziale 0,2π .\nRozwiąż równanie\n4cos\nx\n4sin\nx\n1\nPrzekształcam równanie: (\n)\n−\n2\n=\n+\n4 1\nsin\nx\n4sin\nx\n1\n2\n+\n−\n=\n4sin\nx\n4sin\nx\n3\n0\n= i\nt ∈−\nWprowadzam pomocniczą niewiadomą sin x\nt\n1,1\n, i zapisuję równanie\n2\n+\n−\n=\n4\nt\n4\nt\n3\n0\n.\n1\n3\nt =\nt = −\nt ∉−\nRozwiązaniem tego równania są liczby: 1\nlub 2\n, 2\n1,1\n.\n2\n2\n1\nx =\nPowracam do podstawienia i otrzymuję:\nsin\n.\n2\nπ\nπ\n1\n5\nx =\nw przedziale 0,2π :\n=\n=\nRozwiązuję równanie\nsin\nx\nlub\nx\n.\n2\n6\n6\n6\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2008-maj/5.webp",
+   "size": [
+    950,
+    1347
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (5 pkt)\nDane jest równanie 2\nx +\n=\n3\np\nz niewiadomą x. Wyznacz liczbę rozwiązań tego równania\nw zależności od parametru p.",
+   "key": "Zadanie 5. (5 pkt)\nDane jest równanie 2\nx +\n=\n3\np\nz niewiadomą x. Wyznacz liczbę rozwiązań tego równania\nw zależności od parametru p.\n2\nSzkicuję wykres funkcji ( )\n=\n+\nx ≠\nf x\n3\ndla\n0\n.\nx\ny\n10\n9\n8\n7\n6\n5\n4\n3\n2\n1\nx\n-8\n-7\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n-1\n-2\n-3\n2\nx +\n=\nZ wykresu odczytuję liczbę rozwiązań równania\n3\np\nw zależności od\nparametru p:\n• dla\np <\n0\nrównanie nie ma rozwiązania,\n• dla\np =\np =\n0\nlub\n3\nrównanie ma jedno rozwiązanie,\n• dla 0\n<\n<\np >\np\n3\nlub\n3\nrównanie ma dwa rozwiązania.\nEgzamin maturalny z matematyki\n7\nPoziom rozszerzony"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2008-maj/6.webp",
+   "size": [
+    950,
+    1346
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (3 pkt)\nUdowodnij, że jeżeli ciąg (\n)\na b c jest jednocześnie arytmetyczny i geometryczny,\n, ,\n=\n=\nto a\n.\nb\nc",
+   "key": "Zadanie 6. (3 pkt)\nUdowodnij, że jeżeli ciąg (\n)\na b c jest jednocześnie arytmetyczny i geometryczny,\n, ,\n=\n=\nto a\n.\nb\nc\nStosuję\nzwiązki\nmiędzy\nsąsiednimi\nwyrazami\nciągów\narytmetycznego\ni geometrycznego do zbudowania układu równań:\n+\n⎧\na\nc\n=\n⎪⎨\nb\n2\n⎪⋅\n=\na c\nb\n2\n⎩\n+\na\nc\nPodstawiam do drugiego równania w miejsce b wyrażenie\ni otrzymuję\n2\n2\n+\n⎛\na\nc\n⎞\n= ⎜\nrównanie:\nac\n⎟\n⎝\n2\n⎠\nWykonuję równoważne przekształcenia:\n=\n+\n+\n4\nac\na\n2\n2\nac\nc\n2\n−\n+\n=\na\n2\n2\nac\nc\n2\n0\n(\n)\n2\n−\n=\n=\na\nc\n0\n, a stąd otrzymuję równość a\nc\n.\n=\nKorzystając z równości a\nc\ni z pierwszego równania układu otrzymuję:\n⋅\n2\nc\n=\n=\nb\n, stąd otrzymuję równość c\nb\n.\n2\n=\n= , więc a\n=\n= , co należało udowodnić.\nPonieważ zachodzi a\nc\ni b\nc\nb\nc\n8\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/7.webp",
+   "size": [
+    950,
+    1346
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (4 pkt)\n1\n2 +\n=\nUzasadnij, że każdy punkt paraboli o równaniu\ny\nx\n1\njest równoodległy od osi Ox i od\n4\n=\npunktu\nF\n(\n,0\n2\n)\n.",
+   "key": "Zadanie 7. (4 pkt)\n1\n2 +\n=\nUzasadnij, że każdy punkt paraboli o równaniu\ny\nx\n1\njest równoodległy od osi Ox i od\n4\n=\npunktu\nF\n(\n,0\n2\n)\n.\ny\n⎛\n1\n⎞\n=\n+\nP\nx\n,\nx\n1\n2\n⎜\n⎟\n⎝\n4\n⎠\n(\n)\nF =\n0,2\nx\n(\n)\n0\n=\nxP\nx\n,0\nWybieram dowolny punkt P leżący na paraboli i oznaczam jego współrzędne\n⎛\n⎞\n1\n=\n2\n+\nw zależności od jednej zmiennej\nP\nx\n,\nx\n1\n.\n⎜\n⎟\n⎝\n4\n⎠\n(\n)\n=\nPunkt\nxP\nx\n,0\njest rzutem punktu P na oś Ox. Odległość punktu P od osi Ox\n1\n=\n2\n+\njest równa\nPP\nx\n1\n.\nx\n4\n1\n1\n1\n4 x + >\n2\n∈\n=\n2\n+\n=\n2\n+ .\n1\n0\ndla każdego x\nR\n, więc\nPP\nx\n1\nx\n1\nx\n4\n4\nWyznaczam odległość punktu P od punktu F:\n2\n⎛\n⎞\n1\n=\n2\n+\n2\n+ −\nPF\nx\nx\n1\n2\n⎜\n⎟\n⎝\n4\n⎠\n1\n1\n=\n4\n+\n2\n+\nPF\nx\nx\n1\n16\n2\n2\n⎛\n⎞\n1\n1\n1\n=\n2\n+\n=\n2\n+\n=\n2\n+\nPF\nx\n1\nx\n1\nx\n1\n⎜\n⎟\n⎝\n4\n⎠\n4\n4\n=\nZatem\nPP\nPF .\nx\nEgzamin maturalny z matematyki\n9\nPoziom rozszerzony"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/8.webp",
+   "size": [
+    950,
+    1395
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (4 pkt)\nWyznacz współrzędne środka jednokładności, w której obrazem okręgu o równaniu\n(\n)\njest okrąg o równaniu (\n)\n(\n)\n2\n2\n2\n−\n+\n2\n=\n−\n+\n−\n=\nx\n16\ny\n4\nx\n6\ny\n4\n16\n, a skala tej jednokładności\njest liczbą ujemną.",
+   "key": "Zadanie 8. (4 pkt)\nWyznacz współrzędne środka jednokładności, w której obrazem okręgu o równaniu\n(\n)\njest okrąg o równaniu (\n)\n(\n)\n2\n2\n2\n−\n+\n2\n=\n−\n+\n−\n=\nx\n16\ny\n4\nx\n6\ny\n4\n16\n, a skala tej jednokładności\njest liczbą ujemną.\nŚrodkiem okręgu (\n)\n(\n)\n2\n−\n+\n=\nS =\nr =\nx\n16\ny\n2\n4\njest punkt\n16, 0\n, a promień 1\n2\n.\n1\nŚrodkiem okręgu (\n)\n(\n)\n(\n)\n2\n2\n−\n+\n−\n=\nS =\nr =\nx\n6\ny\n4\n16\njest punkt\n6, 4\n, a promień\n4\n.\n2\n2\ny\n12\n11\n10\n9\n8\n7\n6\n5\nS\n2\n4\n3\n2\nS\n1\n1S\nx\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n-1\n-2\n-3\n-4\n-5\n-6\nNa płaszczyźnie każde dwa okręgi są jednokładne. W tym przypadku stosunek\ndługości promieni danych okręgów jest równy 2, więc szukam punktu\n(\n)\n, który jest środkiem jednokładności o skali (\n)\n=\n−\nS\nx y\n,\n2\n.\nJJJJG\nJJJG\n= −⋅\nZ własności jednokładności wynika równanie:\nS S\n2\nS S\n,\n2\n1\nJJJJG\nJJJG\n[\n]\n[\n]\n=\n−\n−\n=\n−\n−\nS S\n6\nx\n,4\ny\n,\nS S\n16\nx\n,\ny\n2\n1\n[\n]\n[\n]\n−\n−\n= −⋅\n−\n−\n6\nx\n, 4\ny\n2 16\nx\n,\ny\n[\n] [\n]\n−\n−\n= −\n+\n6\nx\n, 4\ny\n32\n2 , 2\nx\ny\n10\nEgzamin maturalny z matematyki\nPoziom rozszerzony\n38\n−\n= −\n+\nx =\nObliczam odciętą punktu S: 6\nx\n32\n2\nx\n, stąd\n.\n3\n4\n−\n=\ny =\nObliczam rzędną punktu S: 4\ny\n2\ny\n, stąd\n.\n3\n⎛\n⎞\n38 4\n= ⎜\nOdp. Środkiem jednokładności jest punkt\nS\n,\n.\n⎟\n⎝\n3 3\n⎠\nEgzamin maturalny z matematyki\n11\nPoziom rozszerzony"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/9.webp",
+   "size": [
+    947,
+    1342
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (4 pkt)\n(\n)\n( )\n=\n−\n2\nWyznacz dziedzinę i najmniejszą wartość funkcji\nf x\nlog\n8\nx\nx\n.\n2\n2",
+   "key": "Zadanie 9. (4 pkt)\n(\n)\n( )\n=\n−\n2\nWyznacz dziedzinę i najmniejszą wartość funkcji\nf x\nlog\n8\nx\nx\n.\n2\n2\n2\nKorzystam z faktu, że funkcja logarytmiczna dla podstawy równej\n2 jest\nmalejąca. Oznacza to, że funkcja f przyjmuje najmniejszą wartość dla\nnajwiększego argumentu.\nWyznaczam dziedzinę funkcji f:\n−\n>\n8\nx\nx\n2\n0\n(\n)\n⋅\n−\n>\nx\n8\nx\n0\n(\n)\nx∈\n0, 8\n−\nx =\nWyrażenie\n8x\nx\n2\nosiąga największą wartość dla\n4\ni jest ona równa 16.\n(\n)\nNajmniejszą wartością funkcji ( )\n(\n)\n=\n−\nf x\nlog\n8\nx\nx\n2\njest liczba\nlog\n16 .\n2\n2\n2\n2\nObliczam wartość funkcji f dla argumentu 16, korzystając z definicji logarytmu:\n(\n)\n=\nlog\n16\ny\n2\n2\ny\n⎛\n⎞=\n2\n16\n⎜\n⎟\n2\n⎝\n⎠\ny\n⎛\n⎞=\n1\n−\n2\n2\n4\n2\n⎜\n⎟\n⎝\n⎠\n−\ny\n=\ny = −\n4\n, więc\n8\n2\nOdpowiedź: Liczba (\n)\n−\n8\njest najmniejszą wartością funkcji f.\n12\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/10.webp",
+   "size": [
+    950,
+    1334
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (4 pkt)\nZ pewnej grupy osób, w której jest dwa razy więcej mężczyzn niż kobiet, wybrano losowo\ndwuosobową delegację. Prawdopodobieństwo tego, że w delegacji znajdą się tylko kobiety\njest równe 0,1. Oblicz, ile kobiet i ilu mężczyzn jest w tej grupie.",
+   "key": "Zadanie 10. (4 pkt)\nZ pewnej grupy osób, w której jest dwa razy więcej mężczyzn niż kobiet, wybrano losowo\ndwuosobową delegację. Prawdopodobieństwo tego, że w delegacji znajdą się tylko kobiety\njest równe 0,1. Oblicz, ile kobiet i ilu mężczyzn jest w tej grupie.\nn ≥\nOznaczam: n – liczba kobiet, 2n – liczba mężczyzn i\n2\n.\nZdarzeniem elementarnym jest każdy dwuelementowy podzbiór zbioru\n3n - elementowego.\nWyznaczam moc zbioru wszystkich zdarzeń elementarnych Ω:\n(\n)\nn −\n⎛\n3\nn\n⎞\n3\nn\n3\n1\nΩ =\n=\n.\n⎜\n⎟\n2\n2\n⎝\n⎠\nA – zdarzenie polegające na tym, że w delegacji znajdują się tylko kobiety.\nWyznaczam liczbę zdarzeń elementarnych sprzyjających zajściu zdarzenia A:\n(\n)\n−\n⎛⎞\nn\nn n\n1\n=\n=\nA\n.\n⎜⎟\n2\n2\n⎝⎠\nObliczam prawdopodobieństwo zdarzenia A:\n(\n)\n−\nn n\n1\n−\nn\n1\n( )\n2\n=\n=\nP A\n.\n(\n)\n(\n)\n−\n−\n3\nn\n3\nn\n1\n3 3\nn\n1\n2\nZapisuję równanie wynikające z warunków zadania :\n−\nn\n1\n1\n=\n(\n)\n−\n3 3\nn\n1\n10\n−\n=\n−\n10\nn\n10\n9\nn\n3\nn =\n7\nOdpowiedź: W grupie jest 7 kobiet i 14 mężczyzn.\nEgzamin maturalny z matematyki\n13\nPoziom rozszerzony"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2008-maj/11.webp",
+   "size": [
+    956,
+    1395
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (5 pkt)\nW ostrosłupie prawidłowym czworokątnym dane są: H – wysokość ostrosłupa oraz\nD ).\nα – miara kąta utworzonego przez krawędź boczną i krawędź podstawy (45\nD\n<\nα\n<\n90\n3\n4\nH\n⋅\na) Wykaż, że objętość V tego ostrosłupa jest równa\n−.\nα\n3 tg\n2\n1\n2\nb) Oblicz miarę kąta α , dla której objętość V danego ostrosłupa jest równa\n3\n9 H . Wynik\npodaj w zaokrągleniu do całkowitej liczby stopni.\nH\nα",
+   "key": "Zadanie 11. (5 pkt)\nW ostrosłupie prawidłowym czworokątnym dane są: H – wysokość ostrosłupa oraz\nD ).\nα – miara kąta utworzonego przez krawędź boczną i krawędź podstawy (45\nD\n<\nα\n<\n90\n3\n4\nH\n⋅\na) Wykaż, że objętość V tego ostrosłupa jest równa\n−.\nα\n3 tg\n2\n1\n2\nb) Oblicz miarę kąta α , dla której objętość V danego ostrosłupa jest równa\n3\n9 H . Wynik\npodaj w zaokrągleniu do całkowitej liczby stopni.\nS\nh\nH\nD\nC\n.\nE\nO\nα\na\nA\nB\nWprowadzam oznaczenia:\na – długość krawędzi podstawy ostrosłupa,\nh – wysokość ściany bocznej ostrosłupa.\nh\na\n=\nα\n=\n⋅\nα\na) Z trójkąta prostokątnego BES wyznaczam h:\ntg\n, stąd\nh\ntg\n.\na\n2\n2\nStosuję twierdzenie Pitagorasa w trójkącie prostokątnym SOE i otrzymuję:\n2\n⎛\na\n⎞\n+\n=\nH\n2\nh\n2\n.\n⎜\n⎟\n⎝\n2\n⎠\n2\n2\na tgα\n⎛\na\n⎞\n⎛\na\n⎞\n⋅\n+\n=\nα\nPodstawiam wyrażenie 2\nw miejsce h, otrzymuję\nH\n2\ntg\n.\n⎜\n⎟\n⎜\n⎟\n⎝\n2\n⎠\n⎝\n2\n⎠\n14\nEgzamin maturalny z matematyki\nPoziom rozszerzony\nWyznaczam\na :\n2\na\n2\na\n2\na\n2\n4\nH\n2\n(\n)\n+\n=\n⋅\nα\n=\n⋅\nα\n−\n=\nH\n2\ntg\n2\n,\nH\n2\ntg\n2\n1\n,\na\n2\n−.\nα\n4\n4\n4\ntg\n2\n1\nObliczam objętość ostrosłupa:\n1\n4\nH\n2\n=\n=\npodstawiam do wzoru\nV\na H\n2\nwyznaczoną wartość\na\n2\n−;\nα\n3\ntg\n2\n1\n1\n4\nH\n2\n4\nH\n3\n=\n⋅\n⋅\n=\n⋅\nV\nH\n− – co należało wykazać.\nα\n−\nα\n3 tg\n2\n1\n3 tg\n2\n1\n2\n4\nH\n3\n⋅\n=\n⋅\nb) Zapisuję równanie:\nH\n3\n−.\nα\n9\n3 tg\n2\n1\n9\n6\n=\nMnożę obie jego strony przez\ni otrzymuję równanie:\n1\n−.\n⋅\nα\n2 H\n3\ntg\n2\n1\nα =\nα =\nα = −\n, bo α jest kątem\nStąd\ntg\n2\n7\nczyli tg\n7\n(odrzucam równość tg\n7\nostrym).\n≈\n7\n2,6458\nD .\nZ tablic funkcji trygonometrycznych odczytuję szukaną miarę kąta α :\nα =\n69\nEgzamin maturalny z matematyki\n15\nPoziom rozszerzony"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2008-maj/12.webp",
+   "size": [
+    950,
+    1421
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (4 pkt)\nBC =\nCA =\nW trójkącie prostokątnym ABC przyprostokątne mają długości:\n9\n,\n12\n. Na boku\nAB wybrano punkt D tak, że odcinki BC i CD mają równe długości. Oblicz długość\nodcinka AD .",
+   "key": "Zadanie 12. (4 pkt)\nBC =\nCA =\nW trójkącie prostokątnym ABC przyprostokątne mają długości:\n9\n,\n12\n. Na boku\nAB wybrano punkt D tak, że odcinki BC i CD mają równe długości. Oblicz długość\nodcinka AD .\nB\n.\nE\nD\nC\nA\nRysuję wysokość CE poprowadzoną z wierzchołka C trójkąta ABC. Jest ona\njednocześnie wysokością trójkąta równoramiennego BCD, co oznacza, że\n=\nBE\nDE\n.\nTrójkąt BEC jest podobny do trójkąta ABC (oba trójkąty są prostokątne, kąt\nEBC jest ich kątem wspólnym).\nZ podobieństwa trójkątów wynika proporcja BE\nBC\n=\n.\nBC\nAB\nAB =\n+\n=\nObliczam długość odcinka AB:\n9\n2\n12\n2\n15\ni korzystając z wyznaczonej\n2\nBC\n27\n=\n=\nproporcji obliczam długość odcinka BE:\nBE\n.\nAB\n5\n27\n21\n1\nAD =\n−\n⋅\n=\n=\nWyznaczam długość odcinka AD:\n15\n2\n4\n.\n5\n5\n5\nOdpowiedź: Odcinek AD ma długość równą 1\n45 .\n16\nEgzamin maturalny z matematyki\nPoziom rozszerzony\nBRUDNOPIS"
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "exam": "f2015-R-2021-czerwiec",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -332.5537911236404, "value_tex": "-192\\sqrt3", "answer_tex": "-192\\sqrt3",
+   "category": "liczby", "topic_pl": "Potęgi i pierwiastki", "topic_en": "Powers and roots",
+   "difficulty": 2,
+   "summary_pl": "Oblicz $((\\sqrt3-1)^2-(\\sqrt3+1)^2)^3$", "summary_en": "Compute $((\\sqrt3-1)^2-(\\sqrt3+1)^2)^3$",
+   "statement_en": "The value of the expression $((\\sqrt3-1)^2-(\\sqrt3+1)^2)^3$ is equal to\nA. $512$\nB. $0$\nC. $-24\\sqrt3$\nD. $-192\\sqrt3$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "2", "include": false, "exclude_reason": "no_numeric", "category": "analiza", "difficulty": 3, "notes": "Answer is a condition relating parameters a,b, not a determinate value" },
+  {
+   "task": "3", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 2, "value_tex": "2", "answer_tex": "m=0 \\lor m=2",
+   "category": "analityczna", "topic_pl": "Długość wektora", "topic_en": "Vector length",
+   "difficulty": 2,
+   "summary_pl": "$\\vec a=[m-2,m+2]$, $\\vec b=[m^{1.5},2^{1.5}]$ równe długości (suma $m$)", "summary_en": "$\\vec a=[m-2,m+2]$, $\\vec b=[m^{1.5},2^{1.5}]$ equal length (sum of $m$)",
+   "statement_en": "The vectors $\\vec a=[m-2,m+2]$ and $\\vec b=[m^{1.5},2^{1.5}]$ have equal lengths if and only if\nA. $m=0$ or $m=4$\nB. $m=0$ or $m=2$\nC. $m=2$\nD. $m=2$ or $m=4$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "4", "include": false, "exclude_reason": "expression", "category": "trygonometria", "difficulty": 2, "notes": "Options are function formulas" },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 10, "value_tex": "10", "answer_tex": "a=5,\\ b=3,\\ c=2",
+   "category": "wyrazenia", "topic_pl": "Dzielenie wielomianów", "topic_en": "Polynomial division",
+   "difficulty": 2,
+   "summary_pl": "Dziel. $5x^3-7x^2-4x-4$ przez $(x-2)$: podaj $a,b,c$ (suma)", "summary_en": "Divide $5x^3-7x^2-4x-4$ by $(x-2)$: find $a,b,c$ (sum)",
+   "statement_en": "The result of dividing the polynomial $5x^3-7x^2-4x-4$ by the binomial $x-2$ is a quadratic trinomial of the form $ax^2+bx+c$. Enter, from left to right, the values of the coefficients $a$, $b$, and $c$.",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "6", "include": false, "exclude_reason": "proof", "category": "liczby", "difficulty": 3, "notes": "Wykaż - proof task on logarithms" },
+  { "task": "7", "include": false, "exclude_reason": "proof", "category": "planimetria", "difficulty": 3, "notes": "Wykaż - proof task on triangle areas" },
+  {
+   "task": "8", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 10.995574287564276, "value_tex": "\\frac{7\\pi}{2}", "answer_tex": "x=\\frac13\\pi \\lor x=\\frac53\\pi \\lor x=\\frac14\\pi \\lor x=\\frac54\\pi",
+   "category": "trygonometria", "topic_pl": "Równania trygonometryczne", "topic_en": "Trigonometric equations",
+   "difficulty": 4,
+   "summary_pl": "Rozwiąż $2\\cos^2x-\\cos x=\\sin(2x)-\\sin x$ w $[0,2\\pi]$ (suma rozw.)", "summary_en": "Solve $2\\cos^2x-\\cos x=\\sin(2x)-\\sin x$ on $[0,2\\pi]$ (sum of solutions)",
+   "statement_en": "Solve the equation $2\\cos^2 x-\\cos x=\\sin(2x)-\\sin x$ in the interval $[0,2\\pi]$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "9", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 4.8, "value_tex": "\\frac{24}{5}", "answer_tex": "P=(-2,2) \\lor P=\\left(\\frac{2}{5},\\frac{22}{5}\\right)",
+   "category": "analityczna", "topic_pl": "Odległość punktu od prostej", "topic_en": "Distance from a point to a line",
+   "difficulty": 4,
+   "summary_pl": "Odl. $P$ od prostych $k,l$ w stos. $2:1$. Współrz. $P$ (suma)", "summary_en": "Distances of $P$ from lines $k,l$ ratio $2:1$. Coordinates of $P$ (sum)",
+   "statement_en": "Line $k$ has the equation $x-2y=0$ and line $l$ has the equation $2x+y-1=0$. Point $P$ lies on the line with equation $y=x+4$. The distance of point $P$ from line $k$ is twice the distance of point $P$ from line $l$. Find the coordinates of point $P$.",
+   "confidence": "high", "notes": "Two points satisfy the conditions; sum includes all coordinates of both"
+  },
+  {
+   "task": "10", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 45, "value_tex": "45", "answer_tex": "\\angle CFS=45°",
+   "category": "stereometria", "topic_pl": "Kąty w sześcianie", "topic_en": "Angles in a cube",
+   "difficulty": 4,
+   "summary_pl": "Sześcian, kraw. $2$, $S$ - środek $DH$. Najmn. kąt $CFS$?", "summary_en": "Cube, edge $2$, $S$ - midpoint of $DH$. Smallest angle of triangle $CFS$?",
+   "statement_en": "A cube $ABCDEFGH$ with edge length $2$ is given. Point $S$ is the midpoint of edge $DH$ [Figure: cube with S marked as the midpoint of vertical edge DH, and triangle CFS drawn inside]. Find the measure of the smallest interior angle of triangle $CFS$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "11", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 7, "value_tex": "7", "answer_tex": "7",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo - permutacje", "topic_en": "Probability - permutations",
+   "difficulty": 4,
+   "summary_pl": "3 sportowców razem, $P=\\frac{1}{15}$. Ile aktorów?", "summary_en": "3 athletes together, $P=\\frac{1}{15}$. How many actors?",
+   "statement_en": "A certain television program involves three athletes and a certain number of actors. During the program, participants sit in armchairs in a row, facing the host (the number of armchairs equals the number of participants). The probability of the event that all three athletes sit next to each other, for a random choice of seats, is $\\frac{1}{15}$. Find how many actors take part in this program.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "12", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 1.0333333333333334, "value_tex": "\\frac{31}{30}", "answer_tex": "m=-\\frac23 \\lor m=\\frac15 \\lor m=\\frac32",
+   "category": "rownania", "topic_pl": "Parametr w równaniu", "topic_en": "Parameter in an equation",
+   "difficulty": 5,
+   "summary_pl": "Wyznacz $m$: $(x-3)(x^2+(m-1)x-6m^2+2m)=0$, 2 rozw. (suma $m$)", "summary_en": "Find $m$: $(x-3)(x^2+(m-1)x-6m^2+2m)=0$ has 2 solutions (sum of $m$)",
+   "statement_en": "Find all values of the parameter $m$ for which the equation $(x-3)(x^2+(m-1)x-6m^2+2m)=0$ has exactly two solutions.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "13", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -0.14814814814814814, "value_tex": "-\\frac{4}{27}", "answer_tex": "k=-\\frac{4}{27}",
+   "category": "analiza", "topic_pl": "Styczna do wykresu funkcji", "topic_en": "Tangent to a function graph",
+   "difficulty": 5,
+   "summary_pl": "$f(x)=\\frac{x^3+k}{x}$, styczna $y=-x$. Oblicz $k$", "summary_en": "$f(x)=\\frac{x^3+k}{x}$, tangent $y=-x$. Find $k$",
+   "statement_en": "The function $f$ is given by the formula $f(x)=\\frac{x^3+k}{x}$ for every real number $x\\ne 0$. Find the value of $k$ for which the line with equation $y=-x$ is tangent to the graph of function $f$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "14", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1.7416573867739413, "value_tex": "-2+\\sqrt{14}", "answer_tex": "|BC|=-2+\\sqrt{14}",
+   "category": "planimetria", "topic_pl": "Czworokąt opisany na okręgu", "topic_en": "Quadrilateral circumscribed on a circle",
+   "difficulty": 5,
+   "summary_pl": "Czworok. opis. na okręgu, $AD=2AB$, $BD=6$, $\\cos\\angle ADB=\\frac78$. Oblicz $BC$", "summary_en": "Quadrilateral circumscribed on circle, $AD=2AB$, $BD=6$, $\\cos\\angle ADB=\\frac78$. Find $BC$",
+   "statement_en": "A quadrilateral $ABCD$ is circumscribed on a circle. Side $AD$ of this quadrilateral is twice as long as side $AB$, and diagonal $BD$ has length $6$. Moreover the following conditions hold: $\\cos(\\angle ADB)=\\frac{7}{8}$, $|\\angle BCD|=90°$, and $|AB|>\\sqrt{15}$. Find the length of side $BC$ of this quadrilateral.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "15", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 4.686291501015239, "value_tex": "16-8\\sqrt2", "answer_tex": "|AC|=|BC|=4-2\\sqrt2,\\ |AB|=4\\sqrt2-4,\\ P=4(3-2\\sqrt2)",
+   "category": "analiza", "topic_pl": "Optymalizacja z pochodną", "topic_en": "Optimization with derivatives",
+   "difficulty": 5,
+   "summary_pl": "Trójkąt prostok., obwód $4$. Boki i pole max (suma, cz. c)", "summary_en": "Right triangle, perimeter $4$. Sides and max area (sum, part c)",
+   "statement_en": "We consider all right triangles $ABC$ with hypotenuse $AB$ and perimeter equal to $4$. Let $x=|AC|$.\na) Show that the area $P$ of triangle $ABC$, as a function of $x$, is given by the formula $P(x)=\\frac{x(4-2x)}{4-x}$.\nb) Find the domain of function $P$.\nc) Compute the side lengths of the triangle, among those considered, that has the greatest area. Compute this greatest area.",
+   "confidence": "high", "notes": "Sum includes only part c's numeric answers (three side lengths + max area); parts a) and b) are a proof and a domain interval"
+  }
+ ]
+}

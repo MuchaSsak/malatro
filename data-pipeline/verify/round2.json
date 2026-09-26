@@ -1,0 +1,347 @@
+[
+{
+"exam": "f2005-P-2005-maj",
+"task": "9",
+"why": [
+"value_in_text 84100"
+],
+"value": 84100,
+"answer_tex": "x=40000\\text{ zl},\\ y=44100\\text{ zl}",
+"summary_pl": "Podzial spadku 84100 zl (5% w skali roku) miedzy rodzenstwo (suma)"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "11",
+"why": [
+"value_in_text 35",
+"no_diacritics"
+],
+"value": 35,
+"answer_tex": "x=7,\\ y=28",
+"summary_pl": "Ciag geom. rosnacy: $a_1=x,a_2=14,a_3=y$, $x+y=35$. Oblicz x,y (suma)"
+},
+{
+"exam": "f2005-P-2009-listopad-probna",
+"task": "2",
+"why": [
+"tex_mismatch tex=0.45 value=45"
+],
+"value": 45,
+"answer_tex": "45\\%",
+"summary_pl": "Bilety ulgowe: 126 z 280. Jaki to procent?"
+},
+{
+"exam": "f2005-P-2011-czerwiec",
+"task": "5",
+"why": [
+"tex_mismatch tex=0.12 value=12"
+],
+"value": 12,
+"answer_tex": "12\\%",
+"summary_pl": "Cena: $-20\\%$, potem $+10\\%$. O ile % mniej?"
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "1",
+"why": [
+"tex_mismatch tex=0.44 value=44"
+],
+"value": 44,
+"answer_tex": "44\\%",
+"summary_pl": "Cena nart: obniżki 20% i 30%. O ile % spadła cena?"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "5",
+"why": [
+"tex_mismatch tex=0.2 value=20"
+],
+"value": 20,
+"answer_tex": "20\\%",
+"summary_pl": "O ile % taniej za dwie plyty po obnizce 20%?"
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "1",
+"why": [
+"tex_mismatch tex=0.21 value=21"
+],
+"value": 21,
+"answer_tex": "21\\%",
+"summary_pl": "Bok kwadratu wzrósł o 10%. O ile % wzrosło pole?"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "34",
+"why": [
+"tex_mismatch tex=9.484827557 value=9.484931983",
+"no_diacritics"
+],
+"value": 9.484931982574466,
+"answer_tex": "P_{ACB}=4+\\frac{19\\sqrt{3}}{6}",
+"summary_pl": "Kat $CAB=30°$, kwadrat wpisany w trojkat ma pole 4. Pole $\\triangle ACB$?"
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "21",
+"why": [
+"value_in_text 12"
+],
+"value": 12,
+"answer_tex": "S=(14,-2)",
+"summary_pl": "$A=(13,-12)$, $C=(15,8)$ przeciwl. wierzch. kwadratu. Środek? (suma wsp.)"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "2",
+"why": [
+"tex_mismatch tex=0.36 value=36",
+"no_diacritics"
+],
+"value": 36,
+"answer_tex": "36\\%",
+"summary_pl": "Dwie obnizki po $20\\%$: rownowazna jedna obnizka"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "11",
+"why": [
+"value_in_text 26",
+"no_diacritics"
+],
+"value": 26,
+"answer_tex": "a=2,\\ b=6,\\ c=18\\ (\\text{or } a=18,\\ b=6,\\ c=2)",
+"summary_pl": "Ciag geom. $a,b,c$: $a{+}b{+}c{=}26$; $a{-}5,b{-}4,c{-}11$ arytm. (suma)"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "1",
+"why": [
+"tex_mismatch tex=0.04 value=4"
+],
+"value": 4,
+"answer_tex": "4\\%",
+"summary_pl": "Błąd względny przybliżenia $0,6\\approx\\frac58$"
+},
+{
+"exam": "f2015-P-2014-grudzien-probna",
+"task": "4",
+"why": [
+"tex_mismatch tex=0.43 value=43"
+],
+"value": 43,
+"answer_tex": "43\\%",
+"summary_pl": "Cena wzrosła o 30%, potem o 10%. Łączny wzrost?"
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "22",
+"why": [
+"tex_mismatch tex=0.04 value=4"
+],
+"value": 4,
+"answer_tex": "4\\%",
+"summary_pl": "$0,3$ przybliża $\\frac{5}{16}$. Błąd względny w %?"
+},
+{
+"exam": "f2015-P-2016-czerwiec",
+"task": "2",
+"why": [
+"tex_mismatch tex=0.56 value=56"
+],
+"value": 56,
+"answer_tex": "56\\%",
+"summary_pl": "Dwie podwyżki ceny: 20% i 30%. Jedna równoważna podwyżka?"
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "3",
+"why": [
+"tex_mismatch tex=0.25 value=25"
+],
+"value": 25,
+"answer_tex": "25\\%",
+"summary_pl": "Prowizja spadła z 4% do 3%. O ile % się zmniejszyła?"
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "4",
+"why": [
+"tex_mismatch tex=0.25 value=25"
+],
+"value": 25,
+"answer_tex": "25\\%",
+"summary_pl": "O ile % podnieść cenę obniżoną wcześniej o 20%?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "2",
+"why": [
+"tex_mismatch tex=1.987013346 value=1.987011295"
+],
+"value": 1.987011294695565,
+"answer_tex": "3^{5/8}",
+"summary_pl": "Zapisz $\\sqrt[4]{9\\cdot\\sqrt3}$ w postaci potegi"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "4",
+"why": [
+"tex_mismatch tex=0.28 value=28"
+],
+"value": 28,
+"answer_tex": "28\\%",
+"summary_pl": "Cena po obnizkach $20\\%$ i $10\\%$ - o ile % lacznie?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "32",
+"why": [
+"tex_mismatch tex=0.2 value=20",
+"no_diacritics"
+],
+"value": 20,
+"answer_tex": "20\\%",
+"summary_pl": "Trapez: podstawy $+25\\%$, rowne pole. O ile % skrocono $h$?"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "17",
+"why": [
+"ratio"
+],
+"value": 2.25,
+"answer_tex": "9:4",
+"summary_pl": "Trójkąt równobocz., $DE$ przez środek wys. Stosunek pól?"
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "25",
+"why": [
+"ratio"
+],
+"value": 9,
+"answer_tex": "9:1",
+"summary_pl": "Ostrosłupy: takie same wys., krawędzie $3:1$. Stos. objęt.?"
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "3",
+"why": [
+"tex_mismatch tex=1.25 value=125"
+],
+"value": 125,
+"answer_tex": "125\\%",
+"summary_pl": "$x$ to $80\\%$ liczby $y$. Ile procent $x$ to $y$?"
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "3",
+"why": [
+"tex_mismatch tex=0.1066666667 value=16.66666667"
+],
+"value": 16.666666666666668,
+"answer_tex": "16\\frac{2}{3}\\%",
+"summary_pl": "Płaszcz z 240 zł na 200 zł - o ile % obniżono cenę?"
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "7",
+"why": [
+"count_vs_value"
+],
+"value": -1,
+"answer_tex": "x=-1",
+"summary_pl": "Ile rozwiązań ma $\\frac{x+1}{(x+2)(x-3)}=0$?"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "1",
+"why": [
+"tex_mismatch tex=0.2 value=20"
+],
+"value": 20,
+"answer_tex": "20\\%",
+"summary_pl": "Blad wzgledny przyblizenia $\\frac{1}{8}$ przez $0,1$ (w %)"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "1",
+"why": [
+"tex_mismatch tex=1.25 value=125"
+],
+"value": 125,
+"answer_tex": "125\\%",
+"summary_pl": "Liczba $a$ to $80\\%$ liczby $b$. Ile procent $a$ to $b$?"
+},
+{
+"exam": "f2015-R-2021-marzec-probna",
+"task": "11",
+"why": [
+"tex_mismatch tex=0.53293871 value=0.5327870293"
+],
+"value": 0.5327870293275722,
+"answer_tex": "\\sin\\angle AFB=\\frac{4\\sqrt3}{13}",
+"summary_pl": "Graniastosłup prawidł. trójk., kraw. $4$, wys. $6$. Sinus kąta $AFB$?"
+},
+{
+"exam": "f2023-P-2022-marzec-pokazowa",
+"task": "26",
+"why": [
+"ratio"
+],
+"value": 0.125,
+"answer_tex": "1:8",
+"summary_pl": "Ostrosłup, $D,E,F$ środki krawędzi. Stosunek objętości"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "24.3",
+"why": [
+"tex_mismatch tex=0.91 value=91"
+],
+"value": 91,
+"answer_tex": "91\\%",
+"summary_pl": "Rozkład płac: jaki % zarabia nie więcej niż $5000$ zł?"
+},
+{
+"exam": "f2023-P-2024-grudzien-diagnostyczna",
+"task": "5",
+"why": [
+"tex_mismatch tex=0.064 value=6.4"
+],
+"value": 6.4,
+"answer_tex": "p=6.4\\%",
+"summary_pl": "Lokata 2-letnia, procent składany: oblicz oprocentowanie"
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "7",
+"why": [
+"count_vs_value"
+],
+"value": -1,
+"answer_tex": "x=-1",
+"summary_pl": "Ile rozwiązań ma $\\frac{x+1}{(x+2)(x-3)}=0$?"
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "7",
+"why": [
+"count_vs_value"
+],
+"value": -3,
+"answer_tex": "x=-3 \\lor x=0",
+"summary_pl": "Ile rozwiązań ma $2x(x+3)(x^2+25)=0$? (suma rozwiązań)"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "1",
+"why": [
+"tex_mismatch tex=0.25 value=25"
+],
+"value": 25,
+"answer_tex": "25\\%",
+"summary_pl": "Bakterie: $N(0)=10000$, $N(2)=15625$. O ile % rosnie/h?"
+}
+]

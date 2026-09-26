@@ -1,0 +1,248 @@
+{
+ "exam": "f2023-P-2022-grudzien-diagnostyczna",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 2.23606797749979, "value_tex": "\\sqrt{5}", "answer_tex": "\\sqrt{5}",
+   "category": "liczby", "topic_pl": "Potęgi i pierwiastki", "topic_en": "Powers and roots",
+   "difficulty": 2,
+   "summary_pl": "Oblicz $(5\\cdot 5^{1/2})^{1/3}$",
+   "summary_en": "Compute $(5\\cdot 5^{1/2})^{1/3}$",
+   "statement_en": "The number $\\left(5\\cdot 5^{1/2}\\right)^{1/3}$ is equal to: A. $\\sqrt[6]{5}$ B. $\\sqrt[3]{25}$ C. $\\sqrt{5}$ D. $\\sqrt[3]{5}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 45796, "value_tex": "45796", "answer_tex": "40000\\cdot(1{,}07)^2 = 45796 \\text{ zł}",
+   "category": "liczby", "topic_pl": "Procent składany", "topic_en": "Compound interest",
+   "difficulty": 2,
+   "summary_pl": "Obligacje 40000 zł, 7% rocznie. Wartość po 2 latach",
+   "summary_en": "Bonds worth 40000 PLN, 7% annually. Value after 2 years",
+   "statement_en": "Mr Nowak bought State Treasury bonds for 40,000 PLN, with an annual interest rate of 7%. Interest is calculated and capitalized every year. Complete the sentence. Choose the correct answer from the options given. The value of the bonds bought by Mr Nowak after two years will equal: A. $40000\\cdot(1.07)^2$ PLN B. $40000\\cdot(1.7)^2$ PLN C. $40000\\cdot 1.14$ PLN D. $40000\\cdot 1.49$ PLN",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "3", "include": false, "exclude_reason": "expression", "category": "rownania", "difficulty": 2, "notes": "" },
+  { "task": "4", "include": false, "exclude_reason": "expression", "category": "wyrazenia", "difficulty": 2, "notes": "" },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 4536, "value_tex": "4536", "answer_tex": "9\\cdot9\\cdot8\\cdot7 = 4536",
+   "category": "kombinatoryka", "topic_pl": "Zliczanie obiektów", "topic_en": "Counting objects",
+   "difficulty": 2,
+   "summary_pl": "Ile liczb 4-cyfrowych o różnych cyfrach?",
+   "summary_en": "How many 4-digit numbers with distinct digits?",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of all distinct four-digit natural numbers whose decimal digits are all different is: A. $9\\cdot8\\cdot7\\cdot6$ B. $9\\cdot9\\cdot8\\cdot7$ C. $10\\cdot9\\cdot8\\cdot7$ D. $9\\cdot10\\cdot10\\cdot10$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "6", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -0.5, "value_tex": "-\\frac{1}{2}", "answer_tex": "f(\\sqrt{10}) = -\\frac{1}{2}",
+   "category": "liczby", "topic_pl": "Wartość logarytmu", "topic_en": "Logarithm value",
+   "difficulty": 2,
+   "summary_pl": "Wartość $f(\\sqrt{10})$ dla $f(x)=-\\log x$",
+   "summary_en": "Value of $f(\\sqrt{10})$ for $f(x)=-\\log x$",
+   "statement_en": "The function $f$ is defined by $f(x) = -\\log x$ for all positive real numbers $x$. Complete the sentence. Choose the correct answer from the options given. The value of the function $f$ for the argument $x=\\sqrt{10}$ equals: A. $2$ B. $\\left(-\\frac12\\right)$ C. $\\frac12$ D. $(-2)$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "7.1", "include": false, "exclude_reason": "interval_or_set", "category": "funkcje", "difficulty": 1, "notes": "" },
+  { "task": "7.2", "include": false, "exclude_reason": "expression", "category": "funkcje", "difficulty": 2, "notes": "" },
+  {
+   "task": "8", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 2, "value_tex": "2", "answer_tex": "k=2",
+   "category": "rownania", "topic_pl": "Nierówność kwadratowa", "topic_en": "Quadratic inequality",
+   "difficulty": 2,
+   "summary_pl": "$(3x-9)(x+k)<0$ ma rozw. $(-2,3)$. Oblicz $k$",
+   "summary_en": "$(3x-9)(x+k)<0$ solved by $(-2,3)$. Find $k$",
+   "statement_en": "The quadratic inequality $(3x-9)(x+k) < 0$ with unknown $x$ and parameter $k \\in \\mathbb{R}$ has solution set the interval $(-2, 3)$. Complete the sentence. Choose the correct answer from the options given. The number $k$ equals: A. $(-2)$ B. $2$ C. $(-3)$ D. $3$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "9", "include": false, "exclude_reason": "matching", "category": "funkcje", "difficulty": 2, "notes": "Answer combines a letter and a justification number (e.g. B1), not a plain numeric value." },
+  { "task": "10", "include": false, "exclude_reason": "graph_or_drawing", "category": "analityczna", "difficulty": 1, "notes": "" },
+  { "task": "11", "include": false, "exclude_reason": "expression", "category": "wyrazenia", "difficulty": 2, "notes": "" },
+  {
+   "task": "12", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1, "value_tex": "1", "answer_tex": "\\text{jedno rozwiązanie } (x=4)",
+   "category": "rownania", "topic_pl": "Równanie wymierne", "topic_en": "Rational equation",
+   "difficulty": 2,
+   "summary_pl": "Ile rozwiązań ma $\\frac{(4-x)(2x-3)}{(3x-5)(3-2x)}=0$?",
+   "summary_en": "How many solutions has $\\frac{(4-x)(2x-3)}{(3x-5)(3-2x)}=0$?",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The equation $\\frac{(4-x)(2x-3)}{(3x-5)(3-2x)} = 0$ has, in the set of real numbers, exactly: A. one solution. B. two solutions. C. three solutions. D. four solutions.",
+   "confidence": "high", "notes": "x=3/2 makes both numerator and denominator zero, so it is excluded; only x=4 remains."
+  },
+  {
+   "task": "13", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 6, "value_tex": "6", "answer_tex": "x=6",
+   "category": "rownania", "topic_pl": "Nierówność liniowa", "topic_en": "Linear inequality",
+   "difficulty": 1,
+   "summary_pl": "Największa całk. $x$: $2-\\frac{x}{2}\\ge\\frac{x}{3}-3$",
+   "summary_en": "Largest integer $x$: $2-\\frac{x}{2}\\ge\\frac{x}{3}-3$",
+   "statement_en": "Given is the inequality $2-\\frac{x}{2} \\ge \\frac{x}{3}-3$. Complete the sentence. Choose the correct answer from the options given. The largest integer that satisfies this inequality is: A. $6$ B. $5$ C. $7$ D. $(-6)$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "14", "include": false, "exclude_reason": "proof", "category": "liczby", "difficulty": 2, "notes": "" },
+  { "task": "15", "include": false, "exclude_reason": "true_false", "category": "ciagi", "difficulty": 2, "notes": "" },
+  {
+   "task": "16", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 11.5, "value_tex": "\\frac{23}{2}", "answer_tex": "x=4 \\land y=\\frac{15}{2}",
+   "category": "ciagi", "topic_pl": "Ciąg arytmetyczny", "topic_en": "Arithmetic sequence",
+   "difficulty": 2,
+   "summary_pl": "Ciąg arytm. $(-3,\\frac12,x,y,11)$. Oblicz $x+y$",
+   "summary_en": "Arithmetic seq. $(-3,\\frac12,x,y,11)$. Find $x+y$",
+   "statement_en": "The five-term sequence $\\left(-3, \\frac12, x, y, 11\\right)$ is arithmetic. Complete the sentence. Choose the correct answer from the options given. The numbers $x$ and $y$ equal: A. $x=4$ and $y=\\frac{15}{2}$ B. $x=\\frac{15}{2}$ and $y=4$ C. $x=-4$ and $y=\\frac{15}{2}$ D. $x=-\\frac{15}{2}$ and $y=4$ (sum $x+y$)",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "17", "include": false, "exclude_reason": "multi_choice_letters", "category": "ciagi", "difficulty": 2, "notes": "Correct options (A and E) are formulas, not plain numbers." },
+  {
+   "task": "18", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.375, "value_tex": "\\frac{3}{8}", "answer_tex": "\\sin\\alpha\\cos\\alpha=\\frac{3}{8}",
+   "category": "trygonometria", "topic_pl": "Tożsamości trygonometryczne", "topic_en": "Trigonometric identities",
+   "difficulty": 2,
+   "summary_pl": "Oblicz $\\sin\\alpha\\cos\\alpha$ gdy $\\frac{1}{\\sin^2\\alpha}+\\frac{1}{\\cos^2\\alpha}=\\frac{64}{9}$",
+   "summary_en": "Find $\\sin\\alpha\\cos\\alpha$ given $\\frac{1}{\\sin^2\\alpha}+\\frac{1}{\\cos^2\\alpha}=\\frac{64}{9}$",
+   "statement_en": "The angle $\\alpha$ is acute and $\\frac{1}{\\sin^2\\alpha}+\\frac{1}{\\cos^2\\alpha}=\\frac{64}{9}$. Complete the sentence. Choose the correct answer from the options given. The value of the expression $\\sin\\alpha\\cdot\\cos\\alpha$ equals: A. $\\frac{8}{3}$ B. $\\frac{3}{8}$ C. $\\frac{64}{9}$ D. $\\frac{9}{64}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "19", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 60, "value_tex": "60", "answer_tex": "\\angle BAC = 60°",
+   "category": "planimetria", "topic_pl": "Kąt wpisany i środkowy", "topic_en": "Inscribed and central angle",
+   "difficulty": 1,
+   "summary_pl": "Kąt wpisany $BAC$, gdy $\\angle AOC=130°$, $\\angle BOA=110°$",
+   "summary_en": "Inscribed angle $BAC$ given $\\angle AOC=130°$, $\\angle BOA=110°$",
+   "statement_en": "Points $A, B, C$ lie on a circle with center $O$ (see figure). Moreover $|\\angle AOC| = 130°$ and $|\\angle BOA| = 110°$. Complete the sentence. Choose the correct answer from the options given. The measure of the interior angle $BAC$ of triangle $ABC$ equals: A. $60°$ B. $55°$ C. $50°$ D. $65°$ [Figure: circle with center $O$, points $A,B,C$ on it; central angles $\\angle AOC=130°$ and $\\angle BOA=110°$ marked]",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "20", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 150, "value_tex": "150", "answer_tex": "a=50\\text{ m} \\land b=100\\text{ m}",
+   "category": "funkcje", "topic_pl": "Optymalizacja kwadratowa", "topic_en": "Quadratic optimisation",
+   "difficulty": 3,
+   "summary_pl": "Kąpielisko z liny 200 m: wymiary $a,b$ o max. polu (a+b)",
+   "summary_en": "Pool fenced by 200 m rope: dimensions $a,b$ for max area (a+b)",
+   "statement_en": "To mark out three sides of a rectangular swimming area, a rope of length 200 m must be used. The fourth side of this swimming area coincides with the beach shoreline, which at this point is a straight line (see figure). [Figure: rectangle with sides $a$ (perpendicular to the shore) and $b$ (parallel to the shore); the rope marks the sides $a, b, a$; the fourth side lies on the shore] Calculate the dimensions $a$ and $b$ of the swimming area so that its area is greatest. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "21", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 50.26548245743669, "value_tex": "16\\pi", "answer_tex": "16\\pi",
+   "category": "planimetria", "topic_pl": "Pole wycinka koła", "topic_en": "Circular sector area",
+   "difficulty": 1,
+   "summary_pl": "Pole części wspólnej koła i kwadratu o boku 8",
+   "summary_en": "Area of overlap of a circle and a square with side 8",
+   "statement_en": "Given is a square $ABCD$ with side length $8$. From vertex $A$ a circle is drawn with radius equal to the side length of the square (see figure). [Figure: square $ABCD$ with a circle centered at $A$ of radius $8$, overlapping the square in a quarter-circle region] Complete the sentence. Choose the correct answer from the options given. The area of the common part of the circle and the square equals: A. $16\\pi$ B. $8\\pi$ C. $4\\sqrt2\\pi$ D. $16\\sqrt2\\pi$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "22", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 9, "value_tex": "9", "answer_tex": "|OC|=9",
+   "category": "planimetria", "topic_pl": "Podobieństwo trójkątów", "topic_en": "Similar triangles",
+   "difficulty": 2,
+   "summary_pl": "$|AD|=4$, $|OD|=|BC|=6$, kąty proste. Oblicz $|OC|$",
+   "summary_en": "$|AD|=4$, $|OD|=|BC|=6$, right angles. Find $|OC|$",
+   "statement_en": "Segments $AC$ and $BD$ intersect at point $O$. Moreover $|AD|=4$ and $|OD|=|BC|=6$. Angles $ODA$ and $BCO$ are right angles (see figure). Complete the sentence. Choose the correct answer from the options given. The length of segment $OC$ equals: A. $9$ B. $8$ C. $2\\sqrt{13}$ D. $3\\sqrt{13}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "23", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 6.857142857142857, "value_tex": "\\frac{48}{7}", "answer_tex": "a=\\frac{48}{7}",
+   "category": "planimetria", "topic_pl": "Romb w równoległoboku", "topic_en": "Rhombus in a parallelogram",
+   "difficulty": 3,
+   "summary_pl": "Romb w równoległoboku: $|AC|=16$, $|BD|=12$. Bok rombu",
+   "summary_en": "Rhombus in a parallelogram: $|AC|=16$, $|BD|=12$. Side length",
+   "statement_en": "The diagonals of parallelogram $ABCD$ have lengths $|AC|=16$ and $|BD|=12$. Vertices $E, F, G, H$ of rhombus $EFGH$ lie on the sides of parallelogram $ABCD$ (see figure). The sides of this rhombus are parallel to the diagonals of the parallelogram. Calculate the side length of rhombus $EFGH$. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "24", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 3.6, "value_tex": "\\frac{18}{5}", "answer_tex": "P=\\frac{18}{5}",
+   "category": "trygonometria", "topic_pl": "Pole trójkąta", "topic_en": "Triangle area",
+   "difficulty": 2,
+   "summary_pl": "Trójkąt: $|AC|=4$, $|AB|=3$, $\\cos\\angle BAC=\\frac45$. Pole",
+   "summary_en": "Triangle: $|AC|=4$, $|AB|=3$, $\\cos\\angle BAC=\\frac45$. Area",
+   "statement_en": "Given is triangle $ABC$, in which $|AC|=4$, $|AB|=3$, $\\cos\\angle BAC=\\frac45$. Calculate the area of triangle $ABC$. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "25.1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 3.4641016151377544, "value_tex": "2\\sqrt{3}", "answer_tex": "P_{ABE}=2\\sqrt{3}",
+   "category": "planimetria", "topic_pl": "Sześciokąt foremny", "topic_en": "Regular hexagon",
+   "difficulty": 2,
+   "summary_pl": "Sześciokąt foremny, pole $6\\sqrt3$. Pole trójkąta $ABE$",
+   "summary_en": "Regular hexagon, area $6\\sqrt3$. Area of triangle $ABE$",
+   "statement_en": "Given is a regular hexagon $ABCDEF$ with area equal to $6\\sqrt3$ (see figure). Complete the sentence. Choose the correct answer from the options given. The area of triangle $ABE$ equals: A. $6$ B. $4\\sqrt3$ C. $2\\sqrt3$ D. $4$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "25.2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 3.4641016151377544, "value_tex": "2\\sqrt{3}", "answer_tex": "|AE|=2\\sqrt{3}",
+   "category": "planimetria", "topic_pl": "Sześciokąt foremny", "topic_en": "Regular hexagon",
+   "difficulty": 1,
+   "summary_pl": "Sześciokąt foremny, pole $6\\sqrt3$. Długość $AE$",
+   "summary_en": "Regular hexagon, area $6\\sqrt3$. Length of $AE$",
+   "statement_en": "Given is a regular hexagon $ABCDEF$ with area equal to $6\\sqrt3$ (see figure). Complete the sentence. Choose the correct answer from the options given. The length of segment $AE$ equals: A. $2$ B. $2\\sqrt3$ C. $4\\sqrt3$ D. $4$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "26", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 9, "value_tex": "9", "answer_tex": "h=9",
+   "category": "planimetria", "topic_pl": "Podobieństwo w trapezie", "topic_en": "Similarity in a trapezoid",
+   "difficulty": 2,
+   "summary_pl": "Trapez, wys. 12, obwody $ABO{=}39$, $CDO{=}13$. Wys. $ABO$",
+   "summary_en": "Trapezoid, height 12, perimeters $ABO{=}39$, $CDO{=}13$. Height of $ABO$",
+   "statement_en": "Given is trapezoid $ABCD$, in which $AB \\parallel CD$, and diagonals $AC$ and $BD$ intersect at point $O$ (see figure). The height of this trapezoid equals $12$. The perimeter of triangle $ABO$ equals $39$, and the perimeter of triangle $CDO$ equals $13$. Complete the sentence. Choose the correct answer from the options given. The height of triangle $ABO$ drawn from point $O$ equals: A. $3$ B. $4$ C. $9$ D. $6$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "27", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 6, "value_tex": "6", "answer_tex": "(0,1) \\text{ i } (0,5)",
+   "category": "analityczna", "topic_pl": "Równanie okręgu", "topic_en": "Circle equation",
+   "difficulty": 1,
+   "summary_pl": "Okrąg $(x-3)^2+(y-3)^2=13$ i oś $Oy$ (suma współrzędnych)",
+   "summary_en": "Circle $(x-3)^2+(y-3)^2=13$ meets $Oy$ axis (sum of coordinates)",
+   "statement_en": "On the plane, in the Cartesian coordinate system $(x,y)$, a circle $\\mathcal{O}$ is given with equation $(x-3)^2+(y-3)^2=13$. Complete the sentence. Choose the correct answer from the options given. Circle $\\mathcal{O}$ intersects the $Oy$ axis at the points with coordinates: A. $(0,1)$ and $(0,5)$ B. $(0,1)$ and $(0,-5)$ C. $(1,0)$ and $(5,0)$ D. $(0,-1)$ and $(0,5)$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "28", "include": false, "exclude_reason": "statement", "category": "analityczna", "difficulty": 1, "notes": "" },
+  {
+   "task": "29", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1, "value_tex": "1", "answer_tex": "m=1",
+   "category": "analityczna", "topic_pl": "Prosta równoległa", "topic_en": "Parallel line",
+   "difficulty": 2,
+   "summary_pl": "$A=(1,2)$, $B=(2m,m)$, prosta $\\parallel$ do $y=-x-1$. $m=?$",
+   "summary_en": "$A=(1,2)$, $B=(2m,m)$, line $\\parallel$ to $y=-x-1$. Find $m$",
+   "statement_en": "On the plane, in the Cartesian coordinate system $(x,y)$, points $A=(1,2)$ and $B=(2m,m)$ are given, where $m$ is a real number, and a line $k$ with equation $y=-x-1$. Complete the sentence. Choose the correct answer from the options given. The line passing through points $A$ and $B$ is parallel to line $k$ when: A. $m=-1$ B. $m=1$ C. $m=\\frac12$ D. $m=2$",
+   "confidence": "high", "notes": "Text extraction shuffled option order; verified correct A-D mapping from the task image."
+  },
+  {
+   "task": "30.1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 243, "value_tex": "243", "answer_tex": "V=243",
+   "category": "stereometria", "topic_pl": "Objętość ostrosłupa", "topic_en": "Pyramid volume",
+   "difficulty": 1,
+   "summary_pl": "Sześcian, krawędź 9. Objętość ostrosłupa $ABCDW$",
+   "summary_en": "Cube, edge 9. Volume of pyramid $ABCDW$",
+   "statement_en": "Given is a cube $ABCDEFGH$ with edge length $9$. The vertices of base $ABCD$ of the cube are connected by segments to point $W$, which is the intersection point of the diagonals of base $EFGH$. This produces a regular quadrilateral pyramid $ABCDW$ (see figure). Complete the sentence. Choose the correct answer from the options given. The volume $V$ of pyramid $ABCDW$ equals: A. $243$ B. $364.5$ C. $489$ D. $729$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "30.2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.5773502691896258, "value_tex": "\\frac{\\sqrt{3}}{3}", "answer_tex": "\\cos\\alpha=\\frac{\\sqrt3}{3}",
+   "category": "stereometria", "topic_pl": "Kąt nachylenia krawędzi", "topic_en": "Edge inclination angle",
+   "difficulty": 2,
+   "summary_pl": "Ostrosłup w sześcianie: cosinus kąta krawędzi bocznej",
+   "summary_en": "Pyramid in a cube: cosine of the lateral edge's angle",
+   "statement_en": "[Same setup as previous part: cube $ABCDEFGH$ with edge length $9$; pyramid $ABCDW$ formed by connecting base $ABCD$ to point $W$, the center of the opposite face $EFGH$.] Calculate the cosine of the angle of inclination of the pyramid's lateral edge to the plane of the base. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "31", "include": false, "exclude_reason": "expression", "category": "stereometria", "difficulty": 1, "notes": "Answer is 27V, a multiple of the undefined variable V, not a numeric value." },
+  {
+   "task": "32", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.2222222222222222, "value_tex": "\\frac{2}{9}", "answer_tex": "P=\\frac{2}{9}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo klasyczne", "topic_en": "Classical probability",
+   "difficulty": 1,
+   "summary_pl": "Losy w stosunku $2:7$. Prawdopodobieństwo losu wygrywającego",
+   "summary_en": "Tickets in ratio $2:7$. Probability of a winning ticket",
+   "statement_en": "In a lottery, the ratio of the number of winning tickets to the number of losing tickets is $2:7$. One ticket from this lottery was purchased. Complete the sentence. Choose the correct answer from the options given. The probability of the event that the purchased ticket is a winning one equals: A. $\\frac19$ B. $\\frac12$ C. $\\frac29$ D. $\\frac27$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "33", "include": false, "exclude_reason": "no_numeric", "category": "statystyka", "difficulty": 2, "notes": "Final answer names specific pot labels (I, II, IV) within a computed interval (126,154); labels are identifiers, not a computed numeric quantity." }
+ ]
+}

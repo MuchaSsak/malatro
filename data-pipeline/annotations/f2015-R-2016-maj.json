@@ -1,0 +1,125 @@
+{
+ "exam": "f2015-R-2016-maj",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 166.27687752661221, "value_tex": "96\\sqrt3", "answer_tex": "96\\sqrt3",
+   "category": "wyrazenia", "topic_pl": "Dwumian Newtona", "topic_en": "Binomial expansion",
+   "difficulty": 3,
+   "summary_pl": "Rozwinięcie $(2\\sqrt3x+4y)^3$: współczynnik przy $xy^2$",
+   "summary_en": "Expansion of $(2\\sqrt3x+4y)^3$: coefficient of $xy^2$",
+   "statement_en": "In the expansion of the expression $(2\\sqrt3\\,x+4y)^3$, the coefficient of the product $xy^2$ equals: A. $32\\sqrt3$, B. 48, C. $96\\sqrt3$, D. 144",
+   "confidence": "high", "notes": "Term for x^1y^2: C(3,2)*(2sqrt3)^1*4^2 = 3*2sqrt3*16 = 96sqrt3, matches option C."
+  },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -4, "value_tex": "-4", "answer_tex": "p=-4",
+   "category": "wyrazenia", "topic_pl": "Reszta z dzielenia wielomianu", "topic_en": "Polynomial remainder",
+   "difficulty": 2,
+   "summary_pl": "$W(x)=6x^3+3x^2-5x+p$ dzielny przez $x-1$. $p=?$",
+   "summary_en": "$W(x)=6x^3+3x^2-5x+p$ divisible by $x-1$. Find p",
+   "statement_en": "The polynomial $W(x)=6x^3+3x^2-5x+p$ is divisible by the binomial $x-1$ for p equal to: A. 4, B. -2, C. 2, D. -4",
+   "confidence": "high", "notes": "W(1)=6+3-5+p=0 => p=-4, matches option D."
+  },
+  {
+   "task": "3", "include": false, "exclude_reason": "interval_or_set",
+   "category": "funkcje", "difficulty": 3,
+   "notes": "Key option B: |f(x)|=p has exactly one solution for p=0 or p=2 (a set of two parameter values, not a single number)."
+  },
+  {
+   "task": "4", "include": false, "exclude_reason": "expression",
+   "category": "analiza", "difficulty": 2,
+   "notes": "f(x)=(3x-1)/(x^2+4); f'(x)=(-3x^2+2x+12)/(x^2+4)^2, matches option A. Answer is a formula in x, not a number."
+  },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -2, "value_tex": "-2", "answer_tex": "p=-2",
+   "category": "ciagi", "topic_pl": "Granica ciągu z parametrem", "topic_en": "Sequence limit with parameter",
+   "difficulty": 3,
+   "summary_pl": "$\\lim (pn^2+4n)^3/(5n^6-4)=-8/5$. $p=?$",
+   "summary_en": "$\\lim (pn^2+4n)^3/(5n^6-4)=-8/5$. Find p",
+   "statement_en": "The limit $\\lim_{n\\to\\infty}\\frac{(pn^2+4n)^3}{5n^6-4}=-\\frac{8}{5}$. It follows that: A. p=-8, B. p=4, C. p=2, D. p=-2",
+   "confidence": "high", "notes": "Leading terms give limit = p^3/5 = -8/5 => p^3=-8 => p=-2, matches option D."
+  },
+  {
+   "task": "6", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.7533333333333333, "value_tex": "\\frac{113}{150}", "answer_tex": "\\frac{113}{150}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo warunkowe", "topic_en": "Conditional probability",
+   "difficulty": 3,
+   "summary_pl": "P(popiera|mężczyzna) w sondażu o przedszkolu",
+   "summary_en": "P(supports|male) in a preschool survey",
+   "statement_en": "Among 10 thousand residents of a certain city, a survey was conducted regarding the construction of a public preschool. The results: Women - support: 5140, do not support: 1860; Men - support: 2260, do not support: 740. Compute the probability that a randomly selected person, among those surveyed, supports the construction of the preschool, given that this person is a man. Code the first three digits after the decimal point of the infinite decimal expansion of the obtained result.",
+   "confidence": "high", "notes": "P = 2260/(2260+740) = 2260/3000 = 113/150 = 0.753333..., coded digits 7,5,3, matches key."
+  },
+  {
+   "task": "7", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 187, "value_tex": "187", "answer_tex": "187",
+   "category": "ciagi", "topic_pl": "Zbieżność szeregu geometrycznego", "topic_en": "Convergence of a geometric series",
+   "difficulty": 3,
+   "summary_pl": "Najmniejsze całk. $x$: szereg $\\sum(1/(2x-371))^n$ zbieżny",
+   "summary_en": "Smallest integer x for which the geometric series converges",
+   "statement_en": "A geometric sequence $(a_n)$ is defined by the formula $a_n=\\left(\\frac{1}{2x-371}\\right)^n$ for $n\\ge1$. All terms of this sequence are positive. Determine the smallest integer x for which the infinite series $a_1+a_2+a_3+\\ldots$ is convergent.",
+   "confidence": "high", "notes": "Ratio q=1/(2x-371) must satisfy 0<q<1 (terms positive); solving gives x>186, so smallest integer is 187, matches key."
+  },
+  {
+   "task": "8", "include": false, "exclude_reason": "proof",
+   "category": "rownania", "difficulty": 4,
+   "notes": "Prove x+y<=2 for positive x,y with x^2+y^2=2."
+  },
+  {
+   "task": "9", "include": false, "exclude_reason": "proof",
+   "category": "planimetria", "difficulty": 4,
+   "notes": "Prove MN=AD for incircle tangent points in a rectangle-based configuration."
+  },
+  {
+   "task": "10", "include": false, "exclude_reason": "interval_or_set",
+   "category": "funkcje", "difficulty": 4,
+   "notes": "f(x)=x-2, g(x)=5-ax; find all a for which the intersection point has both coordinates positive: answer is -1<a<5/2, a range not a single number."
+  },
+  {
+   "task": "11", "include": false, "exclude_reason": "interval_or_set",
+   "category": "trygonometria", "difficulty": 4,
+   "notes": "Solve (2cos x - sqrt3)/cos^2 x < 0 on [0,2pi]; solution is a union of intervals, not a single number."
+  },
+  {
+   "task": "12", "include": false, "exclude_reason": "interval_or_set",
+   "category": "rownania", "difficulty": 5,
+   "notes": "Find all m for which f(x)=x^2+2(m+1)x+6m+1 has two distinct same-sign roots with |x1-x2|<3; answer is m in (-1/6,0) union (4,9/2), a set not a single number."
+  },
+  {
+   "task": "13", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 15.333333333333334, "value_tex": "\\frac{46}{3}", "answer_tex": "C=\\left(\\frac{8}{3},\\frac{14}{3}\\right),\\ D=(6,2)",
+   "category": "analityczna", "topic_pl": "Czworokąt wpisany w okrąg", "topic_en": "Cyclic quadrilateral",
+   "difficulty": 5,
+   "summary_pl": "Czworokąt ABCD w okręgu: znajdź $C$ i $D$ (suma wsp.)",
+   "summary_en": "Cyclic quadrilateral ABCD: find C and D (sum of coords)",
+   "statement_en": "Points $A=(30,32)$ and $B=(0,8)$ are adjacent vertices of a quadrilateral ABCD inscribed in a circle. The line with equation $x-y+2=0$ is the unique axis of symmetry of this quadrilateral and contains diagonal AC. Compute the coordinates of vertices C and D of this quadrilateral.",
+   "confidence": "high", "notes": "Key gives D=(6,2), C=(8/3,14/3); sum of all four coordinates = 8/3+14/3+6+2 = 46/3 (suma wspolrzednych C i D)."
+  },
+  {
+   "task": "14", "include": false, "exclude_reason": "proof",
+   "category": "kombinatoryka", "difficulty": 4,
+   "notes": "Task asks to justify (Uzasadnij) that the count of such 10-digit numbers is 15360 (value already given in the statement); this is a justification/proof task, not a request to find an unknown numeric value."
+  },
+  {
+   "task": "15", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 166.66666666666666, "value_tex": "\\frac{500}{3}", "answer_tex": "\\frac{500}{3}",
+   "category": "stereometria", "topic_pl": "Objętość ostrosłupa", "topic_en": "Pyramid volume",
+   "difficulty": 5,
+   "summary_pl": "Ostrosłup: wys.$=5$, kąt między ścianami bocz.$=120°$. $V=?$",
+   "summary_en": "Pyramid: height=5, angle between lateral faces=120°. V?",
+   "statement_en": "In a regular quadrilateral pyramid ABCDS with base ABCD, the height equals 5, and the angle between adjacent lateral faces of the pyramid measures $120°$. Compute the volume of this pyramid.",
+   "confidence": "high", "notes": "Key derives base edge a=10, giving base area 100 and V=(1/3)*100*5=500/3."
+  },
+  {
+   "task": "16", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 2.4444444444444446, "value_tex": "\\frac{22}{9}", "answer_tex": "C=\\left(\\frac{2}{3},\\frac{16}{9}\\right)",
+   "category": "analiza", "topic_pl": "Optymalizacja pola trapezu", "topic_en": "Optimizing trapezoid area",
+   "difficulty": 5,
+   "summary_pl": "Trapez wpisany w parabolę: max pole - wierzchołek $C$ (suma wsp.)",
+   "summary_en": "Trapezoid under a parabola: max-area vertex C (sum of coords)",
+   "statement_en": "The parabola with equation $y=2-\\frac12x^2$ intersects the Ox axis at points $A=(-2,0)$ and $B=(2,0)$. We consider all isosceles trapezoids ABCD whose longer base is segment AB, and whose shorter base's endpoints C and D lie on the parabola [Figure: downward parabola through A(-2,0) and B(2,0), with an isosceles trapezoid ABCD inscribed, D and C on the parabola above the x-axis]. Express the area of trapezoid ABCD in terms of the first coordinate of vertex C. Compute the coordinates of vertex C for the trapezoid, among those considered, whose area is greatest.",
+   "confidence": "high", "notes": "The area-as-a-function-of-x part is symbolic (not summed); key gives the maximizing vertex C=(2/3, 16/9), sum of its coordinates = 22/9 (suma wspolrzednych C)."
+  }
+ ]
+}

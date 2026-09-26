@@ -1,0 +1,170 @@
+{
+ "exam": {
+  "id": "f2005-R-2006-maj",
+  "formula": "2005",
+  "level": "R",
+  "year": 2006,
+  "session": "maj",
+  "month": "05",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/stories/Matura2006/a2_mat.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/Matura2006/a2_mat_rozw_popr.pdf",
+  "examFile": "f2005-R-2006-maj.pdf",
+  "keyFile": "f2005-R-2006-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure); Arkusz II",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2006-2/maj-2006/",
+  "examPages": 14,
+  "keyPages": 14,
+  "examBytes": 271385,
+  "keyBytes": 271345
+ },
+ "keyHead": "dysleksja\nMiejsce\nna naklejkę\nz kodem szkoły\nEGZAMIN MATURALNY\nZ MATEMATYKI\nArkusz II\nPOZIOM ROZSZERZONY\nARKUSZ II\nCzas pracy 150 minut\nMAJ\nROK 2006\nInstrukcja dla zdającego\n1. Sprawdź,\nczy\narkusz\negzaminacyjny\nzawiera\n14 stron\n(zadania 12 – 21). Ewentualny brak zgłoś przewodniczącemu\nzespołu nadzorującego egzamin.\n2. Rozwiązania zadań i odpowiedzi zamieść w miejscu na to\nprzeznaczonym.\n3. W\nrozwiązaniach\nzadań\nprzedstaw\ntok\nrozumowania\nprowadzący do ostatecznego wyniku.\n4. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym\ntuszem/atramentem.\n5. Nie używaj korektora, a błędne zapisy przekreśl.\n6. Pamiętaj, że zapisy w brudnopisie nie podlegają ocenie.\n7. Obok każdego zadania podana jest maksymalna liczba punktów,\nktórą możesz uzyskać za jego poprawne rozwiązanie.\n8. Możesz korzystać z zestawu wzorów matematycznych, cyrkla\ni linijki oraz kalkulatora.\n9. Wypełnij tę część karty odpowiedzi, którą koduje zdający.\nNie wpisuj żadnych znaków w części przeznaczonej dla\nZa rozwiązanie\negzaminatora.\nwszystkich zadań\n10. Na karcie odpowiedzi wpisz swoją datę urodzenia i PESEL.\nmożna otrzymać\nZamaluj\npola odpowiadające cyfrom numeru PESEL. Błędne\nłącznie\nzaznaczenie otocz kółkiem\ni zaznacz właściwe.\n50 punktów\nŻyczymy powodzenia!\nWypełnia zdający przed\nrozpoczęciem pracy\nKOD\nPESEL ZDAJĄCEGO\nZDAJĄCEGO\n2\nEgzamin maturalny z matematyki\nArkusz II\nZadanie 12. (5 pkt)\n≥\nKorzystając z zasady indukcji matematycznej wykaż, że dla każdej liczby naturalnej\nn\n1\n(\n)\n(\n)(\n)\n(\n)\n2\n2\n2\n⋅⋅\n+ ⋅⋅\n+⋅⋅⋅+\n+\n=\n⎡\n+\n⎤\n−\n2\nprawdziwy jest wzór:\n1 3 (1!)\n2 4\n2!\nn n\n2\nn\n!\nn\n1 !\n1\n.\n⎣\n⎦\nn = :\nSprawdzam, czy wzór jest prawdziwy dla\n1\n( )\n2\nL = ⋅⋅\nP =\n−\n1 3 1!\n2!\n1\n=\nL\nP\nZałożenie indukcyjne:\n(\n)\n(\n)\n2\n2\n⋅⋅\n+\n⋅⋅\n+\n+\n+\n=\n⎡\n+\n⎤\n−\nn ≥.\n2\n2\n1 3 (1!)\n2 4\n2!\n...\nn n\n(\n2)( !)\nn\nn\n1 !\n1\ndla\n1\n⎣\n⎦\nTeza:\n(\n)\n[\n]\n[\n]\n2\n2\n2\n⋅⋅\n+\n⋅⋅\n+\n+\n+\n+\n+\n+\n+\n=\n+\n−\n2\n2\n1 3 (1!)\n2 4\n2!\n...\nn n\n(\n2)( !)\nn\n(\nn\n1)(\nn\n3) (\nn\n1)!\n(\nn\n2)!\n1\nDowód:\nKorzystam z założenia indukcyjnego i otrzymuję\n[\n]\n[\n]\n2\n2\n=\n+\n−+\n+\n+\n+\n=\nL\n(\nn\n1)!\n1\n(\nn\n1)(\nn\n3) (\nn\n1)!\n[\n]\n[\n]\n2\n2\n=\n+\n+\n+\n+\n+\n−.\n(\nn\n1)!\n(\nn\n1)(\nn\n3) (\nn\n1)!\n1\nWyłączam z pierwszych dwóch składników wyrażenia  wspólny czynnik\n[\n]\n2\nn +\n(\n1)!\nprzed nawias:\n] (\n)\n[\n] [\n]\n[\n2\n2\n=\n+\n⋅\n+\n+\n+\n−=\n+\n⋅\n+\n+\n−=\n2\nL\n(\nn\n1)!\n1\n(\nn\n1)(\nn\n3)\n1\n(\nn\n1)!\nn\n4\nn\n4\n1\n[\n] (\n)\n2\n2\n=\n+\n⋅\n+\n−\n(\nn\n1)!\nn\n2\n1.\n+\n+\n=\n+\nKorzystam z równości : (\nn\n1)!(\nn\n2)\n(\nn\n2)!\ni otrzymuję\n[\n]\n[\n]\n2\n2\n=\n+\n+\n−=\n+\n−=\nL\n(\nn\n1)!(\nn\n2)\n1\n(\nn\n2)!\n1\nP\n.\nwniosek: Z zasady indukcji matematycznej wynika, że wzór jest prawdziwy dla\nn ≥.\nkażdej liczby naturalnej\n1\nNr czynności\n12.1.\n12.2.\n12.3.\n12.4.\n12.5.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n3\nArkusz II\nZadanie 13. (5 pkt)\n+\n5\nn\n6\nDany jest ciąg (\n)\n=\n≥\na\n, gdzie\na\ndla każdej liczby naturalnej\nn\n1\n.\nn\nn\n+\n10(\nn\n1)\na) Zbadaj monotoniczność ciągu (\n)\na\n.\nn\nb) Oblicz\nlim\na\n.\nn\n→",
+ "tasks": [
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-maj/12.webp",
+   "size": [
+    950,
+    1460
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (5 pkt)\n≥\nKorzystając z zasady indukcji matematycznej wykaż, że dla każdej liczby naturalnej\nn\n1\n(\n)\n(\n)(\n)\n(\n)\n2\n2\n2\n⋅⋅\n+ ⋅⋅\n+⋅⋅⋅+\n+\n=\n⎡\n+\n⎤\n−\n2\nprawdziwy jest wzór:\n1 3 (1!)\n2 4\n2!\nn n\n2\nn\n!\nn\n1 !\n1\n.\n⎣\n⎦\nArkusz II",
+   "key": "Zadanie 12. (5 pkt)\n≥\nKorzystając z zasady indukcji matematycznej wykaż, że dla każdej liczby naturalnej\nn\n1\n(\n)\n(\n)(\n)\n(\n)\n2\n2\n2\n⋅⋅\n+ ⋅⋅\n+⋅⋅⋅+\n+\n=\n⎡\n+\n⎤\n−\n2\nprawdziwy jest wzór:\n1 3 (1!)\n2 4\n2!\nn n\n2\nn\n!\nn\n1 !\n1\n.\n⎣\n⎦\nn = :\nSprawdzam, czy wzór jest prawdziwy dla\n1\n( )\n2\nL = ⋅⋅\nP =\n−\n1 3 1!\n2!\n1\n=\nL\nP\nZałożenie indukcyjne:\n(\n)\n(\n)\n2\n2\n⋅⋅\n+\n⋅⋅\n+\n+\n+\n=\n⎡\n+\n⎤\n−\nn ≥.\n2\n2\n1 3 (1!)\n2 4\n2!\n...\nn n\n(\n2)( !)\nn\nn\n1 !\n1\ndla\n1\n⎣\n⎦\nTeza:\n(\n)\n[\n]\n[\n]\n2\n2\n2\n⋅⋅\n+\n⋅⋅\n+\n+\n+\n+\n+\n+\n+\n=\n+\n−\n2\n2\n1 3 (1!)\n2 4\n2!\n...\nn n\n(\n2)( !)\nn\n(\nn\n1)(\nn\n3) (\nn\n1)!\n(\nn\n2)!\n1\nDowód:\nKorzystam z założenia indukcyjnego i otrzymuję\n[\n]\n[\n]\n2\n2\n=\n+\n−+\n+\n+\n+\n=\nL\n(\nn\n1)!\n1\n(\nn\n1)(\nn\n3) (\nn\n1)!\n[\n]\n[\n]\n2\n2\n=\n+\n+\n+\n+\n+\n−.\n(\nn\n1)!\n(\nn\n1)(\nn\n3) (\nn\n1)!\n1\nWyłączam z pierwszych dwóch składników wyrażenia  wspólny czynnik\n[\n]\n2\nn +\n(\n1)!\nprzed nawias:\n] (\n)\n[\n] [\n]\n[\n2\n2\n=\n+\n⋅\n+\n+\n+\n−=\n+\n⋅\n+\n+\n−=\n2\nL\n(\nn\n1)!\n1\n(\nn\n1)(\nn\n3)\n1\n(\nn\n1)!\nn\n4\nn\n4\n1\n[\n] (\n)\n2\n2\n=\n+\n⋅\n+\n−\n(\nn\n1)!\nn\n2\n1.\n+\n+\n=\n+\nKorzystam z równości : (\nn\n1)!(\nn\n2)\n(\nn\n2)!\ni otrzymuję\n[\n]\n[\n]\n2\n2\n=\n+\n+\n−=\n+\n−=\nL\n(\nn\n1)!(\nn\n2)\n1\n(\nn\n2)!\n1\nP\n.\nwniosek: Z zasady indukcji matematycznej wynika, że wzór jest prawdziwy dla\nn ≥.\nkażdej liczby naturalnej\n1\nNr czynności\n12.1.\n12.2.\n12.3.\n12.4.\n12.5.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n3\nArkusz II"
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-maj/13.webp",
+   "size": [
+    950,
+    1463
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (5 pkt)\n+\n5\nn\n6\nDany jest ciąg (\n)\n=\n≥\na\n, gdzie\na\ndla każdej liczby naturalnej\nn\n1\n.\nn\nn\n+\n10(\nn\n1)\na) Zbadaj monotoniczność ciągu (\n)\na\n.\nn\nb) Oblicz\nlim\na\n.\nn\n→\n∞\nn\nc) Podaj największą liczbę a i najmniejszą liczbę b takie, że dla każdego n spełniony jest\n≤\n≤\nwarunek\na\na\nb\n.\nn\nArkusz II",
+   "key": "Zadanie 13. (5 pkt)\n+\n5\nn\n6\nDany jest ciąg (\n)\n=\n≥\na\n, gdzie\na\ndla każdej liczby naturalnej\nn\n1\n.\nn\nn\n+\n10(\nn\n1)\na) Zbadaj monotoniczność ciągu (\n)\na\n.\nn\nb) Oblicz\nlim\na\n.\nn\n→\n∞\nn\nc) Podaj największą liczbę a i najmniejszą liczbę b takie, że dla każdego n spełniony jest\n≤\n≤\nwarunek\na\na\nb\n.\nn\na)\n+ −\nAby określić monotoniczność ciągu obliczam różnicę\na\na\n.\nn\n1\nn\n+\n+\n5\nn\n11\n5\nn\n6\n−\n=\n−\n=\na\na\n(\n)\n(\n)\n+\nn\n1\nn\n+\n+\n10\nn\n2\n10\nn\n1\n(\n)(\n) (\n)(\n)\n+\n+\n−\n+\n+\n5\nn\n11\nn\n1\n5\nn\n6\nn\n2\n=\n=\n(\n)(\n)\n+\n+\n10\nn\n1\nn\n2\n2\n+\n+\n+\n−\n2\n−\n−\n−\n5\nn\n5\nn\n11\nn\n11\n5\nn\n10\nn\n6\nn\n12\n=\n=\n(\n)(\n)\n+\n+\n10\nn\n1\nn\n2\n−\n1\n=\n(\n)(\n)\n+\n+\n10\nn\n1\nn\n2\n−\n1\n<\n0\ndla każdej liczby naturalnej, zatem ciąg jest malejący.\n(\n)(\n)\n+\n+\n10\nn\n1\nn\n2\nb)\n6\n+\n5\n+\n+\n5\nn\n6\n5\nn\n6\n1\nn\n=\n=\n=\nlim\nlim\nlim\n+\n+\n10\n10(\nn\n1)\n10\nn\n10\n2\n→∞\n→∞\n→∞\nn\nn\nn\n+\n10\nn\nc)\n≤\nCiąg jest malejący, więc najmniejszą liczbą, która spełnia nierówność\nna\nb\n11\nb =\njest pierwszy wyraz tego ciągu, czyli\n, natomiast największą liczbą\n20\n1\n≤\na =\nspełniającą nierówność\na\na\njest granica tego ciągu, czyli\n.\nn\n2\nNr czynności\n13.1.\n13.2.\n13.3.\n13.4.\n13.5.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n4\nEgzamin maturalny z matematyki\nArkusz II"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-maj/14.webp",
+   "size": [
+    952,
+    2947
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (4 pkt)\n=\n<\n−\nπ 2,\nπ\n>\na) Naszkicuj wykres funkcji\ny\nsin\n2\nx\nw przedziale\n2\n.\nsin\n2\nx\n=\n<\n−\nπ 2,\nπ\n>\nb) Naszkicuj wykres funkcji\ny\nw przedziale\n2\nsin\n2\nx\nsin\n2\nx\n<\ni zapisz, dla których liczb z tego przedziału spełniona jest nierówność\n0\n.\nsin\n2\nx\nArkusz II\nArkusz II",
+   "key": "Zadanie 14. (4 pkt)\n=\n<\n−\nπ 2,\nπ\n>\na) Naszkicuj wykres funkcji\ny\nsin\n2\nx\nw przedziale\n2\n.\nsin\n2\nx\n=\n<\n−\nπ 2,\nπ\n>\nb) Naszkicuj wykres funkcji\ny\nw przedziale\n2\nsin\n2\nx\nsin\n2\nx\n<\ni zapisz, dla których liczb z tego przedziału spełniona jest nierówność\n0\n.\nsin\n2\nx\na)\ny\n6\n5\n4\n3\n2\n1\nx\n-2π\n-π\nπ\n2π\n-1\n-2\n-3\n-4\n-5\n-6\n-7\nb)\nsin2\nx\n=\nWyznaczam dziedzinę funkcji\ny\n:\nsin2\nx\nx ≠π .\nk\nx ≠\nsin2\n0\ndla\n2\nPrzekształcam wzór funkcji:\n>\n⎧\n1\ndla\nsin2\nx\n0\nsin2\nx\n=\n= ⎨−\ny\n<\n1\ndla\nsin2\nx\n0\nsin2\nx\n⎩\nEgzamin maturalny z matematyki\n5\nArkusz II\n⎧\nπ\nπ\nπ\nπ\n⎛\n3\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n3\n⎞\n∈−\nπ\n−\n∪−\nπ\n−\n∪\n∪\nπ\n1\ndla\nx\n2\n,\n,\n0\n,\n,\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎪⎪\n⎝\n2\n⎠\n⎝\n2\n⎠\n⎝\n2\n⎠\n⎝\n2\n⎠\n= ⎨\ny\nπ\nπ\nπ\nπ\n⎛\n3\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n3\n⎞\n⎪−\n∈−\n−\nπ\n∪−\n∪\nπ\n∪\nπ\n1\ndla\nx\n,\n,\n0\n,\n,\n2\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎪\n⎝\n2\n⎠\n⎝\n2\n⎠\n⎝\n2\n⎠\n⎝\n2\n⎠\n⎩\ny\n5\n4\n3\n2\n1\nx\n-2π\n-3π/2\n-π\n-π/2\nπ/2\nπ\n3π/2\n2π\n-1\n-2\n-3\n-4\n-5\nOdp.: Rozwiązaniem nierówności sin2\nx\nx <\n0\nsin2\nπ\nπ\nπ\nπ\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n3\n3\n−\n−\nπ\n∪−\n∪\nπ\n∪\nπ\njest zbiór:\n,\n,0\n,\n,2\n.\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎝\n2\n⎠\n⎝\n2\n⎠\n⎝\n2\n⎠\n⎝\n2\n⎠\nNr czynności\n14.1.\n14.2.\n14.3.\n14.4.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n6\nEgzamin maturalny z matematyki\nArkusz II"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-maj/15.webp",
+   "size": [
+    952,
+    1475
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (4 pkt)\nUczniowie dojeżdżający do szkoły zaobserwowali, że spóźnienie autobusu zależy od tego,\nktóry z trzech kierowców prowadzi autobus. Przeprowadzili badania statystyczne i obliczyli,\nże w przypadku, gdy autobus prowadzi kierowca A, spóźnienie zdarza się w 5% jego kursów,\ngdy prowadzi kierowca B w 20% jego kursów, a gdy prowadzi kierowca C w 50% jego\nkursów. W ciągu 5-dniowego tygodnia nauki dwa razy prowadzi autobus kierowca A, dwa\nrazy kierowca B i jeden raz kierowca C. Oblicz prawdopodobieństwo spóźnienia się\nszkolnego autobusu w losowo wybrany dzień nauki.\nArkusz II",
+   "key": "Zadanie 15. (4 pkt)\nUczniowie dojeżdżający do szkoły zaobserwowali, że spóźnienie autobusu zależy od tego,\nktóry z trzech kierowców prowadzi autobus. Przeprowadzili badania statystyczne i obliczyli,\nże w przypadku, gdy autobus prowadzi kierowca A, spóźnienie zdarza się w 5% jego kursów,\ngdy prowadzi kierowca B w 20% jego kursów, a gdy prowadzi kierowca C w 50% jego\nkursów. W ciągu 5-dniowego tygodnia nauki dwa razy prowadzi autobus kierowca A, dwa\nrazy kierowca B i jeden raz kierowca C. Oblicz prawdopodobieństwo spóźnienia się\nszkolnego autobusu w losowo wybrany dzień nauki.\nWprowadzam następujące oznaczenia zdarzeń:\nA - autobus prowadzi kierowca A,\nB - autobus prowadzi kierowca B,\nC - autobus prowadzi kierowca C,\nS - autobus szkolny spóźnia się,\nM - autobus przyjeżdża punktualnie.\nZdarzenia A, B, C spełniają założenia twierdzenia o prawdopodobieństwie\ncałkowitym, więc:\n( )\n(\n)\n( )\n(\n)\n( )\n(\n)\n( )\n=\n⋅\n+\n⋅\n+\n⋅\nP S\nP S A\n|\nP A\nP S B\n|\nP B\nP S C\n|\nP C\n.\n2\n1\n5\n5\n2\n5\nA\nB\nC\n19\n4\n1\n1\n1\n1\n20\n5\n2\n2\n20\n5\nS\nM\nS\nM\nS\nM\nObliczam prawdopodobieństwo:\n1\n2\n1 2\n1 1\n1\nP S =\n⋅\n+\n⋅\n+\n⋅\n=\n( )\n.\n20 5\n5 5\n2 5\n5\nNr czynności\n15.1.\n15.2.\n15.3.\n15.4.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n7\nArkusz II"
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2006-maj/16.webp",
+   "size": [
+    950,
+    1472
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (3 pkt)\nObiekty A i B leżą po dwóch stronach jeziora. W terenie dokonano pomiarów odpowiednich\nkątów i ich wyniki przedstawiono na rysunku. Odległość między obiektami B i C jest równa\n400 m. Oblicz odległość w linii prostej między obiektami A i B i podaj wynik, zaokrąglając\ngo do jednego metra.\nArkusz II",
+   "key": "Zadanie 16. (3 pkt)\nObiekty A i B leżą po dwóch stronach jeziora. W terenie dokonano pomiarów odpowiednich\nkątów i ich wyniki przedstawiono na rysunku. Odległość między obiektami B i C jest równa\n400 m. Oblicz odległość w linii prostej między obiektami A i B i podaj wynik, zaokrąglając\ngo do jednego metra.\n,  ponieważ suma kątów w trójkącie jest równa 180D .\nCAB =\nD\n)\n20\nDo wyznaczenia szukanej odległości stosuję twierdzenie sinusów:\nAB\n400\n=\nD .\nD\nsin30\nsin20\nObliczam odległość obiektu A od obiektu B:\n200\n200\nAB =\n≈\n≈\n584,8\nD\n0,342\nsin20\nOdp.: Odległość obiektów w linii prostej jest równa 585 metrów.\nNr czynności\n16.1.\n16.2.\n16.3.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n8\nEgzamin maturalny z matematyki\nArkusz II"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-R-2006-maj/17.webp",
+   "size": [
+    950,
+    1475
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (6 pkt)\nNa okręgu o promieniu r opisano trapez równoramienny ABCD o dłuższej podstawie AB\nCS\n2\nSB =\ni krótszej CD. Punkt styczności S dzieli ramię BC tak, że\n.\n5\na) Wyznacz długość ramienia tego trapezu.\nb) Oblicz cosinus\n)\nCBD\n.\nArkusz II",
+   "key": "Zadanie 17. (6 pkt)\nNa okręgu o promieniu r opisano trapez równoramienny ABCD o dłuższej podstawie AB\nCS\n2\nSB =\ni krótszej CD. Punkt styczności S dzieli ramię BC tak, że\n.\n5\na) Wyznacz długość ramienia tego trapezu.\nb) Oblicz cosinus\n)\nCBD\n.\nD\nE\nC\nS\nO\nB\nF\nA\nG\nPrzyjmuję oznaczenia jak na rysunku.\nCS\n2\nSB =\na) Wykorzystując proporcję\nwprowadzam oznaczenia:\n5\n=\n=\n=\n+\n=\nCS\n2\nx\n,\nSB\n5\nx\n, stąd\nBC\n2\nx\n5\nx\n7\nx\n.\nΔ\n≡Δ\n=\n=\nOSC\nOEC\nwięc\nEC\nCS\n2\nx\n.\n=\nDC\n4\nx\n- z własności trapezu równoramiennego.\nKorzystając z własności czworokąta opisanego na okręgu otrzymuję:\n+\n=\n⋅\n=\n=\nAB\nCD\n2\nBC\n14\nx\n, stąd\nAB\n10\nx\n.\n=\nZ własności trapezu równoramiennego wynika, że\nFB\n3\nx\n.\nZ twierdzenia Pitagorasa dla ΔFBC otrzymuję:\n10\n, czyli (\n)\n(\n)\n(\n)\n2\n2\n2\n2\n2\n2\n2\n2\n+\n=\n+\n=\n=\n=\nCF\nFB\nCB\n2\nr\n3\nx\n7\nx\n,\nr\n10\nx\n, stąd\nx\nr\n,\n10\n7 10\n4 10\n=\n=\nwięc\nBC\nr\n,\nDC\nr\n.\n10\n10\nEgzamin maturalny z matematyki\n9\nArkusz II\nb)\nWyznaczam długość przekątnej BD z trójkąta prostokątnego BDG, w którym\n7 10\n=\nGB\nr\n:\n10\n2\n2\n2\n+\n=\nGB\nGD\nDB\n,\n2\n2\n+\n2\n490\nr\n490\nr\n400\nr\n890\n2\n=\n+\n2\n=\n=\nDB\n4\nr\n, stąd\nBD\nr\n.\n100\n100\n10\nStosując twierdzenie cosinusów w trójkącie BCD otrzymuję:\n2\n2\n2\n=\n+\n−\n⋅\n⋅\n⋅\nDC\nBC\nDB\n2\nBC\nDB\ncos\n)\nCBD\n,\n2\n2\n2\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n4 10\n7 10\n890\n7 10\n890\n=\n+\n−\n⋅\n⋅\n⋅\nr\nr\nr\n2\nr\nr\ncos\n)\nCBD\n.\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n10\n10\n10\n10\n10\n⎝\n⎠\n⎝\n⎠\n⎝\n⎠\n61 89\nCBD =\nOdp.:\ncos\n)\n.\n623\nNr czynności\n17.1.\n17.2.\n17.3.\n17.4.\n17.5.\n17.6.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n10\nEgzamin maturalny z matematyki\nArkusz II"
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-R-2006-maj/18.webp",
+   "size": [
+    950,
+    1462
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (7 pkt)\nWśród wszystkich graniastosłupów prawidłowych trójkątnych o objętości równej 2 m3\nistnieje taki, którego pole powierzchni całkowitej jest najmniejsze. Wyznacz długości\nkrawędzi tego graniastosłupa.\nArkusz II",
+   "key": "Zadanie 18. (7 pkt)\nWśród wszystkich graniastosłupów prawidłowych trójkątnych o objętości równej 2 m3\nistnieje taki, którego pole powierzchni całkowitej jest najmniejsze. Wyznacz długości\nkrawędzi tego graniastosłupa.\nWprowadzam następujące oznaczenia:\na – długość krawędzi podstawy, h – wysokość graniastosłupa.\nDla tak wprowadzonych oznaczeń wzory na objętość i pole powierzchni\ncałkowitej graniastosłupa są następujące:\n2 3\n2 3\na\na\n=\n=\n+\nV\nh\n,\nP\n3\nah\n.\n4\n2\n2 3\na\n8 3\nh =\n=\nZ równania\n2\nwyznaczam niewiadomą h:\nh\n.\n2\n4\n3\na\nPo podstawieniu h do wzoru na pole powierzchni całkowitej graniastosłupa\notrzymuję funkcję:\n2\n3\n+\na\n3\n8 3\na\n3\n16 3\n3\n⎛\n16\n⎞\n(\n)\n=\n+\n⋅\n=\n=\n2\n+\na∈\n∞.\nP a\n( )\n3\na\na\n,\n0,\n⎜\n⎟\n2\n2\n3\na\n2\na\n2\n⎝\na\n⎠\n3\n−\n3 a\n8\n(\n)\n′\n=\n⋅\na∈\n∞.\nObliczam pochodną funkcji:\nP a\n( )\n,\n0,\n2\na\na =\nDla\n2\npochodna funkcji przyjmuje wartość 0.\n(0,2\n)\n′\n′\n≤\na∈\n≥\na∈\n∞, więc w punkcie\na =\nP a\n( )\n0\ndla\ni\nP a\n( )\n0\ndla\n2,\n2\nfunkcja P osiąga minimum i jednocześnie wartość najmniejszą, bo funkcja P\nw przedziale (0,2 jest malejąca i w przedziale\n)\n2,∞ jest rosnąca.\n2 3\na =\nh =\nDla\n2\nwysokość\n.\n3\n3\nOdp.: Wymiary graniastosłupa o objętości\n2 m , dla którego pole powierzchni\n2 3\n=\n=\ncałkowitej jest najmniejsze są następujące:\na\n2\nm\n,\nh\nm\n.\n3\nNr czynności\n18.1.\n18.2.\n18.3.\n18.4.\n18.5.\n18.6.\n18.7.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n11\nArkusz II"
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-R-2006-maj/19.webp",
+   "size": [
+    950,
+    1474
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (7 pkt)\n(\n)\nNieskończony\nciąg\ngeometryczny\na\njest\nzdefiniowany\nwzorem\nn\n=\n=\n⋅\n−\n≥\nrekurencyjnym:\na\n,2\na\na\nlog\n(\nk\n2\n),\ndla każdej liczby naturalnej\nn\n1\n. Wszystkie\n+\n1\nn\n1\nn\n2\nwyrazy tego ciągu są różne od zera. Wyznacz wszystkie wartości parametru k, dla których\nistnieje suma wszystkich wyrazów nieskończonego ciągu (\n)\na\n.\nn\nArkusz II",
+   "key": "Zadanie 19. (7 pkt)\n(\n)\nNieskończony\nciąg\ngeometryczny\na\njest\nzdefiniowany\nwzorem\nn\n=\n=\n⋅\n−\n≥\nrekurencyjnym:\na\n,2\na\na\nlog\n(\nk\n2\n),\ndla każdej liczby naturalnej\nn\n1\n. Wszystkie\n+\n1\nn\n1\nn\n2\nwyrazy tego ciągu są różne od zera. Wyznacz wszystkie wartości parametru k, dla których\nistnieje suma wszystkich wyrazów nieskończonego ciągu (\n)\na\n.\nn\n(\n)\nk −\n−\n>\n⇔\n>\nWyrażenie:\nlog\n2\njest określone, gdy\nk\n2\n0\nk\n2\n.\n2\n(\n)\n=\n−\nZ definicji ciągu geometrycznego wynika, że iloraz\nq\nlog\nk\n2\n.\n2\n(\n)\n≠\n⇔\n−\n≠\nk ≠\nq\n0\nlog\nk\n2\n0\nczyli\n3\n.\n2\nAby istniała suma wszystkich wyrazów danego ciągu geometrycznego, iloraz\n(\n)\n<\n⇔\n−\n< .\nciągu musi spełniać warunek\nq\n1\nlog\nk\n2\n1\n2\n(\n)\nk −\n< ,\nRozwiązuję nierówność:\nlog\n2\n1\n2\n(\n)\n(\n)\nk −\n> −  i\nk −\n<\nlog\n2\n1\nlog\n2\n1\n2\n2\n1\n(\n)\n(\n)\nk −\n>\nk −\n<\nlog\n2\nlog 2\ni\nlog\n2\nlog 2\n2\n2\n2\n2\n1\nk −\n>\nk −\n<\n2\ni\n2\n2\n2\n5\nk >\nk <\ni\n4\n2\nRozwiązaniem nierówności są liczby rzeczywiste należące do przedziału 5 ,4\n⎛\n⎞\n.\n⎜\n⎟\n⎝\n2\n⎠\nOdp.: Suma wszystkich wyrazów danego ciągu o wszystkich wyrazach różnych\n⎛\n⎞\n5 ,3\n(\n)\n∈\n∪\nod zera istnieje dla\nk\n3,4\n.\n⎜\n⎟\n⎝\n2\n⎠\nNr czynności\n19.1.\n19.2.\n19.3.\n19.4.\n19.5.\n19.6.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n2\n1\negzaminator! Uzyskana liczba pkt\n12\nEgzamin maturalny z matematyki\nArkusz II"
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-maj/20.webp",
+   "size": [
+    956,
+    1472
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (4 pkt)\n−\n2\n−\n+\n2\nx\n3\nx\n2\n⎛\n⎞\n1\n2 5\n−\n3x\nx\n=\n= ⎜\nDane są funkcje\nf x\n( )\ni\ng x\n( )\n.\n⎟\n⎝\n9\n⎠\nOblicz, dla których argumentów x wartości funkcji  f  są większe od wartości funkcji .g\nArkusz II",
+   "key": "Zadanie 20. (4 pkt)\n−\n2\n−\n+\n2\nx\n3\nx\n2\n⎛\n⎞\n1\n2 5\n−\n3x\nx\n=\n= ⎜\nDane są funkcje\nf x\n( )\ni\ng x\n( )\n.\n⎟\n⎝\n9\n⎠\nOblicz, dla których argumentów x wartości funkcji  f  są większe od wartości funkcji .g\n2\n−\n2\n+\n−\nx\n5\nx\n>\n4\nx\n6\nx\n4\nWarunki zadania są równoważne nierówności:\n3\n3\n.\n−\n2\n−\n+\n2\nx\n3\nx\n2\n⎛\n1\n⎞\n2\n−\nx\n5\nx\n> ⎜\nRozwiązuję nierówność:\n3\n⎟\n⎝\n9\n⎠\n(\n)\n−\n2\n−\n+\n2\nx\n3\nx\n2\n2\n−\n−\nx\n5\nx\n>\n2\n3\n3\n2\n−\n2\n+\n−\nx\n5\nx\n>\n4\nx\n6\nx\n4\n3\n3\nKorzystając z monotoniczności funkcji wykładniczej otrzymuję nierówność\nrównoważną:\n2\n−\n>\n2\n+\n−\nx\n5\nx\n4\nx\n6\nx\n4\n−\n2\n−\n+\n>\n3\nx\n11\nx\n4\n0\n−\n+\n11 13\n1\n11 13\nΔ =\n=\n=\n=\n= −\n169\n,\nx\n,\nx\n4\n.\n1\n2\n−\n−\n6\n3\n6\n⎛\n⎞\n1\n−\nOdp.: Rozwiązaniem nierówności jest przedział:\n4,3\n.\n⎜\n⎟\n⎝\n⎠\nNr czynności\n20.1.\n20.2.\n20.3.\n20.4.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n13\nArkusz II"
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-maj/21.webp",
+   "size": [
+    956,
+    2876
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (5 pkt)\nW trakcie badania przebiegu zmienności funkcji ustalono, że funkcja  f  ma następujące\nwłasności:\n– jej dziedziną jest zbiór wszystkich liczb rzeczywistych,\n– f  jest funkcją nieparzystą,\n– f  jest funkcją ciągłą\noraz:\n(\n)\n′\n<\nx∈−\n−\nf\n( )\nx\n0\ndla\n8, 3\n,\n(\n)\n′\n>\nx∈−\n−\nf\n( )\nx\n0\ndla\n3, 1\n,\n(\n)\n′\n<\nx∈−\nf\n( )\nx\n0\ndla\n1,0\n,\n′\n′\n−\n=\n−\n=\nf\n( 3)\nf\n( 1)\n0,\n−\n=\nf\n( 8)\n0,\n−\n= −\nf\n( 3)\n2,\n−\n=\nf\n( 2)\n0,\n−\n=\nf\n( 1)\n1.\nW prostokątnym układzie współrzędnych na płaszczyźnie naszkicuj wykres funkcji f\n−\nw przedziale\n8,8\n, wykorzystując podane powyżej informacje o jej własnościach.\ny\n1\nx\n0\n1\nArkusz II",
+   "key": "Zadanie 21. (5 pkt)\nW trakcie badania przebiegu zmienności funkcji ustalono, że funkcja  f  ma następujące\nwłasności:\n– jej dziedziną jest zbiór wszystkich liczb rzeczywistych,\n– f  jest funkcją nieparzystą,\n– f  jest funkcją ciągłą\noraz:\n(\n)\n′\n<\nx∈−\n−\nf\n( )\nx\n0\ndla\n8, 3\n,\n(\n)\n′\n>\nx∈−\n−\nf\n( )\nx\n0\ndla\n3, 1\n,\n(\n)\n′\n<\nx∈−\nf\n( )\nx\n0\ndla\n1,0\n,\n′\n′\n−\n=\n−\n=\nf\n( 3)\nf\n( 1)\n0,\n−\n=\nf\n( 8)\n0,\n−\n= −\nf\n( 3)\n2,\n−\n=\nf\n( 2)\n0,\n−\n=\nf\n( 1)\n1.\nW prostokątnym układzie współrzędnych na płaszczyźnie naszkicuj wykres funkcji f\n−\nw przedziale\n8,8\n, wykorzystując podane powyżej informacje o jej własnościach.\ny\n7\n6\n5\n4\n3\n2\n1\nx\n-9\n-8\n-7\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n-1\n-2\n-3\n-4\n-5\n-6\n-7\nNr czynności\n21.1.\n21.2.\n21.3.\nWypełnia\nMaks. liczba pkt\n1\n2\n2\negzaminator! Uzyskana liczba pkt\n14\nEgzamin maturalny z matematyki\nArkusz II\nBRUDNOPIS"
+  }
+ ]
+}

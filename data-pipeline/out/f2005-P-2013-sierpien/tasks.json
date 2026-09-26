@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2013-sierpien",
+  "formula": "2005",
+  "level": "P",
+  "year": 2013,
+  "session": "sierpien",
+  "month": "08",
+  "code": "MMA-P1_1P-134",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2013-sierpien-poprawkowa-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2013-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2005-P-2013-sierpien.pdf",
+  "keyFile": "f2005-P-2013-sierpien-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin poprawkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 31,
+  "keyPages": 15,
+  "examBytes": 1817342,
+  "keyBytes": 751323
+ },
+ "keyHead": "Klucz odpowiedzi do zadań zamkniętych\noraz\nschemat oceniania\nsierpień 2013\nPoziom Podstawowy\n2\nSchemat oceniania sierpień\nPoziom podstawowy\nKlucz punktowania zadań zamkniętych\nNr zadania\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nOdpowiedź\nD A B D C B B C C\nB\nA\nC\nD\nD\nC\nB\nC\nA\nD\nD\nC\nB\nD\nB\nB\nZadanie 26. (2 pkt)\n\n2\n\nRozwiąż nierówność\n3\nx\nx\n0\n.\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania:\n2 \n\nZnajdujemy pierwiastki trójmianu kwadratowego\nx\n3\nx\n:\n podajemy je bezpośrednio, np. zapisując pierwiastki trójmianu lub postać iloczynową\ntrójmianu lub zaznaczając na wykresie\n\n\n1 \n2 \n\n\n,\nlub\nx\n3\nx\n0\nx\nx\n3\nalbo\n obliczamy wyróżnik tego trójmianu:\n\n\n\n\n3\n3\n3\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n. Stąd\nx\n3\noraz\nx\n0\n.\n9\n4\n1\n0\n9\n1\n2\n\n\n2\n2\nDrugi etap rozwiązania:\nx\n\n\nPodajemy zbiór rozwiązań nierówności:\n0\n3\nlub\n,0\n3\nlub\nx\n,0\n3\n. np. odczytując\n2 \ngo ze szkicu wykresu funkcji  \n\n\nf\nx\nx\n3\nx\n.\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................1 pkt\ngdy:\n zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\n\n\n\n\no rozłoży trójmian kwadratowy na czynniki liniowe, np.\nx\nx\n3\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n1 \n2 \no obliczy lub poda pierwiastki trójmianu kwadratowego\nx\n3\nx\n0\ni na tym\n,\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n2 \n\n\n\no zaznaczy na wykresie miejsca zerowe funkcji\nf\nx\nx\n3\nx\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n3\nSchemat oceniania sierpień\nPoziom podstawowy\nalbo\n realizując pierwszy etap popełni błąd (ale otrzyma dwa różne pierwiastki)\ni konsekwentnie do tego rozwiąże nierówność, np. popełni błąd rachunkowy przy\nobliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do\npopełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  ............................................................................................................2 pkt\ngdy:\n poda zbiór rozwiązań nierówności :\n\n\n\nx\n0 i\nx\n3\n,0\n3\nlub\nx\n,0\n3\nlub\nalbo\n sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\n\n\nnierówności w postaci:\nx\n,0\nx\n3\nalbo\n poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów.\n0\n3\nx\nKryteria\noceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nx \nx \n0\n3\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy pierwiastki trójmianu\n,\n1\n2\nx\n\ni zapisze, np.\n0, 3\n, popełniając tym samym błąd przy przepisywaniu jednego\nz pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\nx\nnierówności w postaci\n3,0\n, to otrzymuje 2 punkty.\nZadanie 27. (2 pkt)\n\n\n\n\nx\n3\n6\nx\n2\n12\nx\n72\n0\nRozwiąż równanie\n.\nI sposób rozwiązania (metoda grupowania)\nPrzedstawiamy lewą stronę równania w postaci iloczynowej stosując metodę grupowania\nwyrazów:\n\n\n\n\n\n\n\n\n2\n\n\n\n\n2\n\n\n2\n\n\nx\nx\n6\n12\nx\n6\n0\nx x\n12\n6\nx\n12\n0\nlub\n\n\n\n\n\n\n2\n.\nx\n6\nx\n12\n0\nx \nx \nx \n2 3\n2 3\nStąd\n6\nlub\nlub\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .............................................................................................................1 pkt\n\n\ngdy zapisze lewa stronę równania w postaci iloczynu, np. \n\n2\n\nx\n6\nx\n12\n,\n\n\n\n\n\n\n\n, przy czym postać ta musi być otrzymana w sposób poprawny,\nx\n6\nx\n12\nx\n12\ni na tym poprzestanie lub dalej popełni błędy.\n4\nSchemat oceniania sierpień\nPoziom podstawowy\nZdający otrzymuje .............................................................................................................2 pkt\nx \nx \nx \ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\n6\nlub\n2 3\nlub\n2 3\n.\nII sposób rozwiązania (metoda dzielenia)\n\n\n\n3\n2\nStwierdzamy, że liczba 6 jest pierwiastkiem wielomianu\nx\n6\nx\n12\nx\n72\n. Dzielimy\n. Otrzymujemy iloraz \n\nprzez dwumian \n\n\n\n\nx \nx\n3\n6\nx\n2\n12\nx",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/1.webp",
+   "size": [
+    950,
+    400
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\n\n\nWskaż rysunek, na którym przedstawiony jest zbiór rozwiązań nierówności 2(3\n)x\nx\n.\nA.\nx\n2\n4\nB.\nx\n4\n2\nC.\nx\n4\nD.\nx\n2",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/2.webp",
+   "size": [
+    950,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\nGdy od 17% liczby 21 odejmiemy 21% liczby 17, to otrzymamy\n4\nC. 3,57\nA. 0\nB.\n100\nD. 4",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/3.webp",
+   "size": [
+    950,
+    179
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n\n35\n25\nLiczba\njest równa\n5\n55\n45\n3\n65\nA.\n5\nB.\n5\nC.\n5\n5\nD.\n5",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/4.webp",
+   "size": [
+    950,
+    179
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\n\n\nRozwiązaniem układu równań 3\n\nx\n5\ny\n0\njest para liczb \n\n,x y takich, że\n\n\n\n2\nx\ny\n14\n\n\n\n\n\n\n\n\n\nx\n0\ni\ny\n0\nx\n0\ni\ny\n0\nx\n0\ni\ny\n0\nx\n0\ni\ny\n0\nA.\nB.\nC.\nD.",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/5.webp",
+   "size": [
+    950,
+    195
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\n2\nx\n\nx\nx . Wartość funkcji f dla argumentu\nFunkcja f jest określona wzorem\nf\nx\ndla\n1\n\n1\n\nx\n2\njest równa\n\n\nA.  2\nB.  4\nC.  4\nD.  2",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/6.webp",
+   "size": [
+    950,
+    151
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\n\n\n\n\n\n\nLiczby\nrzeczywiste\na b c\n, ,\nspełniają\nwarunki:\n,\ni\n.\na\nb\n3\nb\nc\n4\nc\na\n5\n\n\nWtedy suma a\nb\nc\njest równa\nA. 20\nB. 6\nC. 4\nD. 1",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/7.webp",
+   "size": [
+    950,
+    186
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\n2\n4\n\n\nProstą równoległą do prostej o równaniu\ny\nx\njest prosta opisana równaniem\n3\n3\n2\n4\n2\n4\n3\n4\n3\n4\n\n\n\n\n\n\n\n\nA.\ny\nx\nB.\ny\nx\nC.\ny\nx\nD.\ny\nx\n3\n3\n3\n3\n2\n3\n2\n3",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/8.webp",
+   "size": [
+    950,
+    116
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\n\n\n\nDla każdych liczb rzeczywistych a, b wyrażenie\na\nb\nab\n1\njest równe\nA. \n\n\nB. \n\n\nC. \n\n\nD. \n\n\n\n\n\n\n\n\n\n\na\n1\nb\n1\n1\nb\n1\na\na\n1\nb\n1\na\nb\n1\na",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/9.webp",
+   "size": [
+    950,
+    125
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\n\n\n\n\n2\nWierzchołek paraboli o równaniu\ny\n(\nx\n1)\n2\nc\nleży na prostej o równaniu\ny\n6\n. Wtedy\n\n\n\n\n\n\nA.\nc\n6\nB.\nc\n3\nC.\nc\n3\nD.\nc\n6",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/10.webp",
+   "size": [
+    950,
+    121
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\n\nLiczba\nlog 100\nlog 50\njest równa\n2\n2\nlog 50\nB. 1\nC. 2\nlog 5000\nA.\nD.\n2\n2",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/11.webp",
+   "size": [
+    950,
+    139
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\n\n\n2\n\n\nWielomian\nW x\n( )\n3\nx\n2\n2\njest równy wielomianowi\n\n\n\n\nx \nx \n9\nx\n4\n12\nx\n2\n4\n9\nx\n4\n12\nx\n2\n4\n9\n4\n4\n9\n4\n4\nA.\nB.\nC.\nD.",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/12.webp",
+   "size": [
+    950,
+    466
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\nZ prostokąta ABCD o obwodzie 30 wycięto trójkąt równoboczny AOD o obwodzie 15\n(tak jak a rysunku). Obwód zacieniowanej figury jest równy\nD\nC\nO\nA\nB\nA. 25\nB. 30\nC. 35\nD. 40",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/13.webp",
+   "size": [
+    950,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nx \nLiczby 3\n4\n, 8, 2 w podanej kolejności są pierwszym, drugim i trzecim wyrazem ciągu\ngeometrycznego. Wtedy\nx \nx \nx \nx \nA.\n6\nB.\n0\nC.\n6\nD.\n12",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/14.webp",
+   "size": [
+    950,
+    177
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\n\n\n\n\n\n\nS \n\n\n\n. Zatem\nPunkt\n4,1\njest środkiem odcinka AB , gdzie\nA\na\n,0\ni\nB\na\n3,2\n1\n5\na \na \na \na \nA.\n0\nB.\nC.\n2\nD.\n2\n2",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/15.webp",
+   "size": [
+    950,
+    119
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\nIle jest wszystkich liczb naturalnych trzycyfrowych podzielnych przez 5?\nA. 90\nB. 100\nC. 180\nD. 200",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/16.webp",
+   "size": [
+    950,
+    454
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nPunkt O jest środkiem okręgu o średnicy AB (tak jak na rysunku). Kąt  ma miarę\nB\n\nC\nO\n100\nA\nA. 40\nB. 50\nC. 60\nD. 80",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/17.webp",
+   "size": [
+    950,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\nNajdłuższa przekątna sześciokąta foremnego ma długość 8. Wówczas pole koła opisanego na\ntym sześciokącie jest równe\nA. 4\nB. 8\n\n\nC.\nD.\n16\n64",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/18.webp",
+   "size": [
+    950,
+    127
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nPole równoległoboku o bokach długości 4 i 12 oraz kącie ostrym 30 jest równe\nA. 24\nB. 12 3\nC. 12\nD. 6 3",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/19.webp",
+   "size": [
+    950,
+    145
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nLiczba wszystkich krawędzi graniastosłupa jest równa 24. Wtedy liczba wszystkich jego\nwierzchołków jest równa\nA. 6\nB. 8\nC. 12\nD. 16",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/20.webp",
+   "size": [
+    950,
+    118
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\nObjętość walca o wysokości 8 jest równa 72. Promień podstawy tego walca jest równy\nA. 9\nB. 8\nC. 6\nD. 3",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/21.webp",
+   "size": [
+    951,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\nLiczby 7,\na\n, 49\nw podanej kolejności tworzą ciąg arytmetyczny. Wtedy a jest równe\nA. 14\nB. 21\nC. 28\nD. 42",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/22.webp",
+   "size": [
+    951,
+    134
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\nCiąg \n\n\n\n2\nn . Który wyraz tego ciągu jest równy 6?\nna\njest określony wzorem\nna\nn\nn\n, dla\n1\nA. drugi\nB. trzeci\nC. szósty\nD. trzydziesty",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/23.webp",
+   "size": [
+    951,
+    167
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nRzucamy dwa razy symetryczną sześcienną kostką do gry. Prawdopodobieństwo\ndwukrotnego otrzymania pięciu oczek jest równe\nA. 1\n1\n1\n1\n6\nB.\n12\nC.\n18\nD.\n36",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/24.webp",
+   "size": [
+    951,
+    206
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\n3\nKąt  jest ostry i\n jest równa\n\n2cos\n2\n1\nsin\n.  Wtedy wartość wyrażenia\n3\n1\n5\nB.\n3\nC.\n9\nA. 0\nD. 1",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-sierpien/25.webp",
+   "size": [
+    951,
+    715
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\n\n\nNa rysunku przedstawiono wykres funkcji\ny\nf x\n.\ny\n5\n4\n3\n2\n1\nx\n-4\n-2\n-1\n0\n-3\n1\n2\n3\n4\n5\n-1\n-2\n-3\n\nNajwiększa wartość funkcji f w przedziale\n1,1\njest równa\nA. 4\nB. 3\nC. 2\nD. 1",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-sierpien/26.webp",
+   "size": [
+    947,
+    80
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\n2 \nx\nRozwiąż nierówność\n3\nx\n0\n.",
+   "key": "Zadanie 26. (2 pkt)\n\n2\n\nRozwiąż nierówność\n3\nx\nx\n0\n.\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania:\n2 \n\nZnajdujemy pierwiastki trójmianu kwadratowego\nx\n3\nx\n:\n podajemy je bezpośrednio, np. zapisując pierwiastki trójmianu lub postać iloczynową\ntrójmianu lub zaznaczając na wykresie\n\n\n1 \n2 \n\n\n,\nlub\nx\n3\nx\n0\nx\nx\n3\nalbo\n obliczamy wyróżnik tego trójmianu:\n\n\n\n\n3\n3\n3\n3\n\n\n\n\n\n\n\n\n\n\n\n\n\n. Stąd\nx\n3\noraz\nx\n0\n.\n9\n4\n1\n0\n9\n1\n2\n\n\n2\n2\nDrugi etap rozwiązania:\nx\n\n\nPodajemy zbiór rozwiązań nierówności:\n0\n3\nlub\n,0\n3\nlub\nx\n,0\n3\n. np. odczytując\n2 \ngo ze szkicu wykresu funkcji  \n\n\nf\nx\nx\n3\nx\n.\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................1 pkt\ngdy:\n zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\n\n\n\n\no rozłoży trójmian kwadratowy na czynniki liniowe, np.\nx\nx\n3\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n1 \n2 \no obliczy lub poda pierwiastki trójmianu kwadratowego\nx\n3\nx\n0\ni na tym\n,\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n2 \n\n\n\no zaznaczy na wykresie miejsca zerowe funkcji\nf\nx\nx\n3\nx\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n3\nSchemat oceniania sierpień\nPoziom podstawowy\nalbo\n realizując pierwszy etap popełni błąd (ale otrzyma dwa różne pierwiastki)\ni konsekwentnie do tego rozwiąże nierówność, np. popełni błąd rachunkowy przy\nobliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do\npopełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  ............................................................................................................2 pkt\ngdy:\n poda zbiór rozwiązań nierówności :\n\n\n\nx\n0 i\nx\n3\n,0\n3\nlub\nx\n,0\n3\nlub\nalbo\n sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\n\n\nnierówności w postaci:\nx\n,0\nx\n3\nalbo\n poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów.\n0\n3\nx\nKryteria\noceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nx \nx \n0\n3\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy pierwiastki trójmianu\n,\n1\n2\nx\n\ni zapisze, np.\n0, 3\n, popełniając tym samym błąd przy przepisywaniu jednego\nz pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\nx\nnierówności w postaci\n3,0\n, to otrzymuje 2 punkty."
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-sierpien/27.webp",
+   "size": [
+    946,
+    81
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\n\n\n\n\nx\n3\n6\nx\n2\n12\nx\n72\n0\nRozwiąż równanie\n.",
+   "key": "Zadanie 27. (2 pkt)\n\n\n\n\nx\n3\n6\nx\n2\n12\nx\n72\n0\nRozwiąż równanie\n.\nI sposób rozwiązania (metoda grupowania)\nPrzedstawiamy lewą stronę równania w postaci iloczynowej stosując metodę grupowania\nwyrazów:\n\n\n\n\n\n\n\n\n2\n\n\n\n\n2\n\n\n2\n\n\nx\nx\n6\n12\nx\n6\n0\nx x\n12\n6\nx\n12\n0\nlub\n\n\n\n\n\n\n2\n.\nx\n6\nx\n12\n0\nx \nx \nx \n2 3\n2 3\nStąd\n6\nlub\nlub\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .............................................................................................................1 pkt\n\n\ngdy zapisze lewa stronę równania w postaci iloczynu, np. \n\n2\n\nx\n6\nx\n12\n,\n\n\n\n\n\n\n\n, przy czym postać ta musi być otrzymana w sposób poprawny,\nx\n6\nx\n12\nx\n12\ni na tym poprzestanie lub dalej popełni błędy.\n4\nSchemat oceniania sierpień\nPoziom podstawowy\nZdający otrzymuje .............................................................................................................2 pkt\nx \nx \nx \ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\n6\nlub\n2 3\nlub\n2 3\n.\nII sposób rozwiązania (metoda dzielenia)\n\n\n\n3\n2\nStwierdzamy, że liczba 6 jest pierwiastkiem wielomianu\nx\n6\nx\n12\nx\n72\n. Dzielimy\n. Otrzymujemy iloraz \n\nprzez dwumian \n\n\n\n\nx \nx\n3\n6\nx\n2\n12\nx\n72\n6\nx \n2\nwielomian\n12\n.\n\n\n\n\n\nZapisujemy równanie w postaci \n. Stąd \n\n\n\n\n\n\n\nx\n6\nx\n2\n12\n0\nx\n6\nx\n2 3\nx\n2 3\n0\nx \nx \nx \n12\n12\nzatem\n6\nlub\nlub\n.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .............................................................................................................1 pkt\n, otrzyma iloraz \n\nprzez dwumian \n\n\n\n\nx \nx\n3\n6\nx\n2\n12\nx\n72\n6\nx \n2\ngdy podzieli wielomian\n12\ni na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje .............................................................................................................2 pkt\nx \nx \nx \n12\n12\ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\n6\nlub\nlub"
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-sierpien/28.webp",
+   "size": [
+    947,
+    111
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\n\n\n\n. Oblicz sin\ncos\nKąt  jest ostry i tg\n\n2\n.\n\n\n\nsin\ncos",
+   "key": "Zadanie 28. (2 pkt)\n\n\n\nsin\ncos\nKąt  jest ostry i tg\n\n2\n. Oblicz\n.\n\n\n\nsin\ncos\nI sposób rozwiązania\n\n\n\nsin\ncos\nprzez cos i wykorzystując zależność\nDzieląc licznik i mianownik ułamka\n\n\n\nsin\ncos\n\n\nsin\ncos\n\n\n\n\n\n\n\n\nsin\nsin\ncos\ntg\n1\n2 1\n1\n\n\ncos\ncos\n\n\n\n\n\n\ntg\notrzymujemy\n.\n\n\n\n\n\n\nsin\ncos\n\n\n\ncos\nsin\ncos\ntg\n1\n2 1\n3\n\n\n\ncos\ncos\nII sposób rozwiązania\n\n\nsin\nzapisujemy sin\n\n\n\nWykorzystując zależność\ntg\n2\n.\n\ncos\ncos\n\n\n\nsin\ncos\n\n\n\nPrzekształcamy sin\n2cos\n, podstawiamy do wyrażenia\ni wyznaczamy jego\n\n\n\nsin\ncos\nwartość:\n\n\n\n\n\n\n\nsin\ncos\n2cos\ncos\ncos\n1\n\n\n\n.\n\n\n\n\n\n\n\nsin\ncos\n2cos\ncos\n3cos\n3\n5\nSchemat oceniania sierpień\nPoziom podstawowy\nIII sposób rozwiązania\n\n\nsin\nzapisujemy sin\n\n\nWykorzystując zależność\ntgα\n2\n.\n\ncos\ncos\n\n\n\n\nsin\nsin\ncos\n\nPrzekształcamy\ncos\n, podstawiamy do wyrażenia\ni wyznaczamy jego\n\n\n\n2\nsin\ncos\nwartość:\n\n\n\n\nsin\n2sin\nsin\n\n\nsin\n\n\n\n\n\n\n\nsin\ncos\n2sin\nsin\n2\nsin\n1\n2\n2\n\n\n\n\n\n\n.\n\n\n\n\n\n\n\nsin\n2sin\nsin\n\n\n\n\nsin\ncos\n2\n2sin\nsin\n3sin\n3\n\n\nsin\n2\n2\nIV sposób rozwiązania\nRysujemy trójkąt prostokątny, zaznaczamy kąt  i wprowadzamy oznaczenia.\n\nc\n1\n2\nKorzystając z definicji funkcji trygonometrycznych kąta ostrego w trójkącie prostokątnym,\nzapisujemy\n2\n1\n\n\n\nsin\n,\ncos\n.\nc\nc\n\n\n\nsin\ncos\n\n\nPodstawiając\nsin\ni\ncos\n, wyznaczamy wartość wyrażenia\n:\n\n\n\nsin\ncos\n\n2\n1\n2 1\n\n\n\n\nsin\ncos\n1\nc\nc\nc\n\n\n\n.\n\n\n\n\n2\n1\n2 1\nsin\ncos\n3\n\nc\nc\nc\nSchemat oceniania I, II, III i IV sposobu rozwiązania\nZdający otrzymuje ………………………………………………………………………1 pkt\ngdy\n\n\n\nsin\ncos\n\nprzez cos, zapisze ten ułamek\npodzieli licznik i mianownik ułamka\n\n\n\nsin\ncos\n\n\nw postaci tg\n1\n i na tym poprzestanie lub dalej popełnia błędy\n\ntg\n1\nalbo\n\n\n\n,  doprowadzi ułamek do postaci 2cos\ncos\n\n\n\n\nzapisze zależność sin\n2cos\ni na\n\n\n\n2cos\ncos\ntym poprzestanie lub dalej popełnia błędy\nalbo\n\nsin\n\n\nsin\n\nsin\n2\n\n\nzapisze zależność\ncos\n,  doprowadzi ułamek do postaci\ni na\n\nsin\n2\n\n\nsin\n2\ntym poprzestanie lub dalej popełnia błędy\n6\nSchemat oceniania sierpień\nPoziom podstawowy\nalbo\n obliczy długość przeciwprostokątnej trójkąta prostokątnego o przyprostokątnych\n2\n\ndługości 1 i 2 (nawet z błędem rachunkowym) oraz zapisze\nsin\ni na tym\nc\npoprzestanie lub dalej popełnia błędy\nalbo\n obliczy długość przeciwprostokątnej trójkąta prostokątnego o przyprostokątnych\n1\n\ndługości 1 i 2 (nawet z błędem rachunkowym) oraz zapisze\ncos\ni na tym\nc\npoprzestanie lub dalej popełnia błędy\nalbo\n narysuje trójkąt prostokątny o przyprostokątnych długości 1 i 2, obliczy długość\nprzeciwprostokątnej,  zaznaczy w tym trójkącie poprawnie kąt  i obliczy sinus lub\ncosinus tego kąta, i na tym poprzestanie lub dalej popełnia błędy.\nZdający otrzymuje ………………………………………………………………………2 pkt\n\n\n\nsin\ncos\n:   1\ngdy poprawnie wyznaczy wartość wyrażenia\n3 .\n\n\n\nsin\ncos\nUwagi\n\n\n\n1. Jeśli zdający przyjmie, że sin\ni\n, to otrzymuje 0 punktów.\n2\ncos\n1\n2. Wszystkie rozwiązania, w których zdający błędnie zaznaczy kąt \nna przedstawionym przez siebie rysunku i z tego korzysta oceniamy na 0 punktów.\n\n\n3. Jeśli zdający odczyta z tablic wartość kąta, dla którego tg\n2\n63\n:\noraz zapisze\n\n\nsin63\n0,8910\nlub cos63\n0,4540\ni na tym poprzestanie lub dalej popełnia błędy, to\notrzymuje 1 punkt.\n\n\n4. Jeśli zdający odczyta z tablic wartość kąta, dla którego tg\n2\n:\n63\noraz\n\n\nzapisze sin63\n0,8910\nlub cos63\n0,4540\ni obliczy wartość wyrażenia\n\n\n\nsin\ncos\n\n0,3249\n, to otrzymuje 2 punkty.\n\n\n\nsin\ncos\n\n\n5. Jeśli zdający odczyta z tablic wartość kąta, dla którego tg\n2\n:\n64\noraz\n\n\nzapisze sin64\n0,8988\nlub cos64\n0,4384\ni obliczy wartość wyrażenia\n\n\n\nsin\ncos\n\n0,3443\n, to otrzymuje 2 punkty.\n\n\n\nsin\ncos"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-sierpien/29.webp",
+   "size": [
+    950,
+    260
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\nW tabeli zestawiono oceny z matematyki uczniów klasy 3A na koniec semestru.\nOcena\n1\n2\n3\n4\n5\n6\nLiczba ocen\n0\n4\n9\n13\nx\n1\nŚrednia arytmetyczna tych ocen jest równa 3,6. Oblicz liczbę x ocen bardzo dobrych (5)\nz matematyki wystawionych na koniec semestru w tej klasie.",
+   "key": "Zadanie 29. (2 pkt)\nW tabeli zestawiono oceny z matematyki uczniów klasy 3A na koniec semestru.\nOcena\n1\n2\n3\n4\n5\n6\nLiczba ocen\n0\n4\n9\n13\nx\n1\nŚrednia arytmetyczna tych ocen jest równa 3,6. Oblicz liczbę x ocen bardzo dobrych (5) z\nmatematyki wystawionych na koniec semestru w tej klasie.\n7\nSchemat oceniania sierpień\nPoziom podstawowy\nRozwiązanie:\nObliczamy średnią arytmetyczną ocen zestawionych w tabeli\n\n\n\n0 1\n4 2\n9 3 13 4\nx\n5 1 6\n.\n\n\n\n\n\n0\n4\n9 13\nx\n1\nPonieważ ta średnia arytmetyczna jest równa 3,6. Zatem otrzymujemy równanie\n\n\n0 1\n4 2\n9 3 13 4\nx\n5 1 6\n\n3,6\n.\n\n\n\n\n0\n4\n9 13\nx\n1\n\nStąd otrzymujemy                                            5\nx\n93\n18\n\n\nx\n27\n5\n\n\n\n\n\n\n\n5 5\nx\n93\n18\nx\n27\n,\n\n\n\n25\nx\n465\n18\nx\n486\n,\nx \n,\n7\n21\nx .\n3\nSchemat oceniania\nZdający otrzymuje .............................................................................................................1 pkt\ngdy:\n zapisze równanie pozwalające obliczyć liczbę ocen bardzo dobrych i na tym\npoprzestanie lub dalej popełni błąd, np.:\n\n\n\n\n0 1 4 2\n9 3 13 4\nx\n5 1 6\nlub 4 2\n9 3 13 4\nx\n5 1 6\n\n\n3,6\n3,6\n\n\n\n\n\n\n\n\n0\n4\n9 13\nx\n1\n0\n4\n9 13\nx\n1\nalbo\n zapisze równanie pozwalające obliczyć liczbę ocen bardzo dobrych, ale popełni błąd\nprzy\nprzy przepisywaniu danych.\nZdający otrzymuje .............................................................................................................2 pkt\ngdy obliczy liczbę ocen bardzo dobrych: 3.\nUwaga\nJeśli zdający odgadnie, że liczba ocen bardzo dobrych jest równa 3, i sprawdzi to, wykonując\nodpowiednie obliczenia, to otrzymuje 2 punkty."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-sierpien/30.webp",
+   "size": [
+    947,
+    111
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\n1\n1\n\n\n2\n\n\nUzasadnij, że jeżeli a jest liczbą rzeczywistą różną od zera i\na\n3,\nto\na\n7.\n2\na\na",
+   "key": "Zadanie 30. (2 pkt)\n1\n1\n\n\n2\n\n\nUzasadnij, że jeżeli a jest liczbą rzeczywistą różna od zera i\na\n3\nto\na\n7.\n2\na\na\nI sposób rozwiązania\n1\n\n\nRówność\na\n3\npodnosimy obustronnie do kwadratu i przekształcamy równoważnie\na\n1\n1\n\n\n\n2\na\n2\na a\n9\n,\n2\na\n1\n\n\n\n2\na\n9\n2\n.\n2\na\n1\n2\n\n\nStąd\na\n7\n.\n2\na\n8\nSchemat oceniania sierpień\nPoziom podstawowy\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................1 pkt\n1\n\n\ngdy podniesie równość obustronnie do kwadratu:\na\n3\ni na tym zakończy lub dalej\na\npopełni błędy.\nZdający otrzymuje  ............................................................................................................2 pkt\n1\n2\n\ngdy obliczy wartość wyrażenia\na\na : 7 .\n2\nII sposób rozwiązania\n2\n1\n1\n\n1\n\n1\n2\n\n\n\n\n\nWyrażenie\na\na zapisujemy w postaci\n2\na .\na\na\n2\na\n\n\n2\n2\na\n\na\n\n1\n\n\n\n\n2\nZatem\na\n9\n2\n7\n.\n2\na\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................1 pkt\n2\n1\n\n1\n\n2\n\na\n\ngdy zapisze zależność między sumą\na , a kwadratem sumy\na\ni na tym zakończy\n\n\n2\n\na\n\nlub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................2 pkt\n1\n\n2\ngdy obliczy wartość wyrażenia\na\na : 7 .\n2"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-sierpien/31.webp",
+   "size": [
+    950,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nDługość krawędzi sześcianu jest o 2 krótsza od długości jego przekątnej. Oblicz długość\nprzekątnej tego sześcianu.",
+   "key": "Zadanie 31.  (2 pkt)\nDługość krawędzi sześcianu jest o 2 krótsza od długości jego przekątnej. Oblicz długość\nprzekątnej tego sześcianu.\nI sposób rozwiązania\nSporządzamy rysunek pomocniczy i wprowadzamy oznaczenia:\na – długość krawędzi sześcianu,\n1d – długość przekątnej podstawy sześcianu,\nd\nd1\na\nd – długość przekątnej sześcianu.\n9\nSchemat oceniania sierpień\nPoziom podstawowy\n2\n\n2\n\n2\n2\n\n2\n\n2\nStosując twierdzenie Pitagorasa otrzymujemy:\na\na\nd\noraz\na\nd\nd\n.\n1\n1\n3\nd \n\nStąd\na\n3\nlub\na\nd\n.\n3\na\n\nPonieważ\nd\n2\nrozwiązujemy równanie:\n3\n6\n\n3\n\n\n\n\nd\nd\n2\ni otrzymujemy\nd\nlub\nd\n3\n\n3\n3\n3\nalbo\n2\na\n\n\n1\n\n\na\n3\n2\ni otrzymujemy\na\nlub\na\n3\n.\n\n3\n1\n\n3\nWyznaczamy długość przekątnej sześcianu:\nd\n3\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  .................................................................................................................... 1 pkt\n3\n\n\na\n\ngdy zapisze równanie pozwalające obliczyć długość przekątnej\nd\nd\n2\nlub\na\n3\n2\n3\ni na tym poprzestanie lub dalej popełnia błędy.\nZdający otrzymuje  .................................................................................................................... 2 pkt\n6\n\n\n3\nd\n3\ngdy obliczy długość przekątnej:\nd\nlub\n.\n\n3\n3\nII sposób rozwiązania\nSporządzamy rysunek pomocniczy i wprowadzamy oznaczenia:\na – długość krawędzi sześcianu,\nd – długość przekątnej sześcianu.\nd\nd1\na\nd \nKorzystamy z zależności\na\n3\n.\n\n\nPonieważ\na\nd\n2\nrozwiązujemy równanie:\nlub \n\n\n\n\n\n\n\n\ni otrzymujemy\nd\n3\nd\n2 3\n\n\n.\nd\nd\n2\n3\nd\n3 1\n2 3\n\n\n\n2 3\n3\n1\n\n\n2 3\n\n\n\n\nWyznaczamy długość przekątnej sześcianu:\nd\n3\n3\n1\n\n\n3 1\n3\n1\n\n3\nlub\nd\n3\n.\n10\nSchemat oceniania sierpień\nPoziom podstawowy\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ..................................................................................................................... 1 pkt\n\n\n\n\ngdy zapisze równanie pozwalające obliczyć długość przekątnej\nlub\nd\nd\n2\n3\n\n\nd\n3\nd\n2 3\ni na tym poprzestanie lub dalej popełnia błędy.\nZdający otrzymuje  ..................................................................................................................... 2 pkt\n6\n\n3\n\ngdy prawidłowo obliczy długość przekątnej:\nd\nlub\nd\n3\nlub\n\n3\n3\n\n\n\n12\n48\nd \n\n\n3\n3\n1\nlub\nd\n.\n4"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2013-sierpien/32.webp",
+   "size": [
+    950,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (5 pkt)\n2\nDane są dwie prostokątne działki. Działka pierwsza ma powierzchnię równą\n6000 m .\nDziałka druga ma wymiary większe od wymiarów pierwszej działki o 10 m i 15 m oraz\n2\npowierzchnię większą o\n2250 m . Oblicz wymiary pierwszej działki.",
+   "key": "Zadanie 32. (5 pkt)\n2\nDane są dwie prostokątne działki. Działka pierwsza ma powierzchnię równą\n6000 m .\nDziałka druga ma wymiary większe od wymiarów pierwszej działki o 10 m i 15 m oraz\n2\npowierzchnię większą o\n2250 m . Oblicz wymiary pierwszej działki.\nI sposób rozwiązania\nNiech x oznacza długość jednego z boków pierwszej działki, a y – długość drugiego boku\n\ndziałki pierwszej, wtedy pole powierzchnia działki pierwszej jest równe x y\n. Stąd mamy\n\n\nrównanie\nx y\n6000\n.\nx \ny \n15\nWtedy\n10\noznacza długość jednego z boków działki drugiej, a\ndługość drugiego\n\n\nboku działki drugiej, zaś pole powierzchni tej działki jest równe 6000\n2250\n8250\n.\nOtrzymujemy zatem równanie \n\n\n\n\n\n\nx\n10\ny\n15\n8250\n.\n\n\n\nx y\n6000\nZapisujemy układ równań \n\n\n\n\n\n\nx\n10\ny\n15\n8250\n\nZ pierwszego równania wyznaczamy\n6000\n6000\n\n\ny\nx\nx\ny\npodstawiamy do drugiego równania i rozwiązujemy\n\n\n\n\n6000\n6000\n\n\n\n\n\n\nx\n10\n15\n8250\n\n\n\n10\ny\n15\n8250\n\n\n\n\n\nx\n\ny\n\n\nPrzekształcamy to równanie do równania\nPrzekształcamy to równanie do równania\n2\n\n\n\nkwadratowego, np.\nx\n140\nx\n4000\n0\n.\n\n\n\ny\n2\n210\ny\n9000\n0\nkwadratowego, np.\n.\n\n\n\n\n2\n19600 16000\n3600\n60\n\n\n\n\n2\n44100\n36000\n8100\n90\n\n\n140\n60\n140\n60\n\n\n210\n90\n210\n90\n\n\n\n\nx\n40\nlub\nx\n100\n\n\n\n\ny\n60\ny\n150\nlub\n1\n2\n2\n2\n1\n2\n2\n2\nObliczamy y:\nObliczamy x:\n11\nSchemat oceniania sierpień\nPoziom podstawowy\n6000\n6000\n6000\n6000\ny \n\ny \n\nx \n\nx \n\n150\nlub\n60\n.\n100\nlub\n40\n.\n1\n2\n1\n2\n40\n100\n60\n150\nOdp.  Pierwsza działka miała wymiary 40 m na 150 m lub 100 m na 60 m.\nII sposób rozwiązania\nNiech x oznacza długość jednego z boków pierwszej działki, a y – długość drugiego boku\n\ndziałki pierwszej, wtedy pole powierzchni działki pierwszej jest równe x y\n. Stąd mamy\n\n\nx y\n6000\nrównanie\nx \ny \nWtedy\noznacza długość jednego z boków działki drugiej, a\n15\ndługość drugiego\n10\n\n\nboku działki drugiej, zaś pole powierzchni tej działki jest równe 6000\n2250\n8250\n.\nOtrzymujemy zatem równanie \n\n\n\n\n\n\nx\n10\ny\n15\n8250\n\n\n\nx y\n6000\nZapisujemy układ równań \n\n\n\n\n\n\nx\n10\ny\n15\n8250\n\n\n\n\nx y\n6000\nStąd otrzymujemy kolejno\n\n\n\n\n\nx y\n15\nx\n10\ny\n150\n8250\n\n\n\n\nx y\n6000\n\n\n\n\n\n6000 15\nx\n10\ny\n150\n8250\n\n\n\n\nx y\n6000\n\n\n\n\n15\nx\n10\ny\n2100\n0\n\n\n\n\nRównanie 15\nx\n10\ny\n2100\n0\ndzielimy obustronnie przez 5.\n\n\n\nOtrzymujemy 3\nx\n2\ny\n420\n0\n, stąd wyznaczamy\n3\n2\n\n\n\n\ny\nx\n210\nx\ny\n140\n2\n3\npodstawiamy do pierwszego równania i rozwiązujemy\n\n\n\n\n3\n2\n\n\n\n\n\n\n\nx\nx\n210\n6000\n3 y\n140\ny\n6000\n\n\n\n\n\n2\n\n\n\n3\n2\n\n2\n\n\n\n\n2\n\n\n\n2 x\n210\nx\n6000\n0\n3 y\n140\ny\n6000\n0\n\n\n\n2\n\n\n\nx\n2\n140\nx\n4000\n0\ny\n210\ny\n9000\n0\n\n\n\n\n2\n19600 16000\n3600\n60\n\n\n\n\n2\n44100\n36000\n8100\n90\n\n\n140\n60\n140\n60\n\n\n210\n90\n210\n90\n\n\n\n\nx\n40\nlub\nx\n100\n\n\n\n\ny\n60\ny\n150\nlub\n1\n2\n2\n2\n1\n2\n2\n2\nObliczamy y:\nObliczamy x:\n6000\n6000\n6000\n6000\ny \n\ny \n\n150\nlub\n60\n.\nx \n\nx \n\n100\nlub\n40\n.\n1\n2\n40\n100\n1\n2\n60\n150\nOdp. Pierwsza działka miała wymiary 40 m na 150 m lub 100 m na 60 m.\n12\nSchemat oceniania sierpień\nPoziom podstawowy\nSchemat oceniania I i II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ...........................................................................................................1 pkt\nalbo \n\n\n\n\n\n\n\n\nx y\n6000\nZapisanie jednego z równań:\nx\n10\ny\n15\n8250\n, gdzie x, y oznaczają\ndługości boków pierwszej działki.\nUwaga\nNie wymagamy opisania wprowadzonych oznaczeń, jeżeli z rozwiązania można\nwywnioskować, że zdający poprawnie je stosuje.\nRozwiązanie, w którym jest istotny postęp ......................................................................2 pkt\n\n\n\nx y\n6000\nZapisanie układu równań z niewiadomymi x i y \n.\n\n\n\n\n\n\nx\n10\ny\n15\n8250\n\nPokonanie zasadniczych trudności zadania .....................................................................3 pkt\nZapisanie równania z jedną niewiadomą x lub y, np:\n\n\n\n\n6000\n\n\n6000\n3\n\n\n\n\n\n\n\n\n\n\n\n\nx\n10\n15\n8250\nlub\n10\ny\n15\n8250\nlub\nx\nx\n210\n6000\nlub\n\n\n\n\n\n\ny\n\nx\n\n\n\n\n2\n\n\n\n2\n\n\n\n\n\n\n\n\n\n\nx\n2\n140\nx\n4000\n0\n2\n3 y\n140\ny\n6000\nlub\nlub\ny\n210\ny\n9000\n0\n.\n\n\n\n\nUwaga\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą i wówczas jego rozwiązanie zostanie zakwalifikowane co najmniej do kategorii\nPokonanie zasadniczych trudności.\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe) .........................................................4 pkt\n rozwiązanie równania z niewiadomą x i nieobliczenie drugiego boku działki,\nalbo\n rozwiązanie równania z niewiadomą y i nieobliczenie pierwszego boku działki,\nalbo\n popełnienie błędu rachunkowego w rozwiązaniu równania z jedną niewidomą (ale\notrzymanie dwóch rozwiązań) i konsekwentne do popełnionego błędu obliczenie\nwymiarów działek,\nalbo\n obliczenie wymiarów działki tylko w jednym przypadku.\nRozwiązanie pełne ..............................................................................................................5 pkt\nObliczenie wymiarów działki pierwszej: działka pierwsza ma wymiary 40 m na 150 m lub\n100 m na 60 m.\n13\nSchemat oceniania sierpień\nPoziom podstawowy\nUwaga\nJeżeli zdający odgadnie wymiary działki w co najmniej jednym przypadku, to otrzymuje\n1 punkt, nawet w sytuacji, gdy dokonuje systematycznego „przeszukiwania” rozwiązań\ncałkowitych."
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2013-sierpien/33.webp",
+   "size": [
+    950,
+    121
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\n\n\n\n\n\n\nA \n\nB \n\nC \nPunkty\n1,\n5\n,\n3,\n1\ni\n2, 4\nsą kolejnymi wierzchołkami równoległoboku\nABCD. Oblicz pole tego równoległoboku.",
+   "key": "Zadanie 33. (4 pkt)\n\n\n\n\n\n\nA \n\nB \n\nC \nPunkty\n1,\n5\n,\n3, 1\ni\n2, 4\nsą kolejnymi wierzchołkami równoległoboku\nABCD. Oblicz pole tego równoległoboku.\nI sposób rozwiązania\n\n\nWyznaczamy równanie prostej AB:\ny\nx\n4\n.\nWyznaczamy równanie prostej CE prostopadłej do prostej AB i przechodzącej przez punkt C:\n\ny\nx\n6\nObliczamy współrzędne punktu E (przecięcia prostych AB i CE) rozwiązując układ równań:\n\n\n\ny\nx\n4\n\n.\n\ny\nx\n6\n\n\n\ny . Stąd\nx ,\nE \nRozwiązaniem układu jest:\n5\n1\n5,1\n.\nAB \n2\n\n2\n\nObliczamy długość odcinka AB:\n4\n4\n4 2\n.\n\n\n\n\n2\n2\nCE \n\n\n\n\n\nObliczamy długość odcinka CE:\n5\n2\n1 4\n18\n3 2\n.\n\n\n\n\n\nP\nAB CE\n4 2 3 2\n24\nZatem pole równoległoboku jest równe:\n.\nABCD\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ...........................................................................................................1 pkt\nAB \n4 2\nObliczenie długości odcinka:\n.\nRozwiązanie, w którym jest istotny postęp ......................................................................2 pkt\n\n\n\nObliczenie współrzędnych punktu E:\nE\n5,1\n.\nPokonanie zasadniczych trudności zadania .....................................................................3 pkt\nCE \nObliczenie wysokości równoległoboku:\n3 2\n.\nUwaga\nZdający może obliczyć wysokość równoległoboku wykorzystując wzór na odległość\nwierzchołka C od prostej AB.\nRozwiązanie pełne ..............................................................................................................4 pkt\n\nObliczenie pola równoległoboku:\nP\n24\n.\nABCD\n14\nSchemat oceniania sierpień\nPoziom podstawowy\nII sposób rozwiązania\nZauważamy, że pole równoległoboku ABCD jest równe podwojonemu  polu trójkąta ABC.\n1\n\n\n\n\n\n\n\n\n\n\n\nPole trójkąta ABC obliczamy ze wzoru:\nP\nx\nx\ny\ny\ny\ny\nx\nx\n.\nABC\nB\nA\nC\nA\nB\nA\nC\nA\n2\nObliczamy pole równoległoboku:\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP\n2\nP\n2 2\nx\nx\ny\ny\ny\ny\nx\nx\nABCD\nABC\nB\nA\nC\nA\nB\nA\nC\nA\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2\n3\n1\n4\n5\n1\n5\n2\n1\n4 9\n4 3\n24\n24\n.\n2\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ...........................................................................................................1 pkt\n\n\nZauważenie, że\nP\n2\nP\n.\nABCD\nABC\nRozwiązanie, w którym jest istotny postęp ......................................................................2 pkt\n1\n\n\n\n\n\n\n\n\n\n\n\nZastosowanie wzoru na pole trójkąta:\nP\nx\nx\ny\ny\ny\ny\nx\nx\nABC\nB\nA\nC\nA\nB\nA\nC\nA\n2\nPokonanie zasadniczych trudności zadania .....................................................................3 pkt\nObliczenie pola trójkąta: 12\nRozwiązanie pełne ..............................................................................................................4 pkt\n\nObliczenie pola równoległoboku:\nP\n24\n.\nABCD"
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2013-sierpien/34.webp",
+   "size": [
+    950,
+    479
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (4 pkt)\nObjętość ostrosłupa prawidłowego trójkątnego ABCS (tak jak na rysunku) jest równa 72,\na promień okręgu wpisanego w podstawę ABC tego ostrosłupa jest równy 2. Oblicz tangens\nkąta między wysokością tego ostrosłupa i jego ścianą boczną.\nS\nC\nA\nB",
+   "key": "Zadanie 34. (4 pkt)\nObjętość ostrosłupa prawidłowego trójkątnego ABCS (tak jak na rysunku) jest równa 72,\na promień okręgu wpisanego w podstawę ABC tego ostrosłupa jest równy 2. Oblicz tangens\nkąta między wysokością tego ostrosłupa i jego ścianą boczną.\nS\nC\nA\nRozwiązanie\nB\nOznaczmy:\nr \na – długość boku trójkąta równobocznego ABC, w który wpisano okręg o promieniu\n2\n,\nH – wysokość tego ostrosłupa,\n15\nSchemat oceniania sierpień\nPoziom podstawowy\n– miara kąta między wysokością ostrosłupa i jego ścianą boczną.\na\n3\nr \na \nPonieważ\n, to\n4 3\n.\n6\nObjętość ostrosłupa prawidłowego trójkątnego ABCS jest równa 72 , zatem\n\n\n2\n4 3\n3\n1\n\n\n\nH\n72\n.\n3\n4\nObliczamy wysokość ostrosłupa H: 48 3\n72\n\n\nH \n\nH\n72\n, stąd\n6 3\n.\n12\n4 3\n2\n3\nr\n\n\n\nZauważamy, że tg\n, stąd\ntg\n.\n9\nH\n6 3\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ................................................................................................................................. 1 pkt\nZaznaczenie kąta  między wysokością ostrosłupa i jego ścianą boczną lub wybór\nwłaściwego kąta do dalszych obliczeń.\nRozwiązanie, w którym jest istotny postęp .............................................................................. 2 pkt\na \n4 3\nObliczenie długości boku trójkąta ABC:\n.\nPokonanie zasadniczych trudności zadania ............................................................................. 3 pkt\nH \n6 3\nObliczenie wysokości ostrosłupa ABCS:\n.\nRozwiązanie pełne ...................................................................................................................... 4 pkt\n3\n\nObliczenie tangensa kąta między wysokością ostrosłupa i jego ścianą boczną:\ntg\n.\n9"
+  }
+ ]
+}

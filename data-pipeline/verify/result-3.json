@@ -1,0 +1,123 @@
+[
+ {
+  "exam": "f2005-R-2006-listopad-probna",
+  "task": "4",
+  "verdict": "ok",
+  "solved_value": 4.146824378088206,
+  "value": 4.146824378088206,
+  "answer_tex": "CD=\\sqrt{12+3\\sqrt{3}}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Tangent lengths r=sqrt3 from C, 3 from B; Stewart/cos law gives CD^2=12+3sqrt3. Rendered key p.5 confirms."
+ },
+ {
+  "exam": "f2005-R-2006-listopad-probna",
+  "task": "5",
+  "verdict": "ok",
+  "solved_value": 0,
+  "value": 0,
+  "answer_tex": "x=-1 \\lor x=0 \\lor x=1",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Max at x=-1,1, min at x=0 (key 5.2). Sum 0 under any grouping (max sum 0, min 0), so no ambiguity."
+ },
+ {
+  "exam": "f2005-R-2006-maj",
+  "task": "13",
+  "verdict": "ok",
+  "solved_value": 1.55,
+  "value": 1.55,
+  "answer_tex": "\\lim a_n=\\frac12,\\ a=\\frac12,\\ b=\\frac{11}{20}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Decreasing, lim 1/2, a=inf=1/2, b=a_1=11/20; summary states lim+a+b = 31/20. Matches key."
+ },
+ {
+  "exam": "f2005-R-2006-styczen-zimowa",
+  "task": "12",
+  "verdict": "ok",
+  "solved_value": 2,
+  "value": 2,
+  "answer_tex": "(x,y)=(2,1) \\lor (x,y)=(-2,1)",
+  "exclude_reason": null,
+  "summary_fix": "Rozwiąż układ $|x|-y=1$, $x^2+(y+1)^2=8$ (suma wszystkich współrz.)",
+  "reason": "y+1=|x| gives x=+-2, y=1 (key 12.3). 'Rozwiaz' = full solution set; sum of all coords 2. Summary fix: diacritics + 'wszystkich'."
+ },
+ {
+  "exam": "f2005-R-2008-maj",
+  "task": "3",
+  "verdict": "exclude",
+  "solved_value": 4,
+  "value": null,
+  "answer_tex": "(p,q)=(3,-1) \\lor (p,q)=(-1,3)",
+  "exclude_reason": "no_numeric",
+  "summary_fix": null,
+  "reason": "Two valid pairs. p+q=2 for each pair (Vieta), so a solver may answer 2 (p+q) or 4 (both pairs summed): which-one/all ambiguity."
+ },
+ {
+  "exam": "f2005-R-2009-maj",
+  "task": "3",
+  "verdict": "ok",
+  "solved_value": 1.7320508075688772,
+  "value": 1.7320508075688772,
+  "answer_tex": "a=\\sqrt3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Graph through (2,3): a^2=3, a=sqrt3. Rendered key p.14 prints a=sqrt3 (text extraction lost the root). Part b is a set, not summed."
+ },
+ {
+  "exam": "f2005-R-2009-maj",
+  "task": "10",
+  "verdict": "ok",
+  "solved_value": 12,
+  "value": 12,
+  "answer_tex": "N=4 \\lor N=8",
+  "exclude_reason": null,
+  "summary_fix": "Białe:czarne $=3:1$, $P$(różne kolory)$>\\frac{9}{22}$. Ile kul w urnie? (suma)",
+  "reason": "P=3n/(2(4n-1))>9/22 gives n<3, n=1,2 -> 4 or 8 balls (key). Plain numbers, sum 12 unambiguous. Summary fix: diacritics only."
+ },
+ {
+  "exam": "f2005-R-2010-maj",
+  "task": "5",
+  "verdict": "exclude",
+  "solved_value": 30,
+  "value": null,
+  "answer_tex": "(a,b,c)=(2,5,8)\\ \\lor\\ (26,5,-16)",
+  "exclude_reason": "no_numeric",
+  "summary_fix": null,
+  "reason": "Two valid triples; a+b+c=15 for each (trivially fixed by b=5, a+c=10), all-summed 30. Solver may give 15 or 30."
+ },
+ {
+  "exam": "f2005-R-2010-maj",
+  "task": "7",
+  "verdict": "exclude",
+  "solved_value": 6,
+  "value": null,
+  "answer_tex": "C=(5,6)\\ \\lor\\ C=(-3,-2)",
+  "exclude_reason": "no_numeric",
+  "summary_fix": null,
+  "reason": "Two valid vertices C (key). Task implies one C, summary has no sum hint; solver may give 11, -5 or 6: which-one/all ambiguity."
+ },
+ {
+  "exam": "f2005-R-2011-czerwiec",
+  "task": "3",
+  "verdict": "ok",
+  "solved_value": 63,
+  "value": 63,
+  "answer_tex": "a=3,\\ b=12,\\ c=48",
+  "exclude_reason": null,
+  "summary_fix": "Ciąg $(a,b,c)$ geom., $(3a+3,2b,c-12)$ arytm., $3a+3+2b=c-12$ ($a+b+c$)",
+  "reason": "b=3a+3, c=9a+21, b^2=ac gives a=3 uniquely: 3,12,48, sum 63 (key). Summary misstates 3a+3 as a+3 and omits the sum condition."
+ },
+ {
+  "exam": "f2005-R-2011-maj",
+  "task": "4",
+  "verdict": "ok",
+  "solved_value": 18.84955592153876,
+  "value": 18.84955592153876,
+  "answer_tex": "x=0 \\lor x=\\frac{\\pi}{4} \\lor x=\\frac{3\\pi}{4} \\lor x=\\frac{5\\pi}{4} \\lor x=\\frac{7\\pi}{4} \\lor x=2\\pi",
+  "exclude_reason": null,
+  "summary_fix": "Rozwiąż $2\\sin^2x-2\\sin^2x\\cos x=1-\\cos x$ w $\\langle 0,2\\pi\\rangle$ (suma rozw.)",
+  "reason": "Crop: 2sin^2x-2sin^2x cosx=1-cosx, i.e. (2sin^2x-1)(1-cosx)=0 on closed [0,2pi]; 6 roots, sum 6pi (key). Summary misstates equation."
+ }
+]

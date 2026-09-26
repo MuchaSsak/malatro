@@ -1,0 +1,9 @@
+node_modules
+dist
+context
+data-pipeline
+public
+src/locales/**/*.ts
+supabase/migrations
+bun.lock
+.env*

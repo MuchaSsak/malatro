@@ -1,0 +1,123 @@
+[
+ {
+  "exam": "f2023-P-2025-maj",
+  "task": "3",
+  "verdict": "ok",
+  "solved_value": 3,
+  "value": 3,
+  "answer_tex": "3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "log3(108/4)=log3 27=3; option A, key version A = A."
+ },
+ {
+  "exam": "f2023-P-2025-maj",
+  "task": "29",
+  "verdict": "ok",
+  "solved_value": 6,
+  "value": 6,
+  "answer_tex": "x+y=6",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "15+x+y=21 so x+y=6; option C, key version A = C."
+ },
+ {
+  "exam": "f2023-P-2026-czerwiec",
+  "task": "2",
+  "verdict": "ok",
+  "solved_value": 22876792454961,
+  "value": 22876792454961,
+  "answer_tex": "9^{14}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "9^4/3^-20=3^28=9^14; option C matches key."
+ },
+ {
+  "exam": "f2023-P-2026-czerwiec",
+  "task": "22",
+  "verdict": "ok",
+  "solved_value": 29,
+  "value": 29,
+  "answer_tex": "S=(11,18)",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "A=(4,11), B=(16,17), S=mid BD=(11,18); sum 29, matches key."
+ },
+ {
+  "exam": "f2023-P-2026-maj",
+  "task": "19",
+  "verdict": "ok",
+  "solved_value": 70,
+  "value": 70,
+  "answer_tex": "70°",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Central AOC=2*50=100, minus COB=30 gives 70; option C (70) in crop, key version A = C."
+ },
+ {
+  "exam": "f2023-P-2026-marzec-probna",
+  "task": "2",
+  "verdict": "ok",
+  "solved_value": -5,
+  "value": -5,
+  "answer_tex": "-5",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "cbrt(50*(-15)/6)=cbrt(-125)=-5; option B matches key."
+ },
+ {
+  "exam": "f2023-P-2026-marzec-probna",
+  "task": "28",
+  "verdict": "ok",
+  "solved_value": 54432,
+  "value": 54432,
+  "answer_tex": "7\\cdot6^5",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Adjacency is a tree 1-2-3-4, 3-5-6: 7*6^5=54432; option A matches key."
+ },
+ {
+  "exam": "f2023-P-2026-marzec-probna",
+  "task": "32.2",
+  "verdict": "ok",
+  "solved_value": 0,
+  "value": 0,
+  "answer_tex": "0",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Downward parabola, vertex pi; min at endpoint farther from pi: 0 (pi>6-pi). Option A matches key."
+ },
+ {
+  "exam": "f2023-P-2026-sierpien",
+  "task": "28",
+  "verdict": "ok",
+  "solved_value": 0.08333333333333333,
+  "value": 0.08333333333333333,
+  "answer_tex": "\\frac{3}{36}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Sums 11,12: (5,6),(6,5),(6,6) = 3/36; option C matches key."
+ },
+ {
+  "exam": "f2023-P-2026-sierpien",
+  "task": "29",
+  "verdict": "ok",
+  "solved_value": 15.6,
+  "value": 15.6,
+  "answer_tex": "7{,}5;\\ 8;\\ \\frac{12}{120}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Median 7.5 (60th=7, 61st=8), mode 8, P=12/120=0.1; sum 15.6 matches key."
+ },
+ {
+  "exam": "f2023-R-2022-marzec-pokazowa",
+  "task": "11",
+  "verdict": "ok",
+  "solved_value": 0.00011533591896295547,
+  "value": 0.00011533591896295547,
+  "answer_tex": "P=\\frac{123841}{4^{15}}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Bernoulli n=15 p=1/4, k>=11: exact 123841/4^15, matches key."
+ }
+]

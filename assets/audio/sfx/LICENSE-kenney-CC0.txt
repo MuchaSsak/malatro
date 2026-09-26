@@ -1,0 +1,61 @@
+Curated SFX for Malatro — all from Kenney (www.kenney.nl), licence CC0 1.0 (public domain). Credit optional: 'Kenney.nl'.
+Downloaded 2026-09-26 from https://kenney.nl/assets/<pack-slug>
+
+file | original file | Kenney pack
+card-deal-1.ogg | card-slide-1.ogg | Casino Audio
+card-deal-2.ogg | card-slide-2.ogg | Casino Audio
+card-deal-3.ogg | card-slide-3.ogg | Casino Audio
+card-place-1.ogg | card-place-1.ogg | Casino Audio
+card-place-2.ogg | card-place-2.ogg | Casino Audio
+card-fan.ogg | card-fan-1.ogg | Casino Audio
+card-discard.ogg | card-shove-1.ogg | Casino Audio
+deck-shuffle.ogg | card-shuffle.ogg | Casino Audio
+pack-open.ogg | cards-pack-open-1.ogg | Casino Audio
+pack-take-card.ogg | cards-pack-take-out-1.ogg | Casino Audio
+chips-add-1.ogg | chip-lay-1.ogg | Casino Audio
+chips-add-2.ogg | chip-lay-2.ogg | Casino Audio
+chips-collide.ogg | chips-collide-1.ogg | Casino Audio
+chips-stack.ogg | chips-stack-1.ogg | Casino Audio
+chips-tally.ogg | chips-handle-1.ogg | Casino Audio
+coins-money.ogg | handleCoins.ogg | RPG Audio
+coin-single.ogg | handleCoins2.ogg | RPG Audio
+mult-whoosh.ogg | phaserUp3.ogg | Digital Audio
+mult-whoosh-short.ogg | phaserUp7.ogg | Digital Audio
+xmult-bell.ogg | impactBell_heavy_000.ogg | Impact Sounds
+glass-break.ogg | impactGlass_heavy_000.ogg | Impact Sounds
+impact-thud.ogg | impactPunch_heavy_000.ogg | Impact Sounds
+joker-trigger.ogg | maximize_008.ogg | Interface Sounds
+ui-click.ogg | click_001.ogg | Interface Sounds
+ui-hover.ogg | rollover2.ogg | UI Audio
+ui-select-card.ogg | select_001.ogg | Interface Sounds
+ui-deselect-card.ogg | back_001.ogg | Interface Sounds
+ui-tick.ogg | tick_001.ogg | Interface Sounds
+ui-confirm.ogg | confirmation_001.ogg | Interface Sounds
+ui-error.ogg | error_004.ogg | Interface Sounds
+level-up.ogg | powerUp7.ogg | Digital Audio
+jingle-win.ogg | Sax jingles/jingles_SAX02.ogg | Music Jingles
+jingle-lose.ogg | Sax jingles/jingles_SAX07.ogg | Music Jingles
+jingle-shop.ogg | Pizzicato jingles/jingles_PIZZI12.ogg | Music Jingles
+
+===== Original Kenney licence text (identical across packs) =====
+	
+
+	Casino Audio (1.1)
+
+	by  Kenney Vleugels (Kenney.nl)
+
+			------------------------------
+
+	License (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these assets in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Request:  http://request.kenney.nl
+
+	Follow on Twitter for updates:
+	@KenneyNL

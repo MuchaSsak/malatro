@@ -1,0 +1,184 @@
+{
+ "exam": {
+  "id": "f2005-P-2007-maj",
+  "formula": "2005",
+  "level": "P",
+  "year": 2007,
+  "session": "maj",
+  "month": "05",
+  "code": "MMA-P1_1P-072",
+  "examUrl": "https://cke.gov.pl/images/stories/mat2_07/mat_pp.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/mat2_07/mat_a_pp_rozw.pdf",
+  "examFile": "f2005-P-2007-maj.pdf",
+  "keyFile": "f2005-P-2007-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2007-2/maj-2007/",
+  "examPages": 15,
+  "keyPages": 14,
+  "examBytes": 266417,
+  "keyBytes": 248821
+ },
+ "keyHead": "dysleksja\nMiejsce\nna naklejkę\nz kodem szkoły\nEGZAMIN MATURALNY\nZ MATEMATYKI\nPOZIOM PODSTAWOWY\nCzas pracy 120 minut\nMAJ\nInstrukcja dla zdającego\nROK 2007\n1. Sprawdź, czy arkusz egzaminacyjny zawiera 15 stron (zadania\n1 – 11). Ewentualny brak zgłoś przewodniczącemu zespołu\nnadzorującego egzamin.\n2. Rozwiązania zadań i odpowiedzi zamieść w miejscu na to\nprzeznaczonym.\n3. W\nrozwiązaniach\nzadań\nprzedstaw\ntok\nrozumowania\nprowadzący do ostatecznego wyniku.\n4. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym\ntuszem/atramentem.\n5. Nie używaj korektora, a błędne zapisy przekreśl.\n6. Pamiętaj, że zapisy w brudnopisie nie podlegają ocenie.\n7. Obok każdego zadania podana jest maksymalna liczba punktów,\nktórą możesz uzyskać za jego poprawne rozwiązanie.\n8. Możesz korzystać z zestawu wzorów matematycznych, cyrkla\ni linijki oraz kalkulatora.\n9. Wypełnij tę część karty odpowiedzi, którą koduje zdający.\nNie wpisuj żadnych znaków w części przeznaczonej dla\negzaminatora.\nZa rozwiązanie\n10. Na karcie odpowiedzi wpisz swoją datę urodzenia i PESEL.\nwszystkich zadań\nZamaluj\npola odpowiadające cyfrom numeru PESEL. Błędne\nmożna otrzymać\nzaznaczenie otocz kółkiem\ni zaznacz właściwe.\nłącznie\n50 punktów\nŻyczymy powodzenia!\nWypełnia zdający przed\nrozpoczęciem pracy\nKOD\nPESEL ZDAJĄCEGO\nZDAJĄCEGO\n2\nEgzamin maturalny z matematyki\nPoziom podstawowy\nZadanie 1. (5 pkt)\n( )\n=\nZnajdź wzór funkcji kwadratowej\ny\nf x\n, której wykresem jest parabola o wierzchołku\n(1,–9) przechodząca przez punkt o współrzędnych (2,–8). Otrzymaną funkcję przedstaw\nw postaci kanonicznej. Oblicz jej miejsca zerowe i naszkicuj wykres.\nZapisuję funkcję opisującą parabolę, korzystając ze współrzędnych jej\n(\n)\n2\n=\n−\n−.\nwierzchołka:\ny\na x\n1\n9\nWyznaczam współczynnik a, korzystając z tego, że parabola przechodzi przez\npunkt o współrzędnych (2,–8):\n(\n)\n2\n−=\n−\n−\na = .\n8\na\n2\n1\n9\nstąd\n1\nWzór funkcji w postaci kanonicznej: ( )\n(\n)\n2\n=\n−\n−\nf x\nx\n1\n9\n.\nWyznaczam miejsca zerowe funkcji f:\n(\n)\n2\nx −\n−\n=\n1\n9\n0\n, stąd po zastosowaniu odpowiedniego wzoru skróconego\nmnożenia otrzymuję (\n) (\n)\ni po redukcji (\n) (\n)\n−−\n⋅\n−+\n=\n−\n⋅\n+\n=\nx\n1\n3\nx\n1\n3\n0\nx\n4\nx\n2\n0\n.\nx = −,\nx =\nMiejscami zerowymi funkcji są liczby:\n2\n4\n.\n1\n2\nSzkicuję wykres funkcji, biorąc pod uwagę miejsca zerowe oraz współrzędne\nwierzchołka.\ny\n9\n8\n7\n6\n5\n4\n3\n2\n1\nx\n-9\n-8\n-7\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n-1\n-2\n-3\n-4\n-5\n-6\n-7\n-8\n-9\nEgzamin maturalny z matematyki\n3\nPoziom podstawowy\nZadanie 2. (3 pkt)\nWysokość prowizji, którą klient płaci w pewnym biurze maklerskim przy każdej zawieranej\ntransakcji kupna lub sprzedaży akcji jest uzależniona od wartości transakcji. Zależność ta\nzostała przedstawiona w tabeli:\nWartość transakcji\nWysokość prowizji\ndo 500 zł\n15 zł\nod 500,01 zł do 3000 zł\n2% wartości transakcji + 5 zł\nod 3000,01 zł do 8000 zł\n1,5% wartości transakcji + 20 zł\nod 8000,01 zł do 15000 zł\n1% wartości transakcji + 60 zł\npowyżej 15000 zł\n0,7% wartości transakcji + 105 zł\nKlient zakupił za pośrednictwem tego biura maklerskiego 530 akcji w cenie 25 zł za jedną\nakcję. Po roku sprzedał wszystkie kupione akcje po 45 zł za jedną sztukę. Oblicz, ile zarobił\nna tych transakcjach po uwzględnieniu prowizji, które zapłacił.\nObliczam wartość transakcji:\n⋅\n=\nzakupu 530 25\n13250\nzł\n⋅\n=\nsprzedaży 530 45\n23850\nzł.\nObliczam, jaką prowizję należy zapłacić przy transakcjach:\n⋅\n+\n=\nprzy zakupie 13250 0,01\n60\n192,50\nzł\n⋅\n+\n=\nprzy sprzedaży 23850 0,007\n105\n271,95\nzł.\n(\n)\n−\n−\n+\n=\nObliczam zysk ze sprzedaży:\n23850\n13250\n192,50\n271,95\n10135,55\nzł.\nOdpowiedź: Klient zarobił 10135,55 zł.\n4\nEgzamin maturalny z matematyki\nPoziom podstawowy\nZadanie 3. (4 pkt)\nKorzystając  z  danych  przedstawionych  na  rysunku,  oblicz  wartość  wyrażenia:\n2\nβ\n−\nβ\n⋅\nα\n+\n−\n2\nα\ntg\n5sin\nctg\n1 cos\n.\nC\ni\n8\n6\nβ\nα\nB\nA\nStosuję twierdzenia Pitagorasa do obliczenia przeciwprostokątnej trójkąta ABC:\nAB =\n+\n=\n=\n2\n2\n8\n6\n100\n10\n.\nObliczam wartości funkcji trygonometrycznych kąta α :\n4\n4\nα\n=\nα\n=\ncos\n,\nctg\n.\n5\n3\nObliczam wartości funkcji trygonometrycznych kąta β :\n4\n4\nβ\n=\nβ =\nsin\n,\ntg\n.\n5\n3\n2\nβ\n−\nβ\n⋅\nα\n+\n−\n2\nα :\nObliczam wartość wyrażenia\ntg\n5sin\nctg\n1\ncos\n2\n2\n⎛\n4\n⎞\n4 4\n⎛\n4\n⎞\n133\n−⋅\n⋅\n+\n−\n= −\n5\n1\n.\n⎜\n⎟\n⎜\n⎟\n⎝\n3\n⎠\n5 3\n⎝\n5\n⎠\n45\nEgzamin maturalny z matematyki\n5\nPoziom podstawowy\nZadanie 4. (5 pkt)\nSamochód przebył w pewnym czasie 210 km. Gdyby jechał ze średnią prędkością o 10 km/h\nwiększą, to czas przejazdu skróciłby się o pół godziny. Oblicz, z jaką średnią prędkością\njechał ten samochód.\nWprowadzam oznaczenia:\nv – średnia prędkość samochodu,\n210\nv – czas, w którym samochód przebył drogę ze średnią prędkością v,\n210\n– czas, w którym samochód przebył drogę ze średnią prędkością v +10.\nv +\n10\nWarunki zadania zapisuję za pomocą równania: 210\n210\n1\n−\n=\n,\n+\nv\nv\n10\n2\n2\n+\n−\n=\nktóre po przekształceniu przyjmuje postać:\nv\n10\nv\n4200\n0\n.\n=\n= −",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2007-maj/1.webp",
+   "size": [
+    956,
+    161
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (5 pkt)\n( )\n=\nZnajdź wzór funkcji kwadratowej\ny\nf x\n, której wykresem jest parabola o wierzchołku\n(1,–9) przechodząca przez punkt o współrzędnych (2,–8). Otrzymaną funkcję przedstaw\nw postaci kanonicznej. Oblicz jej miejsca zerowe i naszkicuj wykres.",
+   "key": "Zadanie 1. (5 pkt)\n( )\n=\nZnajdź wzór funkcji kwadratowej\ny\nf x\n, której wykresem jest parabola o wierzchołku\n(1,–9) przechodząca przez punkt o współrzędnych (2,–8). Otrzymaną funkcję przedstaw\nw postaci kanonicznej. Oblicz jej miejsca zerowe i naszkicuj wykres.\nZapisuję funkcję opisującą parabolę, korzystając ze współrzędnych jej\n(\n)\n2\n=\n−\n−.\nwierzchołka:\ny\na x\n1\n9\nWyznaczam współczynnik a, korzystając z tego, że parabola przechodzi przez\npunkt o współrzędnych (2,–8):\n(\n)\n2\n−=\n−\n−\na = .\n8\na\n2\n1\n9\nstąd\n1\nWzór funkcji w postaci kanonicznej: ( )\n(\n)\n2\n=\n−\n−\nf x\nx\n1\n9\n.\nWyznaczam miejsca zerowe funkcji f:\n(\n)\n2\nx −\n−\n=\n1\n9\n0\n, stąd po zastosowaniu odpowiedniego wzoru skróconego\nmnożenia otrzymuję (\n) (\n)\ni po redukcji (\n) (\n)\n−−\n⋅\n−+\n=\n−\n⋅\n+\n=\nx\n1\n3\nx\n1\n3\n0\nx\n4\nx\n2\n0\n.\nx = −,\nx =\nMiejscami zerowymi funkcji są liczby:\n2\n4\n.\n1\n2\nSzkicuję wykres funkcji, biorąc pod uwagę miejsca zerowe oraz współrzędne\nwierzchołka.\ny\n9\n8\n7\n6\n5\n4\n3\n2\n1\nx\n-9\n-8\n-7\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n-1\n-2\n-3\n-4\n-5\n-6\n-7\n-8\n-9\nEgzamin maturalny z matematyki\n3\nPoziom podstawowy"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2007-maj/2.webp",
+   "size": [
+    950,
+    428
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (3 pkt)\nWysokość prowizji, którą klient płaci w pewnym biurze maklerskim przy każdej zawieranej\ntransakcji kupna lub sprzedaży akcji jest uzależniona od wartości transakcji. Zależność ta\nzostała przedstawiona w tabeli:\nWartość transakcji\nWysokość prowizji\ndo 500 zł\n15 zł\nod 500,01 zł do 3000 zł\n2% wartości transakcji + 5 zł\nod 3000,01 zł do 8000 zł\n1,5% wartości transakcji + 20 zł\nod 8000,01 zł do 15000 zł\n1% wartości transakcji + 60 zł\npowyżej 15000 zł\n0,7% wartości transakcji + 105 zł\nKlient zakupił za pośrednictwem tego biura maklerskiego 530 akcji w cenie 25 zł za jedną\nakcję. Po roku sprzedał wszystkie kupione akcje po 45 zł za jedną sztukę. Oblicz, ile zarobił\nna tych transakcjach po uwzględnieniu prowizji, które zapłacił.",
+   "key": "Zadanie 2. (3 pkt)\nWysokość prowizji, którą klient płaci w pewnym biurze maklerskim przy każdej zawieranej\ntransakcji kupna lub sprzedaży akcji jest uzależniona od wartości transakcji. Zależność ta\nzostała przedstawiona w tabeli:\nWartość transakcji\nWysokość prowizji\ndo 500 zł\n15 zł\nod 500,01 zł do 3000 zł\n2% wartości transakcji + 5 zł\nod 3000,01 zł do 8000 zł\n1,5% wartości transakcji + 20 zł\nod 8000,01 zł do 15000 zł\n1% wartości transakcji + 60 zł\npowyżej 15000 zł\n0,7% wartości transakcji + 105 zł\nKlient zakupił za pośrednictwem tego biura maklerskiego 530 akcji w cenie 25 zł za jedną\nakcję. Po roku sprzedał wszystkie kupione akcje po 45 zł za jedną sztukę. Oblicz, ile zarobił\nna tych transakcjach po uwzględnieniu prowizji, które zapłacił.\nObliczam wartość transakcji:\n⋅\n=\nzakupu 530 25\n13250\nzł\n⋅\n=\nsprzedaży 530 45\n23850\nzł.\nObliczam, jaką prowizję należy zapłacić przy transakcjach:\n⋅\n+\n=\nprzy zakupie 13250 0,01\n60\n192,50\nzł\n⋅\n+\n=\nprzy sprzedaży 23850 0,007\n105\n271,95\nzł.\n(\n)\n−\n−\n+\n=\nObliczam zysk ze sprzedaży:\n23850\n13250\n192,50\n271,95\n10135,55\nzł.\nOdpowiedź: Klient zarobił 10135,55 zł.\n4\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2007-maj/3.webp",
+   "size": [
+    947,
+    338
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (4 pkt)\nKorzystając  z  danych  przedstawionych  na  rysunku,  oblicz  wartość  wyrażenia:\n2\nβ\n−\nβ\n⋅\nα\n+\n−\n2\nα\ntg\n5sin\nctg\n1 cos\n.\nC\ni\n8\n6\nβ\nα\nB\nA",
+   "key": "Zadanie 3. (4 pkt)\nKorzystając  z  danych  przedstawionych  na  rysunku,  oblicz  wartość  wyrażenia:\n2\nβ\n−\nβ\n⋅\nα\n+\n−\n2\nα\ntg\n5sin\nctg\n1 cos\n.\nC\ni\n8\n6\nβ\nα\nB\nA\nStosuję twierdzenia Pitagorasa do obliczenia przeciwprostokątnej trójkąta ABC:\nAB =\n+\n=\n=\n2\n2\n8\n6\n100\n10\n.\nObliczam wartości funkcji trygonometrycznych kąta α :\n4\n4\nα\n=\nα\n=\ncos\n,\nctg\n.\n5\n3\nObliczam wartości funkcji trygonometrycznych kąta β :\n4\n4\nβ\n=\nβ =\nsin\n,\ntg\n.\n5\n3\n2\nβ\n−\nβ\n⋅\nα\n+\n−\n2\nα :\nObliczam wartość wyrażenia\ntg\n5sin\nctg\n1\ncos\n2\n2\n⎛\n4\n⎞\n4 4\n⎛\n4\n⎞\n133\n−⋅\n⋅\n+\n−\n= −\n5\n1\n.\n⎜\n⎟\n⎜\n⎟\n⎝\n3\n⎠\n5 3\n⎝\n5\n⎠\n45\nEgzamin maturalny z matematyki\n5\nPoziom podstawowy"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2007-maj/4.webp",
+   "size": [
+    950,
+    155
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (5 pkt)\nSamochód przebył w pewnym czasie 210 km. Gdyby jechał ze średnią prędkością o 10 km/h\nwiększą, to czas przejazdu skróciłby się o pół godziny. Oblicz, z jaką średnią prędkością\njechał ten samochód.",
+   "key": "Zadanie 4. (5 pkt)\nSamochód przebył w pewnym czasie 210 km. Gdyby jechał ze średnią prędkością o 10 km/h\nwiększą, to czas przejazdu skróciłby się o pół godziny. Oblicz, z jaką średnią prędkością\njechał ten samochód.\nWprowadzam oznaczenia:\nv – średnia prędkość samochodu,\n210\nv – czas, w którym samochód przebył drogę ze średnią prędkością v,\n210\n– czas, w którym samochód przebył drogę ze średnią prędkością v +10.\nv +\n10\nWarunki zadania zapisuję za pomocą równania: 210\n210\n1\n−\n=\n,\n+\nv\nv\n10\n2\n2\n+\n−\n=\nktóre po przekształceniu przyjmuje postać:\nv\n10\nv\n4200\n0\n.\n=\n= −\nRozwiązaniem równania są liczby:\nv\n60,\nv\n70\n. Odrzucam rozwiązanie\n1\n2\nv = −\n70\n, które jest niezgodne z warunkami zadania.\n2\nOdpowiedź: Samochód jechał ze średnią prędkością 60 km/h.\n6\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2007-maj/5.webp",
+   "size": [
+    956,
+    255
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (5 pkt)\nDany jest ciąg arytmetyczny (\n)\nn ≥. Wiadomo, że dla każdego\nn ≥ suma\nna\n, gdzie\n1\n1\n=\n+\n+\n+\n= −\n+\n2\nn początkowych wyrazów\nS\na\na\n...\na\nwyraża się wzorem:\nS\nn\n13\nn\n.\nn\n1\n2\nn\nn\na) Wyznacz wzór na n–ty wyraz ciągu (\n)\nna\n.\nb) Oblicz\na\n.\n2007\nna =\nc) Wyznacz liczbę n, dla której\n0\n.",
+   "key": "Zadanie 5. (5 pkt)\nDany jest ciąg arytmetyczny (\n)\nn ≥. Wiadomo, że dla każdego\nn ≥ suma\nna\n, gdzie\n1\n1\n=\n+\n+\n+\n= −\n+\n2\nn początkowych wyrazów\nS\na\na\n...\na\nwyraża się wzorem:\nS\nn\n13\nn\n.\nn\n1\n2\nn\nn\na) Wyznacz wzór na n–ty wyraz ciągu (\n)\nna\n.\nb) Oblicz\na\n.\n2007\nna =\nc) Wyznacz liczbę n, dla której\n0\n.\na) Do wyznaczenia wzoru na n-ty wyraz ciągu (\n)\nna\nstosuję własność sum\n=\n−\nczęściowych:\na\nS\nS −\n.\nn\nn\nn\n1\n(\n)\n⎡\n(\n)\n(\n)\n⎤\n2\n= −\n2\n+\n−−\n−\n+\n−\n= −\n+\nna\nn\n13\nn\nn\n1\n13\nn\n1\n⎦, stąd\nna\n2\nn\n14\n.\n⎣\nb) Obliczam\na\n:\n2007\n= −⋅\n+\n= −\na\n2 2007\n14\n4000\n.\n2007\nc) Obliczam, który wyraz ciągu przyjmuje wartość zero:\n−\n+\n=\n2\nn\n14\n0\nn =\n7\nna =\nn =\nOdpowiedź:\n0\ngdy\n7\n.\nEgzamin maturalny z matematyki\n7\nPoziom podstawowy"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2007-maj/6.webp",
+   "size": [
+    950,
+    229
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (4 pkt)\n( )\n=\n3\n+\n2\n−\n+\nDany jest wielomian\nW x\n2\nx\nax\n14\nx\nb\n.\n( )\na =\nb =\n=\n3\n−\na)\nDla\n0\ni\n0\notrzymamy wielomian\nW x\n2\nx\n14\nx\n. Rozwiąż równanie\n3\n−\n=\n2\nx\n14\nx\n0\n.\nx −\nb) Dobierz wartości a i b tak, aby wielomian W(x) był podzielny jednocześnie przez\n2\nx + .\noraz przez\n3",
+   "key": "Zadanie 6. (4 pkt)\n( )\n=\n3\n+\n2\n−\n+\nDany jest wielomian\nW x\n2\nx\nax\n14\nx\nb\n.\n( )\na =\nb =\n=\n3\n−\na)\nDla\n0\ni\n0\notrzymamy wielomian\nW x\n2\nx\n14\nx\n. Rozwiąż równanie\n3\n−\n=\n2\nx\n14\nx\n0\n.\nx −\nb) Dobierz wartości a i b tak, aby wielomian W(x) był podzielny jednocześnie przez\n2\nx + .\noraz przez\n3\na) Rozwiązuję równanie:\n3\n−\n=\n2\nx\n14\nx\n0\n(\n)\nx x −\n2\n=\n2\n7\n0\n(\n)(\n)\n−\n+\n=\n2\nx x\n7\nx\n7\n0\nz zapisanej postaci iloczynowej odczytuję rozwiązania równania:\n=\n=\n= −\nx\n0,\nx\n7,\nx\n7.\n1\n2\n3\nb) Aby znaleźć wartość współczynników a i b korzystam z twierdzenia\no podzielności wielomianu przez dwumian, z którego wynika, że:\n( )\n(\n)\n=\nW −\n=\nW\n2\n0\noraz\n3\n0\n.\n+\n−\n+\n=\n⎧\n16\n4\na\n28\nb\n0\nOtrzymuję układ równań:\n, z którego wyznaczam a i b.\n⎨−\n+\n+\n+\n=\n54\n9\na\n42\nb\n0\n⎩\n+\n=\n⎧\n4\na\nb\n12\n⎨\n+\n=\n9\na\nb\n12\n⎩\nRozwiązanie układu równań są liczby: a = 0, b = 12.\n( )\n=\n−\n+\n3\nW x\n2\nx\n14\nx\n12\nWielomian przyjmuje postać:\n.\n8\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2007-maj/7.webp",
+   "size": [
+    950,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (5 pkt)\n(\n)\nC =\n=\n− będąca symetralną odcinka BC.\nDany jest punkt\n2,3\ni prosta o równaniu\ny\n2\nx\n8\nWyznacz współrzędne punktu B. Wykonaj obliczenia uzasadniające odpowiedź.",
+   "key": "Zadanie 7. (5 pkt)\n(\n)\nC =\n=\n− będąca symetralną odcinka BC.\nDany jest punkt\n2,3\ni prosta o równaniu\ny\n2\nx\n8\nWyznacz współrzędne punktu B. Wykonaj obliczenia uzasadniające odpowiedź.\ny\ny=2x-8\n5\nl\n4\nC\n3\n2\nS\n1\nB=(x,y)\nx\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n-1\n-2\n-3\n-4\n-5\n(\n)\n=\nPoszukiwany punkt\nB\nx y\n,\nleży na prostej l, która jest prostopadła do prostej\n1\n=\n−\na = −\ny\n2\nx\n8\n. Wyznaczam współczynnik kierunkowy a prostej l:\n.\n2\n(\n)\nC =\nProsta l przechodzi przez punkt\n2,3\n, więc zachodzi równość\n1\n= −\n⋅\n+\n3\n2\nb\n, z której wyznaczam współczynnik b.\n2\n1\nb =\n= −\n+\n.\n4\n, więc równanie prostej l ma postać:\ny\nx\n4\n2\nEgzamin maturalny z matematyki\n9\nPoziom podstawowy\nWyznaczam współrzędne punktu S będącego punktem przecięcia prostych:\n1\n=\n−\n= −\n+\ny\n2\nx\n8\noraz\ny\nx\n4\n.\n2\n⎧\n1\n= −\n+\n⎪⎨\ny\nx\n4\n24\n8\nx =\ny =\nRozwiązaniem układu równań\nsą liczby:\n,\n.\n2\n5\n5\n⎪\n=\n−\ny\n2\nx\n8\n⎩\n⎛\n⎞\nPunkt S ma więc współrzędne: 24 8\n,\n.\n⎜\n⎟\n⎝\n5 5\n⎠\nPunkt S jest środkiem odcinka BC.\nZapisuję zależność między współrzędnymi punktu S i końcami odcinka BC:\n+\n+\n⎛\nx\n2\ny\n3\n⎞\n⎛\n24 8\n⎞\n=\n,\n,\ni rozwiązuję równania:\n⎜\n⎟\n⎜\n⎟\n⎝\n2\n2\n⎠\n⎝\n5 5\n⎠\nx +\n2\n24\n38\n=\nx =\n, stąd\noraz\n2\n5\n5\ny +\n3\n8\n1\n=\ny =\n, stąd\n.\n2\n5\n5\n⎛\n38 1\n⎞\n= ⎜\nPunkt B ma współrzędne:\nB\n,\n.\n⎟\n⎝\n5 5\n⎠\n10\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2007-maj/8.webp",
+   "size": [
+    956,
+    182
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (4 pkt)\nNa stole leżało 14 banknotów: 2 banknoty o nominale 100 zł, 2 banknoty o nominale 50 zł\ni 10 banknotów o nominale 20 zł. Wiatr zdmuchnął na podłogę 5 banknotów. Oblicz\nprawdopodobieństwo tego, że na podłodze leży dokładnie 130 zł. Odpowiedź podaj w postaci\nułamka nieskracalnego.",
+   "key": "Zadanie 8. (4 pkt)\nNa stole leżało 14 banknotów: 2 banknoty o nominale 100 zł, 2 banknoty o nominale 50 zł\ni 10 banknotów o nominale 20 zł. Wiatr zdmuchnął na podłogę 5 banknotów. Oblicz\nprawdopodobieństwo tego, że na podłodze leży dokładnie 130 zł. Odpowiedź podaj w postaci\nułamka nieskracalnego.\nΩ\njest\nzbiorem\nwszystkich\npięcioelementowych\npodzbiorów\nczternastoelementowego zbioru banknotów.\nZbiór Ω ma moc: 14\n⎛\n⎞=\n2002\n.\n⎜\n⎟\n5\n⎝\n⎠\nZdarzenie A – na podłogę spadło 5 banknotów, które dają kwotę 130 zł.\nJest tylko jeden układ nominałów opisanych w zdarzeniu A:\n⋅\n+\n⋅\n=\n1 50\n4 20\n130\nzł.\nObliczam liczbę zdarzeń sprzyjających zajściu zdarzenia A:\n⎛⎞⎛\n⎞\n2\n10\n=\n⋅\n=\nA\n420\n.\n⎜⎟⎜\n⎟\n1\n4\n⎝⎠⎝\n⎠\n420\nObliczam prawdopodobieństwo ( )\nP A szukanego zdarzenia: ( )\nP A =\n2002\n30\ni otrzymany ułamek skracam do postaci ułamka nieskracalnego: ( )\nP A =\n.\n143\nEgzamin maturalny z matematyki\n11\nPoziom podstawowy"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2007-maj/9.webp",
+   "size": [
+    950,
+    159
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (6 pkt)\nOblicz pole czworokąta wypukłego ABCD, w którym kąty wewnętrzne mają odpowiednio\nA =\nD\nB =\nD\nC =\nD\nD =\nD\nmiary:\n)\n90\n,\n)\n75\n,\n)\n60\n,\n)\n135\n, a boki AB i AD mają długość 3 cm.\nSporządź rysunek pomocniczy.",
+   "key": "Zadanie 9. (6 pkt)\nOblicz pole czworokąta wypukłego ABCD, w którym kąty wewnętrzne mają odpowiednio\nA =\nD\nB =\nD\nC =\nD\nD =\nD\nmiary:\n)\n90\n,\n)\n75\n,\n)\n60\n,\n)\n135\n, a boki AB i AD mają długość 3 cm.\nSporządź rysunek pomocniczy.\nSporządzam rysunek pomocniczy.\nB\n30\n45\n3\n60\nC\nA\n45\n3\nD\nTrójkąt DAB jest równoramiennym trójkątem prostokątnym, dlatego kąty przy\nwierzchołkach B i D są równe i mają miarę 45D .\nBDC =\nD\n−\nD\n=\nD\nObliczam miarę kąta BDC:\n)\n135\n45\n90\n. Trójkąt CDB jest więc\nprostokątny.\nBD =\nObliczam długość przekątnej BD czworokąta ABCD:\n3 2\ncm.\nCD\nD ,\nBD =\nZ trójkąta CDB obliczam długość boku CD:\nctg60\n=\n⋅\nCD =\nD i po podstawieniu otrzymuję:\nstąd\nCD\nBD\nctg60\n6\ncm.\nObliczam pole trójkąta DAB oraz pole trójkąta CDB:\n=\n2\n=\n2\nPΔ\n4,5 cm\n,\nPΔ\n3 3cm\n.\nDAB\nCDB\nPole czworokąta ABCD jest sumą pól tych trójkątów:\n(\n)\n9\n3\n=\n+\n=\n+\n2\nP\n3 3\n3\n2 3 cm\n.\nABCD\n2\n2\n12\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2007-maj/10.webp",
+   "size": [
+    950,
+    219
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (5 pkt)\nDany jest graniastosłup czworokątny prosty ABCDEFGH o podstawach ABCD i EFGH oraz\nkrawędziach bocznych AE, BF, CG, DH. Podstawa ABCD graniastosłupa jest rombem o boku\ndługości 8 cm i kątach ostrych A i C o mierze 60D . Przekątna graniastosłupa CE jest\nnachylona do płaszczyzny podstawy pod kątem 60D . Sporządź rysunek pomocniczy i zaznacz\nna nim wymienione w zadaniu kąty. Oblicz objętość tego graniastosłupa.",
+   "key": "Zadanie 10. (5 pkt)\nDany jest graniastosłup czworokątny prosty ABCDEFGH o podstawach ABCD i EFGH oraz\nkrawędziach bocznych AE, BF, CG, DH. Podstawa ABCD graniastosłupa jest rombem o boku\ndługości 8 cm i kątach ostrych A i C o mierze 60D . Przekątna graniastosłupa CE jest\nnachylona do płaszczyzny podstawy pod kątem 60D . Sporządź rysunek pomocniczy i zaznacz\nna nim wymienione w zadaniu kąty. Oblicz objętość tego graniastosłupa.\nSporządzam rysunek pomocniczy graniastosłupa i zaznaczam opisane w zadaniu\nkąty.\nH\nG\nF\nE\nh\n60D\nD\nC\n60D\nA\nB\nP =\n⋅\n=\n2\nD\n2\nObliczam pole P podstawy graniastosłupa:\n8\nsin60\n32 3 cm\n.\nDługość dłuższej przekątnej rombu AC wyznaczam, korzystając z pola rombu:\n1\nD ,\n=\n⋅\n=\n⋅\n⋅\n⋅\n⋅\nP\n2\nP\n2\nAB\nAC\nsin30\nΔ\nrombu\nABC\n2\n1\n= ⋅\n⋅\nAC =\n32 3\n8\nAC\nstąd\n8 3\ncm.\n2\nh\nAC =\nD stąd\nWysokość graniastosłupa h wyznaczam z trójkąta CAE:\ntg60\nh =\n24\ncm.\nV =\n⋅\n=\n3\nObliczam objętość graniastosłupa:\n32 3 24\n768 3 cm\n.\nEgzamin maturalny z matematyki\n13\nPoziom podstawowy"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2007-maj/11.webp",
+   "size": [
+    950,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (4 pkt)\nDany jest rosnący ciąg geometryczny (\n)\nn ≥, w którym\n=\na =\n=\nna\ndla\n1\n1a\nx\n,\n14\n,\n3a\ny\n.\n2\n+\n=\nOblicz x oraz y, jeżeli wiadomo, że\nx\ny\n35\n.",
+   "key": "Zadanie 11. (4 pkt)\nDany jest rosnący ciąg geometryczny (\n)\nn ≥, w którym\n=\na =\n=\nna\ndla\n1\n1a\nx\n,\n14\n,\n3a\ny\n.\n2\n+\n=\nOblicz x oraz y, jeżeli wiadomo, że\nx\ny\n35\n.\nWykorzystuję własności ciągu geometrycznego do zapisania układu równań\nuwzględniającego warunki zadania:\n+\n=\n⎧\nx\ny\n35\n⎨⋅\n=\n2\nx y\n14\n⎩\n2\n−\n+\n=\nDoprowadzam układ równań do równania postaci:\nx\n35\nx\n196\n0\n.\nx =\nx =\nRozwiązaniem równania są liczby:\n7\n,\n28\n.\n1\n2\nWyznaczam pary liczb, które są rozwiązaniem układu równań:\n=\n=\n⎧\nx\n7\n⎧\nx\n28\n1\n2\n⎨\noraz\n⎨\n.\n=\n=\ny\n28\ny\n7\n⎩\n⎩\n1\n2\nx =\ny =\nRosnący ciąg geometryczny otrzymamy, gdy\n7\n,\n28\n.\n14\nEgzamin maturalny z matematyki\nPoziom podstawowy\nBRUDNOPIS"
+  }
+ ]
+}

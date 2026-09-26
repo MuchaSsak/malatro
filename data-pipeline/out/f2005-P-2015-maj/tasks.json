@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2015-maj",
+  "formula": "2005",
+  "level": "P",
+  "year": 2015,
+  "session": "maj",
+  "month": "05",
+  "code": "MMA-P1_1P-152",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2015/formula_do_2014/MMA-P1_1P-152.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2015/formula_do_2014/odpowiedzi/MMA-P1-S.pdf",
+  "examFile": "f2005-P-2015-maj.pdf",
+  "keyFile": "f2005-P-2015-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "formula do 2014 (stara matura; technikum)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2015-2/",
+  "examPages": 24,
+  "keyPages": 28,
+  "examBytes": 508653,
+  "keyBytes": 364918
+ },
+ "keyHead": "EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2014/2015\nFORMUŁA DO 2014\n(„STARA MATURA”)\nMATEMATYKA\nPOZIOM PODSTAWOWY\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nARKUSZ MMA-P1\n(Wersja uaktualniona; 30 czerwca 2015r.)\nMAJ 2015\nUwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki\nzadania.\nZadanie 1. (0−1)\nPoprawna\nObszar standardów\nOpis wymagań\nodp. (1 p.)\n1. Liczby rzeczywiste. Zdający stosuje pojęcie\nWersja\nWersja\nIII. Modelowanie\nprocentu i punktu procentowego\nI\nII\nmatematyczne.\nw obliczeniach (1.d).\nC\nA\nZadanie 2. (0−1)\n1. Liczby rzeczywiste. Zdający wykorzystuje\nWersja\nWersja\npojęcie wartości bezwzględnej i jej\nI\nII\nII. Wykorzystanie\ninterpretację geometryczną, zaznacza na osi\ni interpretowanie\nliczbowej zbiory opisane za pomocą równań\nreprezentacji.\ni nierówności typu:\nx\na\nb\n,\nx\na\nb\n,\n−\n=\n−\n>\nB\nA\nx\na\nb\n(1.f).\n−\n<\nZadanie 3. (0−1)\n1. Liczby rzeczywiste. Zdający oblicza potęgi\nWersja\nWersja\nII. Wykorzystanie\no wykładnikach wymiernych oraz stosuje\nI\nII\ni interpretowanie\nprawa działań na potęgach o wykładnikach\nreprezentacji.\nwymiernych i rzeczywistych (1.g).\nD\nC\nZadanie 4. (0−1)\n1. Liczby rzeczywiste. Zdający zna definicję\nWersja\nWersja\nII. Wykorzystanie\nlogarytmu i stosuje w obliczeniach wzory na\nI\nII\ni interpretowanie\nlogarytm iloczynu, logarytm ilorazu\nreprezentacji.\ni logarytm potęgi o wykładniku naturalnym\nA\nC\n(1.h).\nZadanie 5. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n2. Wyrażenia algebraiczne. Zdający dodaje,\nI\nII\ni interpretowanie\nodejmuje, mnoży i dzieli wyrażenia wymierne\nreprezentacji.\n(2.f).\nB\nA\nZadanie 6. (0−1)\n2. Wyrażenia algebraiczne. Zdający wyznacza\nWersja\nWersja\ndziedzinę prostego wyrażenia wymiernego\nI\nII\nI. Wykorzystanie\nz jedną zmienną, w którym w mianowniku\ni tworzenie informacji.\nwystępują tylko wyrażenia dające się\nA\nB\nsprowadzić do iloczynu wielomianów\nliniowych i kwadratowych (2.d).\nZadanie 7. (0−1)\n3. Równania i nierówności. Zdający\nWersja\nWersja\nrozwiązuje proste równania wymierne,\nI\nII\nII. Wykorzystanie\nprowadzące do równań liniowych lub\ni interpretowanie\nx\n1\nx\n1\nreprezentacji.\n+ =\n+ =\nB\nC\nkwadratowych, np.\n,\n(3.e).\n2\n2\nx\nx\n3\nx\n+\nZadanie 8. (0−1)\nWersja\nWersja\n4. Funkcje. Zdający odczytuje z wykresu\nI. Wykorzystanie\nI\nII\nfunkcji miejsce zerowe oraz sporządza\ni tworzenie informacji.\nwykresy funkcji liniowych (4.b,e).\nB\nD\nZadanie 9. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n4. Funkcje. Zdający wyznacza wzór funkcji\nI\nII\ni interpretowanie\nliniowej (4.f).\nreprezentacji.\nC\nB\nZadanie 10. (0−1)\nWersja\nWersja\n4. Funkcje. Zdający wykorzystuje\nI. Wykorzystanie\nI\nII\ninterpretację współczynników we wzorze\ni tworzenie informacji.\nfunkcji liniowej (4.g).\nB\nC\nZadanie 11. (0−1)\n5. Ciągi liczbowe. Zdający stosuje wzór na\nWersja\nWersja\nIII. Modelowanie\nn-ty wyraz i  sumę n początkowych wyrazów\nI\nII\nmatematyczne.\nciągu arytmetycznego i ciągu geometrycznego\nA\nC\n(5.c).\nZadanie 12. (0−1)\n5. Ciągi liczbowe. Zdający stosuje wzór na\nWersja\nWersja\nIII. Modelowanie\nn-ty wyraz i  sumę n początkowych wyrazów\nI\nII\nmatematyczne.\nciągu arytmetycznego i ciągu geometrycznego\nC\nD\n(5.c).\nZadanie 13. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n6. Trygonometria. Zdający wykorzystuje\nI\nII\ni interpretowanie\ndefinicję i wyznacza wartości funkcji\nreprezentacji.\ntrygonometrycznych dla kątów ostrych (6.a).\nD\nA\nZadanie 14. (0−1)\n6. Trygonometria. Zdający, znając wartość\nWersja\nWersja\nIV. Użycie i tworzenie\njednej z funkcji trygonometrycznych,\nI\nII\nstrategii.\nwyznacza wartości pozostałych funkcji tego\nD\nB\nsamego kąta ostrego (6.d).\nZadanie 15. (0−1)\nWersja\nWersja\nIV. Użycie i tworzenie\n7. Planimetria. Zdający znajduje związki\nI\nII\nstrategii.\nmiarowe w figurach płaskich (7.c).\nD\nA\nZadanie 16. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n7. Planimetria. Zdający wykorzystuje\nI\nII\ni interpretowanie\nwłasności figur podobnych w zadaniach (7.b).\nreprezentacji.\nB\nD\nZadanie 17. (0−1)\n8. Geometria na płaszczyźnie kartezjańskiej.\nWersja\nWersja\nII. Wykorzystanie\nZdający bada równoległość i prostopadłość\nI\nII\ni interpretowanie\nprostych na podstawie ich równań\nreprezentacji.\nA\nB\nkierunkowych (8.c).\nZadanie 18. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający podaje równanie prostej, mając dane\nreprezentacji.\ndwa jej punkty (8.b).\nA\nC\nZadanie 19. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający oblicza odległości punktów na\nreprezentacji.\npłaszczyźnie kartezjańskiej (8.e).\nC\nB\nZadanie 20. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający wyznacza współrzędne środka\nreprezentacji.\nodcinka (8.f).\nA\nD\nZadanie 21. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający posługuje się równaniem okręgu\nreprezentacji.\n(8.g).\nC\nD\nZadanie 22. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n9. Stereometria. Zdający wyznacza związki\nI\nII\ni interpretowanie\nmiarowe w wielościanach z zastosowaniem\nreprezentacji.\ntrygonometrii (9.b).\nC\nA\nZadanie 23. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n9. Stereometria. Zdający wyznacza związki\nI\nII\ni interpretowanie\nmiarowe w bryłach obrotowych\nreprezentacji.\nz zastosowaniem trygonometrii (9.b).\nD\nA\nZadanie 24. (0−1)\n10. Elementy statystyki opisowej. Teoria\nWersja\nWersja\nII. Wykorzystanie\nprawdopodobieństwa i kombinatoryka.\nI\nII\ni interpretowanie\nZdający oblicza średnią arytmetyczną, średnią\nreprezentacji.\nważoną, medianę i odchylenie standardowe\nD\nB\nzestawu danych (10.a).\nZadanie 25. (0−1)\n10. Elementy statystyki opisowej. Teoria\nWersja\nWersja\nprawdopodobieństwa i kombinatoryka.\nI\nII\nII. Wykorzystanie\nZdający wykorzystuje własności\ni interpretowanie\nprawdopodobieństwa i stosuje twierdzenia\nreprezentacji.\nznane jako klasyczna definicja\nB\nD\nprawdopodobieństwa do obliczania\nprawdopodobieństw zdarzeń (10.d).\nZadanie 26. (0–2)\n2\nRozwiąż nierówność\n2\nx\n4\nx\n(\nx\n3\n)(\nx\n2\n)\n.\n−\n>\n+",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/1.webp",
+   "size": [
+    958,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nCena pewnego towaru wraz z 7-procentowym podatkiem VAT jest równa 34 347 zł. Cena\ntego samego towaru wraz z 23-procentowym podatkiem VAT będzie równa\nA. 37 236 zł\nB. 39 842,52 zł\nC. 39 483 zł\nD. 42 246,81 zł",
+   "key": "Zadanie 1. (0−1)\nPoprawna\nObszar standardów\nOpis wymagań\nodp. (1 p.)\n1. Liczby rzeczywiste. Zdający stosuje pojęcie\nWersja\nWersja\nIII. Modelowanie\nprocentu i punktu procentowego\nI\nII\nmatematyczne.\nw obliczeniach (1.d).\nC\nA"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/2.webp",
+   "size": [
+    958,
+    126
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\nNajmniejszą liczbą całkowitą dodatnią spełniającą nierówność\nx +\n4,5\n6\njest\n≥\nA.\nx\n1\nB.\nx\n2\nC.\nx =\n3\nD.\nx\n6\n=\n=\n=",
+   "key": "Zadanie 2. (0−1)\n1. Liczby rzeczywiste. Zdający wykorzystuje\nWersja\nWersja\npojęcie wartości bezwzględnej i jej\nI\nII\nII. Wykorzystanie\ninterpretację geometryczną, zaznacza na osi\ni interpretowanie\nliczbowej zbiory opisane za pomocą równań\nreprezentacji.\ni nierówności typu:\nx\na\nb\n,\nx\na\nb\n,\n−\n=\n−\n>\nB\nA\nx\na\nb\n(1.f).\n−\n<"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/3.webp",
+   "size": [
+    958,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n4\nLiczba\n3\n5\njest równa\n2 ⋅\n3\n2\n20\n4\nA.\n2\nB. 2\nC.\n2\nD.\n32\n3\n5",
+   "key": "Zadanie 3. (0−1)\n1. Liczby rzeczywiste. Zdający oblicza potęgi\nWersja\nWersja\nII. Wykorzystanie\no wykładnikach wymiernych oraz stosuje\nI\nII\ni interpretowanie\nprawa działań na potęgach o wykładnikach\nreprezentacji.\nwymiernych i rzeczywistych (1.g).\nD\nC"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/4.webp",
+   "size": [
+    958,
+    121
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\nLiczba\n2log 10\nlog 4\njest równa\n−\n5\n5\nA. 2\nB.\nlog 96\nC.\n2log 6\nD. 5\n5\n5",
+   "key": "Zadanie 4. (0−1)\n1. Liczby rzeczywiste. Zdający zna definicję\nWersja\nWersja\nII. Wykorzystanie\nlogarytmu i stosuje w obliczeniach wzory na\nI\nII\ni interpretowanie\nlogarytm iloczynu, logarytm ilorazu\nreprezentacji.\ni logarytm potęgi o wykładniku naturalnym\nA\nC\n(1.h)."
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/5.webp",
+   "size": [
+    958,
+    194
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\nZbiór wszystkich liczb rzeczywistych spełniających nierówność 3\n2\nx\nx\njest przedziałem\n−\n≥\n5\n3\n6\n\n9 ,\n\n−∞\n18\n1 ,\n−∞\n9\nA.\nB.\n, 25\nC.\nD.\n, 5\n+∞\n\n+∞\n\n30\n15",
+   "key": "Zadanie 5. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n2. Wyrażenia algebraiczne. Zdający dodaje,\nI\nII\ni interpretowanie\nodejmuje, mnoży i dzieli wyrażenia wymierne\nreprezentacji.\n(2.f).\nB\nA"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/6.webp",
+   "size": [
+    958,
+    340
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\nx\n4\n+\nDziedziną funkcji f określonej wzorem ( )\nf\nx\nmoże być zbiór\n=\n2 −\nx\n4\nx\nA. wszystkich liczb rzeczywistych różnych od 0 i od 4.\nB. wszystkich liczb rzeczywistych różnych od –4 i od 4.\nC. wszystkich liczb rzeczywistych różnych od –4 i od 0.\nD. wszystkich liczb rzeczywistych.",
+   "key": "Zadanie 6. (0−1)\n2. Wyrażenia algebraiczne. Zdający wyznacza\nWersja\nWersja\ndziedzinę prostego wyrażenia wymiernego\nI\nII\nI. Wykorzystanie\nz jedną zmienną, w którym w mianowniku\ni tworzenie informacji.\nwystępują tylko wyrażenia dające się\nA\nB\nsprowadzić do iloczynu wielomianów\nliniowych i kwadratowych (2.d)."
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/7.webp",
+   "size": [
+    958,
+    174
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\n2\nx\n4\n4\n−\nRozwiązaniem równania\njest liczba\n=\n3\nx\n3\n−\n12\n25\nA.\nx\n0\nB.\nx =\nC.\nx =\n2\nD.\nx =\n=\n5\n11",
+   "key": "Zadanie 7. (0−1)\n3. Równania i nierówności. Zdający\nWersja\nWersja\nrozwiązuje proste równania wymierne,\nI\nII\nII. Wykorzystanie\nprowadzące do równań liniowych lub\ni interpretowanie\nx\n1\nx\n1\nreprezentacji.\n+ =\n+ =\nB\nC\nkwadratowych, np.\n,\n(3.e).\n2\n2\nx\nx\n3\nx\n+"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/8.webp",
+   "size": [
+    950,
+    151
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\n2\nMiejscem zerowym funkcji liniowej określonej wzorem\nf\n(\nx\n)\nx\n4\njest\n=\n−\n+\n3\nA. 0\nB. 6\nC. 4\nD.\n6\n−",
+   "key": "Zadanie 8. (0−1)\nWersja\nWersja\n4. Funkcje. Zdający odczytuje z wykresu\nI. Wykorzystanie\nI\nII\nfunkcji miejsce zerowe oraz sporządza\ni tworzenie informacji.\nwykresy funkcji liniowych (4.b,e).\nB\nD"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/9.webp",
+   "size": [
+    950,
+    240
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\n\n1 , 3\n\n= \nPunkt\nM\nnależy\ndo\nwykresu\nfunkcji\nliniowej\nokreślonej\nwzorem\n\n\n2\n\n(\n)\nf x\n( )\n3\n2\na x\n2\n. Wtedy\n=\n−\n+\n1\n1\nA.\na = −\nB.\na =\n2\nC.\na =\nD.\na = −\n2\n2\n2",
+   "key": "Zadanie 9. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n4. Funkcje. Zdający wyznacza wzór funkcji\nI\nII\ni interpretowanie\nliniowej (4.f).\nreprezentacji.\nC\nB"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/10.webp",
+   "size": [
+    950,
+    653
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\nNa rysunku przedstawiono fragment prostej o równaniu\ny\nax\nb .\n=\n+\ny\n8\n7\n6\nP = (2, 5)\n5\n4\nQ = (5, 3)\n3\n2\n1\nx\n0\n4\n6\n-1\n1\n2\n3\n5\n7\n8\n9\n10\n-1\nWspółczynnik kierunkowy tej prostej jest równy\n3\n2\n2\n3\nA.\na = −\nB.\na = −\nC.\na = −\nD.\na = −\n2\n3\n5\n5",
+   "key": "Zadanie 10. (0−1)\nWersja\nWersja\n4. Funkcje. Zdający wykorzystuje\nI. Wykorzystanie\nI\nII\ninterpretację współczynników we wzorze\ni tworzenie informacji.\nfunkcji liniowej (4.g).\nB\nC"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/11.webp",
+   "size": [
+    950,
+    165
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\nW ciągu arytmetycznym (\n)\na\nokreślonym dla\nn\n1\ndane są\na\n4\ni\nr\n.2\nKtórym\n≥\n=\n−\n=\nn\n1\nwyrazem tego ciągu jest liczba\n156\n?\nA. 81.\nB. 80.\nC. 76.\nD. 77.",
+   "key": "Zadanie 11. (0−1)\n5. Ciągi liczbowe. Zdający stosuje wzór na\nWersja\nWersja\nIII. Modelowanie\nn-ty wyraz i  sumę n początkowych wyrazów\nI\nII\nmatematyczne.\nciągu arytmetycznego i ciągu geometrycznego\nA\nC\n(5.c)."
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/12.webp",
+   "size": [
+    950,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\nW rosnącym ciągu geometrycznym (\n)\na\n, określonym dla\nn\n1\n, spełniony jest warunek\n≥\nn\na\n3\na\n. Iloraz q tego ciągu jest równy\n=\n4\n1\n1\n1\n3 3\nA.\nq =\nB.\nq =\nC.\nq =\nD.\nq =\n3\n3\n3\n3",
+   "key": "Zadanie 12. (0−1)\n5. Ciągi liczbowe. Zdający stosuje wzór na\nWersja\nWersja\nIII. Modelowanie\nn-ty wyraz i  sumę n początkowych wyrazów\nI\nII\nmatematyczne.\nciągu arytmetycznego i ciągu geometrycznego\nC\nD\n(5.c)."
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/13.webp",
+   "size": [
+    950,
+    447
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nDrabinę o długości 4 metrów oparto o pionowy mur, a jej podstawę umieszczono\nw odległości 1,30 m od tego muru (zobacz rysunek).\n4 m\nα\n1,30 m\nKąt α , pod jakim ustawiono drabinę, spełnia warunek\nA. 0\n30\n°\nB. 30\n45\n°\nC. 45\n60\n°\nD. 60\n90\n°\n° <\nα\n<\n° <\nα\n<\n° <\nα\n<\n° <\nα\n<",
+   "key": "Zadanie 13. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n6. Trygonometria. Zdający wykorzystuje\nI\nII\ni interpretowanie\ndefinicję i wyznacza wartości funkcji\nreprezentacji.\ntrygonometrycznych dla kątów ostrych (6.a).\nD\nA"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/14.webp",
+   "size": [
+    950,
+    178
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\n2\nKąt α jest ostry i\nsin\n. Wówczas\ncos\njest równy\nα =\nα\n5\n21\nC. 3\n21\n5\nA.\n2\nB.\n5\nD.\n4\n5",
+   "key": "Zadanie 14. (0−1)\n6. Trygonometria. Zdający, znając wartość\nWersja\nWersja\nIV. Użycie i tworzenie\njednej z funkcji trygonometrycznych,\nI\nII\nstrategii.\nwyznacza wartości pozostałych funkcji tego\nD\nB\nsamego kąta ostrego (6.d)."
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/15.webp",
+   "size": [
+    950,
+    691
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\nW trójkącie równoramiennym ABC spełnione są warunki: AC\nBC\n,\n\nCAB =\n50\n.\n=\n°\nOdcinek BD jest dwusieczną kąta ABC, a odcinek BE jest wysokością opuszczoną\nz wierzchołka B na bok AC. Miara kąta EBD jest równa\nC\nE\nD\n?\n50°\nA\nB\nA. 10°\nB. 12,5°\nC. 13,5°\nD. 15°",
+   "key": "Zadanie 15. (0−1)\nWersja\nWersja\nIV. Użycie i tworzenie\n7. Planimetria. Zdający znajduje związki\nI\nII\nstrategii.\nmiarowe w figurach płaskich (7.c).\nD\nA"
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/16.webp",
+   "size": [
+    950,
+    491
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nPrzedstawione na rysunku trójkąty są podobne.\nb\nα\nβ\na\n4\n6\n15\nα\nβ\n12\nWówczas\nA.\na =\n13\n,\nb =\n17\nB.\na =\n10\n,\nb =\n18\nC.\na =\n9\n,\nb =\n19\nD.\na =\n11\n,\nb =\n13",
+   "key": "Zadanie 16. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n7. Planimetria. Zdający wykorzystuje\nI\nII\ni interpretowanie\nwłasności figur podobnych w zadaniach (7.b).\nreprezentacji.\nB\nD"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/17.webp",
+   "size": [
+    950,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\n2\n2\n2\nProste o równaniach:\ny\n2\nmx\nm\n− oraz\n1\ny\n4\nm x\nm\n+ są prostopadłe dla\n1\n=\n−\n=\n+\n1\n1\nA.\nm = −\nB.\nm =\nC.\nm =\n1\nD.\nm =\n2\n2\n2",
+   "key": "Zadanie 17. (0−1)\n8. Geometria na płaszczyźnie kartezjańskiej.\nWersja\nWersja\nII. Wykorzystanie\nZdający bada równoległość i prostopadłość\nI\nII\ni interpretowanie\nprostych na podstawie ich równań\nreprezentacji.\nA\nB\nkierunkowych (8.c)."
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/18.webp",
+   "size": [
+    950,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\n(\n)\n(\n)\nDane są punkty\nM =\n3,\n5\noraz\nN = −\n1, 7\n. Prosta przechodząca przez te punkty ma\n−\nrównanie\n1\nA.\ny\n3\nx\n4\nB.\ny\n3\nx\n4\nC.\ny\nx\n4\nD.\ny\n3\nx\n4\n= −\n+\n=\n−\n= −\n+\n=\n+\n3",
+   "key": "Zadanie 18. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający podaje równanie prostej, mając dane\nreprezentacji.\ndwa jej punkty (8.b).\nA\nC"
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/19.webp",
+   "size": [
+    950,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\n(\n)\n(\n)\nDane są punkty:\nP = −\n2,\n2\n,\nQ =\n3, 3\n. Odległość punktu P od punktu Q jest równa\n−\nA. 1\nB. 5\nC.\n5\n2\nD.\n2\n5",
+   "key": "Zadanie 19. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający oblicza odległości punktów na\nreprezentacji.\npłaszczyźnie kartezjańskiej (8.e).\nC\nB"
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/20.webp",
+   "size": [
+    950,
+    176
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\n(\n)\nPunkt\nK = −\n4, 4\njest końcem odcinka KL, punkt L leży na osi Ox, a środek S tego odcinka\nleży na osi Oy. Wynika stąd, że\n(\n)\n(\n)\n(\n)\n(\n)\nA.\nS\n,0\n2\nB.\nS\n,2\n0\nC.\nS\n,4\n0\nD.\nS\n,0\n4\n=\n=\n−\n=\n=",
+   "key": "Zadanie 20. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający wyznacza współrzędne środka\nreprezentacji.\nodcinka (8.f).\nA\nD"
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/21.webp",
+   "size": [
+    953,
+    646
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\n(\n)\nOkrąg przedstawiony na rysunku ma środek w punkcie\nO =\n3,1\ni przechodzi przez punkty\n(\n)\n(\n)\nS =\n0, 4\ni\nT =\n0,\n2\n. Okrąg ten jest opisany przez równanie\n−\ny\n6\n5\n4\nS\n3\n2\nO\n1\nx\n2\n2\nA. (\n)\n(\n)\n0\nx\n3\ny\n1\n18\n+\n+\n+\n=\n3\n4\n5 6\n1\n2\n7 8\n-1\n2\n2\nB. (\n)\n(\n)\nx\n3\ny\n1\n18\nT\n−\n+\n+\n=\n-2\n2\n2\nC. (\n)\n(\n)\nx\n3\ny\n1\n18\n−\n+\n−\n=\n2\n2\nD. (\n)\n(\n)\nx\n3\ny\n1\n18\n+\n+\n−\n=",
+   "key": "Zadanie 21. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n8. Geometria na płaszczyźnie kartezjańskiej.\nI\nII\ni interpretowanie\nZdający posługuje się równaniem okręgu\nreprezentacji.\n(8.g).\nC\nD"
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/22.webp",
+   "size": [
+    953,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\nPrzekątna ściany sześcianu ma długość 2. Pole powierzchni całkowitej tego sześcianu jest\nrówne\n12\n2\n16\n2\nA. 24\nB.\nC. 12\nD.",
+   "key": "Zadanie 22. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n9. Stereometria. Zdający wyznacza związki\nI\nII\ni interpretowanie\nmiarowe w wielościanach z zastosowaniem\nreprezentacji.\ntrygonometrii (9.b).\nC\nA"
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/23.webp",
+   "size": [
+    953,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nKula o promieniu 5 cm i stożek o promieniu podstawy 10 cm mają równe objętości.\nWysokość stożka jest równa\nA. 25\nC. 10\nπ cm\nB. 10 cm\nπ cm\nD. 5 cm",
+   "key": "Zadanie 23. (0−1)\nWersja\nWersja\nII. Wykorzystanie\n9. Stereometria. Zdający wyznacza związki\nI\nII\ni interpretowanie\nmiarowe w bryłach obrotowych\nreprezentacji.\nz zastosowaniem trygonometrii (9.b).\nD\nA"
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/24.webp",
+   "size": [
+    953,
+    275
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nŚrednia arytmetyczna zestawu danych:\n2, 4, 7, 8, 9\njest taka sama jak średnia arytmetyczna zestawu danych:\n2, 4, 7, 8, 9, x.\nWynika stąd, że\nA.\nx\n0\nB.\nx\n3\nC.\nx\n5\nD.\nx\n6\n=\n=\n=\n=",
+   "key": "Zadanie 24. (0−1)\n10. Elementy statystyki opisowej. Teoria\nWersja\nWersja\nII. Wykorzystanie\nprawdopodobieństwa i kombinatoryka.\nI\nII\ni interpretowanie\nZdający oblicza średnią arytmetyczną, średnią\nreprezentacji.\nważoną, medianę i odchylenie standardowe\nD\nB\nzestawu danych (10.a)."
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2015-maj/25.webp",
+   "size": [
+    953,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\nW pewnej klasie stosunek liczby dziewcząt do liczby chłopców jest równy 4:5. Losujemy\njedną osobę z tej klasy. Prawdopodobieństwo tego, że będzie to dziewczyna, jest równe\n4\n4\nC. 1\nD. 1\nA.\n5\nB.\n9\n4\n9",
+   "key": "Zadanie 25. (0−1)\n10. Elementy statystyki opisowej. Teoria\nWersja\nWersja\nprawdopodobieństwa i kombinatoryka.\nI\nII\nII. Wykorzystanie\nZdający wykorzystuje własności\ni interpretowanie\nprawdopodobieństwa i stosuje twierdzenia\nreprezentacji.\nznane jako klasyczna definicja\nB\nD\nprawdopodobieństwa do obliczania\nprawdopodobieństw zdarzeń (10.d)."
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-maj/26.webp",
+   "size": [
+    950,
+    112
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\nWykaż, że dla każdej liczby rzeczywistej x i dla każdej liczby rzeczywistej y prawdziwa jest\n2\n2\nnierówność\n4\nx\n8\nxy\n5\ny\n0\n.\n−\n+\n≥",
+   "key": "Zadanie 26. (0–2)\n2\nRozwiąż nierówność\n2\nx\n4\nx\n(\nx\n3\n)(\nx\n2\n)\n.\n−\n>\n+\n−\nV. Rozumowanie\n2. Wyrażenia algebraiczne. Zdający posługuje się wzorami\ni argumentacja.\nskróconego mnożenia (2.a).\nI sposób rozwiązania\n2\n2\nNierówność\n4\nx\n8\nxy\n5\ny\n0\nprzekształcamy w sposób równoważny\n−\n+\n≥\n2\n2\n2\ny\n4\nx\n8\nxy\n4\ny\n0\n,\n+\n−\n+\n≥\n2\n2\n(\n)\ny\n2\nx\n2\ny\n0\n.\n+\n−\n≥\nTa nierówność jest prawdziwa dla dowolnych liczb rzeczywistych x i y, gdyż kwadrat każdej\nliczby jest nieujemny i suma kwadratów liczb nieujemnych również jest nieujemna.\nTo kończy dowód.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................... 1 p.\n2\n2\n(\n)\ngdy zapisze nierówność w postaci równoważnej\ny\n2\nx\n2\ny\n0\ni na tym poprzestanie lub\n+\n−\n≥\ndalej popełnia błędy.\nZdający otrzymuje ............................................................................................................... 2 p.\ngdy przeprowadzi pełny dowód.\nII sposób rozwiązania\n2\n2\nNierówność\n4\nx\n8\nxy\n5\ny\n0\nmożemy potraktować jak nierówność kwadratową\n−\n+\n≥\nz niewiadomą x lub – analogicznie – z niewiadomą y. Wyróżnik trójmianu stojącego po lewej\nstronie nierówności jest równy\n(\n)\n2\n(\n)\n8\ny\n4 4\n5\ny\n2\n16\ny\n2\n0\n.\nΔ = −\n−⋅⋅\n= −\n≤\nStąd  i z faktu, że współczynnik przy\n2x trójmianu\nf x\n( )\n4\nx\n2\n8\nxy\n5\ny\n2\njest dodatni\n=\n−\n+\nwynika, że trójmian ten przyjmuje tylko wartości nieujemne. To kończy dowód.\nSchemat oceniania II sposobu\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy wyznaczy wyróżnik trójmianu\nf x\n( )\n4\nx\n2\n8\nxy\n5\ny\n2\n:\n16y\n2\ni na tym poprzestanie\n=\n−\n+\nΔ = −\nlub dalej popełnia błędy.\nZdający otrzymuje ................................................................................................................ 2 p.\n2\n2\ngdy wyznaczy wyróżnik trójmianu\nf x\n( )\n4\nx\n8\nxy\n5\ny\n, zapisze, że jest on niedodatni\n=\n−\n+\ni wyciągnie wniosek, że trójmian przyjmuje tylko wartości nieujemne.\nIII sposób rozwiązania\nDla dowolnych liczb rzeczywistych x, y prawdziwa jest nierówność\nx\n2\ny\n2\n2\nxy\n. Stąd\n+\n≥\nwynika, że prawdziwa jest nierówność\n2\n2\n2\n2\n4\nx\n4\ny\n8\nxy\n, czyli\n4\nx\n8\nxy\n4\ny\n0\n.\n+\n≥\n−\n+\n≥\nZatem, dla dowolnych liczb x, y mamy\n2\n2\n2\n2\n4\nx\n8\nxy\n5\ny\n4\nx\n8\nxy\n4\ny\n0\n.\n−\n+\n≥\n−\n+\n≥\nTo kończy dowód.\nSchemat oceniania III sposobu rozwiązania\nZdający otrzymuje ................................................................................................................ 1 p.\ngdy zapisze, że dla dowolnych liczb rzeczywistych x, y prawdziwe są nierówności\n2\n2\n2\n2\n2\n2\n2\n2\n4\nx\n8\nxy\n5\ny\n4\nx\n8\nxy\n4\ny\noraz\n4\nx\n4\ny\n8\nxy\n(lub\nx\ny\n2\nxy\n).\n−\n+\n≥\n−\n+\n+\n≥\n+\n≥\nZdający otrzymuje ................................................................................................................ 2 p.\ngdy przeprowadzi pełny dowód.\nIV sposób rozwiązania\n2\n2\nGdy co najmniej jedna z liczb x, y jest równa 0, to nierówność\n4\nx\n8\nxy\n5\ny\n0\njest\n−\n+\n≥\nprawdziwa, gdyż suma trzech liczb, z których co najmniej dwie są równe 0, a trzecia nieujemna,\njest nieujemna.\nGdy liczby x, y są przeciwnych znaków, to\nxy <\n0\n, więc\n8\nxy\n0\n. Zatem nierówność\n−\n>\n2\n2\n4\nx\n8\nxy\n5\ny\n0\njest prawdziwa, gdyż lewa jej strona jest sumą trzech liczb dodatnich.\n−\n+\n≥\nPozostaje wykazać prawdziwość nierówności w przypadku, gdy liczby x, y są tego samego\nznaku.\nZauważmy najpierw, że dla dowolnych liczb rzeczywistych x, y prawdziwa jest nierówność\n2\n(\n)\n2\n2\n2\nx\n5\ny\n0\n, czyli\n4\nx\n4 5\nxy\n5\ny\n0\n.\n−\n≥\n−\n+\n≥\nWykażemy teraz prawdziwość nierówności\n2\n2\n2\n2\n4\nx\n8\nxy\n5\ny\n4\nx\n4 5\nxy\n5\ny\n,\n−\n+\n≥\n−\n+\nrównoważnie\n8\nxy\n4 5\nxy\n,\n−\n≥−\n5\nxy\nxy\n.\n≤\n2\nSkoro x i y są tego samego znaku, to\nxy >\n0\n, więc dzieląc obie strony nierówności przez xy,\n5\notrzymujemy nierówność równoważną\n1\n, co jest prawdą. To kończy dowód.\n≤\n2\nSchemat oceniania IV sposobu rozwiązania\nZdający otrzymuje ................................................................................................................ 1 p.\ngdy wykaże prawdziwość nierówności w przypadku, gdy co najmniej jedna z liczb x, y jest\nrówna 0 oraz w przypadku, gdy liczby x, y są przeciwnych znaków, a w przypadku,\n2\ngdy x, y są tego samego znaku zauważy, że prawdziwa jest nierówność (\n)\n2\nx\n5\ny\n0\n.\n−\n≥\nZdający otrzymuje ............................................................................................................... 2 p.\ngdy przeprowadzi pełny dowód.\nUwaga\nGdy zdający sprawdza jedynie prawdziwość nierówności dla konkretnych liczb x i y, to\notrzymuje 0 punktów."
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-maj/27.webp",
+   "size": [
+    942,
+    80
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\n2\nRozwiąż nierówność\n2\nx\n4\nx\nx\n2\n.\n−\n≥\n−",
+   "key": "Zadanie 27. (0–2)\nRozwiąż nierówność\n2\nx\n2\n4\nx\nx\n2\n.\n−\n≥\n−\nII. Wykorzystanie\n3. Równania i nierówności. Zdający rozwiązuje równania\ni interpretowanie\ni nierówności kwadratowe; zapisuje rozwiązanie w postaci\nreprezentacji.\nsumy przedziałów (3.a).\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów – obliczenie pierwiastków\ntrójmianu kwadratowego, a następnie wybranie i zapisanie odpowiedniego zbioru rozwiązań.\nPierwszy etap może być realizowany na 2 sposoby:\nI sposób rozwiązania (realizacja pierwszego etapu)\n2\nZapisujemy nierówność w postaci\n2\nx\n5\nx\n2\n0\ni znajdujemy pierwiastki trójmianu\n−\n+\n≥\n2\n2\nx\n5\nx\n2\n−\n+\n• obliczamy wyróżnik tego trójmianu:\n5 3\n1\n5 3\n−\n+\n25\n4 2 2\n9\ni stąd\nx\noraz\nx\n2\nΔ =\n−⋅⋅\n=\n=\n=\n=\n=\n4\n2\n4\n1\n2\nalbo\n• stosujemy wzory Viète’a:\n5\n1\nx\nx\noraz\nx\nx\n= , stąd\n1\nx =\noraz\nx =\n2\n+\n=\n⋅\n2\n2\n1\n2\n1\n2\n1\n2\nalbo\n• podajemy je bezpośrednio, np. zapisując pierwiastki trójmianu lub  postać iloczynową\ntrójmianu, lub zaznaczając je na wykresie\nlub (\n)(\n1\n1\nlub (\n)[\n]\n)\nx =\n,\nx\n2\nx\n2\n2\nx\n1\n2\nx\nx\n2\n2 =\n−\n−\n−\n−\n2\n2\n1\nlub\ny\n3\n2\n1\n0\nx\n-1\n1\n1\n2\n3\n4\n2\n-1\nII sposób rozwiązania (realizacja pierwszego etapu)\n2\nWyznaczamy postać kanoniczną trójmianu kwadratowego\n2\nx\n5\nx\n2\ni zapisujemy\n−\n+\n2\n\n5\n\n9\nnierówność w postaci, np.\n2\nx\n0\n, a następnie\n−\n−\n≥\n\n\n\n4\n\n8\n• przekształcamy nierówność tak, aby jej lewa strona była zapisana w postaci\niloczynowej\n\n(\n)\n\n(\n)\n\n5\n3\n5\n3\nx\nx\n0\n,\n−\n+\n⋅\n−\n−\n≥\n\n\n\n4\n4\n4\n4\n(\n)(\n)\n1\n4\nx\nx\n0\n,\n−\n−\n≥\n2\n2\nalbo\n• przekształcamy nierówność do postaci równoważnej, korzystając z własności wartości\nbezwzględnej\n2\n(\n)\n5\n9\nx −\n,\n≥\n4\n16\n5\n3\nx −\n.\n≥\n4\n4\nDrugi etap rozwiązania:\n\n\n1\n1\n)\n\n)\nPodajemy zbiór rozwiązań nierówności:\n,\n,2\nlub\nx\n,\n2,\n.\n−\n∞\n∪\n+\n∞\n∈−∞\n∪\n+∞\n\n2\n2\n\nSchemat oceniania\nZdający otrzymuje ................................................................................................................ 1 p.\ngdy:\n• zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\n1\no obliczy lub poda pierwiastki trójmianu kwadratowego\nx =\nx =\n2\n,\n1\n2\n2\ni na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n2\no zaznaczy\nna\nwykresie\nmiejsca\nzerowe\nfunkcji\nf x\n( )\n2\nx\n5\nx\n2\n=\n−\n+\ni na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\n(\n)(\n1\n)\no rozłoży trójmian kwadratowy na czynniki liniowe, np.\n2\nx\nx\n2\n−\n−\n2\ni na tym poprzestanie lub błędnie rozwiąże nierówność,\n5\n3\no zapisze nierówność\nx −\ni na tym poprzestanie lub błędnie zapisze zbiór\n>\n4\n4\nrozwiązań nierówności,\nalbo\n• realizując pierwszy etap popełni błąd (ale otrzyma dwa różne pierwiastki)\ni konsekwentnie do tego rozwiąże nierówność, np.\no popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków\ntrójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże\nnierówność,\n5\no błędnie zapisze równania wynikające ze wzorów Viète’a, np.:\nx\nx\n+\n= −\n1\n2\n2\ni konsekwentnie do popełnionego błędu rozwiąże nierówność,\n5\n1\no błędnie zapisze nierówność, np.\nx +\ni konsekwentnie do popełnionego\n<\n2\n2\nbłędu rozwiąże nierówność.\nZdający otrzymuje ............................................................................................................... 2 p.\ngdy:\n\n\n1\n1\n\n)\n)\n• poda zbiór rozwiązań nierówności:\n,\n,2\nlub\nx\n,\n2,\n−\n∞\n∪\n+\n∞\n∈−∞\n∪\n+∞\n\n2\n2\n\n1\nlub (\nx ≤\nlub\nx ≥\n2\n),\n2\nalbo\n• sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nnierówności\n1\nw postaci:\nx ≤\nlub\nx ≥\n2\n,\n2\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\n2\n1\n2\nUwagi\n1\n1\n1.\nAkceptujemy zapisanie odpowiedzi w postaci:\nx ≤\ni\nx ≥\n2\n,\nx ≤\noraz\nx ≥\n2\n, itp.\n2\n2\n1\n2. Jeżeli zdający poprawnie obliczy pierwiastki trójmianu\nx =\n,\nx =\n2\ni zapisze, np.\n2\n1\n2\n\n1\n)\n,\n2,\n, popełniając tym samym błąd przy przepisywaniu jednego\n∞−\n∪\n+∞\n\n2\nz pierwiastków, to otrzymuje 2 punkty."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-maj/28.webp",
+   "size": [
+    956,
+    84
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\n3\n2\nRozwiąż równanie\n4\nx\n4\nx\nx\n1\n0\n.\n+\n−\n−=",
+   "key": "Zadanie 28. (0–2)\n3\n2\nRozwiąż równanie\n4\nx\n4\nx\nx\n1\n0\n.\n+\n−\n−=\nII. Wykorzystanie\n3. Równania i nierówności. Zdający rozwiązuje równania\ni interpretowanie\nwielomianowe metodą rozkładu na czynniki (3.d).\nreprezentacji.\nRozwiązanie (I sposób) „grupowanie wyrazów”\nZapisujemy lewą stronę równania w postaci iloczynowej stosując metodę grupowania\nwyrazów\n(\n) (\n)\n2\n2\nlub\n(\n) (\n)\n= .\nx\n4\nx\n1\n4\nx\n1\n0\n4\nx\n2\nx\n1\nx\n1\n0\n−\n+\n−\n=\n+\n−\n+\n)(\n)\nStąd (\n2\n, czyli (\n)(\n)(\n)\n.\nx\n1\n4\nx\n1\n0\nx\n1\n2\nx\n1\n2\nx\n1\n0\n+\n−\n=\n+\n−\n+\n=\n1\n1\nZatem\nx = − lub\n1\nx = −\nlub\nx =\n.\n2\n2\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ................................................................................................................ 1 p.\ngdy zapisze lewą stronę równania w postaci iloczynu,\n)(\n)\n(\n2\nlub (\n)(\n)(\n)\nx\n1\n4\nx\n1\n0\nx\n1\n2\nx\n1\n2\nx\n1\n0\n+\n−\n=\n+\n−\n+\n=\ni na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje ................................................................................................................ 2 p.\n1\n1\nx = − lub\n1\ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\nx = −\nlub\nx =\n.\n2\n2\nRozwiązanie (II sposób) „metoda dzielenia”\n3\n2\nStwierdzamy, że liczba\n− jest pierwiastkiem wielomianu\n1\n−. Dzielimy\n4\nx\n4\nx\nx\n1\n+\n−\nx+ . Otrzymujemy iloraz\n1\nwielomian przez dwumian\nx −. Zapisujemy równanie\n2\n4\n1\n1\n)(\n)\n. Stąd (\n)(\n)(\n)\nw postaci (\n2\nx\n1\n2\nx\n1\n2\nx\n1\n0\n, czyli\nx = − lub\n1\nx = −\nlub\nx\n1\n4\nx\n1\n0\n+\n−\n=\n+\n−\n+\n=\n2\n1\nx =\n2\nalbo\n1\n3\n2\nstwierdzamy, że liczba\njest pierwiastkiem wielomianu\n4\nx\n4\nx\nx\n−. Dzielimy\n1\n−\n+\n−\n2\n1\nwielomian przez dwumian\nx +\n. Otrzymujemy iloraz\n2\n. Zapisujemy równanie\n4\nx\n2\nx\n2\n+\n−\n2\n\n1\n\n(\n)\nw postaci\n2\n.\nx\n4\nx\n2\nx\n2\n0\n+\n+\n−\n=\n\n\n\n2\n\n\n\n\n1\n1\n1\n1\n(\n)\nStąd\n4\nx\nx\nx\n1\n0\n, czyli\nx = −\nlub\nx =\nlub\nx = −,\n1\n+\n−\n+\n=\n\n\n\n\n2\n\n2\n\n2\n2\nalbo\nstwierdzamy, że liczba 1\n3\n2\n2 jest pierwiastkiem wielomianu\n4\nx\n4\nx\nx\n−. Dzielimy\n1\n+\n−\n1\nx −\nwielomian przez dwumian\n. Otrzymujemy iloraz\n2\n. Zapisujemy równanie\n4\nx\n6\nx\n2\n+\n+\n2\n\n1\n\n(\n)\nw postaci\nx\n4\nx\n2\n6\nx\n2\n0\n.\n\n−\n\n+\n+\n=\n\n2\n\n\n1\n\n1\n\n1\n1\n(\n)\nx = − lub\n1\nStąd\n4\nx\nx\nx\n1\n0\n, czyli\nx =\nlub\nx = −\n.\n+\n−\n+\n=\n\n\n\n\n2\n\n2\n\n2\n2\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy\n3\n2\nx+ , otrzyma iloraz\n1\n• podzieli wielomian\n4\nx\n4\nx\nx\n− przez dwumian\n1\nx − i na\n2\n+\n−\n4\n1\ntym poprzestanie lub dalej popełni błędy\nalbo\n1\n3\n2\n• podzieli wielomian\n4\nx\n4\nx\nx\n− przez dwumian\n1\nx +\n, otrzyma iloraz\n+\n−\n2\n2\ni na tym poprzestanie lub dalej popełni błędy\n4\nx\n2\nx\n2\n+\n−\nalbo\n1\n3\n2\n• podzieli wielomian\n4\nx\n4\nx\nx\n− przez dwumian\n1\nx −\n, otrzyma iloraz\n+\n−\n2\n2\ni na tym poprzestanie lub dalej popełni błędy.\n4\nx\n6\nx\n2\n+\n+\nZdający otrzymuje ............................................................................................................... 2 p.\n1\n1\n.\ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\nx = − lub\n1\nx = −\nlub\nx =\n2\n2\nUwaga\nJeżeli w trakcie doprowadzania lewej strony równania do postaci iloczynu zdający popełni\nwięcej niż jedną usterkę, to za całe rozwiązanie otrzymuje 0 punktów."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-maj/29.webp",
+   "size": [
+    956,
+    890
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\nNa rysunku przedstawiono wykres funkcji f.\ny\n5\n4\n3\n2\n1\nx\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\n5\n6\n-1\n-2\nwzorem ( )\n( )\nFunkcja h określona jest dla\nx∈−\n3, 5\nh x\nf x\nq\n, gdzie q jest pewną liczbą\n=\n+\nrzeczywistą. Wiemy, że jednym z miejsc zerowych funkcji h jest liczba\nx = −.\n1\n0\na) Wyznacz q.\nb) Podaj wszystkie pozostałe miejsca zerowe funkcji h.",
+   "key": "Zadanie 29. (0–2)\nNa rysunku przedstawiono wykres funkcji f.\ny\n5\n4\n3\n2\n1\nx\n-4\n-3\n-2\n-1\n0\n1\n2\n3\n4\n5\n6\n-1\n-2\nwzorem ( )\n( )\nFunkcja h określona jest dla\nx∈−\n3, 5\nh x\nf x\nq\n, gdzie q jest pewną liczbą\n=\n+\nrzeczywistą. Wiemy, że jednym z miejsc zerowych funkcji h jest liczba\nx = −.\n1\n0\na) Wyznacz q.\nb) Podaj wszystkie pozostałe miejsca zerowe funkcji h.\n4. Funkcje. Zdający odczytuje z wykresu funkcji: dziedzinę\ni zbiór wartości, miejsca zerowe, maksymalne przedziały,\nI. Wykorzystanie\nw których funkcja rośnie, maleje, ma stały znak, szkicuje na\ni tworzenie informacji.\n( )\npodstawie wykresu funkcji\ny =\nf\nx\nwykresy funkcji\n(\n)\n( )\n( )\n(\n)\ny\nf\nx\na\n,\ny\nf\nx\na\n,\ny\nf\nx\n,\ny\nf\nx\n(4.b,d).\n=\n+\n=\n+\n=\n−\n=\n−\nRozwiązanie\na) Zauważamy, że wykres funkcji h otrzymamy z wykresu funkcji f przesuwając go o 3\njednostki w dół wzdłuż osi Oy. Wzór funkcji h ma zatem postać\nh x\n( )\nf x\n( )\n−.\n3\n=\nStąd\nq = −.\n3\nb) Podajemy pozostałe miejsca zerowe funkcji h :\nx = ,\n1\nx =\n3\n.\nSchemat oceniania\nZdający otrzymuje ................................................................................................................ 1 p.\ngdy:\n• poda\nq = − i nie poda pozostałych miejsc zerowych funkcji h lub poda je błędnie\n3\nalbo\n• poda pozostałe miejsca zerowe funkcji h : 1, 3 oraz nie poda wartości q lub poda ją\nbłędnie, np.\nq = .\n3\nUwaga\nJeżeli zdający sporządzi poprawny wykres funkcji h oraz poda jedno z miejsc zerowych\nx = lub\n1\nx =\n3\n, to otrzymuje 1 punkt.\nZdający trzymuje ................................................................................................................. 2 p.\ngdy poprawnie poda\nq = − oraz zapisze pozostałe miejsca zerowe funkcji h : 1, 3.\n3\nUwaga\nJeżeli zdający poda współrzędne punktu (\n1,0 lub (\n)\n)\n3,0 zamiast miejsc zerowych, to nie\nprzyznajemy punktu za miejsca zerowe."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-maj/30.webp",
+   "size": [
+    956,
+    137
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\nDany jest skończony ciąg, w którym pierwszy wyraz jest równy 444 , a ostatni jest\nrówny 653. Każdy wyraz tego ciągu, począwszy od drugiego, jest o 11 większy od wyrazu\nbezpośrednio go poprzedzającego. Oblicz sumę wszystkich wyrazów tego ciągu.",
+   "key": "Zadanie 30. (0–2)\nDany jest skończony ciąg, w którym pierwszy wyraz jest równy 444 , a ostatni jest\nrówny 653. Każdy wyraz tego ciągu, począwszy od drugiego, jest o 11 większy od wyrazu\nbezpośrednio go poprzedzającego. Oblicz sumę wszystkich wyrazów tego ciągu.\n5. Ciągi liczbowe. Zdający stosuje wzór na n-ty wyraz i  sumę\nIII. Modelowanie\nn początkowych wyrazów ciągu arytmetycznego i ciągu\nmatematyczne.\ngeometrycznego (5.c).\nRozwiązanie\nZauważamy, że ciąg jest arytmetyczny.\nPrzyjmijmy oznaczenia:\na =\n444\n, różnica ciągu\nr =\n11\n. Wtedy\nna =\n653\n. Zapisujemy\n1\n(\n)\nrównanie\n444\nn\n1 11\n653\n, a stąd\nn =\n20\n.\n+\n−\n⋅\n=\nObliczamy zatem\nS :\n20\na\na\n444\n653\n+\n+\nS\n1\n20\n20\n20\n1097 10\n10970\n.\n=\n⋅\n=\n⋅\n=\n⋅\n=\n20\n2\n2\nSchemat oceniania\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy\n• poprawnie poda liczbę wyrazów danego ciągu (\nn =\n20\n) i na tym zakończy lub dalej\npopełni błędy\nalbo\n• popełni błąd podczas obliczania liczby składników tej sumy i konsekwentnie do\npopełnionego błędu obliczy sumę wyrazów tego ciągu.\nZdający otrzymuje ............................................................................................................... 2 p.\ngdy zapisze, że suma wszystkich wyrazów tego ciągu jest równa 10970.\nUwaga\nJeżeli zdający wypisze wszystkie wyrazy danego ciągu i nie poda ich sumy lub tę sumę poda\nbłędnie, to otrzymuje 1 punkt.\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nJeżeli zdający wypisze poprawnie wszystkie wyrazy danego ciągu i przy zapisaniu sumy\npominie jeden ze składników lub przepisze go błędnie i konsekwentnie obliczy tę sumę, to\notrzymuje 2 punkty."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2015-maj/31.webp",
+   "size": [
+    950,
+    533
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nDany jest okrąg o środku w punkcie O. Prosta KL jest styczna do tego okręgu w punkcie L,\na środek O tego okręgu leży na odcinku KM (zob. rysunek). Udowodnij, że kąt KML ma\nmiarę 31°.\nL\n?\nM\nO\n28º\nK",
+   "key": "Zadanie 31. (0–2)\nDany jest okrąg o środku w punkcie O. Prosta KL jest styczna do tego okręgu w punkcie L,\na środek O tego okręgu leży na odcinku KM (zobacz rysunek). Udowodnij, że kąt KML ma\nmiarę 31°.\nL\n?\nM\nO\n28º\nK\n7. Planimetria. Zdający korzysta ze związków między kątem\nV. Rozumowanie\nśrodkowym, kątem wpisanym i kątem między styczną\ni argumentacja.\na cięciwą okręgu (7.a).\nI sposób rozwiązania\nRysujemy odcinek OL.\nL\n?\nM\nO\n28º\nK\nKąt OLK jest prosty. Zatem\n\nKOL =\n62\n.\n°\nCzyli\n\nMOL =\n118\n.\n°\nZatem\n\nOML\n\nMLO\n62\n.\n+\n=\n°\nKąty OML i MLO są równe, bo są kątami równymi w trójkącie równoramiennym.\nZatem\n\nKML\n\nOML\n31\n.\n=\n=\n°\nTo kończy dowód.\nII sposób rozwiązania\nRysujemy odcinek OL.\nL\n?\nM\nO\n28º\nK\nKąty OML i MLO są równe, bo są kątami równymi w trójkącie równoramiennym.\nKąt OLK jest prosty. Suma miar kątów trójkąta KLM jest równa 180°.\nZatem 2\n\nKML +\n90\n28\n180\n. Stąd 2\n\nKML =\n62\n.\n° +\n° =\n°\n°\nZatem\n\nKML =\n31\n.\n°\nTo kończy dowód.\nIII sposób rozwiązania\nRysujemy cięciwę LN, gdzie N jest końcem średnicy MN (zobacz rysunek). Niech\n\nKML\n.\n=\nα\nL\nα\nM\nO\n28º\nN\nK\nKąt MLN jest kątem wpisanym opartym na średnicy MN, więc jest prosty. Kąt między styczną\ndo okręgu w punkcie L i cięciwą wychodzącą z punktu L jest równy kątowi wpisanemu\nopartemu na tej cięciwie, zatem\n\n\n.\nKLN\nKML\n=\n=\nα\nZapisujemy równanie wynikające z bilansu kątów w trójkącie KLM:\n90\n28\n180\n°, stąd\n\nKML\n31\n.\nα\n+\n°+\nα\n+\n° =\nα =\n=\n°\nTo kończy dowód.\nSchemat oceniania\nZdający otrzymuje ................................................................................................................ 1 p.\njeżeli:\n• zapisze lub zaznaczy na rysunku, że kąt KLO  jest kątem prostym\ni\n\nLOK\n2\n\nLMO\n,\n=\n⋅\nalbo\n• zapisze lub zaznaczy na rysunku, że kąt KLO  jest kątem prostym\ni\n\nLMO\n\nMLO\n,\n=\nalbo\n• zapisze lub zaznaczy na rysunku, że kąt MLN  jest kątem prostym\ni\n\nNLK\n\nLMN\n,\n=\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje ................................................................................................................ 2 p.\njeżeli przeprowadzi pełne poprawne rozumowanie.\nZadania 32. (0–4)\nWysokość graniastosłupa prawidłowego czworokątnego jest równa 16. Przekątna\ngraniastosłupa jest nachylona do płaszczyzny jego podstawy pod kątem, którego cosinus jest\nrówny 3\n5 . Oblicz pole powierzchni całkowitej tego graniastosłupa.\nIV. Użycie i tworzenie\n9. Stereometria. Zdający wyznacza związki miarowe\nstrategii.\nw wielościanach z zastosowaniem trygonometrii (9.b).\nRozwiązanie\nNiech a oznacza długość krawędzi podstawy tego graniastosłupa i niech α będzie kątem\nnachylenia przekątnej graniastosłupa do płaszczyzny jego podstawy (zob. rysunek).\n16\nα\na\na\n3\n4\n4\nPonieważ\n, więc kąt α jest ostry oraz\n. Stąd wynika, że\ntg\n.\ncos\nsin\nα =\nα =\nα =\n5\n5\n3\n16\nZ drugiej strony\ntg\n. Obliczamy długość krawędzi podstawy graniastosłupa.\nα =\na\n2\nRozwiązujemy równanie:\n16\n4\n, skąd\na =\n6 2\n.\n=\n3\na\n2\nSzukane pole powierzchni całkowitej tego graniastosłupa jest równe:\n2\n(\n)\n(\n)\ncP =\n2\n6 2\n4 6 2 16\n144\n384 2\n48 3\n8 2\n.\n⋅\n+\n⋅\n⋅\n=\n+\n=\n+\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania ........................................................................................................ 1 p.\nZdający:\n4\n• zapisze, że\ntg\nα =\n3\nalbo\n• zapisze równanie, z którego można obliczyć skalę x podobieństwa trójkąta o bokach\ndługości  3, 4 i 5 do trójkąta o przyprostokątnej długości 16 leżącej naprzeciw kąta α ,\n2\n2\nnp. (\n)\n2\n(\n)\n3\nx\n16\n5\nx\n+\n=\nalbo\n•  poda skalę x podobieństwa trójkątów: trójkąta o bokach długości 3, 4 i 5 oraz\ntrójkąta o przyprostokątnej długości 16 leżącej naprzeciw kąta α ,\nx =\n4\nalbo\n• zaznaczy na rysunku kąt nachylenia przekątnej graniastosłupa do płaszczyzny jego\npodstawy\nalbo\n• zapisze, że długość d przekątnej graniastosłupa jest równa 20\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający:\n• obliczy długość e przekątnej podstawy tego graniastosłupa e =12\nalbo\n• zapisze równanie, z którego można obliczyć długość krawędzi podstawy tego\n2\n\n\n5\na\n2\n2\n(\n)\n= \ngraniastosłupa, np.\n16\n2\na\n2\n\n+\n\n\n3\n\n\nlub 16\n4\n2\n(\n)\n16\n2\na\n2\n20\n2\n+\n=\n=\na\n2\n3\nalbo\n• zapisze układ równań, z którego można obliczyć długość krawędzi podstawy tego\ngraniastosłupa, np.\n\na\n2\n3\n\n=\nd\n5\n\n2\n(\n)\n2\n2\na\n2\n16\nd\n+\n=\n\ngdzie d oznacza długość przekątnej tego graniastosłupa\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZdający obliczy długość krawędzi podstawy graniastosłupa:\na =\n6 2\ni na tym zakończy lub\ndalej popełni błędy.\nRozwiązanie pełne  ............................................................................................................... 4 p.\n(\n)\nZdający obliczy pole powierzchni całkowitej tego graniastosłupa:\ncP =\n48 3\n8 2\n.\n+\nUwagi\n3\n1. Akceptujemy sytuację, w której zdający zapisze, że\n53\ncosα =\ndla\n° i w dalszej\nα ≈\n5\nczęści rozwiązania poprawnie posługuje się przyjętym przybliżeniem.\n2. Akceptujemy sytuację, w której zdający wprowadza do rozwiązania poprawne przybliżenia\ndziesiętne liczb rzeczywistych i w obliczeniach poprawnie stosuje regułę zaokrąglania.\n3. Jeżeli zdający błędnie zaznaczy na rysunku podany kąt i korzysta z tego kąta, to za całe\nrozwiązanie otrzymuje 0 punktów.\n3\n4. Jeżeli zdający zapisze, że\nsinα =\ni korzysta z tej równości, to za całe rozwiązanie może\n5\notrzymać co najwyżej 1 punkt.\n5. Jeżeli zdający przyjmie miarę kąta nachylenia, która nie wynika z treści zadania (np.\n30\n°), i w rozwiązaniu z tego korzysta, to za całe rozwiązanie otrzymuje 0 punktów.\nα =\n6. Jeżeli zdający zapisze błędnie, że\ne\na\n3\n, to za całe rozwiązanie może otrzymać co\n=\nnajwyżej 2 punkty.\n7. Jeżeli zdający rozważa „trójkąt prostokątny” o bokach 3, 5, 16 (nieistniejący), to za całe\nrozwiązanie otrzymuje 0 punktów.\nZadania 33. (0–4)\nWśród 115 osób przeprowadzono badania a"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2015-maj/32.webp",
+   "size": [
+    950,
+    171
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\nWysokość graniastosłupa prawidłowego czworokątnego jest równa 16. Przekątna graniastosłupa\njest nachylona do płaszczyzny jego podstawy pod kątem, którego cosinus jest równy 3\n5 . Oblicz\npole powierzchni całkowitej tego graniastosłupa.",
+   "key": ""
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2015-maj/33.webp",
+   "size": [
+    950,
+    403
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\nWśród 115 osób przeprowadzono badania ankietowe, związane z zakupami w pewnym\nkiosku. W poniższej tabeli przedstawiono informacje o tym, ile osób kupiło bilety\ntramwajowe ulgowe oraz ile osób kupiło bilety tramwajowe normalne.\nRodzaj kupionych\nLiczba osób\nbiletów\nulgowe\n76\nnormalne\n41\nUwaga! 27 osób spośród ankietowanych kupiło oba rodzaje biletów.\nOblicz prawdopodobieństwo zdarzenia polegającego na tym, że osoba losowo wybrana\nspośród ankietowanych nie kupiła żadnego biletu. Wynik przedstaw w formie nieskracalnego\nułamka.",
+   "key": ""
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2015-maj/34.webp",
+   "size": [
+    950,
+    227
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (5 pkt)\nBiegacz narciarski Borys wyruszył na trasę biegu o 10 minut później niż inny zawodnik,\nAdam. Metę zawodów, po przebyciu 15-kilometrowej trasy biegu, obaj zawodnicy pokonali\nrównocześnie. Okazało się, że wartość średniej prędkości na całej trasie w przypadku Borysa\nbyła o 4,5 km\nh większa niż w przypadku Adama. Oblicz, w jakim czasie Adam pokonał całą\ntrasę biegu.",
+   "key": ""
+  }
+ ]
+}

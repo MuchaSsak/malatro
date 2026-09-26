@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2014-czerwiec",
+  "formula": "2005",
+  "level": "P",
+  "year": 2014,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "MMA-P1_1P-143",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2014-czerwiec-matura-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2014-czerwiec-matura-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2005-P-2014-czerwiec.pdf",
+  "keyFile": "f2005-P-2014-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 21,
+  "keyPages": 21,
+  "examBytes": 551575,
+  "keyBytes": 611941
+ },
+ "keyHead": "EGZAMIN WSTĘPNY CZERWIEC 2014\nMATEMATYKA\nPoziom podstawowy\nKryteria oceniania odpowiedzi\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nKlucz punktowania zadań zamkniętych\nzadanie\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\nodpowiedź\nD\nC\nC\nA\nD\nA\nA\nB\nC\nC\nA\nB\nC\nzadanie\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nodpowiedź\nC\nC\nC\nB\nB\nB\nA\nD\nC\nB\nD\nB\nSchemat oceniania zadań otwartych\nZadanie 26. (2 pkt)\nRozwiąż nierówność \n\n\n\n\n\n2\nx\n3 3\nx\n0\n.\nRozwiązanie\nWyznaczamy miejsca zerowe wielomianu, występującego po lewej stronie nierówności:\n\n\nlub \n\n\n\n\n\n2\nx\n3\n0\n3\nx\n0\n3 ,\n\n\nx\nx\n3\n1\n2\n2\nSzkicujemy parabolę, opisaną przez lewą stronę nierówności.\n3\n3\n2\nOdczytujemy z ilustracji zbiór rozwiązań nierówności: 3\n\n\nx\n3\n.\n2\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\n3 ,\n prawidłowo obliczy pierwiastki trójmianu kwadratowego\n\n i na tym\nx\nx\n3\n1\n2\n2\npoprzestanie lub dalej popełni błędy\nalbo\n popełni błąd rachunkowy przy obliczaniu pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność,\n2\n2\n\n\n\nnp.\nx\n,\nx\n3,\nx\n,3\n.\n1\n2\n3\n3\n2\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nZdający otrzymuje ............................................................................................................2 pkt\ngdy poda zbiór rozwiązań nierówności w postaci:\n3 ,3\n\n2\nalbo\n3\n\n\n\nx\n3\n2\nalbo\n3 ,\n\n\n\nx\nx\n3\n2\nalbo\n w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.\n3\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nZadanie 27. (2 pkt)\nWykaż, że dla każdej liczby rzeczywistej a i każdej liczby rzeczywistej b prawdziwa jest\nnierówność\n2\n\n\n\na\nb\n\na\n2\nb\n2\n.\n\n\n\n2\n\n2\nRozwiązanie\nAby wykazać prawdziwość podanej nierówności, przekształcimy ją najpierw do prostszej\npostaci równoważnej. Rozpoczynamy od podanej nierówności:\n\n\n2\n\n\na\nb\n2\n2\na\nb\n\n.\n4\n2\nMnożymy obie strony tej nierówności przez 4:\n\n\n\n\n2\n\n\n2\n\n2\na\nb\n2\na\nb\n.\nRedukujemy wyrazy podobne:\n\n2\n\n2\n2\nab\na\nb\n.\nczyli \n\n2\n\n\n\n\n\n2\n2\na\nb\n0.\nStąd otrzymujemy:\na\nb\n2\nab\n0,\nNierówność ta jest prawdziwa dla\nkażdej liczby rzeczywistej a i każdej liczby rzeczywistej b, zatem prawdziwa jest też\n2\n\n2\n\n2\n\na\nb\n\na\nb\nnierówność równoważna\n, co należało wykazać.\n\n\n\n2\n\n2\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n2\n\n2\n\n2\n\n2\n\n\ngdy przekształci podaną nierówność do postaci\n2\na\n2\nb\n4\nab\nlub\na\nb\n2\nab\n0\ni na tym\npoprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy przedstawi kompletny dowód podanej nierówności.\n4\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nZadanie 28. (2 pkt)\n\n\n3\n. Oblicz wartość wyrażenia sin\ncos\nKąt  jest ostry oraz\n\n\ncos\n.\n\n\n3\ncos\n1 sin\nRozwiązanie (I sposób)\nPrzekształcamy wyrażenie do postaci, w której występuje tylko jedna funkcja\ntrygonometryczna.\n\n\n\n\n\n\n2\n\n\n\nsin\n1 sin\ncos\n\n\nsin\ncos\nsin\n1\n1\n\n\n\n\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncos\n1 sin\ncos\n1 sin\ncos\n1 sin\ncos\n\n\n3 za cos i otrzymujemy, że sin\n3\ncos\n1\n3\n\n\n\n\nNastępnie podstawiamy\n3\n.\n\n\n\ncos\n1 sin\n3\n3\n3\nSchemat oceniania I sposobu rozwiązania",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/1.webp",
+   "size": [
+    950,
+    128
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nKtóra z poniższych równości jest prawdziwa dla każdej liczby rzeczywistej x ?\n\n\n2\n2x\n\n\n\n\n\n\n\n\n\nA.\nx\nB.\nx\nx\nC.\nx\n1\nx\n1\nD.\nx\n1\nx\n1",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/2.webp",
+   "size": [
+    950,
+    200
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\nCzterech przyjaciół zarejestrowało spółkę.\nWysokość udziałów poszczególnych wspólników w kapitale zakładowym spółki wyraża\nstosunek 12 : 8 : 3 : 2. Jaką część kapitału zakładowego stanowi udział największego\ninwestora?\nA.  12%\nB.  32%\nD.  52%\nC.  48%",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/3.webp",
+   "size": [
+    950,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n\n jest\nab\na\nb\n1\nDla każdej liczby rzeczywistej a i każdej liczby rzeczywistej b wyrażenie\nrówne\nA. \n\n\nB. \n\n\nC. \n\n\nD. \n\n\n\n\n\n\n\n\n\n\na\n1\nb\n1\na\n1\nb\n1\na\n1\nb\n1\na\n1\nb\n1",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/4.webp",
+   "size": [
+    950,
+    130
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\n\n\n\n\n\n\n\n\nNa prostej o równaniu y\nax\nb\nleżą punkty\nK\n1,0\ni\nL\n0,1\n. Wynika stąd, że\n\n\n\n\n\n\n\n\nA.\na\n1 i\nb\n1\nB.\na\n1 i\nb\n1\nC.\na\n1 i\nb\n1\nD.\na\n1 i\nb\n1",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/5.webp",
+   "size": [
+    950,
+    178
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\n1\n1\nb \na \nc \nDane są liczby:\nlog 9\n,\nlog 3\n,\nlog 27\n. Który z poniższych warunków jest\n3\n3\n3\nprawdziwy?\n\n\n\n\n\n\n\n\nA. c\nb\na\nB. b\nc\na\nC. a\nc\nb\nD. c\na\nb",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/6.webp",
+   "size": [
+    950,
+    171
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\n\n\n\n\nFunkcja f jest określona wzorem\nf x\n3\nx\n4\ndla każdej liczby z przedziału\n2,2\n.\nZbiorem wartości tej funkcji jest przedział\nB. 10,2\nD. 2,10\n\n\nA.\n10,2\nC.\n2,10",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/7.webp",
+   "size": [
+    950,
+    167
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\n.\n7\n\n\n2\n\n\nJednym z miejsc zerowych funkcji kwadratowej\nf x\n3\nx\n7\nx\nc jest liczba\n3\nWówczas c jest równe\n\n98\nD. 98\nA. 0\nB. 1\nC.",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/8.webp",
+   "size": [
+    950,
+    127
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\n27\n\n26\n3\n3\nLiczba\njest równa\n\n26\n25\n3\n3\nA. 1\nB. 3\nC.  6\nD.  9",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/9.webp",
+   "size": [
+    950,
+    158
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\n\n\n\n\n\n\n\n2\n,\n\n3\n\n\n\n\nW x\n2\nx\n1\nP x\nx\nx\nQ x\n1\nx\nx\n1\nDane są wielomiany:\ni\n. Stopień\n\n\n\n\n\nwielomianu\nW x\nP x\nQ x\njest równy\nA.  3\nB.  6\nC.  7\nD.  12",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/10.webp",
+   "size": [
+    950,
+    117
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\n\n\n\n\n\n\nPierwsza współrzędna wierzchołka paraboli o równaniu\ny\nx\n2\nx\n4\njest równa\n\n\nA.\n8\nB.  4\nC.  1\nD.  2",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/11.webp",
+   "size": [
+    950,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\n\na \nq .\nW ciągu geometrycznym (an), określonym dla\nn\n1\n, wyraz\n5\n, natomiast iloraz\n2\n1\nSuma dziesięciu początkowych wyrazów tego ciągu jest równa\n\n\nA.  1705\nB.   1023\nC.  1705\nD.\n5115",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/12.webp",
+   "size": [
+    950,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\n\na \na \nW ciągu arytmetycznym (an), określonym dla\nn\n1\n,  dane są dwa wyrazy:\n11\ni\n7\n.\n2\n4\nSuma czterech początkowych wyrazów tego ciągu jest równa\nA. 36\nB.    40\nC. 13\nD.\n20",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/13.webp",
+   "size": [
+    950,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\n\n\n\n2\n2\ncos\n1 cos\nMiara kąta  spełnia warunek: 0\n\n\n\n. Wyrażenie\n\n90\njest równe\n\n\n\n2\n2\n1 sin\nsin\n2cos \n2\n2sin \n2\nA. 1\nB.\nC. 2\nD.",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/14.webp",
+   "size": [
+    950,
+    463
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\nW trapezie KLMN, w którym\nKL\n\nMN , kąt LKN jest prosty (zobacz rysunek) oraz dane są:\n\n\n\n\nMN\n3\n,\nKN\n4 3\n,\nKLM\n60\n. Pole tego trapezu jest równe\nN\nM\n\nL\nK\n\n\nA. 4\n2 3\nB. 10 3\nC. 20 3\nD. 24\n6 3",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/15.webp",
+   "size": [
+    950,
+    205
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\nŚrednia arytmetyczna liczby punktów uzyskanych na egzaminie przez studentów I grupy,\nliczącej 40 studentów, jest równa 30. Dwudziestu studentów tworzących II grupę otrzymało\nw sumie 1800 punktów. Zatem średni wynik z tego egzaminu, liczony łącznie dla wszystkich\nstudentów z obu grup, jest równy\nA. 20 pkt\nB. 30 pkt\nC. 50 pkt\nD. 60 pkt",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/16.webp",
+   "size": [
+    951,
+    468
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nW sześcianie EFGHIJKL poprowadzono z wierzchołka F dwie przekątne sąsiednich ścian, FI\noraz FK (zobacz rysunek). Miara kąta IFK jest równa\nL\nK\nI\nJ\nH\nG\nE\nF\nA. 30\nB. 45\nC. 60\nD. 90",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/17.webp",
+   "size": [
+    951,
+    446
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\nPunkt O jest środkiem okręgu (zobacz rysunek). Miara kąta LKM jest równa\nM\n130º\nO\nK\n110º\nL\nA. 30\nB. 60\nC. 90\nD. 120",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/18.webp",
+   "size": [
+    951,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nNa trójkącie prostokątnym, którego przyprostokątne mają długości 12 i 9, opisano okrąg.\nPromień tego okręgu jest równy\nB. 15\n108\nA.\n108\n2\nC. 15\nD.\n2",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/19.webp",
+   "size": [
+    951,
+    218
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nZe zbioru kolejnych liczb naturalnych \n\n1, 2, 3, 4, ..., 30 losujemy jedną liczbę.\nPrawdopodobieństwo zdarzenia polegającego na tym, że wylosowana liczba jest kwadratem\nliczby całkowitej, jest równe\n4\n5\n6\nD. 10\nA.\n30\nB.\n30\nC.\n30\n30",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/20.webp",
+   "size": [
+    950,
+    395
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\nW trójkącie EFG bok EF ma długość 21. Prosta równoległa do boku EF przecina boki EG\n\ni FG trójkąta odpowiednio w punktach H oraz I (zobacz rysunek) w taki sposób, że\nHI\n7\n\nGI\n3\ni\n. Wtedy długość odcinka FI jest równa\nG\nI\nH\nE\nF\nA. 6\nB. 9\nC. 12\nD. 17",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/21.webp",
+   "size": [
+    950,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\nNa planie miasta, narysowanym w skali 1 : 20000 , park jest prostokątem o bokach 2 cm\ni 5 cm. Stąd wynika, że ten park ma powierzchnię\n2\n2\n2\n2\nA.\n20000m\nB.\n40000m\nC.\n200000m\nD.\n400000m",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/22.webp",
+   "size": [
+    950,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\n\n\n\n\n są równoległe, gdy\n\n\ny\n1 2\nm x\n7\nProste o równaniach:\ny\nmx\n5\noraz\n1\n1\nm \nm \nm \nm \nA.\n1\nB.\nC.\nD.\n1\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/23.webp",
+   "size": [
+    950,
+    295
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\n\n\n\n\n\n\n\nPunkty\nM\n2,0\ni\nN\n0,\n2\nsą punktami styczności okręgu z osiami układu\nwspółrzędnych. Które z poniższych równań opisuje ten okrąg?\nA. \n\n\n\n2\n2\n\n\n\n\nx\n2\ny\n2\n4\nB. \n\n\n\n2\n2\n\n\n\n\nx\n2\ny\n2\n4\nC. \n\n\n\n2\n2\n\n\n\n\nx\n2\ny\n2\n4\nD. \n\n\n\n2\n2\n\n\n\n\nx\n2\ny\n2\n4",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/24.webp",
+   "size": [
+    950,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nObjętość walca o promieniu podstawy 4 jest równa 96. Pole powierzchni bocznej tego\nwalca jest równe\nA. 16\nB. 24\nC. 32\nD. 48",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2014-czerwiec/25.webp",
+   "size": [
+    950,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\nObjętość ostrosłupa prawidłowego czworokątnego jest równa 432, a krawędź podstawy tego\nostrosłupa ma długość 12. Wysokość tego ostrosłupa jest równa\nA. 3\nB. 9\nC. 27\nD. 108",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2014-czerwiec/26.webp",
+   "size": [
+    947,
+    89
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\nRozwiąż nierówność \n\n\n\n\n\n2\nx\n3\n3\nx\n0\n.",
+   "key": "Zadanie 26. (2 pkt)\nRozwiąż nierówność \n\n\n\n\n\n2\nx\n3 3\nx\n0\n.\nRozwiązanie\nWyznaczamy miejsca zerowe wielomianu, występującego po lewej stronie nierówności:\n\n\nlub \n\n\n\n\n\n2\nx\n3\n0\n3\nx\n0\n3 ,\n\n\nx\nx\n3\n1\n2\n2\nSzkicujemy parabolę, opisaną przez lewą stronę nierówności.\n3\n3\n2\nOdczytujemy z ilustracji zbiór rozwiązań nierówności: 3\n\n\nx\n3\n.\n2\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\n3 ,\n prawidłowo obliczy pierwiastki trójmianu kwadratowego\n\n i na tym\nx\nx\n3\n1\n2\n2\npoprzestanie lub dalej popełni błędy\nalbo\n popełni błąd rachunkowy przy obliczaniu pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność,\n2\n2\n\n\n\nnp.\nx\n,\nx\n3,\nx\n,3\n.\n1\n2\n3\n3\n2\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nZdający otrzymuje ............................................................................................................2 pkt\ngdy poda zbiór rozwiązań nierówności w postaci:\n3 ,3\n\n2\nalbo\n3\n\n\n\nx\n3\n2\nalbo\n3 ,\n\n\n\nx\nx\n3\n2\nalbo\n w postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.\n3\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2014-czerwiec/27.webp",
+   "size": [
+    950,
+    174
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\nWykaż, że dla każdej liczby rzeczywistej a i każdej liczby rzeczywistej b prawdziwa jest\nnierówność\n2\n\n2\n\n2\n\na\nb\n\na\nb\n.\n\n\n\n2\n\n2",
+   "key": "Zadanie 27. (2 pkt)\nWykaż, że dla każdej liczby rzeczywistej a i każdej liczby rzeczywistej b prawdziwa jest\nnierówność\n2\n\n\n\na\nb\n\na\n2\nb\n2\n.\n\n\n\n2\n\n2\nRozwiązanie\nAby wykazać prawdziwość podanej nierówności, przekształcimy ją najpierw do prostszej\npostaci równoważnej. Rozpoczynamy od podanej nierówności:\n\n\n2\n\n\na\nb\n2\n2\na\nb\n\n.\n4\n2\nMnożymy obie strony tej nierówności przez 4:\n\n\n\n\n2\n\n\n2\n\n2\na\nb\n2\na\nb\n.\nRedukujemy wyrazy podobne:\n\n2\n\n2\n2\nab\na\nb\n.\nczyli \n\n2\n\n\n\n\n\n2\n2\na\nb\n0.\nStąd otrzymujemy:\na\nb\n2\nab\n0,\nNierówność ta jest prawdziwa dla\nkażdej liczby rzeczywistej a i każdej liczby rzeczywistej b, zatem prawdziwa jest też\n2\n\n2\n\n2\n\na\nb\n\na\nb\nnierówność równoważna\n, co należało wykazać.\n\n\n\n2\n\n2\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n2\n\n2\n\n2\n\n2\n\n\ngdy przekształci podaną nierówność do postaci\n2\na\n2\nb\n4\nab\nlub\na\nb\n2\nab\n0\ni na tym\npoprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy przedstawi kompletny dowód podanej nierówności.\n4\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi"
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2014-czerwiec/28.webp",
+   "size": [
+    947,
+    117
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\n\n\n3\n. Oblicz wartość wyrażenia sin\ncos\nKąt  jest ostry oraz\n\n\ncos\n.\n\n\n3\ncos\n1 sin",
+   "key": "Zadanie 28. (2 pkt)\n\n\n3\n. Oblicz wartość wyrażenia sin\ncos\nKąt  jest ostry oraz\n\n\ncos\n.\n\n\n3\ncos\n1 sin\nRozwiązanie (I sposób)\nPrzekształcamy wyrażenie do postaci, w której występuje tylko jedna funkcja\ntrygonometryczna.\n\n\n\n\n\n\n2\n\n\n\nsin\n1 sin\ncos\n\n\nsin\ncos\nsin\n1\n1\n\n\n\n\n.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncos\n1 sin\ncos\n1 sin\ncos\n1 sin\ncos\n\n\n3 za cos i otrzymujemy, że sin\n3\ncos\n1\n3\n\n\n\n\nNastępnie podstawiamy\n3\n.\n\n\n\ncos\n1 sin\n3\n3\n3\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n\n\ngdy przekształci wyrażenie  sin\ncos\n1\n\ni otrzyma w wyniku :\ncos i na tym\n\n\ncos\n1 sin\npoprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\n\n\ngdy obliczy wartość wyrażenia  sin\ncos\n: 3\n\nlub 3 .\n\n\ncos\n1 sin\n3\nRozwiązanie (II sposób)\nObliczamy sin, wykorzystując własności funkcji trygonometrycznych kąta ostrego:\n2\n\n\n3\n1\n2\n\n\n\n\n\n\n\n\n\n2\nsin\n1 cos\n1\n\n\n1\n.\n\n\n3\n3\n3\n\n\n\n\nNastępnie obliczamy wartość wyrażenia  sin\ncos\n\n:\n\n\ncos\n1 sin\n2\n\n\n\n\n2\n2\n3\n2\n2\n3\n\n\n1\n\n\n\n\n\n1\n3\n3\n3\n\n\nsin\ncos\n3\n\n\n\n\n3\n3\n3\n\n\n\n\n\n\n\n3\n.\n\n\n\n\n\n\n\ncos\n1 sin\n3\n2\n3\n2\n3\n2\n3\n\n\n\n1\n\n1\n\n\n1\n\n3\n3\n3\n3\n3\n3\n\n\n\n\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy obliczy sin wykorzystując własności funkcji trygonometrycznych kąta ostrego:\n2\n\nsin\ni na tym poprzestanie lub dalej popełni błędy.\n3\n5\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nZdający otrzymuje  ............................................................................................................ 2 pkt\n\n\ngdy obliczy wartość wyrażenia sin\ncos\n: 3\nlub 3 .\n\n\n\ncos\n1 sin\n3\n6\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2014-czerwiec/29.webp",
+   "size": [
+    950,
+    113
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\n\n\nLiczby 6, 2\nx\n4,\nx\n26\nw podanej kolejności są pierwszym, drugim i trzecim wyrazem\npewnego ciągu arytmetycznego. Oblicz różnicę r tego ciągu.",
+   "key": "Zadanie 29. (2 pkt)\n\n\nLiczby 6, 2\nw podanej kolejności są pierwszym, drugim i trzecim wyrazem\nx\n4,\nx\n26\npewnego ciągu arytmetycznego. Oblicz różnicę r tego ciągu.\nRozwiązanie (I sposób)\nCiąg \n\n\n\n6,2\nx\n4,\nx\n26\njest arytmetyczny, więc wyraz środkowy jest średnią arytmetyczną\n\n\n6\nx\n26\n\n\nwyrazów sąsiednich. Stąd:\n2\nx\n4\n.\n2\nx .\nRozwiązaniem równania jest\n8\nRóżnica r ciągu \n\n\n\nr \n\n6,2\nx\n4,\nx\n26\njest równa:\n.\n2 8\n4\n6\n14\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n\n\n6\nx\n26\n\n\ngdy wykorzysta własności ciągu arytmetycznego i zapisze równanie:\n2\nx\n4\nlub\n2\n\n\n\n\n\n\n\n\n\n\n2 2\nx\n4\n32\nx\n, lub 2\nx\n4 6\nx\n26\n2\nx\n4\n(różnica sąsiednich wyrazów ciągu jest\nstała).\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy obliczy różnicę r ciągu \n\n\n\nr \n6,2\nx\n4,\nx\n26\n:\n14\n.\nUwaga\nJeśli zdający pomyli własność ciągu arytmetycznego z własnością ciągu geometrycznego, to za\ncałe rozwiązanie otrzymuje 0 punktów.\nRozwiązanie (II sposób)\nCiąg \n\n\n\n\n\n oraz\n\n\n\n6,2\nx\n4,\nx\n26\njest arytmetyczny, zatem 2\n, gdzie\nx\n4\n6\nr\nx\n26\n6\n2\nr\nr oznacza różnicę ciągu arytmetycznego.\n\n\n\nRozwiązując układ równań 2\n\nx\n4\n6\nr\nx ,\nr \notrzymujemy:\n8\n14\n.\n\n\n\nx\n26\n6\n2\nr\n\nOdp. Różnica r tego ciągu jest równa 14.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n\n\n\n\ngdy wykorzysta własności ciągu arytmetycznego i zapisze układ równań: 2\nx\n4\n6\nr\n.\n\n\n\nx\n26\n6\n2\nr\n\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy obliczy różnicę r ciągu \n\n\n\nr \n6,2\nx\n4,\nx\n26\n:\n14\n.\nUwaga\nJeśli zdający pomyli własność ciągu arytmetycznego z własnością ciągu geometrycznego, to za\ncałe rozwiązanie otrzymuje 0 punktów.\n7\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2014-czerwiec/30.webp",
+   "size": [
+    950,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\nDane są dwa podzbiory zbioru liczb całkowitych:\n\n\n\n\ni\n.\nK\n{ 4,\n1, 1, 5, 6}\nL\n{ 3,\n2, 2, 3, 4}\nZ każdego z nich losujemy jedną liczbę. Oblicz prawdopodobieństwo zdarzenia polegającego\nna wylosowaniu liczb, których iloczyn jest dodatni.",
+   "key": "Zadanie 30. (2 pkt)\nDane są dwa podzbiory zbioru liczb całkowitych:\n\n\n\n\nK\n{ 4,\n1, 1, 5, 6}\ni\nL\n{ 3,\n2, 2, 3, 4}\n.\nZ każdego z nich losujemy jedną liczbę. Oblicz prawdopodobieństwo zdarzenia polegającego\nna wylosowaniu liczb, których iloczyn jest dodatni.\nRozwiązanie (I sposób) (klasyczna definicja prawdopodobieństwa)\nZdarzeniami elementarnymi są wszystkie pary uporządkowane \n\nx,\ny\ndwóch liczb, ze zbiorów\n\n\n\n\nK\n{ 4,\n1, 1, 5, 6}\ni\nL\n{ 3,\n2, 2, 3, 4}\n.\nNiech  oznacza zbiór wszystkich zdarzeń elementarnych, a A – zdarzenie polegające na\nwylosowaniu liczb, których iloczyn jest dodatni.\n\n\n\n\nLiczba wszystkich zdarzeń elementarnych jest równa:\n5\n5\n25\n.\nIloczyn wylosowanych liczb jest dodatni, gdy:\n obie wylosowane liczby są dodatnie\nalbo\n obie wylosowane liczby są ujemne.\nLiczba zdarzeń elementarnych sprzyjających zdarzeniu A jest więc równa\n\n\nA\n3 3\n2 2\n13\n13\n\nObliczamy prawdopodobieństwo zdarzenia A:\nP\n(\nA\n)\n.\n25\nRozwiązanie (II sposób) (metoda tabeli)\nZdarzeniami elementarnymi są wszystkie pary uporządkowane \n\nx,\ny\ndwóch liczb, ze zbiorów\n\n\n\n\nK\n{ 4,\n1, 1, 5, 6}\ni\nL\n{ 3,\n2, 2, 3, 4}\n.\nNiech  oznacza zbiór wszystkich zdarzeń elementarnych, a A – zdarzenie polegające na\nwylosowaniu liczb, których iloczyn jest dodatni.\n–4\n–1\n1\n5\n6\n\n\n–3\n–2\n\n\n\n\n\n2\nSymbol  w tabeli oznacza zdarzenie elementarne\n3\n\n\n\nsprzyjające zdarzeniu A\n4\n\n\n\n\n\n\n\n\n\n5\n5\n25\ni\nA\n13\n, zatem\nA\n13\n.\nSchemat oceniania I i II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy\n obliczy liczbę wszystkich możliwych zdarzeń elementarnych:\n\n\n\n\n5\n5\n25\nalbo\n obliczy liczbę zdarzeń elementarnych sprzyjających zdarzeniu A :\n\nA\n13\n8\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nZdający otrzymuje  ............................................................................................................ 2 pkt\n13\n\ngdy obliczy prawdopodobieństwo zdarzenia A:\nP\n(\nA\n)\n.\n25\nUwagi\n1. Jeżeli zdający popełnił błąd przy zliczaniu par w tabeli, spełniających warunki zadania,\ni konsekwentnie do popełnionego błędu obliczy prawdopodobieństwo, to otrzymuje 1 pkt.\nP A , to otrzymuje za całe\n2. Jeśli zdający rozwiąże zadanie do końca i otrzyma\n( )\n1\nrozwiązanie 0 punktów.\nRozwiązanie (III sposób) (metoda drzewa)\nRysujemy drzewo:\n1\n5\n1\n5\n1\n5\n1\n5\n1\n5\n–4\n–1\n1\n5\n6\n2\n3\n2\n3\n3\n5\n5\n5\n5\n5\n–3, –2\n–3, –2\n2, 3, 4\n2, 3, 4\n2, 3, 4\nPrawdopodobieństwo zdarzenia A (iloczyn wylosowanych liczb jest dodatni) jest więc równe:\n2\n2\n3\n3\n3\n13\n1\n1\n1\n1\n1\n\n\n\n\nP A\n\n\n\n\n\n\n\n\n.\n5 5\n5 5\n5 5\n5 5\n5 5\n25\nalbo\nalbo\n2\n3\n5\n5\n3\n2\n5\n5\nU\nD\nU\nD\n3\n2\n2\n3\n2\n3\n5\n5\n5\n5\n5\n5\nD\nU\nD\nU\nD\nU\nU – oznacza wylosowanie liczby ujemnej\nD – oznacza wylosowanie liczby dodatniej\nPrawdopodobieństwo zdarzenia A (iloczyn wylosowanych liczb jest dodatni) jest więc równe:\n2 2\n3 3\n13\n\n\nP A\n\n\n\n\n.\n5 5\n5 5\n25\nSchemat oceniania III sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy:\n9\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\n narysuje pełne drzewo i przynajmniej na jednej gałęzi opisze prawdopodobieństwo\nalbo\n narysuje drzewo tylko z istotnymi gałęziami i przynajmniej na jednej gałęzi opisze\nprawdopodobieństwo.\nZdający otrzymuje  ............................................................................................................ 2 pkt\n13\nP A \ngdy obliczy prawdopodobieństwo zdarzenia A:\n( )\n.\n25\nUwaga\nP A , to otrzymuje za całe rozwiązanie\nJeśli zdający rozwiąże zadanie do końca i otrzyma\n( )\n1\n0 punktów.\n10\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2014-czerwiec/31.webp",
+   "size": [
+    950,
+    321
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nDany jest trójkąt ABC. Odcinek CD jest wysokością tego trójkąta, punkt E jest środkiem\n\nboku BC (tak jak na rysunku) i CD\nDE\n. Udowodnij, że trójkąt CDE jest równoboczny.\nC\nE\nA\nB\nD",
+   "key": "Zadanie 31. (2 pkt)\nDany jest trójkąt ABC. Odcinek CD jest wysokością tego trójkąta, punkt E jest środkiem\n\nboku BC (tak jak na rysunku) i CD\nDE\n. Udowodnij, że trójkąt CDE jest równoboczny.\nC\nE\nA\nB\nD\nRozwiązanie (I sposób)\nC\nE\nB\nA\nD\nTrójkąt CDB jest prostokątny, a punkt E jest środkiem przeciwprostokątnej tego trójkąta,\nczyli punkt E jest środkiem okręgu opisanego na trójkącie CDB. Stąd wynika, że\n\n\n. Z treści zadania wiemy, że CD=DE, zatem trójkąt CDE jest\nDE\nBE\nCE\nrównoboczny. Co należało udowodnić.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy stwierdzi, że punkt E jest środkiem okręgu opisanego na trójkącie CDB i na tym\npoprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy przeprowadzi pełne rozumowanie i uzasadni, że trójkąt CDE jest równoboczny.\nRozwiązanie (II sposób)\nRysujemy prostą równoległą do podstawy AB przechodzącą przez punkt E. Otrzymujemy\n1\n\ntrójkąt CFE, który jest podobny do trójkąta CDB  w skali\nk\n.\n2\nC\nF\nE\nB\nA\nD\n11\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nOdcinek EF jest wysokością trójkąta CDE, która dzieli podstawę CD na dwie równe części.\n\nStąd trójkąt CDE jest równoramienny i DE\nCE\n. Z treści zadania wiemy, że\nCD=DE, zatem trójkąt CDE jest równoboczny, co należało udowodnić.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy narysuje prostą równoległą do podstawy AB i zauważy, że trójkąty CFE i CDB są podobne\n1\n\nw skali\nk\ni na tym poprzestanie lub dalej popełni błędy.\n2\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy przeprowadzi pełne rozumowanie i uzasadni, że trójkąt CDE jest równoboczny.\n12\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2014-czerwiec/32.webp",
+   "size": [
+    950,
+    599
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\nW ostrosłupie prawidłowym czworokątnym ABCDS (zobacz rysunek) przekątna AC\npodstawy ma długość 4 2 . Kąt ASC między przeciwległymi krawędziami bocznymi\nostrosłupa ma miarę 60. Oblicz objętość tego ostrosłupa.\nS\nD\nC\nA\nB",
+   "key": "Zadanie 32. (4 pkt)\nW ostrosłupie prawidłowym czworokątnym ABCDS (zobacz rysunek) przekątna AC podstawy\nma długość 4 2 . Kąt ASC między przeciwległymi krawędziami bocznymi ostrosłupa jest\nrówny 60\n. Oblicz objętość tego ostrosłupa.\nS\nD\nC\nO\nA\nB\nRozwiązanie\nS\n60\nh\nD\nC\na\nO\na\nA\nB\n\na \nNiech a oznacza krawędź podstawy ostrosłupa, wtedy\na\n2\n4 2\n. Stąd\n4\n.\n\n2\n\nObliczamy pole P podstawy ostrosłupa:\nP\na\n16\n.\n1\n\n\nW trójkącie AOS kąt ASO jest równy 30\n, a\nAO\nAC\n2 2\n.\n2\n\nAO\n2 2\n2 2 3\n\n\n\n\nObliczamy wysokość SO ostrosłupa:\ntg30\n, czyli\nSO\n2 6\n.\nSO\nSO\n3\n13\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nUwaga\nZdający może zauważyć, że trójkąt ACS jest równoboczny i jego bok ma długość 4 2 ,\nwięc zastosowanie wzoru na wysokość w trójkącie równobocznym pozwala obliczyć wysokość\n\n4 2\n3\n\n\nostrosłupa:\nSO\n2 6\n.\n2\n1\n32 6\nV \n\n\n\nObliczamy objętość V ostrosłupa:\n16 2 6\n.\n3\n3\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ......................................................................................................................... 1 pkt\n\n\nObliczenie długości krawędzi podstawy\nAB\na\n4\n.\nRozwiązanie, w którym jest istotny postęp  .................................................................... 2 pkt\nP \nObliczenie pola P podstawy:\n16\n.\nPokonanie zasadniczych trudności zadania ..................................................................... 3 pkt\nSO \nObliczenie wysokości ostrosłupa\n2 6\n.\nRozwiązanie pełne .............................................................................................................. 4 pkt\n32 6\nV \n.\nObliczenie objętości V ostrosłupa:\n3\n14\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2014-czerwiec/33.webp",
+   "size": [
+    950,
+    191
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (5 pkt)\nTrasę etapu wyścigu kolarskiego o długości 150 km pan Nowak pokonał w czasie o 1 godzinę\ni 50 minut krótszym niż jego kolega z drużyny, pan Kowalski. Średnia wartość prędkości,\nz jaką pan Nowak jechał na tym etapie, była o 11 km/h większa od średniej wartości\nprędkości pana Kowalskiego na tej trasie. Oblicz średnie wartości prędkości, z jakimi\nprzejechali całą trasę obaj zawodnicy.",
+   "key": "Zadanie 33. (5 pkt)\nTrasę etapu wyścigu kolarskiego o długości 150 km pan Nowak pokonał  w czasie o 1 godzinę\ni 50 minut krótszym niż jego kolega z drużyny, pan Kowalski. Średnia wartość prędkości,\nz jaką pan Nowak jechał na tym etapie, była o 11 km/h większa od średniej wartości prędkości\npana Kowalskiego na tej trasie. Oblicz średnie wartości  prędkości,  z  jakimi  przejechali  całą\ntrasę  obaj  zawodnicy.\nUwaga\nW poniżej zamieszczonym schemacie używamy niewiadomych v, t oznaczających,\nodpowiednio, prędkość i czas dla pana Nowaka. Oczywiście w pracach maturalnych te\nniewiadome mogą być oznaczane w inny sposób. Nie wymagamy, by te niewiadome były\nwyraźnie opisane na początku rozwiązania, o ile z postaci równań jasno wynika ich znaczenie.\nRozwiązanie I sposób\nPrzyjmujemy oznaczenia v i t – odpowiednio prędkość w km/h i czas w godzinach dla pana\nNowaka.\n\nZapisujemy zależność między drogą, prędkością i czasem dla pana Nowaka:\nv t\n150\n.\n5\n\n\nZapisujemy prędkość i czas jazdy dla pana Kowalskiego:\nv\n11\n,\nt\n16\n.\n\n\nv t\n150\nZapisujemy układ równań, np. \n.\n\n5\n\n\n\n\n\n\nv\n11\nt\n1\n150\n\n\n\n\n6\n\n\nZ pierwszego równania wyznaczamy\n150\n150\n\n\nt\nv\nv\nt\npodstawiamy do drugiego równania i rozwiązujemy\n\n\n\n\n\n150\n5\n150\n5\n\n\n\n\n\n\n\n\n\n\nv\n11\n1\n150\n11\nt\n1\n150\n\n\n\n\n\n\nv\n6\n\n\nt\n\n6\n\nPrzekształcamy to równanie do równania\nPrzekształcamy to równanie do równania\n\n\n\n\n\n\n2\n2\nkwadratowego, np.\nv\n11\nv\n900\n0\n.\nkwadratowego, np.\n66\nt\n121\nt\n1650\n0\n.\n\n\n\n\n\n\n2\n2\n121 3600\n61\n14641 435600\n671\n\n\n\n11 61\n121 671\n\n\nv \n\n\nt \nv\n25\n,  sprzeczne z zał.\nt\n6\n,  sprzeczne z zał.\n0\n0\n1\n1\n2\n132\n\n\n\n11 61\n121 671\n1\n\n\n\n\nv\n36(km/h)\nt\n4\n(h)\n2\n2\n2\n132\n6\nobliczamy prędkość drugiego rowerzysty\nobliczamy prędkość pana Nowaka\n\n\nv\n11\n25(km/h)\n150\n\n\nv\n36 (km/h)\n1\n4 6\nobliczamy prędkość drugiego rowerzysty\n\n\nv\n11\n25(km/h)\nOdp.: Prędkości rowerzystów są równe: 36 km/h i 25 km/h.\n15\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nRozwiązanie II sposób\nPrzyjmujemy oznaczenia v i t – odpowiednio prędkość w km/h i czas w godzinach dla pana\nKowalskiego.\n\nZapisujemy zależność między drogą, prędkością i czasem dla pana Kowalskiego:\nv t\n150\n.\n5\n\n\nZapisujemy prędkość i czas jazdy dla pana Nowaka:\nv\n11\n,\nt\n16\n.\n\n\n5\n\nZapisujemy układ równań, np. \n\n\n\n\n\nv\n11\nt\n1\n150\n\n\n\n\n6\n\n\n\nv t\n150\n\nZ drugiego równania wyznaczamy\n150\n150\n\n\nt\nv\nv\nt\npodstawiamy do pierwszego równania i rozwiązujemy\n\n\n\n\n\n150\n5\n150\n5\n\n\n\n\n\n\n\n\n\n\nv\n11\n1\n150\n11\nt\n1\n150\n\n\n\n\n\n\nv\n6\n\n\nt\n\n6\n\nPrzekształcamy to równanie do równania\nPrzekształcamy to równanie do równania\n\n\n\n2\n\n\n\n2\nkwadratowego, np.\nv\n11\nv\n900\n0\n.\nkwadratowego, np.\n66\nt\n121\nt\n1650\n0\n.\n\n\n\n\n\n\n2\n2\n121 3600\n61\n49\n3920\n63\n\n\n\n11 61\n121 671\n1\n\n\nv \n\n\nv\n36\n,  sprzeczne z zał.\n0\nt\n4\n,  sprzeczne z zał.\n1\n1\n2\n132\n6\nt \n\n\n11 61\n0\n\n\nv\n25(km/h)\n\n121 671\n2\n2\n\n\nt\n6 (h)\n2\nobliczamy prędkość pana Nowaka\n132\n\n\nv\n11\n36(km/h)\nobliczamy prędkość pana Kowalskiego\n150\n\n\nv\n25 (km/h)\n6\nobliczamy prędkość pana Nowaka\n\n\nv\n11\n36 (km/h)\nOdp.: Prędkości rowerzystów są równe: 36 km/h i 25 km/h.\nSchemat oceniania I i II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ...........................................................................................................  1 p.\n Zapisanie zależności między drogą, prędkością i czasem dla jednego z rowerzystów\noraz prędkości i czasu dla obu rowerzystów przy użyciu tych samych oznaczeń,\n5\n\n\nnp.: dla pana Nowaka\nv t\n150\n, czas pana Kowalskiego\nt\n16\n, prędkość pana\n\nKowalskiego\n.\nv\n11\n5\n\n\nlub: dla pana Kowalskiego\nv t\n150\n, czas pana Nowaka\nt\n16\n, prędkość pana Nowaka\n\nv\n11\n.\nUwaga\n16\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nNie wymagamy opisania oznaczeń literowych, jeżeli z rozwiązania można wywnioskować,\nże zdający poprawnie je stosuje.\nRozwiązanie, w którym jest istotny postęp  ......................................................................  2 p.\n Zapisanie układu równań z niewiadomymi v i t – odpowiednio z prędkością i czasem dla\n\n\nv t\n150\npana Nowaka: \n.\n\n5\n\n\n\n\n\n\nv\n11\nt\n1\n150\n\n\n\n\n6\n\n\nalbo\n Zapisanie układu równań z niewiadomymi v i t – odpowiednio z prędkością i czasem dla\n\n\n5\n\npana Kowalskiego: \n\n\n\n\n\nv\n11\nt\n1\n150\n\n\n\n\n6\n\n.\n\n\nv t\n150\n\nPokonanie zasadniczych trudności zadania  .....................................................................  3 p.\nZapisanie równania z jedną niewiadomą, np:\n\n150\n5\n\nlub 150\n\n\n5\n\n\n150\n5\n\n\n\nlub \n\n\n\n\n\n\n\n\n\n\n\n\n\nv\n11\n1\n150\n11\nt\n1\n150\nv\n11\n1\n150\n\n\n\n\n\n\n\n\nv\n6\n\n\nt\n\n6\n\n\nv\n6\n\nlub 150\n\n\n5\n\n\n\n\n\n11\nt\n1\n150\n.\n\n\n\n\nt\n\n6\n\nUwaga\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą.\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe)  .........................................................  4 p.\n rozwiązanie równania z niewiadomą v z błędem rachunkowym i konsekwentne\nobliczenie prędkości drugiego rowerzysty\nalbo\n rozwiązanie równania z niewiadomą t bezbłędnie i nieobliczenie prędkości\nrowerzystów\nalbo\n obliczenie t z błędem rachunkowym i konsekwentne obliczenie prędkości obu\nrowerzystów.\nRozwiązanie pełne  ..............................................................................................................  5 p.\nObliczenie prędkości obu rowerzystów: 36 km/h i 25 km/h.\nUwagi\n1. Jeżeli zdający podaje (bez obliczeń) prędkość tylko jednego z rowerzystów: 36 km/h lub\n25 km/h, to otrzymuje 0 pkt.\n2. Jeżeli zdający podaje (bez obliczeń) prędkości obu rowerzystów: 36 km/h i 25 km/h, to\notrzymuje 1 pkt.\n17\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\n3. Zdający może pominąć jednostki, o ile ustalił je w toku rozumowania i stosuje je\nkonsekwentnie.\n18\nEgzamin wstępny – poziom p"
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2014-czerwiec/34.webp",
+   "size": [
+    950,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (4 pkt)\n\n\n\n\nA \nB \nPodstawą trójkąta równoramiennego ABC jest bok AB, gdzie\n2,1\ni\n5,2\n. Ramię\n\n\n\ntego trójkąta zawiera się w prostej o równaniu 2\nx\ny\n3\n0\n. Oblicz współrzędne\nwierzchołka C.",
+   "key": "Zadanie 34. (4 pkt)\n\n\n\n\nA \nB \nPodstawą trójkąta równoramiennego ABC jest bok AB, gdzie\n2,1\ni\n5,2\n. Ramię tego\n\n\ntrójkąta zawiera się w prostej o równaniu 2\nx\ny\n3\n0\n. Oblicz współrzędne wierzchołka C.\nRozwiązanie\n\n2\n1\n1\n\nObliczamy współczynnik kierunkowy prostej AB:\n.  Zatem współczynnik kierunkowy\n\n5\n2\n3\nprostej prostopadłej do prostej AB jest równy \n\n\n3\n. Symetralna odcinka AB ma równanie\n\n\n\n\n\n\n5\n2\n2\n1\n7\n3\n3\n\n\n\n\ny\nx\nb\n. Punkt\nS\n\n,\n\n\n,\n\njest środkiem odcinka AB . Symetralna tego\n\n2\n2\n\n\n2\n2\n\n3\n7\n\n\n\n\n\nodcinka przechodzi przez punkt S, więc\n3\nb\n, stąd\nb\n12\n. Zatem symetralna odcinka\n2\n2\n\n\n3 \nAB ma równanie\ny\nx\n12\nObliczamy współrzędne wierzchołka C rozwiązując układ równań:\n\n\n\n\n2\nx\ny\n3\n0\n\n\n\n\ny\n3\nx\n12\n\n\n\nC \nZatem współrzędne punktu C są równe:\n3,3\n.\nSchemat oceniania rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ........................................................................................................... 1 pkt\n\n\n7\n3\n poprawne wyznaczenie lub podanie współrzędnych środka boku AB:\n\nS\n\n,\n\n\n2\n2\n\nalbo\n1\n poprawne wyznaczenie współczynnika kierunkowego prostej AB:\n\na\n.\n3\nRozwiązanie, w którym jest istotny postęp ...................................................................... 2 pkt\n\n\n3 \nWyznaczenie równania symetralnej boku AB:\ny\nx\n12\n.\nUwaga\nZdający może wyznaczyć równanie symetralnej stosując jej własność: AC\n, gdzie\n\nBC\n\n\njest dowolnym punktem tej symetralnej. Wówczas otrzymuje:\n\nC\nx y\n,\n2\n2\n2\n2\n\n\n\n\n\n\n\n\nstąd 3\n\n\n\n\n\n\n\n\n\n\nx\ny\n12\n0\n.\nx\n2\ny\n1\nx\n5\ny\n2\nPokonanie zasadniczych trudności zadania ..................................................................... 3 pkt\n\n\n\n\n2\nx\ny\n3\n0\nZapisanie układu równań\ni poprawne obliczenie jednej ze współrzędnych\n\n\n\n\ny\n3\nx\n12\n\npunktu C.\n19\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nRozwiązanie prawie pełne……………………………………………………………… 3 pkt\n popełnienie błędów przy wyznaczaniu współrzędnych środka boku albo\nwspółczynnika kierunkowego prostej AB i konsekwentnie do popełnionych błędów\nwyznaczenie współrzędnych punktu C.\nalbo\n poprawne wyznaczenie równania symetralnej boku AB i popełnienie błędów przy\nwyznaczeniu współrzędnych punktu C.\nRozwiązanie pełne .............................................................................................................. 4 pkt\n\n\nC \nPoprawne obliczenie współrzędnych punktu C:\n3,3\n.\nII sposób rozwiązania\nObliczamy współrzędne wektora AB który jest prostopadły do symetralnej odcinka AB:\n\n\nAB \n\n\n\n3,1\n. Zatem symetralna odcinka\nAB ma równanie 3\nx\ny\nb\n0\n. Obliczamy\n\n\n\n\n\n\n5\n2\n2\n1\n7\n3\n\n\nwspółrzędne punktu S, który jest środkiem odcinka AB:\nS\n\n,\n\n\n,\n\n. Symetralna\n\n2\n2\n\n\n2\n2\n\n7\n3\n\n\n\n\n\ntego odcinka przechodzi przez punkt S, więc\n3\nb\n0\n, stąd\nb\n12\n. Zatem symetralna\n2\n2\n\n\n\nodcinka AB ma równanie 3\nx\ny\n12\n0\n.\nObliczamy współrzędne wierzchołka C rozwiązując układ równań:\n\n\n\n\n2\nx\ny\n3\n0\n\n\n\n\n3\nx\ny\n12\n0\n\n\n\nC \nZatem współrzędne punktu C są równe:\n3,3\n.\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ........................................................................................................... 1 pkt\n\n7\n3\n\n poprawne wyznaczenie lub podanie współrzędnych środka boku AB:\n\nS\n\n,\n\n\n2\n2\n\nalbo\n\n\n poprawne obliczenie współrzędnych wektora AB:\nAB \n3,1\n.\nRozwiązanie, w którym jest istotny postęp ...................................................................... 2 pkt\n\n\n3 \nWyznaczenie równania symetralnej boku AB:\ny\nx\n12\n.\nPokonanie zasadniczych trudności zadania ..................................................................... 3 pkt\n\n\n\n\nZapisanie układu równań 2\nx\ny\n3\n0\n\ni poprawne obliczenie jednej ze współrzędnych\n\n\n\n3\nx\ny\n12\n0\n\npunktu C.\nRozwiązanie prawie pełne……………………………………………………………… 3 pkt\n popełnienie błędów przy wyznaczaniu współrzędnych środka boku albo\nwspółrzędnych wektora AB i konsekwentnie do popełnionych błędów wyznaczenie\nwspółrzędnych punktu C.\n20\nEgzamin wstępny – poziom podstawowy – 2014\nKryteria oceniania odpowiedzi\nalbo\n poprawne wyznaczenie równania symetralnej boku AB i popełnienie błędów przy\nwyznaczeniu współrzędnych punktu C.\nRozwiązanie pełne .............................................................................................................. 4 pkt\n\n\nC \nPoprawne obliczenie współrzędnych punktu C:\n3,3\n.\n21"
+  }
+ ]
+}

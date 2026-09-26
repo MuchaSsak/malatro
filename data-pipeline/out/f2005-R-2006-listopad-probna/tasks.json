@@ -1,0 +1,198 @@
+{
+ "exam": {
+  "id": "f2005-R-2006-listopad-probna",
+  "formula": "2005",
+  "level": "R",
+  "year": 2006,
+  "session": "probna",
+  "month": "11",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/stories/06_mp/mat_pr.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/06_mp/mat_oc_pr.pdf",
+  "examFile": "f2005-R-2006-listopad-probna.pdf",
+  "keyFile": "f2005-R-2006-listopad-probna-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure); CKE matura probna listopad 2006",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2007-2/matura-probna-listopad-2006/",
+  "examPages": 16,
+  "keyPages": 15,
+  "examBytes": 265385,
+  "keyBytes": 228165
+ },
+ "keyHead": "1\nlub wykorzystanie innej metody , która doprowadzi do\n1 pkt za zapisanie funkcji w postaci homograficznej:\n1 pkt przyznajemy  za obliczenie pochodnej,\nUwagi dla sprawdzającego\nzapisania wyrażenia w postaci sumy, np.\n−\n3\n2\n1 pkt za zapisanie nierówności.\np\n1 pkt za wykonanie dzielenia\n+\n)\np\n.\n3\n−\n−\np x\n(\n2\np\n.\np\n=\n+\n3\np\n−\n)\n)\n−\np\np\n−\nx\n2\n−\n−\nx\np\nx\np x\n+\n3) :(\n(\np\n=\n=\n−\n( )\n( )\nf x\nf x\npx\nPOZIOM ROZSZERZONY\nPróbny egzamin maturalny z matematyki\n(\nOCENIANIE ARKUSZA\npunktów\nLiczba\n1\n2\n1\n1\n2\nPoziom rozszerzony\n.\n3\np\n−\n−\n2\np\nx\n+\npozwalającej\np\nPrzekształcenie wzoru funkcji do żądanej postaci\nwyznaczyć szukany zbiór wartości parametru p.\n=\n( )\nf x\nEtapy rozwiązania zadania\nZapisanie wzoru funkcji w postaci sumy\nII sposób rozwiązania podpunktu b)\nI sposób rozwiązania podpunktu b).\nRozwiązanie powyższej nierówności:\n:\n−.\n0\n1\n.\n)\n<\n(x\n0\n2\n2\nx\n>\nf\n)\n2\np\np\n= −\nObliczenie pochodnej funkcji\n3\n1\n−\n−\n−\n∞.\n3\nx\n2\n( )\n(\n)\np\nf x\np\ni zapisanie nierówności\n1.3 Zapisanie nierówności\n,\nx ≠\n3\n− lub\n(\n,\n∪\n2\n)\n1\n2\n)\np\n2\np\n3\n−\n−\n−\nx\n∈−∞−\n3\nx\n= +\n,\n(\n1\n=\n( )\n( )\n(\nx\nf x\n′\np\nf\n1.1\n1.2\n1.4\n1.2\nNumer\nzadania\n1.\ndo postaci\nprzyjmuje\n)\n1\nf x\n(\n)\n1\n−\nf x\n(\n)\n2\nf x\n−\n(\n)\n.\n2\n1 pkt – doprowadzenie różnicy\nf x\n0\n(\n>\n3\nZauważenie, że wyrażenie\n1 pkt – zapisanie założeń.\np −\n2\niloczynowej.\nwartość ujemną gdy\nPróbny egzamin maturalny z matematyki\n1\n1\n2\n1\n1\n2\n1\n1\nPoziom rozszerzony\n.\nZapisanie warunku wystarczającego na to, żeby funkcja  f\nIII sposób rozwiązania podpunktu b) z zastosowaniem\nfunkcja f\n3)\n)\np\n−\ni zapisanie nierówności\n−\ndla każdego\n2\n.\n1\np\np x\np\n.\n)(\n)(\n>\n0\n2\n2\nx\nx\n>\n)\n−\n1\n−\n<\n3\n+\nw postaci:\n2\n1\nx\nx\np −\n1\np\nx\n(\n(\n2\n(\n∞ takich, że\n=\nIV sposób rozwiązania podpunktu b)\nf\n0\n∞. Zapisanie nierówności\n)\n:\n:\n:\n,p +∞:\n<\n2\n.\nx\n0\n0\n)\n0\n)\n0\n:\n−\n)\n<\n2\n>\n>\np\nx\n<\n)\n1\n3\np\n3\n2\nx\n1\n−\n−\np\n)\nf x\n3(\np −\np −\n1\n>\n(\n1\n1\n)\nf x\nx\n−\np x\nbyła malejąca w przedziale  (\n0\ndefinicji funkcji malejącej.\n2\n2\n−\n(\n)\n(\n)(\n3\n1\n>\n−\ni\n)\n∞.\n,\n∞.\n∞.\n+\nRozwiązanie nierówności\np\nRozwiązanie nierówności\nRozwiązanie nierówności\n2\n−\n)\nx\n2\n)\n)\n)\n0\n)\n2\n−\np\n(\n)\nf x\n−\np\nAnaliza znaku ułamka:\n∈\n>\n2\n(\n2\n(\n,\nf x\n,\n,\nx\n1\n−\n3\n3\n3\nx\n)\nf\n2\n(\n(\nx x\np\n(\nx\nObliczenie różnicy\nZapisanie warunku\n,\n2\n(\n(\n(\n−\n.\n1.3 Stwierdzenie, że (\n1\njest malejąca gdy\np\n∪\n∪\n∪",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-listopad-probna/1.webp",
+   "size": [
+    956,
+    319
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (5 pkt)\n−\npx\n3\n=\np∈ jest\nFunkcja homograficzna\nf jest określona wzorem\nf\n(\nx\n)\n, gdzie\nR\n−\nx\np\np ≠\nparametrem i\n3\n.\nm\n=\n=\n+\na) Dla\np\n1\nzapisz wzór funkcji w postaci\nf\n(\nx\n)\nk\n, gdzie k oraz m\n−\nx\n1\nsą liczbami rzeczywistymi.\nb) Wyznacz wszystkie wartości parametru p , dla których w przedziale (\n)\np,+∞ funkcja f\njest malejąca.",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-listopad-probna/2.webp",
+   "size": [
+    950,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (5 pkt)\nk ∈\nWyznacz\nwszystkie\nwartości\nR\n,\ndla\nktórych\npierwiastki\nwielomianu\n( ) (\n) (\n)\n=\n−\n+\n⋅\n−\n2\nW\nx\nx\n8\nx\n12\nx\nk\nsą\ntrzema\nkolejnymi\nwyrazami\nrosnącego\nciągu\ngeometrycznego.",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-listopad-probna/3.webp",
+   "size": [
+    947,
+    630
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (4 pkt)\nNa rysunku poniżej przedstawiono wykres funkcji logarytmicznej f .\n(\n( )\n)\n2\n−\n=\nRozwiąż równanie\nf\nx\n16\n0\n.",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-R-2006-listopad-probna/4.webp",
+   "size": [
+    956,
+    175
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (7 pkt)\nBCA =\nD\nCAB =\nD\nTrójkąt prostokątny ABC , w którym\n)\n90\ni\n)\n30\n, jest opisany na okręgu\no promieniu\n3 . Oblicz odległość wierzchołka C trójkąta od punktu styczności tego okręgu\nz przeciwprostokątną. Wykonaj odpowiedni rysunek.",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2006-listopad-probna/5.webp",
+   "size": [
+    950,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (3 pkt)\n=\n−\nSporządź wykres funkcji f danej wzorem\nf x\n( )\n2\nx\nx\n2\n, a następnie, korzystając z niego,\npodaj wszystkie wartości x, dla których funkcja f przyjmuje maksima lokalne i wszystkie\nwartości x, dla których przyjmuje minima lokalne.",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-listopad-probna/6.webp",
+   "size": [
+    950,
+    568
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (4 pkt)\nPodstawa AB trapezu ABCD jest zawarta w osi Ox, wierzchołek D jest punktem przecięcia\n1\n=\n−\n2\n+\n+\nparaboli o równaniu\ny\nx\nx\n6\nz osią Oy. Pozostałe wierzchołki trapezu również leżą\n3\nna tej paraboli (patrz rysunek). Oblicz pole tego trapezu.\ny\nD\nC\nA\nB\n0\nx",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2006-listopad-probna/7.webp",
+   "size": [
+    944,
+    101
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (3 pkt)\n2\n=\nnależące do przedziału 0,2π .\nWyznacz wszystkie rozwiązania równania\n2\ncos\nx\ncos\nx",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-listopad-probna/8.webp",
+   "size": [
+    956,
+    438
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (4 pkt)\nUczeń analizował własności funkcji f, której dziedziną jest zbiór wszystkich liczb\n′\n∈\nrzeczywistych i która ma pochodną\nf\n( )\nx\ndla każdego x\nR\n. Wyniki tej analizy zapisał\nw tabeli.\n(\n)\n(\n)\n(\n)\nx\n−\n2\n(2, 3)\n3\n−∞−\n1\n−\n3, + ∞\n,\n1\n1, 2\n( )\n( )\n( )\n( )\n′\n+\n−\n−\n−\nf\n( )\nx\n0\n0\n0\nf\n(x\n)\n2\n−\n1\n1\nNiestety, wpisując znaki pochodnej, popełnił jeden błąd.\na) Przekreśl błędnie wpisany znak pochodnej i wstaw obok prawidłowy.\nb) Napisz, czy po poprawieniu błędu w tabeli, zawarte w niej dane pozwolą określić\ndokładną liczbę miejsc zerowych funkcji f . Uzasadniając swoją odpowiedź możesz\nnaszkicować przykładowe wykresy funkcji.",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2006-listopad-probna/9.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (3 pkt)\n⊂\nΩ\n⊂\nΩ\nNiech\nA\ni\nB\nbędą zdarzeniami losowymi. Mając dane prawdopodobieństwa\n( )\n( )\n(\n)\n=\nP B =\nP A B =\nzdarzeń:\nP\nA\n5,0\n,\n0,4\ni\n\\\n0,3\n, zbadaj, czy A i B są zdarzeniami\nniezależnymi.",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-listopad-probna/10.webp",
+   "size": [
+    950,
+    325
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (5 pkt)\nCiąg liczbowy (\n)\nn ≥ wzorem\nna\njest określony dla każdej liczby naturalnej\n1\n)(\n)\n(\n=\n−\n−\n2\np∈\nna\nn\n3\n2\np\n,  gdzie\nR\n.\na) Wykaż, że dla każdej wartości p ciąg (\n)\nna\njest arytmetyczny.\n=\n+\n+\n+\nb) Dla\np\n2\noblicz sumę\na\na\na ...\na\n.\n20\n21\n22\n40\nc) Wyznacz wszystkie wartości p , dla których ciąg (\n)\n=\n−\nnb\nokreślony wzorem\nb\na\npn\nn\nn\njest stały.",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2006-listopad-probna/11.webp",
+   "size": [
+    950,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (3 pkt)\n>\nFunkcja f przyporządkowuje każdej liczbie naturalnej\nn\n1\nnajwiększą liczbę całkowitą\n2\n−\n+\n2\n<\nspełniającą nierówność\nx\n3\nnx\n2\nn\n0\no niewiadomej x. Wyznacz wzór funkcji f.",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-listopad-probna/12.webp",
+   "size": [
+    954,
+    468
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (4 pkt)\nDwa okręgi, każdy o promieniu 8, są styczne zewnętrznie. Ze środka jednego z nich\npoprowadzono styczne do drugiego okręgu. Oblicz pole zacieniowanej figury (patrz rysunek).\n. .\n.\nA\nB",
+   "key": ""
+  }
+ ]
+}

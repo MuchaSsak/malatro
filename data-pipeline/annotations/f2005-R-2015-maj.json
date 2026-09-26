@@ -1,0 +1,56 @@
+{
+ "exam": "f2005-R-2015-maj",
+ "tasks": [
+  { "task": "1", "include": false, "exclude_reason": "proof", "category": "liczby", "difficulty": 4, "notes": "Prove a logarithm identity for all valid x,y" },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 12, "value_tex": "12", "answer_tex": "x=3, x=4, x=5",
+   "category": "rownania", "topic_pl": "Pierwiastki wielomianu z parametrem", "topic_en": "Roots of a polynomial with a parameter",
+   "difficulty": 4,
+   "summary_pl": "Wielomian $W(x)$ z param. $m$, przes. przez $(0,0)$. Pierwiastki? (suma)", "summary_en": "Polynomial $W(x)$ with param $m$, shifted through origin. Roots? (sum)",
+   "statement_en": "Given is the polynomial $W(x)=x^3-3mx^2+(3m^2-1)x-9m^2+20m+4$. The graph of this polynomial, after translation by the vector $u=[-3,0]$, passes through the origin of the coordinate system. Find all the roots of the polynomial W.",
+   "confidence": "high", "notes": "sum of the three roots 3+4+5"
+  },
+  { "task": "3", "include": false, "exclude_reason": "interval_or_set", "category": "rownania", "difficulty": 5, "notes": "Answer is a union of intervals for parameter m" },
+  {
+   "task": "4", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 9, "value_tex": "9", "answer_tex": "-2, 3, 8",
+   "category": "ciagi", "topic_pl": "Ciąg arytmetyczny i geometryczny", "topic_en": "Arithmetic and geometric sequence",
+   "difficulty": 4,
+   "summary_pl": "Ciąg arytm.: +5,+3,+4 daje ciąg geom. Znajdź liczby (suma)", "summary_en": "Arithmetic seq. +5,+3,+4 gives geometric seq. Find numbers (sum)",
+   "statement_en": "Three numbers form an arithmetic sequence. If we add 5 to the first, 3 to the second, and 4 to the third, we obtain an increasing geometric sequence, in which the third term is four times as large as the first. Find these numbers.",
+   "confidence": "high", "notes": "sum of the three numbers -2+3+8"
+  },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 12.566370614359172, "value_tex": "4\\pi", "answer_tex": "x=\\frac{\\pi}{4} \\lor x=\\frac{3\\pi}{4} \\lor x=\\frac{5\\pi}{4} \\lor x=\\frac{7\\pi}{4}",
+   "category": "trygonometria", "topic_pl": "Równanie trygonometryczne", "topic_en": "Trigonometric equation",
+   "difficulty": 4,
+   "summary_pl": "Rozwiąż $\\sin^2 2x-4\\sin^2x+1=0$ w $[0,2\\pi)$ (suma rozw.)", "summary_en": "Solve $\\sin^2 2x-4\\sin^2x+1=0$ on $[0,2\\pi)$ (sum of solutions)",
+   "statement_en": "Solve the equation $\\sin^2 2x - 4\\sin^2 x + 1 = 0$ in the interval $[0,2\\pi)$.",
+   "confidence": "high", "notes": "sum of the four solutions in the interval"
+  },
+  { "task": "6", "include": false, "exclude_reason": "interval_or_set", "category": "rownania", "difficulty": 3, "notes": "Answer is a union of two rays" },
+  { "task": "7", "include": false, "exclude_reason": "proof", "category": "planimetria", "difficulty": 4, "notes": "" },
+  {
+   "task": "8", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.4330127018922193, "value_tex": "\\frac{\\sqrt{3}}{4}", "answer_tex": "tg\\,\\alpha=\\frac{\\sqrt3}{4}",
+   "category": "trygonometria", "topic_pl": "Trygonometria w trójkącie", "topic_en": "Trigonometry in a triangle",
+   "difficulty": 4,
+   "summary_pl": "Trójkąt równob. ABC, $AD:DB=2:3$. Oblicz $tg(\\angle ACD)$", "summary_en": "Equilateral triangle ABC, $AD:DB=2:3$. Find $\\tan(\\angle ACD)$",
+   "statement_en": "On side AB of equilateral triangle ABC, point D is chosen such that $AD:DB=2:3$. Calculate the tangent of angle ACD.",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "9", "include": false, "exclude_reason": "expression", "category": "analityczna", "difficulty": 4, "notes": "Answer is the equations of two tangent lines" },
+  { "task": "10", "include": false, "exclude_reason": "expression", "category": "stereometria", "difficulty": 5, "notes": "Answer is a symbolic area formula in terms of a and alpha" },
+  {
+   "task": "11", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.0025720164609053498, "value_tex": "\\frac{5}{1944}", "answer_tex": "P(A)=\\frac{5}{1944}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo klasyczne", "topic_en": "Classical probability",
+   "difficulty": 4,
+   "summary_pl": "6 kostek: dokł. 2 jedynki, 3 szóstki, suma parzysta. P?", "summary_en": "6 dice: exactly two 1's, three 6's, even sum. P?",
+   "statement_en": "Consider a roll of six dice, each of a different color. Calculate the probability of the event that the result of the roll simultaneously satisfies three conditions: exactly two dice show one pip; exactly three dice show six pips; the sum of all the pips obtained is even.",
+   "confidence": "high", "notes": ""
+  }
+ ]
+}

@@ -1,0 +1,115 @@
+{
+ "exam": "f2005-R-2006-styczen-zimowa",
+ "tasks": [
+  {
+   "task": "11",
+   "include": false,
+   "exclude_reason": "interval_or_set",
+   "category": "funkcje",
+   "difficulty": 5,
+   "notes": "Domain is a union of three intervals (m in (-inf,-6) u (-2,0) u (0,inf)) plus a required graph sketch; no single numeric answer."
+  },
+  {
+   "task": "12",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 2,
+   "value_tex": "2",
+   "answer_tex": "(x,y)=(2,1) \\lor (x,y)=(-2,1)",
+   "category": "rownania",
+   "topic_pl": "Uklad rownan z wartoscia bezwzgledna",
+   "topic_en": "System of equations with absolute value",
+   "difficulty": 3,
+   "summary_pl": "Rozwiąż układ $|x|-y=1$, $x^2+(y+1)^2=8$ (suma wszystkich współrz.)",
+   "summary_en": "Solve the system $|x|-y=1$, $x^2+(y+1)^2=8$ (sum of all coordinates)",
+   "statement_en": "Solve the system of equations: $|x|-y=1$ and $x^2+(y+1)^2=8$.",
+   "confidence": "high",
+   "notes": "Substituting y+1=|x| gives 2x^2=8, x=2 or x=-2, both give y=1 (y=-3 branch rejected since |x| cannot be negative). Solutions (2,1) and (-2,1); sum of all four numbers = 2. [verified: ok: y+1=|x| gives x=+-2, y=1 (key 12.3). 'Rozwiaz' = full solution set; sum of all coords 2. Summary fix: diacritics + 'wszystkich'.]"
+  },
+  {
+   "task": "13",
+   "include": false,
+   "exclude_reason": "interval_or_set",
+   "category": "funkcje",
+   "difficulty": 4,
+   "notes": "Domain of f(x)=log_x(4^x-12*2^x+32) is D=(0,1) u (1,2) u (3,+inf), a union of intervals."
+  },
+  {
+   "task": "14",
+   "include": false,
+   "exclude_reason": "expression",
+   "category": "ciagi",
+   "difficulty": 3,
+   "notes": "Sum of areas S = a^2*sqrt(3) depends on the free parameter a (side length); no fixed numeric value."
+  },
+  {
+   "task": "15",
+   "include": false,
+   "exclude_reason": "interval_or_set",
+   "category": "trygonometria",
+   "difficulty": 4,
+   "notes": "General solution x = pi/2 + k*pi, k in Z is an infinite solution set, not a finite numeric answer."
+  },
+  {
+   "task": "16",
+   "include": false,
+   "exclude_reason": "proof",
+   "category": "prawdopodobienstwo",
+   "difficulty": 4,
+   "notes": "Wykaz-type proof that one of two independent events with P(AuB)=1 must be certain."
+  },
+  {
+   "task": "17",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 0,
+   "value_tex": "0",
+   "answer_tex": "x=0",
+   "category": "analiza",
+   "topic_pl": "Pochodna i ekstrema funkcji",
+   "topic_en": "Derivative and extrema",
+   "difficulty": 4,
+   "summary_pl": "Z wykresu $f'$ wyznacz $x$, dla ktorego $f$ ma maksimum (cz. b)",
+   "summary_en": "From the graph of $f'$, find $x$ where $f$ has a maximum (part b)",
+   "statement_en": "The figure shows the graph of the derivative of a function f, crossing the x-axis at x=-4, x=0 and x=4 (with a local maximum of f' near x=-2.5 and a local minimum of f' near x=2). a) State the maximal intervals on which f is decreasing. b) Find the value of x for which f attains a local maximum; justify your answer. c) Given that point A=(1,2) lies on the graph of f, write the equation of the tangent line to the curve f at point A.",
+   "confidence": "high",
+   "notes": "Only part b) is numeric (x=0, where f' changes sign from + to -). Part a) (decreasing intervals (-inf,-4] and [0,4]) and part c) (tangent line y=-2x+4) are symbolic/set-valued and excluded from the sum, per key."
+  },
+  {
+   "task": "18",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 3,
+   "value_tex": "3",
+   "answer_tex": "C=(3,0)",
+   "category": "analityczna",
+   "topic_pl": "Jednoklaudnosc i okrag opisany",
+   "topic_en": "Homothety and circumscribed circle",
+   "difficulty": 5,
+   "summary_pl": "$A=(7,8)$, $B=(-1,2)$, $\\angle BCA=90^\\circ$, $C\\in OX$. Wyznacz $C$ (cz. a)",
+   "summary_en": "$A=(7,8)$, $B=(-1,2)$, $\\angle BCA=90^\\circ$, $C\\in OX$. Find $C$ (part a)",
+   "statement_en": "Points A=(7,8) and B=(-1,2) are vertices of triangle ABC in which the measure of angle BCA is 90 degrees. a) Find the coordinates of vertex C, given that it lies on the OX axis. b) Write the equation of the image of the circle circumscribed about triangle ABC under the homothety with center P=(1,0) and scale factor k=-2.",
+   "confidence": "high",
+   "notes": "Only part a) is numeric: C=(3,0), sum of coordinates = 3 (verified: C on OX with BC perpendicular AC). Part b) (image circle equation (x+3)^2+(y+10)^2=100) is symbolic and excluded from the sum."
+  },
+  {
+   "task": "19",
+   "include": false,
+   "exclude_reason": "expression",
+   "category": "stereometria",
+   "difficulty": 5,
+   "notes": "Cross-section area S=(sqrt(6)/8)*a^2 depends on the free parameter a (base edge length); also requires a sketch."
+  },
+  {
+   "task": "20",
+   "include": false,
+   "exclude_reason": "proof",
+   "category": "ciagi",
+   "difficulty": 4,
+   "notes": "Proof by mathematical induction that a recursively defined sequence equals a closed-form formula."
+  }
+ ]
+}

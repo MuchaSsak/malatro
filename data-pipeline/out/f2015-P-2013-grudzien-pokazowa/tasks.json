@@ -1,0 +1,492 @@
+{
+ "exam": {
+  "id": "f2015-P-2013-grudzien-pokazowa",
+  "formula": "2015",
+  "level": "P",
+  "year": 2013,
+  "session": "pokazowa",
+  "month": "12",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Przykladowe_arkusze/2015/matematyka_PP/matematyka_PP_A1.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Przykladowe_arkusze/2015/matematyka_PP/matematyka_Model_PP_A2_A3_A4_A6_A7.pdf",
+  "examFile": "f2015-P-2013-grudzien-pokazowa.pdf",
+  "keyFile": "f2015-P-2013-grudzien-pokazowa-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "CKE przykladowy arkusz (formula 2015), published Dec 2013; key file labelled for A2-A7 versions (same tasks as A1); exam text layer is garbled (overlapping glyphs) - OCR/render if extracting text",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2015/materialy-dodatkowe/przykladowe-arkusze/matematyka-poziom-podstawowy-i-rozszerzony/",
+  "examPages": 17,
+  "keyPages": 17,
+  "examBytes": 284365,
+  "keyBytes": 523350
+ },
+ "keyHead": "EGZAMIN MATURALNY\nOD ROKU SZKOLNEGO 2014/2015\nMATEMATYKA\nPOZIOM PODSTAWOWY\nROZWIĄZANIA ZADAŃ I SCHEMATY PUNKTOWANIA\n(A1, A2, A3, A4, A6, A7)\nGRUDZIEŃ 2013\nKlucz odpowiedzi do zadań zamkniętych\nNr zadania\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23\nOdpowiedź\nD\nC D B C A D D C D\nB\nB\nA\nC\nB\nC\nD\nD\nC\nA\nB\nB\nB\nWymagania ogólne\nWymagania szczegółowe\nZadanie 1. (0–1)\nI. Wykorzystanie\n1.7. Zdający oblicza błąd bezwzględny przybliżenia.\ni tworzenie informacji.\nPoprawna odpowiedź: D\nZadanie 2. (0-1)\nII. Wykorzystanie\n8.6. Zdający oblicza odległość punktów na płaszczyźnie\ni interpretowanie\nkartezjańskiej.\nreprezentacji.\nPoprawna odpowiedź: C\nZadanie 3. (0-1)\n2.1 Zdający używa wzorów skróconego mnożenia na\nII. Wykorzystanie\nkwadrat sumy.\ni interpretowanie\n1.3. Zdający posługuje się obliczeniach pierwiastkami\nreprezentacji.\ndowolnego stopnia i stosuje prawa działań na\npierwiastkach.\nPoprawna odpowiedź: D\nZadanie 4. (0-1)\nII. Wykorzystanie\n1.4. Zdający oblicza potęgi o wykładnikach wymiernych\ni interpretowanie\ni stosuje prawa działań na potęgach o wykładniku\nreprezentacji.\nwymiernym.\nPoprawna odpowiedź: B\n2\nZadanie 5. (0-1)\nI. Wykorzystanie\n4.2. Zdający oblicza ze wzoru wartość funkcji dla\ni tworzenie  informacji.\ndanego argumentu.\nPoprawna odpowiedź: C\nZadanie 6. (0-1)\nII. Wykorzystanie\ni interpretowanie\n2.1. Zdający używa wzorów skróconego mnożenia.\nreprezentacji.\nPoprawna odpowiedź: A\nZadanie 7. (0-1)\n1.3. Zdający posługuje się w obliczeniach pierwiastkami\nI. Wykorzystanie\ndowolnego stopnia.\ni tworzenie informacji.\n1.4. Zdający oblicza potęgi o wykładniku naturalnym.\nPoprawna odpowiedź: D\nZadanie 8. (0-1)\nII. Wykorzystanie\n3.3. Zdający rozwiązuje nierówność I stopnia z jedną\ni interpretowanie\nniewiadomą.\nreprezentacji.\nPoprawna odpowiedź: D\nZadanie 9. (0-1)\nIII. Modelowanie\n1.9. Zdający wykonuje obliczenia procentowe.\nmatematyczne.\nPoprawna odpowiedź: C\nZadanie 10. (0-1)\nI. Wykorzystanie\n1.1. Zdający przedstawia liczby rzeczywiste w różnych\ni tworzenie informacji.\npostaciach.\nPoprawna odpowiedź: D\n3\nZadanie 11. (0-1)\nII. Wykorzystanie\n4.1. Zdający określa funkcję za pomocą opisu słownego.\ni interpretowanie\n4.2. Zdający oblicza wartość funkcji dla danych\nreprezentacji.\nargumentów i porównuje wyniki.\nPoprawna odpowiedź: B\nZadanie 12. (0-1)\nI. Wykorzystanie\n9.1. Zdający rozpoznaje w ostrosłupach kąty między\ni tworzenie informacji.\nodcinkami.\nPoprawna odpowiedź: B\nZadanie 13. (0-1)\n4.12. Zdający wykorzystuje własności funkcji liniowej\nII. Wykorzystanie\ni kwadratowej do interpretacji zagadnień geometrycznych,\ni interpretowanie\nfizycznych itp. (także osadzonych w kontekście praktycznym).\nreprezentacji.\nPoprawna odpowiedź: A\nZadanie 14. (0-1)\nII. Wykorzystanie\n6.4. Zdający stosuje proste zależności między funkcjami\ni interpretowanie\ntrygonometrycznymi do obliczenia wartości wyrażenia.\nreprezentacji.\nPoprawna odpowiedź: C\nZadanie 15. (0-1)\nII. Wykorzystanie\n3.4. Zdający rozwiązuje równania kwadratowe z jedną\ni interpretowanie\nniewiadomą.\nreprezentacji.\nPoprawna odpowiedź: B\nZadanie 16. (0-1)\nII. Wykorzystanie\ni interpretowanie\n3.2. Zdający rozwiązuje układ równań liniowych.\nreprezentacji.\nPoprawna odpowiedź: C\n4\nZadanie 17. (0-1)\nI. Wykorzystanie\n6.3. Zdający wykorzystuje rysunek i korzystając\ni tworzenie informacji.\nz definicji oblicza wartość funkcji sinus.\nPoprawna odpowiedź: D\nZadanie 18. (0-1)\nIII. Modelowanie\n9.6. Zdający wyznacza związki miarowe w stożku.\nmatematyczne.\nPoprawna odpowiedź: D\nZadanie 19. (0-1)\nII. Wykorzystanie\n7.2. Zdający korzysta z własności położenia dwóch\ni interpretowanie\nokręgów.\nreprezentacji.\nPoprawna odpowiedź: C\nZadanie 20. (0-1)\nIV. Użycie i tworzenie\n10.2. Zdający zlicza obiekty w prostych sytuacjach\nstrategii.\nkombinatorycznych.\nPoprawna odpowiedź: A\nZadanie 21. (0-1)\nI. Wykorzystanie\n5.4. Zdający stosuje wzór na n-ty wyraz ciągu\ni tworzenie informacji.\ngeometrycznego.\nPoprawna odpowiedź: B\nZadanie 22. (0-1)\nIII. Modelowanie\n5.1. Zdający wyznacza wyrazy ujemne ciągu\nmatematyczne.\nokreślonego wzorem ogólnym.\nPoprawna odpowiedź: B\nZadanie23. (0-1)\nI. Wykorzystanie\n10.3. Zdający oblicza prawdopodobieństwo w prostych\ni tworzenie informacji.\nsytuacjach.\nPoprawna odpowiedź: B\n5\nKlucz oceniania zadań otwartych\nZadanie 24.(0-2)\nII. Wykorzystanie\n4.7. Zdający interpretuje współczynniki występujące we\ni tworzenie informacji.\nwzorze funkcji liniowej.\nz niewiadomą x jest przedział \nax \n\n\nZbiorem rozwiązań nierówności\n4\n0\n, 2\n. Wyznacz a.\nRozwiązanie I sposób\n\n\n. Znajdziemy wszystkie a takie, by funkcja f\nRozważmy funkcję liniową\nf x\nax\n4\n\nx\nprzyjmowała wartości nieujemne dla\n, 2\n. Obliczamy miejsce zerowe funkcji f:\n\n\n\nax\n4\n0,\na\n0\n\nax\n4\n4\n\nx\na\n4\n\n\n\n\n\na . Sprawdzamy jeszcze, czy funkcja\nStąd\n, zatem\n2\nf x\n2\nx\n4\nprzyjmuje\n2\na\n\nx\nwartości nieujemne dla\n, 2\n. Ponieważ współczynnik a we wzorze funkcji f jest ujemny,\n\n\n\nf x\n2\nx\n4\nto funkcja\nprzyjmuje wartości nieujemne dla liczb mniejszych od miejsca\n\nx\nzerowego i w miejscu zerowym, czyli dla\n, 2\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n4\n\ngdy wyznaczy miejsce zerowe funkcji f:\n.\nx\na\nZdający otrzymuje  ............................................................................................................ 2 pkt\na .\ngdy wyznaczy\n2\nRozwiązanie II sposób\nax \n\nx \nZauważamy, że a ma być taką liczbą, by nierówności\n4\n0\noraz\n2\nbyły równoważne.\nPrzekształcamy daną nierówność:\nax \n\n4\n0\nax \n4\nax \n2\n\n2\na\n\n, zatem\na .\n2\nStąd\n1\n2\n6\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\nax \n\nx \ngdy zauważy, że nierówności\n4\n0\noraz\n2\nmają być równoważne.\nZdający otrzymuje  ............................................................................................................ 2 pkt\na .\ngdy wyznaczy\n2\nZadanie 25. (0-2)\nII. Wykorzystanie\n3.8. Zdający rozwiązuje równanie wymierne,\ni interpretowanie\nprowadzące do równania kwadratowego.\nreprezentacji.\nRozwiąż równanie \n\n\nx x\n1\nx .\n\n\n1\n5\nx\n4\n, dla\n\nx\n1\nRozwiązanie\nPrzekształcamy dane równanie do postaci  \n\n\n\n\n\n\n\n\nx x\n1\n5\nx\n4\nx\n1\n, opuszczamy nawiasy\ni redukujemy wyrazy podobne:\n2\n\n\n2\n\n\n\nx\nx\n5\nx\n5\nx\n4\nx\n4\n\n\n\n2\n4\nx\n10\nx\n4\n0\n2\n\n\n\n2\nx",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/1.webp",
+   "size": [
+    950,
+    159
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nLiczba 15 jest przybliżeniem z niedomiarem liczby x. Błąd bezwzględny tego przybliżenia\njest równy 0,24. Liczba x to\nA. 14,76\nB. 14,80\nC. 15,20\nD. 15,24",
+   "key": "Zadanie 1. (0–1)\nI. Wykorzystanie\n1.7. Zdający oblicza błąd bezwzględny przybliżenia.\ni tworzenie informacji.\nPoprawna odpowiedź: D"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/2.webp",
+   "size": [
+    950,
+    167
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\nE \nF \nPunkty\n(7,1)\ni\n(9,7)\nto środki boków, odpowiednio AB i BC kwadratu ABCD.\nPrzekątna tego kwadratu ma długość\nA. 4 5\nB. 10\nC. 4 10\nD. 20",
+   "key": "Zadanie 2. (0-1)\nII. Wykorzystanie\n8.6. Zdający oblicza odległość punktów na płaszczyźnie\ni interpretowanie\nkartezjańskiej.\nreprezentacji.\nPoprawna odpowiedź: C"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/3.webp",
+   "size": [
+    950,
+    241
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\n2\n\n\n\n3\n3\nLiczba\njest równa\n\n\n\n\n3\n\n\n\nC. 3\n3\n\nA. 4\nB. 9\nD. 4\n2 3\n3",
+   "key": "Zadanie 3. (0-1)\n2.1 Zdający używa wzorów skróconego mnożenia na\nII. Wykorzystanie\nkwadrat sumy.\ni interpretowanie\n1.3. Zdający posługuje się obliczeniach pierwiastkami\nreprezentacji.\ndowolnego stopnia i stosuje prawa działań na\npierwiastkach.\nPoprawna odpowiedź: D"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/4.webp",
+   "size": [
+    950,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\n9\nLiczba\n3 jest równa\n4\n1\n\n\n\nA.\n3\n4\n3\nB.\n9\n4\n3\nC.\n27\n4\n3\n9\n\nD.\n3\n3\n4",
+   "key": "Zadanie 4. (0-1)\nII. Wykorzystanie\n1.4. Zdający oblicza potęgi o wykładnikach wymiernych\ni interpretowanie\ni stosuje prawa działań na potęgach o wykładniku\nreprezentacji.\nwymiernym.\nPoprawna odpowiedź: B\n2"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/5.webp",
+   "size": [
+    950,
+    145
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\nf x \n3x\nFunkcja wykładnicza określona wzorem\n( )\nprzyjmuje wartość 6 dla argumentu\nx \nx \nx \nx \nlog 2\nlog 6\nlog 3\nA.\n2\nB.\nC.\nD.\n3\n3\n6",
+   "key": "Zadanie 5. (0-1)\nI. Wykorzystanie\n4.2. Zdający oblicza ze wzoru wartość funkcji dla\ni tworzenie  informacji.\ndanego argumentu.\nPoprawna odpowiedź: C"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/6.webp",
+   "size": [
+    950,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\n\n\n2\nWyrażenie\n16\n(3\nx\n1)\njest równe\n\n\n\nA. (3\n3 ) (5\nx\n3 )\nx\n\n2\nB.\n(15\n3 )x\n\n\n\n\n2\nC. (5\n3 ) (5\nx\n3 )\nx\nD.\n15\n9x",
+   "key": "Zadanie 6. (0-1)\nII. Wykorzystanie\ni interpretowanie\n2.1. Zdający używa wzorów skróconego mnożenia.\nreprezentacji.\nPoprawna odpowiedź: A"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/7.webp",
+   "size": [
+    950,
+    141
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\nWskaż równość prawdziwą.\n\n\n\n2\n2\n3\n3\n\n\n\n\nA.\n256\n( 256)\nB.\n256\n( 256)\nC.\n2\nD. 3\n256\n3\n256\n( 256)\n256",
+   "key": "Zadanie 7. (0-1)\n1.3. Zdający posługuje się w obliczeniach pierwiastkami\nI. Wykorzystanie\ndowolnego stopnia.\ni tworzenie informacji.\n1.4. Zdający oblicza potęgi o wykładniku naturalnym.\nPoprawna odpowiedź: D"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/8.webp",
+   "size": [
+    950,
+    201
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–1)\n\n\nZbiorem rozwiązań nierówności 2\nx\n2\nx\n1\n\n\nx\njest przedział\n3\n2\n\n\n\n\n\n\n\n\n1\n1\n1 ,\nD. 1 ,\n\n\n\n\nA.\n, 2\nB.\n, 14\nC.\n\n\n\n\n\n\n\n\n\n\n\n\n\n14\n\n\n2\n",
+   "key": "Zadanie 8. (0-1)\nII. Wykorzystanie\n3.3. Zdający rozwiązuje nierówność I stopnia z jedną\ni interpretowanie\nniewiadomą.\nreprezentacji.\nPoprawna odpowiedź: D"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/9.webp",
+   "size": [
+    950,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–1)\nW klasie jest cztery razy więcej chłopców niż dziewcząt. Ile procent wszystkich uczniów tej\nklasy stanowią dziewczęta?\nA. 4%\nB. 5%\nC. 20%\nD. 25%",
+   "key": "Zadanie 9. (0-1)\nIII. Modelowanie\n1.9. Zdający wykonuje obliczenia procentowe.\nmatematyczne.\nPoprawna odpowiedź: C"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/10.webp",
+   "size": [
+    950,
+    128
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\nReszta z dzielenia liczby 55 przez 8 jest równa\nA. 4\nB. 5\nC. 6\nD. 7",
+   "key": "Zadanie 10. (0-1)\nI. Wykorzystanie\n1.1. Zdający przedstawia liczby rzeczywiste w różnych\ni tworzenie informacji.\npostaciach.\nPoprawna odpowiedź: D\n3"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/11.webp",
+   "size": [
+    950,
+    165
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–1)\nFunkcja f przyporządkowuje każdej liczbie naturalnej większej od 1 jej największy dzielnik\nbędący liczbą pierwszą. Spośród liczb:\nf\n(42),\nf\n(44),\nf\n(45),\nf\n(48)\nnajwiększa to\nA.\nf\n(42)\nB.\nf\n(44)\nC.\nf\n(45)\nD.\nf\n(48)",
+   "key": "Zadanie 11. (0-1)\nII. Wykorzystanie\n4.1. Zdający określa funkcję za pomocą opisu słownego.\ni interpretowanie\n4.2. Zdający oblicza wartość funkcji dla danych\nreprezentacji.\nargumentów i porównuje wyniki.\nPoprawna odpowiedź: B"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/12.webp",
+   "size": [
+    950,
+    480
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–1)\nRysunek przedstawia ostrosłup prawidłowy czworokątny ABCDS.\nS\nD\nC\nO\nA\nB\nKątem między krawędzią CS a płaszczyzną podstawy tego ostrosłupa jest kąt\nA. DCS\nB. ACS\nC. OSC\nD. SCB",
+   "key": "Zadanie 12. (0-1)\nI. Wykorzystanie\n9.1. Zdający rozpoznaje w ostrosłupach kąty między\ni tworzenie informacji.\nodcinkami.\nPoprawna odpowiedź: B"
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/13.webp",
+   "size": [
+    950,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–1)\nW \nWykresem funkcji kwadratowej f jest parabola o wierzchołku\n(5,7)\n. Wówczas\nprawdziwa jest równość\n\n\n\n\nA.\nf\n(1)\nf\n(9)\nB.\nf\n(1)\nf\n(11)\nC.\nf\n(1)\nf\n(13)\nD.\nf\n(1)\nf\n(15)",
+   "key": "Zadanie 13. (0-1)\n4.12. Zdający wykorzystuje własności funkcji liniowej\nII. Wykorzystanie\ni kwadratowej do interpretacji zagadnień geometrycznych,\ni interpretowanie\nfizycznych itp. (także osadzonych w kontekście praktycznym).\nreprezentacji.\nPoprawna odpowiedź: A"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/14.webp",
+   "size": [
+    950,
+    202
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–1)\n\n\n, to 2\ncos\n3\nJeżeli kąt  jest ostry i\n\ntg\nrówna się\n\n\n2\ncos\n4\n1\nC. 3\nD. 84\n\n25\nA. –1\nB.\n7\n3",
+   "key": "Zadanie 14. (0-1)\nII. Wykorzystanie\n6.4. Zdający stosuje proste zależności między funkcjami\ni interpretowanie\ntrygonometrycznymi do obliczenia wartości wyrażenia.\nreprezentacji.\nPoprawna odpowiedź: C"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/15.webp",
+   "size": [
+    950,
+    168
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\n\n\n\n\n\n\n\nRównanie (2\nx\n1) (\nx\n2)\n(1\n2 ) (\nx\nx\n2)\nma dwa rozwiązania. Są to liczby\nA. –2 oraz 1\nB. 0 oraz 1\nC. 1\n2\n2\n2 oraz 2\nD. –2 oraz 2",
+   "key": "Zadanie 15. (0-1)\nII. Wykorzystanie\n3.4. Zdający rozwiązuje równania kwadratowe z jedną\ni interpretowanie\nniewiadomą.\nreprezentacji.\nPoprawna odpowiedź: B"
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/16.webp",
+   "size": [
+    950,
+    299
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\n\n\n\nDane jest równanie 3\nx\n4\ny\n5\n0\n. Z którym z poniższych równań tworzy ono układ\nsprzeczny?\n\n\n\nA. 6\nx\n8\ny\n10\n0\n\n\n\nB. 4\nx\n3\ny\n5\n0\n\n\n\nC. 9\nx\n12\ny\n10\n0\n\n\n\nD. 5\nx\n4\ny\n3\n0",
+   "key": "Zadanie 16. (0-1)\nII. Wykorzystanie\ni interpretowanie\n3.2. Zdający rozwiązuje układ równań liniowych.\nreprezentacji.\nPoprawna odpowiedź: C\n4"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/17.webp",
+   "size": [
+    950,
+    349
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–1)\nW trójkącie, przedstawionym na rysunku poniżej, sinus kąta ostrego jest równy\n\n5\n1\nA. 1\nC. 5\n6\nD. 2 6\n5\n24\nB.\n12\n5",
+   "key": "Zadanie 17. (0-1)\nI. Wykorzystanie\n6.3. Zdający wykorzystuje rysunek i korzystając\ni tworzenie informacji.\nz definicji oblicza wartość funkcji sinus.\nPoprawna odpowiedź: D"
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/18.webp",
+   "size": [
+    950,
+    465
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\nTworząca stożka ma długość l, a promień jego podstawy jest równy r (zobacz rysunek).\nl\n\nr\nPowierzchnia boczna tego stożka jest 2 razy większa od pola jego podstawy. Wówczas\n1\n1\n1\n1\n\n\n\n\nr\nl\nr\nl\nr\nl\nr\nl\nA.\nB.\nC.\nD.\n6\n4\n3\n2",
+   "key": "Zadanie 18. (0-1)\nIII. Modelowanie\n9.6. Zdający wyznacza związki miarowe w stożku.\nmatematyczne.\nPoprawna odpowiedź: D"
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/19.webp",
+   "size": [
+    950,
+    155
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nDane są dwa okręgi o promieniach 10 i 15. Mniejszy okrąg przechodzi przez środek\nwiększego okręgu. Odległość między środkami tych okręgów jest równa\nA. 2,5\nB. 5\nC. 10\nD. 12,5",
+   "key": "Zadanie 19. (0-1)\nII. Wykorzystanie\n7.2. Zdający korzysta z własności położenia dwóch\ni interpretowanie\nokręgów.\nreprezentacji.\nPoprawna odpowiedź: C"
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/20.webp",
+   "size": [
+    950,
+    155
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\nKażdy uczestnik spotkania dwunastoosobowej grupy przyjaciół uścisnął dłoń każdemu\nz pozostałych członków tej grupy. Liczba wszystkich uścisków dłoni była równa\nA. 66\nB. 72\nC. 132\nD. 144",
+   "key": "Zadanie 20. (0-1)\nIV. Użycie i tworzenie\n10.2. Zdający zlicza obiekty w prostych sytuacjach\nstrategii.\nkombinatorycznych.\nPoprawna odpowiedź: A"
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/21.webp",
+   "size": [
+    950,
+    191
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (0–1)\nW dziewięciowyrazowym ciągu geometrycznym o wyrazach dodatnich pierwszy wyraz jest\nrówny 3, a ostatni wyraz jest równy 12. Piąty wyraz tego ciągu jest równy\nC. 1\nD. 1\n7 2\n8 7\nB. 6\n3 2\n4\nA.",
+   "key": "Zadanie 21. (0-1)\nI. Wykorzystanie\n5.4. Zdający stosuje wzór na n-ty wyraz ciągu\ni tworzenie informacji.\ngeometrycznego.\nPoprawna odpowiedź: B"
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/22.webp",
+   "size": [
+    950,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (0–1)\n\n\n\nn \nCiąg (\nna\n)\njest określony wzorem\nna\n(\nn\n3)(\nn\n5)\ndla\n1\n. Liczba ujemnych wyrazów\ntego ciągu jest równa\nA. 3\nB. 4\nC. 7\nD. 9",
+   "key": "Zadanie 22. (0-1)\nIII. Modelowanie\n5.1. Zdający wyznacza wyrazy ujemne ciągu\nmatematyczne.\nokreślonego wzorem ogólnym.\nPoprawna odpowiedź: B\nZadanie23. (0-1)\nI. Wykorzystanie\n10.3. Zdający oblicza prawdopodobieństwo w prostych\ni tworzenie informacji.\nsytuacjach.\nPoprawna odpowiedź: B\n5\nKlucz oceniania zadań otwartych"
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2013-grudzien-pokazowa/23.webp",
+   "size": [
+    950,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nRzucamy jeden raz symetryczną sześcienną kostką do gry. Niech pi oznacza\nprawdopodobieństwo wyrzucenia liczby oczek podzielnej przez i. Wtedy\n\n\n\n\nA.\n2p\np\nB.\n2p\np\nC.\n2p\np\nD.\n2p\np\n4\n2\n6\n3\n3\n6\n2\n4",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2013-grudzien-pokazowa/24.webp",
+   "size": [
+    947,
+    82
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–2)\nax \n\n\n4\n0\nz niewiadomą x jest przedział (\n, 2\nZbiorem rozwiązań nierówności\n. Wyznacz a.",
+   "key": "Zadanie 24.(0-2)\nII. Wykorzystanie\n4.7. Zdający interpretuje współczynniki występujące we\ni tworzenie informacji.\nwzorze funkcji liniowej.\nz niewiadomą x jest przedział \nax \n\n\nZbiorem rozwiązań nierówności\n4\n0\n, 2\n. Wyznacz a.\nRozwiązanie I sposób\n\n\n. Znajdziemy wszystkie a takie, by funkcja f\nRozważmy funkcję liniową\nf x\nax\n4\n\nx\nprzyjmowała wartości nieujemne dla\n, 2\n. Obliczamy miejsce zerowe funkcji f:\n\n\n\nax\n4\n0,\na\n0\n\nax\n4\n4\n\nx\na\n4\n\n\n\n\n\na . Sprawdzamy jeszcze, czy funkcja\nStąd\n, zatem\n2\nf x\n2\nx\n4\nprzyjmuje\n2\na\n\nx\nwartości nieujemne dla\n, 2\n. Ponieważ współczynnik a we wzorze funkcji f jest ujemny,\n\n\n\nf x\n2\nx\n4\nto funkcja\nprzyjmuje wartości nieujemne dla liczb mniejszych od miejsca\n\nx\nzerowego i w miejscu zerowym, czyli dla\n, 2\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n4\n\ngdy wyznaczy miejsce zerowe funkcji f:\n.\nx\na\nZdający otrzymuje  ............................................................................................................ 2 pkt\na .\ngdy wyznaczy\n2\nRozwiązanie II sposób\nax \n\nx \nZauważamy, że a ma być taką liczbą, by nierówności\n4\n0\noraz\n2\nbyły równoważne.\nPrzekształcamy daną nierówność:\nax \n\n4\n0\nax \n4\nax \n2\n\n2\na\n\n, zatem\na .\n2\nStąd\n1\n2\n6\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\nax \n\nx \ngdy zauważy, że nierówności\n4\n0\noraz\n2\nmają być równoważne.\nZdający otrzymuje  ............................................................................................................ 2 pkt\na .\ngdy wyznaczy\n2"
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2013-grudzien-pokazowa/25.webp",
+   "size": [
+    947,
+    107
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (0–2)\n\nRozwiąż równanie (\nx x\n1)\nx .\n\n\n5\nx\n4\n, dla\n1\n\nx\n1",
+   "key": "Zadanie 25. (0-2)\nII. Wykorzystanie\n3.8. Zdający rozwiązuje równanie wymierne,\ni interpretowanie\nprowadzące do równania kwadratowego.\nreprezentacji.\nRozwiąż równanie \n\n\nx x\n1\nx .\n\n\n1\n5\nx\n4\n, dla\n\nx\n1\nRozwiązanie\nPrzekształcamy dane równanie do postaci  \n\n\n\n\n\n\n\n\nx x\n1\n5\nx\n4\nx\n1\n, opuszczamy nawiasy\ni redukujemy wyrazy podobne:\n2\n\n\n2\n\n\n\nx\nx\n5\nx\n5\nx\n4\nx\n4\n\n\n\n2\n4\nx\n10\nx\n4\n0\n2\n\n\n\n2\nx\n5\nx\n2\n0\nRozwiązujemy otrzymane równanie kwadratowe\n\n9\n1 ,\n\n\nx\nx\n2\n1\n2\n2\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy przekształci dane równanie do postaci równania kwadratowego i na tym poprzestanie lub\ndalej popełni błędy.\nZdający otrzymuje  ......................................................................................................... ...2 pkt\n1\nx \nx \ngdy zapisze rozwiązania równania\noraz\n2\n.\n1\n2\n2\n7"
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2013-grudzien-pokazowa/26.webp",
+   "size": [
+    950,
+    458
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (0–2)\nKwadrat K1 ma bok długości a. Obok niego rysujemy kolejno kwadraty K2, K3, K4, … takie,\nże kolejny kwadrat ma bok o połowę mniejszy od boku poprzedniego kwadratu (zobacz\nrysunek).\nK1\nK2\nK3 K4\na\nWyznacz pole kwadratu K12.",
+   "key": "Zadanie 26. (0-2)\nIV. Użycie i tworzenie\n5.4. Zdający dobiera strategię do konkretnej sytuacji\nstrategii.\ni wykorzystuje wiadomości o ciągu geometrycznym.\nKwadrat K1 ma bok długości a. Obok niego rysujemy kolejno kwadraty K2, K3, K4, … takie, że\nkolejny kwadrat ma bok o połowę mniejszy od boku poprzedniego kwadratu, jak na rysunku.\nK\nK\nK\nK\na\nWyznacz pole kwadratu K12.\nRozwiązanie (I sposób)\nZauważamy, że pola kwadratów tworzą ciąg geometryczny \n\nn  o pierwszym\nnk\n1\ndla\n1\nq \n\nwyrazie\n2\noraz ilorazie\n. Ze wzoru na n-ty wyraz ciągu geometrycznego\n1k\na\n4\n11\nk \n1\n\na .\n2\n\nk\notrzymujemy\n, stąd pole kwadratu  K12 jest równe\n\n\n12\n1\n11\n\n4\n\n4\nRozwiązanie (II sposób)\nZauważamy, że pola kwadratów tworzą ciąg geometryczny \n\nn  o pierwszym\nnk\ndla\n1\n1\n. Wypisujemy kolejne wyrazy ciągu \n\nq \n\n2\nnk\nwyrazie\n1k\na\noraz ilorazie\n:\n4\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n1\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\n2\na\n,\na\n,\na\n,\na\n,\na\n,\na\n,\na\n,\na\n,\na\n,\na\n,\na\n,\na ,\nzatem\npole\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n4\n4\n4\n4\n4\n4\n4\n4\n4\n4\n4\n2\na .\nkwadratu K12 jest równe\n4\n11\n8\nSchemat oceniania obu sposobów\nZdający otrzymuje  ............................................................................................................ 1 pkt\n\n2\ngdy zauważy, że pola kwadratów tworzą ciąg geometryczny o pierwszym wyrazie\n1k\na\n1\nq \noraz ilorazie\n.\n4\nZdający otrzymuje  ............................................................................................................ 2 pkt\n2\na .\ngdy wyznaczy pole kwadratu K12 :\n11\n4"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2013-grudzien-pokazowa/27.webp",
+   "size": [
+    950,
+    367
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–2)\nW pierścieniu kołowym cięciwa zewnętrznego okręgu ma długość 10 i jest styczna do\nwewnętrznego okręgu (zobacz rysunek).\nWykaż, że pole tego pierścienia można wyrazić wzorem, w którym nie występują promienie\nwyznaczających go okręgów.",
+   "key": "Zadanie 27. (0-2)\nV. Rozumowanie\n7.2. Uczeń korzysta z własności stycznej do okręgu.\ni argumentacja.\nW pierścieniu kołowym cięciwa zewnętrznego okręgu ma długość 10 i jest styczna do\nwewnętrznego okręgu (zobacz rysunek).\nWykaż, że pole tego pierścienia można wyrazić wzorem, w którym nie występują promienie\nwyznaczających go okręgów.\nRozwiązanie\nNiech R oznacza promień większego, a r promień mniejszego z okręgów wyznaczających\npierścień.\n\n\n\n\n2\n\n\n2\n\n\n2\n\n2\nWyznaczamy pole pierścienia\nP\nR\nr\nR\nr\n. Zauważamy, że trójkąt, którego\nbokami są promienie okręgów i połowa danej cięciwy jest trójkątem prostokątnym. Mamy\nwięc:\n2\n\n2\n\n2\n2\n\n2\n\nR\n5\nr\nskąd\nR\nr\n25\n.\n\n\n\n\n2\n\n2\n\n\nPodstawiamy do wzoru na pole pierścienia\nP\nR\nr\n25\n.\nZatem pole pierścienia, przy  danej długości cięciwy zewnętrznego okręgu stycznej do okręgu\nwewnętrznego, nie zależy od promieni wyznaczających go okręgów.\n9\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\n\n\n2\n\n\n2\ngdy zapisze wzór na pole pierścienia kołowego\nP\nR\nr\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy wykaże, że tezę twierdzenia."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2013-grudzien-pokazowa/28.webp",
+   "size": [
+    950,
+    80
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–2)\n12\n\n13\n\n14\nUzasadnij, że liczba\n4\n4\n4\njest podzielna przez 42.",
+   "key": "Zadanie 28. (0-2)\nV. Rozumowanie i\n1.1.Zdający prowadzi rozumowanie przedstawiające\nargumentacja.\nliczby rzeczywiste w różnych postaciach.\n\n\nUzasadnij, że liczba\n4\n12\n4\n13\n4\n14\njest podzielna przez 42.\nRozwiązanie (I sposób)\nPrzekształcamy liczbę zapisaną w postaci sumy do postaci iloczynu liczb całkowitych:\n\n\n12\n\n13\n\n14\n\n12\n\n\n\n\n12\n\n\n11\n\n\n11\n4\n4\n4\n4\n1\n4\n16\n21 4\n21 2 2 4\n42 2 4\nPonieważ powyższa liczba\njest wielokrotnością liczby 42, więc dzieli się przez 42.\nRozwiązanie (II sposób)\nPrzekształcamy liczbę zapisaną w postaci sumy do postaci iloczynu liczb całkowitych:\n\n\n\n\n\n\n\n\n\n12\n13\n14\n12\n12\nPonieważ powyższa liczba jest wielokrotnością liczby\n4\n4\n4\n4\n1\n4\n16\n21 4\n21, więc dzieli się przez 21. Podana liczba jest również wielokrotnością liczby 4, zatem jest\nparzysta. Ostatecznie, jako parzysta i podzielna przez 21 dzieli się przez 42.\nRozwiązanie (III sposób)\n\n\n\n\n\nPo podzieleniu liczby\n12\n13\n14\nprzez\n4 otrzymujemy 1\n12\n4\n16\n21\n, co oznacza, ze\n4\n4\n4\npodana liczba dzieli się przez 21. Podana liczba jest parzysta jako suma liczb parzystych.\nOstatecznie, jako parzysta oraz podzielna przez 21 dzieli się przez 42.\nSchemat oceniania każdego z podanych sposobów\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy wykaże podzielność liczby przez 21 i na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy wykaże podzielność liczby przez 42.\n10"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2013-grudzien-pokazowa/29.webp",
+   "size": [
+    950,
+    83
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–2)\nNa trójkącie o bokach długości\n7 , 8,\n15 opisano okrąg. Oblicz promień tego okręgu.",
+   "key": "Zadanie 29. (0-2)\n7.4. Zdający sprawdza na podstawie twierdzenia\nV. Rozumowanie\nodwrotnego do twierdzenia Pitagorasa, że trójkąt jest\ni argumentacja.\nprostokątny i oblicza długość promienia opisanego na nim.\nNa trójkącie o bokach długości\n7,\n8,\n15 opisano okrąg. Oblicz promień tego okręgu.\nRozwiązanie\nZauważamy, na podstawie twierdzenia odwrotnego do twierdzenia Pitagorasa, że trójkąt\no takich bokach jest trójkątem prostokątnym: \n\n\n\n\n\n2\n2\n2\n\n\n7\n8\n15\n. Środek okręgu\nopisanego na trójkącie prostokątnym znajduje się w środku przeciwprostokątnej. Promień\n15\nokręgu opisanego na tym trójkącie jest równy\nR \n.\n2\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy zapisze, że trójkąt o bokach\n7,\n8,\n15 jest prostokątny  i na tym poprzestanie lub dalej\npopełni błędy.\nZdający otrzymuje  ......................................................................................................... ...2 pkt\n15\nR \ngdy obliczy promień  okręgu opisanego na trójkącie (\n)\n2"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2013-grudzien-pokazowa/30.webp",
+   "size": [
+    950,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–2)\nA \nProste l i k przecinają się w punkcie\n(0, 4)\n. Prosta l wyznacza wraz z dodatnimi\npółosiami układu współrzędnych trójkąt o polu 8, zaś prosta k – trójkąt o polu 10. Oblicz\npole trójkąta, którego wierzchołkami są: punkt A oraz punkty przecięcia prostych l i k\nz osią Ox.",
+   "key": "Zadanie 30. (0-2)\nIV. Użycie i tworzenie\n8.4. Zdający korzysta z własności prostej na płaszczyźnie\nstrategii.\nkartezjańskiej.\nA \nProste l i k przecinają się w punkcie\n(0, 4)\n. Prosta l wyznacza wraz z dodatnimi\npółosiami układu współrzędnych trójkąt o polu 8, zaś prosta k – trójkąt o polu 10. Oblicz\npole trójkąta, którego wierzchołkami są: punkt A oraz punkty przecięcia prostych l i k\nz osią Ox.\nRozwiązanie I sposób\nZauważamy, że trójkąty wyznaczone przez osie i podane proste są prostokątne. Znajdujemy\ndługości przyprostokatnych zawartych w osi Ox. Niech b i c oznaczają długości boków\n11\ntrójkątów wyznaczonych odpowiednio przez proste l i k. Ze wzoru na pole trójkąta\notrzymujemy: 1 4\noraz 1 4\n\n\nb \n\n\nc \nb\n8\n, stąd\nc\n10\n, stąd\n. Oznaczamy punkty\n4\n5\n2\n2\nprzecięcia prostych l i k z osią Ox odpowiednio B oraz C .\n\n\nObliczamy długości odcinków BC oraz OA:\nBC\n1,\nOA\n4\n. Pole trójkąta ABC jest równe\n1\n1 1 4\n\n\nP \n\n\nP\nBC\nOA\n, zatem\n2\n.\n2\n2\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy obliczy długości przyprostokątnych  leżących na osi Ox w obu trójkątach: 4, 8\nalbo\nB \nC \n(4, 0)\n(8, 0)\npoda współrzędne punktów przecięcia prostych l i k z osią Ox:\n,\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\nP \ngdy obliczy pole trójkąta ABC:\n2\nRozwiązanie II sposób\nZauważamy, że szukane pole trójkąta ABC jest różnicą pól trójkąta ACO oraz ABO.\nP \n\nStąd\n10 8\n2\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy zauważy i zapisze, że szukane pole trójkąta ABC jest różnicą pól trójkąta ACO oraz\nABO.\nZdający otrzymuje  ............................................................................................................ 2 pkt\nP \ngdy obliczy pole trójkąta ABC:\n2\n.\n12"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2013-grudzien-pokazowa/31.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (0–4)\nAla jeździ do szkoły rowerem, a Ola skuterem. Obie pokonują tę samą drogę. Ala wyjechała\ndo szkoły o godzinie 7:00 i pokonała całą drogę w ciągu 40 minut. Ola wyjechała 10 minut\npóźniej niż Ala, a pokonanie całej drogi zajęło jej tylko 20 minut. Oblicz, o której godzinie\nOla wyprzedziła Alę.",
+   "key": "Zadanie 31. (0-4)\nIII. Modelowanie\n3.1. Zdający przyjmuje odpowiednie oznaczenia i układa\nmatematyczne.\nrównanie do zadania w kontekście praktycznym.\nAla jeździ do szkoły rowerem, a Ola skuterem. Obie pokonują tę samą drogę. Ala wyjechała\ndo szkoły o godzinie 7:00 i pokonała całą drogę wciągu 40 minut. Ola wyjechała 10 minut\npóźniej niż Ala, a pokonanie całej drogi zajęło jej tylko 20 minut. Oblicz, o której godzinie\nOla wyprzedziła Alę.\nRozwiązanie (I sposób)\nWprowadzamy oznaczenia: s – droga między domem a szkołą, x – droga przebyta przez\ndziewczynki do momentu spotkania,\nv – średnia prędkość Ali w km/min,\nv – średnia\nA\nB\n\n\nprędkość Oli w km/min, t – czas jazdy Ali do momentu spotkania,\ns\n0,\nt\n10\n. Obie\ndziewczynki do momentu spotkania przebyły taką samą drogę x, Ala ze średnią\ns\ns\nv \nv \nt \nprędkością\nw czasie t, zaś Ola ze średnią prędkością\nw czasie\n10\n.\nA\nB\n40\n20\ns\ns\n\n\n\n\n\n\n\n\n\nPonieważ\nv t\nx\ni\nv\nt\n10\nx\notrzymujemy\nrównanie\nt\nt\n10\n.\nA\nB\n40\n20\nt \nPo podzieleniu przez s obliczamy\n. Ola wyprzedzi Alę o godzinie 7:20.\n20\nRozwiązanie (II sposób)\nWprowadzamy oznaczenia: s – droga między domem a szkołą, x – droga przebyta przez\ndziewczynki do momentu spotkania,\nv – średnia prędkość Ali w km/min,\nv – średnia\nA\nB\n\n\nprędkość Oli w km/min, T – czas jazdy Oli do momentu spotkania,\ns\n0,\nT\n0\n. Obie\ndziewczynki do momentu spotkania przebyły taką samą drogę x, Ala ze średnią\ns\ns\nv \nv \nT \nprędkością\nw czasie\n10\n, zaś Ola ze średnią prędkością\nw czasie T.\nA\nB\n40\n20\ns\ns\n\n\n\n\n\n\n\n\n\nPonieważ\nv\nT\n10\nx\ni\nv T\nx\notrzymujemy równanie\nT\n10\nT\n. Po\nA\nB\n40\n20\nT \npodzieleniu przez s obliczamy\n10\n. Ola wyprzedzi Alę o godzinie 7:20.\n13\nSchemat oceniania obu sposobów rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ......................................................................................................................... 1 pkt\nPrzyjęcie odpowiednich oznaczeń i zapisanie średnich prędkości jazdy obu dziewczynek:\ns\ns\nv \nv \n,\nA\nB\n40\n20\nRozwiązanie, w którym jest istotny postęp ...................................................................... 2 pkt\nZapisanie drogi przebytej przez co najmniej jedną dziewczynkę w przyjętym czasie: np.\n\n\n\n\n\n\n\n\n\n\nv t\nx\nlub\nv\nt\n10\nx\nlub\nv\nT\n10\nx\nlub\nv T\nx\nA\nB\nA\nB\nPokonanie zasadniczych trudności zadania ..................................................................... 3 pkt\ns\ns\ns\ns\n\n\n\n\n\n\n\n\nt\nt\n10\nT\n10\nT\nUłożenie równania np.\nlub\n40\n20\n40\n20\nRozwiązanie pełne .............................................................................................................. 4 pkt\nt \nW I sposobie: Rozwiązanie równania:\n20\ni zapisanie odpowiedzi: Ola wyprzedzi Alę\no godzinie 7:20.\nT \nW II sposobie Rozwiązanie równania\ni zapisanie odpowiedzi: Ola wyprzedzi Alę\n10\no godzinie 7:20."
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-P-2013-grudzien-pokazowa/32.webp",
+   "size": [
+    950,
+    138
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (0–5)\nA \nB \nC \nDane są wierzchołki trójkąta ABC:\n(2,2)\n,\n(9, 5)\ni\n(3, 9)\n. Z wierzchołka C\npoprowadzono wysokość tego trójkąta, która przecina bok AB w punkcie D. Wyznacz\nrównanie prostej przechodzącej przez punkt D i równoległej do boku BC.",
+   "key": "Zadanie 32. (0-5)\n8.1. Zdający wyznacza równanie prostej.\nIV. Użycie i tworzenie\n8.3. Zdający wyznacza równanie prostej prostopadłej.\nstrategii.\n8.4. Zdający oblicza współrzędne punktu przecięcia\ndwóch prostych.\nA \nB \nC \nDane są wierzchołki trójkąta ABC:\n(2, 2)\n,\n(9, 5)\ni\n(3, 9)\n. Z wierzchołka C\npoprowadzono wysokość tego trójkąta, która przecina bok AB w punkcie D. Wyznacz\nrównanie prostej przechodzącej przez punkt D i równoległej do boku BC.\nRozwiązanie\nWyznaczamy równanie prostej AB. Współczynnik kierunkowy tej prostej jest równy\n\n5\n2\n3\n3\n\n\nA \n\n\na\n. Prosta AB przechodzi przez punkt\n(2, 2)\nzatem\ny\nx\nb\n,\nAB\n\n7\n9\n2\n7\n6\n8\n\n\nb \n2\nb\nstąd\n.\n7\n7\n3\n8\n\n\nProsta AB ma postać\ny\nx\n.\n7\n7\nProsta zawierająca wysokość jest prostopadła do AB i przechodzi przez punkt C.\n7\n\n\n\nb \ny\nx\nb\n, 9\n7\nb\n, stąd\n16\n.\n3\n14\n7\n\n\ny\nx\n16\nProsta CD ma zatem postać\n.\n3\nWspółrzędne punktu  D znajdujemy rozwiązując układ równań zbudowany z równań prostych\nAB i CD:\n\n7\n\n\ny\nx\n16\n\n3\n3\n8\n\n\n\ny\nx\n\n7\n7\n7\n3\n8\n\n\n\n\nx\n16\nx\n3\n7\n7\n\n\n\n\n49\nx\n336\n9\nx\n24\n\n\n58\nx\n312\n\n156\nx\n\n29\n100\n\n\ny\n\n29\n\n156 100\n\n\nD\n,\n\n\n29\n29\n\n\n5\n9\n4\n2\n\n\n\nWspółczynnik kierunkowy prostej BC jest równy\na\nBC\n\n9\n3\n6\n3\n2\n\n\nSzukana prosta ma zatem postać\ny\nx\nb\ni przechodzi przez punkt D.\n3\n100\n2 156\n1\n\n\n\nb \nb\n, stąd\n7 29\n29\n3\n29\n2\n1\n\n\nSzukana prosta ma postać\ny\nx\n7\n.\n3\n29\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ........................................................................................................  1 pkt\n3\n2\n\n\nWyznaczenie współczynnika kierunkowego prostej AB lub prostej BC:\na\n,\na\nAB\nBC\n7\n3\nRozwiązanie, w którym jest istotny postęp  ...................................................................  2 pkt\n\n7\n\n\ny\nx\n16\n\n3\nWyznaczenie równań prostych AB i CD:\n3\n8\n\n\n\ny\nx\n\n7\n7\n15\nPokonanie zasadniczych trudności zadania  .................................................................... 3 pkt\n\n\n156 100\n\nZnalezienie punktu D:\nD\n,\n\n\n29\n29\n\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania  ................................................................................................ 4 pkt\nRozwiązanie zadania do końca z błędem rachunkowym w wyznaczeniu punktu D.\nRozwiązanie pełne  ............................................................................................................ 5 pkt\nZapisanie równania prostej równoległej do BC i przechodzącej przez punkt D:"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2013-grudzien-pokazowa/33.webp",
+   "size": [
+    950,
+    216
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (0–4)\nJacek bawi się sześciennymi klockami o krawędzi 2 cm. Zbudował z nich jeden duży sześcian\no krawędzi 8 cm i wykorzystał do tego wszystkie swoje klocki. Następnie zburzył budowlę\ni ułożył z tych klocków drugą bryłę – graniastosłup prawidłowy czworokątny. Wtedy\nokazało się, że został mu dokładnie jeden klocek, którego nie było gdzie dołożyć. Oblicz\nstosunek pola powierzchni całkowitej pierwszej ułożonej bryły do pola powierzchni\ncałkowitej drugiej bryły i wynik podaj w postaci ułamka nieskracalnego.",
+   "key": "Zadanie 33. (0-4)\nIII. Modelowanie\n9.6. Zdający oblicza pole powierzchni graniastosłupów.\nmatematyczne.\nJacek bawi się sześciennymi klockami o krawędzi 2 cm. Zbudował z nich duży sześcian\no krawędzi 8 cm i wykorzystał do tego wszystkie swoje klocki. Następnie zburzył budowlę\ni ułożył z tych klocków drugą bryłę – graniastosłup prawidłowy czworokątny. Wtedy\nokazało się, że został mu dokładnie jeden klocek, którego nie było gdzie dołożyć. Oblicz\nstosunek pola powierzchni całkowitej pierwszej ułożonej bryły do pola powierzchni\ncałkowitej drugiej bryły i wynik podaj w postaci ułamka nieskracalnego.\nRozwiązanie\n\n\ncm2.\n2\nPole powierzchni całkowitej pierwszej budowli (sześcianu) jest równe\n6 8\n384\n\n3\n\nObliczamy, ile klocków ma Jacek:\n8:2\n4, 4\n64\n.\nJeśli podstawą graniastosłupa byłby kwadrat o boku 2 cm, to Jacek zużyłby wszystkie klocki\ni graniastosłup miałby 128 cm wysokości.\nJeśli podstawą graniastosłupa byłby kwadrat o boku 4 cm, to Jacek również zużyłby\nwszystkie klocki i graniastosłup miałby 32 cm wysokości.\n\n\nJeśli podstawą graniastosłupa byłby kwadrat o boku 6 cm, to Jacek zużyłby 3 3 7\n63\nklocki i graniastosłup miałby 14 cm wysokości.\n\n\nZatem druga zbudowana bryła, to prostopadłościan o wymiarach 6\n6 14\n. Pole powierzchni\n\n\n2\ncałkowitej tego prostopadłościanu jest równe\n2 6 6\n4 6 14\n408 cm\nSzukany stosunek jest równy 384\n16\n\n.\n408\n17\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ......................................................................................................................... 1 pkt\nZapisanie liczby klocków: 64.\n16\nRozwiązanie, w którym jest istotny postęp ..................................................................... 2 pkt\n\n\nZapisanie, ze szukaną bryłą jest prostopadłościan o wymiarach 6 cm 6 cm 14 cm\n.\nPokonanie zasadniczych trudności zadania .................................................................... 3 pkt\n2\nObliczenie pola powierzchni całkowitej drugiej bryły:\n408 cm\nRozwiązanie pełne ............................................................................................................. 4 pkt\nZapisanie stosunku pól powierzchni obu brył w postaci ułamka nieskracalnego: 16\n17\n17"
+  }
+ ]
+}

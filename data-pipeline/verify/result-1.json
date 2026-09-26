@@ -1,0 +1,123 @@
+[
+ {
+  "exam": "f2005-P-2011-maj",
+  "task": "33",
+  "verdict": "ok",
+  "solved_value": 0.649519052838329,
+  "value": 0.649519052838329,
+  "answer_tex": "\\frac{3\\sqrt3}{8}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "K=(1,1/2,0), L=(1/2,1,1), M=(0,0,1/2): all sides sqrt(3/2), equilateral, area 3sqrt3/8; matches key."
+ },
+ {
+  "exam": "f2005-P-2011-sierpien",
+  "task": "11",
+  "verdict": "ok",
+  "solved_value": 1,
+  "value": 1,
+  "answer_tex": "1",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "W-V = x-12, degree 1; keyHead task 11 = B (1)."
+ },
+ {
+  "exam": "f2005-P-2012-czerwiec",
+  "task": "20",
+  "verdict": "ok",
+  "solved_value": 4,
+  "value": 4,
+  "answer_tex": "4",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Sorted 1,2,3,5,5,6; median (3+5)/2=4; key C."
+ },
+ {
+  "exam": "f2005-P-2012-czerwiec",
+  "task": "27",
+  "verdict": "ok",
+  "solved_value": 96,
+  "value": 96,
+  "answer_tex": "P=96",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "h=3*(10-6)=12, P=(6+10)/2*12=96; matches key."
+ },
+ {
+  "exam": "f2005-P-2012-czerwiec",
+  "task": "32",
+  "verdict": "ok",
+  "solved_value": 19,
+  "value": 19,
+  "answer_tex": "D=(4,15)",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "AB: y=2x+7, CD: y=-x/2+17, D=(4,15), sum 19; matches key."
+ },
+ {
+  "exam": "f2005-P-2012-maj",
+  "task": "5",
+  "verdict": "ok",
+  "solved_value": 1,
+  "value": 1,
+  "answer_tex": "x=1",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "|3x+1|=4x has unique solution x=1 (option B, version A key B); unambiguous."
+ },
+ {
+  "exam": "f2005-P-2012-maj",
+  "task": "10",
+  "verdict": "ok",
+  "solved_value": 0.07735026918962573,
+  "value": 0.07735026918962574,
+  "answer_tex": "\\frac{2\\sqrt3-3}{6}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "sqrt3/3-1/2=(2sqrt3-3)/6, option D (version A key D); stored differs only in last float digit."
+ },
+ {
+  "exam": "f2005-P-2012-maj",
+  "task": "14",
+  "verdict": "ok",
+  "solved_value": 5,
+  "value": 5,
+  "answer_tex": "|AE|=5",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "EA/(EA+2)=5/7 gives EA=5, option D (version A key D)."
+ },
+ {
+  "exam": "f2005-P-2012-maj",
+  "task": "28",
+  "verdict": "ok",
+  "solved_value": -3,
+  "value": -3,
+  "answer_tex": "x_3=-3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "W=(x+4)(x-3)(x+3), third root -3; key (garbled minus) derives a=3 in (x-a) form, i.e. root -3."
+ },
+ {
+  "exam": "f2005-P-2012-marzec-probna",
+  "task": "21",
+  "verdict": "ok",
+  "solved_value": 0.8333333333333334,
+  "value": 0.8333333333333334,
+  "answer_tex": "\\frac{5}{6}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "P=5(1-P) gives P=5/6; keyHead task 21 = D (5/6)."
+ },
+ {
+  "exam": "f2005-P-2012-sierpien",
+  "task": "3",
+  "verdict": "ok",
+  "solved_value": 3,
+  "value": 3,
+  "answer_tex": "3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "log3 27 - log3 1 = 3-0 = 3; key D."
+ }
+]

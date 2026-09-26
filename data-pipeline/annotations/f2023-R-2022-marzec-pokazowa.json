@@ -1,0 +1,151 @@
+{
+ "exam": "f2023-R-2022-marzec-pokazowa",
+ "tasks": [
+  {
+   "task": "1",
+   "include": false,
+   "exclude_reason": "expression",
+   "category": "liczby",
+   "difficulty": 4,
+   "notes": "Answer is log4(49)=a*b, a formula in terms of a,b, not a number."
+  },
+  {
+   "task": "2",
+   "include": false,
+   "exclude_reason": "expression",
+   "category": "analiza",
+   "difficulty": 4,
+   "notes": "Answer is the tangent line's equation y=(3/4)x-3/4, a formula, not a number."
+  },
+  {
+   "task": "3",
+   "include": false,
+   "exclude_reason": "interval_or_set",
+   "category": "ciagi",
+   "difficulty": 4,
+   "notes": "Asks for all n satisfying an inequality; answer is the infinite set n>9, not a single number or finite sum."
+  },
+  {
+   "task": "4",
+   "include": false,
+   "exclude_reason": "interval_or_set",
+   "category": "rownania",
+   "difficulty": 5,
+   "notes": "Answer is m in (-inf,-19/3) u (2,11) u (11,+inf), a union of intervals."
+  },
+  {
+   "task": "5",
+   "include": false,
+   "exclude_reason": "proof",
+   "category": "liczby",
+   "difficulty": 4,
+   "notes": "Udowodnij - proof task."
+  },
+  {
+   "task": "6.1",
+   "include": false,
+   "exclude_reason": "proof",
+   "category": "analityczna",
+   "difficulty": 3,
+   "notes": "Wykaz - proof that a distance formula holds; no numeric final answer."
+  },
+  {
+   "task": "6.2",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 8.535533905932738,
+   "value_tex": "5+\\frac{5\\sqrt2}{2}",
+   "answer_tex": "K=\\left(\\frac32,\\frac72\\right),\\ |PK|=\\frac{5\\sqrt2}{2}",
+   "category": "analiza",
+   "topic_pl": "Optymalizacja z pochodną",
+   "topic_en": "Optimization with derivatives",
+   "difficulty": 5,
+   "summary_pl": "Tor regatowy: znajdź koniec K i jego maks. długość (x+y+|PK|)",
+   "summary_en": "Regatta course: find endpoint K and its max length (x+y+|PK|)",
+   "statement_en": "On the outskirts of a city there is a lake on which a regatta course is to be built. Based on available maps, the shape of the lake's shoreline was modeled, at a certain scale, in a Cartesian coordinate system $(x,y)$ using fragments of the graphs of functions $f$ and $g$ [Figure: shaded shoreline region bounded above by $y=g(x)$ and below by $y=f(x)$, point $P$ marked on the boundary near their left intersection]. The functions $f$ and $g$ are given by $f(x)=\\frac{x^2}{2}$ and $g(x)=-\\frac12\\left(x-\\frac12\\right)^2+4$. The start of the course is located on the shore at the point corresponding to $P=(-1,1)$ in the coordinate system. The end of the regatta course must be placed on the shoreline. Calculate the coordinates of the point $K$ where the end of the course should be located so that the length of the course (i.e. the distance from the end $K$ of the course to the start $P$) is as large as possible. Calculate the length of the longest course. Show your working. Hint: you may use the fact that the distance from any point $R$ lying on the graph of $g$ to point $P$ is given by $|PR|=\\sqrt{\\frac14x^4-\\frac12x^3-\\frac{13}{8}x^2+\\frac{39}{8}x+\\frac{593}{64}}$, where $x$ is the first coordinate of point $R$.",
+   "confidence": "high",
+   "notes": "Verified independently: g(3/2)=7/2, |PK|=sqrt((3/2+1)^2+(7/2-1)^2)=5*sqrt(2)/2, matches key. Sum = x_K+y_K+|PK| = 3/2+7/2+5*sqrt(2)/2."
+  },
+  {
+   "task": "7",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 6.283185307179586,
+   "value_tex": "2\\pi",
+   "answer_tex": "x=0 \\lor x=\\frac{\\pi}{6} \\lor x=\\frac{5\\pi}{6} \\lor x=\\pi",
+   "category": "trygonometria",
+   "topic_pl": "Równanie trygonometryczne",
+   "topic_en": "Trigonometric equation",
+   "difficulty": 4,
+   "summary_pl": "Rozwiąż $\\sin(3x)=2\\sin x$ w $[0,\\pi]$ (suma rozwiązań)",
+   "summary_en": "Solve $\\sin(3x)=2\\sin x$ on $[0,\\pi]$ (sum of solutions)",
+   "statement_en": "Solve the equation $\\sin(3x) = 2\\sin x$ in the set $[0,\\pi]$. Show your working.",
+   "confidence": "high",
+   "notes": "Verified: reduces to sin x(1-4sin^2x)=0, giving x=0, pi/6, 5pi/6, pi in [0,pi]; sum=2pi, matches key."
+  },
+  {
+   "task": "8",
+   "include": false,
+   "exclude_reason": "proof",
+   "category": "planimetria",
+   "difficulty": 4,
+   "notes": "Wykaz - proof that R = d*l/(2*sqrt(16d^2-l^2))."
+  },
+  {
+   "task": "9",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 8,
+   "value_tex": "8",
+   "answer_tex": "(8, 0)",
+   "category": "analityczna",
+   "topic_pl": "Styczna do okręgu",
+   "topic_en": "Tangent line to a circle",
+   "difficulty": 5,
+   "summary_pl": "Znajdź punkt styczności boku $BC$ z okręgiem wpisanym (x+y)",
+   "summary_en": "Find the tangency point of side $BC$ with the inscribed circle (x+y)",
+   "statement_en": "In the Cartesian coordinate system $(x,y)$, point $A=(9,12)$ is a vertex of triangle $ABC$. The line $k$ with equation $y=\\frac12x$ contains the bisector of angle $ABC$ of this triangle. The circle $\\mathcal{O}$ with equation $(x-8)^2+(y-4)^2=16$ is inscribed in this triangle. Calculate the coordinates of the point of tangency of the line passing through vertices $B$ and $C$ of this triangle with the circle $\\mathcal{O}$. Show your working.",
+   "confidence": "high",
+   "notes": "Verified: line AB is y=(4/3)x (the other tangent candidate y=-12/5 x+168/5 is rejected as it would make angle ABS obtuse), so B=(0,0); circle centered (8,4) r=4 is tangent to the x-axis at (8,0), which is line BC. Sum=8+0=8, matches key."
+  },
+  {
+   "task": "10",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "single",
+   "value": 0.03928371006591931,
+   "value_tex": "\\frac{\\sqrt2}{36}",
+   "answer_tex": "k=\\frac{\\sqrt2}{36}",
+   "category": "stereometria",
+   "topic_pl": "Ostrosłup prawidłowy",
+   "topic_en": "Regular pyramid",
+   "difficulty": 5,
+   "summary_pl": "Ostrosłup: $V=\\sqrt{kP^3\\sin\\alpha\\cos2\\alpha}$. Oblicz $k$",
+   "summary_en": "Pyramid: $V=\\sqrt{kP^3\\sin\\alpha\\cos2\\alpha}$. Find $k$",
+   "statement_en": "A regular quadrilateral pyramid $ABCDS$ with base $ABCD$ has lateral surface area $P$. The angle between the altitudes of adjacent lateral faces drawn from vertex $S$ has measure $2\\alpha$. The volume of this pyramid equals $\\sqrt{k\\cdot P^3\\cdot\\sin\\alpha\\cdot\\cos(2\\alpha)}$, where $k$ is a constant numerical coefficient. Calculate the coefficient $k$. Show your working.",
+   "confidence": "high",
+   "notes": "Verified using the key's substitution method (P=sqrt2, alpha=30 deg gives a=1, h=sqrt2/2, H=1/2, V=1/6, solving 1/6=sqrt(k)*sqrt2/2 gives k=sqrt2/36), matches key exactly."
+  },
+  {
+   "task": "11",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "single",
+   "value": 0.00011533591896295547,
+   "value_tex": "\\frac{123841}{4^{15}}",
+   "answer_tex": "P=\\frac{123841}{4^{15}}",
+   "category": "prawdopodobienstwo",
+   "topic_pl": "Schemat Bernoulliego",
+   "topic_en": "Bernoulli scheme",
+   "difficulty": 4,
+   "summary_pl": "Egzamin: 15 zadań, zdaje gdy $\\ge11$ trafień. Oblicz $P$",
+   "summary_en": "Exam: 15 questions, pass needs $\\ge11$ correct. Find $P$",
+   "statement_en": "An exam consists of 15 closed-ended questions. Each question has four given answers, of which only one is correct. A student passes the exam if they give correct answers to at least 11 questions. A certain student came to the exam unprepared and in each question chose an answer at random. Assume that in each question every answer is equally likely to be chosen by the student. Calculate the probability of the event that this student passed the exam. Show your working.",
+   "confidence": "high",
+   "notes": "Verified via Bernoulli scheme, p=0.25, q=0.75, n=15: sum_{k=11}^{15} C(15,k) p^k q^(15-k) = 123841/4^15 = 123841/1073741824, matches key (key's garbled '415' and '10243' denote 4^15 and 1024^3, both equal to 1073741824). [verified: ok: Bernoulli n=15 p=1/4, k>=11: exact 123841/4^15, matches key.]"
+  }
+ ]
+}

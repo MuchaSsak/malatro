@@ -1,0 +1,306 @@
+@import "katex/dist/katex.min.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "m6x11plus";
+  src: url("/fonts/m6x11plus.ttf") format("truetype");
+  font-display: block;
+}
+@font-face {
+  font-family: "Pixelify Sans";
+  src: url("/fonts/PixelifySans-Variable.ttf") format("truetype");
+  font-weight: 400 700;
+  font-display: swap;
+}
+
+/* Balatro G.C palette as RGB channels (see .claude/project-info/design.md) */
+:root {
+  --m-red: 254 95 85;
+  --m-blue: 0 157 255;
+  --m-green: 75 194 146;
+  --m-orange: 253 162 0;
+  --m-important: 255 154 0;
+  --m-money: 243 185 88;
+  --m-gold: 234 192 88;
+  --m-purple: 136 103 165;
+  --m-panel: 55 66 68;
+  --m-panel-light: 79 99 103;
+  --m-grey: 95 115 119;
+  --m-inset: 30 43 46;
+  --m-inset-deep: 24 32 36;
+  --m-inactive: 102 102 102;
+  --m-outline: 216 216 216;
+  --m-tarot: 167 130 209;
+  --m-planet: 19 175 206;
+  --m-voucher: 253 104 43;
+  --m-booster: 100 110 183;
+  --m-ink: 79 99 103;
+  --m-paper: 253 253 253;
+  --crt: 0.7;
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+  background: #162325;
+}
+
+body {
+  font-family: "m6x11plus", "Pixelify Sans", monospace;
+  color: #fff;
+  -webkit-font-smoothing: none;
+  -moz-osx-font-smoothing: grayscale;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+button {
+  font-family: inherit;
+}
+
+/*
+ * Cursors: pixel sprites from scripts/make-cursors.py, or system ones via data-cursor="system".
+ * Tailwind's cursor-* utilities resolve to these variables (tailwind.config.ts).
+ */
+:root {
+  --cur-default: default;
+  --cur-pointer: pointer;
+  --cur-grab: grab;
+  --cur-draw: crosshair;
+}
+:root[data-cursor="pixel"] {
+  --cur-default: url("/cursors/arrow.png") 2 2, default;
+  --cur-pointer: url("/cursors/pointer.png") 12 2, pointer;
+  --cur-grab: url("/cursors/grab.png") 16 16, grabbing;
+  --cur-draw: url("/cursors/pen.png") 2 28, crosshair;
+}
+html {
+  cursor: var(--cur-default);
+}
+button:not(:disabled),
+a[href],
+label,
+select,
+input[type="range"],
+[role="button"] {
+  cursor: var(--cur-pointer);
+}
+:root[data-dragging] * {
+  cursor: var(--cur-grab) !important;
+}
+
+/* hard pixel text shadow on everything readable */
+.tx {
+  text-shadow: 0.05em 0.08em 0 rgba(0, 0, 0, 0.4);
+}
+.tx-lg {
+  text-shadow: 0.04em 0.07em 0 rgba(0, 0, 0, 0.45);
+}
+
+/* CRT overlay: scanlines + vignette + noise; strength follows --crt */
+.crt::before,
+.crt::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 9998;
+}
+.crt::before {
+  background:
+    repeating-linear-gradient(to bottom, rgba(0, 0, 0, calc(0.16 * var(--crt))) 0 1px, transparent 1px 3px),
+    radial-gradient(ellipse at center, transparent 55%, rgba(0, 0, 0, calc(0.55 * var(--crt))) 100%);
+}
+.crt::after {
+  opacity: calc(0.05 * var(--crt));
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='140' height='140'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  animation: crtNoise 0.24s steps(3) infinite;
+}
+@keyframes crtNoise {
+  0% {
+    transform: translate(0, 0);
+  }
+  33% {
+    transform: translate(-12px, 7px);
+  }
+  66% {
+    transform: translate(9px, -10px);
+  }
+}
+
+/* idle sway on cards and the logo: transform-only keyframes run on the compositor */
+.sway {
+  animation: sway 3.2s ease-in-out infinite;
+}
+@keyframes sway {
+  0%,
+  100% {
+    transform: translateY(-2px) rotate(-1.1deg);
+  }
+  50% {
+    transform: translateY(2px) rotate(1.1deg);
+  }
+}
+.logo-bob {
+  animation: logoBob 2.4s ease-in-out infinite;
+}
+@keyframes logoBob {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(var(--bob, -5px));
+  }
+}
+.logo-card {
+  animation: logoCard 4s ease-in-out infinite;
+}
+@keyframes logoCard {
+  0%,
+  100% {
+    transform: translateY(0) rotate(-6deg);
+  }
+  50% {
+    transform: translateY(-6px) rotate(-2deg);
+  }
+}
+
+/* task viewer scrim: blur only where the GPU can afford re-blurring the moving swirl */
+.viewer-scrim {
+  background: rgb(13 20 22 / 0.85);
+}
+:root[data-gfx="high"] .viewer-scrim {
+  backdrop-filter: blur(3px);
+}
+
+/* edition layers (on cards and jokers) */
+.ed-foil::after,
+.ed-holo::after,
+.ed-poly::after,
+.ed-negative::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+}
+.ed-foil::after {
+  background: repeating-radial-gradient(
+    circle at calc(var(--mx, 0.5) * 100%) calc(var(--my, 0.5) * 100%),
+    rgba(191, 230, 255, 0.55) 0 3%,
+    rgba(90, 127, 168, 0.1) 5% 8%
+  );
+  mix-blend-mode: color-dodge;
+  opacity: 0.55;
+}
+.ed-holo::after {
+  background:
+    repeating-linear-gradient(60deg, rgba(255, 0, 255, 0.35) 0 2px, transparent 2px 10px),
+    repeating-linear-gradient(120deg, rgba(0, 255, 255, 0.3) 0 2px, transparent 2px 10px),
+    radial-gradient(
+      circle at calc(var(--mx, 0.5) * 100%) calc(var(--my, 0.5) * 100%),
+      rgba(255, 122, 217, 0.5),
+      transparent 70%
+    );
+  mix-blend-mode: overlay;
+}
+.ed-poly::after {
+  background: linear-gradient(115deg, red, orange, yellow, lime, cyan, blue, magenta, red);
+  background-size: 300% 300%;
+  animation: shimmer 5s linear infinite;
+  mix-blend-mode: color;
+  opacity: 0.55;
+}
+.ed-negative {
+  filter: invert(1) hue-rotate(180deg) contrast(1.1);
+}
+.ed-negative::after {
+  background: linear-gradient(105deg, transparent 40%, rgba(255, 255, 255, 0.35) 50%, transparent 60%);
+  background-size: 250% 100%;
+  animation: shimmer 3s linear infinite;
+}
+@keyframes shimmer {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 200% 50%;
+  }
+}
+
+/* moving highlight stripe (vouchers) */
+.sheen {
+  background: linear-gradient(115deg, transparent 30%, rgba(255, 255, 255, 0.6) 45%, transparent 60%);
+  background-size: 250% 100%;
+  animation: shimmer 3.5s linear infinite;
+}
+
+/* booster pack foil wrapper */
+.pack-foil {
+  background:
+    linear-gradient(120deg, rgba(255, 255, 255, 0.35), transparent 30%, rgba(255, 255, 255, 0.2) 60%, transparent),
+    linear-gradient(160deg, var(--pack-a), var(--pack-b));
+  background-size:
+    250% 100%,
+    100% 100%;
+  animation: shimmer 4s linear infinite;
+}
+
+.pixelated {
+  image-rendering: pixelated;
+}
+
+/* KaTeX inside cards: tighter, inherits card ink */
+.card-tex .katex {
+  font-size: 1em;
+  line-height: 1.15;
+}
+.card-tex {
+  font-family: "Pixelify Sans", "m6x11plus", sans-serif;
+}
+
+.scroll-thin {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.25) transparent;
+}
+
+/*
+ * Presets. low: no repaint-heavy animations (background-position sheen, noise) and no idle sway.
+ * Reduced motion (setting or OS) stops every decorative loop.
+ */
+:root[data-gfx="low"] .crt::after,
+:root[data-gfx="low"] .ed-poly::after,
+:root[data-gfx="low"] .ed-negative::after,
+:root[data-gfx="low"] .pack-foil,
+:root[data-gfx="low"] .sway,
+:root[data-gfx="low"] .sheen,
+:root[data-gfx="low"] .animate-shimmer {
+  animation: none;
+}
+:root[data-motion="reduced"] .crt::after,
+:root[data-motion="reduced"] .sway,
+:root[data-motion="reduced"] .logo-bob,
+:root[data-motion="reduced"] .logo-card,
+:root[data-motion="reduced"] .ed-poly::after,
+:root[data-motion="reduced"] .ed-negative::after,
+:root[data-motion="reduced"] .pack-foil,
+:root[data-motion="reduced"] .sheen {
+  animation: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .crt::after,
+  .sway,
+  .logo-bob,
+  .logo-card {
+    animation: none;
+  }
+}

@@ -1,0 +1,184 @@
+{
+ "exam": {
+  "id": "f2005-P-2006-maj",
+  "formula": "2005",
+  "level": "P",
+  "year": 2006,
+  "session": "maj",
+  "month": "05",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/stories/Matura2006/a1_mat.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/Matura2006/a1_mat_rozw.pdf",
+  "examFile": "f2005-P-2006-maj.pdf",
+  "keyFile": "f2005-P-2006-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure); Arkusz I",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2006-2/maj-2006/",
+  "examPages": 14,
+  "keyPages": 13,
+  "examBytes": 297606,
+  "keyBytes": 262949
+ },
+ "keyHead": "dysleksja\nMiejsce\nna naklejkę\nz kodem szkoły\nEGZAMIN MATURALNY\nZ MATEMATYKI\nArkusz I\nPOZIOM PODSTAWOWY\nARKUSZ I\nCzas pracy 120 minut\nMAJ\nROK 2006\nInstrukcja dla zdającego\n1. Sprawdź, czy arkusz egzaminacyjny zawiera 14 stron (zadania\n1 – 11). Ewentualny brak zgłoś przewodniczącemu zespołu\nnadzorującego egzamin.\n2. Rozwiązania zadań i odpowiedzi zamieść w miejscu na to\nprzeznaczonym.\n3. W\nrozwiązaniach\nzadań\nprzedstaw\ntok\nrozumowania\nprowadzący do ostatecznego wyniku.\n4. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym\ntuszem/atramentem.\n5. Nie używaj korektora, a błędne zapisy przekreśl.\n6. Pamiętaj, że zapisy w brudnopisie nie podlegają ocenie.\n7. Obok każdego zadania podana jest maksymalna liczba punktów,\nktórą możesz uzyskać za jego poprawne rozwiązanie.\n8. Możesz korzystać z zestawu wzorów matematycznych, cyrkla\ni linijki oraz kalkulatora.\n9. Wypełnij tę część karty odpowiedzi, którą koduje zdający.\nNie wpisuj żadnych znaków w części przeznaczonej dla\nZa rozwiązanie\negzaminatora.\nwszystkich zadań\n10. Na karcie odpowiedzi wpisz swoją datę urodzenia i PESEL.\nmożna otrzymać\nZamaluj\npola odpowiadające cyfrom numeru PESEL. Błędne\nłącznie\nzaznaczenie otocz kółkiem\ni zaznacz właściwe.\n50 punktów\nŻyczymy powodzenia!\nWypełnia zdający przed\nrozpoczęciem pracy\nKOD\nPESEL ZDAJĄCEGO\nZDAJĄCEGO\n2\nEgzamin maturalny z matematyki\nArkusz I\nZadanie 1. (3 pkt)\n{\n}\n{\n}\n2\n=\n∈\n−\n≥\n=\n∈\n>\nDane są zbiory:\nA\nx\nR\n:\nx\n4\n7\n,\nB\nx\nR\n:\nx\n0\n. Zaznacz na osi liczbowej:\na) zbiór A,\nb) zbiór B,\n=\nc) zbiór\nC\nB A.\n\\\na)\nx −\n≥\nZapisuję nierówność\n4\n7\nw postaci alternatywy nierówności:\nx −\n≤− lub\nx −\n≥\n4\n7\n4\n7\ni rozwiązuję każdą z nich.\nx ≤−   lub\nx ≥\n3\n11\n.\nZaznaczam na osi liczbowej zbiór A.\n–3\n0 1\n11\nb)\nx >\n2\nRozwiązuję nierówność\n0\n.\nx ≠\n0\nZaznaczam na osi liczbowej zbiór B.\n0\n1\nc)\nZaznaczam na osi liczbowej zbiór C.\n–3\n0 1\n11\nNr czynności\n1.1.\n1.2.\n1.3.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n3\nArkusz I\nZadanie 2. (3 pkt)\nW wycieczce szkolnej bierze udział 16 uczniów, wśród których tylko czworo zna okolicę.\nWychowawca chce wybrać w sposób losowy 3 osoby, które mają pójść do sklepu. Oblicz\nprawdopodobieństwo tego, że wśród wybranych trzech osób będą dokładnie dwie znające\nokolicę.\nΩ jest zbiorem wszystkich trzyelementowych podzbiorów zbioru\nszesnastoelementowego.\nZdarzenia jednoelementowe są równoprawdopodobne, więc korzystam\nz klasycznej definicji prawdopodobieństwa.\nObliczam, na ile sposobów można wybrać trzy osoby spośród 16:\n⎛\n16\n⎞\n⋅\n⋅\n16 15 14\nΩ =\n=\n=\n560\n⎜\n⎟\n⋅\n3\n2 3\n⎝\n⎠\nZdarzenie A – wśród trzech wybranych osób będą dwie, które znają okolicę\ni jedna, która okolicy nie zna.\nObliczam, na ile sposobów można wybrać trzy osoby, wśród których będą dwie\n⎛⎞⎛\n⎞\n4\n12\n⋅\n4 3 12\n=\n=\n⋅\n=\nznające okolicę i jedna, która okolicy nie zna:\nA\n72\n.\n⎜⎟⎜\n⎟\n2\n1\n2\n⎝⎠⎝\n⎠\nObliczam prawdopodobieństwo zdarzenia A:\nA\n72\n9\nP A =\n=\n=\n( )\n.\nΩ\n560\n70\nNr czynności\n2.1.\n2.2.\n2.3.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n4\nEgzamin maturalny z matematyki\nArkusz I\nZadanie 3. (5 pkt)\nKostka masła produkowanego przez pewien zakład mleczarski ma nominalną masę\n20 dag. W czasie kontroli zakładu zważono 150 losowo wybranych kostek masła. Wyniki\nbadań przedstawiono w tabeli.\nMasa kostki masła ( w dag )\n16\n18\n19\n20\n21\n22\nLiczba kostek masła\n1\n15\n24\n68\n26\n16\na) Na podstawie danych przedstawionych w tabeli oblicz średnią arytmetyczną oraz\nodchylenie standardowe masy kostki masła.\nb) Kontrola wypada pozytywnie, jeśli średnia masa kostki masła jest równa masie\nnominalnej i odchylenie standardowe nie przekracza 1 dag. Czy kontrola zakładu\nwypadła pozytywnie? Odpowiedź uzasadnij.\nObliczam średnią masę kostki masła:\n⋅+\n⋅\n+\n⋅\n+\n⋅\n+\n⋅\n+\n⋅\n16 1 18 15\n19 24\n20 68\n21 26\n22 16\nx\n=\n= 20\n.\n150\nObliczam wariancję:\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n1 4\n15 2\n24 1\n68 0\n26 1\n16 2\n19\nσ\n2\n=\n=\n.\n150\n15\n19\nσ =\n≈\nObliczam odchylenie standardowe:\n1,125\n.\n15\nOdp.: Kontrola zakładu nie wypadła pozytywnie, ponieważ odchylenie\nstandardowe przekroczyło 1 dag.\nNr czynności\n3.1.\n3.2.\n3.3.\nWypełnia\nMaks. liczba pkt\n2\n2\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n5\nArkusz I\nZadanie 4. (4 pkt)\na =\na =\nDany jest rosnący ciąg geometryczny, w którym\n12\n,\n27\n.\n1\n3\na) Wyznacz iloraz tego ciągu.\nb) Zapisz wzór, na podstawie którego można obliczyć wyraz an, dla każdej liczby naturalnej\nn ≥.\n1\nc) Oblicz wyraz\n6a .\na\n27\n9\n=\n=\n=\n2\nWyznaczam iloraz ciągu geometrycznego:\nq\n3\n;\na\n12\n4\n1\n3\n3\nq =\nq = −\nstąd\nlub\n.\n2\n2\n3\nq = −\na >\nOdrzucam odpowiedź\n, ponieważ\n0\ni ciąg jest rosnący.\n1\n2\n3\nq =\nwniosek: ilorazem tego ciągu jest\n.\n2\n−\nn\n1\n⎛\n3\n⎞\n=\n⋅⎜\nWyznaczam wzór na\na :\na\n12\n.\n⎟\nn\nn\n⎝\n2\n⎠\n5\n⎛\n3\n⎞\n1\n=\n⋅\n=",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-maj/1.webp",
+   "size": [
+    950,
+    1426
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (3 pkt)\n{\n}\n{\n}\n2\n=\n∈\n−\n≥\n=\n∈\n>\nDane są zbiory:\nA\nx\nR\n:\nx\n4\n7\n,\nB\nx\nR\n:\nx\n0\n. Zaznacz na osi liczbowej:\na) zbiór A,\nb) zbiór B,\n=\nc) zbiór\nC\nB A.\n\\\na)\nx\n0\n1\nb)\nx\n0\n1\nc)\nx\n0\n1\nArkusz I",
+   "key": "Zadanie 1. (3 pkt)\n{\n}\n{\n}\n2\n=\n∈\n−\n≥\n=\n∈\n>\nDane są zbiory:\nA\nx\nR\n:\nx\n4\n7\n,\nB\nx\nR\n:\nx\n0\n. Zaznacz na osi liczbowej:\na) zbiór A,\nb) zbiór B,\n=\nc) zbiór\nC\nB A.\n\\\na)\nx −\n≥\nZapisuję nierówność\n4\n7\nw postaci alternatywy nierówności:\nx −\n≤− lub\nx −\n≥\n4\n7\n4\n7\ni rozwiązuję każdą z nich.\nx ≤−   lub\nx ≥\n3\n11\n.\nZaznaczam na osi liczbowej zbiór A.\n–3\n0 1\n11\nb)\nx >\n2\nRozwiązuję nierówność\n0\n.\nx ≠\n0\nZaznaczam na osi liczbowej zbiór B.\n0\n1\nc)\nZaznaczam na osi liczbowej zbiór C.\n–3\n0 1\n11\nNr czynności\n1.1.\n1.2.\n1.3.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n3\nArkusz I"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-maj/2.webp",
+   "size": [
+    956,
+    1466
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (3 pkt)\nW wycieczce szkolnej bierze udział 16 uczniów, wśród których tylko czworo zna okolicę.\nWychowawca chce wybrać w sposób losowy 3 osoby, które mają pójść do sklepu. Oblicz\nprawdopodobieństwo tego, że wśród wybranych trzech osób będą dokładnie dwie znające\nokolicę.\nArkusz I",
+   "key": "Zadanie 2. (3 pkt)\nW wycieczce szkolnej bierze udział 16 uczniów, wśród których tylko czworo zna okolicę.\nWychowawca chce wybrać w sposób losowy 3 osoby, które mają pójść do sklepu. Oblicz\nprawdopodobieństwo tego, że wśród wybranych trzech osób będą dokładnie dwie znające\nokolicę.\nΩ jest zbiorem wszystkich trzyelementowych podzbiorów zbioru\nszesnastoelementowego.\nZdarzenia jednoelementowe są równoprawdopodobne, więc korzystam\nz klasycznej definicji prawdopodobieństwa.\nObliczam, na ile sposobów można wybrać trzy osoby spośród 16:\n⎛\n16\n⎞\n⋅\n⋅\n16 15 14\nΩ =\n=\n=\n560\n⎜\n⎟\n⋅\n3\n2 3\n⎝\n⎠\nZdarzenie A – wśród trzech wybranych osób będą dwie, które znają okolicę\ni jedna, która okolicy nie zna.\nObliczam, na ile sposobów można wybrać trzy osoby, wśród których będą dwie\n⎛⎞⎛\n⎞\n4\n12\n⋅\n4 3 12\n=\n=\n⋅\n=\nznające okolicę i jedna, która okolicy nie zna:\nA\n72\n.\n⎜⎟⎜\n⎟\n2\n1\n2\n⎝⎠⎝\n⎠\nObliczam prawdopodobieństwo zdarzenia A:\nA\n72\n9\nP A =\n=\n=\n( )\n.\nΩ\n560\n70\nNr czynności\n2.1.\n2.2.\n2.3.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n4\nEgzamin maturalny z matematyki\nArkusz I"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2006-maj/3.webp",
+   "size": [
+    956,
+    1467
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (5 pkt)\nKostka masła produkowanego przez pewien zakład mleczarski ma nominalną masę\n20 dag. W czasie kontroli zakładu zważono 150 losowo wybranych kostek masła. Wyniki\nbadań przedstawiono w tabeli.\nMasa kostki masła ( w dag )\n16\n18\n19\n20\n21\n22\nLiczba kostek masła\n1\n15\n24\n68\n26\n16\na) Na podstawie danych przedstawionych w tabeli oblicz średnią arytmetyczną oraz\nodchylenie standardowe masy kostki masła.\nb) Kontrola wypada pozytywnie, jeśli średnia masa kostki masła jest równa masie\nnominalnej i odchylenie standardowe nie przekracza 1 dag. Czy kontrola zakładu\nwypadła pozytywnie? Odpowiedź uzasadnij.\nArkusz I",
+   "key": "Zadanie 3. (5 pkt)\nKostka masła produkowanego przez pewien zakład mleczarski ma nominalną masę\n20 dag. W czasie kontroli zakładu zważono 150 losowo wybranych kostek masła. Wyniki\nbadań przedstawiono w tabeli.\nMasa kostki masła ( w dag )\n16\n18\n19\n20\n21\n22\nLiczba kostek masła\n1\n15\n24\n68\n26\n16\na) Na podstawie danych przedstawionych w tabeli oblicz średnią arytmetyczną oraz\nodchylenie standardowe masy kostki masła.\nb) Kontrola wypada pozytywnie, jeśli średnia masa kostki masła jest równa masie\nnominalnej i odchylenie standardowe nie przekracza 1 dag. Czy kontrola zakładu\nwypadła pozytywnie? Odpowiedź uzasadnij.\nObliczam średnią masę kostki masła:\n⋅+\n⋅\n+\n⋅\n+\n⋅\n+\n⋅\n+\n⋅\n16 1 18 15\n19 24\n20 68\n21 26\n22 16\nx\n=\n= 20\n.\n150\nObliczam wariancję:\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n+\n⋅\n2\n1 4\n15 2\n24 1\n68 0\n26 1\n16 2\n19\nσ\n2\n=\n=\n.\n150\n15\n19\nσ =\n≈\nObliczam odchylenie standardowe:\n1,125\n.\n15\nOdp.: Kontrola zakładu nie wypadła pozytywnie, ponieważ odchylenie\nstandardowe przekroczyło 1 dag.\nNr czynności\n3.1.\n3.2.\n3.3.\nWypełnia\nMaks. liczba pkt\n2\n2\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n5\nArkusz I"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2006-maj/4.webp",
+   "size": [
+    950,
+    1454
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (4 pkt)\na =\na =\nDany jest rosnący ciąg geometryczny, w którym\n12\n,\n27\n.\n1\n3\na) Wyznacz iloraz tego ciągu.\nb) Zapisz wzór, na podstawie którego można obliczyć wyraz an, dla każdej liczby naturalnej\nn ≥.\n1\nc) Oblicz wyraz\n6a .\nArkusz I",
+   "key": "Zadanie 4. (4 pkt)\na =\na =\nDany jest rosnący ciąg geometryczny, w którym\n12\n,\n27\n.\n1\n3\na) Wyznacz iloraz tego ciągu.\nb) Zapisz wzór, na podstawie którego można obliczyć wyraz an, dla każdej liczby naturalnej\nn ≥.\n1\nc) Oblicz wyraz\n6a .\na\n27\n9\n=\n=\n=\n2\nWyznaczam iloraz ciągu geometrycznego:\nq\n3\n;\na\n12\n4\n1\n3\n3\nq =\nq = −\nstąd\nlub\n.\n2\n2\n3\nq = −\na >\nOdrzucam odpowiedź\n, ponieważ\n0\ni ciąg jest rosnący.\n1\n2\n3\nq =\nwniosek: ilorazem tego ciągu jest\n.\n2\n−\nn\n1\n⎛\n3\n⎞\n=\n⋅⎜\nWyznaczam wzór na\na :\na\n12\n.\n⎟\nn\nn\n⎝\n2\n⎠\n5\n⎛\n3\n⎞\n1\n=\n⋅\n=\nObliczam\na :\na\n12\n91\n.\n⎜\n⎟\n6\n6\n⎝\n2\n⎠\n8\nNr czynności\n4.1.\n4.2.\n4.3.\nWypełnia\nMaks. liczba pkt\n2\n1\n1\negzaminator! Uzyskana liczba pkt\n6\nEgzamin maturalny z matematyki\nArkusz I"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-maj/5.webp",
+   "size": [
+    950,
+    1466
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (3 pkt)\no\n≤\nα\n≤\no\nα\n<\nα\n=\n2\nα\n+\n2\nα\nWiedząc, że\n0\n360\n,\nsin\n0\noraz\n4\ntg\n3\nsin\n3\ncos\na) oblicz tgα ,\nb) zaznacz w układzie współrzędnych kąt α i podaj współrzędne dowolnego punktu,\nróżnego od początku układu współrzędnych, który leży na końcowym ramieniu tego\nkąta.\ny\n1\nx\n0\n1\nArkusz I",
+   "key": "Zadanie 5. (3 pkt)\no\n≤\nα\n≤\no\nα\n<\nα\n=\n2\nα\n+\n2\nα\nWiedząc, że\n0\n360\n,\nsin\n0\noraz\n4\ntg\n3\nsin\n3\ncos\na) oblicz tgα ,\nb) zaznacz w układzie współrzędnych kąt α i podaj współrzędne dowolnego punktu,\nróżnego od początku układu współrzędnych, który leży na końcowym ramieniu tego\nkąta.\nObliczam tangens kąta α z podanego równania:\nα\n=\nα\n+\nα\n2\n2\n4tg\n3sin\n3cos\n,\n(\n)\nα\n=\nα\n+\nα\n2\n2\n4tg\n3 sin\ncos\n.\nα\n+\nα\n= i otrzymuję:\n2\n2\nKorzystam z tożsamości\nsin\ncos\n1\n3\nα =\ntg\n.\n4\nZaznaczam w układzie współrzędnych kąt α .\ny\n7\n6\n5\n4\n3\n2\n1\nx\n-9\n-8\n-7\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n-1\n-2\n-3\n-4\n-5\n-6\n-7\nPunkt (\n)\n−\n−\n4, 3\nleży na końcowym ramieniu szukanego kąta.\nNr czynności\n5.1.\n5.2.\n5.3.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n7\nArkusz I"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-P-2006-maj/6.webp",
+   "size": [
+    950,
+    1467
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (7 pkt)\nPaństwo Nowakowie przeznaczyli 26000 zł na zakup działki. Do jednej z ofert dołączono\nrysunek dwóch przylegających do siebie działek w skali  1:1000. Jeden metr kwadratowy\ngruntu w tej ofercie kosztuje 35 zł. Oblicz, czy przeznaczona przez państwa Nowaków kwota\nwystarczy na zakup działki P2.\nE\n=\nAE\n5 cm,\nD\n=\nEC\n13 cm,\nP1\n=\nBC\n6,5 cm.\nP\n2\nA\nB\nC\nArkusz I",
+   "key": "Zadanie 6. (7 pkt)\nPaństwo Nowakowie przeznaczyli 26000 zł na zakup działki. Do jednej z ofert dołączono\nrysunek dwóch przylegających do siebie działek w skali  1:1000. Jeden metr kwadratowy\ngruntu w tej ofercie kosztuje 35 zł. Oblicz, czy przeznaczona przez państwa Nowaków kwota\nwystarczy na zakup działki P2.\nE\n=\nAE\n5 cm,\nD\n=\nEC\n13 cm,\nP1\n=\nBC\n6,5 cm.\nP\n2\nA\nB\nC\nTrójkąty ACE i DCB są podobne.\nP\n=\n2\nZ twierdzenia o polach figur podobnych otrzymuję zależność:\n2\nk\n,\nPΔ\nACE\ngdzie k jest skalą podobieństwa trójkątów.\nBC\n6,5\n1\n=\n=\n=\nWyznaczam skalę podobieństwa k:\nk\n.\nEC\n13\n2\nWyznaczam zależność między polami trójkątów podobnych\n2P i\nPΔ\n:\nACE\n1\n=\n2\n⋅\n=\n⋅\nP\nk\nPΔ\n, stąd\nP\nPΔ\n.\n2\nACE\n2\nACE\n4\n=\n2\n−\n2\n=\nObliczam długość odcinka AC z trójkąta AC:\nAC\n13\n5\n12\ncm\n.\n=\n2\nObliczam pole trójkąta ACE (na rysunku):\nP\n30\ncm\n.\nΔ\nACE\n1\n=\n=\n2\nObliczam pole działki\n2P (na rysunku):\nP\nP\n7,5\ncm\n.\nΔ\n2\nACE\n4\n(\n)\n2\n=\n⋅\n=\n2\n2\nObliczam pole działki\n2P w rzeczywistości:\nP\n7,5\ncm\n1000\n750\nm\n.\n2\n⋅\n=\nObliczam koszt zakupu działki P2: 750 35\n26250\nzł.\nOdp.: Przeznaczona kwota nie wystarczy na zakup tej działki, zabraknie 250 zł.\nNr czynności\n6.1.\n6.2.\n6.3.\n6.4.\n6.5.\n6.6.\n6.7.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n8\nEgzamin maturalny z matematyki\nArkusz I"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2006-maj/7.webp",
+   "size": [
+    950,
+    1477
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (5 pkt)\nSzkic przedstawia kanał ciepłowniczy, którego przekrój poprzeczny jest prostokątem.\nWewnątrz kanału znajduje się rurociąg składający się z trzech rur, każda o średnicy\nzewnętrznej 1 m. Oblicz wysokość i szerokość kanału ciepłowniczego. Wysokość zaokrąglij\ndo 0,01 m.\nArkusz I",
+   "key": "Zadanie 7. (5 pkt)\nSzkic przedstawia kanał ciepłowniczy, którego przekrój poprzeczny jest prostokątem.\nWewnątrz kanału znajduje się rurociąg składający się z trzech rur, każda o średnicy\nzewnętrznej 1 m. Oblicz wysokość i szerokość kanału ciepłowniczego. Wysokość zaokrąglij\ndo 0,01 m.\nŚrodki okręgów na przedstawionym w zadaniu szkicu są wierzchołkami trójkąta\na = .\nrównobocznego o boku długości\n1\n3\nh =\nObliczam wysokość tego trójkąta:\n.\n2\n3\n=\n+\nd = +\nObliczam wysokość kanału ciepłowniczego:\nd\n2\nr\nh\n,\n1\n.\n2\n≈\nOdp.: Wysokość kanału z zadanym zaokrągleniem jest równa\nd\n1,87\nm\n=\na jego szerokość\ns\n2\nm\n.\nNr czynności\n7.1.\n7.2.\n7.3.\n7.4.\nWypełnia\nMaks. liczba pkt\n1\n1\n2\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n9\nArkusz I"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2006-maj/8.webp",
+   "size": [
+    950,
+    1464
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (5 pkt)\n=\n−\n2\n+\n−\nDana jest funkcja\nf\n(\nx\n)\nx\n6\nx\n5\n.\na) Naszkicuj wykres funkcji  f  i podaj jej zbiór wartości.\n≥\nb) Podaj rozwiązanie nierówności\nf\n(\nx\n)\n0\n.\ny\n1\nx\n0\n1\nArkusz I",
+   "key": "Zadanie 8. (5 pkt)\n=\n−\n2\n+\n−\nDana jest funkcja\nf\n(\nx\n)\nx\n6\nx\n5\n.\na) Naszkicuj wykres funkcji  f  i podaj jej zbiór wartości.\n≥\nb) Podaj rozwiązanie nierówności\nf\n(\nx\n)\n0\n.\nWyznaczam współrzędne wierzchołka paraboli:\n−\n−\nb\n6\n=\n=\n=\np\n;\np\n3\n,\n−\n2\na\n2\n−Δ\n−\n16\nΔ =\n=\n=\n=\n16\n;\nq\n,\nq\n4\n−\n4\na\n4\nW =\nstąd\n(3,4)\n.\nx = ,\nx = .\nWyznaczam miejsca zerowe funkcji:\n1\n5\n1\n2\ny\n6\n5\n4\n3\n2\n1\nx\n-1\n1\n2\n3\n4\n5\n6\n7\n-1\n-2\n-3\nZbiór wartości funkcji: (\n−∞\n,4\n.\nf x ≥\nRozwiązaniem nierówności\n( )\n0\nsą wszystkie liczby rzeczywiste\nz przedziału 1,5 .\nNr czynności\n8.1.\n8.2.\n8.3.\n8.4.\n8.5.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n10\nEgzamin maturalny z matematyki\nArkusz I"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2006-maj/9.webp",
+   "size": [
+    950,
+    1460
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (6 pkt)\nDach wieży ma kształt powierzchni bocznej ostrosłupa prawidłowego czworokątnego,\nktórego krawędź podstawy ma długość 4 m. Ściana boczna tego ostrosłupa jest nachylona do\no\npłaszczyzny podstawy pod kątem\n60 .\na) Sporządź pomocniczy rysunek i zaznacz na nim podane w zadaniu wielkości.\nb) Oblicz, ile sztuk dachówek należy kupić, aby pokryć ten dach, wiedząc, że do pokrycia\n2\n1\nm potrzebne są 24 dachówki. Przy zakupie należy doliczyć 8% dachówek na zapas.\nArkusz I",
+   "key": "Zadanie 9. (6 pkt)\nDach wieży ma kształt powierzchni bocznej ostrosłupa prawidłowego czworokątnego,\nktórego krawędź podstawy ma długość 4 m. Ściana boczna tego ostrosłupa jest nachylona do\no\npłaszczyzny podstawy pod kątem\n60 .\na) Sporządź pomocniczy rysunek i zaznacz na nim podane w zadaniu wielkości.\nb) Oblicz, ile sztuk dachówek należy kupić, aby pokryć ten dach, wiedząc, że do pokrycia\n2\n1\nm potrzebne są 24 dachówki. Przy zakupie należy doliczyć 8% dachówek na zapas.\nS\nD\nC\n60D\nF\nE\nO\nA\nB\na\n=\n=\nPrzyjmijmy oznaczenia jak na rysunku:\na\nAB\n4\nm\n.\nTrójkąt EFS jest równoboczny.\n=\nWysokość ściany bocznej\nSF\n4\nm\n.\nObliczam pole powierzchni dachu:\n⋅\n4 4\n=\n⋅\n=\n2\nP\n4\n32\nm\n.\n2\nObliczam liczbę dachówek bez uwzględniania zapasu:\n⋅\n=\n32 24\n768\nsztuk.\nObliczam, ile dachówek należy kupić, uwzględniając zapas:\n⋅\n=\n108\n%\n768\n829 44\n,\n.\nOdp.: Należy kupić 830 sztuk dachówek.\nNr czynności\n9.1.\n9.2.\n9.3.\n9.4.\n9.5.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n2\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n11\nArkusz I"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2006-maj/10.webp",
+   "size": [
+    1032,
+    1459
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (6 pkt)\n=\n3\n+\n2\n+\n+\nLiczby 3 i –1 są pierwiastkami wielomianu\nW\n(\nx\n)\n2\nx\nax\nbx\n30\n.\na) Wyznacz wartości współczynników a i b.\nb) Oblicz trzeci pierwiastek tego wielomianu.\nArkusz I",
+   "key": "Zadanie 10. (6 pkt)\n=\n3\n+\n2\n+\n+\nLiczby 3 i –1 są pierwiastkami wielomianu\nW\n(\nx\n)\n2\nx\nax\nbx\n30\n.\na) Wyznacz wartości współczynników a i b.\nb) Oblicz trzeci pierwiastek tego wielomianu.\nDo rozwiązania zadania wykorzystuję twierdzenie Bézouta.\n( )\n=\n⇔\n+\n+\n=\nW\n3\n0\n9\na\n3\nb\n84\n0\n,\n(\n)\n−\n=\n⇔\n−\n+\n=\nW\n1\n0\na\nb\n28\n0\n.\n+\n+\n=\n⎧\nRozwiązuję układ równań: 9\na\n3\nb\n84\n0\n⎨\n−\n+\n=\na\nb\n28\n0\n⎩\na = −\nb =\n14\n,\n14\n.\nPodstawiam obliczone wartości współczynników a, b i zapisuję wielomian\n( )\n=\n3\n−\n2\n+\n+\nW x\n2\nx\n14\nx\n14\nx\n30\n.\nW x dzielę przez (\n)(\n)\n−\n+\n=\n2\n−\n−:\nWielomian\n( )\nx\n3\nx\n1\nx\n2\nx\n3\n(\n) (\n)\n3\n−\n2\n+\n+\n2\n−\n−\n=\n−\n2\nx\n14\nx\n14\nx\n30 :\nx\n2\nx\n3\n2\nx\n10\n.\nx −\n=\nObliczam trzeci pierwiastek: 2\n10\n0\nx =\n5\n.\nNr czynności\n10.1.\n10.2.\n10.3.\n10.4.\n10.5.\n10.6.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\n1\n1\n1\negzaminator! Uzyskana liczba pkt\n12\nEgzamin maturalny z matematyki\nArkusz I"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-maj/11.webp",
+   "size": [
+    1032,
+    2924
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (3 pkt)\n3\n3\n3\n3\n3\n=\n+\n+\n+\n+\n+\nSumę\nS\n...\nmożna obliczyć w następujący sposób:\n⋅\n⋅\n⋅\n⋅\n⋅\n1\n4\n4\n7\n7\n10\n301\n304\n304\n307\na) sumę  S  zapisujemy w postaci\n−\n−\n−\n−\n−\n4\n1\n7\n4\n10\n7\n304\n301\n307\n304\n=\n+\n+\n+\n+\n+\nS\n...\n⋅\n⋅\n⋅\n⋅\n⋅\n4 1\n7 4\n10 7\n304 301\n307 304\nb) każdy składnik tej sumy przedstawiamy jako różnicę ułamków\n⎛\n4\n1\n⎞\n⎛\n7\n4\n⎞\n⎛\n10\n7\n⎞\n⎛\n304\n301\n⎞\n⎛\n307\n304\n⎞\n=\n−\n+\n−\n+\n−\n+\n+\n−\n+\n−\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\nS\n...\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⎝\n4\n1\n4\n1\n⎠\n⎝\n7\n4\n7\n4\n⎠\n⎝\n10\n7\n10\n7\n⎠\n⎝\n304\n301\n304\n301\n⎠\n⎝\n307\n304\n307\n304\n⎠\n⎛−\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n1\n1\n1\n1\n1\n1\n1\n1\n1\n=\n+\n−\n+\n−\n+\n+\n−\n+\n−\nstąd\nS\n⎜\n1\n⎟\n⎜\n⎟\n⎜\n⎟\n...\n⎜\n⎟\n⎜\n⎟\n⎝\n4\n⎠\n⎝\n4\n7\n⎠\n⎝\n7\n10\n⎠\n⎝\n301\n304\n⎠\n⎝\n304\n307\n⎠\n1\n1\n1\n1\n1\n1\n1\n1\n1\n=\n−\n+\n−\n+\n−\n+\n+\n−\n+\n−\nwięc\nS\n1\n...\n4\n4\n7\n7\n10\n301\n304\n304\n307\nc) obliczamy sumę, redukując parami wyrazy sąsiednie, poza pierwszym i ostatnim\n1\n306\n= −\n=\nS\n1\n.\n307\n307\n4\n4\n4\n4\n=\n+\n+\n+\n+\nPostępując w analogiczny sposób, oblicz sumę\nS\n...\n.\n1\n⋅\n⋅\n⋅\n⋅\n1 5\n5 9\n9 13\n281 285\nArkusz I",
+   "key": "Zadanie 11. (3 pkt)\n3\n3\n3\n3\n3\n=\n+\n+\n+\n+\n+\nSumę\nS\n...\nmożna obliczyć w następujący sposób:\n⋅\n⋅\n⋅\n⋅\n⋅\n1\n4\n4\n7\n7\n10\n301\n304\n304\n307\na) sumę  S  zapisujemy w postaci\n−\n−\n−\n−\n−\n4\n1\n7\n4\n10\n7\n304\n301\n307\n304\n=\n+\n+\n+\n+\n+\nS\n...\n⋅\n⋅\n⋅\n⋅\n⋅\n4 1\n7 4\n10 7\n304 301\n307 304\nb) każdy składnik tej sumy przedstawiamy jako różnicę ułamków\n⎛\n4\n1\n⎞\n⎛\n7\n4\n⎞\n⎛\n10\n7\n⎞\n⎛\n304\n301\n⎞\n⎛\n307\n304\n⎞\n=\n−\n+\n−\n+\n−\n+\n+\n−\n+\n−\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\nS\n...\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⎝\n4\n1\n4\n1\n⎠\n⎝\n7\n4\n7\n4\n⎠\n⎝\n10\n7\n10\n7\n⎠\n⎝\n304\n301\n304\n301\n⎠\n⎝\n307\n304\n307\n304\n⎠\n⎛−\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n1\n1\n1\n1\n1\n1\n1\n1\n1\n=\n+\n−\n+\n−\n+\n+\n−\n+\n−\nstąd\nS\n⎜\n1\n⎟\n⎜\n⎟\n⎜\n⎟\n...\n⎜\n⎟\n⎜\n⎟\n⎝\n4\n⎠\n⎝\n4\n7\n⎠\n⎝\n7\n10\n⎠\n⎝\n301\n304\n⎠\n⎝\n304\n307\n⎠\n1\n1\n1\n1\n1\n1\n1\n1\n1\n=\n−\n+\n−\n+\n−\n+\n+\n−\n+\n−\nwięc\nS\n1\n...\n4\n4\n7\n7\n10\n301\n304\n304\n307\nc) obliczamy sumę, redukując parami wyrazy sąsiednie, poza pierwszym i ostatnim\n1\n306\n= −\n=\nS\n1\n.\n307\n307\n4\n4\n4\n4\n=\n+\n+\n+\n+\nPostępując w analogiczny sposób, oblicz sumę\nS\n...\n.\n1\n⋅\n⋅\n⋅\n⋅\n1 5\n5 9\n9 13\n281 285\n−\n−\n−\n−\n5 1\n9\n5\n13\n9\n285\n281\n=\n+\n+\n+\n+\nZapisuję sumę\n1S w postaci:\nS\n...\n.\n1\n⋅\n⋅\n⋅\n⋅\n5 1\n9 5\n13 9\n285 281\nZapisuję każdy składnik sumy w postaci różnicy ułamków:\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n5\n1\n9\n5\n13\n9\n285\n281\n=\n−\n+\n−\n+\n−\n+\n+\n−\nS\n...\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n1\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⎝\n5 1\n5 1\n⎠\n⎝\n9 5\n9 5\n⎠\n⎝\n13 9\n13 9\n⎠\n⎝\n285 281\n285 281\n⎠\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n⎛\n⎞\n1\n1\n1\n1\n1\n1\n1\n=\n−\n+\n−\n+\n−\n+\n+\n−\nstąd\nS\n1\n...\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n⎜\n⎟\n1\n⎝\n5\n⎠\n⎝\n5\n9\n⎠\n⎝\n9\n13\n⎠\n⎝\n281\n285\n⎠\n1\n1\n1\n1\n1\n1\n1\nS = −\n+\n−\n+\n−\n+\n+\n−\nwięc\n1\n...\n.\n1\n5\n5\n9\n9\n13\n281\n285\nObliczam sumę, redukując parami wyrazy sąsiednie, poza pierwszym i ostatnim:\n1\n284\nS = −\n=\n1\n.\n1\n285\n285\nNr czynności\n11.1.\n11.2.\n11.3.\nWypełnia\nMaks. liczba pkt\n1\n1\n1\negzaminator! Uzyskana liczba pkt\nEgzamin maturalny z matematyki\n13\nArkusz I\nBRUDNOPIS"
+  }
+ ]
+}

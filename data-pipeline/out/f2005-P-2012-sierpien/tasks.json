@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2012-sierpien",
+  "formula": "2005",
+  "level": "P",
+  "year": 2012,
+  "session": "sierpien",
+  "month": "08",
+  "code": "MMA-P1_1P-124",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2012/sierpien/matematyka_PP.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2012/sierpien/model_matematyka1.pdf",
+  "examFile": "f2005-P-2012-sierpien.pdf",
+  "keyFile": "f2005-P-2012-sierpien-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2012-2/sierpien-2012/",
+  "examPages": 20,
+  "keyPages": 19,
+  "examBytes": 359751,
+  "keyBytes": 746715
+ },
+ "keyHead": "Centralna Komisja Egzaminacyjna\nEGZAMIN MATURALNY 2012\nMATEMATYKA\nPOZIOM PODSTAWOWY\nKryteria oceniania odpowiedzi\nSIERPIEŃ 2012\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nZadanie 1. (0–1)\nPoprawna\nZakres umiejętności\nOpis wymagań\nodpowiedź\n(standardy)\n(1 p.)\nWykorzystanie\nWykonuje obliczenia procentowe;\nC\ni interpretowanie reprezentacji\nwykorzystuje własności figur podobnych.\nZadanie 2. (0–1)\nWykorzystanie\nStosuje prawa działań na potęgach\ni interpretowanie reprezentacji\no wykładnikach wymiernych; oblicza\nC\npotęgi o wykładniku wymiernym.\nZadanie 3. (0–1)\nOblicza wartości logarytmu.\nWykorzystanie\nD\ni interpretowanie reprezentacji\nZadanie 4. (0–1)\nWykorzystanie\nWykonuje obliczenia z wykorzystaniem\nD\ni interpretowanie reprezentacji\nwzorów skróconego mnożenia.\nZadanie 5. (0–1)\nWykorzystanie i tworzenie\nWyznacza wzór  funkcji liniowej.\nB\ninformacji\nZadanie 6. (0–1)\nWykorzystanie\nWykorzystuje pojęcia wartości\ni interpretowanie reprezentacji\nbezwzględnej i jej interpretacje\nA\ngeometryczną; zaznacza na osi liczbowej\nzbiory opisane nierównością.\nZadanie 7. (0–1)\nWykorzystanie\nWyznacza pierwszą współrzędną\nB\ni interpretowanie reprezentacji\nwierzchołka  paraboli.\nZadanie 8. (0–1)\nWykorzystanie i tworzenie\nOdczytuje z wykresu zbiór wartości\nB\ninformacji\nfunkcji.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nZadanie 9. (0–1)\nWykorzystanie i tworzenie\nRozwiązuje nierówności kwadratowe;\ninformacji\nzapisuje rozwiązanie w postaci\nA\nprzedziałów liczbowych.\nZadanie 10. (0–1)\nWykorzystanie\nRozkłada wielomian na czynniki stosując\nB\ni interpretowanie reprezentacji\ngrupowanie wyrazów.\nZadanie 11. (0–1)\nWykorzystanie i tworzenie\nRozwiązuje proste równanie wymierne.\nB\ninformacji\nZadanie 12. (0–1)\nWykorzystanie i tworzenie\nWyznacza wyraz ciągu określonego\nD\ninformacji\nwzorem ogólnym.\nZadanie 13. (0–1)\nWykorzystanie\nWyznacza n-ty wyraz ciągu\nC\ni interpretowanie reprezentacji\ngeometrycznego.\nZadanie 14. (0–1)\nWykorzystanie i tworzenie\nZnając wartość jednej funkcji\ninformacji\ntrygonometrycznej wyznacza wartości\nC\npozostałych funkcji trygonometrycznych.\nZadanie 15. (0–1)\nWykorzystanie\nWykorzystuje definicje funkcji\ni interpretowanie reprezentacji\ntrygonometrycznych i wyznacza wartości\nA\nfunkcji trygonometrycznych dla kątów\nostrych.\nZadanie 16. (0–1)\nWykorzystanie\nZnajduje i wykorzystuje związki miarowe\nB\ni interpretowanie reprezentacji\nw figurach płaskich.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nZadanie 17. (0–1)\nWykorzystanie\nWykorzystuje związki między kątem\ni interpretowanie reprezentacji\nwpisanym i środkowym do obliczenia\nC\nmiary kąta.\nZadanie 18. (0–1)\nWykorzystanie i tworzenie\nZnajduje i wykorzystuje związki miarowe\ninformacji\nw figurach płaskich; wyznacza promień\nC\nokręgu wpisanego w trójkąt równoboczny\nmając daną długość boku trójkąta.\nZadanie 19. (0–1)\nWykorzystanie i tworzenie\nWskazuje równania prostej prostopadłej\nA\ninformacji\ndo danej.\nZadanie 20. (0–1)\nWykorzystanie\nOblicza odległość punktów w układzie\nB\ni interpretowanie reprezentacji\nwspółrzędnych; oblicza pole kwadratu.\nZadanie 21. (0–1)\nWykorzystanie i tworzenie\nPosługuje się postacią równania okręgu;\ninformacji\nz zapisu równania okręgu odczytuje\nD\nwspółrzędne jego środka.\nZadanie 22. (0–1)\nWykorzystanie\nWyznacza związki miarowe\ni interpretowanie reprezentacji\nw wielościanach; wykorzystuje związek\nC\nmiedzy polem powierzchni całkowitej\nsześcianu a jego objętością.\nZadanie 23. (0–1)\nWykorzystanie\nWyznacza związki miarowe w bryłach\ni interpretowanie reprezentacji\nobrotowych; na podstawie danych\nD\nprzekroju osiowego stożka oblicza jego\nobjętość.\nZadanie 24. (0–1)\nWykorzystanie i tworzenie\nOblicza medianę podanych danych\nB\ninformacji\nliczbowych.\nZadanie 25. (0–1)\nWykorzystanie i tworzenie\nStosuje definicję prawdopodobieństwa;\nB\ninformacji\noblicza prawdopodobieństwo zdarzeń.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nZadanie 26. (0–2)\n2\n\n\n\nRozwiąż nierówność\nx\n8\nx\n7\n0\n.\nWykorzystanie\nRozwiązuje nierówność kwadratową.\ni interpretowanie reprezentacji\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\n\nx ,\nx \nprawidłowo obliczy pierwiastki trójmianu kwadratowego\n1\n7\ni na tym\n1\n2\npoprzestanie lub dalej popełni błędy\nalbo\n\n\n\n2\nrozłoży trójmian kwadratowy\nx\n8\nx\n7\nna czynniki liniowe i zapisze nierówność\n\n\n\n\n\n\nx\n1\nx\n7\n0\ni na tym poprzestanie lub dalej popełni błędy\nalbo\n\npopełni błąd rachunkowy przy obliczaniu pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność\nalbo\n(na przykład z postaci \n\n2\n\n\n\nx\n4\n3\n\n\n\ndoprowadzi nierówność do postaci\nx\n4\n9\n0\notrzymuje\n\n2\n\n\n\n\n, a następnie\nx\n4\n3\n) i na tym poprzestanie lub dalej popełni\nx\n4\n9\nbłędy.\nZdający otrzymuje ............................................................................................................2 pkt\ngdy poda zbiór rozwiązań nierówności w postaci:\n\n\n\n\n\n\n,1\n7,\nalbo\n\nx  lub\nx \n1\n7\nalbo\n\nx ,\nx \n1\n7\nalbo\n\nw postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.\nUwaga:\nW związku z rozbieżnością w rozumieniu i używaniu spójników w języku potocznym\n\n\nx\nx\n.\ni formalnym języku matematyki akceptujemy zapis, np.\n,1\ni\n7,\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nx \nx  i zapisze np.\n1. Jeśli zdający poprawnie obliczy pierwiastki trójmianu\n7\n,\n1\n\n\nx\n\n, popełniając tym samym błąd przy przepisywaniu jednego\n, 1\n7,\nz  pierwiastków, to otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\nnierówności w postaci\n\n\n\n, to przyznajemy 2 punkty.\n,7\n1,\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nZadanie 27. (0–2)\n3\n\n2\n\n\n\nRozwiąż równanie\nx\n6\nx\n9\nx\n54\n0\n.\nWykorzystanie\nRozwiązuje równanie wielomianowe.\ni interpretowanie reprezentacji\nSchemat oceniania\nZdający otrzymuje ..............................................................................................................1 pkt\ngdy:\n\n\n\nprzedstawi\n2\n\n\nlewą\nstronę\nrównania\nw\npostaci\niloczynu\nx\n9\nx\n6\nlub\n\n\n\n\n\n\n\nx\n3\nx\n3\nx\n6\ni na tym zakończy lub dalej popełnia błędy\nalbo\n jest jednym z rozwiązań równania, podzieli wielomian\nsprawdzi, że liczba\n3\ni otrzyma \n\nprzez dwumian \n\nx \n3\n\n2\n\n\n2",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/1.webp",
+   "size": [
+    947,
+    167
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nDługość boku kwadratu\n2k jest o 10% większa od długości boku kwadratu\n1k . Wówczas pole\nkwadratu\n2k jest większe od pola kwadratu\n1k\nA. o 10%\nB. o 110%\nC. o 21%\nD. o 121%",
+   "key": "Zadanie 1. (0–1)\nPoprawna\nZakres umiejętności\nOpis wymagań\nodpowiedź\n(standardy)\n(1 p.)\nWykorzystanie\nWykonuje obliczenia procentowe;\nC\ni interpretowanie reprezentacji\nwykorzystuje własności figur podobnych."
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/2.webp",
+   "size": [
+    947,
+    126
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\n\n5\n8\nIloczyn\n9\n3\njest równy\n3\n3\n9\n9\n4\n9\n1\n9\nA.\nB.\nC.\nD.",
+   "key": "Zadanie 2. (0–1)\nWykorzystanie\nStosuje prawa działań na potęgach\ni interpretowanie reprezentacji\no wykładnikach wymiernych; oblicza\nC\npotęgi o wykładniku wymiernym."
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/3.webp",
+   "size": [
+    947,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n\nLiczba\nlog 27\nlog 1\njest równa\n3\n3\nA. 0\nB. 1\nC. 2\nD. 3",
+   "key": "Zadanie 3. (0–1)\nOblicza wartości logarytmu.\nWykorzystanie\nD\ni interpretowanie reprezentacji"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/4.webp",
+   "size": [
+    947,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\nLiczba \n\n2\n\n2\n3 2\njest równa\n\n\n\n\nA.\n14\nB. 22\nC.\n14 12 2\nD. 22 12 2",
+   "key": "Zadanie 4. (0–1)\nWykorzystanie\nWykonuje obliczenia z wykorzystaniem\nD\ni interpretowanie reprezentacji\nwzorów skróconego mnożenia."
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/5.webp",
+   "size": [
+    947,
+    135
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\nLiczba \n\n\n\n\n\n2\njest miejscem zerowym funkcji liniowej\nf x\nmx\n2\n. Wtedy\nm \nm \nm \nm \nA.\n3\nB.\n1\nC.\n2\nD.\n4",
+   "key": "Zadanie 5. (0–1)\nWykorzystanie i tworzenie\nWyznacza wzór  funkcji liniowej.\nB\ninformacji"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/6.webp",
+   "size": [
+    947,
+    458
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\nx \n\nWskaż rysunek, na którym jest przedstawiony zbiór rozwiązań nierówności\n4\n7\n.\nA.\nx\n–11\n3\nB.\nx\n–3\n11\nC.\nx\n–11\n3\nD.\nx\n–3\n11",
+   "key": "Zadanie 6. (0–1)\nWykorzystanie\nWykorzystuje pojęcia wartości\ni interpretowanie reprezentacji\nbezwzględnej i jej interpretacje\nA\ngeometryczną; zaznacza na osi liczbowej\nzbiory opisane nierównością."
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/7.webp",
+   "size": [
+    950,
+    161
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\n\n2\n\n\nDana jest parabola o równaniu\ny\nx\n8\nx\n14\n. Pierwsza współrzędna wierzchołka tej\nparaboli jest równa\nx \nx \nx \nx \nA.\n8\nB.\n4\nC.\n4\nD.\n8",
+   "key": "Zadanie 7. (0–1)\nWykorzystanie\nWyznacza pierwszą współrzędną\nB\ni interpretowanie reprezentacji\nwierzchołka  paraboli."
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/8.webp",
+   "size": [
+    950,
+    355
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\n\n\n.\nWskaż fragment wykresu funkcji kwadratowej, której zbiorem wartości jest\n2,\nA.\nB.\nC.\nD.\ny\ny\ny\ny\n4\n4\n4\n4\n3\n3\n3\n3\n2\n2\n2\n2\n1\n1\n1\n1\nx\nx\nx\nx\n-3\n-2\n-1\n1\n2\n3\n-3\n-2\n-1\n1\n2\n3\n-3\n-2\n-1\n1\n2\n3\n-2\n-1\n1\n2\n3\n-1\n-1\n-1\n-1\n-2\n-2\n-2\n-2\n-3\n-3\n-3\n-3\n-4\n-4\n-4\n-4",
+   "key": "Zadanie 8. (0–1)\nWykorzystanie i tworzenie\nOdczytuje z wykresu zbiór wartości\nB\ninformacji\nfunkcji.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/9.webp",
+   "size": [
+    950,
+    257
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\nZbiorem rozwiązań nierówności \n\nx x \n\n6\n0\njest\nA. \n\n\n6,0\nB. \n\n0,6\nC. \n\n\n\n\n\n\n, 6\n0,\nD. \n\n\n\n\n\n\n,0\n6,",
+   "key": "Zadanie 9. (0–1)\nWykorzystanie i tworzenie\nRozwiązuje nierówności kwadratowe;\ninformacji\nzapisuje rozwiązanie w postaci\nA\nprzedziałów liczbowych."
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/10.webp",
+   "size": [
+    950,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\n\n\n6\n\n3\n\nWielomian\nW x\nx\nx\n2\njest równy iloczynowi\nA. \n\n\nB. \n\n\nC. \n\n\nD. \n\n\n3\n\n2\n\n3\n\n3\n\n2\n\n4\n\n4\n\n\nx\n1\nx\n2\nx\n1\nx\n2\nx\n2\nx\n1\nx\n2\nx\n1",
+   "key": "Zadanie 10. (0–1)\nWykorzystanie\nRozkłada wielomian na czynniki stosując\nB\ni interpretowanie reprezentacji\ngrupowanie wyrazów."
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/11.webp",
+   "size": [
+    950,
+    250
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\nRównanie \n\n\n\n\nx\n3\nx\n2\n\n0\nma\n\n\n\n\n\nx\n3\nx\n2\nA. dokładnie jedno rozwiązanie\nB. dokładnie dwa rozwiązania\nC. dokładnie trzy rozwiązania\nD. dokładnie cztery rozwiązania",
+   "key": "Zadanie 11. (0–1)\nWykorzystanie i tworzenie\nRozwiązuje proste równanie wymierne.\nB\ninformacji"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/12.webp",
+   "size": [
+    950,
+    185
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\nn\nDany jest ciąg \n\na \n\nna\nokreślony wzorem\ndla\nn\n1\n. Wówczas\nn\n\n\nn\n\n2\n1\n1\n3\n3\na \na \na \na \nA.\nB.\nC.\nD.\n3\n3\n3\n3\n2\n2\n8\n8",
+   "key": "Zadanie 12. (0–1)\nWykorzystanie i tworzenie\nWyznacza wyraz ciągu określonego\nD\ninformacji\nwzorem ogólnym."
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/13.webp",
+   "size": [
+    950,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nW ciągu geometrycznym \n\na \na \ndane są:\n36\n,\n18\n. Wtedy\nna\n1\n2\na \na \na \na \nA.\n18\nB.\n0\nC.\n4,5\nD.\n144\n4\n4\n4\n4",
+   "key": "Zadanie 13. (0–1)\nWykorzystanie\nWyznacza n-ty wyraz ciągu\nC\ni interpretowanie reprezentacji\ngeometrycznego."
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/14.webp",
+   "size": [
+    950,
+    180
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\n7\nKąt  jest ostry i\n\n. Wtedy tg jest równy\nsin\n13\n\nA. 7\n7 13\n7\n7\n6\nB.\nC.\nD.\n120\n120\n13 120",
+   "key": "Zadanie 14. (0–1)\nWykorzystanie i tworzenie\nZnając wartość jednej funkcji\ninformacji\ntrygonometrycznej wyznacza wartości\nC\npozostałych funkcji trygonometrycznych."
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/15.webp",
+   "size": [
+    950,
+    463
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\nW trójkącie prostokątnym dane są długości boków (zobacz rysunek). Wtedy\n11\n9\n2 10\n9\n9\n11\n2 10\n\n\n\n\nA.\ncos\nB.\nsin\nC.\nsin\nD.\ncos\n11\n11\n11\n2 10",
+   "key": "Zadanie 15. (0–1)\nWykorzystanie\nWykorzystuje definicje funkcji\ni interpretowanie reprezentacji\ntrygonometrycznych i wyznacza wartości\nA\nfunkcji trygonometrycznych dla kątów\nostrych."
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/16.webp",
+   "size": [
+    950,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nPrzekątna AC prostokąta ABCD ma długość 14. Bok AB tego prostokąta ma długość 6.\nDługość boku BC jest równa\nA. 8\nB. 4 10\nC. 2 58\nD. 10",
+   "key": "Zadanie 16. (0–1)\nWykorzystanie\nZnajduje i wykorzystuje związki miarowe\nB\ni interpretowanie reprezentacji\nw figurach płaskich.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/17.webp",
+   "size": [
+    950,
+    425
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\nPunkty A, B i C leżą na okręgu o środku S (zobacz rysunek). Miara zaznaczonego kąta\nwpisanego ACB jest równa\nC\nA\nB\nS\n230\nA. 65\nB. 100\nC. 115\nD. 130",
+   "key": "Zadanie 17. (0–1)\nWykorzystanie\nWykorzystuje związki między kątem\ni interpretowanie reprezentacji\nwpisanym i środkowym do obliczenia\nC\nmiary kąta."
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/18.webp",
+   "size": [
+    950,
+    148
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nDługość boku trójkąta równobocznego jest równa 24 3 . Promień okręgu wpisanego w ten\ntrójkąt jest równy\nA. 36\nB. 18\nC. 12\nD. 6",
+   "key": "Zadanie 18. (0–1)\nWykorzystanie i tworzenie\nZnajduje i wykorzystuje związki miarowe\ninformacji\nw figurach płaskich; wyznacza promień\nC\nokręgu wpisanego w trójkąt równoboczny\nmając daną długość boku trójkąta."
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/19.webp",
+   "size": [
+    950,
+    199
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nWskaż równanie prostej przechodzącej przez początek układu współrzędnych i prostopadłej\n1\n\n\ndo prostej o równaniu\ny\nx\n2\n.\n3\n1\n\n\n\n\n\n\nA.\ny\n3\nx\nB.\ny\n3\nx\nC.\ny\n3\nx\n2\nD.\ny\nx\n2\n3",
+   "key": "Zadanie 19. (0–1)\nWykorzystanie i tworzenie\nWskazuje równania prostej prostopadłej\nA\ninformacji\ndo danej."
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/20.webp",
+   "size": [
+    950,
+    165
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\n\n\n\n\nB \nC \nPunkty\n2,4\ni\n5,1\nsą dwoma sąsiednimi wierzchołkami kwadratu ABCD. Pole\ntego kwadratu jest równe\nA. 74\nB. 58\nC. 40\nD. 29",
+   "key": "Zadanie 20. (0–1)\nWykorzystanie\nOblicza odległość punktów w układzie\nB\ni interpretowanie reprezentacji\nwspółrzędnych; oblicza pole kwadratu."
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/21.webp",
+   "size": [
+    950,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\nDany jest okrąg o równaniu \n\n\n\n2\n2\n\n\n\n\nx\n4\ny\n6\n100\n. Środek tego okręgu ma współrzędne\nA. \n\nB.  \n\nC.  \n\nD.  \n\n\n\n\n\n4,\n6\n4, 6\n4,\n6\n4, 6",
+   "key": "Zadanie 21. (0–1)\nWykorzystanie i tworzenie\nPosługuje się postacią równania okręgu;\ninformacji\nz zapisu równania okręgu odczytuje\nD\nwspółrzędne jego środka."
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/22.webp",
+   "size": [
+    950,
+    132
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\nObjętość sześcianu jest równa 64. Pole powierzchni całkowitej tego sześcianu jest równe\nA. 512\nB. 384\nC. 96\nD. 16",
+   "key": "Zadanie 22. (0–1)\nWykorzystanie\nWyznacza związki miarowe\ni interpretowanie reprezentacji\nw wielościanach; wykorzystuje związek\nC\nmiedzy polem powierzchni całkowitej\nsześcianu a jego objętością."
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/23.webp",
+   "size": [
+    950,
+    180
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nPrzekrój osiowy stożka jest trójkątem równobocznym o boku a. Objętość tego stożka wyraża\nsię wzorem\n3\n3\n3\n3\n\n\n\n\n3\n3\n3\n3\nA.\na\nB.\na\nC.\na\nD.\na\n6\n8\n12\n24",
+   "key": "Zadanie 23. (0–1)\nWykorzystanie\nWyznacza związki miarowe w bryłach\ni interpretowanie reprezentacji\nobrotowych; na podstawie danych\nD\nprzekroju osiowego stożka oblicza jego\nobjętość."
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/24.webp",
+   "size": [
+    950,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nPewna firma zatrudnia 6 osób. Dyrektor zarabia 8000 zł, a pensje pozostałych pracowników\nsą równe: 2000 zł, 2800 zł, 3400 zł, 3600 zł, 4200 zł. Mediana zarobków tych 6 osób jest\nrówna\nA. 3400 zł\nB. 3500 zł\nC. 6000 zł\nD. 7000 zł",
+   "key": "Zadanie 24. (0–1)\nWykorzystanie i tworzenie\nOblicza medianę podanych danych\nB\ninformacji\nliczbowych."
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-sierpien/25.webp",
+   "size": [
+    950,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\nZe zbioru \n\n1, 2, 3, 4, 5, 6, 7, 8, 9,10,11,12,13,14,15 wybieramy losowo jedną liczbę. Niech\np oznacza prawdopodobieństwo otrzymania liczby podzielnej przez 4. Wówczas\n1\n1\n1\n1\np \np \np \np \nA.\nB.\nC.\nD.\n5\n5\n4\n4",
+   "key": "Zadanie 25. (0–1)\nWykorzystanie i tworzenie\nStosuje definicję prawdopodobieństwa;\nB\ninformacji\noblicza prawdopodobieństwo zdarzeń.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy"
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-sierpien/26.webp",
+   "size": [
+    947,
+    84
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\n\n\n\n2\nRozwiąż nierówność\nx\n8\nx\n7\n0\n.",
+   "key": "Zadanie 26. (0–2)\n2\n\n\n\nRozwiąż nierówność\nx\n8\nx\n7\n0\n.\nWykorzystanie\nRozwiązuje nierówność kwadratową.\ni interpretowanie reprezentacji\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\n\nx ,\nx \nprawidłowo obliczy pierwiastki trójmianu kwadratowego\n1\n7\ni na tym\n1\n2\npoprzestanie lub dalej popełni błędy\nalbo\n\n\n\n2\nrozłoży trójmian kwadratowy\nx\n8\nx\n7\nna czynniki liniowe i zapisze nierówność\n\n\n\n\n\n\nx\n1\nx\n7\n0\ni na tym poprzestanie lub dalej popełni błędy\nalbo\n\npopełni błąd rachunkowy przy obliczaniu pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność\nalbo\n(na przykład z postaci \n\n2\n\n\n\nx\n4\n3\n\n\n\ndoprowadzi nierówność do postaci\nx\n4\n9\n0\notrzymuje\n\n2\n\n\n\n\n, a następnie\nx\n4\n3\n) i na tym poprzestanie lub dalej popełni\nx\n4\n9\nbłędy.\nZdający otrzymuje ............................................................................................................2 pkt\ngdy poda zbiór rozwiązań nierówności w postaci:\n\n\n\n\n\n\n,1\n7,\nalbo\n\nx  lub\nx \n1\n7\nalbo\n\nx ,\nx \n1\n7\nalbo\n\nw postaci graficznej z poprawnie zaznaczonymi końcami przedziałów.\nUwaga:\nW związku z rozbieżnością w rozumieniu i używaniu spójników w języku potocznym\n\n\nx\nx\n.\ni formalnym języku matematyki akceptujemy zapis, np.\n,1\ni\n7,\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nx \nx  i zapisze np.\n1. Jeśli zdający poprawnie obliczy pierwiastki trójmianu\n7\n,\n1\n\n\nx\n\n, popełniając tym samym błąd przy przepisywaniu jednego\n, 1\n7,\nz  pierwiastków, to otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\nnierówności w postaci\n\n\n\n, to przyznajemy 2 punkty.\n,7\n1,\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-sierpien/27.webp",
+   "size": [
+    947,
+    85
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\n3\n\n2\n\n\n\nRozwiąż równanie\nx\n6\nx\n9\nx\n54\n0\n.",
+   "key": "Zadanie 27. (0–2)\n3\n\n2\n\n\n\nRozwiąż równanie\nx\n6\nx\n9\nx\n54\n0\n.\nWykorzystanie\nRozwiązuje równanie wielomianowe.\ni interpretowanie reprezentacji\nSchemat oceniania\nZdający otrzymuje ..............................................................................................................1 pkt\ngdy:\n\n\n\nprzedstawi\n2\n\n\nlewą\nstronę\nrównania\nw\npostaci\niloczynu\nx\n9\nx\n6\nlub\n\n\n\n\n\n\n\nx\n3\nx\n3\nx\n6\ni na tym zakończy lub dalej popełnia błędy\nalbo\n jest jednym z rozwiązań równania, podzieli wielomian\nsprawdzi, że liczba\n3\ni otrzyma \n\nprzez dwumian \n\nx \n3\n\n2\n\n\n2\n\n\nx\n6\nx\n9\nx\n54\n3\nx\n9\nx\n18\ni na tym poprzestanie\nlub dalej popełnia błędy\nalbo\nsprawdzi, że liczba 3 jest jednym z rozwiązań równania, podzieli wielomian\ni otrzyma \n\nprzez dwumian \n\nx \n3\n\n2\n\n\n2\n\n\nx\n6\nx\n9\nx\n54\n3\nx\n3\nx\n18\ni na tym poprzestanie\nlub dalej popełnia błędy\nalbo\nsprawdzi, że liczba 6 jest jednym z rozwiązań równania, podzieli wielomian\ni otrzyma \n\nprzez dwumian \n\nx \n3\n\n2\n\n\nx \n2\nx\n6\nx\n9\nx\n54\n6\n9\ni na tym poprzestanie lub\ndalej popełnia błędy\nZdający otrzymuje ..............................................................................................................2 pkt\n\n\n\ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\nx\n3,\nx\n3,\nx\n6\n."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-sierpien/28.webp",
+   "size": [
+    950,
+    113
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\nPierwszy wyraz ciągu arytmetycznego jest równy 3, czwarty wyraz tego ciągu jest równy 15.\nOblicz sumę sześciu początkowych wyrazów tego ciągu.",
+   "key": "Zadanie 28. (0–2)\nPierwszy wyraz ciągu arytmetycznego jest równy 3, czwarty wyraz tego ciągu jest równy 15.\nOblicz sumę sześciu początkowych wyrazów tego ciągu.\nWykorzystanie\nOblicza sumę n początkowych wyrazów ciągu\ni interpretowanie reprezentacji\narytmetycznego.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\nobliczy różnicę ciągu arytmetycznego (\n\nr\n4\n) i na tym poprzestanie lub błędnie\nwyznaczy\nS\n6\nalbo\nobliczy lub zapisze poprawnie jeden z pozostałych wyrazów ciągu i na tym poprzestanie\nlub dalej popełnia błędy\nalbo\npopełni błąd rachunkowy przy obliczaniu r i konsekwentnie do tego błędu wyznaczy\nS .\n6\nZdający otrzymuje ............................................................................................................2 pkt\nS \ngdy obliczy\n78\n.\n6\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nUwaga:\nZdający otrzymuje 0 punktów, jeżeli:\nbłędnie zapisze związek między\n\n\na\n,\na i r, np.\na\n4\nr\n15\ni konsekwentnie do tego błędu\n1\n4\n1\nwyznaczy\nS ,\n6\n\n2\na\n5\nr\nzacytuje odpowiednie wzory, np.\n\n\n\n i na tym poprzestanie.\na\na\n3\nr\nlub\nS\n1\n6\n4\n1\n6\n2"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-sierpien/29.webp",
+   "size": [
+    950,
+    435
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\n\n\nACB \n\nW trójkącie równoramiennym ABC dane są\nAC\nBC\n6\ni\n\n30\n(zobacz rysunek).\nOblicz wysokość AD trójkąta opuszczoną z wierzchołka A na bok BC.\nC\n30\nD\nA\nB",
+   "key": "Zadanie 29. (0–2)\n\n\nACB \n\nW trójkącie równoramiennym ABC dane są\nAC\nBC\n6\ni\n\n30\n(zobacz rysunek).\nOblicz wysokość AD trójkąta opuszczoną z wierzchołka A na bok BC.\nC\n30\nD\nA\nB\nUżycie i tworzenie strategii\nZnajduje związki miarowe w figurach płaskich\nz zastosowaniem trygonometrii.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................ 1 pkt\ngdy zapisze zależność, z której można obliczyć wysokość AD , np.:\nAD\nlub   1\n1\n\n\n\n\n.\nsin30\n6 6 sin30\nAD\n6\n6\n2\n2\nZdający otrzymuje ............................................................................................................ 2 pkt\nAD \ngdy obliczy wysokość opuszczoną z wierzchołka A na bok BC:\n3\n.\nUwaga:\nAD \nJeśli zdający od razu zapisze, że\n3\n, to otrzymuje 2 punkty.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-sierpien/30.webp",
+   "size": [
+    950,
+    412
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\nDany jest równoległobok ABCD. Na przedłużeniu przekątnej AC wybrano punkt E tak, że\n1\n\nCE\nAC\n(zobacz rysunek). Uzasadnij, że pole równoległoboku ABCD jest cztery razy\n2\nwiększe od pola trójkąta  DCE.\nE\nD\nC\nA\nB",
+   "key": "Zadanie 30. (0–2)\nDany jest równoległobok ABCD. Na przedłużeniu przekątnej AC wybrano punkt E tak, że\n1\n\nCE\nAC\n(zobacz rysunek). Uzasadnij, że pole równoległoboku ABCD jest cztery razy\n2\nwiększe od pola trójkąta  DCE.\nE\nD\nC\nA\nB\nRozumowanie i argumentacja\nZnajduje związki miarowe w figurach płaskich;\nwykorzystuje związek między polami trójkątów o takiej\nsamej wysokości.\nRozwiązanie\nE\nD\nC\nD1\nA\nB\nRysujemy wysokość\nDD trójkąta ACD. Wysokość\nDD jest również wysokością trójkąta\n1\n1\nDCE o podstawie CE.\n1\n\n\nP\nCE\nDD\nDCE\n1\n2\n1\n1 1\n1\n\n\n\n\n\n\nPonieważ\n, więc\n.\nCE\nAC\nP\nAC\nDD\nP\nDCE\n1\nACD\n2\n2 2\n2\n\n\nP\n2\nP\n4\nP\n.\nABCD\nACD\nDCE\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\n1\n\ngdy zapisze związek między polem trójkąta ACD, a polem trójkąta DCE, np.:\nP\nP\n.\nDCE\nACD\n2\nZdający otrzymuje ............................................................................................................2 pkt\n\ngdy wykaże, że\nP\n4\nP\n.\nABCD\nDCE\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-sierpien/31.webp",
+   "size": [
+    950,
+    112
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nc \n\n2\n\n ma dwa różne miejsca\nWykaż, że jeżeli\n0\n, to trójmian kwadratowy\ny\nx\nbx\nc\nzerowe.",
+   "key": "Zadanie 31. (0–2)\nc \n\n\n ma dwa różne miejsca\n2\nWykaż, że jeżeli\n0\n, to trójmian kwadratowy\ny\nx\nbx\nc\nzerowe.\nRozumowanie i argumentacja\nBada funkcję kwadratową.\nRozwiązanie\n\n\nZapisujemy wyróżnik danego trójmianu kwadratowego:\n2\nc .\nb\n4\n\n\n\n. Stąd  jest sumą dwóch wyrażeń: nieujemnego i dodatniego,\nc\n0\n4\nc\n0\nPonieważ\nto\nczyli jest dodatnia.\n\n\nma dwa różne miejsca zerowe.\nA zatem trójmian\ny\nx\n2\nbx\nc\nSchemat oceniania\nZdający otrzymuje ............................................................................................................ 2 pkt\ngdy uzasadni, że trójmian ma dwa różne miejsca zerowe.\nUwaga:\nJeżeli zdający podstawi konkretną wartość w miejsce c, to otrzymuje 0 punktów."
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2012-sierpien/32.webp",
+   "size": [
+    950,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\n\n\n\n\n\nA \nC \nDany jest trójkąt równoramienny ABC, w którym AC\nBC\noraz\n2,1\ni\n1,9\n.\n1\n\nPodstawa AB tego trójkąta jest zawarta w prostej\ny\nx\n. Oblicz współrzędne wierzchołka B.\n2",
+   "key": "Zadanie 32. (0–4)\n\n\n\n\n\nA \nC \nDany jest trójkąt równoramienny ABC, w którym AC\nBC\noraz\n2,1\ni\n1,9\n.\n1\n\nPodstawa AB tego trójkąta jest zawarta w prostej\ny\nx\n. Oblicz współrzędne wierzchołka B.\n2\nUżycie i tworzenie strategii\nOblicza odległość między punktami, wyznacza środek\nodcinka, interpretuje współczynniki funkcji liniowej,\nwyznacza miejsca zerowe funkcji kwadratowej.\nI sposób rozwiązania: (odległość)\n1\n\nPunkt B  leży na prostej o równaniu\ny\nx\n, więc jego współrzędne można zapisać w postaci\n2\n\n1\n\n\n\nB\nx\n, 2\nx . Obliczamy odległość punktu C od punktu A:\nAC\n65\noraz odległość\n\n\n\n2\n\nx\n\n\n\n2\n\n\n\n\n\nAC\nBC , więc możemy\npunktu C od punktu B:\nBC\nx\n1\n9\n. Ponieważ\n\n\n\n2\n\n2\n\nx\n\n\n\n2\n\n\n\n\nzapisać równanie z jedną niewiadomą\nx\n1\n9\n65\n, skąd otrzymujemy\n\n\n\n2\n\n5\n2\n\n\n\n2\n\n\n\nrównanie kwadratowe\nx\n11\nx\n17\n0\nlub\n5\nx\n44\nx\n68\n0\n. Równanie to ma dwa\n4\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\n34\n\n\nrozwiązania\nx\nlub\nx\n2\n. Ponieważ drugie rozwiązanie tego równania prowadzi\n5\ndo punktu o współrzędnych \n\n2,1 , co oznacza, że otrzymujemy podany w treści zadania\n\n\n34 17\n\npunkt A, zatem szukany punkt\nB\n,\n.\n\n\n5\n5\n\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\n\nObliczenie odległości AC:\nAC\n65\n.\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\n2\n2\n\nx\n\n\nx\n\n\n\n\n\n2\n2\n\n\n\n\n\n\n\n\n\nzapisanie\nrównania\nx\n1\n9\n65\nlub\nx\n1\n9\n65\nlub\n\n\n\n\n\n2\n\n\n2\n\n\n\n\n\n2\n2\n\n\n\n\n2\ny\n1\ny\n9\n65\nalbo\n\n1\n\n1\n\ny\nx\n\ny\nx\n\n\n2\n\n2\nzapisanie układu równań:\nlub\n\n\n\n\n\n\n\n\n\n\n2\n2\n2\n2\n\n\n\n\n\n\n\n\nx\n1\ny\n9\n65\nx\n1\ny\n9\n65\n\n\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\n5\n\n\n\n\n\n\nDoprowadzenie do równania kwadratowego, np.\n2\nlub\n2\nx\n11\nx\n17\n0\n5\nx\n44\nx\n68\n0\n4\n\n\n\nlub\n5\ny\n2\n22\ny\n17\n0\n.\nRozwiązanie pełne..............................................................................................................4 pkt\n\n\n34 17\n\nWyznaczenie współrzędnych wierzchołka\nB\n,\n.\n\n\n5\n5\n\nII sposób rozwiązania: (środek odcinka)\nNiech punkt D będzie spodkiem wysokości opuszczonej z wierzchołka C. Wyznaczamy\n\n22 11\n\n\n\n\nrównanie prostej CD:\n. Obliczamy współrzędne punktu\n.\ny\n2\nx\n11\nD\n,\n\n\n5\n5\n\nWyznaczamy współrzędne punktu B:\n\n\nx\n2\n22\n\n\n2\n5\n\nwykorzystując na przykład wzór na współrzędne środka odcinka:\n\ny\n1\n11\n\n\n\n2\n5\nalbo\n\n\nx\n2\n22\n\n\n2\n5\n\nwykorzystując wzór na współrzędne środka odcinka i równanie prostej:\n1\n\n\ny\nx\n\n2\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nalbo\n\nporównując długości odcinków AD i DB:\n\n2\n2\n2\n2\n\n22\n\n\n11\n\n\n22\n\n\n11\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2\n1\nx\ny\n5\n5\n5\n5\n\n1\n\n\ny\nx\n\n\n2\n\n\n34 17\n\nOtrzymujemy\nB\n,\n.\n\n\n5\n5\n\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania .......................................................................................................... 1 pkt\n\n\nWyznaczenie równania prostej CD, np. w postaci\ny\n2\nx\n11\nPokonanie zasadniczych trudności zadania .................................................................... 3 pkt\n\n\n22 11\n\nObliczenie współrzędnych punktu D:\nD\n,\n.\n\n\n5\n5\n\nUwaga:\n\n\n\ny\n2\nx\n11\nJeżeli zdający zapisze układ równań:\nlub analogiczny i popełni błąd\n1\n\ny\nx\n\n2\nrachunkowy w jego rozwiązaniu, to otrzymuje 2 punkty.\nRozwiązanie pełne ............................................................................................................. 4 pkt\n\n34 17\n\n\nWyznaczenie współrzędnych wierzchołka\nB\n,\n.\n\n\n5\n5\n\nIII sposób rozwiązania: (kąt między prostymi)\n\nWyznaczamy współczynnik kierunkowy prostej AC:\na\n8\n. Zapisujemy równanie:\n1\n1\n1\n\n\n8\na\n2\n2\n2\n\n, korzystając ze wzoru na tangens kąta między prostymi AC i BC,\n\n1\n1 4\n\n1\na\n2\n2\n28\n\ngdzie\n2a jest współczynnikiem kierunkowym prostej BC. Obliczamy\n2a :\na\n(drugie\n2\n29\n\nrozwiązanie tego równania\na\n8\nto współczynnik kierunkowy prostej AC). Zapisujemy\n2\n28\n\n\n\n\n\nrównanie prostej BC:\ny\nx\n1\n9\n, a następnie wyznaczamy punkt wspólny tej prostej\n29\n1\n\ni prostej AB o równaniu\ny\nx . Rozwiązujemy układ równań:\n2\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\n\n28\n\n\n\n\n\n\ny\nx\n1\n9\n\n29\n\n1\n\n\ny\nx\n\n2\n\n34 17\n\n\nOtrzymujemy współrzędne szukanego punktu:\nB\n,\n.\n\n\n5\n5\n\nSchemat oceniania III sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nZapisanie równania z niewiadomym współczynnikiem kierunkowym prostej BC:\n1\n1\n\n\n8\na\n2\n2\n2\n\n1\n\n1\n4\n\n1\na\n2\n2\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\n28\n\nWyznaczenie współczynnika kierunkowego prostej BC:\na\n.\n2\n29\nRozwiązanie pełne..............................................................................................................4 pkt\n\n34 17\n\n\nWyznaczenie współrzędnych wierzchołka\nB\n,\njako punktu wspólnego prostych\n\n\n5\n5\n\n1\n28\n\n\n\n\n\n\no równaniach\ny\nx oraz\ny\nx\n1\n9\n.\n2\n29\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nJeśli zdający przepisze z błędem współrzędne punktów lub zamieni miejscami liczby będące\nwspółrzędnymi danych punktów i rozwiąże konsekwentnie zadanie do końca, to za takie\nrozwiązanie otrzymuje 4 punkty.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2012-sierpien/33.webp",
+   "size": [
+    950,
+    527
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\nW ostrosłupie prawidłowym czworokątnym ABCDS o podstawie ABCD i wierzchołku S\ntrójkąt ACS jest równoboczny i ma bok długości 8. Oblicz sinus kąta nachylenia ściany\nbocznej do płaszczyzny podstawy tego ostrosłupa (zobacz rysunek).\nS\nS\nD\nC\nC\nA\nA\nB\nB",
+   "key": "Zadanie 33. (0–4)\nW ostrosłupie prawidłowym czworokątnym ABCDS o podstawie ABCD i wierzchołku S\ntrójkąt ACS jest równoboczny i ma bok długości 8. Oblicz sinus kąta nachylenia ściany\nbocznej do płaszczyzny podstawy tego ostrosłupa (zobacz rysunek).\nS\nH\nh\nb\nD\nC\n\nE\nO\nB\nA\na\nUżycie i tworzenie strategii\nWyznacza  związki miarowe w wielościanach; znajduje\nzwiązki miarowe w figurach płaskich, w tym stosuje\nwłasności trójkąta równobocznego i prostokątnego\ni wykorzystuje definicję i własności funkcji\ntrygonometrycznych.\nI sposób rozwiązania:\n1) Obliczenie H (wysokości ostrosłupa), np. z własności trójkąta równobocznego ACS:\nb\n3\nb \nH \n\n4 3\n, gdzie\n8\n2\n2\n\n\nb\n\n2\n\nlub z trójkąta prostokątnego AOS :\nH\nb\n\n\n2\n\nH \nZdający może wykonać obliczenia i zapisać wynik w przybliżeniu:\n6,93\n.\n2) Obliczenie a (długości krawędzi podstawy ostrosłupa), np. ze wzoru na długość\n\na \na \nprzekątnej kwadratu:\na\n2\n8\n,\n4 2\nlub\n5,66\n.\n\n3) Obliczenie h\nSE\n(wysokości ściany bocznej) z trójkąta prostokątnego SOE:\n2\n\n\na\n\n2\n\nh \nh\nH\n,\n2 14\n\n\n2\n\n2\n\n\na\n\n2\n\nlub z trójkąta prostokątnego SEA:\nh\nb\n\n\n2\n\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nh \nZdający może wykonać obliczenia i zapisać wynik w przybliżeniu:\n.\n7,48\nH\n42\n4) Obliczenie sinusa kąta :\n\n\nsin\nh\n7\nlub obliczenie cosinusa kąta , np. z twierdzenia cosinusów:\n2\n\n2\n\n2\n\n\nh\na\nh\n2\nah\ncos\n,\n7\n\n, np. z jedynki trygonometrycznej:\ncos\n, a następnie sinusa kąta\n7\n7\n42\n\n\n\n\n\n\n\n2\nsin\n1\ncos\n1\n49\n7\n\nlub wykorzystanie dokonanych przybliżeń do obliczenia sin\n.\n0,93\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania.........................................................................................................................1 pkt\n8 3\n\nH \n\nH \nobliczenie H (wysokości ostrosłupa):\n4 3\nlub\n6,93\n2\nalbo\n\na \na \n4 2\nobliczenie a (długości krawędzi podstawy):\nlub\n5,66\n.\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\n\nh \n2 14\nh \nobliczenie h (wysokości ściany bocznej ostrosłupa):\nlub\n7,48\noraz\n8 3\n\nH \n\nH \nobliczenie H (wysokości ostrosłupa):\n4 3\nlub\n6,93\n.\n2\nZostały pokonane zasadnicze trudności zadania, ale w trakcie ich pokonywania zostały\npopełnione błędy rachunkowe, usterki ............................................................................2 pkt\nRozwiązanie pełne..............................................................................................................4 pkt\n42\nObliczenie sinusa kąta :\n\n\nsin\nlub   sin\n.\n0,93\n7\nII sposób rozwiązania:\n1) Obliczenie H (wysokości ostrosłupa), np. z własności trójkąta równobocznego ACS\nb\n3\nH \n\nb \n, gdzie\n8\n4 3\n2\n2\n\nb\n\n\n\nlub z trójkąta prostokątnego AOS :\nH\nb\n2\n\n\n2\n\nH \nZdający może wykonać obliczenia i zapisać wynik w przybliżeniu:\n.\n6,93\n2) Obliczenie a (długości krawędzi podstawy ostrosłupa), np. ze wzoru na długość\n\na \na \nprzekątnej kwadratu\na\n2\n8\n,\n4 2\nlub\n.\n5,66\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nH\n2\nH\n3) Obliczenie tangensa kąta :\n\n\n\n\ntg\n6\nlub   tg\n2,45\n.\na\na\n2\n4) Odczytanie wartości kąta :\n\n i sinusa tego kąta z tablic trygonometrycznych:\n68\n\nsin\n0,93\n\n\nsin\n\n6\n\nlub obliczenie sin z układu równań:\n\ncos\n\n2\n\n\n2\n\n\nsin\ncos\n1\n\n42\n\nStąd\n.\nsin\n7\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................ 1 pkt\n8 3\n\nH \n\nH \nobliczenie H (wysokości ostrosłupa):\n4 3\nlub\n6,93\n2\nalbo\n\na \n4 2\na \nobliczenie a (długości krawędzi podstawy):\nlub\n5,66\n.\nPokonanie zasadniczych trudności zadania .................................................................... 3 pkt\nObliczenie tangensa kąta : tg\n\n\n6\nlub  tg\n.\n2,45\nZostały pokonane zasadnicze trudności zadania, ale w trakcie ich pokonywania zostały\npopełnione błędy rachunkowe, usterki............................................................................ 2 pkt\nRozwiązanie pełne ............................................................................................................. 4 pkt\n42\nObliczenie sinusa kąta :\n\n\nsin\nlub   sin\n.\n0,93\n7\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nNie obniżamy punktacji za rozwiązanie, w którym zdający poprawnie obliczył wysokość\nostrosłupa, ale przy obliczaniu sinusa kąta nachylenia ściany bocznej do płaszczyzny\npodstawy podstawił błędną wartość."
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2012-sierpien/34.webp",
+   "size": [
+    950,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (5 pkt)\nKolarz pokonał trasę 114 km. Gdyby jechał ze średnią prędkością mniejszą o 9,5 km/h,\nto pokonałby tę trasę w czasie o 2 godziny dłuższym. Oblicz, z jaką średnią prędkością jechał\nten kolarz.",
+   "key": "Zadanie 34. (0–5)\nKolarz pokonał trasę 114 km. Gdyby jechał ze średnią prędkością mniejszą o 9,5 km/h,\nto pokonałby tę trasę w czasie o 2 godziny dłuższym. Oblicz, z jaką średnią prędkością jechał\nten kolarz.\nModelowanie matematyczne\nRozwiązuje  zadania dotyczących sytuacji praktycznych,\nprowadzące do równania kwadratowego.\nI sposób rozwiązania:\nPrzyjmujemy oznaczenia, np.: t – czas pokonania całej trasy w godzinach, v – średnia\nprędkość w kilometrach na godzinę.  Zapisujemy zależności między czasem a prędkością\noraz \n\n\nv t\n\n\n\n\nw obu sytuacjach opisanych w zadaniu:\n114\nv\n9,5\nt\n2\n114\n.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\n\n\nv t\n114\nNastępnie zapisujemy układ równań \n\n\n\n\n\n\nv\n9,5\nt\n2\n114\n\nRozwiązując układ równań doprowadzamy do równania z jedną niewiadomą, np.:\n\n114\n\n\n\n\n\n\n\n9,5\nt\n2\n114\n\n\n\nt\n\n228\n\n\n\n\n114\n9,5\nt\n19\n114\nt\nMnożymy obie strony przez t:\n2\n\n\n\n9,5\nt\n19\nt\n228\n0\nDzielimy obie strony przez 9,5:\n\n\n\n2\nt\n2\nt\n24\n0\n\n\n\n\n\n\n\nt\n6\nt\n4\n0\nt \nt \n6\nlub 2\n4\n1\n1t jest sprzeczne z warunkami zadania.\n114\nv \n\nObliczamy średnią prędkość, z jaką jechał kolarz:\n28,5\n.\n4\nII sposób rozwiązania:\nZapisujemy zależności między czasem a prędkością w obu sytuacjach opisanych w zadaniu:\noraz \n\n\nv t\n\n\n\n\n114\nv\n9,5\nt\n2\n114\n\n\nv t\n114\nNastępnie zapisujemy układ równań \n\n\n\n\n\n\nv\n9,5\nt\n2\n114\n\nRozwiązując układ równań doprowadzamy do równania z jedną niewiadomą, np.:\n\n114\n\n\n\n\n\n\n\nv\n9,5\n2\n114\n\n\n\nv\n\n1083\n\n\n\n\n114\n2\nv\n19\n114\nv\nMnożymy obie strony przez v\n2\n\n\n\n2\nv\n19\nv\n1083\n0\n\n2\n\n\n19\n8 1083\n9025\n\n95\n\n\n19\n95\n19\n95\n114\n\n\n\n\nv\nv\n28,5\n1\n2\n4\n4\n4\n1v jest sprzeczne z warunkami zadania.\nŚrednia prędkość, z jaką jechał kolarz, jest równa 28,5 km/godzinę.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nIII sposób rozwiązania:\nPrzyjmujemy oznaczenia, np.: t – czas pokonania całej trasy w godzinach, v – średnia\nprędkość w kilometrach na godzinę.\nv\nv – 9,5\nt +2\nt\nNarysowane duże prostokąty reprezentują trasę przebytą przez kolarza w obu sytuacjach\nopisanych w zadaniu, mają zatem równe pola. Wobec tego pola zakreskowanych prostokątów\n\n\n\n\n\n\n\n\n\n\n\n\nsą równe. Stąd równość\n9,5\nt\n2\nv\n9,5\ni następnie\n9,5\nt\n2\n2\nv\ni\nv\n4,75\nt\n2\n.\nPonieważ trasa przebyta przez kolarza ma długość 114 km, otrzymujemy równanie:\n\n\n\n\n4,75\nt\n2\nt\n114\n2\n\n\n\n4,75\nt\n9,5\nt\n114\n0\n.\nDzielimy obie strony przez 4,75:\n2\n\n\n\nt\n2\nt\n24\n0\n\n\n\n\n\n\n\nt\n6\nt\n4\n0\nt \nt \n6\nlub  2\n4\n1\n1t jest sprzeczne z warunkami zadania.\n114\nv \n\nObliczamy średnią prędkość, z jaką jechał kolarz:\n28,5\n.\n4\nOdp. Średnia prędkość, z jaką jechał kolarz, jest równa 28,5 km/godzinę.\nSchemat oceniania I, II i III sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ........................................................................................................ 1 pkt\nZapisanie równania w sytuacji domniemanej (t oznacza czas pokonania całej trasy\nw godzinach, a v średnią prędkość rowerzysty w kilometrach na godzinę)\n\n\n\n\n\n\n\nt\n2\nv\n5,9\n114\nRozwiązanie, w którym jest istotny postęp ................................................................... 2 pkt\nZapisanie układu równań z niewiadomymi v i t, np.:\n\n\n\nt\nv\n114\n\n\n\n\n\n\n\n\nt\n2\nv\n5,9\n114\n\nPokonanie zasadniczych trudności zadania .................................................................. 3 pkt\nZapisanie równania z jedną niewiadomą v lub t, np.:\n\n\n\n\n114\n114\n\n\n\n\nlub    \n\n\n\n\n\n\n\n\n\n\n\n9,5\nt\n2\n114\nv\n9,5\n2\n114\nlub\n4,75\nt\n2\nt\n114\n\n\n\n\n\nt\n\n\nv\n\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą.\nZostały pokonane zasadnicze trudności zadania, ale w trakcie ich pokonywania\nzostały popełnione błędy rachunkowe lub usterki ........................................................ 2 pkt\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe) ....................................................... 4 pkt\n\n\n\n\nobliczenie czasu:\nt\n4\nlub\nt\n6\ni nie obliczenie prędkości lub obliczenie prędkości\nz błędem rachunkowym\nalbo\n\n\n\n\nv \nv \nt\n4\nt\n6\n19\nobliczenie czasu:\nlub\ni obliczenie prędkości:\n28,5\ni\ni niewyeliminowanie prędkości niezgodnej z warunkami zadania\nalbo\n\nobliczenie czasu z błędem rachunkowym i konsekwentne obliczenie prędkości\nalbo\n\nrozwiązanie równania z niewiadomą v z błędem rachunkowym.\nRozwiązanie pełne ............................................................................................................ 5 pkt\nv \nObliczenie średniej prędkości, z jaką jechał kolarz:\n28,5km/godzinę\n.\nUwagi:\n1. Jeżeli zdający porównuje wielkości różnych typów, to otrzymuje 0 punktów.\n2. Jeżeli zdający odgadnie średnią prędkość jazdy kolarza i nie uzasadni, że jest to jedyne\nrozwiązanie, to otrzymuje  1 punkt.\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nPrzykład 1.\nJeśli zdający przedstawi następujące rozwiązanie:\nv - prędkość kolarza, t - czas pokonania całej trasy w godzinach przez kolarza\n114\n\n\nv\n9,5\nt\n2\n\n\n\n114\nv t\n\n\n\n\n\n114\nv\n9,5\nt\n2\n\ni na tym zakończy, to takie rozwiązanie kwalifikujemy do kategorii Rozwiązanie, w którym\njest istotny postęp i przyznajemy 2 punkty, mimo że w drugim równaniu układu zdający nie\n114\nt \n\n\nujął wyrażenia\n2\nw nawias. Zapis równania\nwskazuje na poprawną\nv\n9,5\nt\n2\ninterpretację zależności między wielkościami.\nEgzamin maturalny z matematyki\nKryteria oceniania odpowiedzi – poziom podstawowy\nPrzykład 2.\nJeśli zdający przedstawi następujące rozwiązanie:\nv - prędkość kolarza, t - czas pokonania całej trasy w godzinach przez kolarza\n\n114\nv\n\n114\n411\n114\nt\n\n\n\n\nv\n9,5\n9,5\n\nt\n2\n210\nt\nt\n\n\nv\n9,5\n\n\n\nt\ni na tym zakończy, to takie rozwiązanie kwalifikujemy do kategorii "
+  }
+ ]
+}

@@ -1,0 +1,272 @@
+{
+ "exam": "f2015-P-2016-czerwiec",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 6, "value_tex": "6", "answer_tex": "6",
+   "category": "liczby", "topic_pl": "Potęgi", "topic_en": "Powers",
+   "difficulty": 1,
+   "summary_pl": "Oblicz $\\frac{7^6\\cdot 6^7}{42^6}$",
+   "summary_en": "Compute $\\frac{7^6\\cdot 6^7}{42^6}$",
+   "statement_en": "The number $\\frac{7^6\\cdot 6^7}{42^6}$ equals: A. $42^{36}$ B. $42^{7}$ C. $6$ D. $1$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 56, "value_tex": "56", "answer_tex": "56\\%",
+   "category": "liczby", "topic_pl": "Procent składany", "topic_en": "Compound percentage",
+   "difficulty": 2,
+   "summary_pl": "Dwie podwyżki ceny: 20% i 30%. Jedna równoważna podwyżka?",
+   "summary_en": "Two price hikes: 20% then 30%. Find the equivalent single hike",
+   "statement_en": "The price of a product was increased by 20%, and then the new price was increased by 30%. These two price increases can be replaced by one equivalent increase of: A. 50% B. 56% C. 60% D. 66%",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "3", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1.7320508075688772, "value_tex": "\\sqrt{3}", "answer_tex": "\\sqrt{3}",
+   "category": "liczby", "topic_pl": "Pierwiastki", "topic_en": "Radicals",
+   "difficulty": 2,
+   "summary_pl": "Uprość $\\sqrt[3]{3\\sqrt3}$",
+   "summary_en": "Simplify $\\sqrt[3]{3\\sqrt3}$",
+   "statement_en": "The number $\\sqrt[3]{3\\sqrt{3}}$ is equal to: A. $\\sqrt[6]{3}$ B. $\\sqrt[4]{3}$ C. $\\sqrt[3]{3}$ D. $\\sqrt{3}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "4", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 200000, "value_tex": "200000", "answer_tex": "200000",
+   "category": "liczby", "topic_pl": "Różnica kwadratów", "topic_en": "Difference of squares",
+   "difficulty": 2,
+   "summary_pl": "Oblicz $50001^2-49999^2$",
+   "summary_en": "Compute $50001^2-49999^2$",
+   "statement_en": "The difference $50001^2 - 49999^2$ equals: A. 2 000 000 B. 200 000 C. 20 000 D. 4",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -12, "value_tex": "-12", "answer_tex": "-12",
+   "category": "liczby", "topic_pl": "Wartości wyrażeń", "topic_en": "Evaluating expressions",
+   "difficulty": 2,
+   "summary_pl": "Najmniejsza wartość $(x-y)(x+y)$ dla $x,y\\in\\{2,3,4\\}$",
+   "summary_en": "Smallest value of $(x-y)(x+y)$ for $x,y\\in\\{2,3,4\\}$",
+   "statement_en": "The smallest value of the expression $(x-y)(x+y)$ for $x,y\\in\\{2,3,4\\}$ equals: A. 2 B. -24 C. 0 D. -12",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "6", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -1, "value_tex": "-1", "answer_tex": "-1",
+   "category": "liczby", "topic_pl": "Logarytmy", "topic_en": "Logarithms",
+   "difficulty": 2,
+   "summary_pl": "Oblicz $\\log_3\\frac{3}{2}+\\log_3\\frac{2}{9}$",
+   "summary_en": "Compute $\\log_3\\frac{3}{2}+\\log_3\\frac{2}{9}$",
+   "statement_en": "The value of the expression $\\log_3\\frac{3}{2}+\\log_3\\frac{2}{9}$ equals: A. -1 B. -2 C. $\\log_3\\frac{5}{11}$ D. $\\log_3\\frac{31}{18}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "7", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 6, "value_tex": "6", "answer_tex": "6",
+   "category": "rownania", "topic_pl": "Równanie wielomianowe", "topic_en": "Polynomial equation",
+   "difficulty": 2,
+   "summary_pl": "$(x-8)(x^2-4)(x^2+16)=0$. Suma największego i najmniejszego",
+   "summary_en": "$(x-8)(x^2-4)(x^2+16)=0$. Sum of largest and smallest root",
+   "statement_en": "Among the numbers that are solutions of the equation $(x-8)(x^2-4)(x^2+16)=0$, the largest and the smallest were chosen. The sum of these two numbers equals: A. 12 B. 10 C. 6 D. 4",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "8", "include": false, "exclude_reason": "interval_or_set", "category": "rownania", "difficulty": 2, "notes": "options are intervals containing x, not a plain number" },
+  {
+   "task": "9", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -1.131370849898476, "value_tex": "-\\frac{4\\sqrt{2}}{5}", "answer_tex": "-\\frac{4\\sqrt{2}}{5}",
+   "category": "funkcje", "topic_pl": "Wartość funkcji wymiernej", "topic_en": "Rational function value",
+   "difficulty": 2,
+   "summary_pl": "Dla $f(x)=\\frac{2x^3}{x^4+1}$ oblicz $f(-\\sqrt2)$",
+   "summary_en": "For $f(x)=\\frac{2x^3}{x^4+1}$ compute $f(-\\sqrt2)$",
+   "statement_en": "The function $f$ is defined by $f(x)=\\frac{2x^3}{x^4+1}$ for every real number $x$. Then $f(-\\sqrt{2})$ equals: A. $-\\frac{8}{5}$ B. $-\\frac{4\\sqrt2}{3}$ C. $-\\frac{4\\sqrt2}{5}$ D. $-\\frac{4}{3}$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "10", "include": false, "exclude_reason": "interval_or_set", "category": "funkcje", "difficulty": 2, "notes": "asks for the maximal interval of increase - answer is an interval, not a number" },
+  {
+   "task": "11", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -630, "value_tex": "-630", "answer_tex": "-630",
+   "category": "ciagi", "topic_pl": "Suma ciągu", "topic_en": "Sum of a sequence",
+   "difficulty": 2,
+   "summary_pl": "Ciąg $a_n=6(n-16)$. Suma dziesięciu początkowych wyrazów",
+   "summary_en": "Sequence $a_n=6(n-16)$. Sum of the first ten terms",
+   "statement_en": "The sequence $(a_n)$ is given by $a_n=6(n-16)$ for $n\\ge1$. The sum of the first ten terms of this sequence equals: A. -54 B. -126 C. -630 D. -270",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "12", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.5, "value_tex": "\\frac{1}{2}", "answer_tex": "q=\\frac{1}{2}",
+   "category": "ciagi", "topic_pl": "Ciąg geometryczny", "topic_en": "Geometric sequence",
+   "difficulty": 2,
+   "summary_pl": "Ciąg geom.: $a_1=72$, $a_4=9$. Oblicz iloraz $q$",
+   "summary_en": "Geometric sequence: $a_1=72$, $a_4=9$. Find the ratio $q$",
+   "statement_en": "In a geometric sequence $(a_n)$, $a_1=72$ and $a_4=9$. The ratio $q$ of this sequence equals: A. $q=\\frac12$ B. $q=\\frac16$ C. $q=\\frac14$ D. $q=\\frac18$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "13", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 100, "value_tex": "100", "answer_tex": "\\beta=100^\\circ",
+   "category": "planimetria", "topic_pl": "Trapez", "topic_en": "Trapezoid",
+   "difficulty": 3,
+   "summary_pl": "Trapez $ABCD$, $AC\\perp BC$, $AD=DC$, $\\angle ABC=50^\\circ$. Oblicz $\\beta$",
+   "summary_en": "Trapezoid $ABCD$, $AC\\perp BC$, $AD=DC$, $\\angle ABC=50^\\circ$. Find $\\beta$",
+   "statement_en": "In trapezoid $ABCD$ the diagonal $AC$ is perpendicular to leg $BC$, $|AD|=|DC|$, and $|\\angle ABC|=50^\\circ$ (see figure: $\\beta$ is the angle at vertex $D$). It follows that: A. $\\beta=100^\\circ$ B. $\\beta=120^\\circ$ C. $\\beta=110^\\circ$ D. $\\beta=130^\\circ$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "14", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 144, "value_tex": "72+72", "answer_tex": "\\alpha=72^\\circ,\\ \\beta=72^\\circ",
+   "category": "planimetria", "topic_pl": "Kąty w okręgu", "topic_en": "Angles in a circle",
+   "difficulty": 3,
+   "summary_pl": "Okrąg, $A,B,C,D$; kąty $36^\\circ$. Oblicz $\\alpha$, $\\beta$ (suma)",
+   "summary_en": "Circle, $A,B,C,D$; angles $36^\\circ$. Find $\\alpha$, $\\beta$ (sum)",
+   "statement_en": "Points $A$, $B$, $C$, $D$ lie on a circle with center $O$ (see figure: angles of $36^\\circ$ are marked near $A$ and near $C$, $\\alpha$ is the angle marked at center $O$, $\\beta$ is the inscribed angle marked at $B$). The measures of the marked angles $\\alpha$ and $\\beta$ are respectively equal to: A. $\\alpha=36^\\circ,\\beta=72^\\circ$ B. $\\alpha=54^\\circ,\\beta=72^\\circ$ C. $\\alpha=36^\\circ,\\beta=108^\\circ$ D. $\\alpha=72^\\circ,\\beta=72^\\circ$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "15", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 10000000, "value_tex": "10^7", "answer_tex": "10^7",
+   "category": "liczby", "topic_pl": "Potęgi dziesiątki", "topic_en": "Powers of ten",
+   "difficulty": 1,
+   "summary_pl": "Słoń 5 t, mrówka 0,5 g. Ile razy słoń cięższy?",
+   "summary_en": "Elephant 5 t, ant 0.5 g. How many times heavier?",
+   "statement_en": "An elephant weighs 5 tonnes, and the weight of an ant equals 0.5 grams. How many times is the elephant heavier than the ant? A. $10^6$ B. $10^7$ C. $10$ D. $10^8$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "16", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 100, "value_tex": "100", "answer_tex": "100",
+   "category": "planimetria", "topic_pl": "Pole trójkąta", "topic_en": "Triangle area",
+   "difficulty": 2,
+   "summary_pl": "Trójkąt równoram., ramiona 20, kąt między nimi $150^\\circ$. Pole?",
+   "summary_en": "Isosceles triangle, legs 20, angle between them $150^\\circ$. Area?",
+   "statement_en": "Each leg of an isosceles triangle has length 20. The angle contained between the legs of this triangle measures $150^\\circ$. The area of this triangle equals: A. 100 B. 200 C. $100\\sqrt3$ D. $100\\sqrt2$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "17", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -2, "value_tex": "-2", "answer_tex": "a=-2",
+   "category": "analityczna", "topic_pl": "Symetralna odcinka", "topic_en": "Perpendicular bisector",
+   "difficulty": 2,
+   "summary_pl": "Prosta $y=ax+1$ to symetralna $AB$, $A=(-3,2)$, $B=(1,4)$. Oblicz $a$",
+   "summary_en": "Line $y=ax+1$ is perp. bisector of $AB$, $A=(-3,2)$, $B=(1,4)$. Find $a$",
+   "statement_en": "The line given by $y=ax+1$ is the perpendicular bisector of segment $AB$, where $A=(-3,2)$ and $B=(1,4)$. It follows that: A. $a=-\\frac12$ B. $a=\\frac12$ C. $a=-2$ D. $a=2$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "18", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": -2, "value_tex": "1+(-3)", "answer_tex": "a=1,\\ b=-3",
+   "category": "rownania", "topic_pl": "Układ równań z parametrem", "topic_en": "System with parameters",
+   "difficulty": 3,
+   "summary_pl": "Układ $y=-ax+2a$, $y=\\frac{b}{3}x-2$ bez rozwiązań dla? (a+b)",
+   "summary_en": "System $y=-ax+2a$, $y=\\frac{b}{3}x-2$ has no solution for? (a+b)",
+   "statement_en": "The system of equations $\\begin{cases}y=-ax+2a\\\\ y=\\frac{b}{3}x-2\\end{cases}$ has no solutions for: A. $a=-1$ and $b=-3$ B. $a=1$ and $b=3$ C. $a=1$ and $b=-3$ D. $a=-1$ and $b=3$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "19", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 18, "value_tex": "18", "answer_tex": "a=18",
+   "category": "rownania", "topic_pl": "Równanie liniowe", "topic_en": "Linear equation",
+   "difficulty": 1,
+   "summary_pl": "Do $a$ dodano 54, sumę podzielono przez 2, wynik to $2a$. $a=?$",
+   "summary_en": "Add 54 to $a$, divide by 2, result is $2a$. Find $a$",
+   "statement_en": "54 was added to a certain number $a$. The resulting sum was divided by 2. The result of this operation was a number twice as large as the number $a$. Therefore: A. $a=27$ B. $a=18$ C. $a=24$ D. $a=36$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "20", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 90, "value_tex": "90", "answer_tex": "90^\\circ",
+   "category": "stereometria", "topic_pl": "Ostrosłup prawidłowy", "topic_en": "Regular pyramid",
+   "difficulty": 3,
+   "summary_pl": "Ostrosłup $ABCDS$, ściany boczne równoboczne. Miara kąta $ASC$?",
+   "summary_en": "Pyramid $ABCDS$, equilateral lateral faces. Measure of $\\angle ASC$?",
+   "statement_en": "The base of the regular quadrilateral pyramid $ABCDS$ is the square $ABCD$. All lateral faces of this pyramid are equilateral triangles. The measure of angle $ASC$ equals: A. $45^\\circ$ B. $30^\\circ$ C. $75^\\circ$ D. $90^\\circ$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "21", "include": false, "exclude_reason": "interval_or_set", "category": "prawdopodobienstwo", "difficulty": 2, "notes": "options are ranges for p, not a plain number" },
+  {
+   "task": "22", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 18, "value_tex": "18", "answer_tex": "x=18",
+   "category": "statystyka", "topic_pl": "Średnia arytmetyczna", "topic_en": "Arithmetic mean",
+   "difficulty": 2,
+   "summary_pl": "Średnia liczb $x-1,3x,5x+1,7x$ to 72. Oblicz $x$",
+   "summary_en": "Mean of $x-1,3x,5x+1,7x$ is 72. Find $x$",
+   "statement_en": "The arithmetic mean of the four numbers $x-1$, $3x$, $5x+1$ and $7x$ equals 72. It follows that: A. $x=9$ B. $x=10$ C. $x=17$ D. $x=18$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "23", "include": false, "exclude_reason": "statement", "category": "funkcje", "difficulty": 2, "notes": "options are compound sign statements about a*m and b*n, not numbers" },
+  { "task": "24", "include": false, "exclude_reason": "expression", "category": "wyrazenia", "difficulty": 2, "notes": "options are polynomials in x, not numeric values" },
+  {
+   "task": "25", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 20, "value_tex": "20", "answer_tex": "20",
+   "category": "planimetria", "topic_pl": "Pole trójkąta", "topic_en": "Triangle area",
+   "difficulty": 3,
+   "summary_pl": "$D,E$ środki, pola $BGE=1$, $AFD=4$. Pole $ABC$?",
+   "summary_en": "$D,E$ midpoints, areas $BGE=1$, $AFD=4$. Area of $ABC$?",
+   "statement_en": "Points $D$ and $E$ are the midpoints of the legs $AC$ and $BC$ of right triangle $ABC$. Points $F$ and $G$ lie on the hypotenuse $AB$ so that segments $DF$ and $EG$ are perpendicular to it (see figure). The area of triangle $BGE$ equals 1, and the area of triangle $AFD$ equals 4. Then the area of triangle $ABC$ equals: A. 12 B. 16 C. 18 D. 20",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "26", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 0.5, "value_tex": "-\\frac{1}{2}+1", "answer_tex": "x=-\\frac{1}{2} \\lor x=1",
+   "category": "rownania", "topic_pl": "Równanie wymierne", "topic_en": "Rational equation",
+   "difficulty": 3,
+   "summary_pl": "Rozwiąż $\\frac{2x+1}{2x}=\\frac{2x+1}{x+1}$ (suma rozwiązań)",
+   "summary_en": "Solve $\\frac{2x+1}{2x}=\\frac{2x+1}{x+1}$ (sum of solutions)",
+   "statement_en": "Solve the equation $\\frac{2x+1}{2x}=\\frac{2x+1}{x+1}$, where $x\\neq -1$ and $x\\neq 0$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "27", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 2.6666666666666665, "value_tex": "\\frac{8}{3}", "answer_tex": "P=\\frac{8}{3}",
+   "category": "analityczna", "topic_pl": "Pole trójkąta na płaszczyźnie", "topic_en": "Area of a triangle in the plane",
+   "difficulty": 2,
+   "summary_pl": "Proste $y=x+2$, $y=-3x+b$ przecinają się na osi $Oy$. Pole trójkąta",
+   "summary_en": "Lines $y=x+2$, $y=-3x+b$ meet on the $Oy$ axis. Triangle area",
+   "statement_en": "Lines given by the equations $y=x+2$ and $y=-3x+b$ intersect at a point lying on the $y$-axis of the coordinate system. Compute the area of the triangle whose two sides lie on the given lines, and whose third side lies on the $x$-axis.",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "28", "include": false, "exclude_reason": "proof", "category": "wyrazenia", "difficulty": 3, "notes": "" },
+  { "task": "29", "include": false, "exclude_reason": "proof", "category": "planimetria", "difficulty": 3, "notes": "" },
+  {
+   "task": "30", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 54, "value_tex": "12+42", "answer_tex": "P_{ADE}=12,\\ P_{BCED}=42",
+   "category": "planimetria", "topic_pl": "Pole trójkąta - cosinus kąta", "topic_en": "Triangle area via cosine",
+   "difficulty": 4,
+   "summary_pl": "Trójkąt $ABC$: $AB=15,AC=12,\\cos\\alpha=\\frac45$. Pola $ADE$+$BCED$",
+   "summary_en": "Triangle $ABC$: $AB=15,AC=12,\\cos\\alpha=\\frac45$. Areas $ADE$+$BCED$",
+   "statement_en": "In triangle $ABC$ the side lengths are $|AB|=15$ and $|AC|=12$, and $\\cos\\alpha=\\frac{4}{5}$, where $\\alpha=\\angle BAC$. On sides $AB$ and $AC$ of this triangle, points $D$ and $E$ respectively were chosen so that $|BD|=2|AD|$ and $|AE|=2|CE|$ (see figure). Compute the area of a) triangle $ADE$; b) quadrilateral $BCED$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "31", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 546, "value_tex": "567-42+21", "answer_tex": "a_1=567,\\ r=-42,\\ a_{14}=21",
+   "category": "ciagi", "topic_pl": "Ciąg arytmetyczny", "topic_en": "Arithmetic sequence",
+   "difficulty": 4,
+   "summary_pl": "Ciąg arytm., dwie sumy $=2016$. $a_1$, $r$, najm. dod. wyraz (suma)",
+   "summary_en": "Arith. seq., two sums $=2016$: find $a_1$, $r$, min pos. term (sum)",
+   "statement_en": "An arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$, in which $a_1+a_2+a_3+a_4=2016$ and $a_5+a_6+a_7+\\ldots+a_{12}=2016$. Compute the first term, the common difference, and the smallest positive term of the sequence $(a_n)$.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "32", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 53.68355879705505, "value_tex": "2\\sqrt{73}\\pi", "answer_tex": "P_b=2\\sqrt{73}\\pi",
+   "category": "stereometria", "topic_pl": "Stożek", "topic_en": "Cone",
+   "difficulty": 3,
+   "summary_pl": "Stożek, objętość $8\\pi$, $h:r=3:8$. Oblicz pole boczne",
+   "summary_en": "Cone, volume $8\\pi$, $h:r=3:8$. Find lateral surface area",
+   "statement_en": "A cone has volume $8\\pi$, and the ratio of its height to the radius of its base is $3:8$. Compute the lateral surface area of this cone.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "33", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 54, "value_tex": "54", "answer_tex": "54",
+   "category": "rownania", "topic_pl": "Zadanie tekstowe - prędkość", "topic_en": "Speed word problem",
+   "difficulty": 3,
+   "summary_pl": "Samolot: wt. +10% prędkości, czw. -10%, różnica czasu 12 min",
+   "summary_en": "Plane: Tue +10% speed, Thu -10%, time difference 12 min",
+   "statement_en": "A scheduled flight from Warsaw to Rome flies over Austria each time along the same route at the same assumed cruising speed. On Tuesday its average speed was 10% greater than the cruising speed, and on Thursday the average speed was 10% less than the assumed cruising speed. The flight time over Austria on Thursday differed from the Tuesday flight time by 12 minutes. How long did the flight over Austria last on Tuesday?",
+   "confidence": "high", "notes": ""
+  }
+ ]
+}

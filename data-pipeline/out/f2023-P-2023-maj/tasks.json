@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2023-P-2023-maj",
+  "formula": "2023",
+  "level": "P",
+  "year": 2023,
+  "session": "maj",
+  "month": "05",
+  "code": "MMAP-P0-100-2305",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Matematyka/poziom_podstawowy/MMAP-P0-100-2305.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2023/Arkusze_egzaminacyjne/2023/Matematyka/poziom_podstawowy/MMAP-P0-100-2305-zasady.pdf",
+  "examFile": "f2023-P-2023-maj.pdf",
+  "keyFile": "f2023-P-2023-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2023/arkusze/2023-2/",
+  "examPages": 32,
+  "keyPages": 37,
+  "examBytes": 3412578,
+  "keyBytes": 501398
+ },
+ "keyHead": "Rodzaj dokumentu: Zasady oceniania rozwiązań\nzadań\nEgzamin maturalny\nEgzamin:\nMatematyka\nPrzedmiot:\nPoziom podstawowy\nPoziom:\nFormy arkusza:\n8 maja 2023 r.\nTermin egzaminu:\nData publikacji\n28 czerwca 2023 r.\ndokumentu:\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\nUwagi ogólne:\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym\nzapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną\nliczbę punktów.\n3. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do uzyskania\nliczbą punktów za dane zadanie).\nZadanie 1. (0–1)\nWymagania egzaminacyjne 2023 i 20241\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.7) stosuje interpretację geometryczną\n2. Dobieranie i tworzenie modeli\ni algebraiczną wartości bezwzględnej,\nmatematycznych przy rozwiązywaniu\nrozwiązuje równania i nierówności typu: […]\nproblemów praktycznych i teoretycznych.\n|𝑥+ 3| ≥4.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nB\nD\n1 Rozporządzenie Ministra Edukacji i Nauki z dnia 10 czerwca 2022 r. w sprawie wymagań egzaminacyjnych dla\negzaminu maturalnego przeprowadzanego w roku szkolnym 2022/2023 i 2023/2024 (Dz.U. 2022, poz.1246).\nZasady oceniania rozwiązań zadań\nZadanie 2. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nWykonywanie obliczeń na liczbach\nI.4) stosuje związek pierwiastkowania\nrzeczywistych, także przy użyciu\nz potęgowaniem oraz prawa działań na\nkalkulatora, stosowanie praw działań\npotęgach i pierwiastkach.\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA\nB\nZadanie 3. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nI.2) przeprowadza proste dowody dotyczące\nkilkuetapowych, podawanie argumentów\npodzielności liczb całkowitych i reszt\nuzasadniających poprawność rozumowania,\nz dzielenia nie trudniejsze niż dowód\nodróżnianie dowodu od przykładu.\npodzielności przez  24  iloczynu czterech\nkolejnych liczb naturalnych.\nZasady oceniania\n2 pkt – przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci iloczynu  4𝑛(𝑛+ 1)  oraz\nstwierdzenie, że iloczyn  𝑛(𝑛+ 1)  jest liczbą parzystą\nlub przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  4(𝑛2 + 𝑛)  i uzasadnienie,\nże suma  𝑛2 + 𝑛  jest liczbą parzystą\nALBO\n– przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  2𝑛(2𝑛+ 2)  oraz\nstwierdzenie, że wśród dwóch kolejnych liczb parzystych jedna z nich jest liczbą\npodzielną przez  4,\nALBO\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\n– rozpatrzenie przypadku, gdy  𝑛= 2𝑙  (gdzie  𝑙∈ℕ), tj. przekształcenie wyrażenia\n(2𝑛+ 1)2 −1  do postaci  8𝑙(2𝑙+ 1)  i zapisanie, że iloczyn  𝑙(2𝑙+ 1)  jest liczbą\nnaturalną/całkowitą oraz rozpatrzenie przypadku, gdy  𝑛= 2𝑙+ 1  (gdzie  𝑙∈ℕ),\ntj. przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  8(2𝑙2 + 3𝑙+ 1)  i\nzapisanie, że suma  2𝑙2 + 3𝑙+ 1  jest liczbą naturalną/całkowitą.\n1 pkt – przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  4𝑛(𝑛+ 1)  lub  4(𝑛2 + 𝑛),\nlub  2𝑛(2𝑛+ 2)\nALBO\n– przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  4𝑛2 + 4𝑛  i stwierdzenie, że\nta suma jest liczbą podzielną przez  4,\nALBO\n– rozpatrzenie przypadku, gdy  𝑛= 2𝑙  (gdzie  𝑙∈ℕ), tj. przekształcenie wyrażenia\n(2𝑛+ 1)2 −1  do postaci  8𝑙(2𝑙+ 1)  i zapisanie, że iloczyn  𝑙(2𝑙+ 1)  jest liczbą\nnaturalną/całkowitą,\nALBO\n– rozpatrzenie przypadku, gdy  𝑛= 2𝑙+ 1  (gdzie  𝑙∈ℕ), tj. przekształcenie\nwyrażenia  (2𝑛+ 1)2 −1  do postaci  8(2𝑙2 + 3𝑙+ 1)  i zapisanie, że suma\n2𝑙2 + 3𝑙+ 1  jest liczbą naturalną/całkowitą.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości  𝑛, to otrzymuje\n0 punktów za całe rozwiązanie.\n2. Jeżeli zdający przyjmuje np.  𝑛= 8𝑘+ 𝑟, gdzie  𝑘∈ℕ i  𝑟  jest resztą z dzielenia liczby  𝑛\nprzez  8, i przeprowadzi poprawne rozumowanie dla co najmniej połowy przypadków, ale\nnie przeprowadzi pełnego rozumowania dla wszystkich przypadków, to otrzymuje 1 punkt\nza całe rozwiązanie.\n3. Jeżeli zdający rozpatruje przypadki  𝑛= 2𝑙  oraz  𝑛= 2𝑙+ 1  (gdzie  𝑙∈ℕ) i przekształca\nwyrażenie  (2𝑛+ 1)2 −1  do postaci, odpowiednio,  8𝑙(2𝑙+ 1)  oraz  2𝑙2 + 3𝑙+ 1, ale\nnie zapisze, że  8𝑙(2𝑙+ 1)  oraz  2𝑙2 + 3𝑙+ 1  są liczbami naturalnymi/całkowitymi, to\notrzymuje 1 punkt za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nKorzystając z wzoru skróconego mnożenia, zapisujemy liczbę  (2𝑛+ 1)2 −1  w postaci\n(2𝑛+ 1)2 −1 = 4𝑛2 + 4𝑛+ 1 −1 = 4𝑛(𝑛+ 1)\nPonieważ liczby  𝑛  oraz  𝑛+ 1  są kolejnymi liczbami naturalnymi, to jedna z nich jest liczbą\nparzystą, zatem iloczyn  𝑛(𝑛+ 1)  jest  liczbą parzystą, więc iloczyn  4𝑛(𝑛+ 1)  jest\npodzielny przez  8. To należało wykazać.\nSposób II\nKorzystając z wzoru skróconego mnożenia, zapisujemy liczbę  (2𝑛+ 1)2 −1  w postaci\nZasady oceniania rozwiązań zadań\n(2𝑛+ 1)2 −1 = 4𝑛2 + 4𝑛+ 1 −1 = 4(𝑛2 + 𝑛)\nGdy  𝑛  jest liczbą nieparzystą, to liczba  𝑛2  jest liczbą nieparzystą. Zatem  𝑛2 + 𝑛  jest\nliczbą parzystą jako suma dwóch liczb nieparzystych.\nGdy  𝑛  jest liczbą parzystą, to liczba  𝑛2  jest liczbą parzystą. Zatem  𝑛2 + 𝑛  jest liczbą\nparzystą jako suma dwóch liczb parzystych.\nStąd  4(𝑛2 + 𝑛)  jest liczbą podzielną przez  8. To należało wykazać.\nSposób III\nKorzystając z wzoru skróconego mnożenia, zapisujemy liczbę  (2𝑛+ 1)2 −1  w postaci\n(2𝑛+ 1)2 −1 = [(2𝑛+ 1) −1] ⋅[(2𝑛+ 1) + 1] = 2𝑛⋅(2𝑛+ 2)\nPonieważ liczby  2𝑛  oraz  2𝑛+ 2  są kolejnymi liczbami parzystymi, to jedna z nich jest\nliczbą podzielną przez  4. Zatem iloczyn  2𝑛(2𝑛+ 2)  jest liczbą podzielną przez  2 ⋅4, czyli\nprzez  8. To należało wykazać.\nSposób IV\nRozważmy dwa przypadki: gdy  𝑛  jest liczbą parzystą oraz gdy  𝑛  jest liczbą nieparzystą.\nJeśli  𝑛  jest liczbą parzystą, możemy ją zapisać w postaci  𝑛= 2𝑙, gdzie  𝑙∈ℕ. Wówczas\nbadana liczba ma postać\n(2𝑛+ 1)2 −1 = (2 ⋅2𝑙+ 1)2 −1 = 16𝑙2 + 8𝑙+ 1 −1 = 8𝑙(2𝑙+ 1)\nPonieważ  𝑙∈ℕ, to również iloczyn  𝑙(2𝑙+ 1) jest liczbą naturalną. Zatem iloczyn\n8𝑙(2𝑙+ 1)  jest podzielny przez  8.\nJeśli liczba  𝑛  jest nieparzysta, zapisujemy ją w postaci  𝑛= 2𝑙+ 1, gdzie  𝑙∈ℕ. Wówczas\nbadana liczba ma postać\n(2𝑛+ 1)2 −1 = [2(2𝑙+ 1) + 1]2 −1 = [4𝑙+ 3]2 −1 =\n= 16𝑙2 + 24𝑙+ 9 −1 = 8(2𝑙2 + 3𝑙+ 1)\nPonieważ  𝑙∈ℕ, to również  2𝑙2 + 3𝑙+ 1  jest liczbą naturalną. Zatem iloczyn\n8(2𝑙2 + 3𝑙+ 1)  jest podzielny przez  8. To należało wykazać.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\nZadanie 4. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.1) wykonuje działania ([…]\n1. Stosowanie obiektów matematycznych\nlogarytmowanie) w zbiorze liczb\ni operowanie nimi, interpretowanie pojęć\nrzeczywistych.\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nC\nZadanie 5. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nII.1) stosuje wzory skróconego mnożenia\nreprezentacji.\nna:  (𝑎+ 𝑏)2, (𝑎−𝑏)2, 𝑎2 −𝑏2.\n1. Stosowanie obiektów matematycznych\ni operowanie nimi, interpretowanie pojęć\nmatematycznyc",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/1.webp",
+   "size": [
+    919,
+    388
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nNa osi liczbowej zaznaczono sumę przedziałów.\n−2\n5\n𝑥\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nZbiór zaznaczony na osi jest zbiorem wszystkich rozwiązań nierówności\nA.  |𝑥−3,5| ≥1,5\nB.  |𝑥−1,5| ≥3,5\nC.  |𝑥−3,5| ≤1,5\nD.  |𝑥−1,5| ≤3,5",
+   "key": "Zadanie 1. (0–1)\nWymagania egzaminacyjne 2023 i 20241\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.7) stosuje interpretację geometryczną\n2. Dobieranie i tworzenie modeli\ni algebraiczną wartości bezwzględnej,\nmatematycznych przy rozwiązywaniu\nrozwiązuje równania i nierówności typu: […]\nproblemów praktycznych i teoretycznych.\n|𝑥+ 3| ≥4.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nB\nD\n1 Rozporządzenie Ministra Edukacji i Nauki z dnia 10 czerwca 2022 r. w sprawie wymagań egzaminacyjnych dla\negzaminu maturalnego przeprowadzanego w roku szkolnym 2022/2023 i 2023/2024 (Dz.U. 2022, poz.1246).\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/2.webp",
+   "size": [
+    919,
+    249
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  √−27\n3\n3\n⋅√2\njest równa\n16\nA.  (−3\nB.  3\nC.  2\nD.  (−2\n2)\n2\n3\n3)",
+   "key": "Zadanie 2. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nWykonywanie obliczeń na liczbach\nI.4) stosuje związek pierwiastkowania\nrzeczywistych, także przy użyciu\nz potęgowaniem oraz prawa działań na\nkalkulatora, stosowanie praw działań\npotęgach i pierwiastkach.\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA\nB"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2023-maj/3.webp",
+   "size": [
+    919,
+    113
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–2)\n3.\nWykaż, że dla każdej liczby naturalnej  𝒏≥𝟏  liczba  (𝟐𝒏+ 𝟏)𝟐−𝟏  jest podzielna\n0–1–2\nprzez  𝟖.",
+   "key": "Zadanie 3. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nI.2) przeprowadza proste dowody dotyczące\nkilkuetapowych, podawanie argumentów\npodzielności liczb całkowitych i reszt\nuzasadniających poprawność rozumowania,\nz dzielenia nie trudniejsze niż dowód\nodróżnianie dowodu od przykładu.\npodzielności przez  24  iloczynu czterech\nkolejnych liczb naturalnych.\nZasady oceniania\n2 pkt – przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci iloczynu  4𝑛(𝑛+ 1)  oraz\nstwierdzenie, że iloczyn  𝑛(𝑛+ 1)  jest liczbą parzystą\nlub przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  4(𝑛2 + 𝑛)  i uzasadnienie,\nże suma  𝑛2 + 𝑛  jest liczbą parzystą\nALBO\n– przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  2𝑛(2𝑛+ 2)  oraz\nstwierdzenie, że wśród dwóch kolejnych liczb parzystych jedna z nich jest liczbą\npodzielną przez  4,\nALBO\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\n– rozpatrzenie przypadku, gdy  𝑛= 2𝑙  (gdzie  𝑙∈ℕ), tj. przekształcenie wyrażenia\n(2𝑛+ 1)2 −1  do postaci  8𝑙(2𝑙+ 1)  i zapisanie, że iloczyn  𝑙(2𝑙+ 1)  jest liczbą\nnaturalną/całkowitą oraz rozpatrzenie przypadku, gdy  𝑛= 2𝑙+ 1  (gdzie  𝑙∈ℕ),\ntj. przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  8(2𝑙2 + 3𝑙+ 1)  i\nzapisanie, że suma  2𝑙2 + 3𝑙+ 1  jest liczbą naturalną/całkowitą.\n1 pkt – przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  4𝑛(𝑛+ 1)  lub  4(𝑛2 + 𝑛),\nlub  2𝑛(2𝑛+ 2)\nALBO\n– przekształcenie wyrażenia  (2𝑛+ 1)2 −1  do postaci  4𝑛2 + 4𝑛  i stwierdzenie, że\nta suma jest liczbą podzielną przez  4,\nALBO\n– rozpatrzenie przypadku, gdy  𝑛= 2𝑙  (gdzie  𝑙∈ℕ), tj. przekształcenie wyrażenia\n(2𝑛+ 1)2 −1  do postaci  8𝑙(2𝑙+ 1)  i zapisanie, że iloczyn  𝑙(2𝑙+ 1)  jest liczbą\nnaturalną/całkowitą,\nALBO\n– rozpatrzenie przypadku, gdy  𝑛= 2𝑙+ 1  (gdzie  𝑙∈ℕ), tj. przekształcenie\nwyrażenia  (2𝑛+ 1)2 −1  do postaci  8(2𝑙2 + 3𝑙+ 1)  i zapisanie, że suma\n2𝑙2 + 3𝑙+ 1  jest liczbą naturalną/całkowitą.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający sprawdza prawdziwość tezy tylko dla wybranych wartości  𝑛, to otrzymuje\n0 punktów za całe rozwiązanie.\n2. Jeżeli zdający przyjmuje np.  𝑛= 8𝑘+ 𝑟, gdzie  𝑘∈ℕ i  𝑟  jest resztą z dzielenia liczby  𝑛\nprzez  8, i przeprowadzi poprawne rozumowanie dla co najmniej połowy przypadków, ale\nnie przeprowadzi pełnego rozumowania dla wszystkich przypadków, to otrzymuje 1 punkt\nza całe rozwiązanie.\n3. Jeżeli zdający rozpatruje przypadki  𝑛= 2𝑙  oraz  𝑛= 2𝑙+ 1  (gdzie  𝑙∈ℕ) i przekształca\nwyrażenie  (2𝑛+ 1)2 −1  do postaci, odpowiednio,  8𝑙(2𝑙+ 1)  oraz  2𝑙2 + 3𝑙+ 1, ale\nnie zapisze, że  8𝑙(2𝑙+ 1)  oraz  2𝑙2 + 3𝑙+ 1  są liczbami naturalnymi/całkowitymi, to\notrzymuje 1 punkt za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nKorzystając z wzoru skróconego mnożenia, zapisujemy liczbę  (2𝑛+ 1)2 −1  w postaci\n(2𝑛+ 1)2 −1 = 4𝑛2 + 4𝑛+ 1 −1 = 4𝑛(𝑛+ 1)\nPonieważ liczby  𝑛  oraz  𝑛+ 1  są kolejnymi liczbami naturalnymi, to jedna z nich jest liczbą\nparzystą, zatem iloczyn  𝑛(𝑛+ 1)  jest  liczbą parzystą, więc iloczyn  4𝑛(𝑛+ 1)  jest\npodzielny przez  8. To należało wykazać.\nSposób II\nKorzystając z wzoru skróconego mnożenia, zapisujemy liczbę  (2𝑛+ 1)2 −1  w postaci\nZasady oceniania rozwiązań zadań\n(2𝑛+ 1)2 −1 = 4𝑛2 + 4𝑛+ 1 −1 = 4(𝑛2 + 𝑛)\nGdy  𝑛  jest liczbą nieparzystą, to liczba  𝑛2  jest liczbą nieparzystą. Zatem  𝑛2 + 𝑛  jest\nliczbą parzystą jako suma dwóch liczb nieparzystych.\nGdy  𝑛  jest liczbą parzystą, to liczba  𝑛2  jest liczbą parzystą. Zatem  𝑛2 + 𝑛  jest liczbą\nparzystą jako suma dwóch liczb parzystych.\nStąd  4(𝑛2 + 𝑛)  jest liczbą podzielną przez  8. To należało wykazać.\nSposób III\nKorzystając z wzoru skróconego mnożenia, zapisujemy liczbę  (2𝑛+ 1)2 −1  w postaci\n(2𝑛+ 1)2 −1 = [(2𝑛+ 1) −1] ⋅[(2𝑛+ 1) + 1] = 2𝑛⋅(2𝑛+ 2)\nPonieważ liczby  2𝑛  oraz  2𝑛+ 2  są kolejnymi liczbami parzystymi, to jedna z nich jest\nliczbą podzielną przez  4. Zatem iloczyn  2𝑛(2𝑛+ 2)  jest liczbą podzielną przez  2 ⋅4, czyli\nprzez  8. To należało wykazać.\nSposób IV\nRozważmy dwa przypadki: gdy  𝑛  jest liczbą parzystą oraz gdy  𝑛  jest liczbą nieparzystą.\nJeśli  𝑛  jest liczbą parzystą, możemy ją zapisać w postaci  𝑛= 2𝑙, gdzie  𝑙∈ℕ. Wówczas\nbadana liczba ma postać\n(2𝑛+ 1)2 −1 = (2 ⋅2𝑙+ 1)2 −1 = 16𝑙2 + 8𝑙+ 1 −1 = 8𝑙(2𝑙+ 1)\nPonieważ  𝑙∈ℕ, to również iloczyn  𝑙(2𝑙+ 1) jest liczbą naturalną. Zatem iloczyn\n8𝑙(2𝑙+ 1)  jest podzielny przez  8.\nJeśli liczba  𝑛  jest nieparzysta, zapisujemy ją w postaci  𝑛= 2𝑙+ 1, gdzie  𝑙∈ℕ. Wówczas\nbadana liczba ma postać\n(2𝑛+ 1)2 −1 = [2(2𝑙+ 1) + 1]2 −1 = [4𝑙+ 3]2 −1 =\n= 16𝑙2 + 24𝑙+ 9 −1 = 8(2𝑙2 + 3𝑙+ 1)\nPonieważ  𝑙∈ℕ, to również  2𝑙2 + 3𝑙+ 1  jest liczbą naturalną. Zatem iloczyn\n8(2𝑙2 + 3𝑙+ 1)  jest podzielny przez  8. To należało wykazać.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\nZadanie 3.\n1 pkt – zastosowanie wzoru skróconego mnożenia na kwadrat sumy do wyrażenia\n(2𝑛+ 1)2."
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/4.webp",
+   "size": [
+    919,
+    198
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  log9 27 + log9 3  jest równa\nA.  81\nB.  9\nC.  4\nD.  2",
+   "key": "Zadanie 4. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nI.1) wykonuje działania ([…]\n1. Stosowanie obiektów matematycznych\nlogarytmowanie) w zbiorze liczb\ni operowanie nimi, interpretowanie pojęć\nrzeczywistych.\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nC"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/5.webp",
+   "size": [
+    919,
+    195
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDla każdej liczby rzeczywistej  𝑎  wyrażenie  (2𝑎−3)2 −(2𝑎+ 3)2  jest równe\nD.  16𝑎2 −24𝑎\nA.  −24𝑎\nB.  0\nC.  18",
+   "key": "Zadanie 5. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nII.1) stosuje wzory skróconego mnożenia\nreprezentacji.\nna:  (𝑎+ 𝑏)2, (𝑎−𝑏)2, 𝑎2 −𝑏2.\n1. Stosowanie obiektów matematycznych\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA\nB\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/6.webp",
+   "size": [
+    919,
+    311
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nZbiorem wszystkich rozwiązań nierówności\n−2(𝑥+ 3) ≤2 −𝑥\n3\njest przedział\nA.  (−∞, −4]\nB.  (−∞, 4]\nC.  [−4, ∞)\nD.  [4, ∞)",
+   "key": "Zadanie 6. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.3) rozwiązuje nierówności liniowe z jedną\n1. Stosowanie obiektów matematycznych\nniewiadomą.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nC\nA"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/7.webp",
+   "size": [
+    919,
+    206
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nJednym z rozwiązań równania  √3(𝑥2 −2)(𝑥+ 3) = 0  jest liczba\nD.  √2\nA.  3\nB.  2\nC.  √3",
+   "key": "Zadanie 7. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.5) rozwiązuje równania wielomianowe\n1. Stosowanie obiektów matematycznych\npostaci  𝑊(𝑥) = 0  dla wielomianów\ni operowanie nimi, interpretowanie pojęć\ndoprowadzonych do postaci iloczynowej\nmatematycznych.\n[…].\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nD\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r."
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/8.webp",
+   "size": [
+    919,
+    373
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\n(𝑥+1)(𝑥−1)2\n(𝑥−1)(𝑥+1)2 = 0  w zbiorze liczb rzeczywistych\nRównanie\nA.  nie ma rozwiązania.\nB.  ma dokładnie jedno rozwiązanie:  −1.\nC.  ma dokładnie jedno rozwiązanie:  1.\nD.  ma dokładnie dwa rozwiązania:  −1  oraz  1.",
+   "key": "Zadanie 8. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIII.6) rozwiązuje równania wymierne postaci\n1. Stosowanie obiektów matematycznych\n𝑉(𝑥)\n𝑊(𝑥) = 0, gdzie wielomiany  𝑉(𝑥)  i  𝑊(𝑥)\ni operowanie nimi, interpretowanie pojęć\nsą zapisane w postaci iloczynowej.\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA\nA"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 3,
+   "image": "f2023-P-2023-maj/9.webp",
+   "size": [
+    919,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–3)\n9.\n0–1–\nRozwiąż równanie\n2–3\n𝟑𝒙𝟑−𝟐𝒙𝟐−𝟏𝟐𝒙+ 𝟖= 𝟎\nZapisz obliczenia.",
+   "key": "Zadanie 9. (0–3)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n4. Stosowanie i tworzenie strategii przy\nIII.5) rozwiązuje równania wielomianowe\nrozwiązywaniu zadań, również w sytuacjach\npostaci  𝑊(𝑥) = 0  dla wielomianów […]\nnietypowych.\ntakich, które dają się doprowadzić do\npostaci iloczynowej […] metodą\ngrupowania.\nZasady oceniania\n3 pkt – poprawna metoda rozwiązania równania i obliczenie wszystkich rozwiązań równania:\n(−2), 2\n3 , 2\nALBO\n– wyznaczenie wszystkich rozwiązań równania:  (−2), 2\n3 , 2, oraz stwierdzenie, że są\nto jedyne rozwiązania równania.\n2 pkt – przekształcenie lewej strony równania do postaci iloczynu wielomianów stopnia co\nnajwyżej drugiego oraz rozwiązanie jednego z równań wynikającego z tego rozkładu,\nnp.  (3𝑥−2)(𝑥2 −4) = 0  i  𝑥= 2\n3 ,\n(3𝑥−2)(𝑥2 −4) = 0  i  𝑥= −2  oraz  𝑥= 2\nALBO\n– obliczenie jednego z pierwiastków wielomianu  𝑊  oraz poprawne podzielenie\nwielomianu  𝑊  przez odpowiedni dwumian, np.\n𝑥= 2  i  (3𝑥3 −2𝑥2 −12𝑥+ 8): (𝑥−2) = 3𝑥2 + 4𝑥−4,\nZasady oceniania rozwiązań zadań\nALBO\n– rozłożenie wielomianu  𝑊(𝑥) = 3𝑥3 −2𝑥2 −12𝑥+ 8  na czynniki liniowe, np.\n𝑊(𝑥) = (3𝑥−2)(𝑥−2)(𝑥+ 2),\nALBO\n– przekształcenie równania  3𝑥3 −2𝑥2 −12𝑥+ 8 = 0  do postaci alternatywy równań\ni rozwiązanie jednego z nich, np.\n(3𝑥−2 = 0  lub  𝑥2 −4 = 0) i  𝑥= 2  oraz  𝑥= −2.\n1 pkt – przekształcenie lewej strony równania do postaci iloczynu wielomianów stopnia co\nnajwyżej drugiego, np.  (3𝑥−2)(𝑥2 −4) = 0\nALBO\n– zapisanie jednego z rozwiązań równania  3𝑥3 −2𝑥2 −12𝑥+ 8 = 0  (jeśli to\nrozwiązanie nie zostało otrzymane w wyniku zastosowania błędnej metody),\nALBO\n– przekształcenie równania  3𝑥3 −2𝑥2 −12𝑥+ 8 = 0  do postaci alternatywy równań,\nnp.  3𝑥−2 = 0  lub  𝑥2 −4 = 0.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający uzyska trzy poprawne pierwiastki wielomianu, lecz traktuje równanie jako\nnierówność (podaje zbiór rozwiązań w postaci przedziału/ sumy przedziałów), to otrzymuje\n2 punkty za całe rozwiązanie.\n2. Jeżeli zdający przy przekształcaniu lewej strony równania do postaci iloczynu zapisuje\nczynnik  (3𝑥−2)  z wykładnikiem  2, to może otrzymać co najwyżej 2 punkty za całe\nrozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nPrzekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów:\n3𝑥3 −2𝑥2 −12𝑥+ 8 = 0\n𝑥2(3𝑥−2) −4(3𝑥−2) = 0\n(3𝑥−2)(𝑥2 −4) = 0\n(3𝑥−2)(𝑥−2)(𝑥+ 2) = 0\n3𝑥−2 = 0    lub    𝑥−2 = 0    lub    𝑥+ 2 = 0\n𝑥= 2\n3    lub    𝑥= 2   lub    𝑥= −2\nRozwiązaniami równania są liczby:  (−2), 2\n3 , 2.\nSposób II\nPrzekształcamy równanie równoważnie i stosujemy metodę grupowania wyrazów:\n3𝑥3 −2𝑥2 −12𝑥+ 8 = 0\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\n3𝑥(𝑥2 −4) −2(𝑥2 −4) = 0\n(3𝑥−2)(𝑥2 −4) = 0\n(3𝑥−2)(𝑥−2)(𝑥+ 2) = 0\n3𝑥−2 = 0    lub    𝑥−2 = 0    lub    𝑥+ 2 = 0\n𝑥= 2\n3    lub    𝑥= 2   lub    𝑥= −2\nRozwiązaniami równania są liczby:  (−2), 2\n3 , 2.\nSposób III\nObliczamy  𝑊(2) = 0  i stwierdzamy, że liczba  2  jest pierwiastkiem wielomianu\n𝑊(𝑥) = 3𝑥3 −2𝑥2 −12𝑥+ 8.\nZatem wielomian  𝑊  jest podzielny przez dwumian  𝑥−2. Dzielimy wielomian  𝑊  przez\ndwumian  𝑥−2  i otrzymujemy\n(3𝑥3 −2𝑥2 −12𝑥+ 8): (𝑥−2) = 3𝑥2 + 4𝑥−4\nZatem  𝑊(𝑥) = (𝑥−2)(3𝑥2 + 4𝑥−4).\nObliczamy pierwiastki trójmianu  3𝑥2 + 4𝑥−4:\nΔ = 42 −4 ⋅3 ⋅(−4) = 64\n𝑥= −4 −8\n= −2    oraz    𝑥= −4 + 8\n= 2\n3\n2 ⋅3\n2 ⋅3\nRozwiązaniami równania są liczby:  (−2), 2\n3 , 2.\nSposób IV\nObliczamy  𝑊(2) = 0  i stwierdzamy, że liczba  2  jest pierwiastkiem wielomianu\n𝑊(𝑥) = 3𝑥3 −2𝑥2 −12𝑥+ 8.\nObliczamy  𝑊(−2) = 0  i stwierdzamy, że liczba  (−2)  jest pierwiastkiem wielomianu\n𝑊(𝑥) = 3𝑥3 −2𝑥2 −12𝑥+ 8.\nObliczamy  𝑊(2\n3) = 0  i stwierdzamy, że liczba  2\n3  jest pierwiastkiem wielomianu\n𝑊(𝑥) = 3𝑥3 −2𝑥2 −12𝑥+ 8.\nPonieważ  𝑊  jest wielomianem stopnia trzeciego, więc ma co najwyżej trzy pierwiastki\nrzeczywiste. Oznacza to, że jedynymi rozwiązaniami równania  3𝑥3 −2𝑥2 −12𝑥+ 8 = 0\nsą liczby:  (−2), 2\n3 , 2.\nZasady oceniania rozwiązań zadań\nZadanie 9.\n2 pkt – zapisanie dwóch pierwiastków wielomianu  3𝑥3 −2𝑥2 −12𝑥+ 8 (o ile nie zostały\none uzyskane w wyniku błędnej metody).\n1 pkt – przekształcenie wielomianu  3𝑥3 −2𝑥2 −12𝑥+ 8  do postaci\n3(𝑥2 −4) −2(𝑥2 −4)  lub  𝑥2(3𝑥−2) −4(3𝑥−2)."
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/10.webp",
+   "size": [
+    919,
+    952
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\nNa rysunku przedstawiono interpretację geometryczną w kartezjańskim układzie\nwspółrzędnych  (𝑥, 𝑦)  jednego z niżej zapisanych układów równań A–D.\n𝑦\n5\n4\n3\n2\n1\n−5\n−4\n−3\n0\n𝑥\n−2\n−1\n1\n2\n3\n4\n5\n−1\n−2\n−3\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nUkładem równań, którego interpretację geometryczną przedstawiono na rysunku, jest\nA.  { 𝑦= −𝑥+ 2\n𝑦= −2𝑥+ 1\nB.  { 𝑦= 𝑥−2\n𝑦= −2𝑥−1\nC.  { 𝑦= 𝑥−2\n𝑦= 2𝑥+ 1\nD.  { 𝑦= −𝑥+ 2\n𝑦= 2𝑥−1",
+   "key": "Zadanie 10. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIV.1) rozwiązuje układy równań liniowych\n1. Stosowanie obiektów matematycznych\nz dwiema niewiadomymi, podaje\ni operowanie nimi, interpretowanie pojęć\ninterpretację geometryczną układów\nmatematycznych.\noznaczonych […].\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nC"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2023-maj/11.webp",
+   "size": [
+    922,
+    719
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–2)\nDany jest prostokąt o bokach długości  𝑎  i  𝑏, gdzie  𝑎> 𝑏. Obwód tego prostokąta jest\nrówny  30. Jeden z boków prostokąta jest o  5  krótszy od drugiego.\nUzupełnij zdanie. Wybierz dwie właściwe odpowiedzi spośród oznaczonych literami\n11.\nA–F i wpisz te litery w wykropkowanych miejscach.\n0–1–2\nZależności między długościami boków tego prostokąta zapisano w układach równań\noznaczonych literami: ……… oraz ……… .\nA.  { 2𝑎𝑏= 30\n𝑎−𝑏= 5\nB.  { 2𝑎+ 𝑏= 30\n𝑎= 5𝑏\nC.  { 2(𝑎+ 𝑏) = 30\n𝑏= 𝑎−5\nD.  { 2𝑎+ 2𝑏= 30\n𝑏= 5𝑎\nE.  { 2𝑎+ 2𝑏= 30\n𝑎−𝑏= 5\nF.  { 𝑎+ 𝑏= 30\n𝑎= 𝑏+ 5",
+   "key": "Zadanie 11. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIV.2) stosuje układy równań do\n2. Dobieranie i tworzenie modeli\nrozwiązywania zadań tekstowych.\nmatematycznych przy rozwiązywaniu\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n2 pkt – wybranie dwóch odpowiedzi, z których obie są poprawne.\n1 pkt – wybranie jednej lub dwóch odpowiedzi, z których jedna jest poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nCE\nAD\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r."
+  },
+  {
+   "task": "12.1",
+   "num": 12,
+   "sub": 1,
+   "points": 1,
+   "image": "f2023-P-2023-maj/12_1.webp",
+   "size": [
+    919,
+    733
+   ],
+   "stem": "Zadanie 12.\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  narysowano wykres funkcji  𝑦= 𝑓(𝑥)\n(zobacz rysunek).\n𝑦\n5\n4\n3\n2\n1\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−1\n−2\n−3",
+   "text": "Zadanie 12.1. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDziedziną funkcji  𝑓  jest zbiór\nA.  [−6, 5]\nB.  (−6, 5)\nC.  (−3, 5]\nD.  [−3, 5]",
+   "key": "Zadanie 12.1. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nV.4) odczytuje z wykresu funkcji: dziedzinę\ninformacjami przedstawionymi w tekście,\n[…].\nzarówno matematycznym, jak\ni popularnonaukowym, a także w formie\nwykresów, diagramów, tabel.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA\nC"
+  },
+  {
+   "task": "12.2",
+   "num": 12,
+   "sub": 2,
+   "points": 1,
+   "image": "f2023-P-2023-maj/12_2.webp",
+   "size": [
+    919,
+    727
+   ],
+   "stem": "Zadanie 12.\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  narysowano wykres funkcji  𝑦= 𝑓(𝑥)\n(zobacz rysunek).\n𝑦\n5\n4\n3\n2\n1\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−1\n−2\n−3",
+   "text": "Zadanie 12.2. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nNajwiększa wartość funkcji  𝑓  w przedziale  [−4, 1]  jest równa\nA.  0\nB.  1\nC.  2\nD.  5",
+   "key": "Zadanie 12.2. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nV.4) odczytuje z wykresu funkcji: […]\ninformacjami przedstawionymi w tekście,\nnajwiększe […] wartości funkcji (o ile\nzarówno matematycznym, jak\nistnieją) w danym przedziale domkniętym\ni popularnonaukowym, a także w formie\n[…].\nwykresów, diagramów, tabel.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nC\nB\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "12.3",
+   "num": 12,
+   "sub": 3,
+   "points": 1,
+   "image": "f2023-P-2023-maj/12_3.webp",
+   "size": [
+    933,
+    734
+   ],
+   "stem": "Zadanie 12.\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  narysowano wykres funkcji  𝑦= 𝑓(𝑥)\n(zobacz rysunek).\n𝑦\n5\n4\n3\n2\n1\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−1\n−2\n−3",
+   "text": "Zadanie 12.3. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nFunkcja  𝑓  jest malejąca w zbiorze\nA.  [−6, −3)\nB.  [−3, 1]\nC.  (1, 2]\nD.  [2, 5]",
+   "key": "Zadanie 12.3. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nV.4) odczytuje z wykresu funkcji: […]\ninformacjami przedstawionymi w tekście,\nprzedziały monotoniczności […].\nzarówno matematycznym, jak\ni popularnonaukowym, a także w formie\nwykresów, diagramów, tabel.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nB"
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/13.webp",
+   "size": [
+    933,
+    606
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–1)\nFunkcja liniowa  𝑓  jest określona wzorem\n𝑦\n𝑓(𝑥) = 𝑎𝑥+ 𝑏, gdzie  𝑎  i  𝑏  są pewnymi\nliczbami rzeczywistymi. Na rysunku obok\nprzedstawiono fragment wykresu funkcji  𝑓\n1\nw kartezjańskim układzie współrzędnych  (𝑥, 𝑦).\n0\n1\n𝑥\n𝑦= 𝑓(𝑥)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  𝑎  oraz liczba  𝑏  we wzorze funkcji  𝑓  spełniają warunki:\nA.  𝑎> 0  i  𝑏> 0.\nB.  𝑎> 0  i  𝑏< 0.\nC.  𝑎< 0  i  𝑏> 0.\nD.  𝑎< 0  i  𝑏< 0.",
+   "key": "Zadanie 13. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nV.5) interpretuje współczynniki występujące\n1. Stosowanie obiektów matematycznych\nwe wzorze funkcji liniowej.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nC\nD\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r."
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/14.webp",
+   "size": [
+    931,
+    296
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–1)\nJednym z miejsc zerowych funkcji kwadratowej  𝑓  jest liczba  (−5). Pierwsza współrzędna\nwierzchołka paraboli, będącej wykresem funkcji  𝑓, jest równa  3.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDrugim miejscem zerowym funkcji  𝑓  jest liczba\nA.  11\nB.  1\nC.  (−1)\nD.  (−13)",
+   "key": "Zadanie 14. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nV.11) wykorzystuje własności funkcji […]\ninformacjami przedstawionymi w tekście,\nkwadratowej do interpretacji zagadnień\nzarówno matematycznym, jak\ngeometrycznych […].\ni popularnonaukowym, a także w formie\nwykresów, diagramów, tabel.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA\nC"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/15.webp",
+   "size": [
+    919,
+    260
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\nCiąg  (𝑎𝑛)  jest określony wzorem  𝑎𝑛= 2𝑛⋅(𝑛+ 1)  dla każdej liczby naturalnej  𝑛≥1.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWyraz  𝑎4  jest równy\nA.  64\nB.  40\nC.  48\nD.  80",
+   "key": "Zadanie 15. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVI.1) oblicza wyrazy ciągu określonego\n1. Stosowanie obiektów matematycznych\nwzorem ogólnym.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nC\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/16.webp",
+   "size": [
+    919,
+    257
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\nTrzywyrazowy ciąg  (27, 9, 𝑎−1)  jest geometryczny.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nLiczba  𝑎  jest równa\nA.  3\nB.  0\nC.  4\nD.  2",
+   "key": "Zadanie 16. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVI.6) wykorzystuje własności ciągów, w tym\n2. Dobieranie i tworzenie modeli\n[…] geometrycznych, do rozwiązywania\nmatematycznych przy rozwiązywaniu\nzadań […].\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nC\nB"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2023-maj/17.webp",
+   "size": [
+    922,
+    173
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–2)\nPan Stanisław spłacił pożyczkę w wysokości  8910 zł w osiemnastu ratach. Każda kolejna\nrata była mniejsza od poprzedniej o  30 zł.\nOblicz kwotę pierwszej raty. Zapisz obliczenia.\n17.\n0–1–2",
+   "key": "Zadanie 17. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVI.4) stosuje wzór na  𝑛-ty wyraz i na sumę\n2. Dobieranie i tworzenie modeli\n𝑛  początkowych wyrazów ciągu\nmatematycznych przy rozwiązywaniu\narytmetycznego.\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody i obliczenie pierwszej raty:  750 zł.\n1 pkt – zastosowanie wzoru na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego\ni zapisanie równania z niewiadomą  𝑎1  (pierwszą ratą):\n2𝑎1 + 17 ⋅(−30)\n⋅18 = 8910\n2\nALBO\n– zastosowanie wzoru na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego\noraz zapisanie równania z niewiadomą  𝑎1:\n2𝑎1+17⋅30\n⋅18 = 8910  i zapisanie, że  𝑎1  jest ostatnią ratą,\n2\nALBO\n– zapisanie równania\n𝑎1 + (𝑎1 −30) + (𝑎1 −2 ⋅30) + (𝑎1 −3 ⋅30) + ⋯+ (𝑎1 −17 ⋅30) = 8910,\ngdzie  𝑎1  jest pierwszą ratą, lub równania\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\n𝑎1 + (𝑎1 + 30) + (𝑎1 + 2 ⋅30) + (𝑎1 + 3 ⋅30) + ⋯+ (𝑎1 + 17 ⋅30) = 8910\n(łącznie z zapisem, że  𝑎1  jest ostatnią ratą),\nALBO\n– zapisanie zależności między pierwszą  (𝑎1)  i ostatnią ratą  (𝑎18), np.\n𝑎1 + 𝑎18 = 8910 ∶9  albo  𝑎18 = 𝑎1 −17 ⋅30  itp.,\nALBO\n– rozpatrzenie osiemnastowyrazowego ciągu arytmetycznego o różnicy  (−30)  lub  30\ni zapisanie co najmniej pierwszego oraz ostatniego wyrazu tego ciągu, np.\n(𝑥, 𝑥−30, 𝑥−60, …, 𝑥−510)  dla dowolnego  𝑥  (np. jak w sposobie V),\nALBO\n– zapisanie układu równań, z którego można obliczyć jedną z rat, np.\n𝑎9+𝑎10\n= 495  i  𝑎10 = 𝑎9 −30.\n2\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający myli ciąg arytmetyczny z geometrycznym, to otrzymuje 0 punktów za całe\nrozwiązanie, o ile nie nabył prawa do innej liczby punktów.\n2. Jeżeli zdający zapisze tylko  750 zł, to otrzymuje 1 punkt za całe rozwiązanie.\n3. Jeżeli zdający rozważa ciąg arytmetyczny o różnicy  𝑟= 30, obliczy  𝑎1 = 240  i nie\ninterpretuje  𝑎1  jako ostatniej raty, to może otrzymać co najwyżej 1 punkt za całe\nrozwiązanie.\n4. Jeżeli zdający błędnie interpretuje liczbę  8910  jako wyraz ciągu rat, to otrzymuje\n0 punktów za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nKolejne raty tworzą ciąg arytmetyczny, w którym  𝑆18 = 8910  i  𝑟= −30. Korzystamy ze\nwzoru na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego i otrzymujemy równanie\n2𝑎1 + 17 ⋅(−30)\n⋅18 = 8910\n2\nPrzekształcając to równanie równoważnie, otrzymujemy\n9(2𝑎1 −510) = 8910\n2𝑎1 −510 = 990\n𝑎1 = 750\nPierwsza rata była równa  750 zł.\nSposób II\nPrzyjmujemy, że kolejne (licząc od końca) raty tworzą ciąg arytmetyczny, w którym\n𝑆18 = 8910  i  𝑟= 30. Korzystamy ze wzoru na sumę  𝑛  początkowych wyrazów ciągu\narytmetycznego i otrzymujemy równanie\nZasady oceniania rozwiązań zadań\n2𝑎1 + 17 ⋅30\n⋅18 = 8910\n2\nPrzekształcając to równanie równoważnie, otrzymujemy\n9(2𝑎1 + 510) = 8910\n2𝑎1 + 510 = 990\n𝑎1 = 240\nOstatnia rata była równa  240 zł.\nObliczamy wysokość pierwszej raty\n𝑎18 = 240 + 17 ⋅30 = 750\nPierwsza rata była równa  750 zł.\nSposób III\nKolejne kwoty, o które pomniejszana jest pierwsza rata, tworzą ciąg arytmetyczny, w którym\nróżnica jest równa  30. Wtedy osiemnasta rata jest mniejsza od pierwszej raty o kwotę\n(18 −1) ⋅30 = 510 zł.\nStąd\n𝑎1 + (𝑎1 −30) + (𝑎1 −60) + (𝑎1 −90)+. . . +(𝑎1 −510) = 8910\n18𝑎1 −(30 + 60 + 90+. . . +510) = 8910\ngdzie suma siedemnastu liczb  30 + 60 + 90+. . . +510  jest równa\n30 + 510\n⋅17 = 4590\n2\nZatem\n18𝑎1 −4590 = 8910\n18𝑎1 = 13500\n𝑎1 = 750\nPierwsza rata była równa  750 zł.\nSposób IV\nKolejne raty tworzą ciąg arytmetyczny, zatem\n𝑎1 + 𝑎18 = 𝑎2 + 𝑎17 = 𝑎3 + 𝑎16 =. . . = 𝑎9 + 𝑎10\nObliczamy wartość pojedynczej sumy\n𝑎1 + 𝑎18 = 8910: 9 = 990\nKorzystając ze wzoru na 𝑛-ty wyraz ciągu arytmetycznego, mamy\n𝑎1 + 𝑎1 −17 ⋅30 = 990\n2𝑎1 = 990 + 510\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\n𝑎1 = 750\nPierwsza rata była równa  750 zł.\nSposób V\nPrzyjmujemy, że pierwsza rata była równa  1000 zł. Wtedy kolejne raty są równe:\n970  zł,  940 zł, … , 490 zł.\nSuma wszystkich rat jest równa  13 410 zł  i przewyższa kwotę z warunków zadania\no  4500 zł.\nObliczamy, o ile należy zmniejszyć każdą ratę:\n4500 ∶18 = 250\n1000 −250 = 750\nPierwsza rata była równa  750 zł.\nSposób VI\nKolejne raty są wyrazami osiemnastowyrazowego ciągu arytmetycznego  (𝑎𝑛)  o różnicy\n𝑟= −30. Obliczymy dowolną ratę (np. dziewiątą), korzystając z własności tego ciągu:\n{(𝑎9 + 𝑎10) ⋅9 = 8910\n𝑎10 = 𝑎9 −30                             {𝑎9 + 𝑎10 = 990\n𝑎9 −𝑎10 = 30\n2𝑎9 = 1020             𝑎9 = 510\nZatem\n𝑎1 = 𝑎9 −8 ⋅(−30) = 510 + 240 = 750\nPierwsza rata była równa  750 zł.\nZasady oceniania rozwiązań zadań\nZadanie 17.\nStosuje się zasady oceniania arkusza standardowego."
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/18.webp",
+   "size": [
+    928,
+    608
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  zaznaczono kąt  𝛼  o wierzchołku\nw punkcie  𝑂= (0, 0). Jedno z ramion tego kąta pokrywa się z dodatnią półosią  𝑂𝑥,\na drugie przechodzi przez punkt  𝑃= (−3, 1)  (zobacz rysunek).\n𝑦\n2\n𝑃= ሺ−3, 1ሻ\n1\n𝛼\n𝑂\n𝑥\n−3\n−2\n−1\n1\n2\n3\n−1\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nTangens kąta  𝛼  jest równy\nA.  1\nB.  (−3\nC.  (−3\nD.  (−1\n√10\n√10)\n1)\n3)",
+   "key": "Zadanie 18. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nVII.1) wykorzystuje definicje funkcji […]\n1. Stosowanie obiektów matematycznych\ntangens dla kątów od  0°  do  180° […].\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nC"
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/19.webp",
+   "size": [
+    928,
+    228
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDla każdego kąta ostrego  𝛼  wyrażenie  sin4 𝛼 + sin2 𝛼 ⋅cos2 𝛼  jest równe\nA.  sin2 𝛼\nB.  sin6 𝛼 ⋅cos2 𝛼\nC.  sin4 𝛼+ 1\nD.  sin2 𝛼⋅(sin 𝛼+ cos 𝛼) ⋅(sin 𝛼−cos 𝛼)",
+   "key": "Zadanie 19. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nVII.2) korzysta z wzorów\nsin2 𝛼+ cos2 𝛼= 1, […].\nkilkuetapowych, podawanie argumentów\nuzasadniających poprawność rozumowania,\nodróżnianie dowodu od przykładu.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA\nB\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r."
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/20.webp",
+   "size": [
+    919,
+    263
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\nW rombie o boku długości  6√2  kąt rozwarty ma miarę  150°.\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nIloczyn długości przekątnych tego rombu jest równy\nA.  24\nB.  72\nC.  36\nD.  36√2",
+   "key": "Zadanie 20. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nII. Wykorzystanie i tworzenie informacji.\nZdający:\n1. Interpretowanie i operowanie\nVIII.4) korzysta z własności kątów\ninformacjami przedstawionymi w tekście,\ni przekątnych w […] rombach […].\nzarówno matematycznym, jak\ni popularnonaukowym, a także w formie\nwykresów, diagramów, tabel.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nB\nD"
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/21.webp",
+   "size": [
+    919,
+    530
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (0–1)\nPunkty  𝐴, 𝐵, 𝐶  leżą na okręgu o środku w punkcie  𝑂.\nKąt  𝐴𝐶𝑂  ma miarę  70°  (zobacz rysunek).\n𝐵\n𝑂\n70°\nDokończ zdanie.\n𝐶\nWybierz właściwą odpowiedź spośród podanych.\n𝐴\nMiara kąta ostrego  𝐴𝐵𝐶  jest równa\nA.  10°\nB.  20°\nC.  35°\nD.  40°",
+   "key": "Zadanie 21. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n1. Przeprowadzanie rozumowań, także\nVIII.5) stosuje własności kątów wpisanych\nkilkuetapowych, podawanie argumentów\ni środkowych.\nuzasadniających poprawność rozumowania,\nodróżnianie dowodu od przykładu.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nB\nC\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2023-maj/22.webp",
+   "size": [
+    919,
+    177
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (0–2)\nTrójkąty prostokątne  𝑇1  i  𝑇2  są podobne. Przyprostokątne trójkąta  𝑇1  mają\ndługości  5  i  12. Przeciwprostokątna trójkąta  𝑇2  ma długość  26.\nOblicz pole trójkąta  𝑻𝟐. Zapisz obliczenia.\n22.\n0–1–2",
+   "key": "Zadanie 22. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n4. Stosowanie i tworzenie strategii przy\nVIII.8) korzysta z cech podobieństwa\nrozwiązywaniu zadań, również w sytuacjach\ntrójkątów.\nnietypowych.\nZasady oceniania\n2 pkt – poprawna metoda i obliczenie pola trójkąta  𝑇2:  𝑃2 = 120.\n1 pkt – wykorzystanie podobieństwa trójkątów i zapisanie układu równań/równania\npozwalającego obliczyć długości przyprostokątnych trójkąta  𝑇2 , np.\n𝑎2\n𝑏2 = 12\n2 + 𝑏2\n2 = 262,  (12𝑥)2 + (5𝑥)2 = 262\n5  i  𝑎2\nALBO\n2\n2\n– zapisanie stosunku pól trójkątów  𝑇1  i  𝑇2:  𝑃1\n(lub  𝑃2\n|𝐵𝐶|\n𝑃1 = ( 26\n) oraz\n𝑃2 = (\n26 )\n|𝐵𝐶|)\nobliczenie długości odcinka  𝐵𝐶:  |𝐵𝐶| = 13,\nALBO\n|𝐸𝐹|\n– obliczenie/zapisanie skali podobieństwa trójkątów, np.  𝑘=\n|𝐵𝐶| = 2\n|𝐵𝐶|\n|𝐸𝐹| = 1\n(lub  𝑘=\n2),\nALBO\n– obliczenie/zapisanie długości przyprostokątnych trójkąta  𝑇2 : 10, 24,\nALBO\n– obliczenie długości  𝑐1  przeciwprostokątnej trójkąta  𝑇1  oraz zapisanie układu\nrównań pozwalającego obliczyć długości  𝑎2, 𝑏2  przyprostokątnych trójkąta  𝑇2, np.\n𝑐1 = 13  i  13\n12 = 26\ni  13\n5 = 26\n.\n𝑎2\n𝑏2\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązania\nSposób I\nDługości przyprostokątnych trójkątów  𝑇1  i  𝑇2  oznaczymy odpowiednio jako:  𝑎1, 𝑏1  oraz\n𝑎2, 𝑏2 . Z podobieństwa trójkątów  𝑇1  i  𝑇2  wynika, że stosunki odpowiednich boków są\nrówne:\n𝑎2\n= 𝑎1\ngdzie   𝑎1 = 12,   𝑏1 = 5\n𝑏2\n𝑏1\nZatem\n𝑎2\n= 12\n5   więc    𝑏2 = 5\n12 𝑎2\n𝑏2\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\nZ twierdzenia Pitagorasa dla trójkąta  𝑇2  mamy:\n2 + 𝑏2\n2 = 262\n𝑎2\n2\n2 + ( 5\n2 = 262\n𝑎2\n12)\n𝑎2\n169\n2 = 262\n144 𝑎2\n𝑎2 = √144\n169 ⋅26 = 24\nZatem  𝑏2 = 5\n12 ⋅24 = 10.\nObliczamy pole trójkąta  𝑇2:\n𝑃2 = 1\n2 ⋅𝑎2 ⋅𝑏2 = 1\n2 ⋅24 ⋅10 = 120\nSposób II\nOznaczamy wierzchołki trójkąta  𝑇1  przez  𝐴, 𝐵, 𝐶, gdzie  𝐵𝐶  jest przeciwprostokątną tego\ntrójkąta, |𝐴𝐵| = 12  i  |𝐴𝐶| = 5. Oznaczamy wierzchołki trójkąta  𝑇2  przez  𝐷, 𝐸, 𝐹, gdzie\n𝐸𝐹  jest przeciwprostokątną tego trójkąta.\nZ twierdzenia Pitagorasa dla trójkąta  𝑇1  mamy\n𝐵\n𝐸\n|𝐴𝐵|2 + |𝐴𝐶|2 = |𝐵𝐶|2\n122 + 52 = |𝐵𝐶|2\n12\n|𝐵𝐶|2 = 169\n26\n|𝐵𝐶| = 13\n𝐶\n𝐴\n5\nObliczamy skalę podobieństwa trójkąta  𝑇2  do trójkąta  𝑇1:\n𝑘= |𝐸𝐹|\n|𝐵𝐶| = 26\n13 = 2\nObliczamy długości przyprostokątnych trójkąta  𝑇2:\n𝐹\n𝐷\n|𝐷𝐸| = 2 ⋅|𝐴𝐵| = 2 ⋅12 = 24\n|𝐷𝐹| = 2 ⋅|𝐴𝐶| = 2 ⋅5 = 10\nObliczamy pole trójkąta  𝑇2:\n𝑃2 = 1\n2 ⋅|𝐷𝐸| ⋅|𝐷𝐹| = 1\n2 ⋅24 ⋅10 = 120\nZasady oceniania rozwiązań zadań\nSposób III\nOznaczamy wierzchołki trójkąta  𝑇1  przez  𝐴, 𝐵, 𝐶, gdzie  𝐵𝐶  jest przeciwprostokątną tego\ntrójkąta, |𝐴𝐵| = 12  i  |𝐴𝐶| = 5. Oznaczamy wierzchołki trójkąta  𝑇2  przez  𝐷, 𝐸, 𝐹, gdzie\n𝐸𝐹  jest przeciwprostokątną tego trójkąta.\n𝐸\n𝐵\nZ twierdzenia Pitagorasa dla trójkąta  𝑇1  mamy\n|𝐴𝐵|2 + |𝐴𝐶|2 = |𝐵𝐶|2\n12\n122 + 52 = |𝐵𝐶|2\n26\n|𝐵𝐶|2 = 169\n𝐶\n𝐴\n5\n|𝐵𝐶| = 13\nObliczamy skalę podobieństwa trójkąta  𝑇2  do trójkąta  𝑇1:\n𝑘= |𝐸𝐹|\n|𝐵𝐶| = 26\n13 = 2\n𝐹\n𝐷\nObliczamy pole  𝑃1  trójkąta  𝑇1:\n𝑃1 = 1\n2 ⋅|𝐴𝐵| ⋅|𝐴𝐶| = 1\n2 ⋅12 ⋅5 = 30\nKorzystając z tego, że stosunek pól figur podobnych jest równy kwadratowi skali\npodobieństwa, obliczamy pole  𝑃2  trójkąta  𝑇2:\n𝑃2\n= 𝑘2\n𝑃1\nZatem\n𝑃2 = 𝑘2 ⋅𝑃1 = 22 ⋅30 = 120\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\nZadanie 22.\n1 pkt – obliczenie długości  𝑐1  przeciwprostokątnej trójkąta  𝑇1  oraz wykorzystanie\npodobieństwa trójkątów i zapisanie związku między długościami przyprostokątnych\ntrójkąta  𝑇2 : 𝑐1 = 13  i  𝑎2\n𝑏2 = 12\n5\nALBO\n– obliczenie długości  𝑐1  przeciwprostokątnej trójkąta  𝑇1  oraz zapisanie równania\npozwalającego obliczyć długość jednej z przyprostokątnych trójkąta  𝑇2, np.\n𝑐1 = 13  i  13\n12 = 26\n,  𝑐1 = 13  i  13\n5 = 26\n.\n𝑎2\n𝑏2\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/23.webp",
+   "size": [
+    923,
+    578
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  dane są proste  𝑘  oraz  𝑙  o równaniach\n𝑘:   𝑦= 2\n3 𝑥\n𝑙:   𝑦= −3\n2 𝑥+ 13\nDokończ zdanie. Wybierz odpowiedź A albo B oraz odpowiedź 1., 2. albo 3.\nProste  𝑘  oraz  𝑙\n1.\n(−6, −4)\nA.\nsą prostopadłe\ni przecinają się w punkcie  𝑃  o współrzędnych\n2.\n(6, 4)\nnie są\nB.\nprostopadłe\n3.\n(−6, 4)",
+   "key": "Zadanie 23. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIV. Rozumowanie i argumentacja.\nZdający:\n3. Dobieranie argumentów do uzasadnienia\nIX.1) rozpoznaje wzajemne położenie\npoprawności rozwiązywania problemów,\nprostych na płaszczyźnie na podstawie ich\ntworzenie ciągu argumentów,\nrównań, w tym znajduje wspólny punkt\ngwarantujących poprawność rozwiązania\ndwóch prostych, jeśli taki istnieje.\ni skuteczność w poszukiwaniu rozwiązań\nzagadnienia.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nA2\nA3"
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/24.webp",
+   "size": [
+    919,
+    448
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–1)\nW kartezjańskim układzie współrzędnych  (𝑥, 𝑦)  dana jest prosta  𝑘  o równaniu\n𝑦= −1\n3 𝑥+ 2\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nProsta o równaniu  𝑦= 𝑎𝑥+ 𝑏  jest równoległa do prostej  𝑘  i przechodzi przez\npunkt  𝑃= (3, 5), gdy\nB.  𝑎= −1\nA.  𝑎= 3  i  𝑏= 4.\n3  i  𝑏= 4.\nD.  𝑎= −1\nC.  𝑎= 3  i  𝑏= −4.\n3  i  𝑏= 6.",
+   "key": "Zadanie 24. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nIX.2) posługuje się równaniem prostej na\n1. Stosowanie obiektów matematycznych\npłaszczyźnie w postaci kierunkowej, w tym\ni operowanie nimi, interpretowanie pojęć\nwyznacza równanie prostej o zadanych\nmatematycznych.\nwłasnościach (takich jak na przykład […]\nrównoległość […] do innej prostej […]).\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nD\nB\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/25.webp",
+   "size": [
+    919,
+    344
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (0–1)\nDany jest graniastosłup prawidłowy czworokątny, w którym krawędź podstawy ma\ndługość  15. Przekątna graniastosłupa jest nachylona do płaszczyzny podstawy pod\n√2\nkątem  𝛼  takim, że  cos 𝛼=\n3 .\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nDługość przekątnej tego graniastosłupa jest równa\nA.  15√2\nB.  45\nC.  5√2\nD.  10",
+   "key": "Zadanie 25. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymagania szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nX.2) posługuje się pojęciem kąta między\n2. Dobieranie i tworzenie modeli\nprostą a płaszczyzną;\nmatematycznych przy rozwiązywaniu\nX.3) rozpoznaje w graniastosłupach […]\nproblemów praktycznych i teoretycznych.\nkąty między odcinkami (np. krawędziami,\nkrawędziami i przekątnymi) […].\nVII.4) oblicza kąty trójkąta i długości jego\nboków przy odpowiednich danych\n(rozwiązuje trójkąty […]).\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nB\nD"
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 4,
+   "image": "f2023-P-2023-maj/26.webp",
+   "size": [
+    951,
+    434
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (0–4)\nDany jest ostrosłup prawidłowy czworokątny. Wysokość ściany bocznej tego ostrosłupa jest\nnachylona do płaszczyzny podstawy pod kątem  30°  i ma długość równą  6  (zobacz rysunek).\n6\n30°\nOblicz objętość i pole powierzchni całkowitej tego ostrosłupa. Zapisz obliczenia.\n26.\n0–1–\n2–3–4",
+   "key": "Zadanie 26. (0–4)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nX.4) oblicza objętości i pola powierzchni […]\n3. Tworzenie pomocniczych obiektów\nostrosłupów, również z wykorzystaniem\nmatematycznych na podstawie istniejących,\ntrygonometrii i poznanych twierdzeń.\nw celu przeprowadzenia argumentacji lub\nrozwiązania problemu.\nZasady oceniania\n4 pkt – poprawna metoda obliczenia objętości i pola powierzchni całkowitej ostrosłupa oraz\npoprawne wyniki:  𝑉= 108  i  𝑃𝑐= 108 + 72√3.\n3 pkt – obliczenie objętości ostrosłupa:  𝑉= 108\nALBO\n– obliczenie pola powierzchni całkowitej ostrosłupa:  𝑃𝑐= 108 + 72√3  oraz\nobliczenie wysokości ostrosłupa:  𝐻= 3.\n2 pkt – obliczenie/zapisanie długości krawędzi podstawy:  𝑎= 6√3  oraz  obliczenie\nwysokości ostrosłupa:  𝐻= 3\nALBO\n– obliczenie pola powierzchni całkowitej ostrosłupa:  𝑃𝑐= 108 + 72√3.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\n1 pkt – obliczenie/zapisanie długości krawędzi podstawy:  𝑎= 6√3\nALBO\n– obliczenie wysokości ostrosłupa:  𝐻= 3.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający przyjmuje w rozwiązaniu, że trójkąt  𝐸𝑆𝑂  lub  𝐵𝑆𝐷, lub jedna ze ścian\nbocznych ostrosłupa jest trójkątem równobocznym i wykorzystuje to do obliczenia długości\nkrawędzi podstawy, to otrzymuje 0 punktów za całe rozwiązanie (o ile nie nabył prawa do\nuzyskania 1 punktu za obliczenie wysokości ostrosłupa).\n2. Jeżeli jedynym błędem zdającego jest:\na) zastosowanie niepoprawnej definicji jednej funkcji trygonometrycznej\nb) błędne zastosowanie twierdzenia Pitagorasa\nc) zastosowanie niepoprawnej tożsamości  √𝑥2 + 𝑦2 = 𝑥+ 𝑦\nd) przyjęcie, że wysokość ostrosłupa jest równa  3√3  i  |𝑂𝐸| = 3,\ni rozwiązanie zostanie doprowadzone konsekwentnie do końca, to zdający może otrzymać\n2 punkty za całe rozwiązanie.\nJeżeli zdający popełni więcej niż jeden z wymienionych błędów a)–d), to otrzymuje\n0 punktów za całe rozwiązanie.\nPrzykładowe pełne rozwiązanie\n𝑆\nPrzyjmujemy oznaczenia jak na rysunku:\n𝑎 – długość krawędzi podstawy,\n𝐶\n𝐵\n𝐻\n6\n𝐻 – wysokość ostrosłupa.\n30°\nZauważamy, że  𝑎> 0  i  𝐻> 0.\n𝐸\n𝑂\nPonieważ  𝑂  jest punktem przecięcia\nprzekątnych kwadratu, to  |𝑂𝐸| = 1\n𝐷\n𝐴\n𝑎\n2 𝑎.\nW trójkącie prostokątnym  𝑆𝑂𝐸  mamy\n𝑆\nsin 30° = |𝑆𝑂|\n|𝑆𝐸| = 𝐻\n6\n6\n𝐻\n30°\nZatem\n𝑂\n𝐸\n1\n2 𝑎\n𝐻= 6 ⋅sin 30° = 6 ⋅1\n2 = 3\nPonadto\n1\n2 𝑎\n|𝑂𝐸|\n6 = 𝑎\n12\ncos 30° =\n|𝑆𝐸| =\nStąd\n𝑎= 12 ⋅cos 30° = 12 ⋅√3\n2 = 6√3\nZasady oceniania rozwiązań zadań\nObliczamy objętość  𝑉  ostrosłupa:\n𝑉= 1\n2 ⋅3 = 108\n3 ⋅(6√3)\nObliczamy pole powierzchni całkowitej  𝑃𝑐  ostrosłupa:\n2 + 4 ⋅1\n2 ⋅6√3 ⋅6 = 108 + 72√3\n𝑃𝑐= (6√3)\nZadanie 26.\n1 pkt – zastosowanie definicji funkcji trygonometrycznej lub związków miarowych w trójkącie\no kątach  30°, 60°, 90°  i zapisanie równania z jedną niewiadomą (wysokością\n|𝑂𝐸|\n= cos 30°, 𝐻\n6 = 1\nostrosłupa lub połową długości krawędzi podstawy), np.\n2 .\n6"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/27.webp",
+   "size": [
+    942,
+    347
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–1)\nW pewnym ostrosłupie prawidłowym stosunek liczby  𝑊  wszystkich wierzchołków do\nliczby  𝐾  wszystkich krawędzi jest równy  𝑊\n𝐾= 3\n5 .\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nPodstawą tego ostrosłupa jest\nA.  kwadrat.\nB.  pięciokąt foremny.\nC.  sześciokąt foremny.\nD.  siedmiokąt foremny.",
+   "key": "Zadanie 27. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nWykonywanie obliczeń na liczbach\nXI.1) zlicza obiekty w prostych sytuacjach\nrzeczywistych, także przy użyciu\nkombinatorycznych.\nkalkulatora, stosowanie praw działań\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nB\nB\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 1,
+   "image": "f2023-P-2023-maj/28.webp",
+   "size": [
+    942,
+    228
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–1)\nDokończ zdanie. Wybierz właściwą odpowiedź spośród podanych.\nWszystkich liczb naturalnych pięciocyfrowych, w których zapisie dziesiętnym występują tylko\ncyfry  0, 5, 7  (np.  57 075, 55 555), jest\nA.  53\nB.  2 ⋅43\nC.  2 ⋅34\nD.  35",
+   "key": "Zadanie 28. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nXI.1) zlicza obiekty w prostych sytuacjach\n1. Stosowanie obiektów matematycznych\nkombinatorycznych.\ni operowanie nimi, interpretowanie pojęć\nmatematycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nC\nA"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2023-maj/29.webp",
+   "size": [
+    926,
+    945
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–2)\nNa diagramie poniżej przedstawiono ceny pomidorów w szesnastu wybranych sklepach.\n6\n5\n4\nliczba\n3\nsklepów\n2\n1\n0\n5,05\n5,60\n5,70\n6,00\n6,30\ncena za 1 kg pomidorów (w zł)\nUzupełnij tabelę. Wpisz w każdą pustą komórkę tabeli właściwą odpowiedź, wybraną\n29.\nspośród oznaczonych literami A–E.\n0–1–2\nMediana ceny kilograma pomidorów w tych wybranych sklepach jest\n29.1.\nrówna\nŚrednia cena kilograma pomidorów w tych wybranych sklepach jest\n29.2.\nrówna\nA.  5,80  zł\nB.  5,73  zł\nC.  5,85  zł\nD.  6,00  zł\nE.  5,70  zł",
+   "key": "Zadanie 29. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nWykonywanie obliczeń na liczbach\nXII.2) oblicza średnią arytmetyczną i […]\nrzeczywistych, także przy użyciu\nznajduje medianę […].\nkalkulatora, stosowanie praw działań\nmatematycznych przy przekształcaniu\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n2 pkt – wybranie dwóch poprawnych odpowiedzi.\n1 pkt – wybranie jednej poprawnej odpowiedzi.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\n29.1. C\n29.1. B\n29.2. A\n29.2. E\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2023-P-2023-maj/30.webp",
+   "size": [
+    919,
+    206
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–2)\nZe zbioru ośmiu liczb  {2, 3, 4, 5, 6, 7, 8, 9}  losujemy ze zwracaniem kolejno dwa razy po\njednej liczbie.\nOblicz prawdopodobieństwo zdarzenia  𝑨  polegającego na tym, że iloczyn\n30.\nwylosowanych liczb jest podzielny przez  𝟏𝟓. Zapisz obliczenia.\n0–1–2",
+   "key": "Zadanie 30. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nXII.1) oblicza prawdopodobieństwo\n2. Dobieranie i tworzenie modeli\nw modelu klasycznym.\nmatematycznych przy rozwiązywaniu\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody obliczenia prawdopodobieństwa zdarzenia  𝐴\ni uzyskanie poprawnego wyniku:  𝑃(𝐴) = 6\n64 .\n1 pkt – wypisanie wszystkich zdarzeń elementarnych lub obliczenie/podanie liczby tych\nzdarzeń:  |Ω| = 8 ⋅8  lub sporządzenie tabeli o 64 polach odpowiadających\nzdarzeniom elementarnym, z których co najmniej jedno pole jest wypełnione, lub\nsporządzenie pełnego drzewa stochastycznego\nALBO\n– wypisanie (zaznaczenie w tabeli) wszystkich zdarzeń elementarnych sprzyjających\nzdarzeniu  𝐴  i  niewypisanie żadnego niewłaściwego:\n(3, 5), (5, 3), (6, 5), (5, 6), (5, 9), (9, 5),\nALBO\n– podanie liczby wszystkich zdarzeń elementarnych sprzyjających zdarzeniu  𝐴:\n|𝐴| = 6, jeśli nie została otrzymana w wyniku zastosowania błędnej metody,\nALBO\n– sporządzenie fragmentu drzewa stochastycznego, które zawiera wszystkie gałęzie\nsprzyjające zdarzeniu  𝐴  oraz zapisanie prawdopodobieństwa  1\n8  na co najmniej\njednym odcinku każdego z etapów doświadczenia,\nALBO\n– podanie prawdopodobieństwa jednoelementowego zdarzenia (elementarnego):  1\n64 ,\nALBO\n– zapisanie tylko  𝑃(𝐴) = 6\n64 .\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwaga:\nJeżeli zdający zapisuje tylko liczby  6  lub  64  i z rozwiązania nie wynika znaczenie tych\nliczb, to otrzymuje 0 punktów za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nZbiór wszystkich zdarzeń elementarnych obrazuje tabela  8 × 8, co oznacza, że moc zbioru\nΩ  jest równa  64.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\nW tabeli zaznaczamy iloczyny podzielne przez  15.\n2\n3\n4\n5\n6\n7\n8\n9\n2\n3\n×\n4\n5\n×\n×\n×\n6\n×\n7\n8\n9\n×\nZdarzeń sprzyjających wylosowaniu liczb, których iloczyn jest podzielny przez  15, jest  6.\nZatem prawdopodobieństwo zdarzenia polegającego na wylosowaniu liczb, których iloczyn\njest podzielny przez  15, jest równe  6\n64 .\nSposób II (drzewo stochastyczne)\nRysujemy fragment drzewa stochastycznego rozważanego doświadczenia z uwzględnieniem\nwszystkich istotnych gałęzi.\nOznaczamy przez  𝐴  zdarzenie polegające na tym, że iloczyn wylosowanych liczb jest\npodzielny przez  15.\n1\n1\n1\n1\n8\n8\n8\n8\n3\n5\n6\n9\n1\n1\n1\n1\n1\n1\n8\n8\n8\n8\n8\n8\n5\n3\n6\n9\n5\n5\nPrawdopodobieństwo zdarzenia  𝐴  jest równe\n𝑃(𝐴) = 1\n8 ∙1\n8 + 1\n8 ∙1\n8 + 1\n8 ∙1\n8 + 1\n8 ∙1\n8 + 1\n8 ∙1\n8 + 1\n8 ∙1\n8 = 6\n64\nZasady oceniania rozwiązań zadań\nSposób III\nZbiór wszystkich zdarzeń elementarnych  Ω  to zbiór par uporządkowanych elementów ze\nzbioru 8-elementowego, zatem moc zbioru  Ω  jest równa  |Ω| = 8 ⋅8 = 64.\nOznaczamy przez  𝐴  zdarzenie polegające na tym, że iloczyn wylosowanych liczb jest\npodzielny przez  15.\nWielokrotności liczby  15, które mogą być iloczynami elementów ze zbioru  Ω, to  15, 30, 45.\nWyznaczamy iloczyny, które spełniają powyższy warunek:\n15 = 3 ⋅5 = 5 ⋅3  – dwa iloczyny – dwa zdarzenia elementarne:  (3, 5)  oraz  (5, 3),\n30 = 6 ⋅5 = 5 ⋅6  – dwa iloczyny – dwa zdarzenia elementarne:  (6, 5)  oraz  (5, 6),\n45 = 9 ⋅5 = 5 ⋅9  – dwa iloczyny – dwa zdarzenia elementarne:  (9, 5)  oraz  (5, 9).\nSprzyjających zdarzeń elementarnych jest  6, więc  𝑃(𝐴) = 6\n64 .\nZadanie 30.\n1 pkt – zapisanie jedynie liczby  64  (należy traktować to jako wyznaczenie liczby wszystkich\nzdarzeń elementarnych).\nUwagi:\n1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi ze\nstandardowych zasad oceniania.\n2. Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające\nzdarzeniu  𝐴, lecz popełni błąd w ich zliczeniu (|𝐴| = 5) i konsekwentnie zapisze\nwynik  5\n64 , to otrzymuje 2 punkty."
+  },
+  {
+   "task": "31.1",
+   "num": 31,
+   "sub": 1,
+   "points": 1,
+   "image": "f2023-P-2023-maj/31_1.webp",
+   "size": [
+    931,
+    527
+   ],
+   "stem": "Zadanie 31.\nWłaściciel pewnej apteki przeanalizował dane dotyczące liczby obsługiwanych klientów\nz  30  kolejnych dni. Przyjmijmy, że liczbę  𝐿  obsługiwanych klientów  𝑛-tego dnia opisuje\nfunkcja\n𝐿(𝑛) = −𝑛2 + 22𝑛+ 279\ngdzie  𝑛  jest liczbą naturalną spełniającą warunki  𝑛≥1  i  𝑛≤30.",
+   "text": "Zadanie 31.1. (0–1)\nOceń prawdziwość poniższych stwierdzeń. Wybierz P, jeśli stwierdzenie jest\nprawdziwe, albo F – jeśli jest fałszywe.\nŁączna liczba klientów obsłużonych w czasie wszystkich analizowanych dni\nP\nF\njest równa  𝐿(30).\nW trzecim dniu analizowanego okresu obsłużono  336  klientów.\nP\nF",
+   "key": "Zadanie 31.1. (0–1)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymagania szczegółowe\nI. Sprawność rachunkowa.\nZdający:\nWykonywanie obliczeń na liczbach\nV.3) […] interpretuje wartości funkcji\nrzeczywistych, także przy użyciu\nokreślonych za pomocą […] wzorów […];\nkalkulatora, stosowanie praw działań\nV.2) oblicza wartość funkcji zadanej wzorem\nmatematycznych przy przekształcaniu\nalgebraicznym.\nwyrażeń algebraicznych oraz\nwykorzystywanie tych umiejętności przy\nrozwiązywaniu problemów w kontekstach\nrzeczywistych i teoretycznych.\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.\nRozwiązanie\nWersja A\nWersja B\nFP\nFP\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r."
+  },
+  {
+   "task": "31.2",
+   "num": 31,
+   "sub": 2,
+   "points": 2,
+   "image": "f2023-P-2023-maj/31_2.webp",
+   "size": [
+    931,
+    363
+   ],
+   "stem": "Zadanie 31.\nWłaściciel pewnej apteki przeanalizował dane dotyczące liczby obsługiwanych klientów\nz  30  kolejnych dni. Przyjmijmy, że liczbę  𝐿  obsługiwanych klientów  𝑛-tego dnia opisuje\nfunkcja\n𝐿(𝑛) = −𝑛2 + 22𝑛+ 279\ngdzie  𝑛  jest liczbą naturalną spełniającą warunki  𝑛≥1  i  𝑛≤30.",
+   "text": "Zadanie 31.2. (0–2)\n31.2.\nKtórego dnia analizowanego okresu w aptece obsłużono największą liczbę klientów?\n0–1–2\nOblicz liczbę klientów obsłużonych tego dnia. Zapisz obliczenia.",
+   "key": "Zadanie 31.2. (0–2)\nWymagania egzaminacyjne 2023 i 2024\nWymaganie ogólne\nWymaganie szczegółowe\nIII. Wykorzystanie i interpretowanie\nZdający:\nreprezentacji.\nXIII) rozwiązuje zadania optymalizacyjne\n2. Dobieranie i tworzenie modeli\nw sytuacjach dających się opisać funkcją\nmatematycznych przy rozwiązywaniu\nkwadratową.\nproblemów praktycznych i teoretycznych.\nZasady oceniania\n2 pkt – poprawna metoda rozwiązania zadania oraz poprawne wyniki:  11  i  400.\n1 pkt – wyznaczenie postaci kanonicznej funkcji  𝐿:  𝐿(𝑛) = −(𝑛−11)2 + 400\nALBO\n– obliczenie, którego dnia analizowanego okresu w aptece obsłużono największą liczbę\nklientów lub obliczenie największej liczby klientów: 11  lub  400,\nALBO\n– obliczenie pierwszej współrzędnej  𝑝  wierzchołka paraboli z własności\n𝐿(𝑘1) = 𝐿(𝑘2), gdzie  𝑘1, 𝑘2  są różnymi liczbami takimi, że  |𝑝−𝑘1| = |𝑝−𝑘2|:\n𝑝= 𝑘1 + 𝑘2\n= 11\n2\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający błędnie oblicza pierwszą współrzędną wierzchołka paraboli,\ni konsekwentnie do popełnionego błędu oblicza drugą współrzędną, to może otrzymać\n1 punkt za całe rozwiązanie (o ile pierwsza współrzędna jest liczbą należącą do\ndziedziny).\n2. Jeżeli zdający nie zapisze, że  11  należy do dziedziny funkcji  𝐿, to może otrzymać\n2 punkty za całe rozwiązanie.\n3. Jeżeli zdający oblicza największą wartość funkcji  𝐿, korzystając z rachunku\nróżniczkowego, i nie zapisze przedziałów monotoniczności funkcji, to może otrzymać\n2 punkty za całe rozwiązanie (gdy wyznaczy pochodną funkcji  𝐿(𝑥)  określoną dla\n𝑥∈[1, 30], obliczy miejsce zerowe pochodnej funkcji  𝐿(𝑥)  i wartość funkcji  𝐿  w tym\npunkcie).\n4. Jeżeli zdający oblicza  𝐿(11) = 400  i  𝐿(11 −𝑘) = 𝐿(11 + 𝑘), gdzie  𝑘≠0, i wskaże\nwartość największą, to może otrzymać 2 punkty za całe rozwiązanie.\n5. Jeżeli zdający zapisze tylko  𝐿(11) = 400, to otrzymuje 1 punkt.\nPrzykładowe pełne rozwiązania\nSposób I\nWykresem funkcji  𝐿(𝑛) = −𝑛2 + 22𝑛+ 279, gdzie  𝑛  jest liczbą naturalną z przedziału\n[1, 30], jest zbiór punktów leżących na paraboli o ramionach skierowanych w dół.\nPrzekształcamy wzór funkcji  𝐿  do postaci kanonicznej:\nZasady oceniania rozwiązań zadań\n𝐿(𝑛) = −𝑛2 + 22𝑛+ 279 = −[𝑛2 −22𝑛] + 279 = −[(𝑛−11)2 −112] + 279 =\n= −(𝑛−11)2 + 121 + 279 = −(𝑛−11)2 + 400\nZ postaci kanonicznej odczytujemy współrzędne wierzchołka paraboli:  𝑊= (11, 400).\nInterpretujemy otrzymane wartości: największą liczbę klientów obsłużono jedenastego dnia\nbadanego okresu i było to  400  osób.\nSposób II\nWykresem funkcji  𝐿(𝑛) = −𝑛2 + 22𝑛+ 279, gdzie  𝑛  jest liczbą naturalną z przedziału\n[1, 30], jest zbiór punktów leżących na paraboli o ramionach skierowanych w dół. Jej\nnajwiększa wartość jest drugą współrzędną wierzchołka paraboli  𝑊= (𝑝, 𝑞).\nStąd\n−22\n2 ⋅(−1) = 11,     11 ∈{1, 2, … , 30}\n𝑝=\n𝑞= 𝐿(𝑝) = −112 + 22 ⋅11 + 279 = 400\nNajwiększą liczbę klientów obsłużono jedenastego dnia badanego okresu i było to\n400  osób.\nSposób III\nWykorzystamy następującą własność funkcji kwadratowej  𝐿(𝑥) = −𝑥2 + 22𝑥+ 279.\nJeśli  𝐿(𝑘1) = 𝐿(𝑘2), to liczba\n𝑘1 + 𝑘2\n2\njest pierwszą współrzędną wierzchołka paraboli będącej wykresem funkcji  𝐿. Jeśli ponadto\nwspółczynnik przy  𝑥2  jest liczbą ujemną, to liczba\n𝐿(𝑘1 + 𝑘2\n)\n2\njest największą wartością funkcji  𝐿.\nWykonujemy obliczenia – szukamy argumentów, dla których funkcja przyjmuje tę samą\nwartość:\n𝐿(9) = 396\n𝐿(10) = 399\n𝐿(11) = 400\n𝐿(12) = 399\nZauważamy, że  𝐿(10) = 𝐿(12). Ponieważ\n10 + 12\n= 11      oraz      11 ∈{1, … 30}\n2\nEgzamin maturalny z matematyki na poziomie podstawowym – termin główny 2023 r.\nwięc funkcja  𝐿  przyjmuje wartość największą równą  400  dla argumentu  11. To oznacza,\nże największą liczbę klientów obsłużono jedenastego dnia badanego okresu i było to\n400  osób.\nZasady oceniania rozwiązań zadań\nOcena prac osób ze stwierdzoną dyskalkulią\nObowiązują zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej\ndyskalkulii z dodatkowym uwzględnieniem:\nI. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze\nstwierdzoną dyskalkulią (punkty 1.–12.);\nII. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy\nosób ze stwierdzoną dyskalkulią – egzamin maturalny z matematyki, poziom\npodstawowy, termin główny 2023.\nI. Ogólne zasady oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną\ndyskalkulią\n1. Nie należy traktować jako błędy merytoryczne pomyłek, wynikających z:\n•\nbłędnego przepisania\n•\nprzestawienia cyfr\n•\nzapisania innej cyfry, ale o podobnym wyglądzie\n•\nprzestawienia położenia przecinka.\n2. W przypadku błędów, wynikających ze zmiany znaku liczby, należy w każdym zadaniu\noddzielnie przeanalizować, czy zdający opanował inne umiejętności, poza\numiejętnościami rachunkowymi, oceniane w zadaniu. W przypadku opanowania\nbadanych umiejętności zdający powinien otrzymać przynajmniej 1 punkt.\n3. We wszystkich zadaniach otwartych, w których wskazano poprawną metodę\nrozwiązania, części lub całości zadania, zdającemu należy przyznać przynajmniej\n1 punkt, zgodnie z kryteriami do poszczególnych zadań.\n4. Jeśli zdający przedstawia nieprecyzyjne zapisy, na przykład pomija nawiasy lub\nzapisuje nawiasy w niewłaściwych miejscach, ale przeprowadza poprawne\nrozumowanie lub stosuje właściwą strategię, to może otrzymać przynajmniej 1 punkt\nza rozwiązanie zadania.\n5. W przypadku zadania wymagającego wyznaczenia pierwiastków trójmianu\nkwadratowego zdający może otrzymać 1 punkt, jeżeli przedstawi poprawną metodę\nwyznaczania pierwiastków trójmianu kwadratowego, przy podanych w treści zadania\nwartościach liczbowych.\n6. W przypadku zadania wymagającego rozwiązania nierówności kwadratowej zdający\nmoże otrzymać 1 punkt, jeżeli stosuje poprawny algorytm rozwiązywania nierówności\nkwadratowej, przy podanych w treści zadania wartościach liczbowych.\n7. W przypadku zadania wymagającego stosowania własności funkcji kwadratowej\nzdający może otrzymać 1 punkt za wykorzystanie konkretnych własności funkcji\nkwadratowej, istotnych przy poszukiwaniu rozwiązania.\n8. W "
+  }
+ ]
+}

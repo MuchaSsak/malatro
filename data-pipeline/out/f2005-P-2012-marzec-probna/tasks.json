@@ -1,0 +1,478 @@
+{
+ "exam": {
+  "id": "f2005-P-2012-marzec-probna",
+  "formula": "2005",
+  "level": "P",
+  "year": 2012,
+  "session": "probna",
+  "month": "03",
+  "code": null,
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2012-marzec-probna-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2012-marzec-probna-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2005-P-2012-marzec-probna.pdf",
+  "keyFile": "f2005-P-2012-marzec-probna-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "CKE 'arkusz cwiczeniowy' marzec 2012 (P only); not on cke.gov.pl; arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 22,
+  "keyPages": 19,
+  "examBytes": 452367,
+  "keyBytes": 327949
+ },
+ "keyHead": "Materiał ćwiczeniowy z matematyki\nMarzec 2012\nKlucz punktowania do zadań zamkniętych\noraz\nschemat oceniania do zadań otwartych\nPOZIOM PODSTAWOWY\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nKlucz punktowania do zadań zamkniętych\nNr zad 1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21\nOdp.\nD B A C B\nB A A D\nC\nC\nD\nC\nA\nA\nA\nC\nB B B D\nSchemat oceniania do zadań otwartych\nZadanie 22. (2 pkt)\n\n\n\n\n3\nx\n2\n3\nx\n36\n0\n.\nRozwiąż nierówność\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap może być realizowany na 2 sposoby:\nI sposób rozwiązania (realizacja pierwszego etapu)\n\n2\n\n\nZnajdujemy pierwiastki trójmianu kwadratowego\n3\nx\n3\nx\n36\n obliczamy wyróżnik tego trójmianu:\n\n\n3\n21\n3\n21\n\n\n\n\n\n\n\n9\n432\n441\ni stąd\nx\n4\n,\nx\n3\n1\n\n2\n\n6\n6\nalbo\n stosujemy wzory Viète’a:\n\n oraz\n\n\nx \nx \nx\nx\n1\nx\nx\n12\ni stąd\n4\noraz\n3\n1\n2\n1\n2\n1\n2\nalbo\n podajemy  je bezpośrednio (explicite lub zapisując postać iloczynową trójmianu lub\nzaznaczając na wykresie)\nx \nx \n4\n,\n3\n1\n2\nlub\n\n\n\n\n\n\n\n3\nx\n4\nx\n3\n0\nlub\ny\nx\n\n4\n3\n2\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nII sposób rozwiązania (realizacja pierwszego etapu)\nWyznaczamy postać kanoniczną trójmianu kwadratowego\n2\n\n1\n\n147\n\n\n\n\n3\nx\n0\n\n\n\n2\n\n4\na następnie\n przekształcamy nierówność, tak by jej lewa strona była zapisana w postaci\niloczynowej\n\n\n2\n\n1\n\n49\n\n\n\n\n3\n\nx\n\n0\n\n\n\n2\n\n4\n\n\n\n\n\n1\n7\n\n1\n7\n\n\n\n\n\n\n\n\n3\nx\nx\n0\n\n\n\n\n2\n2\n\n2\n2\n\n\n\n\n\n\n\n\nx\n4\nx\n3\n\n0\n3\nDrugi etap rozwiązania:\n\nPodajemy zbiór rozwiązań nierówności\n.\n3, 4\nSchemat oceniania\nZdający otrzymuje ............................................................................................................ 1 pkt\ngdy:\n zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\nx \nx  i na tym\no obliczy lub poda pierwiastki trójmianu kwadratowego\n4\n,\n3\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\n\n\n2\n\n\no zaznaczy na wykresie miejsca zerowe funkcji\nf x\n3\nx\n3\nx\n36\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\n\n\n\n\n\n\n\no rozłoży trójmian kwadratowy na czynniki liniowe, np.\n3\nx\n4\nx\n3\ni na\ntym poprzestanie lub błędnie rozwiąże nierówność\n realizując pierwszy etap, popełni błąd (ale otrzyma dwa różne pierwiastki)\ni konsekwentnie do tego rozwiąże nierówność, np.\no popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków\ntrójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże\nnierówność\n\n\no błędnie zapisze równania wynikające ze wzorów Viète’a:\nx\nx\n1\n1\n2\n\n\ni\ni konsekwentnie do tego rozwiąże nierówność\nx\nx\n12\n1\n2\nZdający otrzymuje ............................................................................................................ 2 pkt\ngdy:\n poda zbiór rozwiązań nierówności :\n\n\n\nx\n3, 4\nlub\n3, 4\nlub 3\nx\n4\nalbo\n sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx ,\nx \nnierówności w postaci\n3\n4\n3\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nalbo\n poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\n\n3\n4\nUwagi\nx  i\n1. Jeżeli zdający poprawnie obliczy pierwiastki trójmianu\n3\nx \n4\ni zapisze\n1\n2\nx\n3, 4\n, popełniając tym samym błąd przy przepisywaniu jednego z pierwiastków, to za\ntakie rozwiązanie otrzymuje 2 punkty.\n2. Jeżeli błąd zdającego w obliczeniu pierwiastków trójmianu nie wynika z wykonywanych\nprzez niego czynności (zdający rozwiązuje „swoje zadanie”), to otrzymuje 0 punktów za\ncałe zadanie.\nZadanie 23. (2 pkt)\n\n2\nx\nb\n\n\n\nx \n.\nFunkcja f jest określona wzorem\nf x\ndla\n9\n. Ponadto wiemy, że\nf\n4\n1\n\nx\n9\nOblicz współczynnik b.\nRozwiązanie\n\n2 4\nb\n\n zapisujemy w postaci równania z niewiadomą b:\n\nWarunek\nf\n4\n1\n1\n.\n\n4\n9\n\nRozwiązujemy to równanie i obliczamy współczynnik b:\nb\n3\n.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\n\n2 4\nb\n\ngdy poprawnie zapisze równanie z niewiadomą b, np.\n1",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/1.webp",
+   "size": [
+    950,
+    148
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nLiczbę 32 można przedstawić w postaci\nA. 8 2\nB. 12 3\nC. 4 8\nD. 4 2",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/2.webp",
+   "size": [
+    950,
+    200
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\n5\n\ny\n\nPotęga\n(gdzie x i y są różne od zera) jest równa\n\n\n\nx\n\n\n5\n5\n\n\n5y\n\n\n5 x\nx\nx\n\n\nA.\nB.\nC.\nx\nD.\n\n\n\ny\ny\ny\n\n\n\n",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/3.webp",
+   "size": [
+    950,
+    174
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n1\nLiczba\nlog 27 jest równa\n3\n1\n1\n\n\nA.\n3\nB.\nC. 3\nD. 3\n3",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/4.webp",
+   "size": [
+    950,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\n\nWyrażenie\nx\n1\ndla x < 0 jest równe\n\n\n\n\n\n\nA.\nx\n1\nB.\nx\n1\nC.\nx\n1\nD.\nx\n1",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/5.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\nW pewnym sklepie ceny wszystkich płyt CD obniżono o 20%. Zatem za dwie płyty kupione\nw tym sklepie należy zapłacić mniej o\nA. 10%\nB. 20%\nC. 30%\nD. 40%",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/6.webp",
+   "size": [
+    950,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\n\n2\nWielomian\n4\nx\n100\njest równy\nA. \n\nB. \n\n\n\n\n\n\n\n2\n2\n\n\n\n\n\n\n2\nx\n10\n2\nx\n10\n2\nx\n10\nC.\n4\nx\n10\nD.\n4\nx\n10\nx\n10",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/7.webp",
+   "size": [
+    950,
+    201
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\n\n2\nx\n36\n\nRównanie\n0\n\nx\n6\nA.  nie ma rozwiązań.\nB. ma dokładnie jedno rozwiązanie.\nC. ma dokładnie dwa rozwiązania.\nD. ma dokładnie trzy rozwiązania.",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/8.webp",
+   "size": [
+    947,
+    134
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\nNajwiększą liczbą całkowitą spełniającą nierówność \n\n\n\n\n2\n\n\n\n\n4\nx\nx\n4\nx\n4\njest\n\n\n\n\nA.\n5\nB.\n4\nC.\n3\nD.\n2",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/9.webp",
+   "size": [
+    947,
+    267
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\n1\n\n\n\nFunkcja liniowa\nf x\nx\n6\n2\nA. jest malejąca i jej wykres przechodzi przez punkt \n\n0,6 .\nB. jest rosnąca i jej wykres przechodzi przez punkt \n\n0,6 .\nC. jest malejąca i jej wykres przechodzi przez punkt \n\n\n0,\n6\n.\nD. jest rosnąca i jej wykres przechodzi przez punkt \n\n\n0,\n6\n.",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/10.webp",
+   "size": [
+    947,
+    144
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\nsą rozwiązaniami równania \n\n\n\n\n\n2\n\n2\nLiczby\nx\n1, x\n4\nx\n2\nx\n6\n0\n. Suma\nx\nx jest równa\n2\n1\n2\nA. 16\nB.  32\nC. 40\nD. 48",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/11.webp",
+   "size": [
+    947,
+    652
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\n\ny \nNa rysunku jest przedstawiony wykres funkcji\nf\nx\n.\ny\n\n\n\n\nx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nZbiorem wartości tej funkcji jest\n\n\n\n\n\n\n\n\n\nA.\n,4\n3\nB.\n,4\n1\n,1\n3\nC.\n,4\n1\n,1\n3\nD.\n,5\n6",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/12.webp",
+   "size": [
+    947,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\n\n\n\ncos\nsin\n\n\n\n\n\n\nW trójkącie prostokątnym dane są kąty ostre:\n27\ni\n63\n. Wtedy\nrówna się\n\ncos\n\n\nB. sin 63\nA. 1 sin 63\nC. 1\nD. 2",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/13.webp",
+   "size": [
+    950,
+    168
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nCiąg arytmetyczny \n\n\n\nna\njest określony wzorem\nna\n2\nn\n1\ndla\nn\n1\n. Różnica tego ciągu\njest równa\n\n\nA.\n1\nB. 1\nC.\n2\nD. 3",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/14.webp",
+   "size": [
+    950,
+    199
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\n3\n3\nW ciągu geometrycznym \n\n\n\na\ndane są\na\ni\na\n. Wtedy wyraz\n1a jest równy\nn\n2\n3\n2\n2\n1\n1\n3\n3\n\n\nA.\nB.\nC.\nD.\n3\n2\n2\n2",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/15.webp",
+   "size": [
+    950,
+    165
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\n\n\n\n\n\n\nDane są punkty\nA\n6, 1\ni\nB\n3,3\n. Współczynnik kierunkowy prostej AB jest równy\n2\n3\nC. 3\nD. 2\n\n\nA.\nB.\n2\n3\n3\n2",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/16.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nPole prostokąta jest równe 40. Stosunek długości jego boków jest równy 2:5. Dłuższy bok\ntego prostokąta jest równy\nA. 10\nB. 8\nC. 7\nD. 6",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/17.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\nDany jest trójkąt prostokątny o przyprostokątnych 5 i 12. Promień okręgu opisanego na tym\ntrójkącie jest równy\nA. 12\nB. 8,5\nC. 6,5\nD. 5",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/18.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nDane są dwa okręgi o promieniach 12 i 17. Mniejszy okrąg przechodzi przez środek\nwiększego okręgu. Odległość między środkami tych okręgów jest równa\nA. 5\nB.  12\nC. 17\nD. 29",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/19.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nStożek powstał w wyniku obrotu trójkąta prostokątnego o przyprostokątnych 13 i 15 wokół\ndłuższej przyprostokątnej. Promień podstawy tego stożka jest równy\nA. 15\nB. 13\nC. 7,5\nD. 6,5",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/20.webp",
+   "size": [
+    950,
+    1043
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\nDany jest sześcian ABCDEFGH. Siatką ostrosłupa czworokątnego ABCDE jest\nH\nG\nE\nF\nC\nD\nA\nB\nA.\nB.\nC.\nD.",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2012-marzec-probna/21.webp",
+   "size": [
+    950,
+    191
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\nJeżeli A jest zdarzeniem losowym oraz A jest zdarzeniem przeciwnym do zdarzenia A\n\n\n\nP A\n\ni\nP A\n5\n, to prawdopodobieństwo zdarzenia A jest równe\nA. 4\n1\nC. 1\nD. 5\n5\nB.\n5\n6\n6",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/22.webp",
+   "size": [
+    950,
+    85
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (2 pkt)\n\n2\n\n\n\nRozwiąż nierówność\n3\nx\n3\nx\n36\n0\n.",
+   "key": "Zadanie 22. (2 pkt)\n\n\n\n\n3\nx\n2\n3\nx\n36\n0\n.\nRozwiąż nierówność\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap może być realizowany na 2 sposoby:\nI sposób rozwiązania (realizacja pierwszego etapu)\n\n2\n\n\nZnajdujemy pierwiastki trójmianu kwadratowego\n3\nx\n3\nx\n36\n obliczamy wyróżnik tego trójmianu:\n\n\n3\n21\n3\n21\n\n\n\n\n\n\n\n9\n432\n441\ni stąd\nx\n4\n,\nx\n3\n1\n\n2\n\n6\n6\nalbo\n stosujemy wzory Viète’a:\n\n oraz\n\n\nx \nx \nx\nx\n1\nx\nx\n12\ni stąd\n4\noraz\n3\n1\n2\n1\n2\n1\n2\nalbo\n podajemy  je bezpośrednio (explicite lub zapisując postać iloczynową trójmianu lub\nzaznaczając na wykresie)\nx \nx \n4\n,\n3\n1\n2\nlub\n\n\n\n\n\n\n\n3\nx\n4\nx\n3\n0\nlub\ny\nx\n\n4\n3\n2\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nII sposób rozwiązania (realizacja pierwszego etapu)\nWyznaczamy postać kanoniczną trójmianu kwadratowego\n2\n\n1\n\n147\n\n\n\n\n3\nx\n0\n\n\n\n2\n\n4\na następnie\n przekształcamy nierówność, tak by jej lewa strona była zapisana w postaci\niloczynowej\n\n\n2\n\n1\n\n49\n\n\n\n\n3\n\nx\n\n0\n\n\n\n2\n\n4\n\n\n\n\n\n1\n7\n\n1\n7\n\n\n\n\n\n\n\n\n3\nx\nx\n0\n\n\n\n\n2\n2\n\n2\n2\n\n\n\n\n\n\n\n\nx\n4\nx\n3\n\n0\n3\nDrugi etap rozwiązania:\n\nPodajemy zbiór rozwiązań nierówności\n.\n3, 4\nSchemat oceniania\nZdający otrzymuje ............................................................................................................ 1 pkt\ngdy:\n zrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\nx \nx  i na tym\no obliczy lub poda pierwiastki trójmianu kwadratowego\n4\n,\n3\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\n\n\n2\n\n\no zaznaczy na wykresie miejsca zerowe funkcji\nf x\n3\nx\n3\nx\n36\ni na tym\npoprzestanie lub błędnie zapisze zbiór rozwiązań nierówności\n\n\n\n\n\n\n\no rozłoży trójmian kwadratowy na czynniki liniowe, np.\n3\nx\n4\nx\n3\ni na\ntym poprzestanie lub błędnie rozwiąże nierówność\n realizując pierwszy etap, popełni błąd (ale otrzyma dwa różne pierwiastki)\ni konsekwentnie do tego rozwiąże nierówność, np.\no popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków\ntrójmianu kwadratowego i konsekwentnie do popełnionego błędu rozwiąże\nnierówność\n\n\no błędnie zapisze równania wynikające ze wzorów Viète’a:\nx\nx\n1\n1\n2\n\n\ni\ni konsekwentnie do tego rozwiąże nierówność\nx\nx\n12\n1\n2\nZdający otrzymuje ............................................................................................................ 2 pkt\ngdy:\n poda zbiór rozwiązań nierówności :\n\n\n\nx\n3, 4\nlub\n3, 4\nlub 3\nx\n4\nalbo\n sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx ,\nx \nnierówności w postaci\n3\n4\n3\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nalbo\n poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\n\n3\n4\nUwagi\nx  i\n1. Jeżeli zdający poprawnie obliczy pierwiastki trójmianu\n3\nx \n4\ni zapisze\n1\n2\nx\n3, 4\n, popełniając tym samym błąd przy przepisywaniu jednego z pierwiastków, to za\ntakie rozwiązanie otrzymuje 2 punkty.\n2. Jeżeli błąd zdającego w obliczeniu pierwiastków trójmianu nie wynika z wykonywanych\nprzez niego czynności (zdający rozwiązuje „swoje zadanie”), to otrzymuje 0 punktów za\ncałe zadanie."
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/23.webp",
+   "size": [
+    950,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (2 pkt)\n\n2\nx\nb\n\n\n\nx \n.\nFunkcja f jest określona wzorem\nf x\ndla\n9\n. Ponadto wiemy, że\nf\n4\n1\n\nx\n9\nOblicz współczynnik b.",
+   "key": "Zadanie 23. (2 pkt)\n\n2\nx\nb\n\n\n\nx \n.\nFunkcja f jest określona wzorem\nf x\ndla\n9\n. Ponadto wiemy, że\nf\n4\n1\n\nx\n9\nOblicz współczynnik b.\nRozwiązanie\n\n2 4\nb\n\n zapisujemy w postaci równania z niewiadomą b:\n\nWarunek\nf\n4\n1\n1\n.\n\n4\n9\n\nRozwiązujemy to równanie i obliczamy współczynnik b:\nb\n3\n.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\n\n2 4\nb\n\ngdy poprawnie zapisze równanie z niewiadomą b, np.\n1\n.\n\n4\n9\nZdający otrzymuje ............................................................................................................2 pkt\nb \ngdy obliczy współczynnik\n3\n.\n4\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012"
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/24.webp",
+   "size": [
+    950,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (2 pkt)\nPodstawy trapezu prostokątnego mają długości 6 i 10 oraz tangens kąta ostrego jest równy 3.\nOblicz pole tego trapezu.",
+   "key": "Zadanie 24. (2 pkt)\nPodstawy trapezu prostokątnego mają długości 6 i 10 oraz tangens kąta ostrego jest równy 3.\nOblicz pole tego trapezu.\nRozwiązanie\n6\nObliczamy wysokość trapezu h, korzystając\nz faktu, że tangens kąta ostrego jest równy 3:\nh \nh \n3\n, stąd\n12\n.\nh\n4\nZatem pole trapezu jest równe\n\n\n\n\n6 10 12\n\n\n\n\n96\n.\n2\n6\n4\nSchemat oceniania\nZdający otrzymuje ............................................................................................................ 1 pkt\ngdy:\n obliczy wysokość trapezu\nh \n12\ni na tym poprzestanie lub błędnie obliczy pole\nalbo\n obliczy wysokość trapezu z błędem rachunkowym i konsekwentnie do popełnionego\nbłędu obliczy pole trapezu.\nZdający otrzymuje ............................................................................................................ 2 pkt\nP \ngdy poprawnie obliczy pole trapezu\n96\n."
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/25.webp",
+   "size": [
+    950,
+    496
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (2 pkt)\nTrójkąt ABC przedstawiony na poniższym rysunku jest równoboczny, a punkty B, C, N są\n\n\nwspółliniowe. Na boku AC wybrano punkt M tak, że AM\nCN\n. Wykaż, że BM\nMN\n.\nN\nC\nM\nA\nB",
+   "key": "Zadanie 25. (2 pkt)\nTrójkąt ABC przedstawiony na poniższym rysunku jest równoboczny, a punkty B, C, N są\n\n\nwspółliniowe. Na boku AC wybrano punkt M tak, że AM\nCN\n. Wykaż, że BM\nMN\n.\nN\nC\nM\nA\nB\n5\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nI sposób rozwiązania\nN\nC\nM\nD\nA\nB\nRysujemy odcinek MD równoległy do odcinka AB.\nUzasadniamy, że trójkąty BDM  i  MCN są przystające na podstawie cechy bkb:\n\n\n\nBD\nCN\n, bo BD\nAM\n\n\nMD\nCM\n, bo trójkąt MDC jest równoboczny\n\n\n\n\nBDM\n120\n\nNCM\n\nZatem BM\nMN\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy napisze, że trójkąty BDM i MCN są przystające i wyprowadzi stąd wniosek,\n\nże BM\nMN\n.\nZdający otrzymuje ............................................................................................................2 pkt\ngdy poprawnie uzasadni, że trójkąty BDM i MCN są przystające i wyprowadzi stąd wniosek,\n\nże BM\nMN\n.\nUwaga\nZdający może też dorysować odcinek MD\n\nBC\ni analogicznie pokazać, że trójkąty\nBMD i MNC są przystające.\nII sposób rozwiązania\n2\nZ twierdzenia cosinusów dla trójkąta ABM obliczamy\nBM :\n2\n2\n2\n\n\n\n\n\n\nBM\nAM\nAB\n2\nAM\nAB\ncos60\n1\n2\n2\n\n\n\n\n\n\nAM\nAB\n2\nAM\nAB\n2\n2\n2\n\n\n\n\nAM\nAB\nAM\nAB\n.\n6\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\n2\nZ twierdzenia cosinusów dla trójkąta MCN obliczamy\nMN :\n2\n2\n2\n\n\n\n\n\n\nMN\nMC\nCN\n2\nMC\nCN\ncos120\nCN \n\n1\n2\n2\n\n\n\n\n\n\nMC\nCN\n2\nMC\n\n\n\n2\n\n2\n2\n\n\n\n\nMC\nCN\nMC\nCN\n\n\n\nPonieważ AM\nCN\ni  MC\nAB\nAM\n, więc\n\n\n\n\n2\n2\n2\n\n\n\n\n\n\n\nMN\nAB\nAM\nAM\nAB\nAM\nAM\n2\n2\n2\n2\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\nAB\nAM\n2\nAB\nAM\nAM\nAB\nAM\nAM\nAB\nAM\nAB\nAM\n.\n2\n2\n\n\nZatem\nBM\nMN\n, czyli BM\nMN\n.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ............................................................................................................ 1 pkt\ngdy korzystając z twierdzenia cosinusów, obliczy kwadraty długości odcinków BM i MN.\nZdający otrzymuje ............................................................................................................ 2 pkt\n\ngdy poprawnie uzasadni, że BM\nMN\n."
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/26.webp",
+   "size": [
+    950,
+    113
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\nLiczby 64, ,4\nx\nsą odpowiednio pierwszym, drugim i trzecim wyrazem malejącego ciągu\ngeometrycznego. Oblicz piąty wyraz tego ciągu.",
+   "key": "Zadanie 26. (2 pkt)\nLiczby64, ,4\nx\nsą odpowiednio pierwszym, drugim i trzecim wyrazem malejącego ciągu\ngeometrycznego. Oblicz piąty wyraz tego ciągu.\nI sposób rozwiązania\nKorzystając ze wzoru na trzeci wyraz ciągu geometrycznego obliczamy q iloraz ciągu:\n\n\n2\n4\n64 q\n1\nq \n2\n16\n1\n1\nq \nq \nlub\n.\n4\n4\n1\nq \nPonieważ ciąg jest malejący, to\n.\n4\n64,16,4,1, 4 , zatem piąty wyraz ciągu jest równy 1\n1\nObliczamy kolejne wyrazy ciągu:\n4 .\nII sposób rozwiązania\nx \n2\n\nx \n2\nx \nZ własności ciągu geometrycznego wynika, że\n64 4\n. Stąd\n256\n, czyli\n16\nx \nx \nlub\n16\n. Ponieważ ciąg geometryczny jest malejący, to\n16\n, a iloraz tego ciągu q jest\nrówny 1\n1\n4 . Obliczamy kolejne wyrazy ciągu:\n64,16,4,1, 4 , zatem piąty wyraz ciągu jest\nrówny 1\n4 .\nUwaga\n4\n\n\n3\n1\n4\n1\n\n\n\nZdający może obliczyć piąty wyraz ciągu korzystając ze wzoru:\n64\n.\n\n\n4\n\n4\n\n4\n4\n7\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\n1\nq \ngdy obliczy iloraz ciągu:\n.\n4\nZdający otrzymuje ............................................................................................................2 pkt\ngdy obliczy piąty wyraz ciągu: 1\n4"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/27.webp",
+   "size": [
+    950,
+    114
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\nn\n\n2\n\nn\n\n2\n\nn\n\nn\nUzasadnij, że dla każdej dodatniej liczby całkowitej n liczba\n3\n2\n3\n2\njest wielokrotnością liczby 10.",
+   "key": "Zadanie 27. (2 pkt)\n\n\nn\n2\n\nn\n2\n\nn\n\nn\nUzasadnij, że dla każdej dodatniej liczby całkowitej n liczba\n3\n2\n3\n2\njest\nwielokrotnością liczby 10.\nRozwiązanie\n\n\n\n\n\nn\n2\nn\n2\nn\nn\nLiczbę\n3\n2\n3\n2\nprzedstawiamy w postaci\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nn\n2\nn\n2\nn\nn\nn\nn\nn\nn\nn\nn\nn\nn\n1\n3\n2\n3\n2\n9 3\n4 2\n3\n2\n3\n9 1\n2\n4 1\n10 3\n5 2 2\n\n\n\n\n\n\n\n\n\nn\nn\n1\nn\nn\n1\n10 3\n2\n10\nk\n, gdzie\nk\n3\n2\njest liczbą całkowitą.\n\n\n\n\n\nn\n2\nn\n2\nn\nn\nZatem liczba\n3\n2\n3\n2\njest wielokrotnością liczby 10.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\n\n\n\n\n\n\n\n i nie uzasadni, że liczba\nn\n2\nn\n2\nn\nn\nn\nn\ngdy zapisze liczbę\n3\n2\n3\n2\nw postaci  3 10\n2\n5\nn  jest podzielna przez 10.\n2\n5\nZdający otrzymuje ............................................................................................................2 pkt\ngdy przeprowadzi pełne rozumowanie, np.:\n\n\n przekształci liczbę 3 10\n\n\n do postaci\n\n\n\n\n\n\nn\n2\nn\n5\n10 3\nn\n2\nn\n1\n10\nk\n, gdzie\nk\n3\nn\n2\nn\n1\njest liczbą całkowitą\nalbo\n\n\nn\nn\n przekształci liczbę 3 10\nn\n\n\nn\n do postaci\nn\n\n1\nn\n\n1\n2\n5\n10 3\n2\ni zapisze, że\n3\n2\njest\nliczbą całkowitą\nalbo\n zapisze liczbę w postaci  3 10\n\n\n i uzasadni, że jest podzielna przez 10.\nn\nn\n2\n5\nUwaga\nJeśli zdający zapisuje kolejno:\n\n\nn\n2\n\nn\n2\n\nn\n\nn\n\n3\n2\n3\n2\n10\nx\n\n\n\n\nn\n2\n\n\nn\n2\n\n\n3\n3\n1\n2\n2\n1\n10\nx\n\nn\n\nn\n\n10 3\n5 2\n10\nx\n\n\n\nn\n\nn\n\n5 2 3\n2\n10\nx\n\nn\n\nn\n\n2 3\n2\n2\nx\n\nn\n\nn\ni uzasadnia, że 2 3\n2\njest liczbą podzielną przez 2, to otrzymuje 2 punkty.\n8\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012"
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/28.webp",
+   "size": [
+    947,
+    217
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\nTabela przedstawia wyniki uzyskane na sprawdzianie przez uczniów klasy III.\nOceny\n6\n5\n4\n3\n2\n1\nLiczba uczniów\n1\n2\n6\n5\n9\n2\nOblicz średnią arytmetyczną i kwadrat odchylenia standardowego uzyskanych ocen.",
+   "key": "Zadanie 28. (2 pkt)\nTabela przedstawia wyniki uzyskane na sprawdzianie przez uczniów klasy III.\nOceny\n6\n5\n4\n3\n2\n1\nLiczba uczniów\n1\n2\n6\n5\n9\n2\nOblicz średnią arytmetyczną i kwadrat odchylenia standardowego uzyskanych ocen.\nRozwiązanie\nObliczamy średnią arytmetyczną ocen uzyskanych przez uczniów klasy III:\n\n6 1 5 2\n4 6\n3 5\n2 9 1 2\n75\n\n\n3\n.\n25\n25\nObliczamy kwadrat odchylenia standardowego uzyskanych ocen:\n\n\n\n\n\n\n\n\n\n\n\n\n2\n2\n2\n2\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n1 6\n3\n2\n5\n3\n6\n4\n3\n5\n3\n3\n9\n2\n3\n2 1 3\n\n\n\n2\n25\n\n\n\n\n\n1 9\n2 4\n6 1 5 0\n9 1\n2 4\n9\n8\n6\n0\n9\n8\n40\n\n\n\n\n1,6\n25\n25\n25\nSchemat oceniania\nZdający otrzymuje............................................................................................................. 1 pkt\ngdy\n\nobliczy średnią arytmetyczną ocen uzyskanych przez uczniów klasy III i na tym\npoprzestanie lub dalej popełnia błędy\nlub\n\nobliczy średnią arytmetyczną ocen uzyskanych przez uczniów klasy III z błędem\nrachunkowym i konsekwentnie do tego obliczy kwadrat odchylenia standardowego.\nZdający otrzymuje ............................................................................................................ 2 pkt\ngdy obliczy średnią arytmetyczną i kwadrat odchylenia standardowego uzyskanych ocen:\nodpowiednio 3 i 1,6."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2012-marzec-probna/29.webp",
+   "size": [
+    950,
+    136
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\nRzucamy dwa razy symetryczną sześcienną kostką do gry. Oblicz prawdopodobieństwo\nzdarzenia A polegającego na tym, że liczba oczek w drugim rzucie jest o 1 większa od liczby\noczek w pierwszym rzucie.",
+   "key": "Zadanie 29. (2 pkt)\nRzucamy dwa razy symetryczną sześcienną kostką do gry. Oblicz prawdopodobieństwo\nzdarzenia A polegającego na tym, że liczba oczek w drugim rzucie jest o 1 większa od liczby\noczek w pierwszym rzucie.\nI sposób rozwiązania\n jest zbiorem wszystkich par \n\n\n\na b\n,a b takich, że\n,\n1,2,3,4,5,6\n. Mamy model klasyczny,\n\nw którym\n36\n.\nZdarzeniu A sprzyjają następujące zdarzenia elementarne:\n\n\n\n\n\n\n1,2 , 2,3 , 3,4 , 4,5 , 5,6\nA\n5\n\nA \nP A \n\nZatem\n5\ni stąd\n.\n\n36\n9\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje.............................................................................................................1 pkt\n\n\n\n\n\n\n\n\n\nA \ngdy zapisze, że\n36\ni\n1,2 , 2,3 , 3,4 , 4,5 , 5,6\n.\nZdający otrzymuje ............................................................................................................2 pkt\n5\ngdy obliczy prawdopodobieństwa zdarzenia A: \nP A \n.\n36\nII sposób rozwiązania: metoda drzewa\nRysujemy drzewo i pogrubiamy istotne dla rozwiązania zadania gałęzie tego drzewa.\nZapisujemy prawdopodobieństwa tylko na tych gałęziach.\n1\n6\n1\n1\n6\n1\n1\n6\n6\n6\n4\n5\n6\n1\n2\n3\n1\n6\n1\n6\n6\n1\n1\n1\n6\n6\n1 2 3 4 5 6 1 2 3 4 5 6\n1 2 3 4 5 6 1 2 3 4 5 6 1 2 3 4 5 6\n1 2 3 4 5 6\n1 1\n5\n\nP A \n\n\nObliczamy prawdopodobieństwo zdarzenia A:\n5 6 6\n.\n36\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje.............................................................................................................1 pkt\ngdy\n narysuje drzewo, zapisze prawdopodobieństwa na jego gałęziach i wskaże na drzewie\nwłaściwe gałęzie (np. pogrubienie gałęzi lub zapisanie prawdopodobieństw tylko\nna istotnych gałęziach)\nalbo\n narysuje drzewo, zapisze prawdopodobieństwa na jego gałęziach i nie wskazuje\nna drzewie odpowiednich gałęzi, ale z dalszych obliczeń można wywnioskować,\nże wybiera właściwe gałęzie.\nZdający otrzymuje ............................................................................................................2 pkt\n5\ngdy obliczy prawdopodobieństwa zdarzenia A: \nP A \n.\n36\n10\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nIII sposób rozwiązania: metoda tabeli\nRysujemy tabelę i wybieramy zdarzenia elementarne sprzyjające zdarzeniu A.\nII kostka\n1\n2\n3\n4\n5\n6\n1\nX\n2\nX\nI kostka\n3\nX\n4\nX\n5\nX\n6\n5\n\n\nA \nP A \n36\ni\n5\n, zatem\n.\n36\nSchemat oceniania III sposobu rozwiązania\nZdający otrzymuje ............................................................................................................ 1 pkt\ngdy narysuje tabelę i wypisze wszystkie zdarzenia sprzyjające lub zaznaczy je w tabeli.\nZdający otrzymuje ............................................................................................................ 2 pkt\n5\ngdy poda poprawną odpowiedź: \nP A \n.\n36\n11\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2012-marzec-probna/30.webp",
+   "size": [
+    950,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (4 pkt)\nPodstawą ostrosłupa ABCDS jest romb ABCD o boku długości 4. Kąt ABC rombu ma\nmiarę 120 oraz\n\n\n\nAS\nCS\n10\ni BS\nDS\n. Oblicz sinus kąta nachylenia krawędzi BS\ndo płaszczyzny podstawy ostrosłupa.",
+   "key": "Zadanie 30. (4 pkt)\nPodstawą ostrosłupa ABCDS jest romb ABCD o boku długości 4. Kąt ABC rombu ma miarę\n120 oraz\n\n\n\nAS\nCS\n10\ni BS\nDS\n. Oblicz sinus kąta nachylenia krawędzi BS do\npłaszczyzny podstawy ostrosłupa.\nI sposób rozwiązania\nS\nb\nh\nc\nD\nD\n\nC\n\ne\na\nf\nO\nA\nC\n\nO\na\nA\nB\na\na\nB\nWprowadźmy oznaczenia:\na – długość boku rombu\ne, f – długości przekątnych rombu\nh – wysokość ostrosłupa\n\n\nb\nAS\nCS\n\n\nc\nBS\nDS\n.\nABC \n\nObliczamy długości przekątnych podstawy. Ponieważ\n\n120\n, to trójkąt ABD jest\nrównoboczny. Zatem mamy:\nf\na\n3\n\n\n\n\ne\nBD\na\ni\nOC\n,\n2\n2\nf \ne \nstąd\n4\n,\n2 3\n.\n2\nKorzystając z twierdzenia Pitagorasa w trójkącie AOS, obliczamy wysokość ostrosłupa:\n2\n\n\n\nf\n\n2\n2\n2\n2\n\n\n\n\n\nh\nb\n10\n2 3\n88\n\n\n\n2\n\nh \n\n88\n2 22\nObliczamy długość krawędzi bocznej BS:\n2\n\ne\n\n\n\n\n\n2\n2\nc\nh\n88\n4\n\n\n\n2\n\nc \n\n92\n2 23\n12\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nObliczamy sinus kąta nachylenia krawędzi bocznej BS ostrosłupa do płaszczyzny podstawy:\nh\n2 22\n22\n506\n\n\n\n\nsin\nc\n23\n23\n2 23\n\nsin\n0,9780\n.\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ......................................................................................................... 1 pkt\ne \ne \nf \nObliczenie długości przekątnych podstawy ostrosłupa:\n4\ni\n4 3\n(lub\n2\n2\nf \ni\n2 3\n).\n2\nRozwiązanie, w którym jest istotny postęp ..................................................................... 2 pkt\nh \nObliczenie wysokości ostrosłupa\n2 22\n.\nPokonanie zasadniczych trudności zadania .................................................................... 3 pkt\nc \nObliczenie długości krótszej krawędzi bocznej ostrosłupa:\n2 23\n.\nRozwiązanie pełne ............................................................................................................. 4 pkt\n22\n\nObliczenie\nsin\n.\n23\nII sposób rozwiązania\nS\nb\nh\nc\nD\nD\n\nC\n\ne\nf\na\nO\nA\nC\n\nO\na\nA\nB\na\na\nB\nWprowadźmy oznaczenia:\na – długość boku rombu\ne, f – długości przekątnych rombu\nh – wysokość ostrosłupa\n\n\nb\nAS\nCS\n\n\nc\nBS\nDS\n.\n13\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nObliczamy długości przekątnych podstawy.\nABC \n\nPonieważ\n\n120\n, to trójkąt ABD jest równoboczny. Zatem mamy:\na\n3\nf \n\n\n\n\n\n\ne \ne\nBD\na\ni\nf\n2\nOC\n2\n,\nstąd\n4\n,\n4 3\n.\n2\nKorzystając z twierdzenia Pitagorasa w trójkącie AOS, obliczamy wysokość ostrosłupa:\n2\n\nf\n\n\n2\n\n2\nh\nb\n\n\n2\n\n\n\n2\n2\nh \n\n\nh \n\n2\n10\n2 3\n88\n,\nstąd\n88\n2 22\n.\nObliczamy tangens kąta nachylenia krótszej krawędzi bocznej ostrosłupa do płaszczyzny\npodstawy:\nh\n\n\ntg\n22\ne\n2\nObliczamy sin  korzystając z tożsamości trygonometrycznych:\n\n\nsin\nsin\n\n\n\ntg\n\ncos\n\n2\n\n1 sin\n\nsin\n\n22\n\n2\n\n1 sin\n2\n\nsin\n\n22\n\n2\n1 sin\n22\n\n23sin \n2\n\n22\n,\nzatem\nsin\n.\n23\nUwaga\nJeżeli zdający, korzystając z przybliżonej wartości tangensa kąta  ( tg\n\n\n22\n4,6904\n),\n\ni następnie zapisze sin\n\n\nodczyta miarę kąta\n78\nsin 78\n0,9781\n, to za takie\nrozwiązanie otrzymuje 4 punkty.\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ..........................................................................................................1 pkt\ne \nf \nObliczenie\ndługości\nprzekątnych\npodstawy\nostrosłupa:\n4\ni\n4 3\ne \nf \n(lub\n2\ni\n2 3\n).\n2\n2\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nh \nObliczenie wysokości ostrosłupa:\n2 22\n.\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\nObliczenie tangensa kąta nachylenia krótszej krawędzi bocznej ostrosłupa do płaszczyzny\n\npodstawy  tg\n22\n.\nRozwiązanie pełne..............................................................................................................4 pkt\n22\n\n\n\nObliczenie\nsin\nalbo sin\nsin 78\n0,9781\n.\n23\n14\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2012-marzec-probna/31.webp",
+   "size": [
+    950,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (4 pkt)\n\n\nA \nWyznacz równanie okręgu przechodzącego przez punkt\n2, 1\ni stycznego do obu osi\nukładu współrzędnych. Rozważ wszystkie przypadki.",
+   "key": "Zadanie 31. (4 pkt)\n\n\nA \nWyznacz równanie okręgu przechodzącego przez punkt\n2, 1\ni stycznego do obu osi\nukładu współrzędnych. Rozważ wszystkie przypadki.\nRozwiązanie\ny\n\n\n\nS\nR R\n,\n1\n\n\nA \n2,1\n\n\n\nS\nr r\n,\nx\nPonieważ okrąg jest styczny do obu osi układu współrzędnych i przechodzi przez punkt\n\n\nA \nleżący w I ćwiartce układu współrzędnych, to jego środek również leży\n2, 1\n\n\n\nw I ćwiartce układu współrzędnych. Stąd środek S tego okręgu ma współrzędne\nS\nr r\n,\n,\ngdzie r jest promieniem tego okręgu. Równanie okręgu ma zatem postać \n\n\n\n2\n2\n\n\n\n.\n2\nx r\ny r\nr\n\n\nleży na tym okręgu, więc \n\n\n\n2\n2\nA \n\n\n\n\nPunkt\n2, 1\n2\nr\n1\nr\nr\n2\n. Stąd otrzymujemy\n2\n\n\n\nr ,\nr \nr\n6\nr\n5\n0\n. Rozwiązaniami tego równania są liczby:\n1\n5\n. To oznacza, że są\n\n\n\n\n2\n2\n\n\n\n\ndwa\nokręgi\nspełniające\nwarunki\nzadania\no\nrównaniach\nx\n1\ny\n1\n1\ni \n\n\n\n2\n2\n\n\n\n\nx\n5\ny\n5\n25\n.\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp .................................................................... 1 pkt\nZapisanie współrzędnych środka S szukanego okręgu w zależności od promienia r tego\n\n\n\n\nokręgu:\nS\nr r\n,\nlub zapisanie, że środek okręgu leży na prostej o równaniu y\nx\n.\nPokonanie zasadniczych trudności zadania ................................................................... 2 pkt\nZapisanie równania kwadratowego z jedną niewiadomą:\n\n\n\n\n2\n2\n\n\n\n\n\n\n\n2\nr\n2\n6\nr\n5\n0\n2\nr\n1\nr\nr\nczyli\n.\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe) ....................................................... 3 pkt\nZadanie rozwiązane do końca, ale w trakcie rozwiązania popełniano błędy rachunkowe.\n15\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nRozwiązanie pełne .............................................................................................................4 pkt\nZapisanie równań obu okręgów:\nw postaci kanonicznej: \n\n\n\n i \n\n\n\n2\n2\n2\n2\n\n\n\n\n\n\n\nx\n1\ny\n1\n1\nx\n5\ny\n5\n25\n2\n\n2\n\n\n\n2\n\n2\n\n\n\n\nlub w postaci ogólnej:\nx\ny\n2\nx\n2\ny\n1\n0\ni\nx\ny\n10\nx\n10\ny\n25\n0\n.\nUwagi\n1.\nJeżeli zdający zapisze równanie jednego okręgu (nie wyprowadzając go), to otrzymuje\n1 punkt.\n2.\nJeżeli zdający zapisze równania obu okręgów (nie wyprowadzając ich), to otrzymuje\n2 punkty."
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2012-marzec-probna/32.webp",
+   "size": [
+    950,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (5 pkt)\nZ dwóch miast A i B, odległych od siebie o 18 kilometrów, wyruszyli naprzeciw siebie dwaj\nturyści. Pierwszy turysta wyszedł z miasta A o jedną godzinę wcześniej niż drugi z miasta B.\nOblicz prędkość, z jaką szedł każdy turysta, jeżeli wiadomo, że po spotkaniu pierwszy turysta\nszedł do miasta B jeszcze 1,5 godziny, drugi zaś szedł jeszcze 4 godziny do miasta A.",
+   "key": "Zadanie 32. (5 pkt)\nZ dwóch miast A i B, odległych od siebie o 18 kilometrów, wyruszyli naprzeciw siebie dwaj\nturyści. Pierwszy turysta wyszedł z miasta A o jedną godzinę wcześniej niż drugi z miasta B.\nOblicz prędkość, z jaką szedł każdy turysta, jeżeli wiadomo, że po spotkaniu pierwszy turysta\nszedł do miasta B jeszcze 1,5 godziny, drugi zaś szedł jeszcze 4 godziny do miasta A.\nUwaga\nW poniżej zamieszczonym schemacie używamy niewiadomych\nv ,\nv , x, t oznaczających\nA\nB\nodpowiednio: prędkość turysty z miasta A, prędkość turysty z miasta B oraz drogę i czas do\nmomentu spotkania. Oczywiście niewiadome mogą być oznaczane w inny sposób.\nNie wymagamy, by niewiadome były wyraźnie opisane na początku rozwiązania, o ile\nz postaci równań jasno wynika ich znaczenie.\nRozwiązanie\nPrzyjmujemy oznaczenia, np.:\nv ,\nv , x, t – prędkość turysty z miasta A, prędkość turysty\nA\nB\nz miasta B oraz droga i czas do momentu spotkania.\nZapisujemy zależność między drogą x, prędkością\nv i czasem t dla jednego z turystów, np.:\nA\n\nx\n18\nx\n\n (prędkość do chwili spotkania) i\n\n(prędkość od chwili spotkania).\nv\nv\nA\nA\nt\n1\n1,5\nZapisujemy zależność między drogą x, prędkością\nv i czasem t dla drugiego z turysty\nB\n\n18\nx\nx\n\nv \n(wychodzącego z miasta B), np.:\nv\n(prędkość do chwili spotkania),\nB\nB\nt\n4\n(prędkość od chwili spotkania).\nZapisujemy zależność między drogą a czasem w sytuacji opisanej w zadaniu za pomocą\n\n\nx\n18\nx\n\n\n\nt\n1\n1,5\nukładu równań\n\n18\nx\nx\n\n\n\nt\n4\n16\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nRozwiązując układ równań, doprowadzamy do równania z jedną niewiadomą, np.:\nRozwiązujemy równania otrzymując kolejno:\nZ drugiego równania wyznaczamy x\nZ drugiego równania wyznaczamy t\n\n72\n72\n4x\n\n\nx\nt\nt\n4\nx\ni wstawiamy do pierwszego równania\ni wstawiamy do pierwszego równania\n\n\n\n\n\n72\n72\n72\n4\nx\n\n\n\n\n\n\n\n\n\n\n\n\n\n1,5\n18\nt\n1\n1,5\nx\n18\nx\n1\n\n\n\n\n\n\nt\n4\n\nt\n4\n\n\nx\n\n\n\n\n108\n72\nt\n72\n18 72\n4\nx\n\n\n\n\n18\nt\n18\n\n\n\n\n\n1,5\nx\n18\n72\n4\nx\nx\n\n\n\nt\n4\nt\n4\nt\n4\nx\nt \n\n\nmnożymy obustronnie przez\n4\n\n18 72\n4\nx\n\n\n\n\n\n\n\n1,5\nx\n54\n3\nx\n\n\n\n\n\n\n108\n18\nt t\n4\n18\nt\n4\n72\nt\n72\nx\n\n\n\nmnożymy obustronnie przez x\n18\nt\n2\n18\nt\n108\n0\n2\n\n\n\n\n2\ndzielimy obustronnie przez 18\n1,5\nx\n1296\n72\nx\n54\nx\n3\nx\n2\n\n\nt\nt\n6\n0\n2\n\n\n\n1,5\nx\n126\nx\n1296\n0\n\n\n2\n1\n24\n5\ndzielimy obustronnie przez 1,5\n\n1 5\n2\n\n\n\n\n\nx\n84\nx\n864\n0\nt\n3\n1\n2\n\n\n\n2\n7056\n3456\n60\n\n1 5\n\n\n\n84\n60\nt\n2\n\n\nx\n12\n2\n2\n1\n2\n1t jest sprzeczne z warunkami zadania\n\n84\n60\n\n\nx\n72\n72\n72\n2\n2\n\n\n\nobliczamy\nx\n12\n,\n\nt\n4\n6\n2x jest sprzeczne z warunkami zadania\na następnie prędkość z jaką szedł każdy\n\n72\n4\nx\n24\n\n\n\nz turystów, np:\nobliczamy\nt\n2\n,\nx\n12\nx\n12\n\n\n\nv\n4km/h\na następnie prędkość z jaką szedł każdy z\nA\n\nt\n1\n3\nturystów, np.:\n\n18\nx\n6\n\n\n\n\n18\nx\n6\nv\n3km/h\n\n\n\nv\n4km/h\nB\nt\n2\nA\n1,5\n1,5\nx\n12\nv \n\n\n3km/h\nB\n4\n4\nZ pierwszego równania wyznaczamy x\nZ pierwszego równania wyznaczamy t\n\n\n18\nt\n18\n2,5\nx\n18\n\n\nx\nt\n\n\n18\nt\n2,5\nx\ni wstawiamy do drugiego równania\ni wstawiamy do drugiego równania\n\n2,5\nx\n18\n\n\n\n\n18\nt\n18\n18\nt\n18\n\n\n\n\n\n\n18\nx\n4\nx\n\n\n\n\nt\n4\n18\n\n\n\n18\nx\n\n\nt\n2,5\nt\n2,5\n\n\n\nmnożymy obustronnie przez 18\nx\n\n\n18\nt\n2\n18\nt\n72\nt\n72\n\n\n\n\n\n\n2\n\n\n2\n\n72\n324\n36\nx\nx\n4\n2,5\nx\n18\nx\n\n\nt\n2,5\nt\n2,5\n2\n\n\n\n2\n\n4\nx\n144\nx\n1296\n2,5\nx\n18\nx\nt \nmnożymy obustronnie przez\n2,5\n2\n\n\n\n\n\n1,5\nx\n126\nx\n1296\n0\n2\n\n\n\n\n\n18\nt\n18\nt\n72\nt\n2,5\n72\nt\n72\ndzielimy obustronnie przez 1,5\n2\n\n\n\n18\nt\n18\nt\n108\n0\n\n\n\nx\n2\n84\nx\n864\n0\ndzielimy obustronnie przez 18\n17\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\n\n\n\n\n\n2\n2\nt\nt\n6\n0\n7056\n3456\n60\n\n\n\n84\n60\n2\n1 24\n5\n\n\nx\n12\n\n1\n1 5\n2\n\n\nt\n3\n\n1\n84\n60\n2\n\n\nx\n72\n\n2\n1 5\n2\n\n\nt\n2\n2\n2x jest sprzeczne z warunkami zadania\n2\n1t jest sprzeczne z warunkami zadania\n\n72\n4\nx\n24\n\n\n\nobliczamy\nt\n2\n,\n72\n72\nx\n12\n\n\n\nobliczamy\nx\n12\n,\na następnie prędkość z jaką szedł każdy\n\nt\n4\n6\nz turystów, np.:\na następnie prędkość z jaką szedł każdy\n\n18\nx\n6\nz turystów, np:\n\n\n\nv\n4km/h\nA\nx\n12\n1,5\n1,5\n\n\n\nv\n4km/h\nA\n\nt\n1\n3\nx\n12\nv \n\n\n3km/h\n\n18\nx\n6\nB\n4\n4\n\n\n\nv\n3km/h\nB\nt\n2\n\n\nZapisujemy odpowiedź: Turyści szli z prędkościami:\n.\nv\n4 km/h,\nv\n3 km/h\nA\nB\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do\npełnego rozwiązania zadania.............................................................................................1 pkt\nZapisanie zależności między prędkością\nv , prędkością\nv , drogą x i czasem t dla jednego\nA\nB\n\n\nx\n18\nx\nlub 18\nx\nx\n\n\n\n\n\n\n\n\n\nz turystów, np.:\n\nlub\n18\nv\nt\n1 1,5\nlub\n18\nv\nt\n4\n.\nA\nB\n\nt\n1\n1,5\nt\n4\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nZapisanie układu równań z dwiema niewiadomymi, np.:\n\n\nx\n18\nx\n\n\n\nt\n1\n1,5\n\n18\nx\nx\n\n\n\nt\n4\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\nZapisanie równania z jedną niewiadomą, np.:\n\n72\n\n72\n\n\n72\n4\nx\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n1,5\n18\nt\n1\nlub\n1,5\nx\n18\nx\n1\n\n\n\n\n\n\nt\n4\n\nt\n4\n\n\nx\n\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą.\nUwaga:\nJeżeli zdający przy pokonywaniu zasadniczych trudności zadania popełni błędy\nrachunkowe, usterki i na tym zakończy to otrzymuje 2 punkty.\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe) ........................................................4 pkt\n rozwiązanie równania z niewiadomą t bezbłędnie:\n\nt\n2\nh\ni nie obliczenie\nprędkości turystów\n18\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nMarzec 2012\nalbo\n rozwiązanie równania z niewiadomą x bezbłędnie:\nx \n12\ni nie obliczenie\nprędkości turystów\nalbo\n obliczenie t lub x z błędem rachunkowym i konsekwentne obliczenie prędkości.\nRozwiązanie pełne .................................................................."
+  }
+ ]
+}

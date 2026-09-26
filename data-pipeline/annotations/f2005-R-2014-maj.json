@@ -1,0 +1,87 @@
+{
+  "exam": "f2005-R-2014-maj",
+  "tasks": [
+    {
+      "task": "1", "include": false, "exclude_reason": "interval_or_set",
+      "category": "funkcje", "difficulty": 4,
+      "notes": "f(x)=(|x+3|+|x-3|)/x, x!=0; the requested range is the set (-inf,-2] u [2,inf)."
+    },
+    {
+      "task": "2", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": -3, "value_tex": "-3", "answer_tex": "m=-3",
+      "category": "funkcje", "topic_pl": "Parametr funkcji kwadratowej", "topic_en": "Parameter of a quadratic function", "difficulty": 5,
+      "summary_pl": "Kwadratowa $f$: suma kw. odl. pierwiastków od prostej = 6. $m$?",
+      "summary_en": "Quadratic $f$: sum of sq. root-distances to a line = 6. Find $m$",
+      "statement_en": "Find all values of the parameter $m$ for which the quadratic function $f(x)=x^2-(2m+2)x+2m+5$ has two distinct roots $x_1$, $x_2$ such that the sum of the squares of the distances from the points $A=(x_1,0)$ and $B=(x_2,0)$ to the line with equation $x+y+1=0$ equals 6.",
+      "confidence": "high", "notes": "Only m=-3 satisfies both the derived quadratic-in-m equation and the two-distinct-real-roots discriminant condition; the other root m=1 is rejected."
+    },
+    {
+      "task": "3", "include": true, "exclude_reason": null,
+      "answer_kind": "sum", "value": 5.235987755982989, "value_tex": "\\frac{5\\pi}{3}", "answer_tex": "x=\\frac{\\pi}{6} \\lor x=\\frac{3\\pi}{2}",
+      "category": "trygonometria", "topic_pl": "Równanie trygonometryczne", "topic_en": "Trigonometric equation", "difficulty": 4,
+      "summary_pl": "Rozwiąż $\\sqrt3\\cos x=1+\\sin x$ w $[0,2\\pi)$ (suma rozw.)",
+      "summary_en": "Solve $\\sqrt3\\cos x=1+\\sin x$ on $[0,2\\pi)$ (sum of solutions)",
+      "statement_en": "Solve the equation $\\sqrt{3}\\cos x=1+\\sin x$ in the interval $[0,2\\pi)$.",
+      "confidence": "high", "notes": ""
+    },
+    {
+      "task": "4", "include": false, "exclude_reason": "proof",
+      "category": "wyrazenia", "difficulty": 4, "notes": "Prove (x+1)(x/y)+(y+1)(y/x)>2 for positive reals x,y."
+    },
+    {
+      "task": "5", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 0.2, "value_tex": "\\frac{1}{5}", "answer_tex": "\\frac{P_{KLM}}{P_{ABC}}=\\frac{1}{5}",
+      "category": "planimetria", "topic_pl": "Okręgi styczne", "topic_en": "Tangent circles", "difficulty": 5,
+      "summary_pl": "3 okręgi styczne, promienie $r,2r,3r$. Stosunek pól $KLM{:}ABC$",
+      "summary_en": "3 tangent circles, radii $r,2r,3r$. Ratio of areas $KLM$:$ABC$",
+      "statement_en": "Three circles with centers $A$, $B$, $C$ and radii $r$, $2r$, $3r$ respectively are pairwise externally tangent: the first and second at point $K$, the second and third at point $L$, and the third and first at point $M$. Compute the ratio of the area of triangle $KLM$ to the area of triangle $ABC$.",
+      "confidence": "high", "notes": ""
+    },
+    {
+      "task": "6", "include": false, "exclude_reason": "proof",
+      "category": "planimetria", "difficulty": 4,
+      "notes": "Triangle ABC inscribed in circle with angles alpha,2alpha,4alpha; prove it is obtuse and that central angles ASB,ASC,BSC form an arithmetic sequence."
+    },
+    {
+      "task": "7", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 1e+100, "value_tex": "10^{100}", "answer_tex": "a_1=10^{100}",
+      "category": "ciagi", "topic_pl": "Ciąg geometryczny i logarytmy", "topic_en": "Geometric sequence and logarithms", "difficulty": 5,
+      "summary_pl": "Ciąg geom.(100 wyr.): nieparz.$=100\\times$parz., $\\sum\\log a_i=100$. $a_1$?",
+      "summary_en": "Geo. seq (100 terms): odd sum=100x even, $\\sum\\log a_i=100$. Find $a_1$",
+      "statement_en": "A geometric sequence $(a_n)$ has 100 terms, all of which are positive numbers. The sum of all the terms with odd indices is one hundred times greater than the sum of all the terms with even indices, and $\\log a_1+\\log a_2+\\log a_3+\\dots+\\log a_{100}=100$. Compute $a_1$.",
+      "confidence": "high", "notes": ""
+    },
+    {
+      "task": "8", "include": false, "exclude_reason": "expression",
+      "category": "analityczna", "difficulty": 4,
+      "notes": "Correct answer is the equation of a tangent line to the circumscribed circle, not a number."
+    },
+    {
+      "task": "9", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 15360, "value_tex": "15360", "answer_tex": "V=15360",
+      "category": "stereometria", "topic_pl": "Objętość ostrosłupa", "topic_en": "Volume of a tetrahedron", "difficulty": 5,
+      "summary_pl": "Objętość ostrosłupa $ABCS$ z podanej siatki",
+      "summary_en": "Volume of tetrahedron $ABCS$ from its net",
+      "statement_en": "Compute the volume of the triangular pyramid $ABCS$ whose net is shown in the figure [Figure: net of a tetrahedron consisting of the base triangle $ABC$ with sides $AB=48$, $AC=BC=40$, folded up from three lateral triangular faces each with the two edges to apex $S$ equal to 65].",
+      "confidence": "high", "notes": ""
+    },
+    {
+      "task": "10", "include": true, "exclude_reason": null,
+      "answer_kind": "sum", "value": -3, "value_tex": "-3", "answer_tex": "m=-3 \\lor m=0",
+      "category": "rownania", "topic_pl": "Wielomian z parametrem", "topic_en": "Polynomial with a parameter", "difficulty": 5,
+      "summary_pl": "Całk. $m$: równanie ma 3 pierw., jeden = śr. arytm. innych (suma $m$)",
+      "summary_en": "Integer $m$: eq. has 3 roots, one = mean of others (sum of $m$)",
+      "statement_en": "Find all integer values of the parameter $m$ for which the equation $(x^3+2x^2+2x+1)\\left[x^2-(2m+1)x+m^2+m\\right]=0$ has three pairwise distinct real roots such that one of them is the arithmetic mean of the other two.",
+      "confidence": "high", "notes": "The cubic factor contributes only the real root x=-1 (the other two roots of x^2+x+1 are complex); the quadratic factor always contributes real roots x=m and x=m+1. Only m=0 and m=-3 make the three roots -1, m, m+1 pairwise distinct with the mean condition satisfied."
+    },
+    {
+      "task": "11", "include": true, "exclude_reason": null,
+      "answer_kind": "single", "value": 0.16666666666666666, "value_tex": "\\frac{1}{6}", "answer_tex": "P(A)=\\frac{1}{6}",
+      "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo klasyczne", "topic_en": "Classical probability", "difficulty": 4,
+      "summary_pl": "Losujemy 3 kule z 10. $P$(jedna = suma dwóch pozostałych)",
+      "summary_en": "Draw 3 balls from 10. $P$(one = sum of other two)",
+      "statement_en": "An urn contains 10 balls numbered with consecutive numbers from 1 to 10. Three balls are drawn simultaneously. Compute the probability of event $A$: the number on one of the drawn balls equals the sum of the numbers on the other two balls.",
+      "confidence": "high", "notes": ""
+    }
+  ]
+}

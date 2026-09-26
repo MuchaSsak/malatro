@@ -1,0 +1,534 @@
+{
+ "exam": {
+  "id": "f2015-P-2023-sierpien",
+  "formula": "2015",
+  "level": "P",
+  "year": 2023,
+  "session": "sierpien",
+  "month": "08",
+  "code": "EMAP-P0-100-2308",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2023-sierpien-poprawkowa-stara-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2023-sierpien-poprawkowa-stara-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2015-P-2023-sierpien.pdf",
+  "keyFile": "f2015-P-2023-sierpien-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "formula 2015 (technikum/absolwenci); termin poprawkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 32,
+  "keyPages": 18,
+  "examBytes": 3176504,
+  "keyBytes": 1063147
+ },
+ "keyHead": "Rodzaj dokumentu: Zasady oceniania rozwiązań\nzadań\nEgzamin maturalny\nEgzamin:\nMatematyka\nPrzedmiot:\nPoziom podstawowy\nPoziom:\nFormy arkusza:\n22 sierpnia 2023 r.\nTermin egzaminu:\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2023 r.\nZADANIA ZAMKNIĘTE\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nNr zadania\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\nOdpowiedź\nA\nD\nA\nA\nB\nD\nC\nB\nA\nC\nD\nB\nB\nD\nB\npoprawna\nNr zadania\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\nOdpowiedź\nA\nD\nB\nB\nC\nC\nC\nB\nD\nD\nB\nC\nA\nD\npoprawna\nZADANIA OTWARTE\nUwagi ogólne:\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym\nzapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną\nliczbę punktów.\n3. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do uzyskania\nliczbą punktów za dane zadanie).\nZasady oceniania\n2 pkt – spełnienie jednego z warunków określonych w zasadach oceniania za 1 pkt oraz\nzapisanie zbioru rozwiązań nierówności:  (−4, 1)  lub  𝑥∈(−4, 1)\nALBO\n– spełnienie jednego z warunków określonych w zasadach oceniania za 1 pkt oraz\nprzedstawienie zbioru rozwiązań nierówności w postaci graficznej z poprawnie\nzaznaczonymi końcami przedziałów\n−4\n1\n𝑥\nZasady oceniania rozwiązań zadań\n1 pkt – obliczenie lub podanie pierwiastków trójmianu kwadratowego  −𝑥2 −3𝑥+ 4:\n𝑥1 = −4  oraz    𝑥2 = 1\nALBO\n– odczytanie z wykresu funkcji  𝑓(𝑥) = −𝑥2 −3𝑥+ 4  i zapisanie miejsc zerowych\n𝑥1 = −4  oraz  𝑥2 = 1.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający, wyznaczając pierwiastki trójmianu  −𝑥2 −3𝑥+ 4, popełni błędy (ale\notrzyma dwa różne pierwiastki) i konsekwentnie do popełnionych błędów zapisze zbiór\nrozwiązań nierówności, to otrzymuje 1 punkt za całe rozwiązanie.\n2. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy błędnie\nobliczony przez zdającego wyróżnik  𝛥  jest ujemny, to otrzymuje 0 punktów za całe\nrozwiązanie.\n3. Jeżeli zdający, rozpoczynając rozwiązanie zadania, rozpatruje inny niż podany w zadaniu\ntrójmian kwadratowy, który nie wynika z błędu przekształcenia (np.  5 −𝑥2),\ni w konsekwencji rozpatruje inną nierówność (np.  5 −𝑥2 > 0), to i otrzymuje 0 punktów\nza całe rozwiązanie.\n4. Akceptowane jest zapisanie pierwiastków trójmianu w postaci  𝑎+ 𝑏√𝑐, gdzie  𝑎, 𝑏, 𝑐  są\nliczbami wymiernymi.\n5. Jeżeli zdający poda zbiór rozwiązań w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów oraz zapisze:  𝑥∈⟨−4, 1⟩, to otrzymuje 1 punkt za całe\nrozwiązanie.\nKryteria uwzględniające specyficzne trudności w uczeniu się matematyki\nJeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności\nw postaci  (1, −4), to otrzymuje 2 punkty.\nPrzykładowe pełne rozwiązanie\nZapisujemy nierówność w postaci  −𝑥2 −3𝑥+ 4 > 0  i obliczamy pierwiastki trójmianu\n−𝑥2 −3𝑥+ 4.\nObliczamy wyróżnik trójmianu:  Δ = 25\ni obliczamy jego pierwiastki:  𝑥1 = −4  oraz  𝑥2 = 1\nALBO\npodajemy pierwiastki trójmianu bezpośrednio, zapisując je lub zaznaczając je na wykresie:\n𝑥1 = −4  oraz  𝑥2 = 1.\nPodajemy zbiór rozwiązań nierówności:  (−4, 1)  lub  𝑥∈(−4, 1), lub zaznaczamy zbiór\nrozwiązań na osi liczbowej:\n−4\n1\n𝑥\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2023 r.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody i poprawny wynik:  𝑥= −4.\n1 pkt – zastosowanie własności/definicji ciągu arytmetycznego i zapisanie równania\n3𝑥2+5𝑥+20−𝑥2\n= 𝑥2  lub  𝑥2 −(3𝑥2 + 5𝑥) = (20 −𝑥2) −𝑥2.\n2\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający myli ciąg arytmetyczny z geometrycznym, to otrzymuje 0 punktów za całe\nrozwiązanie, o ile nie nabył prawa do innej liczby punktów.\n2. Jeżeli zdający zapisze równanie  𝑥2 −3𝑥2 + 5𝑥= (20 −𝑥2) −𝑥2 (tj. nie uwzględnia\nistotnego nawiasu) i rozwiąże je konsekwentnie do końca, to otrzymuje 1 punkt za całe\nrozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nZ własności ciągu arytmetycznego otrzymujemy\n3𝑥2 + 5𝑥+ 20 −𝑥2\n= 𝑥2\n2\n2𝑥2 + 5𝑥+ 20 = 2𝑥2\n𝑥= −4\nSposób II\nZ definicji/własności ciągu arytmetycznego otrzymujemy\n𝑥2 −(3𝑥2 + 5𝑥) = (20 −𝑥2) −𝑥2\nStąd\n−2𝑥2 −5𝑥= 20 −2𝑥2\n𝑥= −4\nZasady oceniania\n2 pkt – przeprowadzenie pełnego rozumowania, tj. przekształcenie nierówności\n𝑥2 + 3𝑥𝑦−10𝑦2 > 0  do postaci  (𝑥−2𝑦)(𝑥+ 5𝑦) > 0  oraz powołanie się na\nzałożenie i stwierdzenie, że: czynniki  𝑥+ 5𝑦  oraz  𝑥−2𝑦  są liczbami dodatnimi\noraz iloczyn liczb dodatnich jest liczbą dodatnią (dla sposobu I)\nALBO\n– przeprowadzenie pełnego rozumowania, tj. wykorzystanie założenia  𝑥> 2𝑦> 0\ni wywnioskowanie stąd nierówności  𝑥2 −4𝑦2 > 0  oraz  3𝑥𝑦−6𝑦2 > 0  (lub\nZasady oceniania rozwiązań zadań\n𝑥2 > 4𝑦2 oraz  3𝑥𝑦> 6𝑦2), a następnie wywnioskowanie nierówności\n𝑥2 + 3𝑥𝑦−10𝑦2 > 0.\n1 pkt – przekształcenie nierówności  𝑥2 + 3𝑥𝑦−10𝑦2 > 0  do postaci\n(𝑥−2𝑦)(𝑥+ 5𝑦) > 0\nALBO\n– wykorzystanie założenia  𝑥> 2𝑦> 0  i wywnioskowanie stąd nierówności\n𝑥2 −4𝑦2 > 0  oraz  3𝑥𝑦−6𝑦2 > 0  (lub:  𝑥2 > 4𝑦2  oraz  3𝑥𝑦> 6𝑦2).\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwaga:\nJeśli zdający sprawdza prawdziwość nierówności tylko dla wybranych wartości  𝑥  i  𝑦, to\notrzymuje 0 punktów za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nPrzekształcamy nierówność  𝑥2 + 3𝑥𝑦−10𝑦2 > 0  w sposób równoważny:\n𝑥2 + 5𝑥𝑦−2𝑥𝑦−10𝑦2 > 0\n𝑥(𝑥+ 5𝑦) −2𝑦(𝑥+ 5𝑦) > 0\n(𝑥−2𝑦)(𝑥+ 5𝑦) > 0\nZ założenia  𝑥  oraz  𝑦  są dodatnie, więc  𝑥+ 5𝑦> 0. Z założenia  𝑥> 2𝑦, więc\n𝑥−2𝑦> 0. Stąd  (𝑥−2𝑦)(𝑥+ 5𝑦) > 0.\nTo należało wykazać.\nSposób II\nPonieważ z założenia liczby  𝑥  oraz  𝑦  są dodatnie i  𝑥> 2𝑦, więc  𝑥2 > 4𝑦2 , czyli\n𝑥2 −4𝑦2 > 0\nMnożąc obie strony nierówności  𝑥> 2𝑦  przez liczbę dodatnią  3𝑦  otrzymujemy\n3𝑥𝑦> 6𝑦2, czyli\n3𝑥𝑦−6𝑦2 > 0\nZatem  𝑥2 −4𝑦2 + 3𝑥𝑦−6𝑦2  jest liczbą dodatnią (jako suma liczb dodatnich  𝑥2 −4𝑦2\noraz  3𝑥𝑦−6𝑦2). Oznacza to, że dla każdego  𝑥  oraz  𝑦  takich, że  𝑥> 2𝑦, spełniona jest\nnierówność  𝑥2 + 3𝑥𝑦−10𝑦2 > 0.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2023 r.\nZasady oceniania\n2 pkt – zastosowanie poprawnej metody i poprawny wynik:  16√3.\n1 pkt – obliczenie/podanie długości odcinka  𝐴𝐸  (lub  𝐵𝐹):  |𝐴𝐸| = 2\nALBO\n– obliczenie wysokości trapezu:  2√3,\nALBO\n– podzielenie trapezu  𝐴𝐵𝐶𝐷  na równoległobok bokach  6  i  4  oraz trójkąt\nrównoboczny i zapisanie pola  𝑃  trapezu  𝐴𝐵𝐶𝐷  jako sumy pól tego równoległoboku\ni tego trójkąta, np.  𝑃= 𝑃𝐴𝐺𝐶𝐷+ 𝑃𝐺𝐵𝐶 .\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwaga:\nJeżeli zdający, obliczając wysokość trapezu albo długość odcinka  𝐴𝐸  (lub  𝐵𝐹), stosuje\nbłędnie funkcje trygonometryczne lub związki miarowe trójkąta o kątach  30°, 60°  i  90°, to\notrzymuje 0 punktów za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób I\nNiech  𝐷𝐸  oraz  𝐶𝐹  będą wysokościami trapezu opuszczonymi na podstawę  𝐴𝐵.\n6\n𝐷\n𝐶\n4\n60°\n60°\n𝐴\n𝐸\n𝐹\n𝐵\nStosując definicje funkcji trygonometrycznych dla kąta  𝐵𝐴𝐷  w trójkącie prostokątnym  𝐹𝐴𝐷\n(lub korzystając ze związków miarowych dla trójkąta o kątach  30°, 60°  i  90°), otrzymujemy\n|𝐴𝐷| = 𝑐𝑜𝑠60°, więc  |𝐴𝐸| = |𝐴𝐷| ⋅𝑐𝑜𝑠60° = 4 ⋅1\n|𝐴𝐸|\n2 = 2\noraz\n|𝐷𝐸|\n√3\n|𝐴𝐷| = 𝑠𝑖𝑛60°, więc  |𝐷𝐸| = |𝐴𝐷| ⋅𝑠𝑖𝑛60° = 4 ⋅\n2 = 2√3.\nPonieważ trapez jest równoramienny, więc  |𝐴𝐸| = |𝐹𝐵|. Zatem\n|𝐴𝐵| = |𝐶𝐷| + 2 ⋅|𝐴𝐸| = 10.\nObliczamy pole  𝑃  trapezu  𝐴𝐵𝐶𝐷:\n𝑃= |𝐴𝐵| + |𝐶𝐷|\n⋅|𝐷𝐸| = 10 + 6\n⋅2√3 = 16√3\n2\n2\nZasady oceniania rozwiązań zadań\nSposób II\nProwadzimy odcinek  𝐶𝐺  równoległy do ramienia  𝐴𝐷  tak, żeby koniec  𝐺  tego odcinka\nleżał na podstawie  𝐴𝐵  trapezu  𝐴𝐵𝐶𝐷.\n6\n𝐷\n𝐶\n4\n60°\n60°\n𝐴\n𝐺\n𝐵\nOdcinek  𝐶𝐺  dzieli trapez  𝐴𝐵𝐶𝐷  na równoległobok  𝐴𝐺𝐶𝐷  i trójkąt równo",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/1.webp",
+   "size": [
+    951,
+    176
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nLiczba  log25 1 −1\n2 log25 5  jest równa\nA.  (−1\nB.  (−1\nC.  1\nD.  1\n4)\n2)\n4\n2",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/2.webp",
+   "size": [
+    951,
+    167
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\nLiczba  3√45 −√20  jest równa\n1\n1\n1\n2\n2\n2\nA.  (7 ⋅5)\nB.  5\nC.  7\nD.  7 ⋅5",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/3.webp",
+   "size": [
+    951,
+    345
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nW ramach wyprzedaży sezonowej płaszcz o początkowej wartości  240  zł przeceniono na\n200  zł. Zatem cenę tego płaszcza obniżono o\nA.  16 2\n3 %  jego początkowej wartości.\nB.  20 %  jego początkowej wartości.\nC.  40 %  jego początkowej wartości.\nD.  83 1\n3 %  jego początkowej wartości.",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/4.webp",
+   "size": [
+    951,
+    214
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\n3−1\nWartość wyrażenia\n−2 ∙81  jest równa\n(− 1\n)\n9\nA.  1\nB.  (−1\n3\n3)\nC.  3\nD.  (−3)",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/5.webp",
+   "size": [
+    919,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\n2 −(√3 −2)\n2  jest równa\nWartość wyrażenia  (2 −√3)\nA.  (−2√3)\nB.  0\nC.  6\nD.  8√3",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/6.webp",
+   "size": [
+    919,
+    306
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\nW układzie współrzędnych  (𝑥, 𝑦), punkt  (−8, 6)  jest punktem przecięcia prostych\no równaniach\nA.  2𝑥+ 3𝑦= 2         i    −𝑥+ 𝑦= −14.\nB.  3𝑥+ 2𝑦= −12    i    2𝑥+ 𝑦= 10.\nC.  𝑥+ 𝑦= −2          i    𝑥−2𝑦= 4.\nD.  𝑥−𝑦= −14        i    −2𝑥+ 𝑦= 22.",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/7.webp",
+   "size": [
+    919,
+    246
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\nZbiorem wszystkich rozwiązań nierówności\n−3(𝑥−1) ≤5 −3𝑥\n3\njest przedział\nA.  (−∞, 2\nB.  (−∞, −2\nC.  ⟨ 2\nD.  ⟨−2\n3 ⟩\n3 ⟩\n3 , ∞)\n3 , ∞)",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/8.webp",
+   "size": [
+    919,
+    273
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–1)\nRównanie  (𝑥2 −3𝑥)(𝑥2 + 1) = 0  w zbiorze liczb rzeczywistych ma dokładnie\nA.  jedno rozwiązanie.\nB.  dwa rozwiązania.\nC.  trzy rozwiązania.\nD.  cztery rozwiązania.",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/9.webp",
+   "size": [
+    949,
+    226
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–1)\nFunkcja  𝑓  jest określona dla każdej liczby rzeczywistej  𝑥  wzorem  𝑓(𝑥) = 𝑥−𝑘\n𝑥2+1 , gdzie  𝑘\njest pewną liczbą rzeczywistą. Ta funkcja spełnia warunek  𝑓(1) = 2.\nWartość współczynnika  𝑘  we wzorze tej funkcji jest równa\nA.  (−3)\nB.  3\nC.  (−4)\nD.  4",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/10.webp",
+   "size": [
+    949,
+    237
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\nMiejscem zerowym funkcji liniowej  𝑓  jest liczba  1. Wykres tej funkcji przechodzi przez\npunkt  (−1, 4). Wzór funkcji  𝑓  ma postać\nA.  𝑓(𝑥) = −1\nB.  𝑓(𝑥) = −1\n3 𝑥+ 1\n2 𝑥+ 1\n3\nC.  𝑓(𝑥) = −2𝑥+ 2\nD.  𝑓(𝑥) = −3𝑥+ 1",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/11.webp",
+   "size": [
+    949,
+    205
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–1)\nFunkcja kwadratowa  𝑓  jest określona wzorem  𝑓(𝑥) = (𝑥−13)2 −256. Jednym z miejsc\nzerowych tej funkcji jest liczba  (−3).\nDrugim miejscem zerowym funkcji  𝑓  jest liczba\nA.  (−29)\nB.  (−23)\nC.  23\nD.  29",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/12.webp",
+   "size": [
+    1024,
+    648
+   ],
+   "stem": "Informacja do zadań 12.–13.\nW układzie współrzędnych  (𝑥, 𝑦)  narysowano wykres funkcji  𝑦= 𝑓(𝑥)  (zobacz rysunek).\n𝑦\n6\n5\n𝑦= 𝑓(𝑥)\n4\n3\n2\n1\n–3\n–2\n–1\n1\n2\n3\n4\n5\n6\n7\n𝑥\n–7\n–6\n–5\n–4\n–1\n–2\n–3\n–4\n–5\n–6",
+   "text": "Zadanie 12. (0–1)\nFunkcja  𝑓  jest rosnąca w przedziale\nA.  ⟨−5, 4⟩\nB.  ⟨5, 7⟩\nC.  ⟨1, 5⟩\nD.  ⟨−1, 5⟩",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/13.webp",
+   "size": [
+    1045,
+    1629
+   ],
+   "stem": "Informacja do zadań 12.–13.\nW układzie współrzędnych  (𝑥, 𝑦)  narysowano wykres funkcji  𝑦= 𝑓(𝑥)  (zobacz rysunek).\n𝑦\n6\n5\n𝑦= 𝑓(𝑥)\n4\n3\n2\n1\n–3\n–2\n–1\n1\n2\n3\n4\n5\n6\n7\n𝑥\n–7\n–6\n–5\n–4\n–1\n–2\n–3\n–4\n–5\n–6",
+   "text": "Zadanie 13. (0–1)\nFunkcja  𝑔  jest określona za pomocą funkcji  𝑓  następująco:  𝑔(𝑥) = 𝑓(−𝑥)  dla każdego\n𝑥∈⟨−7, −5⟩∪⟨−4, 4⟩∪⟨5, 7⟩. Na jednym z rysunków  A–D  przedstawiono, w układzie\nwspółrzędnych  (𝑥, 𝑦), wykres funkcji  𝑦= 𝑔(𝑥).\nWykres funkcji  𝑦= 𝑔(𝑥)  przedstawiono na rysunku\nA.\nB.\n𝑦\n𝑦\n6\n6\n5\n5\n4\n4\n3\n3\n2\n2\n1\n1\n–3\n–2\n–1\n1\n2\n3\n4\n5\n6\n7\n𝑥\n–3\n–2\n–1\n1\n2\n3\n4\n5\n6\n7\n𝑥\n–7\n–6\n–5\n–4\n–7\n–6\n–5\n–4\n–1\n–1\n–2\n–2\n–3\n–3\n–4\n–4\n–5\n–5\n–6\n–6\nC.\nD.\n𝑦\n𝑦\n6\n6\n5\n5\n4\n4\n3\n3\n2\n2\n1\n1\n–3\n–2\n–1\n1\n2\n3\n4\n5\n6\n7\n𝑥\n–3\n–2\n–1\n1\n2\n3\n4\n5\n6\n7\n𝑥\n–7\n–6\n–5\n–4\n–7\n–6\n–5\n–4\n–1\n–1\n–2\n–2\n–3\n–3\n–4\n–4\n–5\n–5\n–6\n–6",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/14.webp",
+   "size": [
+    927,
+    278
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–1)\nFunkcja kwadratowa  𝑓, określona wzorem  𝑓(𝑥) = −(𝑥−1)(𝑥−5), przyjmuje wartość\nA.  najmniejszą równą  3.\nB.  najmniejszą równą  4.\nC.  największą równą  3.\nD.  największą równą  4.",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/15.webp",
+   "size": [
+    927,
+    186
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\nCiąg  (𝑎𝑛)  jest określony wzorem  𝑎𝑛= (−1)𝑛∙𝑛+1\n2  dla każdej liczby naturalnej  𝑛≥1.\nTrzeci wyraz tego ciągu jest równy\nA.  2\nC.  3\nB.  (−2)\nD.  (−1)",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/16.webp",
+   "size": [
+    927,
+    189
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\nCzterowyrazowy ciąg  (−2, 1, 𝑥, 𝑦)  jest geometryczny. Suma wszystkich wyrazów tego\nciągu jest równa\nA.  (−5\nC.  (−1\nD.  (−15\n4)\nB.  (−4)\n4)\n4 )",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/17.webp",
+   "size": [
+    927,
+    158
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–1)\nKoło ma promień równy  3. Obwód wycinka tego koła o kącie środkowym  30°  jest równy\nA.  3\nB.  1\nC.  3\nD.  1\n4 𝜋\n2 𝜋\n4 𝜋+ 6\n2 𝜋+ 6",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/18.webp",
+   "size": [
+    927,
+    185
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\nKąt  𝛼  jest ostry i  cos 𝛼= 2√6\n7 . Sinus kąta  𝛼  jest równy\nA.  24\nB.  5\nC.  25\n√6\n7\n49\n7\n49\nD.",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/19.webp",
+   "size": [
+    919,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nW okręgu  𝒪  kąt środkowy  𝛽  oraz kąt wpisany  𝛼  są oparte na tym samym łuku. Kąt  𝛽\nma miarę o  40°  większą od kąta  𝛼. Miara kąta  𝛽  jest równa\nD.  120°\nA.  40°\nB.  80°\nC.  100°",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/20.webp",
+   "size": [
+    919,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\nPole trójkąta równobocznego o wysokości  3  jest równe\nA.  3√3\nB.  9√3\n4\n4\nC.  3√3\nD.  6√3",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/21.webp",
+   "size": [
+    919,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (0–1)\nKażdy z kątów wewnętrznych dziesięciokąta foremnego ma miarę\nA.  120°\nB.  135°\nC.  144°\nD.  150°",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/22.webp",
+   "size": [
+    919,
+    515
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (0–1)\nObwód trójkąta prostokątnego  𝐴𝐵𝐶  jest równy  𝐿. Na boku  𝐶𝐵  tego trójkąta obrano\npunkt  𝐸, a na boku  𝐴𝐵  obrano punkt  𝐷  tak, że  𝐷𝐸∥𝐴𝐶  oraz  |𝐴𝐷| ∶|𝐷𝐵| = 3 ∶4\n(zobacz rysunek).\n𝐶\n𝐸\n𝐴\n𝐷\n𝐵\nObwód trójkąta  𝐵𝐸𝐷  jest równy\nA.  3\nB.  3\nC.  4\nD.  1\n4 𝐿\n7 𝐿\n7 𝐿\n4 𝐿",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/23.webp",
+   "size": [
+    927,
+    302
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nW układzie współrzędnych  (𝑥, 𝑦)  dane są prosta  𝑘  o równaniu  𝑦= 3\n4 𝑥−7\n4  oraz\npunkt  𝑃= (12, −1).\nProsta przechodząca przez punkt  𝑃  i równoległa do prostej  𝑘  ma równanie\nA.  𝑦= −3\nB.  𝑦= 3\n4 𝑥+ 8\n4 𝑥−10\nC.  𝑦= 4\nD.  𝑦= −4\n3 𝑥−17\n3 𝑥+ 15",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/24.webp",
+   "size": [
+    927,
+    206
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–1)\nW układzie współrzędnych  (𝑥, 𝑦)  punkt  𝐴= (−1, −4)  jest wierzchołkiem\nrównoległoboku  𝐴𝐵𝐶𝐷. Punkt  𝑆= (2, 2)  jest środkiem symetrii tego równoległoboku.\nDługość przekątnej  𝐴𝐶  równoległoboku  𝐴𝐵𝐶𝐷  jest równa\nA.  √5\nB.  2√5\nC.  3√5\nD.  6√5",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/25.webp",
+   "size": [
+    927,
+    286
+   ],
+   "stem": "Informacja do zadań 25.–26.\nKażda krawędź graniastosłupa prawidłowego sześciokątnego ma długość równą  6.",
+   "text": "Zadanie 25. (0–1)\nPole powierzchni całkowitej tego graniastosłupa jest równe\nA.  216 + 18√3\nB.  216 + 54√3\nC.  216 + 216√3\nD.  216 + 108√3",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/26.webp",
+   "size": [
+    927,
+    293
+   ],
+   "stem": "Informacja do zadań 25.–26.\nKażda krawędź graniastosłupa prawidłowego sześciokątnego ma długość równą  6.",
+   "text": "Zadanie 26. (0–1)\nCosinus kąta nachylenia dłuższej przekątnej tego graniastosłupa do płaszczyzny podstawy\ngraniastosłupa jest równy\nA.  1\nB.  2\nC.  1\n√3\n2\n√5\n√5\nD.\n2",
+   "key": ""
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/27.webp",
+   "size": [
+    919,
+    194
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–1)\nW ostrosłupie prawidłowym czworokątnym stosunek pola powierzchni bocznej do pola\npodstawy jest równy  12. Wynika stąd, że w tym ostrosłupie stosunek wysokości ściany\nbocznej do krawędzi podstawy jest równy\nA.  24\nB.  3\nC.  6\nD.  4",
+   "key": ""
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/28.webp",
+   "size": [
+    919,
+    738
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–1)\nNa diagramie przedstawiono rozkład wynagrodzenia brutto wszystkich stu pracowników\npewnej firmy za styczeń 2023 roku.\n40\n36\n35\n30\n25\n25\nliczba\n18\n20\npracowników\n15\n10\n10\n5\n4\n5\n2\n0\n4800\n5100\n5500\n5900\n6400\n7500\n8600\nwynagrodzenie brutto za styczeń 2023 (w zł)\nŚrednia wynagrodzenia brutto wszystkich pracowników tej firmy za styczeń 2023 roku jest\nrówna\nA.  5 690  zł\nC.  6 257  zł\nB.  5 280  zł\nD.  5 900  zł",
+   "key": ""
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2023-sierpien/29.webp",
+   "size": [
+    919,
+    208
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–1)\nWszystkich liczb naturalnych czterocyfrowych, w których zapisie dziesiętnym cyfry się\nnie powtarzają, jest\nA.  9 ⋅10 ⋅10 ⋅10 ⋅10\nB.  9 ⋅9 ⋅9 ⋅9\nC.  10 ⋅9 ⋅8 ⋅7\nD.  9 ⋅9 ⋅8 ⋅7",
+   "key": ""
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2023-sierpien/30.webp",
+   "size": [
+    919,
+    104
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–2)\nRozwiąż nierówność\n5 −𝑥2 > 3𝑥+ 1",
+   "key": "Zadanie 30.\n1 pkt – zastosowanie poprawnej metody obliczenia pierwiastków trójmianu kwadratowego\n−𝑥2 −3𝑥+ 4, tzn. zastosowanie wzorów na pierwiastki trójmianu kwadratowego\ni obliczenie tych pierwiastków\nALBO\n– konsekwentne (do otrzymanego w wyniku popełnienia błędów o charakterze\ndyskalkulicznym ujemnego wyróżnika) narysowanie paraboli,\nALBO\n– konsekwentne (do wyznaczonych przez siebie pierwiastków oraz rozpatrywanego\ntrójmianu i nierówności) wyznaczenie zbioru rozwiązań nierówności.\nUwagi:\n1. Jeżeli zdający, rozwiązując nierówność, pomyli porządek liczb na osi liczbowej i zapisze\nzbiór rozwiązań nierówności w postaci  (1, −4), to może otrzymać 2 punkty za całe\nrozwiązanie.\n2. Nie stosuje się uwag 2. i 3. z zasad oceniania arkusza standardowego."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2023-sierpien/31.webp",
+   "size": [
+    958,
+    80
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (0–2)\nCiąg  (3𝑥2 + 5𝑥, 𝑥2, 20 −𝑥2)  jest arytmetyczny. Oblicz  𝑥.",
+   "key": "Zadanie 31.\n1 pkt – zapisanie równania z dwiema niewiadomymi:  𝑥  oraz  𝑟  (gdzie  𝑟  jest różnicą ciągu\narytmetycznego), np.  3𝑥2 + 5𝑥= 𝑥2 + 𝑟."
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2023-sierpien/32.webp",
+   "size": [
+    919,
+    158
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (0–2)\nWykaż, że dla każdej liczby rzeczywistej dodatniej  𝑥  i dla każdej liczby rzeczywistej\ndodatniej  𝑦  takiej, że  𝑥> 2𝑦, prawdziwa jest nierówność\n𝑥2 + 3𝑥𝑦−10𝑦2 > 0",
+   "key": "Zadanie 32.\n1 pkt – zapisanie nierówności  𝑥2 > 4𝑦2  lub  3𝑥𝑦> 6𝑦2.\nEgzamin maturalny z matematyki na poziomie podstawowym – termin poprawkowy 2023 r."
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2023-sierpien/33.webp",
+   "size": [
+    947,
+    491
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (0–2)\nDany jest trapez równoramienny  𝐴𝐵𝐶𝐷, w którym podstawa  𝐶𝐷  ma długość  6, ramię  𝐴𝐷\nma długość  4, a kąty  𝐵𝐴𝐷  oraz  𝐴𝐵𝐶  mają miarę  60°  (zobacz rysunek).\n𝐷\n6\n𝐶\n4\n60°\n60°\n𝐴\n𝐵\nOblicz pole tego trapezu.",
+   "key": "Zadanie 33.\n1 pkt – zastosowanie definicji funkcji trygonometrycznej lub związków miarowych w trójkącie\no kątach  30°, 60°, 90°  i zapisanie równania z jedną niewiadomą (wysokością  ℎ\ntrapezu lub długością odcinka  𝐴𝐸, lub długością odcinka  𝐵𝐹), np.  ℎ\n4 = sin 60°,\n|𝐴𝐸|\n= cos 60°.\n4"
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2023-sierpien/34.webp",
+   "size": [
+    919,
+    135
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (0–2)\nRozwiąż równanie\n2𝑥−3\n3𝑥−2 = 1\n2𝑥",
+   "key": "Zadanie 34.\nStosuje się zasady oceniania arkusza standardowego."
+  },
+  {
+   "task": "35",
+   "num": 35,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2023-sierpien/35.webp",
+   "size": [
+    933,
+    171
+   ],
+   "stem": "",
+   "text": "Zadanie 35. (0–2)\nZe zbioru pięciu liczb  {1, 2, 3, 4, 5}  losujemy bez zwracania kolejno dwa razy po jednej\nliczbie.\nOblicz prawdopodobieństwo zdarzenia  𝐴  polegającego na tym, że obie wylosowane liczby\nsą nieparzyste.",
+   "key": "Zadanie 35.\n1 pkt – zapisanie jedynie liczby  20  (należy traktować to jako wyznaczenie liczby wszystkich\nzdarzeń elementarnych).\nUwagi:\n1. W ocenie rozwiązania tego zadania (dla zdających z dyskalkulią) nie stosuje się uwagi 1.\nze standardowych zasad oceniania.\n2. Jeżeli zdający poprawnie wypisze/zaznaczy wszystkie zdarzenia elementarne sprzyjające\nzdarzeniu  𝐴, lecz popełni błąd w ich zliczeniu (|𝐴| = 5) i konsekwentnie zapisze\nwynik   5\n20 , to otrzymuje 2 punkty."
+  },
+  {
+   "task": "36",
+   "num": 36,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-P-2023-sierpien/36.webp",
+   "size": [
+    919,
+    161
+   ],
+   "stem": "",
+   "text": "Zadanie 36. (0–5)\nPunkty  𝐴= (22\n5 , −21\n5 ), 𝐵= (6, 7)  oraz  𝐶= (−9, 2)  są wierzchołkami trójkąta  𝐴𝐵𝐶.\nSymetralna boku  𝐴𝐵  tego trójkąta przecina bok  𝐵𝐶  w punkcie  𝐷.\nOblicz współrzędne punktu  𝐷.",
+   "key": "Zadanie 36.\n1 pkt – obliczenie współczynnika kierunkowego prostej  𝐵𝐶:  1\n3 ."
+  }
+ ]
+}

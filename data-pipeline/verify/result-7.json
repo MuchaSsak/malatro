@@ -1,0 +1,123 @@
+[
+ {
+  "exam": "f2015-P-2020-maj",
+  "task": "33",
+  "verdict": "ok",
+  "solved_value": 3,
+  "value": 3,
+  "answer_tex": "q=3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "q^2-5q+6=0 gives q=2 or q=3; only q=3 lies in <2sqrt2,3sqrt2> (2.83..4.24). Matches key."
+ },
+ {
+  "exam": "f2015-P-2020-sierpien",
+  "task": "33",
+  "verdict": "ok",
+  "solved_value": 226.1946710584651,
+  "value": 226.1946710584651,
+  "answer_tex": "V=72\\pi",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "l=3r, r^2+144=9r^2 so r^2=18, V=(1/3)*pi*18*12=72pi. Key 72pi (pi dropped in text). Summary lacks diacritics but is accurate."
+ },
+ {
+  "exam": "f2015-P-2021-czerwiec",
+  "task": "11",
+  "verdict": "ok",
+  "solved_value": -6,
+  "value": -6,
+  "answer_tex": "-6",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Zero 2 symmetric about x=-2 gives second zero -6 (option D). Key D."
+ },
+ {
+  "exam": "f2015-P-2021-czerwiec",
+  "task": "12",
+  "verdict": "ok",
+  "solved_value": 3,
+  "value": 3,
+  "answer_tex": "3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "x=-4 is the mirror of x=0 about x=-2, so f(-4)=f(0)=3 (option C). Key C."
+ },
+ {
+  "exam": "f2015-P-2021-maj",
+  "task": "22",
+  "verdict": "ok",
+  "solved_value": 70,
+  "value": 70,
+  "answer_tex": "\\beta=70^\\circ",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "beta is angle between altitudes from B to AD and DC; quadrilateral with two right angles and 110 deg at D gives 70 deg. Key version A: B=70."
+ },
+ {
+  "exam": "f2015-P-2021-marzec-probna",
+  "task": "3",
+  "verdict": "ok",
+  "solved_value": 76,
+  "value": 76,
+  "answer_tex": "76,00",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "106.40/1.4=76.00 zl (option C). Key C."
+ },
+ {
+  "exam": "f2015-P-2021-sierpien",
+  "task": "1",
+  "verdict": "ok",
+  "solved_value": 0.3333333333333333,
+  "value": 0.3333333333333333,
+  "answer_tex": "3^{-1}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "9^-10*3^19=3^-20*3^19=3^-1=1/3 (option D). Key D."
+ },
+ {
+  "exam": "f2015-P-2022-czerwiec",
+  "task": "7",
+  "verdict": "ok",
+  "solved_value": -1.25,
+  "value": -1.25,
+  "answer_tex": "x=-\\frac{5}{4}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Axis x=-b/(2a)=-5/4 (option A). Key A."
+ },
+ {
+  "exam": "f2015-P-2022-czerwiec",
+  "task": "13",
+  "verdict": "ok",
+  "solved_value": 2,
+  "value": 2,
+  "answer_tex": "2",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "In (-4,6): one crossing of y=-1 on rising arc in (-4,-3), one on line (slope -2/3) at x=4.5; crossing left of -4 excluded. Key C."
+ },
+ {
+  "exam": "f2015-P-2022-czerwiec",
+  "task": "21",
+  "verdict": "ok",
+  "solved_value": 15,
+  "value": 15,
+  "answer_tex": "15^\\circ",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "DC=CE, angle DCE=90+60=150 deg, so DEC=(180-150)/2=15 deg (option C). Key C. Summary lacks diacritics but is accurate."
+ },
+ {
+  "exam": "f2015-P-2022-maj",
+  "task": "18",
+  "verdict": "ok",
+  "solved_value": 37.69911184307752,
+  "value": 37.69911184307752,
+  "answer_tex": "12\\pi",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Triangle PAS equilateral, angle ASB=120 deg; shaded = sector ASB = (1/3)*36pi = 12pi. Key version A: D=12pi."
+ }
+]

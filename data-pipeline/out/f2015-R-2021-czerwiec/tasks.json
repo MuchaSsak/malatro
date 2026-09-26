@@ -1,0 +1,240 @@
+{
+ "exam": {
+  "id": "f2015-R-2021-czerwiec",
+  "formula": "2015",
+  "level": "R",
+  "year": 2021,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "EMAP-R0-100-2106",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2021-czerwiec-matura-rozszerzona.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2021-czerwiec-matura-rozszerzona-odpowiedzi.pdf",
+  "examFile": "f2015-R-2021-czerwiec.pdf",
+  "keyFile": "f2015-R-2021-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 28,
+  "keyPages": 21,
+  "examBytes": 700062,
+  "keyBytes": 1034355
+ },
+ "keyHead": "Rodzaj dokumentu: Zasady oceniania rozwiązań\nzadań\nEgzamin maturalny\nEgzamin:\nMatematyka\nPrzedmiot:\nPoziom rozszerzony\nPoziom:\nFormy arkusza:\n2 czerwca 2021 r.\nTermin egzaminu:\nData publikacji\n21 czerwca 2021 r.\ndokumentu:\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\nZADANIA ZAMKNIĘTE\nNr\n1.\n2.\n3.\n4.\nzadania\nOdp.\nD\nD\nB\nD\nZADANIE OTWARTE (KODOWANE)\nZadanie 5. (0–2)\nZasady oceniania\n2 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna, niepełna albo brak odpowiedzi.\nRozwiązanie\n5\n3\n2\nZADANIA OTWARTE (NIEKODOWANE)\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do uzyskania\nliczbą punktów za dane zadanie).\nZadanie 6. (0–3)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy podczas przekształcenia wyrażenia  log3 54  lub  3log2 9+2\npoprawnie zastosuje wzór\nlog29\nna zamianę podstaw logarytmu lub logarytm iloczynu/ilorazu, lub logarytm potęgi, np.:\nlog3 54 = log2 54\nlog2 3 ,   log2 9 = 2log2 3 ,  log3 54 = log3 27 + log3 2\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy przekształci wyrażenie  log3 54  lub   3log2 9+2\nlub oba te wyrażenia do takiej postaci,\nlog2 9\nz  której poprzez jednokrotne zastosowanie wzoru na zamianę podstaw logarytmu lub logarytm\nZasady oceniania rozwiązań zadań\niloczynu/ilorazu, lub logarytm potęgi oraz ewentualne kilkukrotne przekształcenie wyrażenia\nwymiernego uzyskuje się tezę.\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy, stosując poprawną metodę, przeprowadzi pełny dowód.\nUwaga:\nJeżeli zdający, przy rozpoczęciu  przekształcania wyrażenia  log3 54  lub  3log2 9+2\n, popełnia\nlog29\nbłąd rzeczowy (niepoprawnie zastosuje wzór na zamianę podstaw logarytmu lub logarytm\nilorazu/iloczynu, lub logarytm potęgi), lecz w dalszej części rozwiązania każdorazowo stosuje\nte wzory poprawnie, to może otrzymać za całe rozwiązanie co najwyżej 1 punkt.\nPrzykładowe pełne rozwiązanie\nPrzekształcamy wyrażenie  log3 54, stosując wzór na zamianę podstawy logarytmu:\nlog3 54 = log2 54\nlog2 3\nStosujemy wzór na logarytm iloczynu i otrzymujemy:\nlog2 54\nlog2 3 = log2(27 ⋅2)\n= log2 27 + log2 2\nlog2 3\nlog2 3\nAby doprowadzić do uzyskania w mianowniku wyrażenia  log2 9, mnożymy licznik i mianownik\nprzez  2, a następnie korzystamy ze wzoru na logarytm potęgi:\n= log2 36 + 2\n2 ⋅log2 27 + 2 ⋅log2 2\n= 3 log2 9 + 2\n= 3𝑐+ 2\n2 ⋅log2 3\nlog2 9\nlog2 9\n𝑐\nTo należało wykazać.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\nZadanie 7. (0–3)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nzapisze, że trójkąt  𝐵𝐸𝐶  jest podobny do trójkąta  𝐵𝐹𝐻  oraz zapisze związek między\nwysokościami tych trójkątów opuszczonymi na prostą  𝐴𝐵  (lub zapisze związek między\npolami tych trójkątów), np. :  ℎ𝐵𝐸𝐶= 3ℎ𝐵𝐹𝐻  (lub  𝑃𝐸𝐵𝐶= 9𝑆)\nALBO\n\nzapisze, że trójkąt  𝐴𝐷𝐺  jest podobny do trójkąta  𝐴𝐸𝐶  oraz zapisze związek między\nwysokościami tych trójkątów opuszczonymi na prostą  𝐴𝐵  (lub zapisze związek między\npolami tych trójkątów), np. :  ℎ𝐴𝐸𝐶= 2ℎ𝐴𝐷𝐺  (lub  𝑃𝐴𝐸𝐶= 4𝑃𝐴𝐷𝐺)\nALBO\nzapisze związek między polami trójkątów  𝐴𝐸𝐶  i  𝐸𝐵𝐶, np.:  𝑃𝐴𝐸𝐶= 4\n\n3 𝑃𝐸𝐵𝐶\nALBO\n\nzapisze, że  𝑃𝐴𝐵𝐶= 21𝑆  i  𝑃𝐸𝐵𝐶= 9𝑆.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy:\n\nzapisze związki między polami trójkątów  𝐴𝐷𝐺  i  𝐴𝐸𝐶  oraz  𝐴𝐸𝐶  i  𝐸𝐵𝐶, np.:\n𝑃𝐴𝐸𝐶\n𝑃𝐸𝐵𝐶= 4\n3  i  𝑃𝐴𝐸𝐶= 4𝑃𝐴𝐷𝐺\nALBO\n\nzapisze związki między polami trójkątów  𝐵𝐸𝐶  i  𝐵𝐹𝐻  oraz  𝐴𝐸𝐶  i  𝐸𝐵𝐶, np.:\n𝑃𝐴𝐸𝐶\n𝑃𝐸𝐵𝐶= 4\n3  i  𝑃𝐵𝐸𝐶= 9𝑃𝐵𝐹𝐻\nALBO\n\nzapisze związki między polami trójkątów  𝐴𝐷𝐺  i  𝐴𝐸𝐶  oraz  𝐵𝐸𝐶  i  𝐵𝐹𝐻, np.:\n𝑃𝐴𝐸𝐶= 4𝑃𝐴𝐷𝐺  i  𝑃𝐵𝐸𝐶= 9𝑃𝐵𝐹𝐻\nALBO\n\nzapisze układ równań z polem  𝑝  trapezu  𝐷𝐸𝐶𝐺  oraz polem  𝑞  trójkąta  𝐴𝐷𝐺  jako\nniewiadomymi, np.:\n𝑝+ 𝑞= 12𝑆\n𝑝+ 𝑞\n{\n= 4\n𝑞\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy przeprowadzi pełne, poprawne rozumowanie.\nUwaga:\nJeśli zdający wprowadza do rozwiązania dodatkowe założenia, nie wynikające z treści\nzadania, to otrzymuje 0 punktów, o ile nie nabył praw do innej punktacji.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązania\nSposób 1.\nOznaczmy pole trójkąta  𝐹𝐵𝐻  przez  𝑆, a długość odcinka  𝐹𝐵  przez  𝑥. Zgodnie z treścią\nzadania  |𝐴𝐷| = |𝐷𝐸| = |𝐸𝐹| = 2|𝐹𝐵| = 2𝑥.\n𝐶\n𝐺\n𝐻\n𝐴\n𝐷\n𝐸\n𝐹\n𝐵\n2𝑥\n2𝑥\n2𝑥\n𝑥\nOdcinki  𝐸𝐶  i  𝐹𝐻  są równoległe, więc trójkąt  𝐸𝐵𝐶  jest podobny do trójkąta  𝐹𝐵𝐻  na\npodstawie cechy kkk podobieństwa trójkątów. Z twierdzenia o stosunku pól figur podobnych\ni warunków zadania otrzymujemy\n2\n2\n= (|𝐸𝐵|\n𝑃𝐸𝐵𝐶\n= (3𝑥\n= 9\n|𝐹𝐵|)\n𝑥)\n𝑃𝐹𝐵𝐻\nwięc\n𝑃𝐸𝐵𝐶= 9𝑆\nTrójkąty  𝐸𝐵𝐶  i  𝐴𝐸𝐶  mają wspólną wysokość  ℎ, poprowadzoną z wierzchołka  𝐶. Zatem\n1\n2 ⋅|𝐴𝐸| ⋅ℎ\n𝑃𝐴𝐸𝐶\n= 4𝑥\n3𝑥= 4\n=\n3\n1\n𝑃𝐸𝐵𝐶\n2 ⋅|𝐸𝐵| ⋅ℎ\nwięc\n𝑃𝐴𝐸𝐶= 4\n3 ⋅𝑃𝐸𝐵𝐶= 12𝑆\nOdcinki  𝐷𝐺  i  𝐸𝐶  są równoległe, więc trójkąt  𝐴𝐷𝐺  jest podobny do trójkąta  𝐴𝐸𝐶  na\npodstawie cechy kkk podobieństwa trójkątów. Z twierdzenia o stosunku pól figur podobnych\ni warunków zadania otrzymujemy\n2\n2\n𝑃𝐴𝐷𝐺\n|𝐴𝐷|\n= (2𝑥\n= 1\n= (\n|𝐴𝐸|)\n4𝑥)\n4\n𝑃𝐴𝐸𝐶\nwięc\n𝑃𝐴𝐷𝐺= 1\n4 ⋅𝑃𝐴𝐸𝐶= 3𝑆\nTo należało wykazać.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\nSposób 2.\nOznaczmy przez  ℎ  wysokość trójkąta  𝐵𝐹𝐻, natomiast przez  𝑎  długość odcinka  |𝐹𝐵|.\n𝑃𝐴𝐵𝐶= 1\nWtedy\npole\ntrójkąta\n𝐴𝐵𝐶\njest\nrówne\n2 ⋅7𝑎⋅3ℎ= 21𝑆\noraz\n𝑃𝐸𝐵𝐶= 1\n2 ⋅3𝑎⋅3ℎ= 9𝑆.\nOdcinki  𝐷𝐺  i  𝐸𝐶  są równoległe, więc trójkąt  𝐴𝐷𝐺  jest podobny do trójkąta  𝐴𝐸𝐶  na\npodstawie cechy kkk podobieństwa trójkątów w skali  𝑘= 0,5. Niech pole trapezu  𝐷𝐸𝐶𝐺\nbędzie równe  𝑝, natomiast pole trójkąta  𝐴𝐷𝐺  będzie równe  𝑞.\nWtedy\n𝑝+ 𝑞= 12𝑆\n𝑝+ 𝑞\n{\n= 4\n𝑞\nStąd otrzymujemy  𝑝= 9𝑆  oraz  𝑞= 3𝑆, co jest tezą twierdzenia.\nZadanie 8. (0–4)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy zapisze równanie w postaci, w której występują funkcje trygonometryczne tego samego\nkąta, np.:  2 cos2 𝑥−cos 𝑥= 2 sin 𝑥cos 𝑥−sin 𝑥.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy zapisze alternatywę równań  cos 𝑥−sin 𝑥= 0  lub  2 cos 𝑥−1 = 0.\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy wyznaczy rozwiązania jednego z równań  cos 𝑥= 1\n2  lub  cos 𝑥= sin 𝑥  w przedziale\n〈0, 2𝜋〉  lub w  𝑅.\nZdający otrzymuje  .......................................................................................................... 4 p.\ngdy wyznaczy rozwiązania obu równań  cos 𝑥= 1\n2  oraz  cos 𝑥= sin 𝑥  w przedziale  〈0, 2𝜋〉:\n𝑥= 1\n3 𝜋  lub  𝑥= 5\n3 𝜋  lub  𝑥= 1\n4 𝜋  lub  𝑥= 5\n4 𝜋.\nUwagi:\n1. Jeżeli zdający podzieli równanie przez  (cos 𝑥−sin 𝑥)  albo przez  (2 cos 𝑥−1)  bez\nstosownych założeń i nie rozważy przypadków, gdy to wyrażenie jest równe zero, to\notrzymuje co najwyżej 2 punkty za całe rozwiązanie.\n2. Jeżeli zdający przed uzyskaniem trygonometrycznych równań elementarnych popełni błędy\nrachunkowe i otrzyma równania elementarne, z których co najmniej jedno ma dwie serie\nrozwiązań w zbiorze liczb rzeczywistych, to otrzymuje co najwyżej 3 punkty za całe\nrozwiązanie.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nPrzekształcamy równanie równoważnie i otrzymujemy kolejno:\n2 cos2 𝑥−cos 𝑥= 2 sin 𝑥cos 𝑥−sin 𝑥\n2 cos2 𝑥−cos 𝑥−2 sin 𝑥cos 𝑥",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2021-czerwiec/1.webp",
+   "size": [
+    951,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nଷ\nଶ−൫√3 + 1൯\nଶቁ\nWartość wyrażenia  ቀ൫√3 −1൯\njest równa\nA. 512\nB. 0\nC. −24√3\nD. −192√3",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2021-czerwiec/2.webp",
+   "size": [
+    951,
+    227
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\n𝑎𝑛2+𝑏𝑛+4\n𝑛+1\nGranice  lim\ni   lim\n௡→ஶ\n𝑎𝑛2+𝑏𝑛+4   są równe. Stąd wynika, że\n𝑛+1\n௡→ஶ\nA. 𝑎= 0    i    𝑏= 0\nB. |𝑎| = 1    i    𝑏= 0\nC. |𝑎| = 1    i    |𝑏| = 1\nD. 𝑎= 0    i    |𝑏| = 1",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2021-czerwiec/3.webp",
+   "size": [
+    951,
+    232
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nWektory  𝑎⃗= ሾ𝑚−2, 𝑚+ 2ሿ  oraz  𝑏ሬ⃗= ሾ𝑚ଵ,ହ, 2ଵ,ହሿ   mają równe długości wtedy i tylko wtedy,\ngdy\nA. 𝑚= 0  lub  𝑚= 4\nB. 𝑚= 0  lub  𝑚= 2\nC. 𝑚= 2\nD. 𝑚= 2  lub  𝑚= 4",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2021-czerwiec/4.webp",
+   "size": [
+    951,
+    636
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nNa rysunku przedstawiono fragment wykresu pewnej funkcji  𝑓  określonej dla każdej liczby\nrzeczywistej  𝑥. Jeden z podanych poniżej wzorów jest wzorem tej funkcji. Wskaż wzór\nfunkcji  𝑓.\n𝑦\n2𝜋\n𝜋\n−2𝜋    −𝜋          0      𝜋      2𝜋     3𝜋       4𝜋    5𝜋     6𝜋      7𝜋          𝑥\n−𝜋\n−2𝜋\nA. 𝑓ሺ𝑥ሻ= 2 sinሺ2𝑥ሻ\nB. 𝑓ሺ𝑥ሻ= 2𝜋⋅sinሺ2𝑥ሻ\nC. 𝑓ሺ𝑥ሻ= 2 sin ቀ𝑥\nD. 𝑓ሺ𝑥ሻ= 2𝜋⋅sin ቀ𝑥\n2ቁ\n2ቁ",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2021-czerwiec/5.webp",
+   "size": [
+    951,
+    265
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–2)\nWynikiem dzielenia wielomianu  5𝑥ଷ−7𝑥ଶ−4𝑥−4  przez dwumian  𝑥−2  jest trójmian\nkwadratowy postaci  𝑎𝑥ଶ+ 𝑏𝑥+ 𝑐.\nW poniższe kratki wpisz kolejno – od lewej do prawej – wartości współczynników  𝑎, 𝑏  oraz  𝑐.",
+   "key": "Zadanie 5. (0–2)\nZasady oceniania\n2 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna, niepełna albo brak odpowiedzi.\nRozwiązanie\n5\n3\n2\nZADANIA OTWARTE (NIEKODOWANE)\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do uzyskania\nliczbą punktów za dane zadanie)."
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2021-czerwiec/6.webp",
+   "size": [
+    919,
+    90
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–3)\nNiech  logଶ9 = 𝑐. Wykaż, że  logଷ54 = 3𝑐+2\n.\n𝑐",
+   "key": "Zadanie 6. (0–3)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy podczas przekształcenia wyrażenia  log3 54  lub  3log2 9+2\npoprawnie zastosuje wzór\nlog29\nna zamianę podstaw logarytmu lub logarytm iloczynu/ilorazu, lub logarytm potęgi, np.:\nlog3 54 = log2 54\nlog2 3 ,   log2 9 = 2log2 3 ,  log3 54 = log3 27 + log3 2\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy przekształci wyrażenie  log3 54  lub   3log2 9+2\nlub oba te wyrażenia do takiej postaci,\nlog2 9\nz  której poprzez jednokrotne zastosowanie wzoru na zamianę podstaw logarytmu lub logarytm\nZasady oceniania rozwiązań zadań\niloczynu/ilorazu, lub logarytm potęgi oraz ewentualne kilkukrotne przekształcenie wyrażenia\nwymiernego uzyskuje się tezę.\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy, stosując poprawną metodę, przeprowadzi pełny dowód.\nUwaga:\nJeżeli zdający, przy rozpoczęciu  przekształcania wyrażenia  log3 54  lub  3log2 9+2\n, popełnia\nlog29\nbłąd rzeczowy (niepoprawnie zastosuje wzór na zamianę podstaw logarytmu lub logarytm\nilorazu/iloczynu, lub logarytm potęgi), lecz w dalszej części rozwiązania każdorazowo stosuje\nte wzory poprawnie, to może otrzymać za całe rozwiązanie co najwyżej 1 punkt.\nPrzykładowe pełne rozwiązanie\nPrzekształcamy wyrażenie  log3 54, stosując wzór na zamianę podstawy logarytmu:\nlog3 54 = log2 54\nlog2 3\nStosujemy wzór na logarytm iloczynu i otrzymujemy:\nlog2 54\nlog2 3 = log2(27 ⋅2)\n= log2 27 + log2 2\nlog2 3\nlog2 3\nAby doprowadzić do uzyskania w mianowniku wyrażenia  log2 9, mnożymy licznik i mianownik\nprzez  2, a następnie korzystamy ze wzoru na logarytm potęgi:\n= log2 36 + 2\n2 ⋅log2 27 + 2 ⋅log2 2\n= 3 log2 9 + 2\n= 3𝑐+ 2\n2 ⋅log2 3\nlog2 9\nlog2 9\n𝑐\nTo należało wykazać.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r."
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2021-czerwiec/7.webp",
+   "size": [
+    963,
+    454
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–3)\nDany jest trójkąt  𝐴𝐵𝐶. Na boku  𝐴𝐵  tego trójkąta obrano punkty  𝐷, 𝐸  i  𝐹  tak, że\n|𝐴𝐷| = |𝐷𝐸| = |𝐸𝐹| = 2|𝐹𝐵|. Na bokach  𝐴𝐶  i  𝐵𝐶  obrano – odpowiednio – punkty  𝐺  i  𝐻\ntak, że  𝐷𝐺∥𝐸𝐶  oraz  𝐹𝐻∥𝐸𝐶  (zobacz rysunek). Wykaż, że jeżeli pole trójkąta  𝐹𝐵𝐻  jest\nrówne  𝑆, to pole trójkąta  𝐴𝐷𝐺  jest równe  3𝑆.\n𝐶\n𝐺\n𝐻\n𝐴\n𝐷\n𝐸\n𝐹\n𝐵",
+   "key": "Zadanie 7. (0–3)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nzapisze, że trójkąt  𝐵𝐸𝐶  jest podobny do trójkąta  𝐵𝐹𝐻  oraz zapisze związek między\nwysokościami tych trójkątów opuszczonymi na prostą  𝐴𝐵  (lub zapisze związek między\npolami tych trójkątów), np. :  ℎ𝐵𝐸𝐶= 3ℎ𝐵𝐹𝐻  (lub  𝑃𝐸𝐵𝐶= 9𝑆)\nALBO\n\nzapisze, że trójkąt  𝐴𝐷𝐺  jest podobny do trójkąta  𝐴𝐸𝐶  oraz zapisze związek między\nwysokościami tych trójkątów opuszczonymi na prostą  𝐴𝐵  (lub zapisze związek między\npolami tych trójkątów), np. :  ℎ𝐴𝐸𝐶= 2ℎ𝐴𝐷𝐺  (lub  𝑃𝐴𝐸𝐶= 4𝑃𝐴𝐷𝐺)\nALBO\nzapisze związek między polami trójkątów  𝐴𝐸𝐶  i  𝐸𝐵𝐶, np.:  𝑃𝐴𝐸𝐶= 4\n\n3 𝑃𝐸𝐵𝐶\nALBO\n\nzapisze, że  𝑃𝐴𝐵𝐶= 21𝑆  i  𝑃𝐸𝐵𝐶= 9𝑆.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy:\n\nzapisze związki między polami trójkątów  𝐴𝐷𝐺  i  𝐴𝐸𝐶  oraz  𝐴𝐸𝐶  i  𝐸𝐵𝐶, np.:\n𝑃𝐴𝐸𝐶\n𝑃𝐸𝐵𝐶= 4\n3  i  𝑃𝐴𝐸𝐶= 4𝑃𝐴𝐷𝐺\nALBO\n\nzapisze związki między polami trójkątów  𝐵𝐸𝐶  i  𝐵𝐹𝐻  oraz  𝐴𝐸𝐶  i  𝐸𝐵𝐶, np.:\n𝑃𝐴𝐸𝐶\n𝑃𝐸𝐵𝐶= 4\n3  i  𝑃𝐵𝐸𝐶= 9𝑃𝐵𝐹𝐻\nALBO\n\nzapisze związki między polami trójkątów  𝐴𝐷𝐺  i  𝐴𝐸𝐶  oraz  𝐵𝐸𝐶  i  𝐵𝐹𝐻, np.:\n𝑃𝐴𝐸𝐶= 4𝑃𝐴𝐷𝐺  i  𝑃𝐵𝐸𝐶= 9𝑃𝐵𝐹𝐻\nALBO\n\nzapisze układ równań z polem  𝑝  trapezu  𝐷𝐸𝐶𝐺  oraz polem  𝑞  trójkąta  𝐴𝐷𝐺  jako\nniewiadomymi, np.:\n𝑝+ 𝑞= 12𝑆\n𝑝+ 𝑞\n{\n= 4\n𝑞\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy przeprowadzi pełne, poprawne rozumowanie.\nUwaga:\nJeśli zdający wprowadza do rozwiązania dodatkowe założenia, nie wynikające z treści\nzadania, to otrzymuje 0 punktów, o ile nie nabył praw do innej punktacji.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązania\nSposób 1.\nOznaczmy pole trójkąta  𝐹𝐵𝐻  przez  𝑆, a długość odcinka  𝐹𝐵  przez  𝑥. Zgodnie z treścią\nzadania  |𝐴𝐷| = |𝐷𝐸| = |𝐸𝐹| = 2|𝐹𝐵| = 2𝑥.\n𝐶\n𝐺\n𝐻\n𝐴\n𝐷\n𝐸\n𝐹\n𝐵\n2𝑥\n2𝑥\n2𝑥\n𝑥\nOdcinki  𝐸𝐶  i  𝐹𝐻  są równoległe, więc trójkąt  𝐸𝐵𝐶  jest podobny do trójkąta  𝐹𝐵𝐻  na\npodstawie cechy kkk podobieństwa trójkątów. Z twierdzenia o stosunku pól figur podobnych\ni warunków zadania otrzymujemy\n2\n2\n= (|𝐸𝐵|\n𝑃𝐸𝐵𝐶\n= (3𝑥\n= 9\n|𝐹𝐵|)\n𝑥)\n𝑃𝐹𝐵𝐻\nwięc\n𝑃𝐸𝐵𝐶= 9𝑆\nTrójkąty  𝐸𝐵𝐶  i  𝐴𝐸𝐶  mają wspólną wysokość  ℎ, poprowadzoną z wierzchołka  𝐶. Zatem\n1\n2 ⋅|𝐴𝐸| ⋅ℎ\n𝑃𝐴𝐸𝐶\n= 4𝑥\n3𝑥= 4\n=\n3\n1\n𝑃𝐸𝐵𝐶\n2 ⋅|𝐸𝐵| ⋅ℎ\nwięc\n𝑃𝐴𝐸𝐶= 4\n3 ⋅𝑃𝐸𝐵𝐶= 12𝑆\nOdcinki  𝐷𝐺  i  𝐸𝐶  są równoległe, więc trójkąt  𝐴𝐷𝐺  jest podobny do trójkąta  𝐴𝐸𝐶  na\npodstawie cechy kkk podobieństwa trójkątów. Z twierdzenia o stosunku pól figur podobnych\ni warunków zadania otrzymujemy\n2\n2\n𝑃𝐴𝐷𝐺\n|𝐴𝐷|\n= (2𝑥\n= 1\n= (\n|𝐴𝐸|)\n4𝑥)\n4\n𝑃𝐴𝐸𝐶\nwięc\n𝑃𝐴𝐷𝐺= 1\n4 ⋅𝑃𝐴𝐸𝐶= 3𝑆\nTo należało wykazać.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\nSposób 2.\nOznaczmy przez  ℎ  wysokość trójkąta  𝐵𝐹𝐻, natomiast przez  𝑎  długość odcinka  |𝐹𝐵|.\n𝑃𝐴𝐵𝐶= 1\nWtedy\npole\ntrójkąta\n𝐴𝐵𝐶\njest\nrówne\n2 ⋅7𝑎⋅3ℎ= 21𝑆\noraz\n𝑃𝐸𝐵𝐶= 1\n2 ⋅3𝑎⋅3ℎ= 9𝑆.\nOdcinki  𝐷𝐺  i  𝐸𝐶  są równoległe, więc trójkąt  𝐴𝐷𝐺  jest podobny do trójkąta  𝐴𝐸𝐶  na\npodstawie cechy kkk podobieństwa trójkątów w skali  𝑘= 0,5. Niech pole trapezu  𝐷𝐸𝐶𝐺\nbędzie równe  𝑝, natomiast pole trójkąta  𝐴𝐷𝐺  będzie równe  𝑞.\nWtedy\n𝑝+ 𝑞= 12𝑆\n𝑝+ 𝑞\n{\n= 4\n𝑞\nStąd otrzymujemy  𝑝= 9𝑆  oraz  𝑞= 3𝑆, co jest tezą twierdzenia."
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2021-czerwiec/8.webp",
+   "size": [
+    958,
+    79
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–4)\nRozwiąż równanie  2 cosଶ𝑥−cos 𝑥= sinሺ2𝑥ሻ−sin 𝑥  w przedziale  〈0, 2𝜋〉.",
+   "key": "Zadanie 8. (0–4)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy zapisze równanie w postaci, w której występują funkcje trygonometryczne tego samego\nkąta, np.:  2 cos2 𝑥−cos 𝑥= 2 sin 𝑥cos 𝑥−sin 𝑥.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy zapisze alternatywę równań  cos 𝑥−sin 𝑥= 0  lub  2 cos 𝑥−1 = 0.\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy wyznaczy rozwiązania jednego z równań  cos 𝑥= 1\n2  lub  cos 𝑥= sin 𝑥  w przedziale\n〈0, 2𝜋〉  lub w  𝑅.\nZdający otrzymuje  .......................................................................................................... 4 p.\ngdy wyznaczy rozwiązania obu równań  cos 𝑥= 1\n2  oraz  cos 𝑥= sin 𝑥  w przedziale  〈0, 2𝜋〉:\n𝑥= 1\n3 𝜋  lub  𝑥= 5\n3 𝜋  lub  𝑥= 1\n4 𝜋  lub  𝑥= 5\n4 𝜋.\nUwagi:\n1. Jeżeli zdający podzieli równanie przez  (cos 𝑥−sin 𝑥)  albo przez  (2 cos 𝑥−1)  bez\nstosownych założeń i nie rozważy przypadków, gdy to wyrażenie jest równe zero, to\notrzymuje co najwyżej 2 punkty za całe rozwiązanie.\n2. Jeżeli zdający przed uzyskaniem trygonometrycznych równań elementarnych popełni błędy\nrachunkowe i otrzyma równania elementarne, z których co najmniej jedno ma dwie serie\nrozwiązań w zbiorze liczb rzeczywistych, to otrzymuje co najwyżej 3 punkty za całe\nrozwiązanie.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nPrzekształcamy równanie równoważnie i otrzymujemy kolejno:\n2 cos2 𝑥−cos 𝑥= 2 sin 𝑥cos 𝑥−sin 𝑥\n2 cos2 𝑥−cos 𝑥−2 sin 𝑥cos 𝑥+ sin 𝑥= 0\ncos 𝑥⋅(2 cos 𝑥−1) −sin 𝑥⋅(2 cos 𝑥−1) = 0\n(2 cos 𝑥−1)(cos 𝑥−sin 𝑥) = 0\nStąd otrzymujemy:\ncos 𝑥= 1\n2     lub    cos 𝑥= sin 𝑥\nRozwiązaniami pierwszego z tych równań w zbiorze  〈0, 2𝜋〉  są:  𝑥= 1\n3 𝜋  lub  𝑥= 5\n3 𝜋.\nRozwiązaniami równania  cos 𝑥= sin 𝑥  w zbiorze  〈0, 2𝜋〉  są:  𝑥= 1\n4 𝜋  lub  𝑥= 5\n4 𝜋.\nZatem równanie  2 cos2 𝑥−cos 𝑥= sin(2𝑥) −sin 𝑥  ma w zbiorze  〈0, 2𝜋〉  cztery\nrozwiązania:  𝑥= 1\n3 𝜋  lub  𝑥= 5\n3 𝜋  lub  𝑥= 1\n4 𝜋  lub  𝑥= 5\n4 𝜋."
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2021-czerwiec/9.webp",
+   "size": [
+    957,
+    144
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–4)\nDane są prosta  𝑘  o równaniu  𝑥−2𝑦= 0  i prosta  𝑙  o równaniu  2𝑥+ 𝑦−1 = 0. Punkt  𝑃\nleży na prostej o równaniu  𝑦= 𝑥+ 4. Odległość punktu  𝑃  od prostej  𝑘  jest dwa razy\nwiększa niż odległość punktu  𝑃  od prostej  𝑙. Oblicz współrzędne punktu  𝑃.",
+   "key": "Zadanie 9. (0–4)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy zapisze odległość punktu  𝑃= (𝑥𝑃, 𝑦𝑃)  od jednej z prostych, np.:\n|𝑥𝑃−2𝑦𝑃|\n|2𝑥𝑃+ 𝑦𝑃−1|\n√12 + (−2)2    lub\n√22 + 12\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy wyznaczy odległość punktu  𝑃= (𝑥𝑃, 𝑦𝑃)  od jednej z prostych w zależności od jednej\nzmiennej, np.\n|𝑥𝑃−2(𝑥𝑃+ 4)|\nlub    |2𝑥𝑃+ (𝑥𝑃+ 4) −1|\nlub\n√22 + 12\n√12 + (−2)2\n|(𝑦𝑃−4) −2𝑦𝑃|\n|2(𝑦𝑃−4) + 𝑦𝑃−1|\nlub\n√22 + 12\n√12 + (−2)2\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy zapisze równanie z jedną niewiadomą, opisujące zależność między odległościami punktu\n𝑃= (𝑥𝑃, 𝑦𝑃)  od obu prostych, np.:\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\n|𝑥𝑃−2(𝑥𝑃+ 4)|\n= 2 ⋅|2𝑥𝑃+ (𝑥𝑃+ 4) −1|\nlub\n√12 + (−2)2\n√22 + 12\n|(𝑦𝑃−4) −2𝑦𝑃|\n= 2 ⋅|2(𝑦𝑃−4) + 𝑦𝑃−1|\n√22 + 12\n√12 + (−2)2\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  .......................................................................................................... 4 p.\ngdy obliczy i zapisze współrzędne punktu  𝑃: 𝑃= (−2, 2)  oraz  𝑃= (2\n5 , 22\n5 ).\nUwagi:\n1. Jeśli zdający zapisuje równanie „odległości” i w tym równaniu pomija zupełnie symbol\nwartości bezwzględnej, to za całe rozwiązanie otrzymuje 0 punktów.\n2. Jeśli zdający sporządzi rysunek, zapisze współrzędne jednego z szukanych punktów\n(−2, 2), obliczy odległości punktu  (−2, 2)  od prostych  𝑘  i  𝑙  oraz zapisze, że odległość\ntego punktu od prostej  𝑘  jest dwa razy większa niż odległość tego punktu od prostej  𝑙, to\notrzymuje 1 punkt za całe rozwiązanie.\nPrzykładowe pełne rozwiązanie\nNiech  𝑃= (𝑥𝑃, 𝑦𝑃)  będzie punktem leżącym na prostej o równaniu  𝑦= 𝑥+ 4. Wtedy\n𝑦𝑃= 𝑥𝑃+ 4.\nOdległość  𝑑(𝑃, 𝑘)  punktu  𝑃  od prostej  𝑘  o równaniu  𝑥−2𝑦= 0  jest równa\n|𝑥𝑃−2(𝑥𝑃+ 4)|\n|−𝑥𝑃−8|\n𝑑(𝑃, 𝑘) =\n=\n√12 + (−2)2\n√5\nOdległość  𝑑(𝑃, 𝑙)  punktu  𝑃  od prostej  𝑙  o równaniu  2𝑥+ 𝑦−1 = 0  jest równa\n𝑑(𝑃, 𝑘) = |2𝑥𝑃+ (𝑥𝑃+ 4) −1|\n= |3𝑥𝑃+ 3|\n√22 + 12\n√5\nZ treści zadania  𝑑(𝑃, 𝑘) = 2 ⋅𝑑(𝑃, 𝑙), więc\n|−𝑥𝑃−8|\n= 2 ⋅|3𝑥𝑃+ 3|\n√5\n√5\nStąd otrzymujemy kolejno\n|−𝑥𝑃−8| = 2 ⋅|3𝑥𝑃+ 3|\n|−𝑥𝑃−8| = |6𝑥𝑃+ 6|\n−𝑥𝑃−8 = 6𝑥𝑃+ 6      lub     −(−𝑥𝑃−8) = 6𝑥𝑃+ 6\n𝑥𝑃= −2      lub     𝑥𝑃= 2\n5\nZasady oceniania rozwiązań zadań\nDla  𝑥𝑃= −2  otrzymujemy  𝑃= (−2, 2).  Dla  𝑥𝑃= 2\n5  otrzymujemy  𝑃= (2\n5 , 22\n5 ).\nIstnieją zatem dwa punkty spełniające warunki zadania: (−2, 2)  oraz  (2\n5 , 22\n5 )."
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2021-czerwiec/10.webp",
+   "size": [
+    957,
+    453
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–4)\nDany jest sześcian  𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻  o krawędzi długości  2. Punkt  𝑆  jest środkiem krawędzi  𝐷𝐻\n(zobacz rysunek). Oblicz miarę najmniejszego kąta wewnętrznego trójkąta  𝐶𝐹𝑆.\n𝐻\n𝐺\n2\n𝐸\n𝐹\n𝑆\n2\n𝐷\n𝐶\n𝐴\n𝐵\n2",
+   "key": "Zadanie 10. (0–4)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nobliczy długości boków  𝐶𝐹  i  𝐶𝑆:  |𝐶𝐹| = 2√2,  |𝐶𝑆| = √5\nALBO\n\nobliczy tylko długość boku  |𝐹𝑆|:  |𝐹𝑆| = 3.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy obliczy długości trzech boków trójkąta  𝐶𝐹𝑆:  |𝐶𝐹| = 2√2,  |𝐶𝑆| = √5  oraz  |𝐹𝑆| = 3.\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy zapisze zależność, wynikającą z twierdzenia cosinusów zastosowanego do trójkąta  𝐶𝐹𝑆,\n2 = (2√2)\n2 + 32 −2 ⋅2√2 ⋅3 ⋅cos(∡𝐶𝐹𝑆).\nnp.  (√5)\nZdający otrzymuje  .......................................................................................................... 4 p.\ngdy wyznaczy miarę kąta  𝐶𝐹𝑆:  |∡𝐶𝐹𝑆| = 45°.\nPrzykładowe pełne rozwiązanie\nRozwiązanie rozpoczniemy od obliczenia długości boków trójkąta  𝐶𝐹𝑆. Mamy oczywiście\n|𝐶𝐹| = 2√2  oraz  |𝐶𝑆| = √22 + 12 = √5.\nDorysujmy teraz odcinek  𝐹𝐻.\n𝐻\n𝐺\n2\n𝐸\n𝐹\n𝑆\n2\n𝐷\n𝐶\n𝐴\n2\n𝐵\nOczywiście  |∡𝐹𝐻𝑆| = 90°, więc\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\n2 + 12 = 3\n|𝐹𝑆| = √|𝐹𝐻|2 + |𝐻𝑆|2 = √(2√2)\nTrójkąt  𝐶𝐹𝑆  ma zatem boki o następujących długościach:  |𝐶𝐹| = 2√2,  |𝐶𝑆| = √5  oraz\n|𝐹𝑆| = 3.\nNajmniejszy kąt wewnętrzny trójkąta znajduje się naprzeciw najkrótszego boku, zatem jest nim\nkąt  𝐶𝐹𝑆.\nZ twierdzenia cosinusów zastosowanego do trójkąta  𝐶𝐹𝑆  wynika, że\n|𝐶𝑆|2 = |𝐶𝐹|2 + |𝐹𝑆|2 −2 ⋅|𝐶𝐹| ⋅|𝐹𝑆| ⋅cos(∡𝐶𝐹𝑆)\nStąd otrzymujemy\n2 = (2√2)\n2 + 32 −2 ⋅2√2 ⋅3 ⋅cos(∡𝐶𝐹𝑆)\n(√5)\n5 = 8 + 9 −12√2 ⋅cos(∡𝐶𝐹𝑆)\ncos(∡𝐶𝐹𝑆) = √2\n2\nwięc najmniejszy kąt w trójkącie  𝐶𝐹𝑆  ma miarę  45°."
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2021-czerwiec/11.webp",
+   "size": [
+    950,
+    213
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–4)\nW pewnym telewizyjnym programie bierze udział trzech sportowców i pewna liczba aktorów.\nW trakcie tego programu uczestnicy siadają na fotelach w rzędzie, naprzeciw prowadzącego\n(liczba foteli jest równa liczbie uczestników). Prawdopodobieństwo zdarzenia polegającego na\ntym, że cała trójka sportowców będzie siedziała obok siebie przy losowym wyborze miejsc jest\nrówne  1\n15 . Oblicz, ilu aktorów bierze udział w tym programie.",
+   "key": "Zadanie 11. (0–4)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\npoprawnie poda liczbę możliwych rozmieszczeń wszystkich uczestników programu, np.\n(𝑛+ 3)!\nALBO\n\npoprawnie poda liczbę możliwych rozmieszczeń, w których sportowcy siedzą obok\nsiebie np.  (𝑛+ 1) ⋅3! ⋅𝑛!.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy poprawnie poda liczbę możliwych rozmieszczeń, w których sportowcy siedzą obok siebie,\nnp.  (𝑛+ 1) ⋅3! ⋅𝑛!  lub innym rozumowaniem  3! ⋅(𝑛+ 1)!  oraz liczbę wszystkich\nrozmieszczeń  (𝑛+ 3)!.\nZdający otrzymuje  .......................................................................................................... 3 p.\n(𝑛+2)(𝑛+3) = 1\n6\ngdy zapisze równanie\n15 .\nZdający otrzymuje  .......................................................................................................... 4 p.\ngdy poprawnie obliczy liczbę aktorów:  7.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nNiech  𝑛  oznacza liczbę aktorów uczestniczących w programie (𝑛∈ℕ), natomiast  𝐴  –\nzdarzenie polegające na tym, że trójka sportowców będzie siedziała obok siebie przy losowym\nwyborze miejsc. Wtedy\n𝑃(𝐴) = 3! ⋅(𝑛+ 1)!\n(𝑛+ 3)!\nStąd po uproszczeniu otrzymujemy\n6\n(𝑛+ 2)(𝑛+ 3)\n𝑃(𝐴) =\nZ treści zadania otrzymujemy równanie\n(𝑛+ 2)(𝑛+ 3) = 1\n6\n15\nco prowadzi do\n(𝑛+ 2)(𝑛+ 3) = 90\n𝑛2 + 5𝑛−84 = 0\n(𝑛−7)(𝑛+ 12) = 0\nZatem  𝑛= 7, gdyż  𝑛= −12  przeczy założeniom. W tym programie bierze zatem udział\n7  aktorów.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r."
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2021-czerwiec/12.webp",
+   "size": [
+    919,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–5)\nWyznacz wszystkie wartości parametru  𝑚, dla których równanie\nሺ𝑥−3ሻሺ𝑥ଶ+ ሺ𝑚−1ሻ𝑥−6𝑚ଶ+ 2𝑚ሻ= 0\nma dokładnie dwa rozwiązania.",
+   "key": "Zadanie 12. (0–5)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nzapisze, że liczba  3  jest jednym z rozwiązań równania i liczba  3  musi być\njednokrotnym pierwiastkiem trójmianu kwadratowego  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚\nALBO\n\nzapisze, że  Δ = 0  i  𝑥0 ≠3  (tj. dwukrotny pierwiastek trójmianu jest różny od  3)\nALBO\nrozwiąże równanie  Δ = 0, otrzymując  𝑚= 1\n\n5.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy:\nrozwiąże równanie  Δ = 0, otrzymując  𝑚= 1\n5  i sprawdzi, że dla  𝑚= 1\n\n5  trójmian\n𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚  ma jeden pierwiastek podwójny różny od liczby  3\nALBO\n\nzapisze, że liczba  3  jest jednym z rozwiązań równania i wyznaczy pierwiastki\ntrójmianu  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚:\n𝑥1 = −𝑚+ 1 −|5𝑚−1|\ni     𝑥2 = −𝑚+ 1 + |5𝑚−1|\n2\n2\nZdający otrzymuje  .......................................................................................................... 3 p.\ngdy:\n\nzapisze, że liczba  3  jest jednym z rozwiązań równania, wyznaczy pierwiastki  𝑥1  oraz\n𝑥2  trójmianu  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚  i zapisze je bez użycia wartości\nbezwzględnej:  𝑥1 = 2𝑚  oraz  𝑥2 = −3𝑚+ 1\nALBO\nzapisze równanie  32 + (𝑚−1) ⋅3 −6𝑚2 + 2𝑚= 0.\n\nZdający otrzymuje  .......................................................................................................... 4 p.\ngdy:\nzapisze alternatywę (𝑚= 1\n5  i  𝑚≠3\n2)  lub  (𝑚≠1\n5  i  𝑚= 3\n\n2)  lub\n(𝑚≠1\n5  i  𝑚= −2\n3)\nALBO\nrozwiąże równanie  32 + (𝑚−1) ⋅3 −6𝑚2 + 2𝑚= 0.\n\nZdający otrzymuje  .......................................................................................................... 5 p.\ngdy zastosuje poprawną metodę i otrzyma poprawny wynik: 𝑚= −2\n3  lub  𝑚= 1\n5  lub  𝑚= 3\n2.\nZasady oceniania rozwiązań zadań\nUwaga:\nJeśli zdający popełnia błąd, zapisując  √𝛥= √(5𝑚−1)2 = 5𝑚−1  i konsekwentnie do tego\nbłędu rozwiąże zadanie do końca, to otrzymuje co najwyżej 3 punkty za całe rozwiązanie.\nPrzykładowe pełne rozwiązania\nSposób 1.\nJednym z rozwiązań równania jest liczba  𝑥3 = 3. Jeśli podane równanie ma mieć dokładnie\ndwa rozwiązania, to trójmian kwadratowy  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚  powinien mieć\npierwiastek podwójny inny niż  3  albo dwa różne pierwiastki, z których jeden jest równy  3.\nObliczamy wyróżnik trójmianu  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚:\nΔ = (𝑚−1)2 −4 ⋅1 ⋅(−6𝑚2 + 2𝑚) = 25𝑚2 −10𝑚+ 1 = (5𝑚−1)2\nZatem dla każdej liczby rzeczywistej  𝑚  ten wyróżnik przyjmuje wartość nieujemną.\nPierwiastkami tego trójmianu są więc liczby\n𝑥1 = −𝑚+ 1 −|5𝑚−1|\ni     𝑥2 = −𝑚+ 1 + |5𝑚−1|\n2\n2\nDla  𝑚∈(−∞, 1\n5)  otrzymujemy\n𝑥1 = −𝑚+ 1 + 5𝑚−1\n= 2𝑚     i     𝑥2 = −𝑚+ 1 −5𝑚+ 1\n= −3𝑚+ 1\n2\n2\nDla  𝑚∈[1\n5 , +∞)  otrzymujemy\n𝑥1 = −𝑚+ 1 −5𝑚+ 1\n= −3𝑚+ 1     i     𝑥2 = −𝑚+ 1 + 5𝑚−1\n= 2𝑚\n2\n2\nZatem, z dokładnością do oznaczeń, dla każdego  𝑚∈𝑅  zachodzi  𝑥1 = 2𝑚  oraz\n𝑥2 = −3𝑚+ 1.\nNależy zatem rozpatrzeć trzy sytuacje:\n(Δ = 0  i  𝑥1 ≠3)  lub  (Δ > 0  i  𝑥1 = 3)  lub  (Δ > 0  i  𝑥2 = 3).\nRozpatrując każdą z nich, otrzymujemy odpowiednio:\n(𝑚= 1\n5  i  𝑚≠3\n2)  lub  (𝑚≠1\n5  i  𝑚= 3\n2)  lub  (𝑚≠1\n5  i  𝑚= −2\n3)\n𝑚= 1\n5    lub    𝑚= 3\n2     lub     𝑚= −2\n3\nZatem podane w treści zadania równanie ma dokładnie dwa rozwiązania dla  𝑚∈{−2\n3 , 1\n5 , 3\n2}.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\nSposób 2.\nJednym z rozwiązań równania jest liczba  𝑥3 = 3. Jeśli podane równanie ma mieć dokładnie\ndwa rozwiązania, to trójmian kwadratowy  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚  powinien mieć\npierwiastek podwójny inny niż  3  albo dwa różne pierwiastki, z których jeden jest równy  3.\nObliczamy wyróżnik trójmianu  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚:\nΔ = (𝑚−1)2 −4 ⋅1 ⋅(−6𝑚2 + 2𝑚) = 25𝑚2 −10𝑚+ 1 = (5𝑚−1)2\nDla  𝑚= 1\n5  trójmian ma dwukrotny pierwiastek  𝑥0 = −𝑚+1\n= 2\n5  różny od  3.\n2\nSprawdzamy, dla jakich wartości  𝑚  liczba  3  jest pierwiastkiem trójmianu\n𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚:\n32 + (𝑚−1) ⋅3 −6𝑚2 + 2𝑚= 0\n−6𝑚2 + 5𝑚+ 6 = 0\n𝑚= 3\n2      lub    𝑚= −2\n3\nPonieważ dla każdej z tych otrzymanych wartości  𝑚= 3\n2  oraz  𝑚= −2\n3  wyróżnik  Δ  jest\nwiększy od zera, więc w obu przypadkach trójmian  𝑥2 + (𝑚−1)𝑥−6𝑚2 + 2𝑚  ma dwa\nróżne pierwiastki, z których jeden jest równy  3.\nZatem podane w treści zadania równanie ma dokładnie dwa rozwiązania dla  𝑚∈{−2\n3 , 1\n5 , 3\n2}.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2021-czerwiec/13.webp",
+   "size": [
+    951,
+    134
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–5)\nDana jest funkcja  𝑓  określona wzorem  𝑓ሺ𝑥ሻ= 𝑥3+𝑘\ndla każdej liczby rzeczywistej  𝑥≠0.\n𝑥\nOblicz wartość  𝑘, dla której prosta o równaniu  𝑦= −𝑥  jest styczna do wykresu funkcji  𝑓.",
+   "key": "Zadanie 13. (0–5)\nZasady oceniania\nZdający otrzymuje ........................................................................................................... 1 p.\ngdy:\nobliczy pochodną funkcji  𝑓:  𝑓′(𝑥) = 2𝑥3−𝑘\n\n=  dla  𝑥≠0\n𝑥2\nALBO\n\nzapisze równanie wynikające z faktu, że punkt styczności należy do wykresu funkcji  𝑓:\n3+𝑘\n−𝑥0 = 𝑥0\n𝑥0\nALBO\n\nskorzysta z geometrycznej interpretacji pochodnej funkcji w punkcie i zapisze\nrównanie:  𝑓′(𝑥0) = −1\nZdający otrzymuje ........................................................................................................... 2 p.\ngdy skorzysta z geometrycznej interpretacji pochodnej funkcji w punkcie i zapisze równanie:\n3−𝑘\n2𝑥0\n= −1.\n𝑥02\nZdający otrzymuje ........................................................................................................... 3 p.\ngdy zapisze układ dwóch równań z dwiema niewiadomymi  𝑥0  oraz  𝑘  prowadzący do\n3+𝑘\n3−𝑘\nwyznaczenia parametru  𝑘, np.:  −𝑥0 = 𝑥0\ni  2𝑥0\n= −1.\n𝑥0\n𝑥02\nZdający otrzymuje ........................................................................................................... 4 p.\n3+𝑘\n3−𝑘\ngdy obliczy z układu równań  −𝑥0 = 𝑥0\ni  2𝑥0\n= −1  niewiadomą  𝑥0:  𝑥0 = −2\n3.\n𝑥02\n𝑥0\nUwaga:\n2  w zbiorze  ℝ:  𝑥0 = −2\n3 = −2𝑥0\nWystarczy, że zdający rozwiąże równanie  3𝑥0\n3 ,  𝑥0 = 0.\nZdający otrzymuje ........................................................................................................... 5 p.\ngdy zastosuje poprawną metodę i uzyska poprawny wynik:  𝑘= −4\n27 .\nUwagi:\n1 Jeśli zdający przy wyznaczaniu pochodnej popełnia błąd w potędze zmiennej lub traktuje\nparametr  𝑘  jako zmienną, to może otrzymać co najwyżej 1 punkt za zapisanie warunku\n3+𝑘\n−𝑥0 = 𝑥0\nlub za zapisanie, że  𝑓′(𝑥0) = −1.\n𝑥0\n2. Jeśli zdający, obliczając  pochodną funkcji  𝑓, zapisze  𝑓′(𝑥) = 2𝑥3+𝑘\n(tj. błędnie ustali\n𝑥2\nznak przed współczynnikiem  𝑘), to błąd ten traktujemy jako błąd rachunkowy.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\nPrzykładowe pełne rozwiązanie\nNiech punkt  𝑃= (𝑥0, 𝑦0), gdzie  𝑥0 ≠0,  będzie punktem styczności prostej  𝑦= −𝑥  do\nwykresu funkcji  𝑓. Wtedy   𝑦0 = −𝑥0 , więc\n3 + 𝑘\n– 𝑥0 = 𝑥0\n𝑥0\nPochodna funkcji  𝑓  jest równa\n𝑓′(𝑥) = 3𝑥2 ⋅𝑥−(𝑥3 + 𝑘) ⋅1\n= 2𝑥3 −𝑘\n𝑥2\n𝑥2\ndla każdej liczby rzeczywistej  𝑥≠0.\nZ warunków zadania wynika, że współczynnik kierunkowy stycznej jest równy  (−1); jest on\n3−𝑘\nwartością pochodnej dla  𝑥0. Zatem  2𝑥0\n= −1. Otrzymujemy układ równań\n2\n𝑥0\n3 + 𝑘\n3 −𝑘\n– 𝑥0 = 𝑥0\ni    2𝑥0\n= −1\n2\n𝑥0\n𝑥0\nDla  𝑥0 ≠0  jest on równoważny układowi\n3 + 𝑘= −𝑥0\n3 −𝑘= −𝑥0\n2    i    2𝑥0\n2\n𝑥0\n3 = −2𝑥0\n2.\nStąd otrzymujemy równanie  3𝑥0\n2, otrzymujemy  𝑥0 = −2\nPonieważ  𝑥0 ≠0, więc dzieląc obie strony tego równania przez  3𝑥0\n3.\n2 = 8\n27 −4\n9 = −4\n3 −𝑥0\nZatem  𝑘= −𝑥0\n27 .\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2021-czerwiec/14.webp",
+   "size": [
+    950,
+    231
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–5)\nNa okręgu jest opisany czworokąt  𝐴𝐵𝐶𝐷. Bok  𝐴𝐷  tego czworokąta jest dwa razy dłuższy od\nboku  𝐴𝐵, a przekątna  𝐵𝐷  ma długość równą  6. Ponadto spełnione są następujące warunki:\ncosሺ∡𝐴𝐷𝐵ሻ= 7\n8 ,     |∡𝐵𝐶𝐷| = 90°     oraz     |𝐴𝐵| > √15.\nOblicz długość boku  𝐵𝐶  tego czworokąta.",
+   "key": "Zadanie 14. (0–5)\nZasady oceniania\nZdający otrzymuje ........................................................................................................... 1 p.\ngdy zapisze równanie z jedną niewiadomą (długością boku  𝐴𝐵  albo  𝐴𝐷), wynikające\nz twierdzenia cosinusów zastosowanego do trójkąta  𝐴𝐵𝐷, np.\n|𝐴𝐵|2 = (2|𝐴𝐵|)2 + 62 −2 ⋅2 ⋅|𝐴𝐵| ⋅6 ⋅cos(∡𝐴𝐷𝐵)\nZdający otrzymuje ........................................................................................................... 2 p.\ngdy obliczy długość boku  𝐴𝐵  lub  𝐴𝐷:  |𝐴𝐵| = 4,  |𝐴𝐷| = 8.\nZdający otrzymuje ........................................................................................................... 3 p.\ngdy zastosuje twierdzenie o czworokącie opisanym na okręgu oraz twierdzenie Pitagorasa\ni zapisze układ równań z niewiadomymi  |𝐵𝐶|  i  |𝐶𝐷|:  {|𝐶𝐷| = |𝐵𝐶| + 4\n|𝐵𝐶|2 + |𝐶𝐷|2 = 36\nZdający otrzymuje ........................................................................................................... 4 p.\ngdy nie odrzuci rozwiązania  |𝐴𝐵| = 3, rozwiąże dwa równania:\n|𝐵𝐶|2 + (|𝐵𝐶| + 4)2 = 36  oraz  |𝐵𝐶|2 + (|𝐵𝐶| + 3)2 = 36\ni zapisze dwa dodatnie rozwiązania tych równań: |𝐵𝐶| = −2 + √14  oraz  |𝐵𝐶| = −3+3√7\n.\n2\nZdający otrzymuje ........................................................................................................... 5 p.\ngdy zastosuje poprawną metodę i otrzyma poprawny wynik:  |𝐵𝐶| = −2 + √14.\nUwagi:\n1. Jeśli zdający zakłada błędnie, że  cos(∡𝐵𝐴𝐷) = 7\n8  i konsekwentnie rozwiąże zadanie do\nkońca, to otrzymuje co najwyżej 2 punkty.\n2. Jeśli zdający zakłada błędnie, że  |𝐴𝐵| = 2 ⋅|𝐴𝐷|  i konsekwentnie rozwiąże zadanie do\nkońca, to otrzymuje co najwyżej 2 punkty.\n3. Jeśli zdający zapisze równanie z dwiema niewiadomymi, wynikające z twierdzenia\no czworokącie opisanym na okręgu oraz z twierdzenia Pitagorasa zastosowanego do\ntrójkąta  𝐵𝐶𝐷, np.:  |𝐴𝐵| + √36 −|𝐵𝐶|2 = |𝐵𝐶| + 2 ⋅|𝐴𝐵|  i na tym zakończy, to\notrzymuje 1 punkt.\nPrzykładowe pełne rozwiązanie\nOznaczmy  𝑎= |𝐴𝐵|.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\n2𝑎\n6\n𝑎\nDo trójkąta  𝐴𝐵𝐷  stosujemy twierdzenie cosinusów  i otrzymujemy\n𝑎2 = (2𝑎)2 + 62 −2 ⋅2𝑎⋅6 ⋅cos(∡𝐴𝐷𝐵)\nPonieważ  cos(∡𝐴𝐷𝐵) = 7\n8, więc\n𝑎2 = (2𝑎)2 + 62 −2 ⋅2𝑎⋅6 ⋅7\n8\n𝑎2 −7𝑎+ 12 = 0\n𝑎= 3    lub    𝑎= 4\ni po uwzględnieniu warunku  |𝐴𝐵| > √15  otrzymujemy  |𝐴𝐵| = 4  oraz  |𝐴𝐷| = 8.\nKorzystamy z twierdzenia o czworokącie opisanym na okręgu i otrzymujemy\n|𝐴𝐵| + |𝐶𝐷| = |𝐵𝐶| + |𝐴𝐷|\n4 + |𝐶𝐷| = |𝐵𝐶| + 8\n|𝐶𝐷| = |𝐵𝐶| + 4\nStosujemy twierdzenie Pitagorasa w trójkącie prostokątnym  𝐵𝐶𝐷  i otrzymujemy kolejno:\n|𝐵𝐶|2 + (|𝐵𝐶| + 4)2 = |𝐵𝐷|2\n|𝐵𝐶|2 + (|𝐵𝐶| + 4)2 = 36\n|𝐵𝐶|2 + 4|𝐵𝐶| −10 = 0\n|𝐵𝐶| = −2 −√14    lub    |𝐵𝐶| = −2 + √14\nPonieważ  −2 −√14 < 0, więc  |𝐵𝐶| = −2 + √14.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 7,
+   "image": "f2015-R-2021-czerwiec/15.webp",
+   "size": [
+    951,
+    321
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–7)\nRozpatrujemy wszystkie trójkąty prostokątne  𝐴𝐵𝐶  o przeciwprostokątnej  𝐴𝐵  i obwodzie\nrównym  4. Niech  𝑥= |𝐴𝐶|.\na) Wykaż, że pole  𝑃  trójkąta  𝐴𝐵𝐶  jako funkcja zmiennej  𝑥  jest określone wzorem\n𝑃ሺ𝑥ሻ= 𝑥ሺ4 −2𝑥ሻ\n4 −𝑥\nb) Wyznacz dziedzinę funkcji  𝑃.\nc) Oblicz długości boków tego z rozpatrywanych trójkątów, który ma największe pole. Oblicz\nto największe pole.",
+   "key": "Zadanie 15. (0–7)\nŁącznie za zadanie zdający może otrzymać 7 punktów: 2 punkty za rozwiązanie podpunktu a),\n1 punkt za rozwiązanie podpunktu b) oraz 4 punkty za rozwiązanie podpunktu c).\nZasady oceniania dla podpunktu a)\nZdający otrzymuje ........................................................................................................... 1 p.\ngdy:\n\nzapisze równość wynikającą z twierdzenia Pitagorasa oraz podanego obwodu tego\n2 = 𝑥2 + 𝑏2\ntrójkąta, np.  (4 −(𝑥+ 𝑏))\nALBO\nzapisze układ równań  𝑥2 + 𝑦2 = 𝑐2  i  𝑦= 4 −𝑥−𝑐.\n\nZdający otrzymuje ........................................................................................................... 2 p.\ngdy wykaże, że pole  𝑃  trójkąta  𝐴𝐵𝐶  jako funkcja zmiennej  𝑥  wyraża się wzorem\n𝑃(𝑥) = 𝑥(4−2𝑥)\n.\n4−𝑥\nZasady oceniania dla podpunktu b)\nZdający otrzymuje ........................................................................................................... 1 p.\ngdy zapisze, że dziedziną funkcji  𝑃  jest przedział liczbowy  (0, 2).\nUwagi:\n1. Punkt za wyznaczenie dziedziny funkcji zdający otrzymuje niezależnie od realizacji\npodpunktu a) zadania, pod warunkiem, że rozważa wyznaczoną przez siebie funkcję jednej\nzmiennej.\nZasady oceniania dla podpunktu c)\nZdający otrzymuje ........................................................................................................... 1 p.\ngdy wyznaczy pochodną funkcji  𝑃:  𝑃′(𝑥) = 2𝑥2−16𝑥+16\n, gdzie  𝑥∈(0, 2).\n(4−𝑥)2\nZdający otrzymuje ........................................................................................................... 2 p.\ngdy zastosuje warunek konieczny istnienia ekstremum funkcji  𝑃  i obliczy miejsca zerowe\npochodnej  𝑃′:  𝑥= 4 −2√2.\nZdający otrzymuje ........................................................................................................... 3 p.\ngdy zbada znak pochodnej funkcji  𝑃  oraz wyznaczy (z uzasadnieniem) wartość zmiennej  𝑥,\ndla której funkcja  𝑃  przyjmuje wartość największą, np.:\n𝑃′(𝑥) > 0   dla  𝑥∈(0, 4 −2√2)\n𝑃′(𝑥) < 0   dla  𝑥∈(4 −2√2, 2)\nFunkcja  𝑃  jest rosnąca w przedziale  (0, 4 −2√2]  oraz malejąca w przedziale  [4 −2√2, 2),\nwięc w punkcie  𝑥= 4 −2√2  funkcja  𝑃  osiąga największą wartość.\nEgzamin maturalny z matematyki (poziom rozszerzony) – sesja dodatkowa 2021 r.\nZdający otrzymuje ........................................................................................................... 4 p.\ngdy zapisze, że przy podanym obwodzie równym  4, największe pole równe  4(3 −2√2)  ma\ntrójkąt o bokach  4 −2√2, 4 −2√2  i  4√2 −4.\nUwagi:\n1. Jeżeli zdający wyznaczy pochodną funkcji  𝑃  z błędem, ale wyznaczona pochodna jest\nfunkcją wymierną postaci  𝑎𝑥2+𝑏𝑥+𝑐\n, gdzie  𝑎𝑥2 + 𝑏𝑥+ 𝑐  jest trójmianem kwadratowym,\n(4−𝑥)2\nmającym wyróżnik dodatni, to zdający może otrzymać punkty za obliczenie miejsc zerowych\npochodnej i wyznaczenie argumentu, dla którego pole osiąga największą wartość, o ile\nkonsekwentnie do popełnionego błędu obliczy miejsca zerowe pochodnej lub uzasadni\nistnienie największej wartości rozważanej funkcji.\n2. Badanie znaku pochodnej zdający może opisać w inny sposób, np. szkicując wykres funkcji,\nktóra w ten sam sposób jak pochodna zmienia znak.\n3. Za poprawne uzasadnienie, że rozważana funkcja posiada wartość największą dla\nwyznaczonej wartości  𝑥, przy której pochodna się zeruje, można uznać sytuacje, gdy\nzdający:\na) opisuje, słownie lub graficznie (np. przy użyciu strzałek), monotoniczność funkcji  𝑃;\nb) zapisuje, że dla wyznaczonej wartości  𝑥  funkcja  𝑃  ma maksimum lokalne i jest to\njednocześnie jej największa wartość.\nJeżeli zdający nie przedstawi takiego uzasadnienia, to może otrzymać co najwyżej\n2 punkty (otrzymuje punkty za wyznaczenie pochodnej funkcji  𝑃  oraz wyznaczenie miejsc\nzerowych pochodnej funkcji  𝑃).\n4. Punkt za wyznaczenie największej wartości funkcji  𝑃  i długości boków trójkąta\no największym polu zdający otrzymuje wtedy, gdy otrzymał punkt za poprawne\nuzasadnienie, że funkcja  𝑃  osiąga wartość największą  w punkcie  𝑥= 4 −2√2.\nPrzykładowe pełne rozwiązanie\na) i b)\nPrzyjmijmy następujące oznaczenia:  𝑏= |𝐵𝐶|,  𝑐= |𝐴𝐵|.\nZ warunków zadania  𝑥+ 𝑏+ 𝑐= 4, więc  𝑐= 4 −(𝑥+ 𝑏).\nStosujemy twierdzenie Pitagorasa do trójkąta  𝐴𝐵𝐶  i otrzymujemy\n𝑐2 = 𝑥2 + 𝑏2\n[4 −(𝑥+ 𝑏)]2 = 𝑥2 + 𝑏2\n𝑏(4 −𝑥) = 8 −4𝑥\n𝑏= 8 −4𝑥\n4 −𝑥 ,       gdzie 8 −4𝑥\n4 −𝑥> 0   i   0 < 𝑥< 4\nWyznaczamy pole tego trójkąta, jako funkcję długości  𝑥  jego przyprostokątnej  𝐴𝐶:\nZasady oceniania rozwiązań zadań\n𝑃= 1\n2 ⋅𝑥⋅𝑏= 1\n2 ⋅𝑥⋅8 −4𝑥\n4 −𝑥= 𝑥(4 −2𝑥)\n4 −𝑥\ngdzie  8−4𝑥\n4−𝑥> 0  i  0 < 𝑥< 4.\nWyznaczamy dziedzinę funkcji  𝑃:\n8 −4𝑥\n4 −𝑥> 0  i  0 < 𝑥< 4\n0 < 𝑥< 2\nObliczamy pochodną funkcji  𝑃:\n𝑃′(𝑥) = (4𝑥−2𝑥2)′ ⋅(4 −𝑥) −(4𝑥−2𝑥2) ⋅(4 −𝑥)′\n= 2𝑥2 −16𝑥+ 16\n(4 −𝑥)2\n(4 −𝑥)2\ndla  𝑥∈(0, 2).\nObliczamy miejsce zerowe funkcji  𝑃′:\n2𝑥2 −16𝑥+ 16\n= 0\n(4 −𝑥)2\n2𝑥2 −16𝑥+ 16 = 0\nΔ = (−16)2 −4 ⋅2 ⋅16 = 8 ⋅16\n𝑥= 16 + 8√2\n= 4 + 2√2 ∉(0, 2)     lub     𝑥= 16 −8√2\n= 4 −2√2 ∈(0, 2)\n4\n4\nBadamy monotoniczność funkcji  𝑃:\n𝑃′(𝑥) > 0   dla  𝑥∈(0, 4 −2√2)\n𝑃′(𝑥) < 0   dla  𝑥∈(4 −2√2, 2)\nZatem\nfunkcja  𝑃  jest rosnąca w przedziale  (0, 4 −2√2],\nfunkcja  𝑃  jest malejąca w przedziale  [4 −2√2, 2).\nStąd w punkcie  𝑥= 4 −2√2  funkcja  𝑃  osiąga największą wartość.\nc)\nGdy  𝑥= 4 −2√2, to wtedy  𝑏= 8−4𝑥\n4−𝑥= 4(2√2−2)\n= 4 −2√2.\n2√2\n2 = 4(3 −2√2).\nZatem  𝑐= 𝑥√2 = 4√2 −4  i  𝑃(4 −2√2) = 1\n2 ⋅𝑥⋅𝑏= 1\n2 ⋅(4 −2√2)\nSpośród rozważanych trójkątów największe pole ma trójkąt o bokach  4 −2√2, 4 −2√2  oraz\n4√2 −4. Pole tego trójkąta jest równe  4(3 −2√2)."
+  }
+ ]
+}

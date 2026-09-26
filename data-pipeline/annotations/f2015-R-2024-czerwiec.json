@@ -1,0 +1,135 @@
+{
+ "exam": "f2015-R-2024-czerwiec",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1296, "value_tex": "1296", "answer_tex": "1296",
+   "category": "liczby", "topic_pl": "Potęgi i logarytmy", "topic_en": "Powers and logarithms",
+   "difficulty": 3,
+   "summary_pl": "Oblicz $81^{\\frac{3\\log6}{\\log27}}$", "summary_en": "Compute $81^{\\frac{3\\log6}{\\log27}}$",
+   "statement_en": "The number $81^{\\frac{3\\log6}{\\log27}}$ is equal to A. $6561$ B. $3^{8/3}$ C. $1296$ D. $3^{4\\log189}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -831.3843876330611, "value_tex": "-480\\sqrt3", "answer_tex": "-480\\sqrt3",
+   "category": "liczby", "topic_pl": "Wzory skróconego mnożenia", "topic_en": "Cube sum/difference formulas",
+   "difficulty": 3,
+   "summary_pl": "Oblicz $(2-4\\sqrt3)^3-(2+4\\sqrt3)^3$", "summary_en": "Compute $(2-4\\sqrt3)^3-(2+4\\sqrt3)^3$",
+   "statement_en": "The number $(2-4\\sqrt3)^3-(2+4\\sqrt3)^3$ is equal to A. $-128\\sqrt3$ B. $-384\\sqrt3$ C. $-1184\\sqrt3$ D. $-480\\sqrt3$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "3", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 43.982297150257104, "value_tex": "14\\pi", "answer_tex": "14\\pi",
+   "category": "planimetria", "topic_pl": "Twierdzenie sinusów", "topic_en": "Law of sines",
+   "difficulty": 3,
+   "summary_pl": "Trójkąt: $AB=4\\sqrt6$, $\\sin(\\alpha+\\beta)=\\frac{2\\sqrt6}{7}$. Okrąg opisany?", "summary_en": "Triangle: $AB=4\\sqrt6$, $\\sin(\\alpha+\\beta)=\\frac{2\\sqrt6}{7}$. Circumcircle length?",
+   "statement_en": "In triangle ABC side AB has length $4\\sqrt6$. Moreover $|\\angle BAC|=\\alpha$, $|\\angle ABC|=\\beta$, and $\\sin(\\alpha+\\beta)=\\frac{2\\sqrt6}{7}$. The circumference of the circle circumscribed on triangle ABC is equal to A. $14\\pi$ B. $14\\sqrt6\\,\\pi$ C. $49\\pi$ D. $\\frac{14\\sqrt6}{5}\\pi$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "4", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 8, "value_tex": "8", "answer_tex": "a=8",
+   "category": "analiza", "topic_pl": "Styczna do wykresu funkcji", "topic_en": "Tangent to a function graph",
+   "difficulty": 3,
+   "summary_pl": "$f(x)=2x^3+4x^2-9$. Styczna w $P=(-2,-9)$: $a=?$", "summary_en": "$f(x)=2x^3+4x^2-9$. Tangent at $P=(-2,-9)$: find a",
+   "statement_en": "The function f is given by the formula $f(x)=2x^3+4x^2-9$ for every real number x. The line with equation $y=ax+b$ is tangent to the graph of function f at point $P=(-2,-9)$. The coefficient a in the equation of this tangent line is equal to A. $8$ B. $-2$ C. $-1$ D. $-11$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 4.330127018922193, "value_tex": "\\frac{5\\sqrt3}{2}", "answer_tex": "\\frac{5\\sqrt3}{2}\\approx4{,}33",
+   "category": "ciagi", "topic_pl": "Granica ciągu", "topic_en": "Limit of a sequence",
+   "difficulty": 3,
+   "summary_pl": "Oblicz $\\lim\\limits_{n\\to\\infty}\\frac{15n+24}{2\\sqrt{3n^2+4n-2}}$", "summary_en": "Compute $\\lim\\limits_{n\\to\\infty}\\frac{15n+24}{2\\sqrt{3n^2+4n-2}}$",
+   "statement_en": "The limit $\\lim_{n\\to+\\infty}\\frac{15n+24}{2\\sqrt{3n^2+4n-2}}$ exists and is finite. Calculate this limit. In the boxes below, enter, from left to right, the units digit and the first two decimal digits of the infinite decimal expansion of the result obtained.",
+   "confidence": "high", "notes": "Coded-answer task; key gives digits 4,3,3 i.e. 4.33..., exact value 5*sqrt3/2"
+  },
+  {
+   "task": "6", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.06666666666666667, "value_tex": "\\frac{1}{15}", "answer_tex": "P(A|B)=\\frac{1}{15}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo warunkowe", "topic_en": "Conditional probability",
+   "difficulty": 4,
+   "summary_pl": "10 rzutów monetą. $P$(3 orły z rzędu | dokładnie 3 orły)", "summary_en": "10 coin tosses. Find P(3 heads in a row | exactly 3 heads)",
+   "statement_en": "A random experiment consists of tossing a fair coin ten times. Calculate the probability of the event that heads appeared exactly three times in a row in this experiment, given that heads appeared exactly three times.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "7", "include": false, "exclude_reason": "proof",
+   "answer_kind": null, "value": null, "value_tex": null, "answer_tex": null,
+   "category": "rownania", "topic_pl": "Nierówności dowodowe", "topic_en": "Proving inequalities",
+   "difficulty": 4,
+   "summary_pl": null, "summary_en": null, "statement_en": null,
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "8", "include": false, "exclude_reason": "proof",
+   "answer_kind": null, "value": null, "value_tex": null, "answer_tex": null,
+   "category": "planimetria", "topic_pl": "Trapez opisany na okręgu", "topic_en": "Tangential trapezoid",
+   "difficulty": 4,
+   "summary_pl": null, "summary_en": null, "statement_en": null,
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "9", "include": false, "exclude_reason": "expression",
+   "answer_kind": null, "value": null, "value_tex": null, "answer_tex": null,
+   "category": "ciagi", "topic_pl": "Szereg geometryczny", "topic_en": "Geometric series",
+   "difficulty": 4,
+   "summary_pl": null, "summary_en": null, "statement_en": null,
+   "confidence": "high", "notes": "Answer is the general term formula a_n=12*(1/2)^(n-1), not a number"
+  },
+  {
+   "task": "10", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1.5825756949558398, "value_tex": "\\sqrt{21}-3", "answer_tex": "\\sqrt{21}-3",
+   "category": "planimetria", "topic_pl": "Twierdzenie cosinusów", "topic_en": "Law of cosines",
+   "difficulty": 4,
+   "summary_pl": "Trójkąt w okręgu $r=4$: $AB=6$, $BC=4\\sqrt3$ (najdł.). $AC=?$", "summary_en": "Triangle in circle r=4: AB=6, BC=4√3 (longest side). Find AC",
+   "statement_en": "Triangle ABC is inscribed in a circle of radius 4. The length of side AB is equal to 6. Side BC has length $4\\sqrt3$ and is the longest side of this triangle. Calculate the length of side AC of triangle ABC.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "11", "include": false, "exclude_reason": "interval_or_set",
+   "answer_kind": null, "value": null, "value_tex": null, "answer_tex": null,
+   "category": "trygonometria", "topic_pl": "Równania trygonometryczne", "topic_en": "Trigonometric equations",
+   "difficulty": 4,
+   "summary_pl": null, "summary_en": null, "statement_en": null,
+   "confidence": "high", "notes": "Answer is an infinite general solution set with parameter k in Z"
+  },
+  {
+   "task": "12", "include": false, "exclude_reason": "expression",
+   "answer_kind": null, "value": null, "value_tex": null, "answer_tex": null,
+   "category": "stereometria", "topic_pl": "Graniastosłup prawidłowy", "topic_en": "Regular prism",
+   "difficulty": 4,
+   "summary_pl": null, "summary_en": null, "statement_en": null,
+   "confidence": "high", "notes": "Base edge a is a general parameter; answer is a formula in a, not a number"
+  },
+  {
+   "task": "13", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 7.211102550927978, "value_tex": "2\\sqrt{13}", "answer_tex": "2\\sqrt{13}",
+   "category": "analityczna", "topic_pl": "Parabola i równoległobok", "topic_en": "Parabola and parallelogram",
+   "difficulty": 5,
+   "summary_pl": "Prosta i parabola: równoległobok $ABCD$. Oblicz $BC$", "summary_en": "Line and parabola: parallelogram ABCD. Find BC",
+   "statement_en": "The line with equation $3x+y+2=0$ intersects the parabola with equation $y=x^2-2x-8$ at points A and B, which are consecutive vertices of parallelogram ABCD. Vertex A has a negative first coordinate. Vertex C lies on the line with equation $y=-\\frac12x+1$ and has a positive first coordinate. The distance of point C from the line containing side AB of the parallelogram is equal to $\\frac{9\\sqrt{10}}{5}$. Calculate the length of side BC of this parallelogram.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "14", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": -4.320493798938572, "value_tex": "-\\frac{2\\sqrt{42}}{3}", "answer_tex": "m=1 \\lor m=\\frac{-3-2\\sqrt{42}}{3}",
+   "category": "rownania", "topic_pl": "Równanie kwadratowe z parametrem", "topic_en": "Quadratic equation with a parameter",
+   "difficulty": 5,
+   "summary_pl": "Param. $m$: rów. kwadr. z warunkiem na $x_1,x_2$ (suma wart. $m$)", "summary_en": "Parameter m: quadratic with condition on $x_1,x_2$ (sum of m values)",
+   "statement_en": "Determine all values of the parameter m for which the equation $(3-m)x^2+(m+1)x-(m+1)^2=0$ has two distinct real solutions $x_1, x_2$ satisfying the condition $x_1^2+x_2^2=x_1x_2+7$.",
+   "confidence": "high", "notes": "Valid values m=1 and m=(-3-2sqrt42)/3; the third root of the cubic falls outside the discriminant domain and is rejected. sum of valid m values"
+  },
+  {
+   "task": "15", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 57.071067811865476, "value_tex": "50+5\\sqrt2", "answer_tex": "x=5\\sqrt2,\\ P_{max}=50",
+   "category": "analiza", "topic_pl": "Optymalizacja z pochodną", "topic_en": "Optimization with derivatives",
+   "difficulty": 5,
+   "summary_pl": "Trapez, przekątne=10, $x$=odc. łączący środki ramion (c)", "summary_en": "Trapezoid, diagonals=10, x=midsegment of legs (part c)",
+   "statement_en": "Consider all isosceles trapezoids in which each diagonal has length 10. Let x denote the length of the segment joining the midpoints of the legs of the trapezoid. a) Show that the area P of the trapezoid, as a function of the length x of the segment joining the midpoints of the legs, is given by the formula $P(x)=x\\sqrt{100-x^2}$. b) Determine the domain of the function $P(x)$. c) Calculate the length x of the segment joining the midpoints of the legs of the trapezoid, among those considered, whose area is greatest. Calculate this greatest area.",
+   "confidence": "high", "notes": "Parts a) and b) are non-numeric (proof, domain interval); only part c) gives numbers, summed: x + P_max = 5*sqrt2 + 50"
+  }
+ ]
+}

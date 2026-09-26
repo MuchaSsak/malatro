@@ -1,0 +1,492 @@
+{
+ "exam": {
+  "id": "f2005-P-2011-sierpien",
+  "formula": "2005",
+  "level": "P",
+  "year": 2011,
+  "session": "sierpien",
+  "month": "08",
+  "code": "MMA-P1_1P-114",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2011-sierpien-poprawkowa-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2011-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2005-P-2011-sierpien.pdf",
+  "keyFile": "f2005-P-2011-sierpien-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin poprawkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 17,
+  "keyPages": 16,
+  "examBytes": 482213,
+  "keyBytes": 296201
+ },
+ "keyHead": "Klucz odpowiedzi do zadań zamkniętych\noraz\nSchemat oceniania\nPoziom Podstawowy\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nKlucz odpowiedzi do zadań zamkniętych\nNr zadania 1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23\nOdpowiedź A C A A\nD B A A\nC\nA\nB D\nD\nC\nD\nC\nC C C B C\nA\nC\nSchemat oceniania zadań otwartych\nZadanie 24. (2 punkty)\n2\n−\n+\n<\nRozwiąż nierówność\nx\n3\nx\n2\n0\n.\nI sposób rozwiązania\nZnajdujemy pierwiastki trójmianu kwadratowego\n• obliczamy wyróżnik trójmianu kwadratowego:\n−\n+\n3 1\n3 1\nΔ =\n=\n=\n=\n=\n1\nx\n1\nx\n2\n1\n2\n2\n2\nalbo\n• stosujemy wzory Viète’a:\n+\n=\n⋅\n=\nx = ,\nx =\nx\nx\n3\noraz\nx\nx\n2\ni stąd\n1\n2\n1\n2\n1\n2\n1\n2\nalbo\n• zapisujemy nierówność w postaci (\n)(\n)\n−\n−\n<\nx\n1\nx\n2\n0\n. Lewą stronę nierówności\nmożemy uzyskać np.:\no grupując wyrazy i wyłączając wspólny czynnik,\n2\n⎛\n3\n⎞\n1\n⎛\n3\n1\n⎞⎛\n3\n1\n⎞\n−\n−\n=\n−\n−\n⋅\n−\n+\no korzystając z postaci kanonicznej\nx\nx\nx\n⎜\n⎟\n⎜\n⎟⎜\n⎟\n⎝\n2\n⎠\n4\n⎝\n2\n2\n⎠⎝\n2\n2\n⎠\no podając postać iloczynową\nalbo\n• rysujemy fragment wykresu funkcji kwadratowej z zaznaczonymi miejscami\nzerowymi\nalbo\n• wskazujemy pierwiastki trójmianu\nx = ,\nx =\n1\n2\n1\n2\n<\n<\nPodajemy rozwiązanie nierówności:  1\nx\n2\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy wyznaczy pierwiastki trójmianu kwadratowego lub zapisze trójmian w postaci\niloczynowej i na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy:\npoda zbiór rozwiązań nierówności w postaci: (\n)\n(\n)\n•\n<\n<\nx∈\nlub 1\nx\n2\n1,2 lub\n1,2\nalbo\n•\nsporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx > ,\nx <\nnierówności w postaci:\n1\n2\n2\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n1\n2\nII sposób rozwiązania\nZapisujemy nierówność w postaci\n2\n2\n⎛\n⎞\n⎛\n⎞\n3\n1\n3\n1\n3\n1\n−\n−\n<\n−\n<\nx −\n<\n<\n<\n, więc 1\nx\n2.\nx\n0\n, a następnie\nx\n, a stąd\n⎜\n⎟\n⎜\n⎟\n⎝\n2\n⎠\n4\n⎝\n2\n⎠\n4\n2\n2\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\n3\n1\nx −\n<\ngdy doprowadzi nierówność do postaci\ni na tym poprzestanie lub dalej popełni\n2\n2\nbłędy.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy:\npoda zbiór rozwiązań nierówności w postaci: (\n)\n(\n)\n•\n<\n<\nx∈\nlub 1\nx\n2\n1,2 lub\n1,2\nalbo\n•\nsporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx > ,\nx <\nnierówności w postaci:\n1\n2\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n1\n2\nUwagi\n• Przyznajemy 2 punkty za rozwiązanie, w którym zdający poprawnie obliczy pierwiastki\n(\n)\nx = ,\nx =\nx∈−\ntrójmianu\n1\n2\ni zapisze np.:\n1,2\n, popełniając tym samym błąd przy\nprzepisywaniu jednego z pierwiastków.\n• Przyznajemy 1 punkt zdającemu, który popełni błąd rachunkowy przy obliczaniu\nwyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego\n−−\n−+\n3\n17\n3\n17\n=\n=\nbłędu\nrozwiąże\nnierówność,\nnp.\nzapisze\nx\n,\nx\n,\n1\n2\n−\n−\n2\n2\n⎛\n⎞\n−+\n−−\n3\n17\n3\n17\n∈⎜\nx\n,\n⎟\n.\n⎜\n⎟\n−\n−\n2\n2\n⎝\n⎠\n• Przyznajemy 1 punkt zdającemu, który popełnił jeden błąd przy przepisywaniu\n2\n2\n+\n+\n<\n−\n+\n>\nnierówności (pisząc np.\nx\n3\nx\n2\n0\n,\nx\n3\nx\n2\n0\n), o ile trójmian z lewej strony\nnierówności ma dwa różne pierwiastki  i zdający rozwiąże konsekwentnie nierówność\ndo końca.\n3\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nZadanie 25. (2 punkty)\n⋅⋅⋅\n⋅\nUdowodnij, że iloczyn kolejnych liczb naturalnych od 1 do 16, czyli 1 2 3 ... 16\n, jest\n15\npodzielny przez\n2 .\nI sposób rozwiązania\nWystarczy obliczyć liczbę dwójek w rozkładzie na czynniki pierwsze liczby 16!.\nCo druga liczba całkowita jest podzielna przez 2, więc mamy 8 dwójek.\nCo czwarta liczba całkowita jest podzielna przez 4, więc mamy następne 4 dwójki.\nCo ósma  liczba całkowita jest podzielna przez 8, więc mamy następne 2 dwójki.\nW rozkładzie na czynniki pierwsze liczby 16 jest jeszcze 1 dwójka.\n+\n+\n+ =\nŁącznie w rozkładzie na czynniki pierwsze liczby 16! mamy 8\n4\n2 1\n15\ndwójek, czyli\n15\nliczba ta jest podzielna przez\n2 .\nII sposób rozwiązania\nLiczbę 16! możemy zapisać w postaci:\n(\n)\n(\n)",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/1.webp",
+   "size": [
+    950,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nRozwiązaniem równania (\n)\n−\n=\n− jest:\n3 2\n3\nx\nx\n4\nx =\nx =\nx =\nx =\nA.\n1\nB.\n2\nC.\n3\nD.\n4",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/2.webp",
+   "size": [
+    950,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\nSuma liczby x i 15% tej liczby jest równa 230. Równaniem opisującym tę zależność jest\n⋅\n=\n⋅\n=\n+\n⋅\n=\n−\n⋅\n=\nA. 0,15\nx\n230\nB. 0,85\nx\n230\nC.\nx\n0,15\nx\n230\nD.\nx\n0,15\nx\n230",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/3.webp",
+   "size": [
+    950,
+    208
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n+\n=\n⎧\nx\n3\ny\n5\nRozwiązaniem układu równań\njest\n⎨\n−\n=\n2\nx\ny\n3\n⎩\n=\n=\n=\n=\n⎧\nx\n2\n⎧\nx\n2\n⎧\nx\n1\n⎧\nx\n1\nA.\n⎨\nB.\n⎨\nC.\n⎨\nD.\n⎨\n=\n= −\n=\n= −\ny\n1\ny\n1\ny\n2\ny\n2\n⎩\n⎩\n⎩\n⎩",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/4.webp",
+   "size": [
+    950,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\n=\n−\n−\nFunkcja liniowa\nf x\n( )\n(\nm\n2)\nx\n11\njest rosnąca dla\nm >\nm >\nm <\nm <\nA.\n2\nB.\n0\nC.\n13\nD.\n11",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/5.webp",
+   "size": [
+    950,
+    128
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\n=\n= −\nDo wykresu funkcji liniowej f należą punkty\nA\n(1,2) i\nB\n( 2,5).\nFunkcja f ma wzór\n=\n+\n=\n−\n= −−\n= −+\nA.\nf x\n( )\nx\n3\nB.\nf x\n( )\nx\n3\nC.\nf x\n( )\nx\n3\nD.\nf x\n( )\nx\n3",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/6.webp",
+   "size": [
+    950,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\n(\n)\nA =\n=\n+ . Prosta k ma\nPunkt\n0,5\nleży na prostej k prostopadłej do prostej o równaniu\ny\nx\n1\nrównanie\n=\n+\n= −+\n=\n−\n= −−\nA.\ny\nx\n5\nB.\ny\nx\n5\nC.\ny\nx\n5\nD.\ny\nx\n5",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/7.webp",
+   "size": [
+    950,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\n2\n2\n−\n=\n+\n=\nDla pewnych liczb a i b zachodzą równości:\na\nb\n200\ni\na\nb\n8\n. Dla tych liczb a i b\n− jest równa\nwartość wyrażenia a\nb\nA. 25\nB. 16\nC. 10\nD. 2",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/8.webp",
+   "size": [
+    950,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\n−\n+\n−\nLiczba 5\n2\n1 6\njest równa\n−\nA. 8\nB. 2\nC. 3\nD.\n2",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/9.webp",
+   "size": [
+    950,
+    114
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\n+\nLiczba\nlog 4\n2log 1\njest równa\n2\n3\nA.\n0\nB. 1\nC. 2\nD. 4",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/10.webp",
+   "size": [
+    950,
+    128
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\n2\n=\n−\nZbiorem wartości funkcji kwadratowej\nf x\n( )\nx\n4\njest\n)\n)\n)\n)\n〈−\n+∞\n〈−\n+∞\n〈\n+∞\n〈\n+∞\nA.\n4,\nB.\n2,\nC.\n2,\nD.\n4,",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/11.webp",
+   "size": [
+    950,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\n3\n2\n3\n2\n=\n+\n+\n−\n=\n+\n+\nDane są wielomiany\nW x\n( )\nx\n3\nx\nx\n11\ni\nV x\n( )\nx\n3\nx\n1\n. Stopień wielomianu\n−\nW x\n( )\nV x\n( )\njest równy\nA. 0\nB. 1\nC. 2\nD. 3",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/12.webp",
+   "size": [
+    950,
+    117
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\nW ciągu geometrycznym (\n)\na =\na =\na\nmamy\n5\ni\n15\n. Wtedy wyraz\na jest równy\nn\n3\n4\n5\nA. 10\nB. 20\nC. 75\nD. 45",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/13.webp",
+   "size": [
+    950,
+    105
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nIle jest liczb naturalnych czterocyfrowych o sumie cyfr równej 2?\nA. 1\nB. 2\nC. 3\nD. 4",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/14.webp",
+   "size": [
+    950,
+    119
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\nA =\n−\nB =\nDane są punkty\n(1, 4)\ni\n(2,3)\n. Odcinek AB ma długość\nA. 1\nB. 4 3\nC. 5 2\nD. 7",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/15.webp",
+   "size": [
+    950,
+    112
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\no\nKąt α jest ostry oraz\nα =\n. Wtedy miara kąta α jest równa:\nsin\ncos47\nA. 6°\nB. 33°\nC. 47°\nD. 43°",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/16.webp",
+   "size": [
+    950,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nIle wyrazów ujemnych ma ciąg (\n)\n2\n=\n−\n≥?\na\nokreślony wzorem\na\n2\nn\n9 dla\nn\n1\nn\nn\nA. 0\nB. 1\nC. 2\nD. 3",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/17.webp",
+   "size": [
+    950,
+    398
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\nKrawędź sześcianu ma długość 9. Długość przekątnej tego sześcianu jest równa:\n3 9\n+\nA.\nB. 9 2\nC. 9 3\nD. 9\n9 2",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/18.webp",
+   "size": [
+    950,
+    118
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nŚrednia arytmetyczna sześciu liczb: 3, 1, 1, 0, x, 2 jest równa 2. Wtedy liczba x jest równa\nA. 3\nB. 4\nC. 5\nD. 6",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/19.webp",
+   "size": [
+    950,
+    180
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nZe\nzbioru\ndwucyfrowych\nliczb\nnaturalnych\nwybieramy\nlosowo\njedną\nliczbę.\nPrawdopodobieństwo otrzymania liczby podzielnej przez 30 jest równe\n1\n2\n3\nD. 10\nA.\n90\nB.\n90\nC.\n90\n90",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/20.webp",
+   "size": [
+    950,
+    520
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\nPrzekrój osiowy walca jest kwadratem o boku długości 6. Objętość tego walca jest równa\n6\n6\nA. 108π\nB. 54π\nC. 36π\nD. 27π",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/21.webp",
+   "size": [
+    950,
+    126
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\nDany jest romb o boku długości 4 i kącie ostrym 60°. Pole tego rombu jest równe\nA. 16 3\nB. 16\nC. 8 3\nD. 8",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/22.webp",
+   "size": [
+    950,
+    119
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\n=\nπ\nKula ma objętość\nV\n288\n. Promień r tej kuli jest równy\nA. 6\nB. 8\nC. 9\nD. 12",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2011-sierpien/23.webp",
+   "size": [
+    950,
+    181
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nW graniastosłupie prawidłowym trójkątnym wszystkie krawędzie są tej samej długości. Suma\ndługości wszystkich krawędzi jest równa 90. Wtedy pole powierzchni całkowitej tego\ngraniastosłupa jest równe\n+\n+\nA. 300\nB. 300 3\nC. 300\n50 3\nD. 300\n25 3",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2011-sierpien/24.webp",
+   "size": [
+    950,
+    86
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (2 pkt)\n2\n−\n+\n<\nRozwiąż nierówność\nx\n3\nx\n2\n0\n.",
+   "key": "Zadanie 24. (2 punkty)\n2\n−\n+\n<\nRozwiąż nierówność\nx\n3\nx\n2\n0\n.\nI sposób rozwiązania\nZnajdujemy pierwiastki trójmianu kwadratowego\n• obliczamy wyróżnik trójmianu kwadratowego:\n−\n+\n3 1\n3 1\nΔ =\n=\n=\n=\n=\n1\nx\n1\nx\n2\n1\n2\n2\n2\nalbo\n• stosujemy wzory Viète’a:\n+\n=\n⋅\n=\nx = ,\nx =\nx\nx\n3\noraz\nx\nx\n2\ni stąd\n1\n2\n1\n2\n1\n2\n1\n2\nalbo\n• zapisujemy nierówność w postaci (\n)(\n)\n−\n−\n<\nx\n1\nx\n2\n0\n. Lewą stronę nierówności\nmożemy uzyskać np.:\no grupując wyrazy i wyłączając wspólny czynnik,\n2\n⎛\n3\n⎞\n1\n⎛\n3\n1\n⎞⎛\n3\n1\n⎞\n−\n−\n=\n−\n−\n⋅\n−\n+\no korzystając z postaci kanonicznej\nx\nx\nx\n⎜\n⎟\n⎜\n⎟⎜\n⎟\n⎝\n2\n⎠\n4\n⎝\n2\n2\n⎠⎝\n2\n2\n⎠\no podając postać iloczynową\nalbo\n• rysujemy fragment wykresu funkcji kwadratowej z zaznaczonymi miejscami\nzerowymi\nalbo\n• wskazujemy pierwiastki trójmianu\nx = ,\nx =\n1\n2\n1\n2\n<\n<\nPodajemy rozwiązanie nierówności:  1\nx\n2\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy wyznaczy pierwiastki trójmianu kwadratowego lub zapisze trójmian w postaci\niloczynowej i na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy:\npoda zbiór rozwiązań nierówności w postaci: (\n)\n(\n)\n•\n<\n<\nx∈\nlub 1\nx\n2\n1,2 lub\n1,2\nalbo\n•\nsporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx > ,\nx <\nnierówności w postaci:\n1\n2\n2\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n1\n2\nII sposób rozwiązania\nZapisujemy nierówność w postaci\n2\n2\n⎛\n⎞\n⎛\n⎞\n3\n1\n3\n1\n3\n1\n−\n−\n<\n−\n<\nx −\n<\n<\n<\n, więc 1\nx\n2.\nx\n0\n, a następnie\nx\n, a stąd\n⎜\n⎟\n⎜\n⎟\n⎝\n2\n⎠\n4\n⎝\n2\n⎠\n4\n2\n2\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\n3\n1\nx −\n<\ngdy doprowadzi nierówność do postaci\ni na tym poprzestanie lub dalej popełni\n2\n2\nbłędy.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy:\npoda zbiór rozwiązań nierówności w postaci: (\n)\n(\n)\n•\n<\n<\nx∈\nlub 1\nx\n2\n1,2 lub\n1,2\nalbo\n•\nsporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx > ,\nx <\nnierówności w postaci:\n1\n2\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n1\n2\nUwagi\n• Przyznajemy 2 punkty za rozwiązanie, w którym zdający poprawnie obliczy pierwiastki\n(\n)\nx = ,\nx =\nx∈−\ntrójmianu\n1\n2\ni zapisze np.:\n1,2\n, popełniając tym samym błąd przy\nprzepisywaniu jednego z pierwiastków.\n• Przyznajemy 1 punkt zdającemu, który popełni błąd rachunkowy przy obliczaniu\nwyróżnika lub pierwiastków trójmianu kwadratowego i konsekwentnie do popełnionego\n−−\n−+\n3\n17\n3\n17\n=\n=\nbłędu\nrozwiąże\nnierówność,\nnp.\nzapisze\nx\n,\nx\n,\n1\n2\n−\n−\n2\n2\n⎛\n⎞\n−+\n−−\n3\n17\n3\n17\n∈⎜\nx\n,\n⎟\n.\n⎜\n⎟\n−\n−\n2\n2\n⎝\n⎠\n• Przyznajemy 1 punkt zdającemu, który popełnił jeden błąd przy przepisywaniu\n2\n2\n+\n+\n<\n−\n+\n>\nnierówności (pisząc np.\nx\n3\nx\n2\n0\n,\nx\n3\nx\n2\n0\n), o ile trójmian z lewej strony\nnierówności ma dwa różne pierwiastki  i zdający rozwiąże konsekwentnie nierówność\ndo końca.\n3\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2011-sierpien/25.webp",
+   "size": [
+    950,
+    113
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (2 pkt)\n⋅⋅⋅\n⋅\nUdowodnij, że iloczyn kolejnych liczb naturalnych od 1 do 16, czyli 1 2 3 ... 16\n, jest\n15\npodzielny przez\n2 .",
+   "key": "Zadanie 25. (2 punkty)\n⋅⋅⋅\n⋅\nUdowodnij, że iloczyn kolejnych liczb naturalnych od 1 do 16, czyli 1 2 3 ... 16\n, jest\n15\npodzielny przez\n2 .\nI sposób rozwiązania\nWystarczy obliczyć liczbę dwójek w rozkładzie na czynniki pierwsze liczby 16!.\nCo druga liczba całkowita jest podzielna przez 2, więc mamy 8 dwójek.\nCo czwarta liczba całkowita jest podzielna przez 4, więc mamy następne 4 dwójki.\nCo ósma  liczba całkowita jest podzielna przez 8, więc mamy następne 2 dwójki.\nW rozkładzie na czynniki pierwsze liczby 16 jest jeszcze 1 dwójka.\n+\n+\n+ =\nŁącznie w rozkładzie na czynniki pierwsze liczby 16! mamy 8\n4\n2 1\n15\ndwójek, czyli\n15\nliczba ta jest podzielna przez\n2 .\nII sposób rozwiązania\nLiczbę 16! możemy zapisać w postaci:\n(\n)\n(\n)\n(\n)\n(\n) (\n)\n⋅⋅\n⋅⋅\n⋅\n⋅⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n=\n⋅\n⋅\n⋅\n⋅\n⋅\n2\n3\n2\n2\n4\n15\n6\n3\n2\n2 3 2\n5\n2 3\n7 2\n3\n2 5 11 3 2\n13\n2 7\n3 5\n2\n2\n3\n5\n7\n11 13\nSchemat oceniania\nZdający otrzymuje .................................................................................................................... 1 pkt\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\n(\n)\n⋅⋅\n2\n⋅⋅\n⋅\n⋅⋅\n3\n⋅⋅\n⋅\n⋅\n⋅\n2\n⋅\n⋅\n⋅\n⋅\n⋅\n⋅\n4\ngdy zapisze 16! w postaci\n2 3\n2\n5\n2 3\n7 2\n9\n2 5 11 2\n3 13\n2 7 15\n2\ni na tym zakończy lub dalej popełni błędy (np. źle zliczy liczbę czynników 2).\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy przeprowadzi pełny dowód."
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2011-sierpien/26.webp",
+   "size": [
+    950,
+    107
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\n1\n2\nKąt α jest ostry i\nα =\n+\n2tg α\nsin\n.\nOblicz\n3\n.\n4",
+   "key": "Zadanie 26. (2 punkty)\n1\n2\nKąt α jest ostry i\nα =\n+\n2tg α\nsin\n.\nOblicz\n3\n.\n4\nI sposób rozwiązania\n2\n⎛\n1\n⎞\n1\n15\nα\n= −\nα\n= −\n= −\n=\n2\n2\nNajpierw obliczamy\ncos\n1 sin\n1\n1\n.\n⎜\n⎟\n⎝\n4\n⎠\n16\n16\n15\nα =\n, bo α jest kątem ostrym.\nStąd\ncos\n4\nα\nsin\n1\n1\n47\nα\n=\n=\n+\n2\nα\n=\n+ ⋅\n=\nZatem\ntg\ni stąd\n3\n2tg\n3\n2 15\n.\nα\ncos\n15\n15\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\n15\nα =\ngdy obliczy\ncos\n.\n4\nZdający otrzymuje .................................................................................................................... 2 pkt\n1\n315 lub 47\n2\n2\n+\n2tg α\n+ ⋅\ngdy obliczy wartość wyrażenia\n3\ni zapisze wynik w postaci:\n3\n2 15\n,\n15 .\n4\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nII sposób rozwiązania\nRysujemy trójkąt prostokątny, w którym oznaczamy przyprostokątną x i przeciwprostokątną\n1\n4x oraz zaznaczamy kąt ostry α tak, aby\nα =\nsin\n.\n4\nUwaga: Zdający może oznaczyć długości odpowiednich boków liczbami 1 oraz 4.\n4x\nx\nα\nZ twierdzenia Pitagorasa wyznaczamy długość drugiej przyprostokątnej:\nx\n15\n.\n1\n47\n2\nα =\n+\nα\n=\nObliczamy wartości funkcji\ntg\n. Stąd\n3\n2tg\n.\n15\n15\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy poprawnie wyznaczy długość drugiej przyprostokątnej:\nx\n15\n.\nZdający otrzymuje .................................................................................................................... 2 pkt\n1\n315 lub 47\n2\n2\n+\n2tg α\n+ ⋅\ngdy obliczy wartość wyrażenia\n3\ni zapisze wynik w postaci:\n3\n2 15\n,\n15 .\nUwaga:\nAkceptujemy sytuację, w której zdający odczytuje przybliżoną wartość tgα (na podstawie\n1\nα =\nα ≈\n° ≈\nα ≈\n° ≈\nwartości\nsin\nzdający może przyjąć tg\ntg14\n0,2493\nalbo tg\ntg15\n0,2679\n,\n4\nmoże również przyjąć przybliżenie z mniejszą dokładnością, ale nie mniejszą niż do jednego\n2\n+\n2tg α\nmiejsca po przecinku) i na tej podstawie obliczyć wartość wyrażenia\n3\nstosując\npoprawnie regułę zaokrąglania.\n5\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2011-sierpien/27.webp",
+   "size": [
+    950,
+    110
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\nx + , 6, 16\nx +\nLiczby 2\n1\n2\nsą w podanej kolejności pierwszym, drugim i trzecim wyrazem\nciągu arytmetycznego. Oblicz x.",
+   "key": "Zadanie 27. (2 punkty)\nx + , 6, 16\nx +\nLiczby 2\n1\n2\nsą w podanej kolejności pierwszym, drugim i trzecim wyrazem\nciągu arytmetycznego. Oblicz x.\nI sposób rozwiązania\nZ własności ciągu arytmetycznego wynika, że drugi wyraz ciągu jest średnią arytmetyczną\nwyrazu pierwszego i wyrazu trzeciego. A zatem  (\n) (\n)\n+\n+\n+\n2\nx\n1\n16\nx\n2\n1\n=\nx =\n6\n, stąd\n2\n2\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy zapisze  równanie wynikające z własności lub z definicji ciągu arytmetycznego np.:\n(\n) (\n)\n+\n+\n+\n2\nx\n1\n16\nx\n2\n(\n)\n(\n)\n=\n−\n+\n=\n+\n−.\n6\nlub\n6\n2\nx\n1\n16\nx\n2\n6\n2\nZdający otrzymuje .................................................................................................................... 2 pkt\n1\nx =\ngdy obliczy\n.\n2\nII sposób rozwiązania\nZapisujemy układ równań\n+ +\n=\n⎧\n2\nx\n1\nr\n6\n⎨\n+ +\n=\n+\n2\nx\n1\n2\nr\n16\nx\n2\n⎩\n1\nx =\nStąd\n.\n2\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy zapisze  układ równań, np.:\n+ +\n=\n+ +\n=\n⎧\n2\nx\n1\nr\n6\nlub  2\n⎧\nx\n1\nr\n6\n⎨\n⎨+\n.\n+ +\n=\n+\n=\n+\n2\nx\n1\n2\nr\n16\nx\n2\n6\nr\n16\nx\n2\n⎩\n⎩\nZdający otrzymuje .................................................................................................................... 2 pkt\n1\nx =\ngdy obliczy\n.\n2\n6\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2011-sierpien/28.webp",
+   "size": [
+    950,
+    445
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\nNa bokach trójkąta równobocznego ABC (na zewnątrz tego trójkąta) zbudowano kwadraty\nABDE, CBGH i ACKL. Udowodnij, że trójkąt KGE jest równoboczny.\nK\nH\nC\nL\nG\nA\nB\nE\nD",
+   "key": "Zadanie 28. (2 punkty)\nNa bokach trójkąta równobocznego ABC (na zewnątrz tego trójkąta) zbudowano kwadraty\nABDE, BGHC i ACKL. Udowodnij, że trójkąt KGE jest równoboczny.\nK\nH\nC\nL\nG\nA\nB\nE\nD\nRozwiązanie:\nK\nH\nC\nL\nG\nA\nB\nE\nD\nRysujemy odcinki KG, CG, GE, BE, KE i KA.\n• Odcinki KC, GB i AE są bokami kwadratów zbudowanych na bokach trójkąta\n=\n=\nrównobocznego, więc KC\nGB\nAE\n.\n• Odcinki CG, BE i AK są przekątnymi tych kwadratów, więc  CG\n=\n=\nBE\nAK\n.\n(\n)\n•\n=\n°−\n+\n+\n=\n°−\n°−\n°−\n° =\n°\n)\n)\n)\n)\nGCK\n360\nACK\nACB\nBCG\n360\n90\n60\n45\n165\n.\n=\n=\n°\nAnalogicznie dowodzimy, że\n)\nGBE\n)\nEAK\n165\n.\n• Korzystając z cechy (bok, kąt, bok) przystawania trójkątów stwierdzamy, że trójkąty KCG,\n=\n=\nGBE i AEK są przystające, więc  KG\nGE\nEK\n.\nSchemat oceniania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy zapisze, że trójkąty KCG, GBE i AEK są przystające i wyciągnie wniosek,\n=\n=\nże KG\n, lecz nie poda pełnego uzasadnienia równości odpowiednich kątów lub\nGE\nEK\nboków.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy przeprowadzi pełny dowód.\n7\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2011-sierpien/29.webp",
+   "size": [
+    950,
+    430
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\nPunkty A i B leżą na okręgu o środku O i dzielą ten okrąg na dwa łuki, których stosunek\ndługości jest równy 7:5. Oblicz miarę kąta środkowego opartego na krótszym łuku.\nO\nB\nA",
+   "key": "Zadanie 29. (2 punkty)\nPunkty A i B leżą na okręgu o środku O i dzielą ten okrąg na dwa łuki, których stosunek\ndługości jest równy 7:5. Jaka jest miara  kąta środkowego opartego na krótszym łuku?\nRozwiązanie\nO\nA\nB\nKrótszy łuk to 5\n12 okręgu, zatem kąt środkowy oparty na tym łuku to 5\n12 kąta pełnego, tj.\n5 360\n12 ⋅\n° =\n° .\n150\nSchemat oceniania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy:\n• zapisze, że krótszy łuk AB  to 5\n12 okręgu\nlub\nα\n7\n• zapisze układ równań, np.:\nβ =\nα\n+\nβ\n=\n°\ni\n360\n5\nlub\n•  zapisze, że dwa kolejne punkty zaznaczone na tym okręgu wraz z punktem O wyznaczają\nkąt środkowy o mierze 30°\nlub\n• zapisze, że kąt środkowy oparty na dłuższym z łuków AB ma miarę  210°\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje .................................................................................................................... 2 pkt\nAOB =\n°\ngdy obliczy miarę kąta środkowego opartego na krótszym z łuków AB:\n)\n150\n.\n8\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2011-sierpien/30.webp",
+   "size": [
+    950,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\nDane są dwa pudełka: czerwone i niebieskie. W każdym z tych pudełek znajduje się 10 kul\nponumerowanych liczbami od 1 do 10. Z każdego pudełka losujemy jedną kulę. Oblicz\nprawdopodobieństwo zdarzenia polegającego na tym, że numer kuli wylosowanej\nz czerwonego pudełka jest mniejszy od numeru kuli wylosowanej z niebieskiego pudełka.",
+   "key": "Zadanie 30. (2 punkty)\nDane są dwa pudełka: czerwone i niebieskie. W każdym z tych pudełek znajduje się 10 kul\nponumerowanych liczbami od 1 do 10. Z każdego pudełka losujemy jedną kulę. Oblicz\nprawdopodobieństwo zdarzenia polegającego na tym, że numer kuli wylosowanej\nz czerwonego pudełka jest mniejszy niż numer kuli wylosowanej z niebieskiego pudełka.\nI sposób rozwiązania (model klasyczny)\nZdarzeniami elementarnymi są wszystkie pary liczb (\n)\n{\n}\na b∈\n,a b , gdzie\n,\n1,2,...,10\n. Jest to\nmodel klasyczny.\nΩ =\n⋅\n10 10\nZdarzeniami elementarnymi sprzyjającymi zdarzeniu A są pary liczb, w których na\npierwszym miejscu jest liczba mniejsza niż na miejscu drugim.\nJeżeli na pierwszym miejscu jest liczba 1, to na drugim miejscu może być każda z liczb od 2\ndo 10. (Mamy więc 9 możliwości).\nJeżeli na pierwszym miejscu jest liczba 2, to na drugim miejscu może być każda z liczb od 3\ndo 10. (Mamy więc 8 możliwości).\nJeżeli na pierwszym miejscu jest liczba 3, to na drugim może być każda z liczb od 4 do 10.\n(Mamy więc 7 możliwości). itd.\nA =\n+ +\n+\n+ =\nZatem\n9\n8\n7\n... 1\n45\n.\n9\n( )\nP A =\n=\nObliczamy prawdopodobieństwo zdarzenia A:\n0,45\n.\n20\nII sposób rozwiązania (metoda tabeli)\nWszystkie zdarzenia elementarne możemy wypisać w postaci kwadratowej tablicy.\n(1,1)\n(1,2)\n(1,3)\n(1,4)\n(1,5)\n(1,6)\n(1,7)\n(1,8)\n(1,9) (1,10)\n(2,1)\n(2,2)\n(2,3)\n(2,4)\n(2,5)\n(2,6)\n(2,7)\n(2,8)\n(2,9) (2,10)\n(3,1)\n(3,2)\n(3,3)\n(3,4)\n(3,5)\n(3,6)\n(3,7)\n(3,8)\n(3,9) (3,10)\n(4,1)\n(4,2)\n(4,3)\n(4,4)\n(4,5)\n(4,6)\n(4,7)\n(4,8)\n(4,9) (4,10)\n(5,1)\n(5,2)\n(5,3)\n(5,4)\n(5,5)\n(5,6)\n(5,7)\n(5,8)\n(5,9) (5,10)\n(6,1)\n(6,2)\n(6,3)\n(6,4)\n(6,5)\n(6,6)\n(6,7)\n(6,8)\n(6,9) (6,10)\n(7,1)\n(7,2)\n(7,3)\n(7,4)\n(7,5)\n(7,6)\n(7,7)\n(7,8)\n(7,9) (7,10)\n(8,1)\n(8,2)\n(8,3)\n(8,4)\n(8,5)\n(8,6)\n(8,7)\n(8,8)\n(8,9) (8,10)\n(9,1)\n(9,2)\n(9,3)\n(9,4)\n(9,5)\n(9,6)\n(9,7)\n(9,8)\n(9,9) (9,10)\n(10,1) (10,2) (10,3) (10,4) (10,5) (10,6) (10,7) (10,8) (10,9) (10,10)\n9\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nalbo\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n1\nX\nX\nX\nX\nX\nX\nX\nX\nX\n2\nX\nX\nX\nX\nX\nX\nX\nX\n3\nX\nX\nX\nX\nX\nX\nX\n4\nX\nX\nX\nX\nX\nX\n5\nX\nX\nX\nX\nX\n6\nX\nX\nX\nX\n7\nX\nX\nX\n8\nX\nX\n9\nX\n10\nΩ =\n⋅\nStąd\n10 10\n.\nJest to model klasyczny.\nZdarzeniami elementarnymi sprzyjającymi zdarzeniu A są pary liczb, w których na\npierwszym miejscu jest liczba mniejsza niż na miejscu drugim. Są to wszystkie pary liczb\n( )\nP A =\nwyróżnione w pierwszej tablicy lub zaznaczone w drugiej. Jest ich 45. Zatem\n0,45\n.\nUwaga:\n10 , na przekątnej łączącej pary (\n1,1 i (\n)\n)\n2\nWszystkich par w tej tablicy jest\n10,10 jest ich 10,\n2\n−\nwięc pozostałych par jest\n10\n10\n. Nad przekątną jest tyle samo par co pod nią, więc par,\n−\n2\n10\n10\nw których na pierwszym miejscu jest liczba mniejsza niż na drugim jest\n.\n2\n( )\nP A =\nZatem\n0,45\n.\nSchemat oceniania\nZdający otrzymuje .................................................................................................................... 1 pkt\nΩ =\n⋅\nA =\ngdy obliczy\n10 10\nalbo\n45\n.\nZdający otrzymuje .................................................................................................................... 2 pkt\n9\n( )\nP A =\n=\ngdy obliczy prawdopodobieństwo zdarzenia A:\n0,45\n.\n20\nUwaga:\n• Jeśli zdający rozwiąże zadanie do końca i otrzyma\nP A > , to otrzymuje za całe\n( )\n1\nrozwiązanie 0 punktów.\n10\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2011-sierpien/31.webp",
+   "size": [
+    950,
+    136
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (5 pkt)\nDwie szkoły mają prostokątne boiska. Przekątna każdego boiska jest równa 65 m. Boisko\nw drugiej szkole ma długość o 4 m większą niż boisko w pierwszej szkole, ale szerokość\no 8 m mniejszą. Oblicz długość i szerokość każdego z tych boisk.",
+   "key": "Zadanie 31. (5 punktów)\nDwie szkoły mają prostokątne boiska. Przekątna każdego boiska jest równa 65 m. Boisko\nw drugiej szkole ma długość o 4 m większą niż boisko w pierwszej szkole, ale szerokość\no 8 m mniejszą. Oblicz długość i szerokość każdego z tych boisk.\nRozwiązanie\nOznaczmy długość boiska w pierwszej szkole przez a i szerokość przez b.\na +\nb −.\nWówczas w drugiej szkole długość boiska jest równa\n4\n, szerokość\n8\nOtrzymujemy układ równań\n⎧\n+\n=\n2\n2\n2\na\nb\n65\n⎪⎨\n(\n)\n(\n)\n2\n2\n+\n+\n−\n=\n2\na\n4\nb\n8\n65\n⎪⎩\nPrzekształcamy układ do postaci\n⎧\n+\n=\n2\n2\n2\n⎪⎨\na\nb\n65\n2\n+\n+\n+\n2\n−\n+\n=\n2\n⎪⎩\na\n8\na\n16\nb\n16\nb\n64\n65\na następnie\n⎧\n2\n+\n2\n=\n2\na\nb\n65\n⎪⎨\n+\n+\n−\n+\n=\n⎪⎩\n2\n2\n2\na\nb\n8\na\n16\nb\n80\n65\nskąd otrzymujemy układ\n⎧\n+\n=\n2\n2\n2\na\nb\n65\n⎨\n−\n+\n=\n8\na\n16\nb\n80\n0\n⎩\nczyli\n⎧\n+\n=\na\n2\nb\n2\n65\n2\n⎨=\n−\na\n2\nb\n10\n⎩\nPodstawiamy wyznaczoną wartość a do pierwszego równania i rozwiązujemy równanie\nkwadratowe  (\n)\n2\n−\n+\n2\n=\n2\n2\nb\n10\nb\n65\n.\n2\n−\n−\n=\nΔ =\nΔ =\nPo uporządkowaniu otrzymujemy:\nb\n8\nb\n825\n0\n,\n3364\n,\n58\nb =\nb = −\nRozwiązaniami tego równania są liczby\n33\noraz\n25\n. Odrzucamy ujemne\na =\nrozwiązanie i obliczamy\n56\n.\nZatem boisko w pierwszej szkole ma 33m szerokości i 56 metrów długości, a więc boisko\nw drugiej szkole ma 25 m szerokości i 60 m długości.\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do\ncałkowitego rozwiązania zadania.............................................................................................. 1 pkt\nlub (\n)\n(\n)\n2\n2\n+\n=\n+\n+\n−\n=\nZapisanie jednego z równań\na\n2\nb\n2\n65\n2\na\n4\nb\n8\n65\n2\n11\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nRozwiązanie, w którym jest istotny postęp.............................................................................. 2 pkt\n⎧\n+\n=\n2\n2\n2\na\nb\n65\n⎪⎨\nZapisanie układu równań z niewiadomymi a i b, np.:\n(\n)\n(\n)\n2\n2\n+\n+\n−\n=\n2\na\n4\nb\n8\n65\n⎪⎩\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\nZapisanie równania z jedną niewiadomą a lub b w postaci: (\n)\n2\n−\n+\n=\n2\n2\n2\nb\n10\nb\n65\nlub\n⎛\n1\n⎞\n1\n−\n−\n=\n+\n+\n=\n+\n−\n=\n2\n2\n2\n2\nb\n8\nb\n825\n0\nlub\na\na\n5\n65\nlub\n4 a\na\n840\n0\n.\n⎜\n⎟\n⎝\n2\n⎠\nUwaga:\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą.\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania zadania (np. błędy rachunkowe)................................................... 4 pkt\n• zdający obliczy wymiary boiska w pierwszej szkole i na tym poprzestanie lub błędnie\nobliczy wymiary boiska w drugiej szkole\nalbo\n• zdający obliczy wymiary boiska w pierwszej szkole z błędem rachunkowym\ni konsekwentnie do popełnionego błędu obliczy wymiary boiska w drugiej szkole.\nRozwiązanie pełne ..................................................................................................................... 5 pkt\nObliczenie wymiarów boisk w obu szkołach:\nBoisko w pierwszej szkole ma 33m szerokości i 56 metrów długości, natomiast boisko\nw drugiej szkole ma 25 m szerokości i 60 m długości.\nUwaga:\nJeśli zdający odgadnie poprawne wymiary boisk, to otrzymuje 1 punkt.\n12\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2011-sierpien/32.webp",
+   "size": [
+    946,
+    191
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\nIle jest liczb pięciocyfrowych, spełniających jednocześnie następujące cztery warunki:\n(1) cyfry setek, dziesiątek i jedności są parzyste,\n(2) cyfra setek jest większa od cyfry dziesiątek,\n(3) cyfra dziesiątek jest większa od cyfry jedności,\n(4) w zapisie tej liczby nie występuje cyfra 9.",
+   "key": "Zadanie 32. (4 punkty)\nIle jest liczb pięciocyfrowych, spełniających jednocześnie następujące cztery warunki:\n(1) cyfry setek, dziesiątek i jedności są parzyste,\n(2) cyfra setek jest większa od cyfry dziesiątek,\n(3) cyfra dziesiątek jest większa od cyfry jedności,\n(4) w zapisie tej liczby nie występuje cyfra 9.\nRozwiązanie\nTrzy ostatnie cyfry są parzyste i uporządkowane malejąco. Mamy więc 10 możliwości\nustawienia tych cyfr tak, by spełnione były warunki (1), (2) i (3):\n_\n_\n4\n2\n0\n_\n_\n6\n2\n0\n_\n_\n8\n2\n0\n_\n_\n6\n4\n0\n_\n_\n8\n4\n0\n_\n_\n8\n6\n0\n_\n_\n6\n4\n2\n_\n_\n8\n4\n2\n_\n_\n8\n6\n2\n_\n_\n8\n6\n4\nPierwszą cyfrą liczby może być dowolna spośród cyfr: 1, 2,…, 8, a drugą dowolna spośród\ncyfr: 0,1,2,…,8.\n⋅⋅\n=\nMamy więc 8 9 10\n720\nmożliwości utworzenia liczb spełniających podane warunki.\nUwaga: Trzy wybrane cyfry parzyste można ustawić w porządku malejącym dokładnie na\njeden sposób. Tak więc liczba tych możliwych jest równa 5\n⎛⎞=\n10\n.\n⎜⎟\n3\n⎝⎠\nSchemat oceniania\nRozwiązanie zadania składa się z dwóch etapów.\nPierwszy z nich polega na obliczeniu\n- liczby możliwości ustawienia trzech cyfr parzystych spełniających warunki (1), (2) i (3);\ntych możliwości jest 10.\n- liczby możliwości wyboru pierwszej cyfry liczby pięciocyfrowej; tych możliwości jest 8.\n- liczby możliwości wyboru drugiej cyfry liczby pięciocyfrowej; tych możliwości jest 9.\nZa obliczenie każdej z tych liczb, zdający otrzymuje 1 punkt.\nDrugi etap polega na wykorzystaniu reguły mnożenia i stwierdzeniu, że liczb\npięciocyfrowych, spełniających jednocześnie warunki (1), (2), (3) i (4) jest 720. Za tę część\nzdający otrzymuje 1 punkt.\n13\nSchemat oceniania – sierpień 2011\nPoziom podstawowy"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2011-sierpien/33.webp",
+   "size": [
+    950,
+    564
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\nPodstawą ostrosłupa ABCDW jest prostokąt ABCD. Krawędź boczna DW jest wysokością\nAW =\ntego ostrosłupa. Krawędzie boczne AW, BW i CW mają następujące długości:\n6\n,\nBW =\nCW =\n9\n,\n7\n. Oblicz objętość tego ostrosłupa.\nW\n.\n.\nC\nD\nA\nB",
+   "key": "Zadanie 33. (4 punkty)\nPodstawą ostrosłupa ABCDW jest prostokąt ABCD. Krawędź boczna DW jest wysokością\ntego ostrosłupa. Krawędzie boczne AW, BW i CW mają następujące długości:\nAW =\nBW =\nCW =\n6\n,\n9\n,\n7\n. Oblicz objętość tego ostrosłupa.\nI sposób rozwiązania\nW\n7\nh\n6\n9\n.\n.\nC\nD\na\nA\nb\nB\n=\n=\n=\nOznaczmy długości krawędzi ostrosłupa AD\na\n, AB\nb\ni DW\nh\n.\nTrójkąty BAW  i  BCW są prostokątne, więc korzystając dwukrotnie z twierdzenia Pitagorasa\na +\n2\n=\nb +\n2\n=\notrzymujemy równania\n49\n81\ni\n36\n81\n.\na =\nb =\nStąd otrzymujemy\n4 2\noraz\n3 5\n.\nWysokość ostrosłupa obliczymy korzystając z twierdzenia Pitagorasa np. dla trójkąta ADW.\n(\n)\n2\nh =\n2\n−\n=\n−\n=\n6\n4 2\n36\n32\n2\n.\nObjętość ostrosłupa jest więc równa\n1\n1 4 2 3 5 2\n=\n⋅⋅⋅\n=\n⋅\n⋅\n⋅\n=\nV\na b h\n8 10\n.\n3\n3\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ................................................................................................................................. 1 pkt\nWykorzystanie faktu, że trójkąty  BAW  i  BCW są prostokątne i zapisanie przynajmniej\njednego równania, z którego można obliczyć długość krawędzi podstawy ostrosłupa, np.:\na +\n=\nb +\n=\n2\n2\n49\n81\nalbo\n36\n81\n.\nRozwiązanie, w którym jest istotny postęp.............................................................................. 2 pkt\na =\nb =\nObliczenie długości obu krawędzi podstawy ostrosłupa:\n4 2\ni\n3 5\n.\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\nObliczenie długości wszystkich odcinków potrzebnych do obliczenia objętości ostrosłupa:\nh =\na =\nb =\n2\n,\n4 2\n,\n3 5\n.\nRozwiązanie pełne ...................................................................................................................... 4 pkt\nV =\nObliczenie objętości ostrosłupa:\n8 10\n.\n14\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nII sposób rozwiązania\nW\n7\nh\n6\n9\n.\n.\nC\nD\na\nA\nb\nB\n=\n=\n=\nOznaczmy długości krawędzi ostrosłupa AD\na\n, AB\nb\ni DW\nh\n.\nTrójkąty ADW, CDW, BDW i BAD są prostokątne, więc korzystając czterokrotnie\nz twierdzenia Pitagorasa otrzymujemy układ równań:\n⎧\n+\n=\n2\n2\na\nh\n36\n⎪\n2\n+\n2\n=\nb\nh\n49\n⎨\n⎪\n+\n+\n=\n2\n2\n2\na\nb\nh\n81\n⎩\n2\n+\n2\n=\n−\n2\nDodajemy pierwsze i drugie równania stronami i podstawiamy\na\nb\n85\n2\nh\ndo trzeciego\nh =\n2\nh =\nrównania. Otrzymamy\n4\n, więc\n2\n.\nh =\na =\nb =\nPodstawiając\n2\ndo pozostałych równań, obliczamy\n4 2\noraz\n3 5\n.\nObjętość ostrosłupa jest więc równa\n1\n1 4 2 3 5 2\n=\n⋅⋅⋅\n=\n⋅\n⋅\n⋅\n=\nV\na b h\n8 10\n.\n3\n3\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ................................................................................................................................. 1 pkt\nZapisanie układu równań, z którego można obliczyć długości wszystkich odcinków\n⎧\n+\n=\n2\n2\na\nh\n36\n⎪\n2\n+\n2\n=\npotrzebnych do obliczenia objętości ostrosłupa, np.:\nb\nh\n49\n.\n⎨\n⎪\n+\n+\n=\n2\n2\n2\na\nb\nh\n81\n⎩\nRozwiązanie, w którym jest istotny postęp.............................................................................. 2 pkt\nh =\na =\nObliczenie z powyższego układu jednej z niewiadomych, np.:\n2\nalbo\n4 2\nalbo\nb =\n3 5\n.\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\nObliczenie długości wszystkich odcinków potrzebnych do obliczenia objętości ostrosłupa:\nh =\na =\nb =\n2\n,\n4 2\n,\n3 5\n.\n15\nSchemat oceniania – sierpień 2011\nPoziom podstawowy\nRozwiązanie pełne ...................................................................................................................... 4 pkt\nV =\nObliczenie objętości ostrosłupa:\n8 10\n.\nUwaga:\nJeśli zdający błędnie zaznaczy na rysunku długości krawędzi (zamieni 9 z 6 lub 9 z 7) albo\na +\n=\nbłędnie zinterpretuje treść zadania pisząc np.:\n2\n9\n2\n7\n2\n, to otrzymuje 0 punktów za całe\nrozwiązanie.\n16"
+  }
+ ]
+}

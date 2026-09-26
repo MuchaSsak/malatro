@@ -1,0 +1,1272 @@
+[
+[
+{
+"exam": "f2005-P-2005-maj",
+"task": "3",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "1",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "3",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "3",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2005-P-2008-maj",
+"task": "10",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "34",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-P-2010-maj",
+"task": "10",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "28",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "13",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "16",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-P-2011-maj",
+"task": "22",
+"why": [
+"random-sample"
+]
+}
+],
+[
+{
+"exam": "f2005-P-2011-maj",
+"task": "33",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2011-sierpien",
+"task": "11",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "20",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "27",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2012-czerwiec",
+"task": "32",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "5",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "10",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "14",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2012-maj",
+"task": "28",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "21",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2012-sierpien",
+"task": "3",
+"why": [
+"random-sample"
+]
+}
+],
+[
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "11",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "16",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2013-maj",
+"task": "29",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "10",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2013-sierpien",
+"task": "25",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "12",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2014-czerwiec",
+"task": "28",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "12",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2014-sierpien",
+"task": "9",
+"why": [
+"medium",
+"shared-figure"
+]
+},
+{
+"exam": "f2005-P-2015-czerwiec",
+"task": "31",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "29",
+"why": [
+"random-sample"
+]
+}
+],
+[
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "4",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-R-2006-listopad-probna",
+"task": "5",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-R-2006-maj",
+"task": "13",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2006-styczen-zimowa",
+"task": "12",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "3",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "3",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "10",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2010-maj",
+"task": "5",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2005-R-2010-maj",
+"task": "7",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2005-R-2011-czerwiec",
+"task": "3",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "4",
+"why": [
+"random-sample"
+]
+}
+],
+[
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "2",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2012-czerwiec",
+"task": "4",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "12",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-R-2014-czerwiec",
+"task": "8",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2014-czerwiec",
+"task": "9",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "10",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "9",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "2",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "4",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "7",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "31",
+"why": [
+"medium"
+]
+}
+],
+[
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "15",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2015-czerwiec",
+"task": "33",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2015-P-2015-maj",
+"task": "20",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "2",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "7",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "11",
+"why": [
+"notes",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "16",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2016-maj",
+"task": "19",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2017-czerwiec",
+"task": "2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2017-maj",
+"task": "12",
+"why": [
+"random-sample"
+]
+}
+],
+[
+{
+"exam": "f2015-P-2017-sierpien",
+"task": "33",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2018-czerwiec",
+"task": "6",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "7",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "15",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "30",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "8",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "9",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2019-maj",
+"task": "10",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "7",
+"why": [
+"medium",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "8",
+"why": [
+"medium",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2020-maj",
+"task": "9",
+"why": [
+"medium",
+"shared-figure"
+]
+}
+],
+[
+{
+"exam": "f2015-P-2020-maj",
+"task": "33",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "33",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "11",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "12",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2021-maj",
+"task": "22",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2021-marzec-probna",
+"task": "3",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2021-sierpien",
+"task": "1",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "7",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "13",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "21",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "18",
+"why": [
+"medium",
+"notes"
+]
+}
+],
+[
+{
+"exam": "f2015-P-2023-maj",
+"task": "2",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "13",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "25",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2023-sierpien",
+"task": "26",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "11",
+"why": [
+"medium",
+"notes",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "15",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2015-P-2024-czerwiec",
+"task": "36",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-P-2024-maj",
+"task": "28",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "9",
+"why": [
+"medium",
+"notes",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "10",
+"why": [
+"medium",
+"notes",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "11",
+"why": [
+"shared-figure"
+]
+}
+],
+[
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "14",
+"why": [
+"medium",
+"notes",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2024-sierpien",
+"task": "33",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "17",
+"why": [
+"medium",
+"notes",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "18",
+"why": [
+"medium",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "14",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "15",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "29",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "8",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "10",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "12",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "17",
+"why": [
+"shared-figure"
+]
+}
+],
+[
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "18",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "19",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2025-sierpien",
+"task": "20",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "7",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "8",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2026-czerwiec",
+"task": "29",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "3",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "12",
+"why": [
+"medium",
+"notes",
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "10",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "12",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "13",
+"why": [
+"shared-figure"
+]
+}
+],
+[
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "21",
+"why": [
+"shared-figure"
+]
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "15",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "16",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "6",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-R-2016-czerwiec",
+"task": "15",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-R-2017-czerwiec",
+"task": "15",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "3",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-R-2017-maj",
+"task": "14",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "12",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-R-2018-czerwiec",
+"task": "15",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-R-2018-maj",
+"task": "15",
+"why": [
+"medium"
+]
+}
+],
+[
+{
+"exam": "f2015-R-2019-maj",
+"task": "2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-R-2020-maj",
+"task": "11",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "7",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "14",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-R-2022-maj",
+"task": "15",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2015-R-2023-czerwiec",
+"task": "15",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "8",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2015-R-2025-maj",
+"task": "10",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "5",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "7",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2023-P-2023-czerwiec",
+"task": "33",
+"why": [
+"medium",
+"notes"
+]
+}
+],
+[
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "12",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "30",
+"why": [
+"medium",
+"notes"
+]
+},
+{
+"exam": "f2023-P-2023-maj",
+"task": "2",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "8",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "21",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2023-sierpien",
+"task": "23",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2023-P-2024-maj",
+"task": "16",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "6",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "9",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2023-P-2024-sierpien",
+"task": "15",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2023-P-2025-czerwiec",
+"task": "16",
+"why": [
+"random-sample"
+]
+}
+],
+[
+{
+"exam": "f2023-P-2025-maj",
+"task": "3",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2025-maj",
+"task": "29",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "22",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "19",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "28",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-marzec-probna",
+"task": "32.2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "28",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-P-2026-sierpien",
+"task": "29",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-R-2022-marzec-pokazowa",
+"task": "11",
+"why": [
+"notes"
+]
+}
+],
+[
+{
+"exam": "f2023-R-2023-maj",
+"task": "8",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-R-2024-czerwiec",
+"task": "3",
+"why": [
+"medium"
+]
+},
+{
+"exam": "f2023-R-2024-grudzien-diagnostyczna",
+"task": "13.2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-R-2024-maj",
+"task": "7",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "12.2",
+"why": [
+"random-sample"
+]
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "6",
+"why": [
+"notes"
+]
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "8",
+"why": [
+"medium",
+"notes"
+]
+}
+]
+]

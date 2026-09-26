@@ -1,0 +1,123 @@
+[
+ {
+  "exam": "f2015-P-2017-sierpien",
+  "task": "33",
+  "verdict": "ok",
+  "solved_value": 25,
+  "value": 25,
+  "answer_tex": "A=\\left(\\frac{25}{3},0\\right),\\ B=\\left(0,\\frac{25}{4}\\right),\\ |AB|=\\frac{125}{12}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "AB perpendicular to CD through D: A=(25/3,0), B=(0,25/4), |AB|=125/12; sum 25 (zeros add nothing). Matches key; summary names summed parts."
+ },
+ {
+  "exam": "f2015-P-2018-czerwiec",
+  "task": "6",
+  "verdict": "ok",
+  "solved_value": 2,
+  "value": 2,
+  "answer_tex": "\\text{2 rozwiazania rzeczywiste } (x=\\tfrac12 \\lor x=-1)",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "2x^2+x-1=0 gives x=1/2, x=-1 (both allowed), so exactly two solutions, option A; key table 6=A. Options are pure counts, summary asks count."
+ },
+ {
+  "exam": "f2015-P-2018-maj",
+  "task": "7",
+  "verdict": "fix",
+  "solved_value": 1,
+  "value": 1,
+  "answer_tex": "\\text{jedno rozwiązanie: } x=0",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Only x=0 valid (x=-2 kills denominator), option D, key D. Summary asks Ile rozwiazan (count=1) but stored 0 (the root). Set 1 to match summary."
+ },
+ {
+  "exam": "f2015-P-2018-maj",
+  "task": "15",
+  "verdict": "ok",
+  "solved_value": 45,
+  "value": 45,
+  "answer_tex": "10,15,20",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Sides in ratio 2:3:4 -> option A (10,15,20), key A. Sum of sides 45, summary says (suma bokow)."
+ },
+ {
+  "exam": "f2015-P-2018-maj",
+  "task": "30",
+  "verdict": "ok",
+  "solved_value": 3,
+  "value": 3,
+  "answer_tex": "a=3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "a^2=9, a>0 -> a=3; range of g is interval (-2,inf), not numeric. Summary explicitly asks only for a. Matches key."
+ },
+ {
+  "exam": "f2015-P-2019-maj",
+  "task": "8",
+  "verdict": "exclude",
+  "solved_value": null,
+  "value": null,
+  "answer_tex": "\\langle-4,+\\infty)",
+  "exclude_reason": "interval_or_set",
+  "summary_fix": null,
+  "reason": "Answer is the interval <-4,+inf) (option C, key C). Storing endpoint -4 is a convention; the answer is not a number."
+ },
+ {
+  "exam": "f2015-P-2019-maj",
+  "task": "9",
+  "verdict": "ok",
+  "solved_value": 0,
+  "value": 0,
+  "answer_tex": "0",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "f=x(x-4): f(1)=-3, f(2)=-4, f(4)=0; max on <1,4> is 0, option D, key D (Wersja I)."
+ },
+ {
+  "exam": "f2015-P-2019-maj",
+  "task": "10",
+  "verdict": "ok",
+  "solved_value": 2,
+  "value": 2,
+  "answer_tex": "x=2",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Vertex (2,-4) -> axis x=2, option D, key D (Wersja I)."
+ },
+ {
+  "exam": "f2015-P-2020-maj",
+  "task": "7",
+  "verdict": "ok",
+  "solved_value": -1,
+  "value": -1,
+  "answer_tex": "a=-1",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "f(2)=a(1)(-1)=-a=1 -> a=-1, option D, key D (Wersja X)."
+ },
+ {
+  "exam": "f2015-P-2020-maj",
+  "task": "8",
+  "verdict": "ok",
+  "solved_value": 1,
+  "value": 1,
+  "answer_tex": "1",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Downward parabola, vertex x=2 in <1,4>, so max = f(2)=1, option C, key C (Wersja X)."
+ },
+ {
+  "exam": "f2015-P-2020-maj",
+  "task": "9",
+  "verdict": "ok",
+  "solved_value": 2,
+  "value": 2,
+  "answer_tex": "x=2",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Vertex (2,1) -> axis x=2, option B, key B (Wersja X)."
+ }
+]

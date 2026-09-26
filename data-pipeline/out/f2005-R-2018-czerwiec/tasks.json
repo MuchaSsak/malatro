@@ -1,0 +1,184 @@
+{
+ "exam": {
+  "id": "f2005-R-2018-czerwiec",
+  "formula": "2005",
+  "level": "R",
+  "year": 2018,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "MMA-R1_1P-183",
+  "examUrl": "http://jakzdacmaturezmatematyki.pl/files/matury/matura_matematyka_2018-06-05_PR_SM.pdf",
+  "keyUrl": "http://jakzdacmaturezmatematyki.pl/files/matury/klucze/klucz-matura-matematyka-2018-06-PR_SM.pdf",
+  "examFile": "f2005-R-2018-czerwiec.pdf",
+  "keyFile": "f2005-R-2018-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "formula do 2014 (stara matura); termin dodatkowy; files from jakzdacmaturezmatematyki.pl; key covers only tasks NOT shared with formula 2015 ('bez wspolnych z nowa matura'); for shared tasks use f2015-R-2018-czerwiec key",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 20,
+  "keyPages": 8,
+  "examBytes": 474303,
+  "keyBytes": 304209
+ },
+ "keyHead": "EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2017/2018\nMATEMATYKA\nPOZIOM ROZSZERZONY\nFORMUŁA DO 2014\n(„STARA MATURA”)\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\n(BEZ WSPÓLNYCH Z „NOWĄ MATURĄ”)\nARKUSZ MMA-R1\nCZERWIEC 2018\nSchemat oceniania\nPoziom rozszerzony\nZadanie 1. (0–4)\n2\nx\n1\nx\n5\nx\n5\nRozwiąż nierówność\n−\n+\n≤\n+\n+\n.\nPrzykładowe rozwiązanie\n\n1\n1\nWyróżniamy na osi liczbowej przedziały: (\n)\n)\n, −\n5\n,\n,5\n\n,\n,\n.\n+\n∞\n−\n∞\n−\n2\n\n2\nRozwiązujemy nierówności w poszczególnych przedziałach i w każdym przedziale\nbierzemy część wspólną tego przedziału z otrzymanym zbiorem rozwiązań nierówności.\n(\n)\nx\n, −\n5\n1\n∈\n−\n∞\n1\n\n)\nx\n,\nx\n,5\n\n∈\n+\n∞\n∈\n−\n2\n2\n\n2\nx\n1\nx\n5\nx\n5\n2\nx\n1\nx\n5\nx\n5\n2\nx\n1\nx\n5\nx\n5\n−\n+\n+\n+\n+\n≤\n−\n+\n−\n−\n+\n≤\n−\n−\n−\n+\n≤\n6 ≤\n5\n9\n11\nx\nx\n≥\n−\n≤\n2\n2\n\n9\n1\nx\n,\n\nsprzeczność\n∈\n−\n1\n11\n2\n2\n\nx\n,\n∈\n2\n2\n9\n11\nWyznaczamy sumę tych rozwiązań:\nx\n,\n.\n∈\n−\n2\n2\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp ............................................................................. 1 p.\n\n1\n1\nZdający wyróżni na osi liczbowej przedziały(\n)\n)\n,\n,5\n\n,\n,\n.\n, −\n5\n−\n∞\n−\n+\n∞\n2\n\n2\nUwaga\nJeżeli zdający popełni błędy w wyznaczaniu przedziałów, ale nie są one konsekwencją błędu\nrachunkowego popełnionego przy przekształcaniu nierówności, to przyznajemy 0 punktów.\nPokonanie zasadniczych trudności zadania ............................................................................ 2 p.\nZdający zapisze nierówności w poszczególnych przedziałach, np:\n(\n)\nI.\nx\n, −\n5\n2\nx\n1\nx\n5\nx\n5\n∈\n−\n∞\n−\n+\n+\n+\n+\n≤\n\n1\nII.\nx\n,5\n\n2\nx\n1\nx\n5\nx\n5\n∈\n−\n−\n+\n−\n−\n+\n≤\n2\n\n1\n)\nIII.\nx\n,\n∈\n+\n∞\n2\nx\n1\nx\n5\nx\n5\n−\n−\n−\n+\n≤\n2\nUwagi\n1. Jeżeli zdający rozwiąże nierówności w poszczególnych przedziałach i na tym zakończy\nlub nie wyznaczy części wspólnej otrzymywanych wyników z poszczególnymi\nprzedziałami i kontynuuje rozwiązanie, to otrzymuje 2 punkty.\n2. Jeżeli zdający rozpatrzy cztery przypadki, rozwiąże nierówności w poszczególnych\nprzedziałach, stwierdzi, że czwarty przypadek jest niemożliwy i na tym zakończy lub nie\nwyznaczy części wspólnej otrzymywanych wyników z poszczególnymi przedziałami\ni kontynuuje rozwiązanie, to otrzymuje 2 punkty.\n2\nSchemat oceniania\nPoziom rozszerzony\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe) ................................................................ 3 p.\n• Zdający poprawnie rozwiąże nierówności i wyznaczy części wspólne otrzymanych\nwyników z poszczególnymi przedziałami tylko w dwóch przypadkach, popełni błąd\nw trzecim przypadku i konsekwentnie doprowadzi rozwiązanie do końca\nalbo\n• zdający rozpatrzy cztery przypadki, poprawnie rozwiąże nierówności i wyznaczy części\nwspólne otrzymanych wyników z poszczególnymi przedziałami tylko w dwóch\nprzypadkach, stwierdzi, że czwarty jest niemożliwy, popełni błąd w trzecim przypadku\ni konsekwentnie doprowadzi rozwiązanie do końca.\nRozwiązanie pełne ..................................................................................................................... 4 p.\n9\n11\nZdający zapisze odpowiedź:\nx\n,\n.\n∈\n−\n2\n2\nUwaga\nWe wszystkich rozważanych przypadkach zdający może rozpatrywać obie nierówności\nnieostre (przedziały obustronnie domknięte). Jeżeli natomiast rozważy wszystkie nierówności\nostre (przedziały otwarte), to przyznajemy za całe zadanie o 1 p. mniej, niż gdyby wyróżnił\nwszystkie przedziały poprawnie.\nZadanie  2. (0–5)\nw przedziale (\n)\n2\n0,2π .\nRozwiąż równanie\n4sin\nx\ncos\nx\n1\n2sin 2\nx\ncos\nx\n⋅\n−=\n−\nRozwiązanie\nPrzekształcamy w sposób równoważny równanie\n2\n4sin\nx\ncos\nx\n4sin cos\nx\nx\ncos\nx\n1\n0\n⋅\n−\n+\n−=\n(\n)\n4sin cos\nx\nx\ncos\nx\n1\ncos\nx\n1\n0\n−\n+\n−=\n(\n)(\n)\ncos\nx\n1\n4sin cos\nx\nx\n1\n0\n.\n−\n+\n=\n1\nStąd otrzymujemy: cos\nx = lub\n1\nsin 2\nx = −\n.\n2\n7\nπ\nZ pierwszego z tych równań otrzymujemy rozwiązania\nx\n2\nkπ\n, z drugiego\nx\nk\nlub\n=\n=\n+\nπ\n12\n11\nπ\nx\nk\n, gdzie k- liczba całkowita. Uwzględniając założenie otrzymujemy ostatecznie\n=\n+\nπ\n12\n7\n11\n19\n23\nπ\nπ\nπ\nπ\nrozwiązanie\nx\n,\nx\n,\nx\n,",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2018-czerwiec/1.webp",
+   "size": [
+    919,
+    90
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (4 pkt)\n2\nx\n1\nx\n5\nx\n5\nRozwiąż nierówność\n−\n+\n≤\n+\n+\n.",
+   "key": "Zadanie 1. (0–4)\n2\nx\n1\nx\n5\nx\n5\nRozwiąż nierówność\n−\n+\n≤\n+\n+\n.\nPrzykładowe rozwiązanie\n\n1\n1\nWyróżniamy na osi liczbowej przedziały: (\n)\n)\n, −\n5\n,\n,5\n\n,\n,\n.\n+\n∞\n−\n∞\n−\n2\n\n2\nRozwiązujemy nierówności w poszczególnych przedziałach i w każdym przedziale\nbierzemy część wspólną tego przedziału z otrzymanym zbiorem rozwiązań nierówności.\n(\n)\nx\n, −\n5\n1\n∈\n−\n∞\n1\n\n)\nx\n,\nx\n,5\n\n∈\n+\n∞\n∈\n−\n2\n2\n\n2\nx\n1\nx\n5\nx\n5\n2\nx\n1\nx\n5\nx\n5\n2\nx\n1\nx\n5\nx\n5\n−\n+\n+\n+\n+\n≤\n−\n+\n−\n−\n+\n≤\n−\n−\n−\n+\n≤\n6 ≤\n5\n9\n11\nx\nx\n≥\n−\n≤\n2\n2\n\n9\n1\nx\n,\n\nsprzeczność\n∈\n−\n1\n11\n2\n2\n\nx\n,\n∈\n2\n2\n9\n11\nWyznaczamy sumę tych rozwiązań:\nx\n,\n.\n∈\n−\n2\n2\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp ............................................................................. 1 p.\n\n1\n1\nZdający wyróżni na osi liczbowej przedziały(\n)\n)\n,\n,5\n\n,\n,\n.\n, −\n5\n−\n∞\n−\n+\n∞\n2\n\n2\nUwaga\nJeżeli zdający popełni błędy w wyznaczaniu przedziałów, ale nie są one konsekwencją błędu\nrachunkowego popełnionego przy przekształcaniu nierówności, to przyznajemy 0 punktów.\nPokonanie zasadniczych trudności zadania ............................................................................ 2 p.\nZdający zapisze nierówności w poszczególnych przedziałach, np:\n(\n)\nI.\nx\n, −\n5\n2\nx\n1\nx\n5\nx\n5\n∈\n−\n∞\n−\n+\n+\n+\n+\n≤\n\n1\nII.\nx\n,5\n\n2\nx\n1\nx\n5\nx\n5\n∈\n−\n−\n+\n−\n−\n+\n≤\n2\n\n1\n)\nIII.\nx\n,\n∈\n+\n∞\n2\nx\n1\nx\n5\nx\n5\n−\n−\n−\n+\n≤\n2\nUwagi\n1. Jeżeli zdający rozwiąże nierówności w poszczególnych przedziałach i na tym zakończy\nlub nie wyznaczy części wspólnej otrzymywanych wyników z poszczególnymi\nprzedziałami i kontynuuje rozwiązanie, to otrzymuje 2 punkty.\n2. Jeżeli zdający rozpatrzy cztery przypadki, rozwiąże nierówności w poszczególnych\nprzedziałach, stwierdzi, że czwarty przypadek jest niemożliwy i na tym zakończy lub nie\nwyznaczy części wspólnej otrzymywanych wyników z poszczególnymi przedziałami\ni kontynuuje rozwiązanie, to otrzymuje 2 punkty.\n2\nSchemat oceniania\nPoziom rozszerzony\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe) ................................................................ 3 p.\n• Zdający poprawnie rozwiąże nierówności i wyznaczy części wspólne otrzymanych\nwyników z poszczególnymi przedziałami tylko w dwóch przypadkach, popełni błąd\nw trzecim przypadku i konsekwentnie doprowadzi rozwiązanie do końca\nalbo\n• zdający rozpatrzy cztery przypadki, poprawnie rozwiąże nierówności i wyznaczy części\nwspólne otrzymanych wyników z poszczególnymi przedziałami tylko w dwóch\nprzypadkach, stwierdzi, że czwarty jest niemożliwy, popełni błąd w trzecim przypadku\ni konsekwentnie doprowadzi rozwiązanie do końca.\nRozwiązanie pełne ..................................................................................................................... 4 p.\n9\n11\nZdający zapisze odpowiedź:\nx\n,\n.\n∈\n−\n2\n2\nUwaga\nWe wszystkich rozważanych przypadkach zdający może rozpatrywać obie nierówności\nnieostre (przedziały obustronnie domknięte). Jeżeli natomiast rozważy wszystkie nierówności\nostre (przedziały otwarte), to przyznajemy za całe zadanie o 1 p. mniej, niż gdyby wyróżnił\nwszystkie przedziały poprawnie."
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2018-czerwiec/2.webp",
+   "size": [
+    919,
+    87
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (5 pkt)\nw przedziale (\n)\n2\n0,2π .\nRozwiąż równanie\n4sin\nx\ncos\nx\n1\n2sin 2\nx\ncos\nx\n⋅\n−=\n−",
+   "key": "Zadanie  2. (0–5)\nw przedziale (\n)\n2\n0,2π .\nRozwiąż równanie\n4sin\nx\ncos\nx\n1\n2sin 2\nx\ncos\nx\n⋅\n−=\n−\nRozwiązanie\nPrzekształcamy w sposób równoważny równanie\n2\n4sin\nx\ncos\nx\n4sin cos\nx\nx\ncos\nx\n1\n0\n⋅\n−\n+\n−=\n(\n)\n4sin cos\nx\nx\ncos\nx\n1\ncos\nx\n1\n0\n−\n+\n−=\n(\n)(\n)\ncos\nx\n1\n4sin cos\nx\nx\n1\n0\n.\n−\n+\n=\n1\nStąd otrzymujemy: cos\nx = lub\n1\nsin 2\nx = −\n.\n2\n7\nπ\nZ pierwszego z tych równań otrzymujemy rozwiązania\nx\n2\nkπ\n, z drugiego\nx\nk\nlub\n=\n=\n+\nπ\n12\n11\nπ\nx\nk\n, gdzie k- liczba całkowita. Uwzględniając założenie otrzymujemy ostatecznie\n=\n+\nπ\n12\n7\n11\n19\n23\nπ\nπ\nπ\nπ\nrozwiązanie\nx\n,\nx\n,\nx\n,\nx\n.\n=\n=\n=\n=\n12\n12\n12\n12\nSchemat oceniania\nRozwiązanie, w którym jest niewielki postęp ...................................................................  1 p.\n2\nZdający zapisze równanie w postaci\n4sin\nx\ncos\nx\n4sin cos\nx\nx\ncos\nx\n1\n0\n.\n⋅\n−\n+\n−=\n3\nSchemat oceniania\nPoziom rozszerzony\nRozwiązanie, w którym jest istotny postęp .......................................................................  2 p.\nZdający zapisze równanie w postaci (\n)(\n)\ncos\nx\n1\n4sin cos\nx\nx\n1\n0\n.\n−\n+\n=\nPokonanie zasadniczych trudności zadania  .....................................................................  3 p.\n• Zdający rozwiąże równanie cos\nx = w przedziale (\n)\n1\n0,2π\nalbo\n1\n• zdający przekształci równanie 4sin cos\nx\nx\n1\n0\ndo postaci\nsin 2\nx = −\n.\n+ =\n2\nRozwiązanie prawie pełne  .................................................................................................  4 p.\n1\nZdający rozwiąże równanie\nsin 2\nx = −\nw zbiorze liczb rzeczywistych:\n2\n7\n11\nπ\nπ\nx\nk\nlub\nx\nk\n, gdzie k jest liczbą całkowitą oraz rozwiąże równanie\n=\n+\nπ\n=\n+\nπ\n12\n12\ncos\nx = w zbiorze liczb rzeczywistych:\n1\nx\n2\nkπ\n, gdzie k jest liczbą całkowitą.\n=\nRozwiązanie pełne  ..............................................................................................................  5 p.\n7\n11\n19\nπ\nπ\nπ\nZdający zapisze wszystkie rozwiązania z przedziału (\n)\n0,2π :\nx\n,\nx\n,\nx\n,\n=\n=\n=\n12\n12\n12\n23\nπ\nx\n.\n=\n12"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2018-czerwiec/3.webp",
+   "size": [
+    951,
+    165
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (5 pkt)\nPodstawą ostrosłupa prawidłowego ABCDS jest kwadrat ABCD. Punkt M jest środkiem\nodcinka AB, a punkt N jest środkiem odcinka BC. Trójkąt MNS jest równoboczny i jego bok\nma długość m. Oblicz objętość ostrosłupa ABCDS i kąt nachylenia ściany bocznej do\npłaszczyzny podstawy tego ostrosłupa.",
+   "key": "Zadanie 3. (0–5)\nPodstawą ostrosłupa prawidłowego ABCDS jest kwadrat ABCD. Punkt M jest środkiem\nodcinka AB, a punkt N jest środkiem odcinka BC. Trójkąt MNS jest równoboczny i jego bok\nma długość m. Oblicz objętość ostrosłupa ABCDS i kąt nachylenia ściany bocznej do\npłaszczyzny podstawy tego ostrosłupa.\nRozwiązanie\nNiech O oznacza spodek wysokości ostrosłupa oraz α niech będzie miara kąta nachylenia\nściany bocznej ostrosłupa do płaszczyzny podstawy.\nS\nh\nm\nm\nD\nC\nα\nN\nO\nA\nB\nM\n4\nSchemat oceniania\nPoziom rozszerzony\nOdcinek MN to przekątna kwadratu BNOM, więc ze wzoru na długość przekątnej kwadratu,\notrzymujemy\nMN\nON\n2\n,\n=\nm\nON\n2\n,\n=\nm\nm\n2\nON =\n.\n=\n2\n2\nZ twierdzenia Pitagorasa dla trójkąta ONS otrzymujemy\n2\n2\n2\nNS\nSO\nON\n,\n=\n+\n(\n)\n2\nm\n2\n2\n2\nm\nh\n,\n=\n+\n2\n(\n)\n2\nm\n2\n2\nm\n2\n2\nm\n2\n2\n2\n2\nh\nm\nm\n.\n=\n−\n=\n−\n=\n2\n4\n4\nStąd\n2\nm\n2\nm\n2\nh =\n.\n=\n4\n2\nKrawędź podstawy ostrosłupa ma długość\nm\n2\nAB\n2\nON\n2\nm\n2\n.\n=\n=\n⋅\n=\n2\nObjętość ostrosłupa jest zatem równa\n1\n1\nm\n2\nm\n3\n2\n2\n(\n)\n2\nV\nAB h\nm\n2\n.\n=\n⋅\n=\n⋅\n⋅\n=\n3\n3\n2\n3\nTangens kąta nachylenia ściany bocznej do płaszczyzny podstawy jest równy\nm\n2\nSO\n2\ntg\n= ,\n1\nα =\n=\nm\n2\nNO\n2\nzatem\n45\n°.\nα =\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ...........................................................................................................  1 p.\nm\n2\nZdający wyznaczy długość podstawy ostrosłupa lub jego połowy:\nm\n2\nlub\n.\n2\nRozwiązanie, w którym jest istotny postęp  ......................................................................  2 p.\n2\n(\n)\nm\n2\n2\n2\nZdający zapisze zależność między wysokością h ostrosłupa oraz m, np.:\nm\nh\n.\n=\n+\n2\nPokonanie zasadniczych trudności zadania  .....................................................................  3 p.\nm\n2\nZdający wyznaczy wysokość ostrosłupa:\nh =\n.\n2\nRozwiązanie prawie pełne  .................................................................................................  4 p.\nZdający\n3 2\nm\n• wyznaczy objętość ostrosłupa w zależności od m:\nV =\n3\nalbo\n5\nSchemat oceniania\nPoziom rozszerzony\n• wyznaczy kąt nachylenia ściany bocznej do płaszczyzny podstawy:\n45\n°.\nα =\nRozwiązanie pełne  ..............................................................................................................  5 p.\n3 2\nm\nZdający wyznaczy objętość ostrosłupa:\nV =\noraz wyznaczy kąt nachylenia ściany\n3\nbocznej do płaszczyzny podstawy:\n45\n°.\nα ="
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2018-czerwiec/4.webp",
+   "size": [
+    950,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (4 pkt)\nDany jest rosnący ciąg geometryczny (\n)\n2\na aq aq\n,\n,\n, którego wszystkie wyrazy i iloraz są\nliczbami całkowitymi nieparzystymi. Jeśli największy wyraz ciągu zmniejszymy o 4, to\notrzymamy ciąg arytmetyczny. Oblicz wyraz aq tego ciągu.",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2018-czerwiec/5.webp",
+   "size": [
+    951,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (3 pkt)\nW trójkącie ABC kąt BAC jest dwa razy większy od kąta ABC. Wykaż, że prawdziwa jest\n2\n2\nrówność\n.\nBC\nAC\nAB\nAC\n−\n=\n⋅",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2018-czerwiec/6.webp",
+   "size": [
+    950,
+    176
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (3 pkt)\nDodatnie\nliczby\nrzeczywiste\na\ni\nb\ntakie,\nże\na\nb ,\nspełniają\nwarunek\n>\n\n\na\nb\n1\n−\n(\n)\nlog\n\n\nlog\na\nlog\nb\n. Wykaż, że dla liczb a i b prawdziwa jest równość\n=\n+\n2\n2\n2\n\n3\n\n2\na2 + b2 = 11 ab .",
+   "key": "Zadanie 6. (0–3)\na\nb ,\nDodatnie\nliczby\nrzeczywiste\na\ni\nb\ntakie,\nże\nspełniają\nwarunek\n>\n\na\nb\n\n1\n−\n(\n)\n\n\n. Wykaż, że dla liczb a i b prawdziwa jest równość\nlog\nlog\na\nlog\nb\n=\n+\n2\n2\n2\n\n3\n\n2\n2\n2\na\nb\n11\nab\n.\n+\n=\nRozwiązanie\nMnożymy obie strony danego równania przez 2 i otrzymujemy:\n\n=\na\nb\n−\n2\nlog\nlog\na\nlog\nb\n+\n\n\n2\n2\n2\n\n3\n\nStosujemy twierdzenia o logarytmach i przekształcamy równość do postaci:\n2\n\n\na\nb\n−\nlog\n\n\nlog\nab\n.\n=\n2\n2\n\n3\n\nWykorzystujemy różnowartościowość funkcji logarytmicznej i zapisujemy równość\nw postaci:\n2\n\na\nb\n\n−\n\n\nab\n.\n=\n\n3\n\nPrzekształcamy równoważnie wyrażenie:\n2\n(\n)\na\nb\n−\nab\n=\n,\n9\n2\n2\na\n2\nab\nb\n9\nab\n.\n−\n+\n=\n2\n2\nStąd\na\nb\n11\nab\n.\n+\n=\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ......................................................................................................................... 1 pkt\n2\n\na\nb\n\n−\n\n\nZdający zapisze równanie w postaci\nlog\nlog\nab\n.\n=\n2\n2\n\n3\n\nPokonanie zasadniczych trudności zadania ..................................................................... 2 pkt\n2\n\na\nb\n\n−\nZdający wykorzysta różnowartościowość funkcji logarytmicznej i zapisze\n\n\nab\n.\n=\n\n3\n\n6\nSchemat oceniania\nPoziom rozszerzony\nRozwiązanie pełne  ............................................................................................................. 3 pkt\nZdający wykaże tezę."
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2018-czerwiec/7.webp",
+   "size": [
+    950,
+    151
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (4 pkt)\nZe zbioru wszystkich liczb naturalnych ośmiocyfrowych, w których zapisie dziesiętnym\nwystępują tylko cyfry ze zbioru {\n}\n0,1, 3, 5, 7, 9 , losujemy jedną. Oblicz prawdopodobieństwo\nzdarzenia polegającego na tym, że suma cyfr wylosowanej liczby jest równa 3.",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2018-czerwiec/8.webp",
+   "size": [
+    950,
+    136
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (5 pkt)\nTrapez prostokątny o podstawach AB i CD jest opisany na okręgu. Ramię BC ma długość 10,\na ramię AD jest wysokością trapezu. Podstawa AB jest 2 razy dłuższa od podstawy CD. Oblicz\npole tego trapezu.",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-R-2018-czerwiec/9.webp",
+   "size": [
+    919,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (6 pkt)\nWyznacz wszystkie wartości parametru m, dla których równanie\n2\n(\n)(\n)\nx\n3\nmx\nm\n1\n2\nm\n1\n0\n−\n+\n+\n−\n=\n1\n1\n2\nma dwa różne rozwiązania\n1x ,\n2x spełniające warunki:\nx\nx\n0\noraz\n0\n.\n⋅\n≠\n<\n+\n≤\n1\n2\nx\nx\n3\n1\n2",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-R-2018-czerwiec/10.webp",
+   "size": [
+    950,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (6 pkt)\n( )\n3\n2\n( )\nW x\nx\ncx\n10\nx\nd\nWielomian\n=\n+\n−\n+\njest podzielny przez dwumian\nP\nx\n= x\n2\n. Przy\n+\n( )\n( )\notrzymujemy resztę (\n)\ndzieleniu wielomianu\nW x przez dwumian\nQ\nx\n= x\n1\n30\n. Oblicz\n−\n−\n( )\n( )\nW x i rozwiąż nierówność\npierwiastki wielomianu\nW\nx\n0\n.\n≥",
+   "key": "Zadanie 10. (0–6)\n( )\n3\n2\n( )\nW x\nx\ncx\n10\nx\nd\nWielomian\n=\n+\n−\n+\njest podzielny przez dwumian\nP\nx\n= x\n2\n. Przy\n+\n( )\n( )\notrzymujemy resztę (\n)\nW x przez dwumian\n30\ndzieleniu wielomianu\nQ\nx\n= x\n1\n−\n. Oblicz\n−\n( )\n( )\nW x i rozwiąż nierówność\npierwiastki wielomianu\nW\nx\n0\n.\n≥\n( )\n( )\n3\n2\nWielomian\nW x\nx\ncx\n10\nx\nd\njest podzielny przez dwumian\nP\nx\n= x\n2\n. Przy\n=\n+\n−\n+\n+\n( )\n( )\notrzymujemy resztę (\n)\ndzieleniu wielomianu\nW x przez dwumian\nQ\nx\n= x\n1\n30\n. Oblicz\n−\n−\n( )\n( )\npierwiastki wielomianu\nW x i rozwiąż nierówność\nW\nx\n0\n.\n≥\nRozwiązanie\nW x jest podzielny przez dwumian ( )\n( )\nWielomian\n, stąd\nx = − jest pierwiastkiem\nP\nx\n= x\n2\n2\n+\ntego wielomianu. Korzystając z warunków zadania zapisujemy układ równań\n\n(\n)\nW\n2\n0\n−\n=\n,\n( )\nW\n1\n30\n\n= −\n\n4\nc\nd\n12\n0\n+\n+\n=\n.\n+\nc\nd\n9\n30\n\n−\n= −\nZ układu równań obliczamy c i d\n\n4\nc\nd\n12\n+\n= −\n,\n\nc\nd\n21\n+\n= −\n\n\nc\n3\n=\n.\n\nd\n24\n= −\n\n( )\n3\n2\nDla\nc\n3 i\nd\n24\notrzymujemy\nW x\nx\n3\nx\n10\nx\n24\n.\n=\n=−\n=\n+\n−\n−\nObliczamy pozostałe pierwiastki wielomianu wykonując, np. dzielenie wielomianu\nW x przez (\n( )\n)\nx +\n2\n.\n( ) (\n)\n2\nW x\n:\nx\n2\nx\nx\n12\n,\n+\n=\n+\n−\n2\nx\nx\n12\n0\n,\n+\n−\n=\n49\n,\nx =\n3\n,\nx = −.\n4\nΔ =\n1\n2\n( )\nPierwiastkami wielomianu\nW x są liczby: 4\n−, 2\n−, oraz 3.\nWykonujemy szkic\nx\n3\n−\n4\n−\n2\n( )\n)\ni odczytujemy rozwiązanie nierówności:\nW\nx\n0\ndla\nx∈−\n4,\n2\n3,\n∞.\n≥\n−\n∪\n7\nSchemat oceniania\nPoziom rozszerzony\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny do\nrozwiązania zadania  .......................................................................................................... 1 pkt\nZdający zapisze jedno z równań:\n4\nc\nd\n12\n0\nalbo\nc\nd\n9\n30\n+\n+\n=\n+\n−\n= −\nUwaga\n\n(\n)\nW\n2\n0\n−\n=\nWystarczy, że zdający zapisze\n.\n( )\nW\n1\n30\n\n= −\nRozwiązanie, w którym jest istotny postęp  .................................................................... 2 pkt\nZdający zapisze układ równań\n\n4\nc\nd\n12\n0\n+\n+\n=\n+\nc\nd\n9\n30\n\n−\n= −\nPokonanie zasadniczych trudności zadania ............................................................ 4 pkt\nZdający rozwiąże układ równań:\nc\n3 i\nd\n24\n.\n=\n=−\nUwaga\nJeśli zdający rozwiąże układ równań z błędem rachunkowym, to otrzymuje 3 punkty.\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe)  ........................................................ 5 pkt\nZdający\nW x przez (\n( )\n)\n• wykona poprawnie dzielenie wielomianu\nx +\n2\n:\n( ) (\n)\nW x\n:\nx\n2\nx\n2\nx\n12\n+\n=\n+\n−\nalbo\n• rozwiąże układ równań z błędem rachunkowym i obliczy pozostałe pierwiastki\nkonsekwentnie do popełnionego błędu\nalbo\n• podzieli wielomian z błędem rachunkowym i obliczy pozostałe pierwiastki\nkonsekwentnie do popełnionego błędu\nalbo\n( )\nbłędnie poda rozwiązanie nierówności\nW\nx\n0\n.\n≥\nRozwiązanie pełne .............................................................................................................. 6 pkt\nZdający obliczy pozostałe pierwiastki wielomianu:\n−, oraz 3 i zapisze rozwiązanie\n4\n( )\n)\nnierówności\nW\nx\n0\n:\nx∈−\n4,\n2\n3,\n∞.\n≥\n−\n∪\n8"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2018-czerwiec/11.webp",
+   "size": [
+    950,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (5 pkt)\nWierzchołki A i B trójkąta prostokątnego ABC leżą na osi Oy układu współrzędnych. Okrąg\nwpisany w ten trójkąt jest styczny do boków AB, BC i CA w punktach – odpowiednio –\n(\n)\n(\n)\n(\n)\nP =\n0,10 ,\nQ =\n8, 6\ni\nR =\n9,13\n. Oblicz współrzędne wierzchołków A, B i C tego trójkąta.",
+   "key": ""
+  }
+ ]
+}

@@ -1,0 +1,170 @@
+{
+ "exam": {
+  "id": "f2005-P-2006-styczen-zimowa",
+  "formula": "2005",
+  "level": "P",
+  "year": 2006,
+  "session": "zimowa",
+  "month": "01",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/stories/Arkusz2006styczen/mat_a1.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/Arkusz2006styczen/mat_a1_model.pdf",
+  "examFile": "f2005-P-2006-styczen-zimowa.pdf",
+  "keyFile": "f2005-P-2006-styczen-zimowa-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure); sesja zimowa (17 Jan 2006); Arkusz I",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2006-2/sesja-zimowa-2006-r/",
+  "examPages": 12,
+  "keyPages": 3,
+  "examBytes": 263526,
+  "keyBytes": 130801
+ },
+ "keyHead": "MODEL ODPOWIEDZI I SCHEMAT OCENIANIA\nARKUSZA  I\nNumer\nNumer\nLiczba\nEtapy rozwiązania zadania\nzadania\nczynności\npunktów\nx +\na =\n−\n1.1.\n1\nPrzedstawienie liczby a w postaci\ny\n3\n:\n2\n3\n.\n5,0\n1.2.\n1\n=\nZapisanie liczby b w postaci potęgi liczby 3:\nb\n3\n.\n1.\nWyznaczenie liczby c , której 80% jest równe sumie liczb\n1.3.\n1\na\ni\nb :   c =2,5.\n2.1.\n1\nWyznaczenie mocy zbioru Ω:\nΩ=\n5\n!.\nWyznaczenie liczby zdarzeń sprzyjających zdarzeniu A:\n2.2.\n1\nA =\n⋅\n2! 3!\n.\nObliczenie\nP A , podanie wyniku w postaci ułamka\n( )\n2.3.\n1\n1\n2.\nP A =\nnieskracalnego:\n( )\n.\n10\nRozwiązanie za pomocą drzewa:\n1 pkt – wykonanie poprawnego rysunku drzewa,\n1 pkt – oznaczenie prawdopodobieństwa na gałęzi,\n1 pkt – obliczenie prawdopodobieństwa.\nWyznaczenie wartości a, dla której  miejscem zerowym funkcji\n3.1.\n1\na =\nf  jest liczba  –1:\n4\n.\nWyznaczenie wartości  a , dla której prosta będąca wykresem\n1\n3.\n3.2.\nfunkcji  f  jest nachylona do osi OX  pod kątem 60°:\na =\n3\n.\nWyznaczenie takiej wartości a, dla której  równanie\n3.3.\n1\n+\n=\n+\na =\nax\n4\n2\na\n4\nma nieskończenie wiele rozwiązań:\n0.\n4.1.\nObliczenie średniej miesięcznej płacy w zakładzie: 438.\n1\n4.2.\nObliczenie wariancji miesięcznej płacy: 2436.\n2\n4.\nObliczenie odchylenia standardowego i zaokrąglenie\n4.3.\n1\notrzymanego wyniku:  49,4.\nZastosowanie wzoru na sumę  kolejnych wyrazów ciągu\n+\n−\n(1\nn n\n)\nn n\n(\n1)\n=\n=\narytmetycznego:\nS\nlub\nS −\ni zapisanie\n5.1\n2\nn\nn\n1\n2\n2\n5.\n=\n⋅\n+\nrówności w postaci np.\nn\n2\n2\nS\nn\n.\n−\nn\n1\n5.2.\n2\n1\nDoprowadzenie prawej strony równości do postaci\nn .\nPodanie zbioru rozwiązań nierówności\n6.\n6.1.\n1\nf x ≤\n−∞\n∪\n+∞.\n( )\n3:\n(\n,0\n2,\n)\nZapisanie najmniejszej i największej  wartości funkcji  f  w\nprzedziale 0, 3 : najmniejsza wartość jest równa 0, a\n6.2.\n2\nnajwiększa jest równa 4.\nOdczytanie z wykresu miejsc zerowych funkcji f:\n= −\n=\nx\n1,\nx\n3\noraz  współrzędnych punktu przecięcia wykresu\n6.3.\n1\n1\n2\nz osią OY .\na = −.\n6.4.\nWyznaczenie współczynnika a:\n1\n1\nZapisanie wzoru funkcji  f  w postaci iloczynowej:\n6.5.\n1\n= −\n+\n−\nf x\n( )\n(\nx\n1)(\nx\n3).\n−\n−\n+\n2\n3\nn\n5\n3(\nn\n1)\n=\n=\n7.1.\nZapisanie wyrazu\nna + :\na +\nlub\na +\n.\n1\n1\nn\n1\nn\n1\n7\n7\n3\n+ −\n= −\nWyznaczenie różnicy ciągu:\na\na\noraz zapisanie\nn\n1\nn\n7\n7.2.\n1\nwniosku: ciąg (\n)\nna\njest ciągiem arytmetycznym.\nWyznaczenie wyrazów ciągu (\n)\n7.\na = −;\na = −.\nna\n:\n1\n4\n7.3.\n1\n4\n11\nWykorzystanie definicji lub własności ciągu geometrycznego\n7.4.\n1\ndo zapisania warunków zadania.\nZapisanie równania (alernatywy równań) z  jedną niewiadomą\n1\n7.5.\nx.\nx =\nRozwiązanie równania i podanie odpowiedzi:\n0.\n7.6.\n1\n=\n+\n8.1.\nZapisanie zależności:\nh\n2\nr\n6\n.\n1\n8.2.\nπ\n2\n+\nπ\n=\nπ\n1\nZapisanie zależności:\n2\nr\n2\nrh\n378\n.\n8.3.\nDoprowadzenie do równania z jedną niewiadomą r lub h.\n1\nPrzekształcenie równania do postaci uporządkowanej,\n8.\nrozwiązanie go, wyznaczenie długości promienia i długości\n8.4.\n2\n+\n−\n=\n2\nwysokości walca: np.\nr\n2\nr\n63\n0\n−\n−\n=\n=\n∧\n=\n2\n(lub\nh\n8\nh\n240\n0\n),\nr\n7\nh\n20\n.\n=\nπ\nObliczenie objętości walca:\nV\n980\n.\n8.5.\n1\n{ }\nZapisanie założenia:\nR\n\\ 0\n.\n9.1.\n1\nDoprowadzenie nierówności wymiernej do postaci\n−\n9.2.\nlub 3\nx\n1\n−\n≤\n≤\nx ≠\nx\n(3\nx\n)\n0\n0\n, gdzie\n0.\nx\nx∈−∞\n∪\n∞\nRozwiązanie nierówności wymiernej:\n(\n,0)\n3,\n).\n9.3.\n1\n9.4.\nZaznaczenie zbioru A na osi liczbowej.\n1\n9.\nWykorzystanie geometrycznej interpretacji wartości\n9.5.\n1\nB = −\nbezwzględnej do wyznaczenia zbioru B:\n( 4,2)\n.\n9.6.\nZaznaczenie zbioru B na osi liczbowej.\n1\n(\n)\n)\n∪\n= −∞\n∪\n+∞.\nWyznaczenie sumy:\nA\nB\n,2\n3,\n9.7.",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-styczen-zimowa/1.webp",
+   "size": [
+    950,
+    1476
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (3 pkt)\n( )\n3\n−\n1\n3 3\n4\n=\n=\n⋅\n9\nDane są liczby:\na\ni\nb\n27\n.\n−\n+\n5\n3\n1\n2 3\nx +\na) Przedstaw liczbę a w postaci\ny\n3\n, gdzie x i y są liczbami wymiernymi.\nb) Zapisz liczbę b w postaci potęgi liczby 3 o wykładniku ułamkowym.\nc) Suma liczb a i b stanowi 80% pewnej liczby c . Wyznacz liczbę c .\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-styczen-zimowa/2.webp",
+   "size": [
+    950,
+    1472
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (3 pkt)\nPo Wiadomościach z kraju i ze świata telewizja TVG ma nadać pięć reklam: trzy reklamy\nróżnych proszków do prania oraz dwie reklamy różnych past do zębów. Kolejność nadawania\nreklam jest ustalona losowo. Oblicz prawdopodobieństwo, że dwie reklamy produktów tego\nsamego rodzaju nie będą nadane bezpośrednio jedna po drugiej. Wynik podaj w postaci\nnieskracalnego ułamka zwykłego.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-styczen-zimowa/3.webp",
+   "size": [
+    950,
+    1478
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (3 pkt)\n→\n=\n+\nDana jest funkcja\nf\n:\nR\nR\nokreślona wzorem\nf x\n( )\nax\n4\n.\na) Wyznacz wartość a, dla której miejscem zerowym funkcji  f  jest liczba  –1.\nb) Wyznacz wartość a, dla której prosta będąca wykresem funkcji  f  jest nachylona do osi\nOX  pod kątem 60°.\n+\n=\n+\nc) Wyznacz wartość a, dla której  równanie\nma nieskończenie wiele\nax\n4\n2\na\n4\nrozwiązań.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2006-styczen-zimowa/4.webp",
+   "size": [
+    956,
+    1438
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (4 pkt)\nW pewnej firmie pracownicy zostali zaszeregowani do trzech grup uposażeń. Liczbę\npracowników i płace (w euro) w poszczególnych grupach przedstawia diagram słupkowy:\n14\n13\n12\nLiczba pracowników\n11\n10\n9\n8\n7\n6\n5\n4\n3\n2\n1\n0\n400\n480\n540\nPłaca miesięczna [w euro]\na) Wyznacz średnią płacę miesięczną w tej firmie.\nb) Oblicz wariancję i odchylenie standardowe miesięcznej płacy w tej firmie. Odchylenie\nstandardowe podaj z dokładnością do 0,1.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2006-styczen-zimowa/5.webp",
+   "size": [
+    956,
+    1452
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (3 pkt)\nZauważ, że:\n2\n=\n1\n1\n= +\n+\n2\n2\n1\n2 1\n2\n= +\n+ +\n+\n3\n1\n2\n3\n2 1\n= +\n+ +\n+ +\n+\n2\n4\n1\n2\n3\n4\n3\n2 1\nStosując wzór na sumę kolejnych wyrazów ciągu arytmetycznego uzasadnij, że\n2\n= +\n+ +\n+\n−\n+\n+\n−\n+\n+ +\n+ .\nn\n1\n2\n3 ...\n(\nn\n1)\nn\n(\nn\n1)\n...\n3\n2 1\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2006-styczen-zimowa/6.webp",
+   "size": [
+    956,
+    1477
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (6 pkt)\nNa rysunku przedstawiony jest wykres funkcji kwadratowej  f. Na podstawie tego wykresu\na) zapisz w postaci sumy przedziałów liczbowych zbiór rozwiązań nierówności ( )\n≤\nf\nx\n3\n,\nb) określ i zapisz największą i najmniejszą wartość funkcji  f w przedziale 0, 3 ,\nc) zapisz wzór funkcji  f  w postaci iloczynowej.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2006-styczen-zimowa/7.webp",
+   "size": [
+    956,
+    1466
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (6 pkt)\n−\n5\n3\nn\nDany jest ciąg (\n)\n=\nn =\nna\no wyrazie ogólnym\na\n1,2,3,...\n.\nn\n7\na) Sprawdź na podstawie definicji, czy ciąg (\n)\nna\njest ciągiem arytmetycznym.\n2\n+\nb) Oblicz, dla jakiej wartości x liczby\na\n,\nx\n2,\na\nsą kolejnymi wyrazami tego samego\n4\n11\nciągu geometrycznego.\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-P-2006-styczen-zimowa/8.webp",
+   "size": [
+    950,
+    1469
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (6 pkt)\nWysokość walca jest o 6 większa od średnicy jego podstawy, a pole jego powierzchni\nπ Oblicz objętość walca.\ncałkowitej jest równe 378 .\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 8,
+   "image": "f2005-P-2006-styczen-zimowa/9.webp",
+   "size": [
+    950,
+    1480
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (8 pkt)\n\n\n3\n{\n}\n=\n≤\n=\n+\n<\nDane są zbiory liczb rzeczywistych:\nA\nx\n:\n1\ni\nB\nx\n:\nx\n1\n3\n.\n\n\n\nx\n\na) Zaznacz te zbiory na osi liczbowej.\nA ∪\nb) Przedstaw zbiory\nB\ni\nA B w postaci sumy przedziałów liczbowych.\n\\\nArkusz I",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 8,
+   "image": "f2005-P-2006-styczen-zimowa/10.webp",
+   "size": [
+    950,
+    1419
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (8 pkt)\nW trapezie opisanym na okręgu kąty przy dłuższej podstawie mają miary 60D i 30D, a długość\nwysokości tego trapezu jest równa 6. Sporządź odpowiedni rysunek i oznacz jego elementy.\nOblicz pole trapezu oraz długości jego podstaw.",
+   "key": ""
+  }
+ ]
+}

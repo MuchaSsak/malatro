@@ -1,0 +1,492 @@
+{
+ "exam": {
+  "id": "f2015-P-2016-czerwiec",
+  "formula": "2015",
+  "level": "P",
+  "year": 2016,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "MMA-P1_1P-163",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2016-czerwiec-matura-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2016-czerwiec-matura-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2015-P-2016-czerwiec.pdf",
+  "keyFile": "f2015-P-2016-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line; same tasks were used for the formula do 2014 (stara matura) P exam in this session (verified); key covers both formulas",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 21,
+  "keyPages": 16,
+  "examBytes": 353520,
+  "keyBytes": 360545
+ },
+ "keyHead": "EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2015/2016\nFORMUŁA OD 2015\n(„NOWA MATURA”)\nFORMUŁA DO 2014\n(„STARA MATURA”)\nMATEMATYKA\nPOZIOM PODSTAWOWY\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nARKUSZ MMA-P1\nCZERWIEC 2016\nKlucz punktowania zadań zamkniętych\nNr\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nzad\nOdp. C\nB D B D A\nC\nB\nC A\nC A\nA\nD\nB A\nC\nC\nB D B D\nB A\nD\nSchematy oceniania zadań otwartych\nZadanie 26. (0–2)\nRozwiąż równanie 2\nx\n1\n2\nx\n1\n+\n+\n, gdzie\nx ≠− i\n1\nx ≠\n0\n.\n=\n2\nx\nx\n1\n+\nRozwiązanie\nRównanie ma sens liczbowy dla każdej liczby rzeczywistej\nx ≠− i\n1\nx ≠\n0\n.\nI sposób rozwiązania\nPrzekształcamy równanie w sposób równoważny\n2\nx\n1\n2\nx\n1\n+\n+\n0\n,\n−\n=\n2\nx\nx\n1\n+\n(\n)\n2\nx\n1\n(\nx\n)1\n2\nx\n(\n2\nx\n)1\n+\n+\n−\n+\n0\n,\n=\n(\n)\n2\nx\nx\n1\n+\n2\n2\n2\nx\n3\nx\n1 4\nx\n2\nx\n+\n+ −\n−\n0\n,\n=\n(\n)\n2\nx x\n1\n+\n2\n2\nx\nx\n1\n−\n+\n+ =\n0\n.\n(\n)\n2\nx x\n1\n+\nStąd otrzymujemy równanie kwadratowe\n2\n2\nx\nx\n1\n0\n.\n−\n+\n+\n=\n12\nPonieważ\n4\n(\n2\n)\n1\n9\n, to równanie ma dwa rozwiązania\nΔ\n=\n−\n⋅\n−\n⋅\n=\n1\nx = −\n,\nx\n1\n.\n2 =\n2\n1\nKażda z otrzymanych liczb jest różna od\n− i od 0. Zatem każda z tych liczb jest\n1\nrozwiązaniem naszego równania.\nII sposób rozwiązania\nPrzedstawiamy równanie w postaci równoważnej\n\n1\n1\n\n(\n)\n2\nx\n1\n0\n.\n+\n\n−\n\n=\n\n2\nx\nx\n1\n\n+\nZ własności iloczynu, otrzymujemy\nlub 1\n1\n2\nx + =\n1\n0\n0\n.\n−\n=\n2\nx\nx\n1\n+\n1\nRozwiązaniem pierwszego z równań jest liczba\nx = −\n.\n2\n1\n1\nZapiszmy równanie\n0\nw postaci równoważnej\n−x\n=\n2\nx\n1\n+\n(\nx\n)1\n2\nx\n+\n−\n0\n,\n=\n2\nx\n(\nx\n)1\n+\nx\n1\n−+\n0\n.\n=\n2 (\nx x\n1)\n+\nStąd\nx = .\n1\nKażda z otrzymanych liczb jest różna od\n− i od 0. Zatem każda z tych liczb jest\n1\nrozwiązaniem naszego równania.\nIII sposób rozwiązania\nZ własności proporcji możemy równanie zapisać w postaci równoważnej\n(\n)(\n)\n(\n)\n2\nx\n1\nx\n1\n2\nx\n2\nx\n1\n0\n,\n+\n+\n−\n+\n=\n(\n)(\n)\n2\nx\n1\nx\n1\n2\nx\n0\n,\n+\n+ −\n=\n(\n)(\n)\n2\nx\n1 1\nx\n0\n.\n+\n−\n=\nStąd\n2\nx + =\n1\n0\nlub 1\nx\n0\n,\n−\n=\n1\nx = −\nlub\nx = .\n1\n2\nKażda z otrzymanych liczb jest różna od\n− i od 0. Zatem każda z tych liczb jest\n1\nrozwiązaniem naszego równania.\nSchemat punktowania\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy zapisze równanie w postaci\n• równania kwadratowego w postaci uporządkowanej lub iloczynowej:\nx\n2\nx\n, (\n)(\n)\n2\n1\n0\n2\nx\n1 1\nx\n0\n−\n+\n+\n=\n+\n−\n=\nalbo\nlub  1\n1\n• alternatywy równań, np.: 2\nx + =",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/1.webp",
+   "size": [
+    950,
+    150
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\n6\n7\n7\n6\n⋅\nLiczba\njest równa\n6\n42\n36\n7\nA.\n42\nB.\n42\nC. 6\nD. 1",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/2.webp",
+   "size": [
+    950,
+    170
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\nCenę pewnego towaru podwyższono o 20% , a następnie nową cenę tego towaru\npodwyższono o 30%. Takie dwie podwyżki ceny tego towaru można zastąpić równoważną\nim jedną podwyżką\nA. o 50%\nB. o 56%\nC. o 60%\nD. o 66%",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/3.webp",
+   "size": [
+    950,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nLiczba 3 3 3 jest równa\n6 3\n4 3\n3 3\nA.\nB.\nC.\nD.\n3",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/4.webp",
+   "size": [
+    950,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\n2\n2\nRóżnica\n50001\n49999\njest równa\n−\nA. 2 000 000\nB. 200 000\nC. 20 000\nD. 4",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/5.webp",
+   "size": [
+    950,
+    127
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\nNajmniejsza wartość wyrażenia (\n)(\n)\n{\n}\nx\ny\nx\ny\ndla\nx y ∈\n,\n2,3,4\njest równa\n−\n+\nA. 2\nB. 24\nC. 0\nD.\n12\n−\n−",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/6.webp",
+   "size": [
+    950,
+    181
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\n3\n2\nWartość wyrażenia\nlog\nlog\njest równa\n+\n3\n3\n2\n9\n5\n31\nA.\n−\n1\nB.\n−\n2\nC.\nlog 11\nD.\nlog 18\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/7.webp",
+   "size": [
+    950,
+    170
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\n)(\n)(\n)\n2\n2\nSpośród liczb, które są rozwiązaniami równania (\nx\n8\nx\n4\nx\n16\n0\n, wybrano\n−\n−\n+\n=\nnajwiększą i najmniejszą. Suma tych dwóch liczb jest równa\nA. 12\nB.  10\nC.  6\nD. 4",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/8.webp",
+   "size": [
+    950,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–1)\nx\n7\n−\nRozwiązaniem równania\n5\n, gdzie\nx ≠\n0\n, jest liczba należąca do przedziału\n=\nx\nA. (\n)\n)\n)\nD. (\n)\n, 2\nB.\n2, 1\nC.\n1, 0\n0,+ ∞\n−∞−\n−\n−\n−",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/9.webp",
+   "size": [
+    950,
+    230
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–1)\n3\n2\nx\n( )\nFunkcja  f  określona jest wzorem\nf x\ndla każdej liczby rzeczywistej x. Wtedy liczba\n=\n4\nx\n1\n+\n(\n)\nf −\n2\njest równa\n8\n4 2\n4 2\n4\nA.\nB.\nC.\nD.\n−\n−\n−\n−\n5\n3\n5\n3",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/10.webp",
+   "size": [
+    950,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\n( )\n(\n)(\n)\nDana jest funkcja kwadratowa\nf x\n2\nx\n5\nx\n11\n. Wskaż maksymalny przedział,\n= −\n+\n−\nw którym funkcja f jest rosnąca.\nA. (\nB. (\nC. (\n)\n,3\n,5\n,11\nD.\n6,+∞\n−∞\n−∞\n−∞",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/11.webp",
+   "size": [
+    950,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–1)\nCiąg (\n)\njest określony wzorem\n(\n)\ndla\nn ≥. Suma dziesięciu początkowych\nna\nna\n6\nn\n16\n1\n=\n−\nwyrazów tego ciągu jest równa\nA.\n54\nB.\n126\nC.\n630\nD.\n270\n−\n−\n−\n−",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/12.webp",
+   "size": [
+    950,
+    165
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–1)\nDany jest ciąg geometryczny (\n)\nna\n, w którym\na =\n72\ni\na =\n9\n. Iloraz q tego ciągu jest równy\n1\n4\n1\n1\n1\n1\nA.\nq =\nB.\nq =\nC.\nq =\nD.\nq =\n2\n6\n4\n8",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/13.webp",
+   "size": [
+    950,
+    422
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–1)\nDany jest trapez ABCD, w którym przekątna AC jest prostopadła do ramienia BC,\nAD\nDC\noraz\n\nABC =\n50\n(zobacz rysunek).\n=\n°\nD\nC\nβ\n50°\nA\nB\nStąd wynika, że\nA.\n100\n°\nB.\n120\n°\nC.\n110\n°\nD.\n130\n°\nβ =\nβ =\nβ =\nβ =",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/14.webp",
+   "size": [
+    950,
+    456
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–1)\nPunkty A, B, C i D leżą na okręgu o środku O (zobacz rysunek). Miary zaznaczonych kątów\nα i β są odpowiednio równe\nD\nC\n36°\n36°\nA\nα\nO\nβ\nB\nA.\n36 ,\n72\n°\nB.\n54 ,\n72\n°\nα\n=\n°\nβ\n=\nα\n=\n°\nβ\n=\nC.\n36 ,\n108\n°\nD.\n72 ,\n72\n°\nα\n=\n°\nβ\n=\nα\n=\n°\nβ\n=",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/15.webp",
+   "size": [
+    950,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\nSłoń waży 5 ton, a waga mrówki jest równa 0,5 grama. Ile razy słoń jest cięższy od mrówki?\n6\n7\n8\nA.\n10\nB.\n10\nC. 10\nD.\n10",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/16.webp",
+   "size": [
+    950,
+    158
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\nKażde z ramion trójkąta równoramiennego ma długość 20. Kąt zawarty między ramionami\ntego trójkąta ma miarę 150°. Pole tego trójkąta jest równe\nA. 100\nB. 200\nC. 100 3\nD. 100 2",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/17.webp",
+   "size": [
+    950,
+    187
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–1)\n(\n)\nProsta określona wzorem\ny\nax\n+ jest symetralną odcinka AB, gdzie\n1\nA = −\n3,2\n=\n(\n)\ni\nB =\n1,4\n. Wynika stąd, że\n1\n1\nA.\na = −\nB.\na =\nC.\na = −\n2\nD.\na =\n2\n2\n2",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/18.webp",
+   "size": [
+    956,
+    321
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\n\ny\nax\n2\na\n= −\n+\nUkład równań\nnie ma rozwiązań dla\nb\ny\nx\n2\n=\n−\n\n3\na = − i\n1\nb = −\n3\nA.\nB.\na = i\n1\nb =\n3\na = i\n1\nb = −\n3\nC.\na = − i\n1\nb =\n3\nD.",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/19.webp",
+   "size": [
+    956,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nDo pewnej liczby a dodano 54. Otrzymaną sumę podzielono przez 2. W wyniku tego\ndziałania otrzymano liczbę dwa razy większą od liczby a. Zatem\na =\n27\na =\n18\na =\n24\na =\n36\nA.\nB.\nC.\nD.",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/20.webp",
+   "size": [
+    956,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\nPodstawą ostrosłupa prawidłowego czworokątnego ABCDS jest kwadrat ABCD . Wszystkie\nściany boczne tego ostrosłupa są trójkątami równobocznymi. Miara kąta ASC jest równa\nA. 45°\nB. 30°\nC. 75°\nD. 90°",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/21.webp",
+   "size": [
+    956,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (0–1)\nRzucamy trzy razy symetryczną monetą. Niech p oznacza prawdopodobieństwo otrzymania\ndokładnie jednego orła w tych trzech rzutach. Wtedy\nA. 0\np\n0,25\nB. 0,25\np\n0,4\nC. 0,4\np\n0,5\np >\n0,5\n≤\n<\n≤\n≤\n<\n≤\nD.",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/22.webp",
+   "size": [
+    956,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (0–1)\nx −, 3x, 5\n1\nx + i 7x jest równa 72 . Wynika stąd, że\n1\nŚrednia arytmetyczna czterech liczb:\nA.\nx =\n9\nB.\nx =\n10\nC.\nx =\n17\nD.\nx =\n18",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/23.webp",
+   "size": [
+    950,
+    498
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nNa rysunku przedstawione są dwie proste równoległe k  i  l  o równaniach y\nax\nb\noraz\n=\n+\ny\nmx\nn\n. Początek układu współrzędnych leży między tymi prostymi.\n=\n+\ny\nk\n:\ny\na x\nb\n=\n+\n1\nx\n0\n1\n:l\ny\nm x\nn\n=\n+\nZatem\nA.\na m\n0\ni\nb n\n0\nB.\na m\n0\ni\nb n\n0\n⋅\n>\n⋅\n>\n⋅\n>\n⋅\n<\nC.\na m\n0\ni\nb n\n0\nD.\na m\n0\ni\nb n\n0\n⋅\n<\n⋅\n>\n⋅\n<\n⋅\n<",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/24.webp",
+   "size": [
+    950,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–1)\n3\n2\nDane są dwie sumy algebraiczne\n3\nx\n2\nx\noraz\n3\nx\n2\n. Iloczyn tych sum jest równy\n−\n−\n−\n5\n6\n3\n2\nA.\n9\nx\n4\nx\nB.\n9\nx\n6\nx\n6\nx\n4\nx\n−\n+\n−\n+\n−\n+\n5\n3\n2\n6\nC.\n9\nx\n6\nx\n6\nx\n4\nx\nD.\n9\nx\n4\nx\n−\n+\n−\n+\n−\n+",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2016-czerwiec/25.webp",
+   "size": [
+    950,
+    433
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (0–1)\nPunkty D i E są środkami przyprostokątnych AC i BC trójkąta prostokątnego ABC. Punkty\nF i G leżą na przeciwprostokątnej AB tak, że odcinki DF i EG są do niej prostopadłe (zobacz\nrysunek). Pole trójkąta BGE jest równe 1, a pole trójkąta AFD jest równe 4.\nB\nG\nE\nF\nA\nC\nD\nZatem pole trójkąta ABC jest równe\nA.  12\nB. 16\nC. 18\nD. 20",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2016-czerwiec/26.webp",
+   "size": [
+    962,
+    107
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (0–2)\nRozwiąż równanie 2\nx\n1\n2\nx\n1\n+\n+\n, gdzie\nx ≠− i\n1\nx ≠\n0\n.\n=\n2\nx\nx\n1\n+",
+   "key": "Zadanie 26. (0–2)\nRozwiąż równanie 2\nx\n1\n2\nx\n1\n+\n+\n, gdzie\nx ≠− i\n1\nx ≠\n0\n.\n=\n2\nx\nx\n1\n+\nRozwiązanie\nRównanie ma sens liczbowy dla każdej liczby rzeczywistej\nx ≠− i\n1\nx ≠\n0\n.\nI sposób rozwiązania\nPrzekształcamy równanie w sposób równoważny\n2\nx\n1\n2\nx\n1\n+\n+\n0\n,\n−\n=\n2\nx\nx\n1\n+\n(\n)\n2\nx\n1\n(\nx\n)1\n2\nx\n(\n2\nx\n)1\n+\n+\n−\n+\n0\n,\n=\n(\n)\n2\nx\nx\n1\n+\n2\n2\n2\nx\n3\nx\n1 4\nx\n2\nx\n+\n+ −\n−\n0\n,\n=\n(\n)\n2\nx x\n1\n+\n2\n2\nx\nx\n1\n−\n+\n+ =\n0\n.\n(\n)\n2\nx x\n1\n+\nStąd otrzymujemy równanie kwadratowe\n2\n2\nx\nx\n1\n0\n.\n−\n+\n+\n=\n12\nPonieważ\n4\n(\n2\n)\n1\n9\n, to równanie ma dwa rozwiązania\nΔ\n=\n−\n⋅\n−\n⋅\n=\n1\nx = −\n,\nx\n1\n.\n2 =\n2\n1\nKażda z otrzymanych liczb jest różna od\n− i od 0. Zatem każda z tych liczb jest\n1\nrozwiązaniem naszego równania.\nII sposób rozwiązania\nPrzedstawiamy równanie w postaci równoważnej\n\n1\n1\n\n(\n)\n2\nx\n1\n0\n.\n+\n\n−\n\n=\n\n2\nx\nx\n1\n\n+\nZ własności iloczynu, otrzymujemy\nlub 1\n1\n2\nx + =\n1\n0\n0\n.\n−\n=\n2\nx\nx\n1\n+\n1\nRozwiązaniem pierwszego z równań jest liczba\nx = −\n.\n2\n1\n1\nZapiszmy równanie\n0\nw postaci równoważnej\n−x\n=\n2\nx\n1\n+\n(\nx\n)1\n2\nx\n+\n−\n0\n,\n=\n2\nx\n(\nx\n)1\n+\nx\n1\n−+\n0\n.\n=\n2 (\nx x\n1)\n+\nStąd\nx = .\n1\nKażda z otrzymanych liczb jest różna od\n− i od 0. Zatem każda z tych liczb jest\n1\nrozwiązaniem naszego równania.\nIII sposób rozwiązania\nZ własności proporcji możemy równanie zapisać w postaci równoważnej\n(\n)(\n)\n(\n)\n2\nx\n1\nx\n1\n2\nx\n2\nx\n1\n0\n,\n+\n+\n−\n+\n=\n(\n)(\n)\n2\nx\n1\nx\n1\n2\nx\n0\n,\n+\n+ −\n=\n(\n)(\n)\n2\nx\n1 1\nx\n0\n.\n+\n−\n=\nStąd\n2\nx + =\n1\n0\nlub 1\nx\n0\n,\n−\n=\n1\nx = −\nlub\nx = .\n1\n2\nKażda z otrzymanych liczb jest różna od\n− i od 0. Zatem każda z tych liczb jest\n1\nrozwiązaniem naszego równania.\nSchemat punktowania\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy zapisze równanie w postaci\n• równania kwadratowego w postaci uporządkowanej lub iloczynowej:\nx\n2\nx\n, (\n)(\n)\n2\n1\n0\n2\nx\n1 1\nx\n0\n−\n+\n+\n=\n+\n−\n=\nalbo\nlub  1\n1\n• alternatywy równań, np.: 2\nx + =\n1\n0\n0\n−\n=\n2\nx\nx\n1\n+\ni na tym poprzestanie lub dalej popełnia błędy.\nZdający otrzymuje ............................................................................................................... 2 p.\n1\ngdy wyznaczy rozwiązania równania:\nx = −\n,\nx\n1\n.\n2 =\n2\n1\nUwaga:\nJeżeli zdający podzieli obie strony równania 2\nx\n1\n2\nx\n1\n+\n+\ni nie zapisze, że 2\n, to\nx + ≠\n1\n0\n=\n2\nx\nx\n1\n+\nmoże otrzymać co najwyżej 1 punkt."
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2016-czerwiec/27.webp",
+   "size": [
+    962,
+    137
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–2)\nDane są proste o równaniach\ny\n= x\n2\noraz\ny\n3\nx\nb\n, które przecinają się w punkcie\n+\n= −\n+\nleżącym na osi Oy układu współrzędnych. Oblicz pole trójkąta, którego dwa boki zawierają\nsię w danych prostych, a trzeci jest zawarty w osi Ox.",
+   "key": "Zadanie 27. (0–2)\ny\n= x\ny\nx\nb\nDane są proste o równaniach\n2\noraz\n3\n, które przecinają się w punkcie\n+\n= −\n+\nleżącym na osi Oy układu współrzędnych. Oblicz pole trójkąta, którego dwa boki zawierają\nsię w danych prostych, a trzeci jest zawarty w osi Ox.\nRozwiązanie\nprzecina oś Oy w punkcie (\n)\nZauważmy, że prosta o równaniu\ny\n= x\n2\n,0\n2\n. Zatem\n+\nwspółczynnik b w równaniu\ny\n3\nx\nb\njest równy 2, a więc druga z prostych ma równanie\n= −\n+\npostaci\ny\n3\nx\n2\n.\n= −\n+\nGeometryczną ilustracją opisanej sytuacji jest trójkąt wskazany na wykresie.\ny\nC\n2\n1\nx\nA\nB\n0\n-4\n-3\n-2\n-1\n1\n2\n2\nPodstawa trójkąta ma długość\n2 3 , a jego wysokość jest równa 2. Zatem pole tego trójkąta\njest równe\n8\n8\n1\nP\n2\n.\n=\n⋅\n⋅\n=\n2\nABC\n3\n3\nSchemat punktowania\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy\n• zapisze wartość współczynnika b w równaniu prostej\ny\n3\nx\nb\n:\nb =\n2\n= −\n+\nalbo\n• prawidłowo narysuje wykresy obu funkcji i zaznaczy punkt (\n)\n,0\n2\n.\nZdający otrzymuje ............................................................................................................... 2 p.\ngdy obliczy pole trójkąta: 8\n3 ."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2016-czerwiec/28.webp",
+   "size": [
+    947,
+    108
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–2)\nWykaż, że dla dowolnych liczb rzeczywistych x, y prawdziwa jest nierówność\n(\n)\n4\n4\n2\n2\n3\n3\nx\ny\nx\ny\n2\nx\ny\n.\n+\n+\n+\n≥\n+",
+   "key": "Zadanie 28. (0–2)\nWykaż, że dla dowolnych liczb rzeczywistych x, y prawdziwa jest nierówność\n(\n)\nx\n4\ny\n4\nx\n2\ny\n2\n2\nx\n3\ny\n3\n.\n+\n+\n+\n≥\n+\nRozwiązanie\nI sposób rozwiązania\n(\n)\n4\n4\n2\n2\n3\n3\nZapiszmy nierówność\nx\ny\nx\ny\n2\nx\ny\nw postaci równoważnej\n+\n+\n+\n≥\n+\n4\n3\n2\n4\n3\n2\nx\n2\nx\nx\ny\n2\ny\ny\n0\n,\n−\n+\n+\n−\n+\n≥\n2\n2\n(\n)\n(\n)\n2\n2\nx\nx\ny\ny\n0\n.\n−\n+\n−\n≥\n2\n2\nKwadrat każdej liczby rzeczywistej jest nieujemny, więc  (\n)\ni (\n)\n2\n2\nx\nx\n0\ny\ny\n0\ndla\n−\n≥\n−\n≥\ndowolnych liczb rzeczywistych x i y. Suma dwóch liczb nieujemnych jest nieujemna, więc\notrzymana nierówność jest prawdziwa dla dowolnych liczb rzeczywistych x i y.\nII sposób rozwiązania\n(\n)\n4\n4\n2\n2\n3\n3\nZapiszmy nierówność\nx\ny\nx\ny\n2\nx\ny\nw postaci równoważnej\n+\n+\n+\n≥\n+\nx\n4\n2\nx\n3\nx\n2\ny\n4\n2\ny\n3\ny\n2\n0\n,\n−\n+\n+\n−\n+\n≥\n(\n)\n(\n)\n2\n2\n2\n2\nx\nx\n2\nx\n1\ny\ny\n2\ny\n1\n0\n,\n−\n+\n+\n−\n+\n≥\n(\n)\n2\n(\n)\n2\n2\n2\nx\nx\n1\ny\ny\n1\n0\n.\n−\n+\n−\n≥\n2\n2\n, (\n)\n2\nKwadrat każdej liczby rzeczywistej jest nieujemny, więc\nx ≥\n0\nx −\n1\n0\n,\ny ≥\n0\n≥\n2\ni (\n)\ny −\n1\n0\ndla dowolnych liczb rzeczywistych x i y. Iloczyn liczb nieujemnych jest\n≥\nnieujemny, więc dla dowolnych liczb rzeczywistych x i y  prawdziwe są nierówności\n2\n2\n2\n(\n)\n2\n(\n)\nx\nx −\n1\n0\ni\ny\ny −\n1\n0\n. Suma dwóch liczb nieujemnych jest nieujemna, więc\n≥\n≥\notrzymana nierówność jest prawdziwa dla dowolnych liczb rzeczywistych x i y.\nSchemat punktowania\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy\n2\n2\n• zapisze nierówność w postaci (\n)\n(\n)\nx\n2\nx\ny\n2\ny\n0\ni popełni błędy przy jej\n−\n+\n−\n≥\nuzasadnianiu, np. przez zapisanie, że po lewej stronie są składniki dodatnie\nalbo\n(\n)\n2\n(\n)\n2\n2\n2\n•\nx\nx\n1\ny\ny\n1\n0\ni popełnia błędy przy jej uzasadnianiu, np. przez zapisanie,\n−\n+\n−\n≥\nże po lewej stronie są składniki dodatnie\ni na tym poprzestanie lub dalej popełnia błędy.\nZdający otrzymuje ............................................................................................................... 2 p.\ngdy zapisze wyrażenie w postaci sumy nieujemnych składników i sformułuje wniosek."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2016-czerwiec/29.webp",
+   "size": [
+    950,
+    504
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–2)\nDany jest trapez prostokątny ABCD o podstawach AB i CD oraz wysokości AD. Dwusieczna\nkąta ABC przecina ramię AD w punkcie E oraz dwusieczną kąta BCD w punkcie F (zobacz\nrysunek).\nC\nD\nE\nF\nA\nB\nWykaż, że w czworokącie CDEF sumy miar przeciwległych kątów są sobie równe.",
+   "key": "Zadanie 29. (0–2)\nDany jest trapez prostokątny ABCD o podstawach AB i CD oraz wysokości AD. Dwusieczna\nkąta ABC przecina ramię AD w punkcie E oraz dwusieczną kąta BCD w punkcie F (zobacz\nrysunek).\nC\nD\nE\nF\nA\nB\nWykaż, że w czworokącie CDEF sumy miar przeciwległych kątów są sobie równe.\nRozwiązanie\nI sposób rozwiązania\nPółproste BF i CF to dwusieczne kątów ABC i BCD przy ramieniu BC trapezu ABCD.\nOznaczmy zatem miary tych kątów odpowiednio 2α i 2β jak na rysunku.\nC\nD\nβ\nβ\nE\nF\nα\nα\nA\nB\nSuma miar kątów trapezu przy jego ramieniu jest równa 180°,więc\n2α\n=180° ,\n+ 2\nβ\n= 0°.\n9\nα\n+\nβ\nSuma miar kątów trójkąta jest równa 180°, więc miara kąta BFC jest równa\n(\n)\n\nBFC\n180\n180\n90\n90\n.\n=\n° −\nα\n+\nβ\n=\n°−\n° =\n°\nStąd wynika, że\n\nCFE\n180\n\nBFC\n180\n90\n90\n.\n=\n° −\n=\n°−\n° =\n°\nKąt CDE jest prosty, gdyż trapez jest prostokątny, więc suma miar przeciwległych kątów\nCDE i CFE czworokąta CDEF jest równa\n\nCDE\n\nCFE\n90\n90\n180\n.\n+\n=\n° +\n° =\n°\nSuma miar kątów czworokąta jest równa 360°, więc suma miar dwóch pozostałych kątów\nczworokąta CDEF jest równa\n\nDCF\n\nDEF\n360\n180\n180\n.\n+\n=\n° −\n° =\n°\nZatem\n\nCDE\n\nCFE\n\nDCF\n\nDEF\n, co kończy dowód.\n+\n=\n+\nII sposób rozwiązania\nPółproste BF i CF to dwusieczne kątów ABC i BCD przy ramieniu BC trapezu ABCD.\nOznaczmy zatem miary tych kątów odpowiednio 2α i 2β jak na rysunku.\nC\nD\nβ\nβ\nE\nF\nα\nβ\nα\nA\nG\nB\nProste AB i CD są równoległe, więc naprzemianległe kąty BGC i DCG są równe, czyli\n\nBGC\n.\n=\nβ\nZatem trójkąt BCG jest równoramienny. Stąd i z równości kątów CBF i GBF wynika z kolei,\nże trójkąty BCF i BFG są przystające. Zatem ich kąty przy wierzchołku F są równe. Są to\njednak kąty przyległe, więc są to kąty proste. W rezultacie\n\nCFE\n180\n\nBFC\n180\n90\n90\n.\n=\n° −\n=\n°−\n° =\n°\nDalsza część dowodu przebiega tak, jak w I sposobie.\nSchemat punktowania I i II sposobu rozwiązania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy wyznaczy miarę kąta BFC:\n90 i na tym poprzestanie lub dalej popełnia błędy.\n°\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy przeprowadzi pełny dowód.\nIII sposób rozwiązania\nPółproste BF i CF to dwusieczne kątów ABC i BCD przy ramieniu BC trapezu ABCD.\nOznaczmy zatem miary tych kątów odpowiednio 2α i 2β jak na rysunku.\nC\nD\nβ\nβ\nE\nF\nα\nα\nA\nB\nTrójkąt ABE jest prostokątny, więc\n\nBEA\n90\n. Zatem\n=\n°−\nα\n(\n)\n\nDEF\n180\n\nBEA\n180\n90\n90\n.\n=\n° −\n=\n°−\n°−\nα\n=\n°+\nα\nSuma miar przeciwległych kątów DEF i DCF w czworokącie CDEF jest zatem równa\n(\n)\n(1)\n\nDEF\n\nDCF\n90\n90\n.\n+\n=\n° +\nα\n+\nβ\n=\n°+\nα\n+\nβ\nKąt CFE jest kątem zewnętrznym trójkąta CBF, więc\n\nCFE\n.\n=\nα\n+\nβ\nKąt EDC jest prosty, gdyż trapez jest prostokątny, więc suma miar przeciwległych kątów\nCDE i CFE czworokąta CDEF jest równa\n\nCDE\n\nCFE\n90\n.\n+\n=\n° +\nα\n+\nβ\nStąd i z (1) otrzymujemy\n\nDEF\n\nDCF\n\nCDE\n\nCFE\n. To kończy dowód.\n+\n=\n+\nSchemat punktowania III sposobu rozwiązania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy wyznaczy miary kątów przy wierzchołkach E i F czworokąta CDEF w zależności od\nα i β :\n\nAEB\n90\n,\n\nCFE\ni na tym poprzestanie lub dalej popełnia błędy.\n=\n°−\nα\n=\nα\n+\nβ\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy przeprowadzi pełny dowód."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2016-czerwiec/30.webp",
+   "size": [
+    950,
+    491
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–4)\n4\nW trójkącie ABC dane są długości boków\nAB\n15\ni\nAC =\n12\noraz\ncosα =\n, gdzie\n=\n5\nα = \nBAC\n. Na bokach AB i AC tego trójkąta obrano punkty odpowiednio D i E takie, że\nBD\n2\nAD\ni\nAE\n2\nCE\n(zobacz rysunek).\n=\n=\nC\nE\nα\nA\nB\nD\nOblicz pole\na) trójkąta ADE.\nb) czworokąta BCED.",
+   "key": "Zadanie 30. (0–4)\n4\nW trójkącie ABC dane są długości boków\nAB\n15\ni\nAC =\n12\noraz\ncosα =\n, gdzie\n=\n5\nα = \nBAC\n. Na bokach AB i AC tego trójkąta obrano punkty odpowiednio D i E takie, że\nBD\n2\nAD\ni\nAE\n2\nCE\n(zobacz rysunek).\n=\n=\nC\nE\nα\nA\nB\nD\nOblicz pole\na) trójkąta ADE.\nb) czworokąta BCED.\nRozwiązanie I sposób\nPonieważ\nBD\n2\nAD\ni\nAE\n2\nCE\noraz\nAB\n15\ni\nAC =\n12\n, więc\n=\n=\n=\n1\n1 15\n2\n2 12\nAD\nAB\n5\noraz\nAE\nAC\n8\n.\n=\n=\n⋅\n=\n=\n=\n⋅\n=\n3\n3\n3\n3\nZ jedynki trygonometrycznej otrzymujemy\n2\n( )\n16\n3\n4\n2\nsin\n1 cos\n1\n1\n.\nα\n=\n−\nα\n=\n−\n=\n−\n=\n5\n25\n5\nZatem pole trójkąta ABC jest równe\n1\n1\n3\nP\nAB\nAC\nsin\n15 12\n54\n,\n=\n⋅\n⋅\n⋅\nα\n=\n⋅\n⋅\n⋅\n=\nABC\n2\n2\n5\na pole trójkąta ADE jest równe\n1\n1\n3\nP\nAD\nAE\nsin\n5 8\n12\n.\n=\n⋅\n⋅\n⋅\nα\n=\n⋅⋅⋅\n=\nADE\n2\n2\n5\nZatem pole czworokąta BCDE jest równe\nP\nP\nP\n54 12\n42\n.\n=\n−\n=\n−\n=\nBCDE\nABC\nADE\nRozwiązanie II sposób\nPoprowadźmy wysokość CF trójkąta ABC oraz wysokość EG trójkąta ADE jak na rysunku.\nC\nE\nh\np\nα\nA\nB\nF\nG\nD\nZ trójkąta prostokątnego AFC otrzymujemy\nAF\nAF\n, czyli 4\n.\ncos\nα =\n=\nAC\n5\n12\n48\nStąd\nAF =\n.\n5\nZ twierdzenia Pitagorasa natomiast\n2\n2\n2\nAC\nAF\nCF\n,\n=\n+\n2\n\n\n48\n2\n2\n12\nh\n.\n=\n+\n\n\n\n5\n\n2\n(\n)\n48\n36\nStąd\nh =\n12\n2\n.\n−\n=\n5\n5\nPole trójkąta ABC jest zatem równe\n1\n1\n36\nP\nAB h\n15\n54\n.\n=\n⋅\n⋅\n=\n⋅\n⋅\n=\nABC\n2\n2\n5\nTrójkąty AFC i AGE są podobne, gdyż oba są prostokątne i mają wspólny kąt ostry przy\nwierzchołu A. Zatem\nEG\nAE\n.\n=\nCF\nAC\n2\nPonieważ\nAE\n2\nCE\n, więc\nAE\nAC\n. Otrzymujemy zatem\n=\n=\n3\n2\nAC\np\n2\n3\n.\n=\n=\n36\nAC\n3\n5\n2 36\n24\n1\n1 15\nStąd\np =\n.  Skoro\nBD\n2\nAD\ni\nAB\n15\n, to\nAD\nAB\n5\n. Pole\n⋅\n=\n=\n=\n=\n=\n⋅\n=\n3\n5\n5\n3\n3\ntrójkąta ADE jest zatem równe\n1\n1\n24\nP\nAD\np\n5\n12\n.\n=\n⋅\n⋅\n=\n⋅⋅\n=\nADE\n2\n2\n5\nZatem pole czworokąta BCDE jest równe\nP\nP\nP\n54 12\n42\n.\n=\n−\n=\n−\n=\nBCDE\nABC\nADE\nUwaga:\nPole trójkąta ADE możemy tez obliczyć inaczej. Poprowadźmy wysokość tego trójkąta\nz wierzchołka D.\nC\nE\nh\nM\nq\nα\nA\nB\nF\nD\n1\n1 15\nPonieważ\nBD\n2\nAD\ni\nAB\n15\n, więc\nAD\nAB\n5\n.\n=\n=\n=\n=\n⋅\n=\n3\n3\nZ trójkąta prostokątnego ADM otrzymujemy\nAM\nAM\n, czyli 4\ncos\n.\nα =\n=\nAD\n5\n5\nStąd\nAM =\n4\n. Zatem z twierdzenia Pitagorasa dla tego trójkąta\n2\n2\n2\n2\nq\nAD\nAM\n5\n4\n3\n.\n=\n−\n=\n−\n=\n2\n2 12\nSkoro\nAE\n2\nEC\ni\nAC =\n12\n, to\nAE\nAC\n8\n. Pole trójkąta ADE jest zatem\n=\n=\n=\n⋅\n=\n3\n3\nrówne\n1\n1 8 3\nP\nAE q\n12\n.\n=\n⋅\n⋅\n=\n⋅⋅=\nADE\n2\n2\nSchemat punktowania I i II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający\n3\n• obliczy sinus kąta BAC:\nsinα =\n5\nalbo\n• długość jednego z odcinków AD, AE:\nAD =\n5\n,\nAE =\n8\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający obliczy\n• pole trójkąta ABC:\nP\n54\n=\nABC\nalbo\n3\n• obliczy sinα i długości obu odcinków AD i AE:\nsinα =\n,\nAD =\n5\n,\nAE =\n8\n,\n5\nalbo\n24\n• wysokość trójkąta ADE opuszczoną z wierzchołka E:\np =\n,\n5\nalbo\n• wysokość trójkąta ADE opuszczoną z wierzchołka D:\nq = .\n3\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZdający obliczy pole trójkąta ADE:\nP\n12\n.\n=\nADE\nRozwiązanie pełne ................................................................................................................ 4 p.\nZdający obliczy pole czworokąta BCDE:\nP\n42\n.\n=\nBCDE\nUwaga:\nJeżeli zdający rozwiązuje zadanie z wykorzystaniem faktu, że rozważany trójkąt jest\nprostokątny i nie przedstawia uzasadnienia tego faktu, to może otrzymać maksymalną liczbę\npunktów za całe rozwiązanie."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-P-2016-czerwiec/31.webp",
+   "size": [
+    962,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (0–5)\nDany jest ciąg arytmetyczny (\n)\na\nokreślony dla każdej liczby naturalnej\nn\n1\n, w którym\n≥\nn\na\na\na\na\n2016\noraz\na\na\na\n...\na\n2016\n. Oblicz pierwszy wyraz, różnicę\n+\n+\n+\n=\n+\n+\n+\n+\n=\n1\n2\n3\n4\n5\n6\n7\n12\noraz najmniejszy dodatni wyraz ciągu (\n)\na\n.\nn",
+   "key": "Zadanie 31. (0–5)\nDany jest ciąg arytmetyczny (\n)\na\nokreślony dla każdej liczby naturalnej\nn\n1\n, w którym\n≥\nn\na\na\na\na\n2016\noraz\na\na\na\n...\na\n2016\n. Oblicz pierwszy wyraz, różnicę\n+\n+\n+\n=\n+\n+\n+\n+\n=\n1\n2\n3\n4\n5\n6\n7\n12\noraz najmniejszy dodatni wyraz ciągu (\n)\na\n.\nn\nRozwiązanie\nRozwiązanie zadania składa się z dwóch etapów. Pierwszy polega na obliczeniu pierwszego\nwyrazu i różnicy ciągu (\n)\na\n. Drugi etap polega na wyznaczeniu najmniejszego dodatniego\nn\nwyrazu tego ciągu.\nI sposób rozwiązania I etapu\nZ warunków zadania wynika, że\na\na\na\na\n2016\ni\na\na\n...\na\n2016\n.\n+\n+\n+\n=\n+\n+\n+\n=\n1\n2\n3\n4\n5\n6\n12\nZe wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy\n(\n) (\n) (\n)\ni (\n) (\n)\n(\n)\na\na\nr\na\n2\nr\na\n3\nr\n2016\na\n4\nr\na\n5\nr\n...\na\n11\nr\n2016\n,\n+\n+\n+\n+\n+\n+\n=\n+\n+\n+\n+\n+\n+\n=\n1\n1\n1\n1\n1\n1\n1\n4\na\n6\nr\n2016\ni\n8\na\n60\nr\n2016\n,\n+\n=\n+\n=\n1\n1\n2\na\n3\nr\n1008\ni\n2\na\n15\nr\n504\n.\n+\n=\n+\n=\n1\n1\nOdejmując stronami równania, otrzymujemy\n12\nr = −\n504\n,\nr = −\n42\n.\n(\n)\nZatem\n2\na + ⋅−\n3\n42\n1008\n, więc\na =\n504\n3 21\n567\n.\n=\n+ ⋅\n=\n1\n1\nII sposób rozwiązania I etapu\nZ warunków zadania wynika, że\na\na\na\na\n2016\ni\na\na\n...\na\n2016\n.\n+\n+\n+\n=\n+\n+\n+\n=\n1\n2\n3\n4\n5\n6\n12\nZe wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy\n(\n) (\n) (\n)\na\na\nr\na\n2\nr\na\n3\nr\n2016\n,\n+\n+\n+\n+\n+\n+\n=\n1\n1\n1\n1\n4\na\n6\nr\n2016\n,\n+\n=\n1\n2\na\n3\nr\n1008\n.\n+\n=\n1\nZauważmy, że lewa strona równania\na\na\n...\na\n2016\njest sumą ośmiu wyrazów ciągu\n+\n+\n+\n=\n5\n6\n12\narytmetycznego (\n)\na a a\n,\n,\n,...,\na\no różnicy r. Ze wzoru na sumą n-początkowych wyrazów\n5\n6\n7\n12\nciągu arytmetycznego, otrzymujemy\na\na\n+\n12 8\n5\n2016\n,\n⋅=\n2\na\na\n504\n.\n+\n=\n5\n12\nStąd i ze wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy\na\n4\nr\na\n11\nr\n504\n,\n+\n+\n+\n=\n1\n1\n2\na\n15\nr\n504\n.\n+\n=\n1\nPo rozwiązaniu otrzymanego układu równań otrzymujemy\na =\n567\ni\nr = −\n42\n.\n1\nIII sposób rozwiązania I etapu\nZ warunków zadania wynika, że\na\na\na\na\n2016\ni\na\na\n...\na\n2016\n.\n+\n+\n+\n=\n+\n+\n+\n=\n1\n2\n3\n4\n5\n6\n12\nZauważmy, że sumując te równania stronami, otrzymujemy\na\na\n...\na\n4032\n.\n+\n+\n+\n=\n1\n2\n12\nOtrzymaliśmy w ten sposób układ równań\nS =\n2016\ni\nS\n4032\n,\n=\n4\n12\nktóry, korzystając ze wzoru na sumę n-początkowych wyrazów ciągu arytmetycznego,\nmożemy zapisać w postaci\na\na\na\na\n+\n+\n4 4\n12 12\n1\n2016\ni\n1\n4032\n,\n⋅\n=\n⋅\n=\n2\n2\na\na\n1008\ni\na\na\n672\n.\n+\n=\n+\n=\n1\n4\n1\n12\nZe wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy\n(\n)\n(\n)\na\na\n3\nr\n1008\ni\na\na\n11\nr\n672\n,\n+\n+\n=\n+\n+\n=\n1\n1\n1\n1\n2\na\n3\nr\n1008\ni\n2\na\n11\nr\n672\n.\n+\n=\n+\n=\n1\n1\nPo rozwiązaniu otrzymanego układu równań otrzymujemy\na =\n567\ni\nr = −\n42\n.\n1\nIV sposób rozwiązania I etapu\nZ warunków zadania wynika, że\na\na\na\na\n2016\ni\na\na\n...\na\n2016\n.\n+\n+\n+\n=\n+\n+\n+\n=\n1\n2\n3\n4\n5\n6\n12\nZauważmy, że\n(\n) (\n)\na\na\n...\na\na\na\n...\na\na\na\na\na\n,\n+\n+\n+\n=\n+\n+\n+\n−\n+\n+\n+\n5\n6\n12\n1\n2\n12\n1\n2\n3\n4\nczyli\na\na\n...\na\nS\nS\n.\n+\n+\n+\n=\n−\n5\n6\n12\n12\n4\nOtrzymaliśmy w ten sposób układ równań\nS =\n2016\ni\nS\nS\n2016\n,\n−\n=\n4\n12\n4\nktóry, korzystając ze wzoru na sumę n-początkowych wyrazów ciągu arytmetycznego,\nmożemy zapisać w postaci\na\na\na\na\na\na\n+\n+\n+\n4 4\n1\n2016\ni\n1\n12\n12\n1\n4\n4\n2016\n,\n⋅\n=\n⋅\n−\n⋅\n=\n2\n2\n2\na\na\n1008\ni\n6\na\n6\na\n2\na\n2\na\n2016\n.\n+\n=\n+\n−\n−\n=\n1\n4\n1\n12\n1\n4\na\na\n1008\ni\n4\na\n2\na\n6\na\n2016\n.\n+\n=\n−\n+\n=\n1\n4\n1\n4\n12\nZe wzoru na n-ty wyraz ciągu arytmetycznego otrzymujemy\n(\n)\n(\n)\n(\n)\na\na\n3\nr\n1008\ni\n4\na\n2\na\n3\nr\n6\na\n11\nr\n2016\n,\n+\n+\n=\n−\n+\n+\n+\n=\n1\n1\n1\n1\n1\n2\na\n3\nr\n1008\ni\n8\na\n60\nr\n2016\n,\n+\n=\n+\n=\n1\n1\n2\na\n3\nr\n1008\ni\n2\na\n15\nr\n504\n.\n+\n=\n+\n=\n1\n1\nPo rozwiązaniu otrzymanego układu równań otrzymujemy\na =\n567\ni\nr = −\n42\n.\n1\nRozwiązanie II etapu\nCiąg (\n)\n(\n)\na\njest więc opisany wzorem ogólnym\nna\n567\n(\nn\n1)\n42\n609\n42\nn\ndla\nn\n1\n.\n=\n+\n−\n⋅−\n=\n−\n≥\nn\nWyznaczmy numery wszystkich dodatnich wyrazów ciągu.\nna >\n0\n,\n609\n42\nn\n0\n,\n−\n>\n609\n1\nn <\n14\n.\n=\n42\n2\n, więc ciąg (\n)\nPonieważ\nr = −\n42\n0\na\njest malejący. Wynika stąd, że najmniejszym dodatnim\n<\nn\nwyrazem ciągu jest\na\n609\n42 14\n21\n.\n=\n−\n⋅\n=\n14\nUwaga:\nNajmniejszy dodatni wyraz ciągu (\n)\na\nmożemy też wyznaczyć w inny sposób. Ponieważ\nn\n, więc ciąg (\n)\njest malejący. Zauważmy, że jednym z wyrazów ciągu (\n)\nr = −\n42\n0\na\na\njest\n<\nn\nn\n567 14 42\n21\n, a następnym 21\n42\n21\n0\n. Stąd wynika, że najmniejszy dodatni wyraz\n−\n⋅\n=\n−\n= −\n<\nciągu to 21.\nSchemat punktowania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający zastosuje\n• wzór na sumę n-początkowych wyrazów ciągu arytmetycznego i zapisze jedno\nz równań wynikających z treści zadania:\na\na\na\na\n+\n+\n4 4\n12 8\n1\n2016\n,\n4\na\n6\nr\n2016\n,\n5\n2016\n,\n8\na\n60\nr\n2016\n,\n⋅\n=\n+\n=\n⋅=\n+\n=\n1\n1\n2\n2\na\na\n+\n12 12\n1\n4032\n⋅\n=\n2\nalbo\n• wzór na n-ty wyraz ciągu arytmetycznego i wyznaczy jeden z wyrazów\nna dla\nn >\n1\nw zależności od\n1a i r, np.\na\na\n+\nr\n=\n2\n1\ni na tym poprzestanie lub dalej popełnia błędy.\nUwaga\nJeżeli zdający zapisze, że\nS\n4032\n, to otrzymuje 1 punkt.\n=\n12\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający zapisze dwa równania wynikające z podanych sum wyrazów ciągu i wyznaczy jeden\nz wyrazów\nna dla\nn > w zależności od\n1\n1a i r, np.:\na\na\na\na\n+\n+\n4 4\n12 8\n1\n2016\ni\n5\n2016\ni\na\na\n3\nr\n.\n⋅\n=\n⋅=\n=\n+\n4\n1\n2\n2\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZdający zapisze układ dwóch równań z dwiema niewiadomymi pozwalający obliczyć\npierwszy wyraz i różnicę ciągu (\n)\na\n, np.:\nn\na\na\n3\nr\na\n4\nr\na\n11\nr\n+\n+\n+\n+\n+\n1\n1\n4\n2016\ni\n1\n1\n8\n2016\n.\n⋅\n=\n⋅=\n2\n2\nRozwiązanie prawie pełne ................................................................................................... 4 p.\nZdający\n• obliczy pierwszy wyraz i różnicę ciągu (\n)\na\n:\na =\n567\n,\nr = −\n42\nn\n1\nalbo\n• obliczy pierwszy wyraz, różnicę i najmniejszy dodatni wyraz ciągu (\n)\na\n, popełniając\nn\npo drodze błędy rachunkowe.\nRozwiązanie pełne ................................................................................................................ 5 p.\nZdający obliczy pierwszy wyraz, różnicę oraz najmniejszy dodatni wyraz ciągu (\n)\na\n:\nn\na =\n567\n,\nr = −\n42\n,\na\n21\n.\n=\n1\n14\nUwagi:\n1. Jeżeli zd"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2016-czerwiec/32.webp",
+   "size": [
+    962,
+    106
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (0–4)\nDany jest stożek o objętości 8π , w którym stosunek wysokości do promienia podstawy jest\nrówny 3:8. Oblicz pole powierzchni bocznej tego stożka.",
+   "key": "Zadanie 32. (0–4)\nDany jest stożek o objętości 8π , w którym stosunek wysokości do promienia podstawy jest\nrówny 3:8. Oblicz pole powierzchni bocznej tego stożka.\nRozwiązanie\nNiech r, h i l oznaczają odpowiednio promień podstawy, wysokość i tworzącą danego stożka.\nS\nl\nh\nr\nA\nO\nB\nObjętość stożka jest równa\n1 π\n2\nV\nr h\n.\n=\n3\nStąd\n1\n2\n8π\n3 r h\nπ\n,\n=\n2\nr h =\n24\n.\nh\n3\n3\nZ treści zadania wynika, że\n, skąd\nh\nr\n.\nr =\n=\n8\n8\nOtrzymujemy równanie\n2 3\nr\nr\n24\n,\n⋅\n=\n8\nr =\n3\n64\n,\nr =\n4\n.\n3\n3\nZatem\nh =\n4\n.\n⋅\n=\n8\n2\nZ twierdzenia Pitagorasa dla trójkąta BSO otrzymujemy\n2\n2\n2\nr\nh\nl\n,\n+\n=\n2\n( )\n73\n3\n73\n2\n2\n2\nl\nr\nh\n4\n.\n=\n+\n=\n+\n=\n=\n2\n4\n2\nPole powierzchni całkowitej stożka jest równe\n73\nbP\nπ\nrl\nπ 4\n2 73 π\n.\n=\n=\n⋅⋅\n=\n2\nSchemat punktowania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający zapisze zależność między wysokością i promieniem podstawy stożka\nh\n3\n• wynikającą z podanego stosunku, np.:\nr =\n8\nalbo\n2\n• wynikającą z podanej objętości:\nr h =\n24\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\n2 3\nZdający zapisze równanie z jedną niewiadomą, np.:\nr\nr\n24\n.\n⋅\n=\n8\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\n3\nZdający obliczy promień podstawy lub wysokość stożka:\nr =\n4\n,\nh =\n.\n2\nRozwiązanie pełne ................................................................................................................ 4 p.\nZdający obliczy pole powierzchni bocznej danego stożka:\nbP =\n2 73 π\n."
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2016-czerwiec/33.webp",
+   "size": [
+    962,
+    188
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (0–4)\nRejsowy samolot z Warszawy do Rzymu przelatuje nad Austrią każdorazowo tą samą trasą\nz taką samą zakładaną prędkością przelotową. We wtorek jego średnia prędkość była o 10%\nwiększa niż prędkość przelotowa, a w czwartek średnia prędkość była o 10% mniejsza od\nzakładanej prędkości przelotowej. Czas przelotu nad Austrią w czwartek różnił się od\nwtorkowego o 12 minut. Jak długo trwał przelot tego samolotu nad Austrią we wtorek?",
+   "key": "Zadanie 33. (0–4)\nRejsowy samolot z Warszawy do Rzymu przelatuje nad Austrią każdorazowo tą samą trasą\nz taką samą zakładaną prędkością przelotową. We wtorek jego średnia prędkość była o 10%\nwiększa niż prędkość przelotowa, a w czwartek średnia prędkość była o 10% mniejsza od\nzakładanej prędkości przelotowej. Czas przelotu nad Austrią w czwartek różnił się od\nwtorkowego o 12 minut. Jak długo trwał przelot tego samolotu nad Austrią we wtorek?\nRozwiązanie\nOznaczmy przez v prędkość, z jaką zwykle leci samolot na tej trasie, przez s oznaczmy\ndługość trasy, gdy samolot znajduje się nad terytorium Austrii, a przez t oznaczmy czas\nprzelotu we wtorek. Zatem prędkość, z jaką samolot leciał we wtorek była równa 1,1v ,\na prędkość, z jaką samolot leciał w czwartek była równa 0,9v . Czas przelotu w czwartek był\nrówny\nt +\n12\nminut. Zatem\n(\n)\n1,1v t\ns\noraz\n0,9\nv\nt\n12\n= .\ns\n⋅=\n⋅\n+\nStąd\n(\n)\n1,1\nv t\n0,9\nv\nt\n12\n,\n⋅=\n⋅\n+\n(\n)\n11\nt\n9\nt\n12\n,\n=\n+\n2\nt =\n9 12\n,\n⋅\nt =\n9 6\n54\n.\n⋅\n=\nOdpowiedź: Czas, w jakim samolot przelatywał we wtorek nad Austrią był równy 54 minuty.\nSchemat punktowania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający zapisze jedno z równań opisujących zależność prędkości i czasu przelotu nad Austrią,\n(\n)\nnp.: 1,1v t\ns\nlub\n= .\n⋅=\n0,9\nv\nt\n12\ns\n⋅\n+\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający zapisze oba równania pozwalające obliczyć czas przelotu nad Austrią we wtorek lub\n(\n)\nw czwartek, np.:\n1,1\nv t\n0,9\nv\nt\n12\n.\n⋅=\n⋅\n+\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\n(\n)\nZdający zapisze równanie z jedną niewiadomą t, np.:\n11\nt\n9\nt\n12\n.\n=\n+\nRozwiązanie pełne ................................................................................................................ 4 p.\nZdający wyznaczy czas przelotu: 54 minuty (lub 0,9 godziny).\nUwaga:\nJeżeli zdający stosuje błędny model, np. przyjmuje, że wzrostowi prędkości o 10%\nodpowiada skrócenie czasu o 10% albo przyjmuje, że wzrostowi prędkości odpowiada\nwydłużenie czasu, to za całe rozwiązanie otrzymuje 0 punktów."
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "exam": {
+  "id": "f2005-R-2007-maj",
+  "formula": "2005",
+  "level": "R",
+  "year": 2007,
+  "session": "maj",
+  "month": "05",
+  "code": "MMA-R1_1P-072",
+  "examUrl": "https://cke.gov.pl/images/stories/mat2_07/mat_pr.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/mat2_07/matem_pr_rozw.pdf",
+  "examFile": "f2005-R-2007-maj.pdf",
+  "keyFile": "f2005-R-2007-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2007-2/maj-2007/",
+  "examPages": 15,
+  "keyPages": 16,
+  "examBytes": 262836,
+  "keyBytes": 256624
+ },
+ "keyHead": "dysleksja\nMiejsce\nna naklejkę\nz kodem szkoły\nEGZAMIN MATURALNY\nZ MATEMATYKI\nPOZIOM ROZSZERZONY\nMAJ\nCzas pracy 180 minut\nROK 2007\nInstrukcja dla zdającego\n1. Sprawdź,\nczy\narkusz\negzaminacyjny\nzawiera\n15 stron\n(zadania 1 – 11). Ewentualny brak zgłoś przewodniczącemu\nzespołu nadzorującego egzamin.\n2. Rozwiązania zadań i odpowiedzi zamieść w miejscu na to\nprzeznaczonym.\n3. W\nrozwiązaniach\nzadań\nprzedstaw\ntok\nrozumowania\nprowadzący do ostatecznego wyniku.\n4. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym\ntuszem/atramentem.\n5. Nie używaj korektora, a błędne zapisy przekreśl.\n6. Pamiętaj, że zapisy w brudnopisie nie podlegają ocenie.\n7. Obok każdego zadania podana jest maksymalna liczba punktów,\nktórą możesz uzyskać za jego poprawne rozwiązanie.\n8. Możesz korzystać z zestawu wzorów matematycznych, cyrkla\ni linijki oraz kalkulatora.\n9. Wypełnij tę część karty odpowiedzi, którą koduje zdający.\nNie wpisuj żadnych znaków w części przeznaczonej dla\negzaminatora.\nZa rozwiązanie\n10. Na karcie odpowiedzi wpisz swoją datę urodzenia i PESEL.\nwszystkich zadań\nZamaluj\npola odpowiadające cyfrom numeru PESEL. Błędne\nmożna otrzymać\nzaznaczenie otocz kółkiem\ni zaznacz właściwe.\nłącznie\n50 punktów\nŻyczymy powodzenia!\nWypełnia zdający przed\nrozpoczęciem pracy\nKOD\nPESEL ZDAJĄCEGO\nZDAJĄCEGO\n2\nEgzamin maturalny z matematyki\nPoziom rozszerzony\nZadanie 1. (5 pkt)\n( )\n=\n−\n−\n+\n∈\nDana jest funkcja\nf x\nx\n1\nx\n2\ndla x\nR\n.\n(\n)\nx∈−∞−\na) Wyznacz zbiór wartości funkcji f dla\n, 2\n.\nb) Naszkicuj wykres tej funkcji.\nc) Podaj jej miejsca zerowe.\n( )\n=\nd) Wyznacz wszystkie wartości parametru m, dla których równanie\nf x\nm\nnie ma\nrozwiązania.\n(\n)\nx∈−∞−\na) Niech\n, 2\n, wtedy:\n(\n)\nx −<\n−\n= −\n−\n1\n0\n, czyli\nx\n1\nx\n1\noraz\n(\n)\nx +\n<\n+\n= −\n+\n2\n0\n, czyli\nx\n2\nx\n2\n.\n(\n)\nx∈−∞−\nZatem dla\n, 2\notrzymuję:\n(\n)\n( )\n(\n)\n(\n)\n= −\n−\n−−\n+\n= −+ +\n+\n=\nf x\nx\n1\nx\n2\nx\n1\nx\n2\n3\n.\n(\n)\nx∈−∞−\nFunkcja f dla\n, 2\njest funkcją stałą, a jej zbiorem wartości jest\nzbiór { }\n3 .\nb) Po zastosowaniu definicji wartości bezwzględnej funkcję f zapisuję\nw następującej postaci:\n⎧\n(\n)\n∈−∞−\n3\ndla\nx\n, 2\n⎪⎪\n( )\n)\n=\n−\n−\n∈−\nf x\n2\nx\n1 dla\nx\n2,1\n⎨\n⎪\n)\n−\n∈\n∞\n3\ndla\nx\n1,\n⎪⎩\nEgzamin maturalny z matematyki\n3\nPoziom rozszerzony\nSzkicuję wykres funkcji f.\ny\n3\n-2\n1\nx\n-1\n-3\nFunkcja ma jedno miejsce zerowe w przedziale (\n)\n−\n2,1\n(co widać na\nsporządzonym wykresie).\nMiejsce zerowe funkcji f wyznaczam, korzystając z jej wzoru w tym przedziale:\n1\n−\n−=\nx = −\n2\nx\n1\n0\n, stąd\n.\n0\n2\n( )\n=\n=\nc) Równanie\nf x\nm\nnie ma rozwiązań, gdy prosta o równaniu y\nm\nm < − lub\nm >\nnie przecina wykresu funkcji f, czyli dla\n3\n3\n.\n4\nEgzamin maturalny z matematyki\nPoziom rozszerzony\nZadanie 2. (5 pkt)\n(\n)\n(\n)\n(\n)\n(\n)\n−\n+\n−\n+\nlog\nx\n2\n1\nlog\n5\nx\n>\nlog\nx\n1\nRozwiąż nierówność:\n3\n.\n1\n1\n1\n3\n3\n3\nWyznaczam dziedzinę nierówności logarytmicznej:\n−>\n∧\n−\n>\n∧\n+ >\n2\nx\n1\n0\n5\nx\n0\nx\n1\n0\n.\nRozwiązania tych nierówności zaznaczam na osi liczbowej:\nx\n–1\n0 1\n5\nDziedziną danej nierówności jest przedział (\n)\n1,5 .\nKorzystam ze wzoru na sumę logarytmów i otrzymuję nierówność równoważną:\n(\n)(\n(\n)\n)\n(\n)\n⎡\n⎤\n−\n−\n>\n+\n2\nlog\nx\n1 5\nx\nlog\n3\nx\n1\n.\n⎣\n⎦\n1\n1\n3\n3\nFunkcja logarytmiczna przy podstawie 1\n3 jest malejąca, więc po opuszczeniu\nlogarytmów i zmianie zwrotu nierówności otrzymuję nierówność równoważną:\n(\n)(\n)\n(\n)\n−\n−\n<\n+\n2\nx\n1 5\nx\n3\nx\n1\n.\nPrzedstawiam ją w postaci iloczynowej:\n(\n)(\n)(\n)\n(\n)\n−\n+\n−\n<\n+\nx\n1\nx\n1 5\nx\n3\nx\n1\n(\n)(\n)(\n)\n(\n)\n−\n+\n−\n−\n+\n<\nx\n1\nx\n1 5\nx\n3\nx\n1\n0\n(\n) (\n)(\n)\n+\n⎡",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2007-maj/1.webp",
+   "size": [
+    950,
+    259
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (5 pkt)\n( )\n=\n−\n−\n+\n∈\nDana jest funkcja\nf x\nx\n1\nx\n2\ndla x\nR\n.\n(\n)\nx∈−∞−\na) Wyznacz zbiór wartości funkcji f dla\n, 2\n.\nb) Naszkicuj wykres tej funkcji.\nc) Podaj jej miejsca zerowe.\n( )\n=\nd) Wyznacz wszystkie wartości parametru m, dla których równanie\nf x\nm\nnie ma\nrozwiązania.",
+   "key": "Zadanie 1. (5 pkt)\n( )\n=\n−\n−\n+\n∈\nDana jest funkcja\nf x\nx\n1\nx\n2\ndla x\nR\n.\n(\n)\nx∈−∞−\na) Wyznacz zbiór wartości funkcji f dla\n, 2\n.\nb) Naszkicuj wykres tej funkcji.\nc) Podaj jej miejsca zerowe.\n( )\n=\nd) Wyznacz wszystkie wartości parametru m, dla których równanie\nf x\nm\nnie ma\nrozwiązania.\n(\n)\nx∈−∞−\na) Niech\n, 2\n, wtedy:\n(\n)\nx −<\n−\n= −\n−\n1\n0\n, czyli\nx\n1\nx\n1\noraz\n(\n)\nx +\n<\n+\n= −\n+\n2\n0\n, czyli\nx\n2\nx\n2\n.\n(\n)\nx∈−∞−\nZatem dla\n, 2\notrzymuję:\n(\n)\n( )\n(\n)\n(\n)\n= −\n−\n−−\n+\n= −+ +\n+\n=\nf x\nx\n1\nx\n2\nx\n1\nx\n2\n3\n.\n(\n)\nx∈−∞−\nFunkcja f dla\n, 2\njest funkcją stałą, a jej zbiorem wartości jest\nzbiór { }\n3 .\nb) Po zastosowaniu definicji wartości bezwzględnej funkcję f zapisuję\nw następującej postaci:\n⎧\n(\n)\n∈−∞−\n3\ndla\nx\n, 2\n⎪⎪\n( )\n)\n=\n−\n−\n∈−\nf x\n2\nx\n1 dla\nx\n2,1\n⎨\n⎪\n)\n−\n∈\n∞\n3\ndla\nx\n1,\n⎪⎩\nEgzamin maturalny z matematyki\n3\nPoziom rozszerzony\nSzkicuję wykres funkcji f.\ny\n3\n-2\n1\nx\n-1\n-3\nFunkcja ma jedno miejsce zerowe w przedziale (\n)\n−\n2,1\n(co widać na\nsporządzonym wykresie).\nMiejsce zerowe funkcji f wyznaczam, korzystając z jej wzoru w tym przedziale:\n1\n−\n−=\nx = −\n2\nx\n1\n0\n, stąd\n.\n0\n2\n( )\n=\n=\nc) Równanie\nf x\nm\nnie ma rozwiązań, gdy prosta o równaniu y\nm\nm < − lub\nm >\nnie przecina wykresu funkcji f, czyli dla\n3\n3\n.\n4\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2007-maj/2.webp",
+   "size": [
+    944,
+    122
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (5 pkt)\n(\n)\n(\n)\n(\n)\n(\n)\n−\n+\n−\n+\nlog\nx\n2\n1\nlog\n5\nx\n>\nlog\nx\n1\nRozwiąż nierówność:\n3\n.\n1\n1\n1\n3\n3\n3",
+   "key": "Zadanie 2. (5 pkt)\n(\n)\n(\n)\n(\n)\n(\n)\n−\n+\n−\n+\nlog\nx\n2\n1\nlog\n5\nx\n>\nlog\nx\n1\nRozwiąż nierówność:\n3\n.\n1\n1\n1\n3\n3\n3\nWyznaczam dziedzinę nierówności logarytmicznej:\n−>\n∧\n−\n>\n∧\n+ >\n2\nx\n1\n0\n5\nx\n0\nx\n1\n0\n.\nRozwiązania tych nierówności zaznaczam na osi liczbowej:\nx\n–1\n0 1\n5\nDziedziną danej nierówności jest przedział (\n)\n1,5 .\nKorzystam ze wzoru na sumę logarytmów i otrzymuję nierówność równoważną:\n(\n)(\n(\n)\n)\n(\n)\n⎡\n⎤\n−\n−\n>\n+\n2\nlog\nx\n1 5\nx\nlog\n3\nx\n1\n.\n⎣\n⎦\n1\n1\n3\n3\nFunkcja logarytmiczna przy podstawie 1\n3 jest malejąca, więc po opuszczeniu\nlogarytmów i zmianie zwrotu nierówności otrzymuję nierówność równoważną:\n(\n)(\n)\n(\n)\n−\n−\n<\n+\n2\nx\n1 5\nx\n3\nx\n1\n.\nPrzedstawiam ją w postaci iloczynowej:\n(\n)(\n)(\n)\n(\n)\n−\n+\n−\n<\n+\nx\n1\nx\n1 5\nx\n3\nx\n1\n(\n)(\n)(\n)\n(\n)\n−\n+\n−\n−\n+\n<\nx\n1\nx\n1 5\nx\n3\nx\n1\n0\n(\n) (\n)(\n)\n+\n⎡\n−\n−\n−\n⎤\n<\nx\n1\nx\n1 5\nx\n3\n0\n⎣\n⎦\n)(\n)\n(\n+\n−\n2\n+\n−\n<\nx\n1\nx\n6\nx\n8\n0\n(\n)(\n)(\n)\n−\n+\n−\n−\n<\nx\n1\nx\n2\nx\n4\n0\nRozwiązaniem nierówności jest suma przedziałów (\n)\n(\n)\n−\n∪\n∞.\n1, 2\n4,\nRozwiązaniem nierówności logarytmicznej jest część wspólna otrzymanego\nzbioru i dziedziny: (\n)\n(\n)\n∪\n1 2\n,\n4 5\n,\n.\nEgzamin maturalny z matematyki\n5\nPoziom rozszerzony"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2007-maj/3.webp",
+   "size": [
+    950,
+    209
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (5 pkt)\nKapsuła lądownika ma kształt stożka zakończonego w podstawie półkulą o tym samym\npromieniu co promień podstawy stożka. Wysokość stożka jest o 1 m większa niż promień\npółkuli. Objętość stożka stanowi 2\n3 objętości całej kapsuły. Oblicz objętość kapsuły\nlądownika.",
+   "key": "Zadanie 3. (5 pkt)\nKapsuła lądownika ma kształt stożka zakończonego w podstawie półkulą o tym samym\npromieniu co promień podstawy stożka. Wysokość stożka jest o 1 m większa niż promień\npółkuli. Objętość stożka stanowi 2\n3 objętości całej kapsuły. Oblicz objętość kapsuły\nlądownika.\nSporządzam pomocniczy rysunek:\nh\nr\nZapisuję zależność miedzy długością promienia stożka i jego wysokością:\n=\n+ .\nh\nr\n1\nObjętość V kapsuły zapisuję jako sumę objętości stożka i półkuli:\n1\n2\n1\n2\n1\n(\n)\n=\nπ\n⋅\n+\nπ\n=\nπ\n⋅\n+\n+\nπ\n=\nπ\n+\nπ\n2\n3\n2\n3\n3\n2\nV\nr\nh\nr\nr\nr\n1\nr\nstąd\nV\nr\nr\n.\n3\n3\n3\n3\n3\nZależność między objętością\nV stożka i objętością V kapsuły wynikającą\nS\nz treści zadania ma postać:\n2\n=\nV\nV\n, stąd\nS\n3\n1\n2\n⎛\n1\n⎞\n(\n)\nπ\n2\n⋅\n+\n=\nπ\n3\n+\nπ\n2\nr\nr\n1\nr\nr\n⎜\n⎟\n3\n3\n⎝\n3\n⎠\n1\n2\n⎛\n1\n⎞\n(\n)\nπ\n+\n=\nπ\n+\n2\n2\nr\nr\n1\nr\nr\n⎜\n⎟\n3\n3\n⎝\n3\n⎠\n⎛\n1\n⎞\n+ =\n+\nr\n1\n2\nr\n⎜\n⎟\n⎝\n3\n⎠\n1\nr =\n.\n3\nV = π\n2\n3\nObliczam objętości V kapsuły lądownika:\nm\n.\n27\n6\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2007-maj/4.webp",
+   "size": [
+    950,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (3 pkt)\nDany jest trójkąt o bokach długości 1, 3\n2 , 2. Oblicz cosinus i sinus kąta leżącego naprzeciw\nnajkrótszego boku tego trójkąta.",
+   "key": "Zadanie 4. (3 pkt)\nDany jest trójkąt o bokach długości 1, 3\n2 , 2. Oblicz cosinus i sinus kąta leżącego naprzeciw\nnajkrótszego boku tego trójkąta.\nWykonuję rysunek pomocniczy, na którym zaznaczam poszukiwany kąt:\n3\n1\n2\nα\n2\nWykorzystuję\ntwierdzenie\ncosinusów\ndo\nzapisania\nrównania:\n2\n⎛\n⎞\n3\n3\n( )\n2\n=\n+\n−\n⋅\n⋅⋅\nα i obliczam wartość cosinusa kąta\nα :\n2\n1\n2\n2\n2 cos\n⎜\n⎟\n⎝\n2\n⎠\n2\n7\nα\n=\ncos\n.\n8\nWartość funkcji sinus kąta α wyznaczam z tożsamości trygonometrycznej\nα\n+\nα\n= .\n2\n2\nsin\ncos\n1\n2\n⎛\n7\n⎞\n15\nα\n+\n=\nα =\n2\n2\nsin\n1\n,\nsin\n.\n⎜\n⎟\n⎝\n8\n⎠\n64\n15\nKąt α jest kątem ostrym, więc sinα\n=\n.\n8\nEgzamin maturalny z matematyki\n7\nPoziom rozszerzony"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-R-2007-maj/5.webp",
+   "size": [
+    950,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (7 pkt)\n= −\n2\n+\nWierzchołki trójkąta równobocznego ABC są punktami paraboli\ny\nx\n6\nx . Punkt C jest\njej wierzchołkiem, a bok AB jest równoległy do osi Ox. Sporządź rysunek w układzie\nwspółrzędnych i wyznacz współrzędne wierzchołków tego trójkąta.",
+   "key": "Zadanie 5. (7 pkt)\n= −\n2\n+\nWierzchołki trójkąta równobocznego ABC są punktami paraboli\ny\nx\n6\nx . Punkt C jest\njej wierzchołkiem, a bok AB jest równoległy do osi Ox. Sporządź rysunek w układzie\nwspółrzędnych i wyznacz współrzędne wierzchołków tego trójkąta.\nAby sporządzić rysunek wyznaczam współrzędne wierzchołka danej paraboli:\n(\n)\n, więc wierzchołek paraboli ma współrzędne (\n)\n2\n= −\n+\n= −\n−\n+\n2\ny\nx\n6\nx\nx\n3\n9\n3,9 .\nWykonuję rysunek ilustrujący treść zadania:\ny\nC\n9\n600\nA\nB\nx\n600\n0\n6\n3\nTrójkąt ABC jest równoboczny, więc kąt BAC ma miarę 60D . Współczynnik\nkierunkowy prostej przechodzącej przez punkty A i C jest więc równy\n=\nD\ntg60\n3\n.\nWyznaczam równanie prostej AC:\n(\n)\n=\n+\nC =\nprosta\ny\n3\nx\nb\nprzechodzi przez punkt\n3,9\n, więc współczynnik b jest\nb = −\n+\nrówny\n3 3\n9\n.\n=\n−\n+\nProsta AC ma równanie:\ny\n3\nx\n3 3\n9\n.\n8\nEgzamin maturalny z matematyki\nPoziom rozszerzony\nAby\nwyznaczyć\nwspółrzędne\npunktu\nA\nrozwiązuję\nukład\nrównań:\n⎧\n=\n−\n+\n⎪⎨\ny\n3\nx\n3 3\n9\n= −\n+\n⎪⎩\n2\ny\nx\n6\nx\n= −\n2\n+\nPo\ndokonaniu\npodstawienia\ny\nx\n6\nx\notrzymuję\nrównanie\n−\n+\n= −\n2\n+\n3\nx\n3 3\n9\nx\n6\nx\n, które po uporządkowaniu przyjmuje postać:\n(\n)\n+\n−\n+\n−\n=\n2\nx\nx\n3\n6\n9\n3 3\n0.\nx = ,\nx =\n−\nRozwiązaniem równania są liczby:\n3\n3\n3\n.\n1\n2\n= −\n+\n2\nWspółrzędne punktów przecięcia prostej AC z parabolą\ny\nx\n6\nx\nsą więc\nnastępujące: (\n)\noraz (\n)\n−\n3\n3,6\n3,9 .\nPunkt (\n)\n3,9 jest wierzchołkiem paraboli, więc punkt A ma współrzędne\n(\n)\n−\n3\n3,6\n.\nWspółrzędne punktu B wyznaczam wykorzystując fakt, iż osią symetrii paraboli\n= −\n+\nx =\n2\ny\nx\n6\nx\njest prosta\n3\n. Punkt B jest więc obrazem punktu A w symetrii\n(\n)\nB =\n+\nwzględem tej prostej, czyli\n3\n3,6\n.\nEgzamin maturalny z matematyki\n9\nPoziom rozszerzony"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2007-maj/6.webp",
+   "size": [
+    950,
+    182
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (4 pkt)\n( )\n( )\nNiech A, B będą zdarzeniami o prawdopodobieństwach\nP A i\nP B . Wykaż, że jeżeli\n( )\n( )\nP A =\nP B =\n0,85\ni\n0,75\n, to prawdopodobieństwo warunkowe spełnia nierówność\n(\n)\nP A B ≥\n0,8\n.",
+   "key": "Zadanie 6. (4 pkt)\n( )\n( )\nNiech A, B będą zdarzeniami o prawdopodobieństwach\nP A i\nP B . Wykaż, że jeżeli\n( )\n( )\nP A =\nP B =\n0,85\ni\n0,75\n, to prawdopodobieństwo warunkowe spełnia nierówność\n(\n)\nP A B ≥\n0,8\n.\nPonieważ (\n) 1\n∪\n≤ z własności prawdopodobieństwa, więc\nP A\nB\n(\n)\n( )\n( )\n(\n)\n≥\n∪\n=\n+\n−\n∩\n1\nP A\nB\nP A\nP B\nP A\nB\n.\nStąd po przekształceniu otrzymuję:\n(\n)\n( )\n( )\n∩\n≥\n+\n−\nP A\nB\nP A\nP B\n1\n(\n)\n∩\n≥\n+\n−\nP A\nB\n0,85\n0,75 1\n(\n)\n∩\n≥\nP A\nB\n0,6\nKorzystam  z  definicji  prawdopodobieństwa  warunkowego:\n(\n)\n∩\nP A\nB\n0,6\n(\n)\ni otrzymuję (\n)\n=\n≥\nP A B ≥\nP A B\n0,8\n.\n( )\nP B\n0,75\n10\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-R-2007-maj/7.webp",
+   "size": [
+    950,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (7 pkt)\n−\n=\n⎧\nmx\ny\n2\nDany jest układ równań:\nm\n⎨+\n=\nx\nmy\n.\n⎩\nDla każdej wartości parametru m wyznacz parę liczb (\n)\nx,y , która jest rozwiązaniem tego\n+\nm∈\nukładu równań. Wyznacz najmniejszą wartość sumy x\ny\ndla\n2,4\n.",
+   "key": "Zadanie 7. (7 pkt)\n−\n=\n⎧\nmx\ny\n2\nDany jest układ równań:\nm\n⎨+\n=\nx\nmy\n.\n⎩\nDla każdej wartości parametru m wyznacz parę liczb (\n)\nx,y , która jest rozwiązaniem tego\n+\nm∈\nukładu równań. Wyznacz najmniejszą wartość sumy x\ny\ndla\n2,4\n.\n−\n=\n⎧\nmx\ny\n2\n∈\nRozwiązaniem układu równań\ndla każdego m\nR\njest para liczb\n⎨+\n=\nx\nmy\nm\n⎩\n⎧=\n3\nm\nx\n⎪⎪\n+\n2\nm\n1\n⎨\n−\n2\nm\n2 .\n⎪\n=\ny\n⎪\n⎩\n2\n+\nm\n1\n+\n−\n2\nm\n3\nm\n2\nzapisuję w postaci funkcji ( )\n+\n=\n∈\nSumę x\ny\nf m\n, m\nR\n.\n+\n2\nm\n1\nAby znaleźć najmniejszą wartość sumy w danym przedziale obliczam pochodną\n−\n2\n+\n+\n3\nm\n6\nm\n3\n( )\n′\n=\n∈\nfunkcji f:\nf\nm\n, m\nR\n.\n(\n)\n2\n2\n+\nm\n1\nObliczam miejsca zerowe pochodnej funkcji f:\n( ) 0\n′\n=\n−\n2\n+\n+\n=\nf\nm\ngdy\n3\nm\n6\nm\n3\n0\n.\nm = −\nm = +\nRozwiązaniami równania są liczby:\n1\n2\n,\n1\n2\n, przy czym\n1\n2\nm ∉\n2,4\n.\n1\nBadam znak pochodnej w przedziale 2,4 :\n(\n)\n( )\n′\n>\n∈\n+\nPonieważ\nf\nm\n0 dla\nm\n2, 1\n2\n, więc funkcja f jest rosnąca w przedziale\n)\n(\n)\n( )\n′\n+\n<\n∈\n+\n2, 1\n2\n. Ponieważ\nf\nm\n0 dla\nm\n1\n2, 4\n, więc funkcja f jest\nmalejąca w przedziale (1\n+\n2, 4\n.\nStąd wnioskuję, że funkcja f przyjmuje najmniejszą wartość w jednym z końców\nprzedziału 2,4 .\nEgzamin maturalny z matematyki\n11\nPoziom rozszerzony\n8\n26\n( )\n( )\n=\n=\nObliczam wartość funkcji f na końcach przedziału:\nf\n2\noraz\nf\n4\n5\n17\ni porównuję otrzymane liczby.\n26\njest ( )\n+\n=\nNajmniejszą wartością sumy x\ny\nf\n4\n.\n17\n12\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2007-maj/8.webp",
+   "size": [
+    947,
+    583
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (3 pkt)\n−\n2\nsin\nx\nsin\nx\n( )\n(\n)\n(\n)\n=\nx∈\nπ ∪π\nπ .\nDana jest funkcja f określona wzorem\nf x\ndla\n0,\n, 2\nsin\nx\na) Naszkicuj wykres funkcji f .\nb) Wyznacz miejsca zerowe funkcji f.\ny\n2\n1\nπ\n2π\n0\nx\n–1\n–2",
+   "key": "Zadanie 8. (3 pkt)\n−\n2\nsin\nx\nsin\nx\n( )\n(\n)\n(\n)\n=\nx∈\nπ\n∪\nπ\nπ .\nDana jest funkcja f określona wzorem\nf x\ndla\n0,\n, 2\nsin\nx\na) Naszkicuj wykres funkcji f .\nb) Wyznacz miejsca zerowe funkcji f.\nKorzystam z definicji wartości bezwzględnej i zapisuję wzór funkcji f\n⎧\n2\n−\nsin\nx\nsin\nx\n>\ndla sin\nx\n0\n⎪⎪\nsin\nx\nw postaci: ( )\n= ⎨\nf x\n+\n2\nsin\nx\nsin\nx\n⎪\n<\ndla sin\nx\n0\n⎪⎩\nsin\nx\n−\n>\n⎧\nsin\nx\n1 dla sin\nx\n0\n( )\n= ⎨\nf x\n+\n<\nsin\nx\n1 dla sin\nx\n0 .\n⎩\nSzkic wykresu funkcji w podanym zbiorze jest następujący:\ny\n1\nx\nπ\n2π\n-1\nNa podstawie wzoru wyznaczam miejsca zerowe funkcji:\n( )\nf x =\nx −=\nx + =\n0\ndla x takich, że sin\n1\n0\nlub sin\n1\n0\n,\nx = π , oraz\nx = π .\n3\nczyli dla\n2\n2\nEgzamin maturalny z matematyki\n13\nPoziom rozszerzony"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2007-maj/9.webp",
+   "size": [
+    950,
+    161
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (3 pkt)\n( )\n=\n4\n−\n3\n−\n2\n+\n− w postaci iloczynu dwóch wielomianów\nPrzedstaw wielomian\nW x\nx\n2\nx\n3\nx\n4\nx\n1\nstopnia drugiego o współczynnikach całkowitych i takich, że współczynniki przy drugich\npotęgach są równe jeden.",
+   "key": "Zadanie 9. (3 pkt)\n( )\n=\n−\n−\n+\n− w postaci iloczynu dwóch wielomianów\nPrzedstaw wielomian\nW x\nx\n4\n2\nx\n3\n3\nx\n2\n4\nx\n1\nstopnia drugiego o współczynnikach całkowitych i takich, że współczynniki przy drugich\npotęgach są równe jeden.\n( )\n=\n−\n−\n+\n− przedstawiam w takiej postaci,\n4\n3\n2\nDany wielomian\nW x\nx\n2\nx\n3\nx\n4\nx\n1\naby\nmożna\nbyło\nzastosować\nwzory\nskróconego\nmnożenia:\n( )\n=\n−\n+\n−\n+\n−.\n4\n3\n2\n2\nW x\nx\n2\nx\nx\n4\nx\n4\nx\n1\nGrupuję wyrazy i przedstawiam wyrażenie w postaci różnicy kwadratów dwóch\n( ) (\n)\n2\n(\n)\n2\n=\n2\n−\n−\n−\nwyrażeń:\nW x\nx\nx\n2\nx\n1\n.\nWykorzystuję wzory skróconego mnożenia do rozkładu wielomianu na iloczyn\ndwóch  wielomianów  stopnia  drugiego:\n( ) (\n)\n(\n) (\n)\n2\n(\n)\n2\n=\n−\n−\n−\n=\n−\n+\n−\n⋅\n−\n−\n+\n=\n2\n2\n2\nW x\nx\nx\n2\nx\n1\nx\nx\n2\nx\n1\nx\nx\n2\nx\n1\n(\n) (\n)\n=\n+\n−\n⋅\n−\n+\n2\n2\n.\nx\nx\n1\nx\n3\nx\n1\n14\nEgzamin maturalny z matematyki\nPoziom rozszerzony"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2007-maj/10.webp",
+   "size": [
+    950,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (4 pkt)\nπ\n3\nNa kole opisany jest romb. Stosunek pola koła do pola rombu wynosi\n. Wyznacz miarę\n8\nkąta ostrego rombu.",
+   "key": "Zadanie 10. (4 pkt)\nπ\n3\nNa kole opisany jest romb. Stosunek pola koła do pola powierzchni rombu wynosi\n.\n8\nWyznacz miarę kąta ostrego rombu.\nSporządzam rysunek pomocniczy i wprowadzam następujące oznaczenia:\na – długość boku rombu, r – promień koła wpisanego w romb,\nP – pole koła\nK\nP – pole rombu, α – kąt ostry rombu.\nwpisanego w romb,\nR\nD\nC\nr\na\nα\nB\nA\nE\n=\nπ\n=\n⋅\n2\nZgodnie z wprowadzonymi oznaczeniami\nP\nr\n,\nP\na\n2\nr\n.\nK\nR\nπ\nπ\n2\nP\nr\n3\nr\n3\n=\n=\na =\nZ warunków zadania wynika proporcja:\nK\n, stąd\n.\n⋅\nP\na\n2\nr\n8\n2\n8\nR\n3\n=\n⋅\nZ otrzymanej równości wyznaczam promień okręgu:\nr\na\n.\n4\nDE\n2\nr\nZ trójkąta prostokątnego AED wyznaczam sinus kąta α :\nα =\n=\nsin\nAD\na\n3\n⋅\n2\na\n3\n4\nα\n=\n=\nsin\n.\na\n2\nα\n=\nD\nZatem\n60\n.\nEgzamin maturalny z matematyki\n15\nPoziom rozszerzony"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2007-maj/11.webp",
+   "size": [
+    950,
+    268
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (4 pkt)\nSuma n początkowych wyrazów ciągu arytmetycznego (\n)\nna\nwyraża się wzorem\n=\n2\n+\nn ≥.\nSn\n2\nn\nn\ndla\n1\na) Oblicz sumę 50 początkowych wyrazów tego ciągu o numerach parzystych:\n+\n+\n+\n+\na\na\na\n...\na\n.\n2\n4\n6\n100\nS\nb) Oblicz\nlim\nn\n.\n−\n2\n3\nn\n2\n→∞\nn",
+   "key": "Zadanie 11. (4 pkt)\nSuma n początkowych wyrazów ciągu arytmetycznego (\n)\nna\nwyraża się wzorem\n=\n2\n+\nn ≥.\nSn\n2\nn\nn\ndla\n1\na) Oblicz sumę 50 początkowych wyrazów tego ciągu o numerach parzystych:\n+\n+\n+\n+\na\na\na\n...\na\n.\n2\n4\n6\n100\nS\nb) Oblicz\nlim\nn\n.\n−\n2\n3\nn\n2\n→∞\nn\na) Wyznaczam wzór ogólny ciągu (\n)\nna\n, korzystając z własności sum\n=\n−\nczęściowych ciągów:\na\nS\nS −\nn\nn\nn\n1\n(\n)\n2\n=\n2\n+\n−\n−\n−\n+ =\n−.\nna\n2\nn\nn\n2\nn\n1\nn\n1\n4\nn\n1\na =\nr =\nWyznaczam wartość wyrazu\n7\ni różnicy ciągu (\na\n,\na\n,...,\na\n),\n8\n.\n2\n2\n4\n100\nn =\nObliczam sumę\n50\npoczątkowych wyrazów ciągu o numerach\n(\n)\n⋅\n+\n−\n⋅\n2 7\n50\n1 8 50\n=\n⋅\n=\nparzystych:\nS\n10150\n.\n50\n2\nS\nb) Obliczam granicę ciągu\nn\n:\nn −\n2\n3\n2\n+\n2\nS\n2\nn\nn\n2\n=\n=\nlim\nn\nlim\n.\n−\n−\n2\n2\n3\nn\n2\n3\nn\n2\n3\n→∞\nn\n→∞\nn\n16\nEgzamin maturalny z matematyki\nPoziom rozszerzony\nBRUDNOPIS"
+  }
+ ]
+}

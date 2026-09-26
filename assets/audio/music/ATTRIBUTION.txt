@@ -1,0 +1,19 @@
+Music in this folder — licence: Creative Commons Attribution 4.0 (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
+Attribution MUST be shown (e.g. in a Credits screen / README). Required format (incompetech):
+
+hep-cats_kevin-macleod.mp3
+  "Hep Cats" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Hep%20Cats.mp3  (ISRC USUAN1500022)
+  90 bpm, organ / bass / percussion / flute / e-piano / guitar, feel "Grooving", 4:11
+  Change: re-encoded from 256 kbps to 192 kbps MP3 (to stay < 8 MB). No other changes.
+
+chill-wave_kevin-macleod.mp3
+  "Chill Wave" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Chill%20Wave.mp3  (ISRC USUAN1600048)
+  100 bpm, synths / bass / drum / guitar, feel "Grooving, Relaxed", 4:00. Unmodified.
+
+Tip for the Balatro feel: Balatro plays its OST at ~70% speed. Try howler `rate(0.85)` or
+WebAudio playbackRate 0.8-0.9 (pitch drops too = woozier, more Balatro-like). On game over,
+ramp playbackRate down toward 0.5 over ~3 s (Balatro does exactly this).

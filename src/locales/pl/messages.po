@@ -1,0 +1,787 @@
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2026-09-26 13:15+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: @lingui/cli\n"
+"Language: pl\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Plural-Forms: \n"
+
+#. placeholder {0}: l(HAND_BY_ID[fx.hand].name)
+#. placeholder {1}: fx.level
+#: src/screens/GameScreen.tsx:75
+msgid "{0} leveled up to lvl.{1}"
+msgstr "{0}: poziom w górę do lvl.{1}"
+
+#. placeholder {0}: formatNumber(poolSize)
+#: src/screens/MainMenu.tsx:176
+msgid "{0} tasks in this deck"
+msgstr "{0} zadań w tej talii"
+
+#: src/screens/MainMenu.tsx:39
+msgid "A matura roguelike deckbuilder"
+msgstr "Maturalny roguelike karciany"
+
+#: src/components/game/OptionsPanel.tsx:144
+msgid "Abandon run"
+msgstr "Porzuć grę"
+
+#: src/screens/GameScreen.tsx:126
+msgid "Abandon this run? Progress will be lost."
+msgstr "Porzucić tę grę? Postęp przepadnie."
+
+#: src/hooks/auth/useSignInWithPin.ts:13
+msgid "Account created - welcome!"
+msgstr "Konto założone - witaj!"
+
+#: src/components/viewer/TaskViewer.tsx:287
+msgid "Answer from the key"
+msgstr "Odpowiedź z klucza"
+
+#: src/components/game/Sidebar.tsx:265
+#: src/screens/MainMenu.tsx:298
+msgid "Ante"
+msgstr "Ante"
+
+#. placeholder {0}: run.ante
+#: src/components/game/GameOver.tsx:72
+msgid "Ante {0}"
+msgstr "Ante {0}"
+
+#. placeholder {0}: run.ante
+#. placeholder {1}: run.money
+#. placeholder {2}: run.jokers.length
+#: src/screens/MainMenu.tsx:241
+msgid "Ante {0} · ${1} · {2} Jokers"
+msgstr "Ante {0} · ${1} · Jokery: {2}"
+
+#. placeholder {0}: run.ante
+#: src/components/game/RunInfo.tsx:127
+msgid "Ante {0} Boss"
+msgstr "Boss ante {0}"
+
+#. placeholder {0}: run.ante
+#: src/components/game/Shop.tsx:63
+msgid "ANTE {0} VOUCHER"
+msgstr "BON ANTE {0}"
+
+#: src/components/game/OptionsPanel.tsx:40
+msgid "Audio"
+msgstr "Dźwięk"
+
+#: src/components/game/DeckView.tsx:50
+#: src/components/game/OptionsPanel.tsx:154
+#: src/components/game/RunInfo.tsx:37
+#: src/screens/MainMenu.tsx:252
+#: src/screens/MainMenu.tsx:328
+msgid "Back"
+msgstr "Wróć"
+
+#: src/components/viewer/TaskViewer.tsx:367
+msgid "Back to the table"
+msgstr "Wróć do stołu"
+
+#: src/components/game/OptionsPanel.tsx:21
+msgid "Background at 30 fps and lower resolution, no blur"
+msgstr "Tło w 30 fps i niższej rozdzielczości, bez rozmycia"
+
+#: src/components/cards/TaskInfo.tsx:28
+msgid "Basic"
+msgstr "Podstawa"
+
+#: src/components/game/BlindSelect.tsx:104
+msgid "Beat the Boss to raise the Ante"
+msgstr "Pokonaj Bossa, by podnieść ante"
+
+#: src/components/game/GameOver.tsx:47
+#: src/screens/MainMenu.tsx:304
+msgid "Best hand"
+msgstr "Najlepsza ręka"
+
+#: src/components/game/BlindSelect.tsx:40
+#: src/components/game/GameOver.tsx:88
+#: src/components/game/Sidebar.tsx:81
+msgid "Big Blind"
+msgstr "Duża ciemna"
+
+#: src/components/game/OptionsPanel.tsx:20
+msgid "Blockier background at 20 fps, no shine animations, no idle sway"
+msgstr "Grubsze piksele tła w 20 fps, bez animacji połysku i kołysania kart"
+
+#: src/components/viewer/TaskViewer.tsx:199
+msgid "Boss: no scratch paper!"
+msgstr "Boss: zakaz brudnopisu!"
+
+#: src/components/game/RoundControls.tsx:43
+msgid "Branch"
+msgstr "Dział"
+
+#: src/components/game/Shop.tsx:145
+#: src/components/game/Shop.tsx:168
+#: src/components/game/Shop.tsx:193
+msgid "Buy"
+msgstr "Kup"
+
+#: src/components/game/Shop.tsx:206
+msgid "Buy & Use"
+msgstr "Kup i użyj"
+
+#: src/components/game/Shop.tsx:200
+msgid "Buy and use immediately"
+msgstr "Kup i użyj od razu"
+
+#. placeholder {0}: shopItem.price
+#: src/components/viewer/TaskViewer.tsx:351
+msgid "Buy for ${0}"
+msgstr "Kup za ${0}"
+
+#: src/components/viewer/TaskViewer.tsx:236
+msgid "Card value = the <0>sum of all numbers</0> in the final answer"
+msgstr "Wartość karty = <0>suma wszystkich liczb</0> w odpowiedzi"
+
+#: src/components/viewer/TaskViewer.tsx:240
+msgid "Card value = the final answer (a number)"
+msgstr "Wartość karty = końcowy wynik zadania (liczba)"
+
+#: src/components/game/GameOver.tsx:50
+msgid "Cards played"
+msgstr "Zagrane karty"
+
+#. placeholder {0}: cash.total
+#: src/components/game/CashOut.tsx:51
+msgid "Cash Out: ${0}"
+msgstr "Odbierz: ${0}"
+
+#: src/components/cards/cardInfo.tsx:64
+msgid "Cheat Sheet"
+msgstr "Ściąga"
+
+#: src/components/cards/PackCard.tsx:22
+#: src/components/game/Sidebar.tsx:57
+msgid "Cheat Sheet Pack"
+msgstr "Paczka ściąg"
+
+#: src/components/viewer/TaskViewer.tsx:243
+msgid "Chips per card are capped at ±{VALUE_CAP}"
+msgstr "Jedna karta daje najwyżej ±{VALUE_CAP} Żetonów"
+
+#. placeholder {0}: run.pack.picksLeft
+#: src/components/game/Sidebar.tsx:65
+msgid "Choose {0}"
+msgstr "Wybierz: {0}"
+
+#: src/components/game/Sidebar.tsx:74
+msgid "Choose your next Blind"
+msgstr "Wybierz następną ciemną"
+
+#: src/components/viewer/TaskViewer.tsx:181
+msgid "Clear"
+msgstr "Wyczyść"
+
+#: src/components/viewer/TaskViewer.tsx:204
+msgid "Close (Esc)"
+msgstr "Zamknij (Esc)"
+
+#: src/screens/MainMenu.tsx:155
+#: src/screens/MainMenu.tsx:246
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#: src/components/game/GameOver.tsx:51
+msgid "Correct notes"
+msgstr "Poprawne notatki"
+
+#: src/hooks/runs/useSubmitRun.ts:17
+msgid "Could not save the result"
+msgstr "Nie udało się zapisać wyniku"
+
+#: src/hooks/auth/useSignInWithPin.ts:26
+msgid "Could not sign in"
+msgstr "Nie udało się zalogować"
+
+#: src/hooks/auth/useSignOut.ts:12
+msgid "Could not sign out"
+msgstr "Nie udało się wylogować"
+
+#: src/components/game/OptionsPanel.tsx:111
+msgid "CRT effect"
+msgstr "Efekt CRT"
+
+#: src/components/game/BlindSelect.tsx:60
+msgid "Defeated / Skipped"
+msgstr "Pokonana / pominięta"
+
+#: src/components/game/GameOver.tsx:86
+msgid "Defeated by"
+msgstr "Pokonany przez"
+
+#: src/components/game/HandArea.tsx:162
+msgid "Deselect"
+msgstr "Odznacz"
+
+#: src/components/viewer/TaskViewer.tsx:338
+msgid "Deselect card"
+msgstr "Odznacz kartę"
+
+#: src/components/game/RoundControls.tsx:51
+msgid "Discard"
+msgstr "Odrzuć"
+
+#: src/components/game/Sidebar.tsx:256
+msgid "Discards"
+msgstr "Zrzutki"
+
+#: src/components/viewer/TaskViewer.tsx:257
+msgid "e.g. 12, -3/2, 2√3"
+msgstr "np. 12, -3/2, 2√3"
+
+#: src/screens/AuthScreen.tsx:50
+msgid "e.g. mateusz"
+msgstr "np. mateusz"
+
+#: src/hooks/auth/useSignInWithPin.ts:21
+msgid "Email confirmation is enabled in Supabase - disable it for PIN login"
+msgstr "W Supabase jest włączone potwierdzanie maila - wyłącz je dla logowania PIN-em"
+
+#: src/components/game/GameOver.tsx:107
+msgid "Endless Mode"
+msgstr "Tryb bez końca"
+
+#: src/screens/AuthScreen.tsx:69
+msgid "Enter"
+msgstr "Wejdź"
+
+#: src/screens/AuthScreen.tsx:69
+msgid "Entering..."
+msgstr "Wchodzę..."
+
+#: src/components/viewer/TaskViewer.tsx:169
+msgid "Eraser"
+msgstr "Gumka"
+
+#: src/components/game/OptionsPanel.tsx:22
+msgid "Everything on, background capped at 60 fps"
+msgstr "Wszystko włączone, tło do 60 fps"
+
+#: src/components/cards/TaskInfo.tsx:28
+msgid "Extended"
+msgstr "Rozszerzenie"
+
+#: src/components/viewer/TaskBoard.tsx:118
+msgid "Figure from the original sheet"
+msgstr "Rysunek z oryginalnego arkusza"
+
+#: src/components/cards/cardInfo.tsx:21
+msgid "Foil: +50 Chips"
+msgstr "Folia: +50 Żetonów"
+
+#: src/components/game/OptionsPanel.tsx:110
+msgid "Fullscreen (F)"
+msgstr "Pełny ekran (F)"
+
+#: src/components/game/OptionsPanel.tsx:38
+msgid "Game"
+msgstr "Gra"
+
+#: src/components/game/GameOver.tsx:69
+msgid "GAME OVER"
+msgstr "KONIEC GRY"
+
+#: src/components/game/OptionsPanel.tsx:71
+msgid "Game speed"
+msgstr "Szybkość gry"
+
+#: src/components/game/OptionsPanel.tsx:92
+msgid "Graphics"
+msgstr "Grafika"
+
+#: src/screens/MainMenu.tsx:57
+msgid "Guest"
+msgstr "Gość"
+
+#: src/components/game/RunInfo.tsx:22
+#: src/components/game/Sidebar.tsx:255
+msgid "Hands"
+msgstr "Ręce"
+
+#: src/components/game/OptionsPanel.tsx:16
+msgid "High"
+msgstr "Wysoka"
+
+#: src/components/cards/cardInfo.tsx:22
+msgid "Holographic: +10 Mult"
+msgstr "Holografia: +10 Mnożnika"
+
+#: src/screens/MainMenu.tsx:53
+msgid "HOW TO"
+msgstr "JAK GRAĆ"
+
+#: src/components/game/Sidebar.tsx:125
+msgid "Improve your run!"
+msgstr "Ulepsz swoją grę!"
+
+#: src/components/cards/PackCard.tsx:24
+#: src/components/game/Sidebar.tsx:59
+msgid "Joker Pack"
+msgstr "Paczka jokerów"
+
+#: src/components/cards/PackCard.tsx:26
+msgid "JUMBO"
+msgstr "JUMBO"
+
+#: src/components/game/OptionsPanel.tsx:58
+#: src/screens/MainMenu.tsx:192
+msgid "Language"
+msgstr "Język"
+
+#: src/screens/MainMenu.tsx:265
+msgid "Leaderboard"
+msgstr "Ranking"
+
+#: src/screens/MainMenu.tsx:277
+msgid "Leaderboard needs Supabase (see README)."
+msgstr "Ranking wymaga Supabase (zobacz README)."
+
+#: src/screens/HowToPlay.tsx:107
+msgid "Let's go!"
+msgstr "Do dzieła!"
+
+#. placeholder {0}: hand.lvlChips
+#. placeholder {1}: hand.lvlMult
+#: src/components/cards/cardInfo.tsx:54
+msgid "Level up: [c:+{0}] Chips and [m:+{1}] Mult"
+msgstr "Poziom w górę: [c:+{0}] Żetonów i [m:+{1}] Mnożnika"
+
+#: src/components/viewer/TaskBoard.tsx:112
+#: src/screens/MainMenu.tsx:281
+msgid "Loading..."
+msgstr "Ładowanie..."
+
+#: src/screens/MainMenu.tsx:66
+msgid "Log in"
+msgstr "Zaloguj"
+
+#: src/components/game/GameOver.tsx:101
+msgid "Log in to appear on the leaderboard"
+msgstr "Zaloguj się, by trafić do rankingu"
+
+#: src/screens/MainMenu.tsx:66
+msgid "Log out"
+msgstr "Wyloguj"
+
+#: src/screens/AuthScreen.tsx:42
+msgid "Login"
+msgstr "Login"
+
+#: src/hooks/auth/useSignInWithPin.ts:18
+msgid "Login: 3-20 characters, lowercase letters, digits, - or _"
+msgstr "Login: 3-20 znaków, małe litery, cyfry, - lub _"
+
+#: src/components/game/OptionsPanel.tsx:14
+msgid "Low"
+msgstr "Niska"
+
+#: src/components/game/OptionsPanel.tsx:149
+msgid "Main menu"
+msgstr "Menu główne"
+
+#: src/components/game/GameOver.tsx:114
+msgid "Main Menu"
+msgstr "Menu główne"
+
+#: src/components/game/OptionsPanel.tsx:15
+msgid "Medium"
+msgstr "Średnia"
+
+#: src/components/cards/PackCard.tsx:26
+msgid "MEGA"
+msgstr "MEGA"
+
+#: src/components/game/GameOver.tsx:53
+msgid "Money earned"
+msgstr "Zarobione pieniądze"
+
+#: src/components/game/GameOver.tsx:48
+msgid "Most played hand"
+msgstr "Najczęstszy układ"
+
+#: src/components/game/OptionsPanel.tsx:128
+msgid "Music"
+msgstr "Muzyka"
+
+#: src/components/cards/cardInfo.tsx:24
+msgid "Negative: +1 Joker slot"
+msgstr "Negatyw: +1 miejsce na Jokera"
+
+#: src/screens/AuthScreen.tsx:72
+msgid "New login? We create the account automatically. Same login next time = your results."
+msgstr "Nowy login? Konto zakłada się samo. Ten sam login następnym razem = Twoje wyniki."
+
+#: src/components/game/GameOver.tsx:111
+#: src/screens/MainMenu.tsx:147
+msgid "New Run"
+msgstr "Nowa gra"
+
+#: src/components/game/Shop.tsx:39
+msgid "Next Round"
+msgstr "Następna runda"
+
+#: src/components/game/HandArea.tsx:150
+msgid "No answer"
+msgstr "Brak odpowiedzi"
+
+#: src/screens/MainMenu.tsx:287
+msgid "No runs yet. Be the first!"
+msgstr "Brak wyników. Bądź pierwszy!"
+
+#: src/components/game/RunInfo.tsx:145
+msgid "None yet"
+msgstr "Jeszcze żadnych"
+
+#: src/components/viewer/TaskViewer.tsx:276
+msgid "Not a number I can read"
+msgstr "Nie rozpoznaję tej liczby"
+
+#: src/components/game/RoundControls.tsx:46
+msgid "Notes"
+msgstr "Notatki"
+
+#: src/components/game/OptionsPanel.tsx:177
+msgid "Off"
+msgstr "Wył."
+
+#: src/components/game/OptionsPanel.tsx:177
+msgid "On"
+msgstr "Wł."
+
+#: src/screens/AuthScreen.tsx:77
+msgid "Online accounts are not configured (VITE_SUPABASE_URL). You can play as a guest."
+msgstr "Konta online nie są skonfigurowane (VITE_SUPABASE_URL). Możesz grać jako gość."
+
+#: src/components/game/PackOpen.tsx:84
+#: src/components/game/Shop.tsx:108
+msgid "Open"
+msgstr "Otwórz"
+
+#: src/components/game/Shop.tsx:252
+msgid "Open task"
+msgstr "Otwórz zadanie"
+
+#: src/components/game/OptionsPanel.tsx:33
+#: src/components/game/Sidebar.tsx:251
+msgid "Options"
+msgstr "Opcje"
+
+#: src/screens/MainMenu.tsx:47
+msgid "OPTIONS"
+msgstr "OPCJE"
+
+#: src/components/game/BlindSelect.tsx:87
+msgid "or"
+msgstr "lub"
+
+#: src/components/viewer/TaskViewer.tsx:138
+msgid "Pan"
+msgstr "Przesuwanie"
+
+#: src/screens/AuthScreen.tsx:56
+msgid "PIN or short password"
+msgstr "PIN lub krótkie hasło"
+
+#: src/hooks/auth/useSignInWithPin.ts:19
+msgid "PIN: at least 4 characters"
+msgstr "PIN: co najmniej 4 znaki"
+
+#: src/components/game/OptionsPanel.tsx:113
+msgid "Pixel cursor"
+msgstr "Pikselowy kursor"
+
+#: src/screens/MainMenu.tsx:44
+#: src/screens/MainMenu.tsx:228
+msgid "PLAY"
+msgstr "GRAJ"
+
+#: src/screens/AuthScreen.tsx:81
+msgid "Play as guest"
+msgstr "Graj jako gość"
+
+#: src/components/game/RoundControls.tsx:35
+msgid "Play Hand"
+msgstr "Zagraj rękę"
+
+#: src/screens/MainMenu.tsx:295
+msgid "Player"
+msgstr "Gracz"
+
+#: src/components/cards/cardInfo.tsx:23
+msgid "Polychrome: x1.5 Mult"
+msgstr "Polichromia: x1.5 Mnożnika"
+
+#: src/screens/MainMenu.tsx:213
+msgid "random"
+msgstr "losowy"
+
+#: src/screens/MainMenu.tsx:50
+msgid "RANKING"
+msgstr "RANKING"
+
+#: src/components/game/Shop.tsx:81
+msgid "Redeem"
+msgstr "Wykup"
+
+#: src/components/game/RunInfo.tsx:141
+msgid "Redeemed vouchers"
+msgstr "Wykupione bony"
+
+#: src/components/game/OptionsPanel.tsx:118
+msgid "Reduced motion"
+msgstr "Mniej ruchu"
+
+#. placeholder {0}: deck.length
+#: src/components/game/DeckView.tsx:27
+msgid "Remaining deck: {0}"
+msgstr "Pozostało w talii: {0}"
+
+#: src/components/viewer/TaskViewer.tsx:279
+msgid "Required to play this card. A wrong answer scores 0 chips."
+msgstr "Wymagana, by zagrać kartę. Błędna odpowiedź daje 0 Żetonów."
+
+#: src/components/game/Shop.tsx:49
+msgid "Reroll"
+msgstr "Losuj"
+
+#: src/components/game/GameOver.tsx:52
+msgid "Rerolls"
+msgstr "Losowania"
+
+#: src/hooks/runs/useSubmitRun.ts:14
+msgid "Result saved to the leaderboard"
+msgstr "Wynik zapisany w rankingu"
+
+#: src/components/viewer/TaskViewer.tsx:307
+msgid "Revealed value"
+msgstr "Ujawniona wartość"
+
+#: src/components/game/BlindSelect.tsx:76
+msgid "Reward:"
+msgstr "Nagroda:"
+
+#: src/components/game/Sidebar.tsx:274
+msgid "Round"
+msgstr "Runda"
+
+#: src/components/game/Sidebar.tsx:138
+msgid "Round score"
+msgstr "Wynik rundy"
+
+#: src/components/game/RunInfo.tsx:25
+msgid "Rules"
+msgstr "Zasady"
+
+#: src/components/game/Sidebar.tsx:247
+msgid "Run Info"
+msgstr "Info o grze"
+
+#: src/components/game/GameOver.tsx:98
+msgid "Saved to the leaderboard"
+msgstr "Zapisano w rankingu"
+
+#: src/components/game/GameOver.tsx:96
+msgid "Saving to leaderboard..."
+msgstr "Zapisuję w rankingu..."
+
+#: src/screens/MainMenu.tsx:301
+msgid "Score"
+msgstr "Wynik"
+
+#: src/components/game/BlindSelect.tsx:72
+#: src/components/game/Sidebar.tsx:95
+msgid "Score at least"
+msgstr "Zdobądź co najmniej"
+
+#: src/components/game/GameOver.tsx:54
+msgid "Seed"
+msgstr "Ziarno"
+
+#: src/screens/MainMenu.tsx:208
+msgid "Seed (optional)"
+msgstr "Ziarno (opcjonalnie)"
+
+#: src/components/game/BlindSelect.tsx:56
+#: src/components/game/HandArea.tsx:162
+msgid "Select"
+msgstr "Wybierz"
+
+#: src/components/viewer/TaskViewer.tsx:338
+msgid "Select for play"
+msgstr "Zaznacz do zagrania"
+
+#: src/components/game/ConsumableTray.tsx:75
+#: src/components/game/JokerTray.tsx:72
+msgid "Sell"
+msgstr "Sprzedaj"
+
+#: src/components/game/Sidebar.tsx:121
+msgid "SHOP"
+msgstr "SKLEP"
+
+#: src/App.tsx:43
+msgid "Shuffling the exam sheets..."
+msgstr "Tasuję arkusze maturalne..."
+
+#: src/screens/AuthScreen.tsx:36
+msgid "Sign in or create an account"
+msgstr "Zaloguj się lub załóż konto"
+
+#: src/components/game/PackOpen.tsx:39
+msgid "Skip"
+msgstr "Pomiń"
+
+#: src/components/game/BlindSelect.tsx:94
+msgid "Skip Blind"
+msgstr "Pomiń ciemną"
+
+#: src/components/game/BlindSelect.tsx:40
+#: src/components/game/GameOver.tsx:88
+#: src/components/game/Sidebar.tsx:81
+msgid "Small Blind"
+msgstr "Mała ciemna"
+
+#: src/components/game/RoundControls.tsx:39
+msgid "Sort Hand"
+msgstr "Sortuj rękę"
+
+#: src/components/game/OptionsPanel.tsx:133
+msgid "Sound effects"
+msgstr "Efekty dźwiękowe"
+
+#: src/screens/MainMenu.tsx:222
+msgid "Start a new run? The current run will be lost."
+msgstr "Zacząć nową grę? Obecna gra przepadnie."
+
+#: src/components/cards/cardInfo.tsx:87
+msgid "Tag"
+msgstr "Znacznik"
+
+#: src/components/game/PackOpen.tsx:76
+msgid "Take"
+msgstr "Weź"
+
+#: src/components/viewer/TaskViewer.tsx:363
+msgid "Take this card"
+msgstr "Weź tę kartę"
+
+#. placeholder {0}: task.task
+#. placeholder {1}: task.pts
+#: src/components/viewer/TaskBoard.tsx:104
+msgid "Task {0}. (0-{1})"
+msgstr "Zadanie {0}. (0-{1})"
+
+#: src/components/cards/PackCard.tsx:21
+#: src/components/game/Sidebar.tsx:56
+msgid "Task Pack"
+msgstr "Paczka zadań"
+
+#: src/components/cards/cardInfo.tsx:49
+msgid "Theorem"
+msgstr "Twierdzenie"
+
+#: src/components/cards/PackCard.tsx:23
+#: src/components/game/Sidebar.tsx:58
+msgid "Theorem Pack"
+msgstr "Paczka twierdzeń"
+
+#: src/components/game/HandArea.tsx:63
+msgid "This card is face down - play it to reveal it"
+msgstr "Ta karta jest zakryta - zagraj ją, by ją odsłonić"
+
+#: src/components/game/Sidebar.tsx:99
+msgid "to earn"
+msgstr "aby zarobić"
+
+#: src/components/game/GameOver.tsx:49
+msgid "Total score"
+msgstr "Łączny wynik"
+
+#: src/components/viewer/TaskViewer.tsx:176
+msgid "Undo"
+msgstr "Cofnij"
+
+#: src/components/game/BlindSelect.tsx:60
+msgid "Upcoming"
+msgstr "Nadchodzi"
+
+#: src/components/game/ConsumableTray.tsx:64
+#: src/components/game/PackOpen.tsx:76
+msgid "Use"
+msgstr "Użyj"
+
+#: src/components/viewer/TaskViewer.tsx:309
+msgid "Value range"
+msgstr "Przedział wartości"
+
+#: src/components/viewer/TaskViewer.tsx:311
+msgid "Value sign"
+msgstr "Znak wartości"
+
+#: src/components/game/OptionsPanel.tsx:39
+msgid "Video"
+msgstr "Obraz"
+
+#: src/components/cards/cardInfo.tsx:75
+msgid "Voucher"
+msgstr "Bon"
+
+#: src/components/cards/VoucherCard.tsx:23
+msgid "VOUCHER"
+msgstr "BON"
+
+#: src/components/game/RunInfo.tsx:28
+msgid "Vouchers & Boss"
+msgstr "Bony i Boss"
+
+#: src/hooks/auth/useSignInWithPin.ts:13
+msgid "Welcome back!"
+msgstr "Witaj ponownie!"
+
+#: src/hooks/auth/useSignInWithPin.ts:20
+msgid "Wrong PIN for this login"
+msgstr "Zły PIN dla tego loginu"
+
+#: src/components/game/GameOver.tsx:69
+msgid "YOU WIN!"
+msgstr "WYGRANA!"
+
+#: src/components/viewer/TaskViewer.tsx:250
+msgid "Your answer"
+msgstr "Twoja odpowiedź"
+
+#: src/components/viewer/TaskViewer.tsx:296
+msgid "Your answer was right ✓"
+msgstr "Twoja odpowiedź była poprawna ✓"
+
+#: src/components/viewer/TaskViewer.tsx:298
+msgid "Your answer was wrong ✗"
+msgstr "Twoja odpowiedź była błędna ✗"
+
+#: src/components/cards/TaskInfo.tsx:35
+msgid "Your note: {note}"
+msgstr "Twoja notatka: {note}"
+
+#: src/components/viewer/TaskViewer.tsx:189
+msgid "Zoom in"
+msgstr "Powiększ"
+
+#: src/components/viewer/TaskViewer.tsx:185
+msgid "Zoom out"
+msgstr "Pomniejsz"
+
+#: src/components/cards/TaskInfo.tsx:30
+msgid "Σ sum of numbers"
+msgstr "Σ suma liczb"

@@ -1,0 +1,240 @@
+{
+ "exam": {
+  "id": "f2015-R-2023-czerwiec",
+  "formula": "2015",
+  "level": "R",
+  "year": 2023,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "EMAP-R0-100-2306",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2023-czerwiec-matura-stara-rozszerzona.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2023-czerwiec-matura-stara-rozszerzona-odpowiedzi.pdf",
+  "examFile": "f2015-R-2023-czerwiec.pdf",
+  "keyFile": "f2015-R-2023-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "formula 2015 (technikum/absolwenci); termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 36,
+  "keyPages": 25,
+  "examBytes": 4165059,
+  "keyBytes": 506560
+ },
+ "keyHead": "Rodzaj dokumentu: Zasady oceniania rozwiązań\nzadań\nEgzamin maturalny\nEgzamin:\nMatematyka\nPrzedmiot:\nPoziom rozszerzony\nPoziom:\nFormy arkusza:\n2 czerwca 2023 r.\nTermin egzaminu:\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nZADANIA ZAMKNIĘTE\nZadanie 1. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD\nZadanie 2. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA\nZadanie 3. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA\nZadanie 4. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\nZasady oceniania rozwiązań zadań\nZADANIE OTWARTE (KODOWANE)\nZadanie 5. (0–2)\nZasady oceniania\n2 pkt – odpowiedź całkowicie poprawna.\n0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.\nRozwiązanie\n1\n3\n3\nZADANIA OTWARTE (NIEKODOWANE)\nUwagi ogólne:\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do\nuzyskania liczbą punktów za dane zadanie).\nZadanie 6. (0–3)\nZasady oceniania\n3 pkt – zastosowanie poprawnej metody i poprawny wynik:  𝑥0 = 2  oraz  𝑦= 17𝑥−16.\n2 pkt – obliczenie odciętej  𝑥0  punktu  𝑃  i wyznaczenie pochodnej funkcji  𝑓:  𝑥0 = 2  oraz\n𝑓′(𝑥) = 6𝑥2 −8𝑥+ 9.\n1 pkt – obliczenie odciętej  𝑥0  punktu  𝑃:  𝑥0 = 2\nALBO\n– wyznaczenie pochodnej funkcji  𝑓:  𝑓′(𝑥) = 6𝑥2 −8𝑥+ 9.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\nObliczamy odciętą  𝑥0  punktu  𝑃:\n3 −4𝑥0\n2 + 9𝑥0\n18 = 2𝑥0\n3 −4𝑥0\n2 + 9𝑥0 −18 = 0\n2𝑥0\n2(𝑥0 −2) + 9(𝑥0 −2) = 0\n2𝑥0\n2 + 9)(𝑥0 −2) = 0\n(2𝑥0\n2 + 9 = 0     lub     𝑥0 −2 = 0\n2𝑥0\n2 + 9 > 0  dla każdej liczby rzeczywistej  𝑥0, więc  𝑥0 = 2.\nPonieważ  2𝑥0\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nWyznaczamy pochodną funkcji  𝑓:\n𝑓′(𝑥) = 6𝑥2 −8𝑥+ 9\nWyznaczamy równanie kierunkowe stycznej do wykresu funkcji  𝑓  w punkcie  𝑃. Obliczamy\nwspółczynnik kierunkowy  𝑎  w równaniu stycznej:\n𝑎= 𝑓′(2) = 17\nObliczamy współczynnik  𝑏  w równaniu stycznej:\n18 = 17 ∙2 + 𝑏\n𝑏= −16\nStyczna ma równanie  𝑦= 17𝑥−16.\nZasady oceniania rozwiązań zadań\nZadanie 7. (0–3)\nZasady oceniania\n3 pkt – spełnienie kryterium oceniania za 2 punkty i uzasadnienie prawdziwości nierówności\n(𝑎−2)2(𝑎+4)\n≥0  lub  (𝑎−2)2(𝑎+ 4) ≥0, lub  𝑎(𝑎−2)2(𝑎+ 4) ≥0  z powołaniem\n𝑎\nsię na założenie (dla sposobu I)\nALBO\n– spełnienie kryterium oceniania za 2 punkty i przekształcenie nierówności\n𝑎2+8\n𝑎+8\n8\n8\n≥√𝑎2 ⋅\n3\ndo postaci tezy (dla sposobu II),\n𝑎\n𝑎⋅\n3\n𝑎\nALBO\n– spełnienie kryterium oceniania za 2 punkty oraz obliczenie  𝑓(2):  𝑓(2) = 12  (dla\nsposobu III).\n(𝑎−2)2(𝑎+4)\n2 pkt – przekształcenie nierówności  𝑎2 +\n16\n𝑎≥12  do postaci\n≥0  lub\n𝑎\n(𝑎−2)2(𝑎+ 4) ≥0, lub  𝑎(𝑎−2)2(𝑎+ 4) ≥0  (dla sposobu I)\nALBO\n– spełnienie kryterium oceniania za 1 punkt oraz zapisanie wielomianu  𝑎3 −12𝑎+ 16\nw postaci  (𝑎−2)2(𝑎+ 4)  (dla sposobu I),\nALBO\n8\n8\n– zapisanie, że dla każdego  𝑎> 0  liczby  𝑎2,\n𝑎 ,\n𝑎  są dodatnie oraz zapisanie\n8\n8\nnierówności między średnimi arytmetyczną i geometryczną liczb dodatnich  𝑎2,\n𝑎 ,\n𝑎 :\n𝑎2+8\n𝑎+8\n≥√𝑎2 ⋅\n3\n8\n8\n(dla sposobu II),\n𝑎\n𝑎⋅\n3\n𝑎\nALBO\n– obliczenie miejsca zerowego pochodnej funkcji  𝑓  oraz wyznaczenie w przedziale\n(0, +∞)  argumentu, dla którego funkcja osiąga w tym przedziale wartość\nnajmniejszą (wraz z uzasadnieniem):  𝑎= 2  (dla sposobu III).\n𝑎3−12𝑎+16\n1 pkt – przekształcenie nierówności  𝑎2 +\n16\n𝑎≥12  do postaci\n≥0  lub\n𝑎\n𝑎3 −12𝑎+ 16 ≥0, lub  𝑎(𝑎3 −12𝑎+ 16) ≥0  (dla sposobu I)\nALBO\n8\n8\n– zapisanie, że dla każdego  𝑎> 0  liczby  𝑎2,\n𝑎 ,\n𝑎  są dodatnie (dla sposobu II),\nALBO\n– obliczenie pochodnej funkcji  𝑓  określonej wzorem  𝑓(𝑎) = 𝑎2 +\n16\n𝑎  dla  𝑎> 0  (lub\n16\nw szerszym zakresie), np.  𝑓′(𝑎) = 2𝑎−\n𝑎2  (dla sposobu III).\n0 pkt – rozwiązanie, w którym zastosowano nieprawidłową metodę, albo brak rozwiązania.\nUwaga:\nJeśli zdający opiera swoje rozwiązanie na nierówności między średnimi (sposób III) i stosuje\n8\n8\nnierówność między średnimi liczb  𝑎2,\n𝑎 ,\n𝑎  bez zapisania, że liczby te są dodatnie, to może\notrzymać co najwyżej 2 punkty za całe rozwiązanie.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nPrzykładowe pełne rozwiązania\nSposób I\nPrzekształcamy nierówność  𝑎2 +\n16\n𝑎≥12:\n𝑎3\n𝑎+ 16\n𝑎−12𝑎\n≥0\n𝑎\n𝑎3 −12𝑎+ 16\n≥0\n𝑎\n𝑎(𝑎3 −12𝑎+ 16) ≥0     i     𝑎≠0\nZauważamy, że pierwiastkiem wielomianu  𝑊(𝑎) = 𝑎3 −12𝑎+ 16  jest liczba  2. Stąd\n𝑊(𝑎) = (𝑎−2)(𝑎2 + 2𝑎−8). Ponieważ pierwiastkami trójmianu kwadratowego\n𝑎2 + 2𝑎−8  są liczby  2  i  (−4), więc  𝑊(𝑎) = (𝑎−2)2(𝑎+ 4). Zatem nierówność\n𝑎(𝑎3 −12𝑎+ 16) ≥0  można równoważnie zapisać w postaci\n𝑎(𝑎−2)2(𝑎+ 4) ≥0\nDla każdej liczby dodatniej  𝑎  wyrażenie  (𝑎−2)2  jest liczbą nieujemną, natomiast\nwyrażenie  (𝑎+ 4)  jest liczbą dodatnią. Zatem dla każdej liczby dodatniej  𝑎  wyrażenie\n𝑎(𝑎−2)2(𝑎+ 4)  jest nieujemne jako iloczyn liczb nieujemnych. Oznacza to, że nierówność\n𝑎2 +\n16\n𝑎≥12  jest prawdziwa dla każdej liczby dodatniej  𝑎. To należało wykazać.\nInna realizacja rozkładu wielomianu  𝑎3 −12𝑎+ 16  na czynniki:\n𝑎3 −12𝑎+ 16 = 𝑎3 −16𝑎+ 4𝑎+ 16 = 𝑎(𝑎2 −16) + 4(𝑎+ 4) =\n= 𝑎(𝑎−4)(𝑎+ 4) + 4(𝑎+ 4) = (𝑎+ 4)[𝑎(𝑎−4) + 4] =\n= (𝑎+ 4)(𝑎2 −4𝑎+ 4) = (𝑎+ 4)(𝑎−2)2\nSposób II\n8\n8\nDla każdego  𝑎> 0  liczby  𝑎2,\n𝑎 ,\n𝑎  są dodatnie. Korzystamy z nierówności między\n8\n8\nśrednimi arytmetyczną i geometryczną liczb  𝑎2,\n𝑎 ,\n𝑎  i otrzymujemy:\n𝑎2 +\n8\n8\n𝑎+\n≥√𝑎2 ⋅8\n𝑎⋅8\n3\n𝑎\n3\n𝑎\n𝑎2 +\n16\n𝑎\n3\n≥√64\n3\n𝑎2 + 16\n𝑎≥12\nTo należało wykazać.\nZasady oceniania rozwiązań zadań\nSposób III\nNiech  𝑓  będzie funkcją określoną wzorem  𝑓(𝑎) = 𝑎2 +\n16\n𝑎  dla każdej liczby rzeczywistej\n𝑎> 0.\nObliczamy pochodną funkcji  𝑓:\n𝑎2 = 2𝑎3 −16\n𝑓′(𝑎) = 2𝑎−16\n𝑎2\nObliczamy miejsca zerowe pochodnej funkcji  𝑓:\n2𝑎3 −16\n= 0\n𝑎2\n2𝑎3 −16 = 0\n𝑎= 2\nPonieważ  𝑓′(𝑎) > 0  dla  𝑎∈(2, +∞)  oraz  𝑓′(𝑎) < 0  dla  𝑎∈(0, 2), więc funkcja  𝑓\njest malejąca w przedziale  (0, 2⟩  oraz jest rosnąca w przedziale  ⟨2, +∞).\nZatem dla argumentu  𝑎= 2  funkcja przyjmuje wartość najmniejszą równą\n𝑓(2) = 22 +\n16\n2 = 12. Stąd  𝑓(𝑎) ≥12  dla każdej liczby dodatniej  𝑎.\nTo oznacza, że nierówność  𝑎2 +\n16\n𝑎≥12  jest prawdziwa dla każdego  𝑎> 0.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nZadanie 8. (0–3)\nZasady oceniania\n3 pkt – spełnienie kryterium oceniania za 2 punkty oraz uzasadnienie, że  |𝐴𝐶| = |𝐵𝐶|.\n2 pkt – wyznaczenie długości odcinków  𝐴𝑃, 𝐴𝑄, 𝐵𝐷, 𝐶𝐷, 𝐶𝑄  w zależności od tej samej\nzmiennej, np.  |𝐴𝑃| = 5𝑥, |𝐴𝑄| = 5𝑥, |𝐵𝐷| = 𝑥, |𝐶𝐷| = 2𝑥, |𝐶𝑄| = 2𝑥.\n1 pkt – zapisanie równości wynikającej z twierdzenia o odcinkach stycznych:  |𝐵𝐷| = |𝐵𝑃|\n(lub  |𝐴𝑃| = |𝐴𝑄|, lub  |𝐶𝑄| = |𝐶𝐷|).\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\nNiech  |𝐵𝑃| = 𝑥.\nZ twierdzenia o odcinkach stycznych wnioskujemy, że  |𝐵𝐷| = |𝐵𝑃| = 𝑥.\nZ założenia  |𝐶𝐷| = 2 ∙|𝐵𝐷|  otrzymujemy  |𝐶𝐷| = 2𝑥. Z twierdzenia o odcinkach stycznych\nwnioskujemy, że  |𝐶𝑄| = |𝐶𝐷| = 2𝑥  (zobacz rysunek).\n𝑄\nokrąg  𝒪\n2𝑥\n𝐶\n2𝑥\n𝐷\n𝑥\n𝐴\n𝐵\n𝑥\n𝑃\nPonieważ  |𝐴𝑄| = 5 ∙|𝐵𝑃|, więc  |𝐴𝑄| = 5𝑥. Ponownie z twierdzenia o odcinkach stycznych\nwnioskujemy, że  |𝐴𝑃| = |𝐴𝑄| = 5𝑥.\nZatem  |𝐴𝐶| = |𝐴𝑄| −|𝐶𝑄| = 5𝑥−2𝑥= 3𝑥  oraz  |𝐵𝐶| = |𝐵𝐷| + |𝐶𝐷| = 𝑥+ 2𝑥= 3𝑥.\nWobec tego  |𝐴𝐶| = |𝐵𝐶|, więc trójkąt  𝐴𝐵𝐶  jest równoramienny. To należało wykazać.\nZasady oceniania rozwiązań zadań\nZadanie 9. (0–4)\nZasady oceniania\n4 pkt – poprawne wyznaczenie wszystkich wartości zmiennej  𝑥, dla których suma szeregu\nistnieje  (𝑥∈(−∞, −2) ∪(4, +∞) ) oraz poprawne wyznaczenie wszystkich wartości\n15\nzmiennej  𝑥, dla których suma jest równa\n2 :  𝑥= 6.\n3 pkt – wyznaczenie ",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2023-czerwiec/1.webp",
+   "size": [
+    950,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nWartość wyrażenia  log√2 3 ∙log√3 2  jest równa\nA.  1\nB.  32\nC.  23\n4\nD.  4",
+   "key": "Zadanie 1. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nD"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2023-czerwiec/2.webp",
+   "size": [
+    950,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\nDany jest trójkąt o bokach długości  4, 5  oraz  6. Cosinus największego kąta wewnętrznego\ntego trójkąta jest równy\nA.  1\nB.  9\nC.  3\nD.  (−3\n8\n16\n4\n4)",
+   "key": "Zadanie 2. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2023-czerwiec/3.webp",
+   "size": [
+    950,
+    174
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nReszta z dzielenia wielomianu  𝑊(𝑥) = 5𝑥3 −3𝑥2 + 2𝑥−7  przez dwumian  𝑥+ 2  jest\nrówna\nA.  (−63)\nB.  (−39)\nC.  25\nD.  41",
+   "key": "Zadanie 3. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nA"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2023-czerwiec/4.webp",
+   "size": [
+    1061,
+    1791
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nFunkcja  𝑓  jest określona dla każdej liczby rzeczywistej  𝑥. Fragment wykresu funkcji  𝑓\nprzedstawiono na rysunku 1.\n𝑦\n5\n4\n3\n𝑦= 𝑓(𝑥)\n2\nRysunek 1.\n1\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−1\n−2\n−3\n−4\nFunkcja  𝑔  jest określona wzorem  𝑔(𝑥) = 𝑓(1\n2 𝑥)  dla każdej liczby rzeczywistej  𝑥.\nNa jednym z rysunków A–D przedstawiono fragment wykresu funkcji  𝑔.\nFragment wykresu funkcji  𝑔  przedstawia\nA.\nRysunek A.\nB.\nRysunek B.\n𝑦\n𝑦\n5\n5\n4\n4\n𝑦= 𝑔(𝑥)\n3\n3\n𝑦= 𝑔(𝑥)\n2\n2\n1\n1\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−1\n−1\n−2\n−2\n−3\n−3\n−4\n−4\nC.\nD.\nRysunek C.\nRysunek D.\n𝑦\n𝑦\n5\n5\n4\n4\n3\n3\n𝑦= 𝑔(𝑥)\n𝑦= 𝑔(𝑥)\n2\n2\n1\n1\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−6\n−5\n−4\n−3\n−2\n−1\n0\n1\n2\n3\n4\n5\n𝑥\n−1\n−1\n−2\n−2\n−3\n−3\n−4\n−4",
+   "key": "Zadanie 4. (0–1)\nZasady oceniania\n1 pkt – odpowiedź poprawna.\n0 pkt – odpowiedź niepoprawna albo brak odpowiedzi.\nRozwiązanie\nC\nZasady oceniania rozwiązań zadań\nZADANIE OTWARTE (KODOWANE)"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2023-czerwiec/5.webp",
+   "size": [
+    919,
+    334
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–2)\nOblicz granicę\n4𝑛3 −2𝑛+ 1\n𝑛→∞\nlim\n3𝑛3 −𝑛2 −2𝑛+ 3\nW poniższe kratki wpisz kolejno – od lewej do prawej – pierwszą, drugą oraz trzecią cyfrę\nnieskończonego rozwinięcia dziesiętnego otrzymanego wyniku.",
+   "key": "Zadanie 5. (0–2)\nZasady oceniania\n2 pkt – odpowiedź całkowicie poprawna.\n0 pkt – odpowiedź niepełna lub niepoprawna albo brak odpowiedzi.\nRozwiązanie\n1\n3\n3\nZADANIA OTWARTE (NIEKODOWANE)\nUwagi ogólne:\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do\nuzyskania liczbą punktów za dane zadanie)."
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2023-czerwiec/6.webp",
+   "size": [
+    919,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–3)\nFunkcja  𝑓  jest określona wzorem  𝑓(𝑥) = 2𝑥3 −4𝑥2 + 9𝑥  dla każdego  𝑥∈ℝ.\nPunkt  𝑃= (𝑥0 , 18)  należy do wykresu funkcji  𝑓.\nOblicz  𝑥0  oraz wyznacz równanie stycznej do wykresu funkcji  𝑓  w punkcie  𝑃.",
+   "key": "Zadanie 6. (0–3)\nZasady oceniania\n3 pkt – zastosowanie poprawnej metody i poprawny wynik:  𝑥0 = 2  oraz  𝑦= 17𝑥−16.\n2 pkt – obliczenie odciętej  𝑥0  punktu  𝑃  i wyznaczenie pochodnej funkcji  𝑓:  𝑥0 = 2  oraz\n𝑓′(𝑥) = 6𝑥2 −8𝑥+ 9.\n1 pkt – obliczenie odciętej  𝑥0  punktu  𝑃:  𝑥0 = 2\nALBO\n– wyznaczenie pochodnej funkcji  𝑓:  𝑓′(𝑥) = 6𝑥2 −8𝑥+ 9.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\nObliczamy odciętą  𝑥0  punktu  𝑃:\n3 −4𝑥0\n2 + 9𝑥0\n18 = 2𝑥0\n3 −4𝑥0\n2 + 9𝑥0 −18 = 0\n2𝑥0\n2(𝑥0 −2) + 9(𝑥0 −2) = 0\n2𝑥0\n2 + 9)(𝑥0 −2) = 0\n(2𝑥0\n2 + 9 = 0     lub     𝑥0 −2 = 0\n2𝑥0\n2 + 9 > 0  dla każdej liczby rzeczywistej  𝑥0, więc  𝑥0 = 2.\nPonieważ  2𝑥0\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nWyznaczamy pochodną funkcji  𝑓:\n𝑓′(𝑥) = 6𝑥2 −8𝑥+ 9\nWyznaczamy równanie kierunkowe stycznej do wykresu funkcji  𝑓  w punkcie  𝑃. Obliczamy\nwspółczynnik kierunkowy  𝑎  w równaniu stycznej:\n𝑎= 𝑓′(2) = 17\nObliczamy współczynnik  𝑏  w równaniu stycznej:\n18 = 17 ∙2 + 𝑏\n𝑏= −16\nStyczna ma równanie  𝑦= 17𝑥−16.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2023-czerwiec/7.webp",
+   "size": [
+    919,
+    158
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–3)\nWykaż, że dla każdej liczby rzeczywistej dodatniej  𝑎  prawdziwa jest nierówność\n𝑎2 + 16\n𝑎≥12",
+   "key": "Zadanie 7. (0–3)\nZasady oceniania\n3 pkt – spełnienie kryterium oceniania za 2 punkty i uzasadnienie prawdziwości nierówności\n(𝑎−2)2(𝑎+4)\n≥0  lub  (𝑎−2)2(𝑎+ 4) ≥0, lub  𝑎(𝑎−2)2(𝑎+ 4) ≥0  z powołaniem\n𝑎\nsię na założenie (dla sposobu I)\nALBO\n– spełnienie kryterium oceniania za 2 punkty i przekształcenie nierówności\n𝑎2+8\n𝑎+8\n8\n8\n≥√𝑎2 ⋅\n3\ndo postaci tezy (dla sposobu II),\n𝑎\n𝑎⋅\n3\n𝑎\nALBO\n– spełnienie kryterium oceniania za 2 punkty oraz obliczenie  𝑓(2):  𝑓(2) = 12  (dla\nsposobu III).\n(𝑎−2)2(𝑎+4)\n2 pkt – przekształcenie nierówności  𝑎2 +\n16\n𝑎≥12  do postaci\n≥0  lub\n𝑎\n(𝑎−2)2(𝑎+ 4) ≥0, lub  𝑎(𝑎−2)2(𝑎+ 4) ≥0  (dla sposobu I)\nALBO\n– spełnienie kryterium oceniania za 1 punkt oraz zapisanie wielomianu  𝑎3 −12𝑎+ 16\nw postaci  (𝑎−2)2(𝑎+ 4)  (dla sposobu I),\nALBO\n8\n8\n– zapisanie, że dla każdego  𝑎> 0  liczby  𝑎2,\n𝑎 ,\n𝑎  są dodatnie oraz zapisanie\n8\n8\nnierówności między średnimi arytmetyczną i geometryczną liczb dodatnich  𝑎2,\n𝑎 ,\n𝑎 :\n𝑎2+8\n𝑎+8\n≥√𝑎2 ⋅\n3\n8\n8\n(dla sposobu II),\n𝑎\n𝑎⋅\n3\n𝑎\nALBO\n– obliczenie miejsca zerowego pochodnej funkcji  𝑓  oraz wyznaczenie w przedziale\n(0, +∞)  argumentu, dla którego funkcja osiąga w tym przedziale wartość\nnajmniejszą (wraz z uzasadnieniem):  𝑎= 2  (dla sposobu III).\n𝑎3−12𝑎+16\n1 pkt – przekształcenie nierówności  𝑎2 +\n16\n𝑎≥12  do postaci\n≥0  lub\n𝑎\n𝑎3 −12𝑎+ 16 ≥0, lub  𝑎(𝑎3 −12𝑎+ 16) ≥0  (dla sposobu I)\nALBO\n8\n8\n– zapisanie, że dla każdego  𝑎> 0  liczby  𝑎2,\n𝑎 ,\n𝑎  są dodatnie (dla sposobu II),\nALBO\n– obliczenie pochodnej funkcji  𝑓  określonej wzorem  𝑓(𝑎) = 𝑎2 +\n16\n𝑎  dla  𝑎> 0  (lub\n16\nw szerszym zakresie), np.  𝑓′(𝑎) = 2𝑎−\n𝑎2  (dla sposobu III).\n0 pkt – rozwiązanie, w którym zastosowano nieprawidłową metodę, albo brak rozwiązania.\nUwaga:\nJeśli zdający opiera swoje rozwiązanie na nierówności między średnimi (sposób III) i stosuje\n8\n8\nnierówność między średnimi liczb  𝑎2,\n𝑎 ,\n𝑎  bez zapisania, że liczby te są dodatnie, to może\notrzymać co najwyżej 2 punkty za całe rozwiązanie.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nPrzykładowe pełne rozwiązania\nSposób I\nPrzekształcamy nierówność  𝑎2 +\n16\n𝑎≥12:\n𝑎3\n𝑎+ 16\n𝑎−12𝑎\n≥0\n𝑎\n𝑎3 −12𝑎+ 16\n≥0\n𝑎\n𝑎(𝑎3 −12𝑎+ 16) ≥0     i     𝑎≠0\nZauważamy, że pierwiastkiem wielomianu  𝑊(𝑎) = 𝑎3 −12𝑎+ 16  jest liczba  2. Stąd\n𝑊(𝑎) = (𝑎−2)(𝑎2 + 2𝑎−8). Ponieważ pierwiastkami trójmianu kwadratowego\n𝑎2 + 2𝑎−8  są liczby  2  i  (−4), więc  𝑊(𝑎) = (𝑎−2)2(𝑎+ 4). Zatem nierówność\n𝑎(𝑎3 −12𝑎+ 16) ≥0  można równoważnie zapisać w postaci\n𝑎(𝑎−2)2(𝑎+ 4) ≥0\nDla każdej liczby dodatniej  𝑎  wyrażenie  (𝑎−2)2  jest liczbą nieujemną, natomiast\nwyrażenie  (𝑎+ 4)  jest liczbą dodatnią. Zatem dla każdej liczby dodatniej  𝑎  wyrażenie\n𝑎(𝑎−2)2(𝑎+ 4)  jest nieujemne jako iloczyn liczb nieujemnych. Oznacza to, że nierówność\n𝑎2 +\n16\n𝑎≥12  jest prawdziwa dla każdej liczby dodatniej  𝑎. To należało wykazać.\nInna realizacja rozkładu wielomianu  𝑎3 −12𝑎+ 16  na czynniki:\n𝑎3 −12𝑎+ 16 = 𝑎3 −16𝑎+ 4𝑎+ 16 = 𝑎(𝑎2 −16) + 4(𝑎+ 4) =\n= 𝑎(𝑎−4)(𝑎+ 4) + 4(𝑎+ 4) = (𝑎+ 4)[𝑎(𝑎−4) + 4] =\n= (𝑎+ 4)(𝑎2 −4𝑎+ 4) = (𝑎+ 4)(𝑎−2)2\nSposób II\n8\n8\nDla każdego  𝑎> 0  liczby  𝑎2,\n𝑎 ,\n𝑎  są dodatnie. Korzystamy z nierówności między\n8\n8\nśrednimi arytmetyczną i geometryczną liczb  𝑎2,\n𝑎 ,\n𝑎  i otrzymujemy:\n𝑎2 +\n8\n8\n𝑎+\n≥√𝑎2 ⋅8\n𝑎⋅8\n3\n𝑎\n3\n𝑎\n𝑎2 +\n16\n𝑎\n3\n≥√64\n3\n𝑎2 + 16\n𝑎≥12\nTo należało wykazać.\nZasady oceniania rozwiązań zadań\nSposób III\nNiech  𝑓  będzie funkcją określoną wzorem  𝑓(𝑎) = 𝑎2 +\n16\n𝑎  dla każdej liczby rzeczywistej\n𝑎> 0.\nObliczamy pochodną funkcji  𝑓:\n𝑎2 = 2𝑎3 −16\n𝑓′(𝑎) = 2𝑎−16\n𝑎2\nObliczamy miejsca zerowe pochodnej funkcji  𝑓:\n2𝑎3 −16\n= 0\n𝑎2\n2𝑎3 −16 = 0\n𝑎= 2\nPonieważ  𝑓′(𝑎) > 0  dla  𝑎∈(2, +∞)  oraz  𝑓′(𝑎) < 0  dla  𝑎∈(0, 2), więc funkcja  𝑓\njest malejąca w przedziale  (0, 2⟩  oraz jest rosnąca w przedziale  ⟨2, +∞).\nZatem dla argumentu  𝑎= 2  funkcja przyjmuje wartość najmniejszą równą\n𝑓(2) = 22 +\n16\n2 = 12. Stąd  𝑓(𝑎) ≥12  dla każdej liczby dodatniej  𝑎.\nTo oznacza, że nierówność  𝑎2 +\n16\n𝑎≥12  jest prawdziwa dla każdego  𝑎> 0.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r."
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2023-czerwiec/8.webp",
+   "size": [
+    944,
+    562
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–3)\nDany jest okrąg  𝒪. Przez punkt  𝐴  poprowadzono dwie proste, które są styczne do tego\nokręgu w punktach – odpowiednio –  𝑃  oraz  𝑄. Przez punkt  𝐵  leżący na odcinku  𝐴𝑃\npoprowadzono styczną do tego okręgu w punkcie  𝐷, która przecięła odcinek  𝐴𝑄\nw punkcie  𝐶  (zobacz rysunek).\n𝑄\nokrąg  𝒪\n𝐶\n𝐷\n𝐴\n𝐵\n𝑃\nWykaż, że jeżeli  |𝐴𝑄| = 5 ∙|𝐵𝑃|  oraz  |𝐶𝐷| = 2 ∙|𝐵𝐷|, to trójkąt  𝐴𝐵𝐶  jest równoramienny.",
+   "key": "Zadanie 8. (0–3)\nZasady oceniania\n3 pkt – spełnienie kryterium oceniania za 2 punkty oraz uzasadnienie, że  |𝐴𝐶| = |𝐵𝐶|.\n2 pkt – wyznaczenie długości odcinków  𝐴𝑃, 𝐴𝑄, 𝐵𝐷, 𝐶𝐷, 𝐶𝑄  w zależności od tej samej\nzmiennej, np.  |𝐴𝑃| = 5𝑥, |𝐴𝑄| = 5𝑥, |𝐵𝐷| = 𝑥, |𝐶𝐷| = 2𝑥, |𝐶𝑄| = 2𝑥.\n1 pkt – zapisanie równości wynikającej z twierdzenia o odcinkach stycznych:  |𝐵𝐷| = |𝐵𝑃|\n(lub  |𝐴𝑃| = |𝐴𝑄|, lub  |𝐶𝑄| = |𝐶𝐷|).\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\nNiech  |𝐵𝑃| = 𝑥.\nZ twierdzenia o odcinkach stycznych wnioskujemy, że  |𝐵𝐷| = |𝐵𝑃| = 𝑥.\nZ założenia  |𝐶𝐷| = 2 ∙|𝐵𝐷|  otrzymujemy  |𝐶𝐷| = 2𝑥. Z twierdzenia o odcinkach stycznych\nwnioskujemy, że  |𝐶𝑄| = |𝐶𝐷| = 2𝑥  (zobacz rysunek).\n𝑄\nokrąg  𝒪\n2𝑥\n𝐶\n2𝑥\n𝐷\n𝑥\n𝐴\n𝐵\n𝑥\n𝑃\nPonieważ  |𝐴𝑄| = 5 ∙|𝐵𝑃|, więc  |𝐴𝑄| = 5𝑥. Ponownie z twierdzenia o odcinkach stycznych\nwnioskujemy, że  |𝐴𝑃| = |𝐴𝑄| = 5𝑥.\nZatem  |𝐴𝐶| = |𝐴𝑄| −|𝐶𝑄| = 5𝑥−2𝑥= 3𝑥  oraz  |𝐵𝐶| = |𝐵𝐷| + |𝐶𝐷| = 𝑥+ 2𝑥= 3𝑥.\nWobec tego  |𝐴𝐶| = |𝐵𝐶|, więc trójkąt  𝐴𝐵𝐶  jest równoramienny. To należało wykazać.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2023-czerwiec/9.webp",
+   "size": [
+    919,
+    252
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–4)\nDany jest nieskończony szereg geometryczny\n6𝑥\n18𝑥\n54𝑥\n2𝑥−\n𝑥−1 +\n(𝑥−1)2 −\n(𝑥−1)3 + …\nWyznacz wszystkie wartości zmiennej  𝑥  (różnej od  0  i  od  1), dla których suma tego\nszeregu istnieje i jest równa  15\n2 .",
+   "key": "Zadanie 9. (0–4)\nZasady oceniania\n4 pkt – poprawne wyznaczenie wszystkich wartości zmiennej  𝑥, dla których suma szeregu\nistnieje  (𝑥∈(−∞, −2) ∪(4, +∞) ) oraz poprawne wyznaczenie wszystkich wartości\n15\nzmiennej  𝑥, dla których suma jest równa\n2 :  𝑥= 6.\n3 pkt – wyznaczenie zbioru wszystkich wartości  𝑥, dla których istnieje skończona suma\nszeregu ( 𝑥∈(−∞, −2) ∪(4, +∞) ) oraz zastosowanie wzoru na sumę szeregu\ngeometrycznego, wyznaczenie tej sumy i zapisanie równania z niewiadomą  𝑥:\n2𝑥\n15\n2\n𝑥−1) =\n1−(−3\nALBO\n– zapisanie warunku zbieżności szeregu (|𝑞| < 1) oraz zastosowanie wzoru na sumę\nszeregu geometrycznego, wyznaczenie tej sumy, zapisanie równania z niewiadomą\n2𝑥\n15\n5\n𝑥  (\n2 ) i rozwiązanie tego równania:  𝑥= −\n4 , 𝑥= 6.\n𝑥−1) =\n1−(−3\n2 pkt – wyznaczenie zbioru wszystkich wartości  𝑥, dla których istnieje skończona suma\nszeregu:  𝑥∈(−∞, −2) ∪(4, +∞)\nALBO\n– zapisanie warunku zbieżności szeregu  (|𝑞| < 1)  oraz zastosowanie wzoru na sumę\nszeregu geometrycznego, wyznaczenie tej sumy i zapisanie równania z niewiadomą\n𝑥:\n2𝑥\n= 15\n2\n3\n1 −(−\n𝑥−1)\n3\n1 pkt – zapisanie ilorazu:  𝑞= −\n𝑥−1 .\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n5\n1. Jeśli zdający rozwiąże odpowiednie równanie i zapisze:  𝑥= −\n4  ∨  𝑥= 6, a następnie\nobliczy iloraz szeregu dla każdej z wyznaczonych wartości zmiennych i na tej podstawie\ndokona właściwego wyboru rozwiązania, to otrzymuje 4 punkty.\n2. Jeśli zdający rozwiąże zadanie bez rozważenia warunku  |𝑞| < 1, to może otrzymać\nmaksymalnie 2 punkty.\n3\n3. Jeśli zdający zapisze poprawny warunek zbieżności szeregu:  |−\n𝑥−1| < 1, ale popełni błąd\nprzy wyznaczaniu przedziału zbieżności i konsekwentnie rozwiąże zadanie do końca, to\nmoże otrzymać 3 punkty.\n4. Jeżeli zdający popełni błąd przy wyznaczaniu ilorazu ciągu, który będzie wyrażeniem\n3𝑥\nwymiernym zmiennej  𝑥, np. zapisze, że  𝑞= −\n𝑥−1 , i konsekwentnie rozwiąże zadanie do\nkońca, to może otrzymać maksymalnie 2 punkty.\n5. Jeśli zdający zapisze dany szereg jako sumę dwóch szeregów postaci\n18𝑥\n172𝑥\n6𝑥\n54𝑥\n516𝑥\n(𝑥−1)4 + …   oraz  −\n(𝑥−1)5 − …  bez odpowiedniego komentarza\n2𝑥+\n(𝑥−1)2 +\n𝑥−1 −\n(𝑥−1)3 −\ni rozwiąże zadanie konsekwentnie do końca, obliczając sumę dwóch szeregów, to może\notrzymać maksymalnie 3 punkty.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nPrzykładowe pełne rozwiązanie\nPierwszy wyraz i iloraz tego szeregu są równe, odpowiednio,  𝑎1 = 2𝑥  oraz\n3\n𝑥−1 . Ponieważ  𝑥≠1  i  𝑥≠0, to szereg ten jest zbieżny wtedy i tylko wtedy, gdy\n𝑞= −\n3\n𝑥−1| < 1, czyli  |𝑥−1| > 3. Stąd  𝑥∈(−∞, −2) ∪(4, +∞).\n|−\nWtedy suma  𝑆  tego szeregu jest skończona i równa\n𝑎1\n2𝑥\n= 2𝑥(𝑥−1)\n𝑆=\n1 −𝑞=\n3\n𝑥+ 2\n1 −(−\n𝑥−1)\n2𝑥(𝑥−1)\n15\nRozwiązujemy równanie\n2   w zbiorze (−∞, −2) ∪(4, +∞):\n=\n𝑥+2\n2𝑥(𝑥−1)\n= 15\n2\n𝑥+ 2\n4𝑥(𝑥−1) = 15(𝑥+ 2)\n4𝑥2 −19𝑥−30 = 0\n𝑥= −5\n4 ∉(−∞, −2) ∪(4, +∞)      lub      𝑥= 6 ∈(−∞, −2) ∪(4, +∞)\nZatem  𝑥= 6.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2023-czerwiec/10.webp",
+   "size": [
+    919,
+    189
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–4)\nRozwiąż równanie\nsin(5𝑥) + cos 𝑥= 0\nw zbiorze  ⟨−𝜋\n2 , 𝜋\n2⟩.",
+   "key": "Zadanie 10. (0–4)\nZasady oceniania\n𝜋\n3𝜋\n5𝜋\n𝜋\n𝜋\n4 pkt – poprawne metoda rozwiązania równania i poprawny wynik:  −\n4 .\n8,\n8 , −\n12 , −\n12,\n𝜋\n𝜋\n3 pkt – rozwiązanie równania  sin(5𝑥) = sin (𝑥−\n2)  (lub równania  cos 𝑥= cos (5𝑥+\n2) )\n𝜋\n𝑘𝜋\n𝜋\n𝑘𝜋\nw zbiorze liczb rzeczywistych:  𝑥= −\n2  lub  𝑥=\n3 , gdzie  𝑘∈ℤ\n8 +\n4 +\nALBO\n– przekształcenie równania do alternatywy elementarnych równań trygonometrycznych\n𝜋\n𝜋\ni rozwiązanie jednego z tych równań w zbiorze  〈−\n2〉,\n2 ,\nALBO\n– przekształcenie równania do alternatywy elementarnych równań trygonometrycznych\ni rozwiązanie wszystkich równań tej alternatywy w zbiorze  ℝ.\n2 pkt – równoważne przekształcenie równania do postaci, która jest równością sinusów lub\n𝜋\n𝜋\ncosinusów, np.  sin(5𝑥) = sin (𝑥−\n2),  cos𝑥= cos (5𝑥+\n2)\nALBO\n– zastosowanie wzoru na sumę sinusów lub na sumę cosinusów i przekształcenie\nrównania do postaci alternatywy elementarnych równań trygonometrycznych, np.\n𝜋\n𝜋\n𝜋\n𝜋\n4) = 0  lub  cos(3𝑥−\n4) = 0,  cos(\n4 −2𝑥) = 0  lub  cos(\n4 −3𝑥) = 0.\nsin(2𝑥+\n1 pkt – zastosowanie wzoru redukcyjnego i przekształcenie równania do postaci, w której\n𝜋\nwystępuje tylko jedna funkcja trygonometryczna, np.  sin(5𝑥) + sin (\n2 −𝑥) = 0,\n𝜋\n2 −5𝑥) + cos 𝑥= 0.\ncos (\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązania\nSposób I (równość sinusów)\nZapisujemy równanie w postaci równoważnej, w której występuje tylko jedna funkcja\ntrygonometryczna zmiennej  𝑥:\nsin(5𝑥) + cos 𝑥= 0\nsin(5𝑥) + sin (𝜋\n2 −𝑥) = 0\nsin(5𝑥) = −sin (𝜋\n2 −𝑥)\nPonieważ funkcja sinus jest nieparzysta, więc\nsin(5𝑥) = sin (𝑥−𝜋\n2)\nStąd\n5𝑥= 𝑥−𝜋\n2 + 2𝑘𝜋    lub    5𝑥= 𝜋−(𝑥−𝜋\n2) + 2𝑘𝜋\n𝑥= −𝜋\n8 + 𝑘𝜋\n2    lub    𝑥= 𝜋\n4 + 𝑘𝜋\n3\ngdzie  𝑘∈ℤ.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\n𝜋\n𝜋\nWyznaczamy rozwiązania równania  sin(5𝑥) + cos𝑥= 0  w zbiorze  〈−\n2 ,\n2〉:\n−𝜋\n8,   3𝜋\n8 , − 5𝜋\n12 , −𝜋\n12,   𝜋\n4\nSposób II (poprzez sumę sinusów)\nZapisujemy równanie w postaci równoważnej, w której występuje tylko jedna funkcja\ntrygonometryczna zmiennej  𝑥:\nsin(5𝑥) + cos 𝑥= 0\nsin(5𝑥) + sin (𝜋\n2 −𝑥) = 0\nKorzystamy ze wzoru na sumę sinusów i otrzymujemy\n𝜋\n𝜋\n5𝑥−(\n2 −𝑥)\n5𝑥+\n2 −𝑥\n) = 0\n2 sin (\n) ⋅cos (\n2\n2\nsin (2𝑥+ 𝜋\n4) = 0     lub    cos (3𝑥−𝜋\n4) = 0\n2𝑥+ 𝜋\n4 = 𝑘𝜋     lub     3𝑥−𝜋\n4 = 𝜋\n2 + 𝑘𝜋\n𝑥= −𝜋\n8 + 𝑘𝜋\n2    lub    𝑥= 𝜋\n4 + 𝑘𝜋\n3\ngdzie  𝑘∈ℤ.\n𝜋\n𝜋\nWyznaczamy rozwiązania równania  sin(5𝑥) + cos𝑥= 0  w zbiorze  〈−\n2〉:\n2 ,\n−𝜋\n8,   3𝜋\n8 , − 5𝜋\n12 , −𝜋\n12,   𝜋\n4\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2023-czerwiec/11.webp",
+   "size": [
+    950,
+    248
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–4)\nW pudełku umieszczono  𝑛  kul (𝑛≥3) wśród których dokładnie  2  kule są czarne,\na pozostałe kule są białe. Z tego pudełka losujemy jedną kulę i odkładamy ją na bok. Jeżeli\nwylosowana kula jest biała, to do pudełka wrzucamy kulę czarną, a gdy wylosowana kula jest\nczarna, to do pudełka wrzucamy kulę białą. Po przeprowadzonej w ten sposób zmianie\nzawartości prawdopodobieństwo wylosowania kuli białej z tego pudełka jest równe  37\n50 .\nOblicz  𝑛.",
+   "key": "Zadanie 11. (0–4)\nZasady oceniania\n4 pkt – zastosowanie poprawnej metody i poprawny wynik:  𝑛= 10.\n𝑛2−3𝑛+4\n3 pkt – wyznaczenie prawdopodobieństwa zdarzenia  𝐴  w zależności od  𝑛: 𝑃(𝐴) =\n.\n𝑛2\n2 pkt – wyznaczenie prawdopodobieństw zdarzeń  𝐴1  oraz  𝐴2  w zależności od  𝑛:\n𝑛−3\n𝑛−1\n𝑛  oraz  𝑃(𝐴2) =\n𝑛 .\n𝑃( 𝐴1) =\n1 pkt – wyznaczenie prawdopodobieństw zdarzeń  𝐵  oraz  𝐶  w zależności od  𝑛:\n𝑛−2\n2\n𝑛  oraz  𝑃(𝐶) =\n𝑛 .\n𝑃(𝐵) =\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\nPrzyjmijmy następujące oznaczenia zdarzeń:\n𝐵  – zdarzenie polegające na tym, że w pierwszym losowaniu została wylosowana kula biała,\n𝐶  – zdarzenie polegające na tym, że w pierwszym losowaniu została wylosowana kula\nczarna,\n𝑍1  – zawartość pudełka po wylosowaniu za pierwszym razem kuli białej i dołożeniu kuli\nczarnej,\n𝑍2  – zawartość pudełka po wylosowaniu za pierwszym razem kuli czarnej i dołożeniu kuli\nbiałej,\n𝐴1  – zdarzenie polegające na tym, że wylosowana z pudełka o zawartości  𝑍1  kula jest\nbiała,\n𝐴2  – zdarzenie polegające na tym, że wylosowana z pudełka o zawartości  𝑍2  kula jest\nbiała.\nWówczas  𝑍1:  𝑛−3  kul białych i  3  kule czarne,  𝑍2: 𝑛−1 kul białych i  1  kula czarna.\nWyznaczamy prawdopodobieństwa zdarzeń  𝐵, 𝐶, 𝐴1  oraz  𝐴2 :\n𝑃(𝐵) = 𝑛−2\n,    𝑃(𝐶) = 2\n𝑛,    𝑃( 𝐴1) = 𝑛−3\n,     𝑃(𝐴2) = 𝑛−1\n𝑛\n𝑛\n𝑛\nZapisujemy prawdopodobieństwo zdarzenia  𝐴  polegającego na tym, że kula wylosowana\nz pudełka ze zmienioną zawartością jest biała:\n𝑃(𝐴) = 𝑃(𝐴1) ∙ 𝑃(𝐵) + 𝑃(𝐴2) ∙ 𝑃(𝐶)\n𝑛= 𝑛2 −3𝑛+ 4\n𝑃(𝐴) = 𝑛−3\n∙𝑛−2\n+ 𝑛−1\n∙2\n𝑛2\n𝑛\n𝑛\n𝑛\n37\nPonieważ  𝑃(𝐴) =\n50 , więc stąd otrzymujemy kolejno:\n𝑛2 −3𝑛+ 4\n= 37\n50\n𝑛2\n50𝑛2 −150𝑛+ 200 = 37𝑛2\n13𝑛2 −150𝑛+ 200 = 0\n∆= 12100,     √∆= 110\n𝑛= 150 −110\n= 40\n26    lub    𝑛= 150 + 110\n= 260\n26 = 10\n26\n26\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nPonieważ liczba kul musi być liczbą naturalną większą niż  2, więc jedynym rozwiązaniem\ntego zadania jest  𝑛= 10.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2023-czerwiec/12.webp",
+   "size": [
+    919,
+    254
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–5)\nWyznacz wszystkie wartości parametru  𝑚, dla których równanie\n𝑚𝑥2 −(𝑚+ 1)𝑥−2𝑚+ 3 = 0\nma dokładnie dwa różne rozwiązania rzeczywiste  𝑥1  oraz  𝑥2 , spełniające warunki:\n𝑥1 ≠0,     𝑥2 ≠0     oraz     1\n2 + 1\n2 < 1\n𝑥1\n𝑥2",
+   "key": "Zadanie 12. (0–5)\nZasady oceniania\nRozwiązanie zadania składa się z trzech etapów.\nPierwszy etap polega na rozwiązaniu warunku  ∆> 0. Za poprawne wykonanie tego etapu\nzdający otrzymuje 1 punkt.\n1\n1 pkt – poprawne rozwiązanie warunku  ∆> 0:  𝑚∈(−∞,\n9) ∪(1, +∞).\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nDrugi etap polega na wyznaczeniu wszystkich wartości parametru  𝑚, dla których jest\n1\n1\nspełniony warunek\n2 < 1.\n2 +\n𝑥1\n𝑥2\nPodział punktów za drugi etap rozwiązania:\n3 pkt – wyznaczenie tych wszystkich wartości  𝑚, dla których spełniony jest warunek\n1\n1\n2 < 1:  𝑚∈(−4 −2√6, 0) ∪(0, −4 + 2√6).\n2 +\n𝑥1\n𝑥2\n2 pkt – zapisanie nierówności z jedną niewiadomą  𝑚, która odpowiada warunkowi\n2\n−2⋅(−2𝑚+3)\n(𝑚+1\n𝑚)\n1\n1\n2 < 1, np.\n< 1.\n2 +\n𝑚\n2\n𝑥1\n𝑥2\n(−2𝑚+3\n)\n𝑚\n1\n1\n1 pkt – przekształcenie wyrażenia\n2 < 1  do postaci pozwalającej na bezpośrednie\n2 +\n𝑥1\n𝑥2\n(𝑥1+𝑥2)2−2𝑥1𝑥2\nzastosowanie wzorów Viète’a, np.\n< 1  (lub innej równoważnej, ale\n(𝑥1𝑥2)2\nzawierającej jedynie zmienne  𝑥1 + 𝑥2  oraz  𝑥1𝑥2).\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nTrzeci etap polega na wyznaczeniu wszystkich wartości parametru  𝑚, dla których spełnione\n1\n1\nsą jednocześnie warunki:  Δ > 0  i\n2 < 1.\n2 +\n𝑥1\n𝑥2\nZa poprawne wykonanie tego etapu zdający otrzymuje 1 punkt.\n1\n1\n1 pkt – poprawne wyznaczenie wszystkich wartości  𝑚, dla których  Δ > 0  i\n2 < 1:\n2 +\n𝑥1\n𝑥2\n1\n9).\n𝑚∈(−4 −2√6, 0) ∪(0,\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwagi:\n1. Jeżeli zdający rozwiązuje warunek  ∆≥0  (zamiast  Δ > 0), to za I etap rozwiązania\notrzymuje 0 punktów.\n2. Jeżeli zdający w II etapie rozwiązania rozważa niepoprawną nierówność wymierną\ni rozwiązanie tej nierówności jest zbiorem rozłącznym ze zbiorem rozwiązań nierówności\nz I etapu, to zdający otrzymuje 0 punktów za III etap.\n3\n3. Jeżeli w rozwiązaniu zdającego nie ma zapisu  𝑚≠0  albo  𝑚≠\n2, albo zdający nie\n3\nuwzględnia w rozwiązaniu warunku  𝑚≠0, albo  𝑚≠\n2, to zdający może otrzymać co\nnajwyżej 4 punkty za całe rozwiązanie.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nPrzykładowe pełne rozwiązanie\nRównanie  𝑚𝑥2 −(𝑚+ 1)𝑥−2𝑚+ 3 = 0  ma dokładnie dwa różne rozwiązania rzeczywiste\nwtedy i tylko wtedy, gdy  𝑚≠0  i wyróżnik  Δ  trójmianu kwadratowego\n𝑚𝑥2 −(𝑚+ 1)𝑥−2𝑚+ 3  jest dodatni.\nI etap\nRozwiązujemy warunek  Δ > 0:\n[−(𝑚+ 1)]2 −4𝑚⋅(−2𝑚+ 3) > 0\n9𝑚2 −10𝑚+ 1 > 0\n(𝑚−1)(9𝑚−1) > 0\n𝑚∈(−∞, 1\n9) ∪(1, +∞)\nZatem równanie  𝑚𝑥2 −(𝑚+ 1)𝑥−2𝑚+ 3 = 0  ma dokładnie dwa różne rozwiązania\n1\nrzeczywiste, gdy  𝑚∈(−∞, 0) ∪(0,\n9) ∪(1, +∞).\nII etap\n1\n1\nWyznaczymy wszystkie wartości  𝑚, dla których jest spełniony warunek:\n2 < 1.\n2 +\n𝑥1\n𝑥2\n1\n1\nPrzekształcamy nierówność\n2 < 1  do postaci, która pozwoli na bezpośrednie\n2 +\n𝑥1\n𝑥2\nzastosowanie wzorów Viète’a:\n2\n2\n𝑥1 +\n𝑥2\n(𝑥1𝑥2)2 < 1\n(𝑥1+𝑥2)2 −2𝑥1𝑥2\n< 1\n(𝑥1𝑥2)2\nStąd, po zastosowaniu wzorów Viète’a, otrzymujemy:\n2\n𝑚+1\n(−2𝑚+3)\n(\n𝑚)\n−2 ⋅\n𝑚\n< 1\n2\n−2𝑚+3\n(\n)\n𝑚\ni dalej\n2\n2\n(−2𝑚+ 3)\n(𝑚+ 1\n< (−2𝑚+ 3\ni    𝑚≠0    i    𝑚≠3\n2\n)\n−2 ⋅\n)\n𝑚\n𝑚\n𝑚\n(𝑚+ 1)2 −2𝑚(−2𝑚+ 3) < (−2𝑚+ 3)2    i    𝑚≠0    i    𝑚≠3\n2\n𝑚2 + 8𝑚−8 < 0    i    𝑚≠0    i    𝑚≠3\n2\n𝑚∈(−4 −2√6, −4 + 2√6)    i    𝑚≠0    i    𝑚≠3\n2\n1\n1\nZatem warunek\n2 < 1  jest spełniony tylko dla  𝑚∈(−4 −2√6, 0) ∪(0, −4 + 2√6).\n2 +\n𝑥1\n𝑥2\nZasady oceniania rozwiązań zadań\nIII etap\nWyznaczamy te wszystkie wartości  𝑚, które jednocześnie spełniają warunki:  𝑚≠0  i\n1\n3\n9) ∪(1, +∞)  i  𝑚∈(−4 −2√6, −4 + 2√6)  i  𝑚≠\n2 :\n𝑚∈(−∞,\n𝑚∈(−4 −2√6, 0) ∪(0, 1\n9)\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r."
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2023-czerwiec/13.webp",
+   "size": [
+    946,
+    559
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–5)\nCzworokąt wypukły  𝐴𝐵𝐶𝐷  jest wpisany w okrąg o promieniu  4. Kąty  𝐵𝐴𝐷  i  𝐵𝐶𝐷  są\nproste (zobacz rysunek). Przekątne  𝐴𝐶  i  𝐵𝐷  tego czworokąta przecinają się w punkcie  𝐸\ntak, że  |𝐵𝐸| = 3 ∙|𝐷𝐸|  oraz  |𝐵𝐷| = 2 ∙|𝐴𝐸|.\n𝐶\n𝐸\n𝐷\n𝐵\n𝐴\nOblicz długości boków czworokąta  𝐴𝐵𝐶𝐷.",
+   "key": "Zadanie 13. (0–5)\nZasady oceniania\n5 pkt – poprawna metoda rozwiązania oraz poprawny wynik:  |𝐴𝐵| = 2√10, |𝐵𝐶| = 3√6,\n|𝐶𝐷| = √10, |𝐴𝐷| = 2√6.\n4 pkt – obliczenie długości boków  𝐴𝐵  i  𝐴𝐷: |𝐴𝐵| = 2√10  i  |𝐴𝐷| = 2√6  oraz spełnienie\njednego z poniższych kryteriów I–III:\nI. obliczenie długości odcinka  𝐶𝐸:  |𝐶𝐸| = 3,\n1\nII. wyznaczenie skali podobieństwa trójkątów  𝐷𝐸𝐶  i  𝐴𝐸𝐵:\n2 ,\nIII. obliczenie długości jednego z boków tego czworokąta i zapisanie wyrażenia\narytmetycznego opisującego długości pozostałych boków w zależności od długości\ntego obliczonego boku.\n3 pkt – obliczenie długości boków  𝐴𝐵  i  𝐴𝐷:  |𝐴𝐵| = 2√10  i  |𝐴𝐷| = 2√6.\n2 pkt – obliczenie wysokości  𝐴𝑃  trójkąta  𝐴𝑆𝐸:  |𝐴𝑃| = √15\nALBO\n– obliczenie długości odcinka  𝐶𝐸:  |𝐶𝐸| = 3,\nALBO\n1\n– wyznaczenie skali podobieństwa trójkątów  𝐷𝐸𝐶  i  𝐴𝐸𝐵:\n2 ,\nALBO\n– obliczenie długości odcinków  𝐷𝐸, 𝐵𝐸, 𝐴𝐸: |𝐷𝐸| = 2, |𝐵𝐸| = 6  i  |𝐴𝐸| = 4  oraz\nzapisanie układu równań prowadzącego do wyznaczenia długości boków  𝑎  oraz  𝑑:\n𝑎2 + 𝑑2 = 82, 𝑎2 = 62 + 42 −2 ∙6 ∙4 ∙cos 𝛽  oraz\n𝑑2 = 22 + 42 −2 ∙2 ∙4 ∙cos(180° −𝛽).\n1 pkt – obliczenie długości odcinków  𝐷𝐸, 𝐵𝐸  oraz  𝐴𝐸: |𝐷𝐸| = 2, |𝐵𝐸| = 6  oraz  |𝐴𝐸| = 4\nALBO\n– zapisanie, że trójkąty  𝐷𝐸𝐶  oraz  𝐴𝐸𝐵  (albo trójkąty  𝐵𝐸𝐶  oraz  𝐴𝐸𝐷)  są podobne,\nALBO\n– zapisanie równości wynikającej z twierdzenia o odcinkach siecznych:\n|𝐴𝐸| ∙|𝐶𝐸| = |𝐵𝐸| ∙|𝐷𝐸|.\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nUwaga:\nJeśli zdający zapisze, że  |𝐷𝐸| = 1  i konsekwentnie rozwiąże zadanie do końca, to może\notrzymać co najwyżej 3 punkty.\nZasady oceniania rozwiązań zadań\nPrzykładowe pełne rozwiązanie\nPonieważ trójkąty  𝐴𝐵𝐷  i  𝐵𝐶𝐷  są prostokątne, to ich wspólna przeciwprostokątna  𝐵𝐷  jest\nśrednicą okręgu opisanego na czworokącie  𝐴𝐵𝐶𝐷. Zatem  |𝐵𝐷| = 8. Stąd i z warunków\n|𝐵𝐸| = 3 ∙|𝐷𝐸|  oraz  |𝐵𝐷| = 2 ∙|𝐴𝐸| otrzymujemy  |𝐷𝐸| = 2, |𝐵𝐸| = 6  i  |𝐴𝐸| = 4.\nOznaczmy przez  𝑆  środek okręgu opisanego na czworokącie  𝐴𝐵𝐶𝐷. Prowadzimy\nwysokość  𝐴𝑃  trójkąta  𝐴𝑆𝐸  i przyjmijmy pozostałe oznaczenia jak na rysunku.\n𝐶\n𝑏\n𝑐\n𝐸\n𝑃\n𝑆\n𝐷\n𝐵\n4\nℎ\n4\n4\n𝑑\n𝑎\n𝐴\nPonieważ  |𝐴𝐸| = 4 = |𝐴𝑆|, więc trójkąt  𝐴𝑆𝐸  jest równoramienny. Zatem spodek  𝑃\nwysokości trójkąta  𝐴𝑆𝐸  jest środkiem podstawy  𝐸𝑆  tego trójkąta. Stąd wynika, że\n|𝐸𝑃| = |𝑃𝑆| = 1.\nZ twierdzenia Pitagorasa dla trójkąta  𝐴𝑆𝑃  otrzymujemy\n|𝐴𝑆|2 = |𝐴𝑃|2 + |𝑃𝑆|2\n42 = ℎ2 + 12\nℎ2 = 15\nZ twierdzenia Pitagorasa dla trójkątów  𝐴𝐵𝑃  i  𝐴𝐷𝑃  otrzymujemy\n|𝐴𝐵|2 = |𝐴𝑃|2 + |𝑃𝐵|2    oraz    |𝐴𝐷|2 = |𝐴𝑃|2 + |𝑃𝐷|2\n𝑎2 = ℎ2 + 52    oraz    𝑑2 = ℎ2 + 32\n𝑎2 = 15 + 25    oraz    𝑑2 = 15 + 9\n𝑎= √40 = 2√10    oraz    𝑑= √24 = 2√6\nKąty  𝐷𝐶𝐴  i  𝐴𝐵𝐷 są równe, gdyż są to kąty wpisane oparte na tym samym łuku  𝐴𝐷. Kąty\n𝐷𝐸𝐶  i  𝐵𝐸𝐴  są równe, gdyż są to kąty wierzchołkowe. Zatem trójkąty  𝐷𝐸𝐶  i  𝐵𝐸𝐴  są\npodobne (cecha kkk). Wynika stąd, że\n|𝐷𝐸| = |𝐴𝐵|\n|𝐶𝐷|\n|𝐴𝐸|\n2 = 2√10\n𝑐\n4\n𝑐= √10\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nZ twierdzenia Pitagorasa dla trójkąta  𝐵𝐶𝐷  otrzymujemy\n|𝐵𝐷|2 = |𝐶𝐷|2 + |𝐵𝐶|2\n82 = 𝑐2 + 𝑏2\n2 + 𝑏2\n64 = (√10)\n𝑏= √54 = 3√6\nUwagi:\n1. Długości boków  𝐶𝐷  i  𝐵𝐶  można obliczyć, wykorzystując twierdzenie o odcinkach\nsiecznych. Wynika z niego, że  |𝐴𝐸| ∙|𝐶𝐸| = |𝐵𝐸| ∙|𝐷𝐸|, więc  |𝐶𝐸| = 3. Ponieważ\n|𝐸𝑃|\n1\n4 , to z twierdzenia cosinusów wynika, że\ncos ∢𝐴𝐸𝑃=\n|𝐴𝐸| =\n|𝐶𝐷|2 = 22 + 32 −2 ∙2 ∙3 ∙\n1\n4 = 10  oraz  |𝐵𝐶|2 = 62 + 32 + 2 ∙6 ∙3 ∙\n1\n4 = 54.\n2. Po wyznaczeniu odcinków  |𝐷𝐸| = 2, |𝐵𝐸| = 6  i  |𝐴𝐸| = 4  można wyznaczyć długości\nboków  𝑎  oraz  𝑑, korzystając z twierdzenia cosinusów. Przyjmując  𝛽= ∡𝐴𝐸𝐵, możemy\nzapisać układ trzech równań:  𝑎2 + 𝑑2 = 82,  𝑎2 = 62 + 42 −2 ∙6 ∙4 ∙cos 𝛽  oraz\n𝑑2 = 22 + 42 −2 ∙2 ∙4 ∙cos(180° −𝛽). Wtedy  cos𝛽=\n1\n4  oraz  𝑎= 2√10  i  𝑑= 2√6.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 6,
+   "image": "f2015-R-2023-czerwiec/14.webp",
+   "size": [
+    937,
+    809
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–6)\nRozważamy wszystkie graniastosłupy prawidłowe czworokątne  𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻, w których\nodcinek łączący punkt  𝑂  przecięcia przekątnych  𝐴𝐶  i  𝐵𝐷  podstawy  𝐴𝐵𝐶𝐷  z dowolnym\nwierzchołkiem podstawy  𝐸𝐹𝐺𝐻  ma długość  𝑑  (zobacz rysunek).\n𝐻\n𝐺\n𝐸\n𝐹\n𝑑\n𝐷\n𝐶\n𝑂\n𝐴\n𝐵\na) Wyznacz zależność objętości  𝑉  graniastosłupa od jego wysokości  ℎ  i podaj dziedzinę\nfunkcji  𝑉(ℎ).\nb) Wyznacz wysokość tego z rozważanych graniastosłupów, który ma największą objętość.",
+   "key": "Zadanie 14. (0–6)\nZasady oceniania\n6 pkt – poprawne wyznaczenie wzoru funkcji  𝑉(ℎ)  oraz jej dziedziny, oraz wyznaczenie\nwysokości graniastosłupa o największej objętości wraz z uzasadnieniem.\n5 pkt – obliczenie miejsca zerowego pochodnej funkcji  𝑉:  ℎ= √3\n3 𝑑.\n4 pkt – wyznaczenie pochodnej funkcji  𝑉, np.  𝑉′(ℎ) = 2(𝑑2 −3ℎ2).\n3 pkt – wyznaczenie dziedziny funkcji  𝑉(ℎ):  (0, 𝑑).\n2 pkt – wyznaczenie objętości  𝑉  graniastosłupa jako funkcji jego wysokości, np.\n𝑉(ℎ) = 2(𝑑2 −ℎ2) ∙ℎ.\n1 pkt – wyznaczenie długości krawędzi podstawy w zależności od wysokości graniastosłupa:\n𝑎= √2 ∙√𝑑2 −ℎ2 .\n0 pkt – rozwiązanie, w którym zastosowano niepoprawną metodę, albo brak rozwiązania.\nPrzykładowe pełne rozwiązanie\n𝐻\n𝐺\nOznaczmy przez  𝑎  długość krawędzi podstawy\ngraniastosłupa, natomiast przez  ℎ – wysokość tego\n𝐸\ngraniastosłupa.\n𝐹\na)\nKorzystamy z twierdzenia Pitagorasa dla trójkąta\n𝑂𝐷𝐻  i otrzymujemy:\n𝑑\n𝑑2 = ℎ2 + |𝑂𝐷|2\n|𝑂𝐷| = √𝑑2 −ℎ2\n1\n𝑎√2\n𝑎√2\n2 = √𝑑2 −ℎ2 .\nPonieważ  |𝑂𝐷| =\n2 , więc\n2 |𝐵𝐷| =\n𝐷\n𝐶\nStąd  𝑎= √2 ∙√𝑑2 −ℎ2   i  ℎ∈(0, 𝑑).\nPole  𝑃𝑃  podstawy graniastosłupa jest równe\n𝑂\n𝐴\n𝐵\n2\n𝑃𝑃= (√2 ∙√𝑑2 −ℎ2)\n= 2(𝑑2 −ℎ2)\nWyznaczamy objętość graniastosłupa jako funkcję zmiennej  ℎ:\n𝑉(ℎ) = 2(𝑑2 −ℎ2) ∙ℎ= 2(𝑑2ℎ−ℎ3)  dla  0 < ℎ< 𝑑.\nb)\nWyznaczamy pochodną funkcji  𝑉:\n𝑉′(ℎ) = 2(𝑑2 −3ℎ2)\nObliczamy miejsce zerowe pochodnej funkcji  𝑉:\n𝑉′(ℎ) = 0\n2(𝑑2 −3ℎ2) = 0    i    ℎ∈(0, 𝑑)\nℎ= 𝑑\n√3\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nPonieważ  𝑉′(ℎ) > 0  dla  ℎ∈(0, 𝑑\n√3)  oraz  𝑉′(ℎ) < 0  dla  ℎ∈( 𝑑\n√3 , 𝑑), więc funkcja  𝑉\njest rosnąca w przedziale  (0, 𝑑\n√3⟩  oraz malejąca w przedziale  ⟨𝑑\n√3 , 𝑑). Zatem funkcja  𝑉\nosiąga wartość największą dla  ℎ= 𝑑\n√3 .\nSpośród rozważanych graniastosłupów największą objętość ma graniastosłup o wysokości\n𝑑\n√3 .\nℎ=\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 7,
+   "image": "f2015-R-2023-czerwiec/15.webp",
+   "size": [
+    946,
+    274
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–7)\nOkrąg  𝑜1  o środku w punkcie  𝑆1  jest określony równaniem  (𝑥−6)2 + (𝑦+ 1)2 = 16.\nOkrąg  𝑜2  ma środek w punkcie  𝑆2  takim, że  𝑆1𝑆2⃗⃗⃗⃗⃗⃗⃗⃗ = [−4, 4]. Promienie tych okręgów są\nsobie równe.\nFigura  𝐹  składa się z dwóch okręgów:  𝑜1  oraz  𝑜2. Punkty  𝑀  i  𝑁  są punktami przecięcia\nfigury  𝐹  z tą z jej osi symetrii, która jest prostą o dodatnim współczynniku kierunkowym.\nWyznacz punkt  𝐾, leżący na jednej z osi symetrii figury  𝐹, taki, że pole trójkąta  𝑀𝑁𝐾  jest\nrówne  40.",
+   "key": "Zadanie 15. (0–7)\nZasady oceniania\nRozwiązanie zadania składa się z dwóch etapów.\nPierwszy etap polega na wyznaczeniu równania osi symetrii figury  𝐹, prostopadłej\ndo prostej  𝑆1𝑆2, a następnie obliczeniu współrzędnych punktów  𝑀  i  𝑁. Za poprawne\nrozwiązanie tego etapu zdający otrzymuje 4 punkty.\nPodział punktów za pierwszy etap rozwiązania:\nZdający otrzymuje 1 punkt, gdy obliczy współrzędne środka  𝑆2  okręgu:  𝑆2 = (2, 3).\nZdający otrzymuje 2 punkty, gdy wyznaczy równanie osi symetrii przechodzącej przez\nśrodek  𝑆  odcinka  𝑆1𝑆2, która jest prostopadła do prostej  𝑆1𝑆2: 𝑦= 𝑥−3.\nZdający otrzymuje 3 punkty za zapisanie równania z jedną niewiadomą prowadzącego do\nwyznaczenia współrzędnych punktów  𝑀  i  𝑁, np.  (𝑥−6)2 + (𝑥−2)2 −16 = 0.\nZdający otrzymuje 4 punkty za obliczenie współrzędnych punktów  𝑀  i  𝑁:  𝑀= (2, −1)\noraz  𝑁= (6, 3).\nDrugi etap polega na zapisaniu równania prowadzącego do obliczenia współrzędnych\npunktu  𝐾  i obliczeniu tych współrzędnych. Za ten etap rozwiązania zdający otrzymuje\n3 punkty.\nPodział punktów za drugi etap rozwiązania:\nZdający otrzymuje 1 punkt za uzależnienie współrzędnych punktu 𝐾  od jednej niewiadomej,\nnp.  𝐾= (𝑥, −𝑥+ 5).\nZdający otrzymuje 2 punkty za zapisanie równania z jedną niewiadomą prowadzącego do\n1\nwyznaczenia współrzędnych punktu  𝐾, np.\n2 ⋅|−8𝑥+ 32| = 40,  2 ⋅|2𝑥−8| = 40.\nZdający otrzymuje 3 punkty za obliczenie współrzędnych punktu  𝐾:  𝐾1 = (−6, 11),\n𝐾2 = (14, −9).\nUwaga:\nJeżeli zdający prowadzi poprawne rozumowanie na każdym etapie rozwiązania zadania,\nrozwiązuje zadanie do końca i jedynym błędem, który jednak nie ułatwia rozwiązania zadania\nna żadnym etapie rozwiązania, jest błąd polegający na:\na) niepoprawnym wyznaczeniu współrzędnych środka okręgu  𝑜1, to zdający otrzymuje co\nnajwyżej 6 punktów za całe rozwiązanie;\nb) zastosowaniu niepoprawnej metody obliczania współrzędnych punktów wspólnych\nokręgu  𝑜1  i osi symetrii figury  𝐹  prostopadłej do prostej  𝑆1𝑆2, to zdający otrzymuje co\nnajwyżej 3 punkty za całe rozwiązanie  (za  𝑆2, oś symetrii i  𝐾);\nc) zastosowaniu niepoprawnej metody wyznaczenia:\n- środka okręgu  𝑜2\n- współczynnika kierunkowego prostej prostopadłej do prostej  𝑆1𝑆2,\nto zdający może otrzymać co najwyżej 5 punktów za całe rozwiązanie.\nEgzamin maturalny z matematyki na poziomie rozszerzonym – termin dodatkowy 2023 r.\nPrzykładowe pełne rozwiązania\n𝑦\n𝑆2\n𝑁\n1\n0    1                                                𝑥\n𝑆1\n𝑀\nRozwiązanie zadania składa się z dwóch etapów.\nI etap\nWyznaczamy współrzędne środka  𝑆1  okręgu  𝑜1:  𝑆1 = (6, −1). Ponieważ  𝑆1 = (6, −1)\ni  𝑆1𝑆2⃗⃗⃗⃗⃗⃗⃗⃗ = [−4, 4], więc współrzędne środka  𝑆2  są równe:  𝑆2 = (6 −4, −1 + 4) = (2, 3).\nZauważmy, że figura  𝐹  ma dwie osie symetrii. Jedną z nich jest prosta  𝑆1𝑆2, do której\nnależą środki okręgów  𝑜1  i  𝑜2 , drugą – prosta prostopadła do prostej  𝑆1𝑆2  przechodząca\nprzez środek  𝑆  odcinka  𝑆1𝑆2 .\nOś symetrii, do której należą środki obu okręgów ma zatem równanie  𝑥+ 𝑦−5 = 0, czyli\n𝑦= −𝑥+ 5.\nWyznaczamy równanie osi symetrii figury  𝐹, prostopadłej do prostej  𝑆1𝑆2 .\nObliczamy współrzędne środka  𝑆  odcinka  𝑆1𝑆2:  𝑆= (4, 1)  i wyznaczamy równanie prostej\nprzechodzącej przez punkt  𝑆:  𝑦= 𝑥−3. Współczynnik kierunkowy tej osi symetrii jest\ndodatni, więc punkty  𝑀  i  𝑁  leżą na tej prostej.\nPonieważ punkty  𝑀   i  𝑁   są punktami przecięcia figury   𝐹  i osi symetrii o równaniu\n𝑦= 𝑥−3, więc są punktami przecięcia okręgu  𝑜1  i prostej  𝑦= 𝑥−3.\nWspółrzędne tych punktów obliczamy, rozwiązując układ równań\n{ (𝑥−6)2 + (𝑦+ 1)2 = 16\n𝑦= 𝑥−3\nPo podstawieniu  𝑦= 𝑥−3   do pierwszego równania otrzymujemy równanie\n(𝑥−6)2 + (𝑥−2)2 −16 = 0\na po przekształceniach – równanie kwadratowe  2𝑥2 −16𝑥+ 24 = 0.\nZasady oceniania rozwiązań zadań\nStąd  𝑥1 = 2, 𝑥2 = 6. Zatem współrzędne punktów  𝑀  i  𝑁   są równe:  𝑀= (2, −1)  oraz\n𝑁= (6, 3).\nII etap\nPunkt  𝐾   leży na osi symetrii przechodzącej przez środki obu okręgów, więc jego\nwspółrzędne można zapisać w postaci:  𝐾= (𝑥, −𝑥+ 5).\nSposób I\nWiemy, że pole trójkąta  𝑀𝑁𝐾  jest równe  40, więc\n1\n2 ⋅|(6 −2)(−𝑥+ 5 + 1) −(3 + 1)(𝑥−2)| = 40\nStąd po przekształceniach otrzymujemy równanie\n1\n2 ⋅|−8𝑥+ 32| = 40\nczyli\n−4𝑥+ 16 = 40    lub   −4𝑥+ 16 = −40\n𝑥= −6    lub    𝑥= 14\nZatem są dwa takie punkty  𝐾:  𝐾1 = (−6, 11)  oraz  𝐾2 = (14, −9).\nSposób II\nObliczamy długość podstawy  𝑀𝑁  trójkąta  𝑀𝑁𝐾:  |𝑀𝑁| = √(6 −2)2 + (3 + 1)2 = 4√2.\nWysokość  ℎ  trójkąta  𝑀𝑁𝐾  jest równa odległości punktu  𝐾  od prostej  𝑀𝑁  o równaniu\n𝑥−𝑦−3 = 0. Zatem\nℎ= |1 ⋅𝑥−1 ⋅(−𝑥+ 5) −3|\n= |2𝑥−8|\n√12 + (−1)2\n√2\nWiemy, że pole trójkąta  𝑀𝑁𝐾   jest równe  40, więc\n1\n2 ⋅4√2 ⋅|2𝑥−8|\n= 40\n√2\nStąd otrzymujemy równanie\n2 ⋅|2𝑥−8| = 40\nczyli\n2𝑥−8 = −20    lub    2𝑥−8 = 20\n𝑥= −6    lub    𝑥= 14\nZatem  𝐾= (−6, 11)  lub  𝐾= (14, −9)."
+  }
+ ]
+}

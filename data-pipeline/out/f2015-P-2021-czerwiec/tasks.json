@@ -1,0 +1,520 @@
+{
+ "exam": {
+  "id": "f2015-P-2021-czerwiec",
+  "formula": "2015",
+  "level": "P",
+  "year": 2021,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "EMAP-P0-100-2106",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2021-czerwiec-matura-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2021-czerwiec-matura-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2015-P-2021-czerwiec.pdf",
+  "keyFile": "f2015-P-2021-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 28,
+  "keyPages": 19,
+  "examBytes": 564045,
+  "keyBytes": 1046483
+ },
+ "keyHead": "Rodzaj dokumentu: Zasady oceniania rozwiązań\nzadań\nEgzamin maturalny\nEgzamin:\nMatematyka\nPrzedmiot:\nPoziom podstawowy\nPoziom:\nFormy arkusza:\n2 czerwca 2021 r.\nTermin egzaminu:\nData publikacji\n21 czerwca 2021 r.\ndokumentu:\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\nZADANIA ZAMKNIĘTE\nNr\n1.\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\nzadania\nOdp.\nD\nB\nC\nB\nA\nB\nA\nA\nC\nB\nD\nC\nB\nB\nNr\n15.\n16.\n17.\n18.\n19.\n20.\n21.\n22.\n23.\n24.\n25.\n26.\n27.\n28.\nzadania\nOdp.\nA\nA\nD\nB\nC\nB\nB\nB\nD\nC\nB\nB\nC\nD\nZADANIA OTWARTE\n1. Akceptowane są wszystkie rozwiązania merytorycznie poprawne i spełniające warunki\nzadania.\n2. Jeżeli zdający poprawnie rozwiąże zadanie i otrzyma poprawny wynik, lecz w końcowym\nzapisie przekształca ten wynik i popełnia przy tym błąd, to może uzyskać maksymalną liczbę\npunktów.\n3. Jeżeli zdający popełni błędy rachunkowe, które na żadnym etapie rozwiązania nie\nupraszczają i nie zmieniają danego zagadnienia, lecz stosuje poprawną metodę\ni konsekwentnie do popełnionych błędów rachunkowych rozwiązuje zadanie, to może\notrzymać co najwyżej  (𝑛−1)  punktów (gdzie  𝑛  jest maksymalną możliwą do uzyskania\nliczbą punktów za dane zadanie).\nZadanie 29. (0–2)\nZasady oceniania\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap to wyznaczenie pierwiastków trójmianu kwadratowego  𝑥2 −4𝑥+ 3.\nDrugi etap to zapisanie zbioru rozwiązań nierówności kwadratowej  𝑥2 −4𝑥+ 3 < 0.\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nzrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\no obliczy lub poda pierwiastki trójmianu kwadratowego:  𝑥1 = 1  oraz  𝑥2 = 3\ni na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\no odczyta z wykresu funkcji  𝑓(𝑥) = 𝑥2 −4𝑥+ 3  i zapisze miejsca zerowe\ni na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\nALBO\nZasady oceniania rozwiązań zadań\n\nrealizując pierwszy etap rozwiązania zadania, popełni błąd (ale otrzyma dwa różne\npierwiastki) i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań\nnierówności, np.\no popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu\nkwadratowego i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań\nnierówności,\no błędnie zapisze równania wynikające ze wzorów Viète’a, np.  𝑥1 + 𝑥2 = 3\ni konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań nierówności.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy:\n\npoda zbiór rozwiązań nierówności:  (1, 3)  lub  𝑥∈(1, 3)\nALBO\n\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\n1\n3\n𝑥\nUwagi:\n1. Jeżeli zdający podzieli obustronnie nierówność przez  (𝑥−3),  to otrzymuje 0 punktów\nza całe rozwiązanie.\n2. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy obliczony\nwyróżnik  𝛥  jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.\n3. Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to\noznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje\n0 punktów za całe rozwiązanie.\nKryteria uwzględniające specyficzne trudności w uczeniu się matematyki\nJeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności\nw postaci  (3, 1), to przyznajemy 2 punkty.\nPrzykładowe pełne rozwiązanie\nPierwszy etap rozwiązania\nPrzekształcamy równoważnie nierówność:\n2(𝑥+ 1)(𝑥−3) < 𝑥2 −9\n2(𝑥2 −3𝑥+ 𝑥−3) −𝑥2 + 9 < 0\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\n𝑥2 −4𝑥+ 3 < 0\ni obliczamy pierwiastki trójmianu  𝑥2 −4𝑥+ 3:\n\nobliczamy wyróżnik tego trójmianu:  Δ = 4  i stąd  𝑥1 = 1  oraz  𝑥2 = 3.\nALBO\n\nstosujemy wzory Viète’a:  𝑥1 ⋅𝑥2 = 3  oraz  𝑥1 + 𝑥2 = 4, stąd  𝑥1 = 1  oraz  𝑥2 = 3.\nALBO\n\npodajemy je bezpośrednio, zapisując pierwiastki trójmianu: 𝑥1 = 1  oraz  𝑥2 = 3.\nALBO\nSporządzamy wykres funkcji  𝑓(𝑥) = 𝑥2 −4𝑥+ 3, zaznaczamy miejsca zerowe na\n\nwykresie i podpisujemy  𝑥1 = 1  oraz  𝑥2 = 3.\nDrugi etap rozwiązania\nPodajemy zbiór rozwiązań nierówności:  (1, 3)  lub  𝑥∈(1, 3)  lub\n1\n3\n𝑥\nZasady oceniania rozwiązań zadań\nZadanie 30. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy zapisze nierówność  𝑎+𝑏\n+ 𝑏+𝑐\n> 𝑐+ 𝑎  lub  𝑎+ 2𝑏+ 𝑐> 2𝑐+ 2𝑎  i na tym zakończy\n2\n2\nlub dalej popełnia błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy zapisze pełne rozumowanie.\nUwaga:\nJeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości  𝑎, 𝑏, czy\nteż  𝑐, to otrzymuje 0 punktów za całe rozwiązanie.\nPrzykładowe pełne rozwiązanie\nPonieważ  𝑎+𝑏\n> 𝑐  i  𝑏+𝑐\n> 𝑎 , więc\n2\n2\n𝑎+ 𝑏\n+ 𝑏+ 𝑐\n> 𝑐+ 𝑎\n2\n2\n𝑎\n2 + 𝑏\n2 + 𝑏\n2 + 𝑐\n2 > 𝑐+ 𝑎\nOdejmując od obu stron nierówności  𝑎\n2 + 𝑐\n2 , otrzymujemy\n𝑏> 𝑎\n2 + 𝑐\n2\nTo należało wykazać.\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\nZadanie 31. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nwykorzysta wzór na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego i zapisze\nrównanie z niewiadomymi  𝑎1, 𝑎20, 𝑎21  i  𝑟, np.:\n𝑎1 + 𝑎20\n⋅20 = 20𝑎21 + 62\n2\nALBO\n\nwykorzysta wzór na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego i zapisze\nrównanie z niewiadomymi  𝑎1, 𝑎21  i  𝑟, np.:\n𝑎1 + 𝑎1 + 19𝑟\n⋅20 = 20𝑎21 + 62\n2\nALBO\n\nwykorzysta wzór na 𝑛–ty wyraz ciągu arytmetycznego i zapisze  𝑎21  za pomocą  𝑎1\ni  𝑟, np.:  𝑎21 = 𝑎1 + 20𝑟\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy obliczy różnicę  𝑟  ciągu arytmetycznego:  𝑟= −31\n105 .\nPrzykładowe pełne rozwiązanie\nNiech  𝑟  oznacza różnicę ciągu  (𝑎𝑛). Zgodnie z treścią zadania\n𝑎1 + 𝑎2 + ⋯+ 𝑎20 = 20𝑎21 + 62\nKorzystamy ze wzoru na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego oraz ze\nwzoru na 𝑛–ty wyraz ciągu arytmetycznego i otrzymujemy\n𝑎1 + 𝑎20\n⋅20 = 20𝑎21 + 62\n2\n𝑎1 + 𝑎1 + 19𝑟\n⋅20 = 20(𝑎1 + 20𝑟) + 62\n2\n20𝑎1 + 190𝑟= 20𝑎1 + 400𝑟+ 62\n𝑟= −62\n210 = −31\n105\nZasady oceniania rozwiązań zadań\nZadanie 32. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy zapisze równość pól obu trapezów (przed i po wykonaniu opisanych operacji):\n5\n4 𝑎+ 5\n4 𝑏\n𝑎+ 𝑏\n⋅𝑥\n⋅ℎ=\n2\n2\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy zapisze, że wysokość  ℎ  trapezu została skrócona o  20%.\nPrzykładowe pełne rozwiązanie\n(𝑎+𝑏)⋅ℎ\nPole  𝑃  trapezu jest równe  𝑃=\n.  Po wydłużeniu podstaw oraz skróceniu wysokości\n2\ntrapezu powstał trapez o podstawach  5\n4 𝑎,  5\n4 𝑏  oraz wysokości  𝑥  taki, że spełniona jest\nrówność pól:\n5\n4 (𝑎+ 𝑏)\n𝑎+ 𝑏\n⋅𝑥\n⋅ℎ=\n2\n2\nPo pomnożeniu obu stron tej równości przez  2\n𝑎+𝑏  otrzymujemy  ℎ= 5\n4 𝑥, czyli  𝑥= 4\n5 ℎ= 0,8ℎ.\nOznacza to, że wysokość  ℎ  trapezu została skrócona o  20%.\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\nZadanie 33. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nzapisze związek między polami trójkątów  𝐹𝐵𝐶  oraz  𝐵𝐸𝐷:  𝑃𝐹𝐵𝐶= 9𝑃𝐵𝐸𝐷\nALBO\n\nzapisze, że trójkąty  𝐵𝐶𝐹  i  𝐵𝐸𝐷  są podobne\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\n|𝐶𝐸|\n|𝐶𝐸|\n|𝐸𝐵|:\n|𝐸𝐵| = 2.\ngdy obliczy\nPrzykładowe pełne rozwiązanie\nNiech  𝐹  będzie spodkiem wysokości trójkąt",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/1.webp",
+   "size": [
+    951,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nWartość wyrażenia  √2 ⋅൫√2 −√3൯+ √3 ⋅൫√2 −√3൯  jest równa\nA. 5 −2√6\nB. 5\nC. 5 + 2√6\nD. −1",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/2.webp",
+   "size": [
+    951,
+    231
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\n2\n5\n1\n3\n4 ⋅7\n4 ൱\nLiczba  ൭7\njest równa\n5\n3\n10\n3\n2\n3\nB. 7ଵ\nA. 7\nC. 7\nD. 7",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/3.webp",
+   "size": [
+    951,
+    137
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nNiech  logଷ18 = 𝑐. Wtedy  logଷ54  jest równy\nA. 𝑐−1\nB. 𝑐\nC. 𝑐+ 1\nD. 𝑐+ 2",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/4.webp",
+   "size": [
+    951,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nCenę drukarki obniżono o  20%, a następnie nową cenę obniżono o  10%. W wyniku obu tych\nzmian cena drukarki zmniejszyła się w stosunku do ceny sprzed obu obniżek o\nA. 18%\nB. 28%\nC. 30%\nD. 72%",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/5.webp",
+   "size": [
+    951,
+    136
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\nDla każdej liczby rzeczywistej  𝑥  wyrażenie  (𝑥−1)ଶ−(2 −𝑥)ଶ  jest równe\nB. 2𝑥ଶ−6𝑥−3\nC. (2𝑥−3)ଶ\nA. 2𝑥−3\nD. 9",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/6.webp",
+   "size": [
+    951,
+    704
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\nWskaż rysunek, na którym przedstawiony jest zbiór wszystkich liczb rzeczywistych  𝑥,\nspełniających jednocześnie nierówności  0 < 7 −3𝑥  oraz  7 −3𝑥≤5𝑥−3.\nA.\n5\n7\n𝑥\n4\n3\nB.\n5\n7\n𝑥\n4\n3\nC.\n5\n7\n𝑥\n4\n3\nD.\n5\n7\n𝑥\n4\n3",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/7.webp",
+   "size": [
+    951,
+    170
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\nRozwiązaniem równania  𝑥√3 + 2 = 2𝑥−8  jest liczba\nB. 10\nඥ3+10\nA. 10൫2 + √3൯\nC. 10൫√3 −2൯\nD.\nඥ3−2\n2",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/8.webp",
+   "size": [
+    951,
+    250
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–1)\nRównanie  𝑥2−7𝑥\n𝑥2−49 = 0  ma w zbiorze liczb rzeczywistych dokładnie\nA. jedno rozwiązanie.\nB. dwa rozwiązania.\nC. trzy rozwiązania.\nD. cztery rozwiązania.",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/9.webp",
+   "size": [
+    951,
+    704
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–1)\nNa rysunku przedstawiono wykres funkcji  𝑓  określonej w zbiorze  (−1, 7).\n𝑦\n3\n2\n1\n−4 −3 −2  −1     0  1     2    3    4    5     6    7     8    9   10  𝑥\n−1\n−2\n−3\nWskaż zdanie prawdziwe.\nA. Funkcja  𝑓  ma trzy miejsca zerowe.\nB. Zbiorem wartości funkcji  𝑓  jest  ⟨−1, 1).\nC. Funkcja  𝑓  osiąga wartość największą równą  1.\nD. Funkcja  𝑓  osiąga wartości ujemne dla argumentów ze zbioru  (−1, 0).",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/10.webp",
+   "size": [
+    951,
+    270
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\nWykresem funkcji kwadratowej  𝑓  określonej wzorem  𝑓(𝑥) = −3(𝑥+ 4)(𝑥−2)  jest\nparabola o wierzchołku  𝑊= (𝑝, 𝑞). Współrzędne wierzchołka  𝑊  spełniają warunki\nA. 𝑝> 0  i  𝑞> 0\nB. 𝑝< 0  i  𝑞> 0\nC. 𝑝< 0  i  𝑞< 0\nD. 𝑝> 0  i  𝑞< 0",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/11.webp",
+   "size": [
+    957,
+    630
+   ],
+   "stem": "Informacja do zadań 11. i 12.\nNa rysunku przedstawiono fragment wykresu funkcji kwadratowej  𝑓. Jednym z miejsc\nzerowych tej funkcji jest liczba  2. Do wykresu funkcji  𝑓  należy punkt  (0, 3). Prosta o równaniu\n𝑥= −2  jest osią symetrii paraboli, będącej wykresem funkcji  𝑓.\n𝑦\n4\n3\n2\n1\n−2 −1   0  1  2   3   4   5  6 𝑥\n−1\n−2",
+   "text": "Zadanie 11. (0–1)\nDrugim miejscem zerowym funkcji  𝑓  jest liczba\nA. −2\nB. −3\nC. −4\nD. −6",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/12.webp",
+   "size": [
+    957,
+    629
+   ],
+   "stem": "Informacja do zadań 11. i 12.\nNa rysunku przedstawiono fragment wykresu funkcji kwadratowej  𝑓. Jednym z miejsc\nzerowych tej funkcji jest liczba  2. Do wykresu funkcji  𝑓  należy punkt  (0, 3). Prosta o równaniu\n𝑥= −2  jest osią symetrii paraboli, będącej wykresem funkcji  𝑓.\n𝑦\n4\n3\n2\n1\n−2 −1   0  1  2   3   4   5  6 𝑥\n−1\n−2",
+   "text": "Zadanie 12. (0–1)\nWartość funkcji  𝑓  dla argumentu  (−4)  jest równa\nA. −2\nB. 0\nC. 3\nD. 4",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/13.webp",
+   "size": [
+    957,
+    220
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–1)\nDane są ciągi  (𝑎௡), (𝑏௡), (𝑐௡), (𝑑௡), określone dla każdej liczby naturalnej  𝑛≥1  wzorami:\n𝑎௡= 20𝑛+ 3,  𝑏௡= 2𝑛ଶ−3, 𝑐௡= 𝑛ଶ+ 10𝑛−2, 𝑑௡= 𝑛+187\n. Liczba  197  jest\n𝑛\ndziesiątym wyrazem ciągu\nA. (𝑎௡)\nB. (𝑏௡)\nC. (𝑐௡)\nD. (𝑑௡)",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/14.webp",
+   "size": [
+    957,
+    223
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–1)\nCiąg geometryczny  (𝑎௡), określony dla każdej liczby naturalnej  𝑛≥1, jest rosnący\ni wszystkie jego wyrazy są dodatnie. Ponadto spełniony jest warunek  𝑎ଷ= 𝑎ଵ⋅𝑎ଶ . Niech  𝑞\noznacza iloraz ciągu  (𝑎௡). Wtedy\nA. 𝑎ଵ= 1\nC. 𝑎ଵ= 𝑞ଶ\nD. 𝑎ଵ= 𝑞ଷ\n𝑞\nB. 𝑎ଵ= 𝑞",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/15.webp",
+   "size": [
+    957,
+    167
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\nKąt o mierze  𝛼  jest ostry i  tg 𝛼= √5. Wtedy\nA. cosଶ𝛼= 1\nB. cosଶ𝛼= 1\nඥ5\nD. cosଶ𝛼= 5\nC. cosଶ𝛼=\n6\n5\n5\n6",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/16.webp",
+   "size": [
+    957,
+    550
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\nNa okręgu o środku w punkcie  𝑂  leżą punkty  𝐴, 𝐵  oraz  𝐶. Odcinek  𝐴𝐶  jest średnicą tego\nokręgu, a kąt środkowy  𝐴𝑂𝐵  ma miarę  82°  (zobacz rysunek).\n𝐶\n𝑂\n82°\n𝐴\n𝐵\nMiara kąta  𝑂𝐵𝐶  jest równa\nA. 41°\nB. 45°\nC. 49°\nD. 51°",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/17.webp",
+   "size": [
+    951,
+    579
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–1)\nDane są okrąg i prosta styczna do tego okręgu w punkcie  𝐴. Punkty  𝐵  i  𝐶  są położone na\nokręgu tak, że  𝐵𝐶  jest jego średnicą. Cięciwa  𝐴𝐵  tworzy ze styczną kąt o mierze  40°\n(zobacz rysunek).\n𝐶\n𝐵\n40°\n𝐴\nMiara kąta  𝐴𝐵𝐶  jest równa\nA. 20°\nB. 40°\nC. 45°\nD. 50°",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/18.webp",
+   "size": [
+    951,
+    689
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\nDany jest trójkąt prostokątny  𝐴𝐵𝐶  o bokach  |𝐴𝐶| = 24, |𝐵𝐶| = 10, |𝐴𝐵| = 26. Dwusieczne\nkątów tego trójkąta przecinają się w punkcie  𝑃  (zobacz rysunek).\n𝐵\n26\n𝑥\n10\n𝑃\n𝐶\n24\n𝐴\nOdległość  𝑥  punktu  𝑃  od przeciwprostokątnej  𝐴𝐵  jest równa\nC. 5\nD. 13\nA. 2\nB. 4\n2\n3",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/19.webp",
+   "size": [
+    951,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nJeden z boków równoległoboku ma długość równą  5. Przekątne tego równoległoboku mogą\nmieć długości\nA. 4  i  6\nB. 4  i  3\nC. 10  i  10\nD. 5  i  5",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/20.webp",
+   "size": [
+    951,
+    435
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\nW pewnym trójkącie równoramiennym największy kąt ma miarę  120°, a najdłuższy bok ma\ndługość  12  (zobacz rysunek).\n120°\n12\nNajkrótsza wysokość tego trójkąta ma długość równą\nA. 6\nB. 2√3\nC. 4√3\nD. 6√3",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/21.webp",
+   "size": [
+    951,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (0–1)\nProsta przechodząca przez punkty  (−4, −1)  oraz  (5, 5)  ma równanie\nB. 𝑦= 2\n3 𝑥+ 5\nD. 𝑦= 2\n3 𝑥+ 11\nA. 𝑦= 𝑥+ 3\nC. 𝑦= 𝑥−3\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/22.webp",
+   "size": [
+    951,
+    177
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (0–1)\n𝑚−2 𝑥−1  i  𝑦= 1\n1\nProste o równaniach  𝑦= −\n3 𝑥+ 1  są równoległe. Wynika stąd, że\nA. 𝑚= 5\nC. 𝑚= 7\n3\nB. 𝑚= −1\n3\nD. 𝑚= 5",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/23.webp",
+   "size": [
+    951,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nW prostokącie  𝐴𝐵𝐶𝐷  dane są wierzchołki  𝐶= (−3, 1)  oraz  𝐷= (2, 1). Bok  𝐴𝐷  ma\ndługość  6. Pole tego prostokąta jest równe\nA. 6√29\nB. 12√2\nC. 24\nD. 30",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/24.webp",
+   "size": [
+    951,
+    263
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–1)\nObrazem prostej o równaniu  𝑥−2𝑦+ 3 = 0  w symetrii osiowej względem osi  𝑂𝑦  jest prosta\no równaniu\nA. −𝑥+ 2𝑦+ 3 = 0\nB. −𝑥+ 2𝑦−3 = 0\nC. 𝑥+ 2𝑦−3 = 0\nD. 𝑥+ 2𝑦+ 3 = 0",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/25.webp",
+   "size": [
+    951,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (0–1)\nGraniastosłup prawidłowy ma  36  krawędzi. Długość każdej z tych krawędzi jest równa  4.\nPole powierzchni bocznej tego graniastosłupa jest równe\nA. 176\nB. 192\nC. 224\nD. 288",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/26.webp",
+   "size": [
+    951,
+    221
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (0–1)\nWysokość ściany bocznej ostrosłupa prawidłowego sześciokątnego jest  2  razy dłuższa od\nkrawędzi jego podstawy. Stosunek pola powierzchni bocznej tego ostrosłupa do pola jego\npodstawy jest równy\nA. 1\nB. 4ඥ3\nඥ3\n2\nC. 1\nD.\n4\n3",
+   "key": ""
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/27.webp",
+   "size": [
+    951,
+    246
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–1)\nW pudełku znajdują się płytki z literami. Na każdej płytce jest wydrukowana jedna litera –\nspółgłoskowa albo samogłoskowa. Płytek z literami spółgłoskowymi jest o  25% więcej niż\npłytek z literami samogłoskowymi. Losujemy jedną płytkę. Prawdopodobieństwo wylosowania\npłytki z literą samogłoskową jest równe\nC. 4\nD. 5\nA. 0,75\nB. 0,25\n9\n9",
+   "key": ""
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2021-czerwiec/28.webp",
+   "size": [
+    951,
+    205
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–1)\nŚrednia arytmetyczna czterech liczb dodatnich:  2, 3𝑥, 3𝑥+ 2, 3𝑥+ 4  jest równa  13\n2 . Wynika\nstąd, że\nB. 𝑥= 13\nC. 𝑥= 5\nA. 𝑥= 9\nD. 𝑥= 2\n9\n2",
+   "key": ""
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2021-czerwiec/29.webp",
+   "size": [
+    934,
+    108
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–2)\nRozwiąż nierówność:\n2(𝑥+ 1)(𝑥−3) < 𝑥ଶ−9",
+   "key": "Zadanie 29. (0–2)\nZasady oceniania\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap to wyznaczenie pierwiastków trójmianu kwadratowego  𝑥2 −4𝑥+ 3.\nDrugi etap to zapisanie zbioru rozwiązań nierówności kwadratowej  𝑥2 −4𝑥+ 3 < 0.\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nzrealizuje pierwszy etap rozwiązania i na tym poprzestanie lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\no obliczy lub poda pierwiastki trójmianu kwadratowego:  𝑥1 = 1  oraz  𝑥2 = 3\ni na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\no odczyta z wykresu funkcji  𝑓(𝑥) = 𝑥2 −4𝑥+ 3  i zapisze miejsca zerowe\ni na tym poprzestanie lub błędnie zapisze zbiór rozwiązań nierówności,\nALBO\nZasady oceniania rozwiązań zadań\n\nrealizując pierwszy etap rozwiązania zadania, popełni błąd (ale otrzyma dwa różne\npierwiastki) i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań\nnierówności, np.\no popełni błąd rachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu\nkwadratowego i konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań\nnierówności,\no błędnie zapisze równania wynikające ze wzorów Viète’a, np.  𝑥1 + 𝑥2 = 3\ni konsekwentnie do popełnionego błędu zapisze zbiór rozwiązań nierówności.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy:\n\npoda zbiór rozwiązań nierówności:  (1, 3)  lub  𝑥∈(1, 3)\nALBO\n\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\n1\n3\n𝑥\nUwagi:\n1. Jeżeli zdający podzieli obustronnie nierówność przez  (𝑥−3),  to otrzymuje 0 punktów\nza całe rozwiązanie.\n2. Jeżeli zdający wyznacza pierwiastki trójmianu kwadratowego w przypadku, gdy obliczony\nwyróżnik  𝛥  jest ujemny, to otrzymuje 0 punktów za całe rozwiązanie.\n3. Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to\noznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje\n0 punktów za całe rozwiązanie.\nKryteria uwzględniające specyficzne trudności w uczeniu się matematyki\nJeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności\nw postaci  (3, 1), to przyznajemy 2 punkty.\nPrzykładowe pełne rozwiązanie\nPierwszy etap rozwiązania\nPrzekształcamy równoważnie nierówność:\n2(𝑥+ 1)(𝑥−3) < 𝑥2 −9\n2(𝑥2 −3𝑥+ 𝑥−3) −𝑥2 + 9 < 0\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\n𝑥2 −4𝑥+ 3 < 0\ni obliczamy pierwiastki trójmianu  𝑥2 −4𝑥+ 3:\n\nobliczamy wyróżnik tego trójmianu:  Δ = 4  i stąd  𝑥1 = 1  oraz  𝑥2 = 3.\nALBO\n\nstosujemy wzory Viète’a:  𝑥1 ⋅𝑥2 = 3  oraz  𝑥1 + 𝑥2 = 4, stąd  𝑥1 = 1  oraz  𝑥2 = 3.\nALBO\n\npodajemy je bezpośrednio, zapisując pierwiastki trójmianu: 𝑥1 = 1  oraz  𝑥2 = 3.\nALBO\nSporządzamy wykres funkcji  𝑓(𝑥) = 𝑥2 −4𝑥+ 3, zaznaczamy miejsca zerowe na\n\nwykresie i podpisujemy  𝑥1 = 1  oraz  𝑥2 = 3.\nDrugi etap rozwiązania\nPodajemy zbiór rozwiązań nierówności:  (1, 3)  lub  𝑥∈(1, 3)  lub\n1\n3\n𝑥\nZasady oceniania rozwiązań zadań\nZadanie 29.\nZdający otrzymuje 1 pkt, jeżeli:\n\nstosuje\npoprawną\nmetodę\nobliczenia\npierwiastków\ntrójmianu\nkwadratowego\n𝑥2 −4𝑥+ 3, tzn. stosuje wzory na pierwiastki trójmianu kwadratowego i oblicza te\npierwiastki, popełniając błędy o charakterze dyskalkulicznym\nALBO\n\nzdający w wyniku obliczeń otrzyma wyróżnik ujemny, ale konsekwentnie narysuje parabolę\nALBO\n\npoprawnie rozwiąże nierówność  2(𝑥+ 1)(𝑥−3) < 0.\nZdający otrzymuje 2 pkt, jeżeli:\n\npomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań nierówności w postaci\n𝑥∈(3, 1).\nUwaga:\nJeżeli zdający zapisze zbiór rozwiązań nierówności w postaci przedziału domkniętego, to\nmoże otrzymać co najwyżej 1 pkt."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2021-czerwiec/30.webp",
+   "size": [
+    957,
+    181
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–2)\nWykaż, że dla wszystkich liczb rzeczywistych  𝑎, 𝑏  i  𝑐  takich, że  𝑎+𝑏\n> 𝑐  i  𝑏+𝑐\n> 𝑎,\n2\n2\nprawdziwa jest nierówność\n𝑎+ 𝑐\n< 𝑏\n2",
+   "key": "Zadanie 30. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy zapisze nierówność  𝑎+𝑏\n+ 𝑏+𝑐\n> 𝑐+ 𝑎  lub  𝑎+ 2𝑏+ 𝑐> 2𝑐+ 2𝑎  i na tym zakończy\n2\n2\nlub dalej popełnia błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy zapisze pełne rozumowanie.\nUwaga:\nJeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości  𝑎, 𝑏, czy\nteż  𝑐, to otrzymuje 0 punktów za całe rozwiązanie.\nPrzykładowe pełne rozwiązanie\nPonieważ  𝑎+𝑏\n> 𝑐  i  𝑏+𝑐\n> 𝑎 , więc\n2\n2\n𝑎+ 𝑏\n+ 𝑏+ 𝑐\n> 𝑐+ 𝑎\n2\n2\n𝑎\n2 + 𝑏\n2 + 𝑏\n2 + 𝑐\n2 > 𝑐+ 𝑎\nOdejmując od obu stron nierówności  𝑎\n2 + 𝑐\n2 , otrzymujemy\n𝑏> 𝑎\n2 + 𝑐\n2\nTo należało wykazać.\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\nZadanie 30.\nStosuje się zasady oceniania arkusza standardowego."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2021-czerwiec/31.webp",
+   "size": [
+    951,
+    144
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (0–2)\nDany jest ciąg arytmetyczny  (𝑎௡), określony dla wszystkich liczb naturalnych  𝑛≥1. Suma\ndwudziestu początkowych wyrazów tego ciągu jest równa  20𝑎ଶଵ+ 62. Oblicz różnicę\nciągu  (𝑎௡).",
+   "key": "Zadanie 31. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nwykorzysta wzór na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego i zapisze\nrównanie z niewiadomymi  𝑎1, 𝑎20, 𝑎21  i  𝑟, np.:\n𝑎1 + 𝑎20\n⋅20 = 20𝑎21 + 62\n2\nALBO\n\nwykorzysta wzór na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego i zapisze\nrównanie z niewiadomymi  𝑎1, 𝑎21  i  𝑟, np.:\n𝑎1 + 𝑎1 + 19𝑟\n⋅20 = 20𝑎21 + 62\n2\nALBO\n\nwykorzysta wzór na 𝑛–ty wyraz ciągu arytmetycznego i zapisze  𝑎21  za pomocą  𝑎1\ni  𝑟, np.:  𝑎21 = 𝑎1 + 20𝑟\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy obliczy różnicę  𝑟  ciągu arytmetycznego:  𝑟= −31\n105 .\nPrzykładowe pełne rozwiązanie\nNiech  𝑟  oznacza różnicę ciągu  (𝑎𝑛). Zgodnie z treścią zadania\n𝑎1 + 𝑎2 + ⋯+ 𝑎20 = 20𝑎21 + 62\nKorzystamy ze wzoru na sumę  𝑛  początkowych wyrazów ciągu arytmetycznego oraz ze\nwzoru na 𝑛–ty wyraz ciągu arytmetycznego i otrzymujemy\n𝑎1 + 𝑎20\n⋅20 = 20𝑎21 + 62\n2\n𝑎1 + 𝑎1 + 19𝑟\n⋅20 = 20(𝑎1 + 20𝑟) + 62\n2\n20𝑎1 + 190𝑟= 20𝑎1 + 400𝑟+ 62\n𝑟= −62\n210 = −31\n105\nZasady oceniania rozwiązań zadań\nZadanie 31.\nZdający otrzymuje 1 pkt, jeżeli:\n\nzapisze  𝑎1 + (𝑎1 + 𝑟) + ⋯+ (𝑎1 + 19𝑟) = 20𝑎21 + 62."
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2021-czerwiec/32.webp",
+   "size": [
+    951,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (0–2)\nDany jest trapez o podstawach długości  𝑎  oraz  𝑏  i wysokości  ℎ. Każdą z podstaw tego\ntrapezu wydłużono o  25%, a wysokość skrócono tak, że powstał nowy trapez o takim samym\npolu. Oblicz, o ile procent skrócono wysokość  ℎ  trapezu.",
+   "key": "Zadanie 32. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy zapisze równość pól obu trapezów (przed i po wykonaniu opisanych operacji):\n5\n4 𝑎+ 5\n4 𝑏\n𝑎+ 𝑏\n⋅𝑥\n⋅ℎ=\n2\n2\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy zapisze, że wysokość  ℎ  trapezu została skrócona o  20%.\nPrzykładowe pełne rozwiązanie\n(𝑎+𝑏)⋅ℎ\nPole  𝑃  trapezu jest równe  𝑃=\n.  Po wydłużeniu podstaw oraz skróceniu wysokości\n2\ntrapezu powstał trapez o podstawach  5\n4 𝑎,  5\n4 𝑏  oraz wysokości  𝑥  taki, że spełniona jest\nrówność pól:\n5\n4 (𝑎+ 𝑏)\n𝑎+ 𝑏\n⋅𝑥\n⋅ℎ=\n2\n2\nPo pomnożeniu obu stron tej równości przez  2\n𝑎+𝑏  otrzymujemy  ℎ= 5\n4 𝑥, czyli  𝑥= 4\n5 ℎ= 0,8ℎ.\nOznacza to, że wysokość  ℎ  trapezu została skrócona o  20%.\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\nZadanie 32.\nZdający otrzymuje 1 pkt, jeżeli:\n\nzapisze długości podstaw trapezu po ich wydłużeniu, np.: 1,25𝑎  oraz  1,25𝑏  (albo\n𝑎+ 25% ⋅𝑎  oraz  𝑏+ 25% ⋅𝑏)."
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2021-czerwiec/33.webp",
+   "size": [
+    957,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (0–2)\nW trójkącie  𝐴𝐵𝐶  boki  𝐵𝐶  i  𝐴𝐶  są równej długości. Prosta  𝑘  jest prostopadła do podstawy  𝐴𝐵\ntego trójkąta i przecina boki  𝐴𝐵  oraz  𝐵𝐶  w punktach – odpowiednio – 𝐷  i  𝐸. Pole czworokąta\nห𝐶𝐸ห\n𝐴𝐷𝐸𝐶  jest  17  razy większe od pola trójkąta  𝐵𝐸𝐷. Oblicz\nห𝐸𝐵ห .",
+   "key": "Zadanie 33. (0–2)\nZasady oceniania\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nzapisze związek między polami trójkątów  𝐹𝐵𝐶  oraz  𝐵𝐸𝐷:  𝑃𝐹𝐵𝐶= 9𝑃𝐵𝐸𝐷\nALBO\n\nzapisze, że trójkąty  𝐵𝐶𝐹  i  𝐵𝐸𝐷  są podobne\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\n|𝐶𝐸|\n|𝐶𝐸|\n|𝐸𝐵|:\n|𝐸𝐵| = 2.\ngdy obliczy\nPrzykładowe pełne rozwiązanie\nNiech  𝐹  będzie spodkiem wysokości trójkąta  𝐴𝐵𝐶  poprowadzonej z wierzchołka  𝐶  na\npodstawę  𝐴𝐵. Ponieważ  𝑃𝐴𝐷𝐸𝐶= 17𝑃𝐵𝐸𝐷  i trójkąt  𝐴𝐵𝐶  jest równoramienny, więc\n𝑃𝐹𝐵𝐶= 9𝑃𝐵𝐸𝐷.\nProsta  𝑘  jest równoległa do wysokości  𝐶𝐹, więc trójkąty  𝐵𝐶𝐹  i  𝐵𝐸𝐷  są podobne (na\npodstawie cechy kkk podobieństwa trójkątów).\nZ twierdzenia o stosunku pól figur podobnych i warunków zadania otrzymujemy\n2\n= (|𝐵𝐶|\n𝑃𝛥𝐹𝐵𝐶\n|𝐸𝐵|)\n𝑃𝛥𝐵𝐸𝐷\nwięc\n2\n|𝐵𝐶|\n9 = (\n|𝐸𝐵|)\n|𝐵𝐶|\n|𝐸𝐵| = 3\n|𝐵𝐸| + |𝐸𝐶|\n= 3\n|𝐸𝐵|\n|𝐵𝐸|\n|𝐵𝐸| + |𝐶𝐸|\n|𝐸𝐵| = 3\n|𝐶𝐸|\n|𝐸𝐵| = 2\nZasady oceniania rozwiązań zadań\nZadanie 33.\nStosuje się zasady oceniania arkusza standardowego.\nZasady oceniania rozwiązań zadań"
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2021-czerwiec/34.webp",
+   "size": [
+    950,
+    170
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (0–2)\nZe zbioru wszystkich liczb naturalnych dwucyfrowych, których cyfra dziesiątek należy do\nzbioru  {3, 4, 5, 6, 7, 8}, a cyfra jedności należy do zbioru  {0, 1, 2, 3, 4},  losujemy jedną liczbę.\nOblicz prawdopodobieństwo zdarzenia polegającego na tym, że wylosujemy liczbę\ndwucyfrową, która jest podzielna przez  4.",
+   "key": "Zadanie 34. (0–2)\nZasady oceniania\ndla sposobów 1.–4.\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nwypisze wszystkie zdarzenia elementarne lub obliczy/poda ich liczbę:  |Ω| = 6 ⋅5\nALBO\n\nzapisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu  𝐴  lub poda ich liczbę:\n|𝐴| = 9\nALBO\n\nnarysuje drzewo doświadczenia:\na) składające się ze wszystkich  30  gałęzi i zapisze na co najmniej jednym odcinku\nkażdego z etapów odpowiednie prawdopodobieństwo lub wskaże wszystkie istotne\ngałęzie na tym drzewie\nALBO\nb) składające się z mniej niż  30  gałęzi, ale wskaże na nim wszystkie gałęzie\nodpowiadające wylosowaniu liczby podzielnej przez  4\nALBO\n\nzapisze wszystkie zdarzenia elementarne sprzyjające zdarzeniu  𝐴′  lub poda ich\nliczbę:  |𝐴′| = 21\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy obliczy prawdopodobieństwo zdarzenia  𝐴:  𝑃(𝐴) = 9\n30 = 3\n10 .\nUwagi:\n1. Jeżeli zdający zapisze tylko:  |𝐴| = 9, |Ω| = 30, 𝑃(𝐴) = 9\n30, lub zapisze tylko  𝑃(𝐴) = 9\n30\nlub tylko  9\n30 , to otrzymuje 2 punkty.\n2. Jeżeli zdający sporządzi jedynie pustą tabelę o 30 pustych polach, to otrzymuje\n0 punktów.\n3. Jeżeli zdający narysuje tylko drzewko i nie wskaże wszystkich istotnych gałęzi na tym\ndrzewie ani nie opisze żadnej gałęzi, to otrzymuje 0 punktów.\n4. Jeżeli zdający zapisze tylko liczby  30  lub  9  lub  21  i z rozwiązania zadania nie wynika\nznaczenie tych liczb, to otrzymuje 0 punktów.\n5. Jeżeli zdający popełni błąd przy wypisywaniu wszystkich par (lub wskazywaniu gałęzi\nistotnych drzewa) i wypisze (wskaże) o jedną za mało lub o jedną za dużo, ale nie wypisze\n(wskaże) żadnej niewłaściwej i konsekwentnie do popełnionego błędu obliczy\nprawdopodobieństwo, to otrzymuje 1 punkt za całe rozwiązanie.\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\nPrzykładowe pełne rozwiązania\nSposób 1.\nZdarzeniem elementarnym jest liczba dwucyfrowa o cyfrze dziesiątek  𝑥  i cyfrze jedności  𝑦,\ngdzie  𝑥∈{3, 4, 5, 6, 7, 8}  oraz  𝑦∈{0, 1, 2, 3, 4}. Zatem zbiór wszystkich zdarzeń\nelementarnych  Ω  ma postać:\nΩ = {30, 31, 32, 33, 34, 40, 41, 42, 43, 44, 50, 51, 52, 53, 54,\n60, 61, 62, 63, 64, 70, 71, 72, 73, 74, 80, 81, 82, 83, 84}\nLiczba wszystkich zdarzeń elementarnych jest równa  |Ω| = 6 ⋅5 = 30.\nNiech  𝐴  oznacza zdarzenie losowe polegające na tym, że wylosowana liczba jest podzielna\nprzez  4. Wtedy  𝐴= {32, 40, 44, 52, 60, 64, 72, 80, 84}. Zdarzeniu  𝐴  sprzyja więc  9  zdarzeń\nelementarnych, tj. |𝐴| = 9. Stąd prawdopodobieństwo zdarzenia  𝐴  jest równe\n|Ω| = 9\n|𝐴|\n30 = 3\n𝑃(𝐴) =\n10\nUwaga:\nZdający może zapisać zbiór wszystkich zdarzeń elementarnych jako zbiór uporządkowanych\npar możliwych do utworzenia w wyniku losowania, tzn. może zastosować zapis:\nΩ = {(3, 0), (3, 1), (3, 2), (3, 3), (3, 4), (4, 0), (4, 1), (4, 2), (4, 3), (4, 4),\n(5, 0), (5, 1), (5, 2), (5, 3), (5, 4), (6, 0), (6, 1), (6, 2), (6, 3), (6, 4),\n(7, 0), (7, 1), (7, 2), (7, 3), (7, 4), (8, 0), (8, 1), (8, 2), (8, 3), (8, 4)}\nWtedy  𝐴= {(3, 2), (4, 0), (4, 4), (5, 2), (6, 0), (6, 4), (7, 2), (8, 0), (8, 4)}.\nSposób 2.\nNiech  𝐴  oznacza zdarzenie losowe polegające na tym, że wylosowana liczba jest podzielna\nprzez  4.\nObliczamy liczbę wszystkich zdarzeń elementarnych tego doświadczenia  |Ω| = 6 ⋅5 = 30\nlub opisujemy zbiór zdarzeń elementarnych np. w postaci tabeli\n𝟎\n𝟏\n𝟐\n𝟑\n𝟒\n𝟑\n30\n31\n32\n33\n34\n𝟒\n40\n41\n42\n43\n44\n𝟓\n50\n51\n52\n53\n54\n𝟔\n60\n61\n62\n63\n64\n𝟕\n70\n71\n72\n73\n74\n𝟖\n80\n81\n82\n83\n84\nWskazujemy elementy zbioru  𝐴  i zliczamy je:  |𝐴| = 9. Ponieważ wszystkie zdarzenia\njednoelementowe są jednakowo prawdopodobne, więc korzystamy z klasycznej definicji\nprawdopodobieństwa:\nZasady oceniania rozwiązań zadań\n𝑃(𝐴) = |𝐴|\n|Ω| = 9\n30 = 3\n10\nSposób 3.\nNiech  𝐴  oznacza zdarzenie losowe polegające na tym, że wylosowana liczba jest podzielna\nprzez  4.\nRysujemy drzewo stochastyczne rozważanego doświadczenia.\nPrawdopodobieństwo zdarzenia  𝐴  jest równe\n𝑃(𝐴) = 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 + 1\n6 ⋅1\n5 = 9\n30 = 3\n10\nUwaga:\nZdający może narysować drzewo stochastyczne, w którym na pierwszym etapie losujemy\ncyfrę nieparzystą lub parzystą.\nPrawdopodobieństwo zdarzenia  𝐴  może być obliczone w następujący sposób:\n𝑃(𝐴) = 1\n2 ⋅1\n5 + 1\n2 ⋅1\n5 + 1\n2 ⋅1\n5 = 3\n10\nSposób 4.\nNiech  𝐴  oznacza zdarzenie losowe polegające na tym, że wylosowana liczba jest podzielna\nprzez  4.\nObliczamy liczbę wszystkich zdarzeń elementarnych tego doświadczenia  |Ω| = 6 ⋅5 = 30\nlub opisujemy zbiór zdarzeń elementarnych np. w postaci tabeli\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\n𝟎\n𝟏\n𝟐\n𝟑\n𝟒\n𝟑\n30\n31\n32\n33\n34\n𝟒\n40\n41\n42\n43\n44\n𝟓\n50\n51\n52\n53\n54\n𝟔\n60\n61\n62\n63\n64\n𝟕\n70\n71\n72\n73\n74\n𝟖\n80\n81\n82\n83\n84\nWskazujemy elementy zbioru  𝐴′  i zliczamy je:  |𝐴′| = 21. Ponieważ wszystkie zdarzenia\njednoelementowe są jednakowo prawdopodobne, więc korzystamy z klasycznej definicji\nprawdopodobieństwa:\n𝑃(𝐴) = 1 −𝑃(𝐴′) = 1 −21\n30 = 9\n30 = 3\n10\nZasady oceniania rozwiązań zadań\nZadanie 34.\nZdający otrzymuje 1 pkt, jeżeli:\n\nzapisze jedynie liczbę  30  (należy traktować to jako wyznaczenie liczby wszystkich\nzdarzeń elementarnych).\nALBO\n\nzapisze liczbę  9, o ile z zapisów wynika, że interpretuje tę liczbę jako liczbę zdarzeń\nelementarnych sprzyjających zdarzeniu  𝐴  (np. jest to zilustrowane wypisaniem kilku\nzdarzeń elementarnych sprzyjających zdarzeniu  𝐴  i zdający nie zapisze zdarzeń\nelementarnych, które nie sprzyjają zdarzeniu  𝐴).\nZdający otrzymuje 2 pkt, jeżeli:\n\npoprawnie wypisze (lub zaznaczy) wszystkie zdarzenia elementarne sprzyjające\nzdarzeniu  𝐴, popełni błąd w ich zliczeniu i konsekwentnie zapisze wynik  𝑥\n30 , gdzie  𝑥  jest\nliczbą zliczonych zdarzeń elementarnych sprzyjających zdarzeniu  𝐴."
+  },
+  {
+   "task": "35",
+   "num": 35,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-P-2021-czerwiec/35.webp",
+   "size": [
+    956,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 35. (0–5)\nPodstawa  𝐴𝐵  trójkąta równoramiennego  𝐴𝐵𝐶  jest zawarta w prostej o równaniu  𝑦= −2𝑥+ 16.\nWierzchołki  𝐵  i  𝐶  mają współrzędne  𝐵= (3, 10)  i  𝐶= (−2, 3). Oblicz współrzędne\nwierzchołka  𝐴  i pole trójkąta  𝐴𝐵𝐶.",
+   "key": "Zadanie 35. (0–5)\nZasady oceniania\ndla sposobów 1.–3.\nZdający otrzymuje  .......................................................................................................... 1 p.\ngdy:\n\nwyznaczy równanie prostej zawierającej wysokość opuszczoną z wierzchołka  𝐶  na\nbok  𝐴𝐵:  𝑦= 1\n2 𝑥+ 4\nALBO\n\nobliczy długość ramienia  𝐵𝐶: |𝐵𝐶| = √74\nALBO\nobliczy współczynnik kierunkowy prostej  𝐵𝐶:  𝑎𝐵𝐶= 7\n\n5\nZdający otrzymuje  .......................................................................................................... 2 p.\ngdy:\nobliczy współrzędne punktu  𝐷, będącego środkiem odcinka  𝐴𝐵:  𝐷= (24\n5 , 32\n\n5 )\nALBO\n\nzapisze równanie wynikające z równoramienności trójkąta  𝐴𝐵𝐶, umożliwiające\nobliczenie pierwszej współrzędnej  𝑥𝐴  punktu  𝐴:\n2 + (−2𝑥𝐴+ 16 −3)2 = √(3 −(−2))\n2 + (10 −3)2\n√(𝑥𝐴−(−2))\nALBO\nwyznaczy równanie prostej  𝐴𝐶:  𝑦= −1\n43 𝑥+ 127\n\n43\nZdający otrzymuje  .......................................................................................................... 3 p.\nobliczy współrzędne punktu  𝐴:  𝐴= (33\n5 , 14\n5 ).\nZdający otrzymuje  .......................................................................................................... 4 p.\ngdy obliczy długość podstawy  𝐴𝐵  i wysokość  𝐶𝐷  trójkąta:  |𝐴𝐵| = 18√5\n, |𝐶𝐷| = 17√5\n5 .\n5\nZdający otrzymuje  .......................................................................................................... 5 p.\ngdy obliczy współrzędne punktu  𝐴  i obliczy pole trójkąta  𝐴𝐵𝐶:  𝐴= (33\n5 , 14\n5 ),  𝑃𝐴𝐵𝐶= 153\n5 .\nUwaga:\nJeśli zdający realizuję strategię rozwiązania i popełnia jedynie błędy rachunkowe, to może\notrzymać 4 punkty, o ile popełnione błędy nie ułatwiają rozważanego zagadnienia na żadnym\netapie rozwiązania.\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\nPrzykładowe pełne rozwiązania\nSposób 1.\nTrójkąt  𝐴𝐵𝐶  jest równoramienny, więc wysokość opuszczona z wierzchołka  𝐶  na podstawę\n𝐴𝐵  jest jednocześnie środkową trójkąta  𝐴𝐵𝐶.\nNiech  𝐷  będzie środkiem odcinka  𝐴𝐵.\nWyznaczamy równanie prostej  𝐶𝐷, zawierającej wysokość trójkąta:\n𝑦= 𝑎𝑥+ 𝑏\n𝑎⋅(−2) = −1          (gdyż  𝐶𝐷⊥𝑦= −2𝑥+ 16)\n𝑎= 1\n2\n3 = 1\n2 ⋅(−2) + 𝑏      (gdyż  𝐶∈𝐶𝐷)\n𝑏= 4\nZatem prosta  𝐶𝐷  ma równanie  𝑦= 1\n2 𝑥+ 4.\nWyznaczamy współrzędne punktu  𝐷  (tj. punktu, w którym przecinają się proste  𝐴𝐵  i  𝐶𝐷):\n{𝑦= 1\n2 𝑥+ 4\n𝑦= −2𝑥+ 16\nStąd  𝑥= 24\n5  i  𝑦= 32\n5 , więc  𝐷= (24\n5 , 32\n5 ).\nKorzystamy z faktu, że  𝐷  jest środkiem odcinka  𝐴𝐵  i obliczamy współrzędne punktu  𝐴:\n(24\n5 , 32\n5 ) = (𝑥𝐴+ 3\n, 𝑦𝐴+ 10\n)\n2\n2\n24\n5 = 𝑥𝐴+ 3\ni      32\n5 = 𝑦𝐴+ 10\n2\n2\nStąd  𝐴= (33\n5 , 14\n5 ).\nObliczamy długości podstawy  𝐴𝐵  i wysokości  𝐶𝐷  trójkąta:\n2\n2\n2\n2\n|𝐴𝐵| = √(3 −33\n+ (10 −14\n= √(−18\n+ (36\n= √324\n25 + 4 ⋅324\n= √324\n25 ⋅5 = 18√5\n5 )\n5 )\n5 )\n5 )\n25\n5\n2\n2\n2\n2\n|𝐶𝐷| = √(24\n+ (32\n= √(34\n+ (17\n= √4 ⋅289\n+ 289\n25 = √289\n25 ⋅5 = 17√5\n5 −(−2))\n5 −3)\n5 )\n5 )\n25\n5\nObliczamy pole  𝑃𝐴𝐵𝐶  trójkąta  𝐴𝐵𝐶:\n𝑃𝐴𝐵𝐶= 1\n2 ⋅|𝐴𝐵| ⋅|𝐶𝐷| = 1\n2 ⋅18√5\n⋅17√5\n= 153\n5\n5\n5\nZasady oceniania rozwiązań zadań\nSposób 2.\nNiech  𝑥𝐴  oznacza pierwszą współrzędną punktu  𝐴. Punkt  𝐴  leży na prostej  𝑦= −2𝑥+ 16,\nwięc  𝐴= (𝑥𝐴, −2𝑥𝐴+ 16).\nTrójkąt  𝐴𝐵𝐶  jest równoramienny, w którym  |𝐶𝐴| = |𝐶𝐵|. Stąd\n2 + (−2𝑥𝐴+ 16 −3)2 = √(3 −(−2))\n2 + (10 −3)2\n√(𝑥𝐴−(−2))\ni dalej\n√(𝑥𝐴+ 2)2 + (−2𝑥𝐴+ 13)2 = √74\n5(𝑥𝐴)2 −48𝑥𝐴+ 99 = 0\nΔ = (−48)2 −4 ⋅5 ⋅99 = 324\n𝑥𝐴= 48 −18\n= 3   lub   𝑥𝐴= 48 + 18\n= 33\n5\n10\n10\nRozwiązanie  𝑥𝐴= 3  odrzucamy, gdyż wtedy punkty  𝐴  i  𝐵  pokrywałyby się.\nZatem  𝐴= (33\n5 , 14\n5 ).\nObliczymy pole  𝑃𝐴𝐵𝐶  trójkąta  𝐴𝐵𝐶, korzystając ze wzoru\n𝑃𝐴𝐵𝐶= 1\n2 |(𝑥𝐵−𝑥𝐴)(𝑦𝐶−𝑦𝐴) −(𝑦𝐵−𝑦𝐴)(𝑥𝐶−𝑥𝐴)|\nOtrzymujemy\n𝑃𝐴𝐵𝐶= 1\n2 |(3 −33\n5 ) (3 −14\n5 ) −(10 −14\n5 ) (−2 −33\n5 )| = 1\n2 ⋅|(−18\n5 ) ⋅1\n5 −36\n5 ⋅(−43\n5 )| =\n= 1\n2 ⋅|1530\n25 | = 153\n5\nSposób 3.\nTrójkąt  𝐴𝐵𝐶  jest równoramienny o podstawie  𝐴𝐵. Niech  𝛼= |∡𝐶𝐴𝐵| = |∡𝐶𝐵𝐴|.\nWyznaczamy równanie prostej  𝐵𝐶:\n{10 = 𝑎⋅3 + 𝑏\n3 = 𝑎⋅(−2) + 𝑏\nStąd  𝑎= 7\n5  i  𝑏= 29\n5 .\nProste  𝐴𝐵  i  𝐵𝐶  tworzą kąt ostry  𝛼, więc\n7\n5 −(−2)\ntg 𝛼= | 𝑎𝐵𝐶−𝑎𝐴𝐵\n| = |−17\n9 | = 17\n9\n| = |\n1 + 7\n1 + 𝑎𝐵𝐶⋅𝑎𝐴𝐵\n5 ⋅(−2)\nProste  𝐴𝐵  i  𝐴𝐶 tworzą kąt ostry  𝛼, więc\n| = | 𝑎𝐴𝐶−(−2)\ntg 𝛼= | 𝑎𝐴𝐶−𝑎𝐴𝐵\n1 + 𝑎𝐴𝐶⋅(−2)| = | 𝑎𝐴𝐶+ 2\n|\n1 + 𝑎𝐴𝐶⋅𝑎𝐴𝐵\n1 −2𝑎𝐴𝐶\nŁącząc ostatnie dwa równania, otrzymujemy kolejno\nEgzamin maturalny z matematyki (poziom podstawowy) – sesja dodatkowa 2021 r.\n| 𝑎𝐴𝐶+ 2\n| = 17\n9\n1 −2𝑎𝐴𝐶\n𝑎𝐴𝐶+ 2\n= 17\n9  lub  𝑎𝐴𝐶+ 2\n= −17\n9\n1 −2𝑎𝐴𝐶\n1 −2𝑎𝐴𝐶\n9(𝑎𝐴𝐶+ 2) = 17(1 −2𝑎𝐴𝐶)    lub    9(𝑎𝐴𝐶+ 2) = −17(1 −2𝑎𝐴𝐶)\n43𝑎𝐴𝐶= −1     lub    25𝑎𝐴𝐶= 35\n𝑎𝐴𝐶= −1\n43   lub   𝑎𝐴𝐶= 7\n5\nRozwiązanie  𝑎𝐴𝐶= 7\n5  odrzucamy, gdyż wtedy proste  𝐴𝐶  i  𝐵𝐶  pokrywałyby się. Zatem\n𝑎𝐴𝐶= −1\n43.\nWyznaczamy równanie prostej  𝐴𝐶:  3 = −1\n43 ⋅(−2) + 𝑏, skąd otrzymujemy  𝑏= 127\n43 ,\n𝑦= −1\n43 𝑥+ 127\n43 .\nWyznaczamy współrzędne punktu  𝐴  jako punktu przecięcia prostych  𝐴𝐵  i  𝐴𝐶:\n𝑦= −2𝑥+ 16\n𝑦= −1\n43 𝑥+ 127\n{\n43\nStąd  𝑥= 33\n5  oraz  𝑦= 14\n5 .\nObliczamy wysokość  ℎ  trójkąta  𝐴𝐵𝐶  opuszczoną z wierzchołka  𝐶  na podstawę  𝐴𝐵  jako\nodległość wierzchołka  𝐶  od prostej  𝐴𝐵:\n|2 ⋅(−2) + 3 −16|\n|−17|\n= 17\nℎ= 𝑑(𝐶, pr. 𝐴𝐵) =\n=\n√22 + 11\n√5\n√5\nObliczamy długość boku  𝐴𝐵:\n2\n2\n2\n2\n|𝐴𝐵| = √(3 −33\n+ (10 −14\n= √(−18\n+ (36\n= √324\n25 + 4 ⋅324\n= √324\n25 ⋅5 = 18√5\n5 )\n5 )\n5 )\n5 )\n25\n5\nObliczamy pole  𝑃𝐴𝐵𝐶  trójkąta  𝐴𝐵𝐶:\n𝑃𝐴𝐵𝐶= 1\n2 ⋅|𝐴𝐵| ⋅|𝐶𝐷| = 1\n2 ⋅18√5\n⋅17√5\n= 153\n5\n5\n5\nZasady oceniania rozwiązań zadań\nOcena prac osób ze stwierdzoną dyskalkulią\nObowiązują  zasady oceniania stosowane przy sprawdzaniu prac zdających bez stwierdzonej\ndyskalkulii z dodatkowym uwzględnieniem:\nI. ogólnych zasad oceniania zadań otwartych w przypadku arkuszy osób ze stwierdzoną\ndyskalkulią (punkty 1.–12.);\nII. dodatkowych szczegółowych zasad oceniania zadań otwartych w przypadku arkuszy\nosób ze stwierdzoną dyskalkulią – matura z matematyki, poziom podstawowy, termin\ndodatkowy 2021.\nI.\nOgólne zasady oceniania zadań otwartych w przypadku arkuszy osób ze\nstwierdzoną dyskalkulią\n1. Nie należy traktować jako błędy merytoryczne pomyłek, wynikających z:\n\nbłędnego przepisania,\n\nprzestawienia cyfr,\n\nzapisania innej cyfry, ale o podobnym wyglądzie,\n\nprzestawienia położenia przecinka.\n2. W p"
+  }
+ ]
+}

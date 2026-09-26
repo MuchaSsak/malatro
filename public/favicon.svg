@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" shape-rendering="crispEdges">
+  <rect x="5" y="2" width="22" height="28" rx="3" fill="#fdfdfd" stroke="#374244" stroke-width="2"/>
+  <text x="16" y="21" font-family="monospace" font-size="14" font-weight="bold" text-anchor="middle" fill="#fe5f55">∑</text>
+  <rect x="8" y="5" width="5" height="2" fill="#009dff"/>
+</svg>

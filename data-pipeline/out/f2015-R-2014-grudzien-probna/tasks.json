@@ -1,0 +1,282 @@
+{
+ "exam": {
+  "id": "f2015-R-2014-grudzien-probna",
+  "formula": "2015",
+  "level": "R",
+  "year": 2014,
+  "session": "probna",
+  "month": "12",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/egzamin_probny_2015/matematyka_pr/A1Matematyka_PR_arkusz.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/egzamin_probny_2015/matematyka_pr/Matematyka_PR_model_odpowiedzi.pdf",
+  "examFile": "f2015-R-2014-grudzien-probna.pdf",
+  "keyFile": "f2015-R-2014-grudzien-probna-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "CKE probny egzamin maturalny grudzien 2014 (formula 2015)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2015/materialy-dodatkowe/probny-egzamin/matematyka-poziom-podstawowy-i-rozszerzony/",
+  "examPages": 21,
+  "keyPages": 22,
+  "examBytes": 2772572,
+  "keyBytes": 490002
+ },
+ "keyHead": "EGZAMIN MATURALNY\nOD ROKU SZKOLNEGO 2014/2015\nMATEMATYKA\nPOZIOM ROZSZERZONY\nROZWIĄZANIA ZADAŃ I SCHEMATY PUNKTOWANIA\n(A1, A2, A3, A4, A6, A7)\nGRUDZIEŃ 2014\nKlucz odpowiedzi do zadań zamkniętych\nNr zadania\n1\n2\n3\n4\n5\nOdpowiedź\nA\nC\nD\nC\nB\nWymagania ogólne\nWymagania szczegółowe\nZadanie 1. (0–1)\nR3.4. Zdający stosuje twierdzenia o reszcie z dzielenia\nI. Wykorzystanie i tworzenie\ninformacji.\n.\n\nwielomianu przez dwumian x\na\nPoprawna odpowiedź: A\nZadanie 2. (0–1)\nR8.5., 4.5. Zdający posługuje się równaniem okręgu\n\n\n2\n\n\n2\n2\n\n\n\n\nI. Wykorzystanie i tworzenie\nx\na\ny\nb\nr\noraz opisuje koła za pomocą\ninformacji.\nnierówności, rysuje wykres funkcji liniowej, korzystając\nz jej wzoru.\nPoprawna odpowiedź: C\nZadanie 3. (0–1)\nII. Wykorzystanie\nR11.4. Zdający korzysta z własności pochodnej do\ni interpretowanie\nwyznaczenia przedziałów monotoniczności funkcji.\nreprezentacji.\nPoprawna odpowiedź: D\nZadanie 4. (0–1)\nR6.4. Zdający posługuje się wykresami funkcji\nII. Wykorzystanie\ntrygonometrycznych (np. przy rozwiązywaniu nierówności\ni interpretowanie\nreprezentacji.\n).\n\n\n\ntypu sin\nx\na\n,cos\nx\na\n,tg\nx\na\nPoprawna odpowiedź: C\nZadanie 5. (0–1)\n\n\n4.4., 4.3. Zdający na podstawie wykresu funkcji\ny\nf x\n\n\n\n\n\n\n\nszkicuje wykresy funkcji\ny\nf x\na\n,\ny\nf x\na\n,\nII. Wykorzystanie\n\n\n\n\n\n\ny\nf x\n,\ny\nf\nx\n; odczytuje z wykresu własności\ni interpretowanie\nfunkcji (dziedzinę, zbiór wartości, miejsca zerowe,\nreprezentacji.\nmaksymalne przedziały, w których funkcja maleje, rośnie,\nma stały znak; punkty, w których funkcja przyjmuje\nw podanym przedziale wartość największą lub najmniejszą).\nPoprawna odpowiedź: B\nZadanie 6. (0–2) – zadanie kodowane\nG6.6., 2.1. Zdający wyłącza wspólny czynnik z wyrazów\nIV. Użycie i tworzenie\nsumy algebraicznej poza nawias, używa wzorów skróconego\nstrategii\nmnożenia na \n2\n2\nb .\n2\n\n\na\nb\noraz\na\nPoprawna odpowiedź: 210\nZadanie 7. (0–2)\nDługości boków prostokąta są równe 3 oraz 5. Oblicz sinus kąta ostrego, który tworzą\nprzekątne tego prostokąta.\n6.1., R6.5. Zdający wykorzystuje definicje i wyznacza\nII. Wykorzystanie\nwartości funkcji sinus, cosinus i tangens kątów o miarach od\ni interpretowanie\n0\ndo 180\n, stosuje wzory na sinus i cosinus sumy i różnicy\nreprezentacji\nkątów, sumę i różnicę sinusów i cosinusów kątów.\nRozwiązanie (I sposób):\nPrzyjmijmy oznaczenia jak na rysunku.\nC\nD\nS\n3\n\n\n5\nA\nB\nWtedy \n\n\nAC \n. Z twierdzenia Pitagorasa otrzymujemy\n34\n.\n3\n5\n\n\nPonieważ\nsin\noraz\ncos\n, więc\n34\n34\n3\n5\n15\n\n\n\n\n\n\n\n\nsin\n2sin\ncos\n2\n17\n34\n34\nRozwiązanie (II sposób):\n34 . Niech  oznacza kąt ostry między przekątnymi\nPrzekątna tego prostokąta ma długość\ntego prostokąta.\nObliczamy pole P prostokąta dwoma sposobami:\n1\n34\n34\nP \n\n\n\n\n\n\n\n\n3 5\n15\n,\nP\n4\nsin\n17sin\n.\n2\n2\n2\n15\n\nStąd\nsin\n.\n17\nSchemat oceniania\nZdający otrzymuje – 1 pkt\njeżeli:\n\n\n3\n5\npoda wartość\nsin 2\ni\ncos 2\n34\n34\nalbo\npoda sposób obliczenia pola prostokąta przy wykorzystaniu sin.\nZdający otrzymuje – 2 pkt\n15\n\njeżeli obliczy\nsin\n.\n17\nZadanie 8. (0–2)\n\n\n\n\n2\n2\n\nn\n2\nn\n\n\n\nOblicz granicę\nlim\n.\n\n\n\n\nn\n2\nn\n444\n\nn\n\n\nII. Wykorzystanie\nR11.1. Zdający oblicza granice funkcji (i granice\ni interpretowanie\njednostronne), korzystając z twierdzeń o działaniach na\nreprezentacji\ngranicach i z własności funkcji ciągłych.\nRozwiązanie:\n\n\n\n\n\n\n\n\n\n2\n3\n2\n2\n\n\n\n\nn\n2\nn\nn\n444\nn\n2\nn\n\n\n\n\n\n\n\nlim\nlim\n\n\n\n\n\n\n\n\n\n\n\nn\n2\nn\n444\nn\n2\nn\n444\n\n\nn\nn\n\n\n\n\n2\n\n\n438\nn\n12\nn\n8\n\n\nlim\n438\n\n\n\n\n\nn\n2\nn\n444\n\nn\nSchemat oceniania\nZdający otrzymuje – 1 pkt\n\n\n2\n2\n\n2\nn\n2\n\n\nn\n438\nn\n12\nn\n8\n\njeżeli poprawnie zapisze wyrażenie\nw postaci ułamka, np. \n.\n",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2014-grudzien-probna/1.webp",
+   "size": [
+    950,
+    130
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\n\n\n3\n\n2\n jest podzielny przez dwumian\nx . Wynika stąd, że\nWielomian\nW x\n2\nx\nbx\n1\n1\nb \nb \nb \nb \nA.\n3\nB.\n1\nC.\n1\nD.\n3",
+   "key": "Zadanie 1. (0–1)\nR3.4. Zdający stosuje twierdzenia o reszcie z dzielenia\nI. Wykorzystanie i tworzenie\ninformacji.\n.\n\nwielomianu przez dwumian x\na\nPoprawna odpowiedź: A"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2014-grudzien-probna/2.webp",
+   "size": [
+    950,
+    128
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\nOkrąg o równaniu \n\n\n\n2\n2\n\n\n\n\nx\n2\ny\n2\n4\nma dwa punkty wspólne z prostą o równaniu\nx \n\n\ny \nA.\n0\nB.\n0\nC. y\nx\nD. y\nx",
+   "key": "Zadanie 2. (0–1)\nR8.5., 4.5. Zdający posługuje się równaniem okręgu\n\n\n2\n\n\n2\n2\n\n\n\n\nI. Wykorzystanie i tworzenie\nx\na\ny\nb\nr\noraz opisuje koła za pomocą\ninformacji.\nnierówności, rysuje wykres funkcji liniowej, korzystając\nz jej wzoru.\nPoprawna odpowiedź: C"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2014-grudzien-probna/3.webp",
+   "size": [
+    950,
+    264
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\n\n5\n\n\nf x\n( )\nx\n5\nx\n1\nFunkcja określona dla każdej liczby rzeczywistej x wzorem\nA. ma więcej niż dwa minima lokalne.\nB. ma dokładnie dwa minima lokalne.\nC. ma dokładnie jedno minimum lokalne.\nD. nie ma minimum lokalnego.",
+   "key": "Zadanie 3. (0–1)\nII. Wykorzystanie\nR11.4. Zdający korzysta z własności pochodnej do\ni interpretowanie\nwyznaczenia przedziałów monotoniczności funkcji.\nreprezentacji.\nPoprawna odpowiedź: D"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2014-grudzien-probna/4.webp",
+   "size": [
+    950,
+    298
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\n\n\n\n3\n\n\nKażda liczba x należąca do przedziału otwartego\nx\n,\nspełnia nierówność\n\n\n2\n4\n\n\nA. tg\nx\nsin\nx\n\nB. cos\nx\nsin\nx\n\nC. cos\nx\ntg\nx\n\nD. tg\nx\ncos\nx",
+   "key": "Zadanie 4. (0–1)\nR6.4. Zdający posługuje się wykresami funkcji\nII. Wykorzystanie\ntrygonometrycznych (np. przy rozwiązywaniu nierówności\ni interpretowanie\nreprezentacji.\n).\n\n\n\ntypu sin\nx\na\n,cos\nx\na\n,tg\nx\na\nPoprawna odpowiedź: C"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2014-grudzien-probna/5.webp",
+   "size": [
+    950,
+    375
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\n2 \nFunkcja f jest określona dla wszystkich liczb rzeczywistych wzorem \n\nx\n\nf\nx\n3\n3\n. Prosta l\nma równanie y = 3,3. Ile punktów wspólnych mają wykres funkcji f i prosta l?\nA. Zero.\nB. Jeden.\nC. Dwa.\nD. Nieskończenie wiele.\nW zadaniu 6. zakoduj we wskazanym miejscu wynik zgodnie z poleceniem.",
+   "key": "Zadanie 5. (0–1)\n\n\n4.4., 4.3. Zdający na podstawie wykresu funkcji\ny\nf x\n\n\n\n\n\n\n\nszkicuje wykresy funkcji\ny\nf x\na\n,\ny\nf x\na\n,\nII. Wykorzystanie\n\n\n\n\n\n\ny\nf x\n,\ny\nf\nx\n; odczytuje z wykresu własności\ni interpretowanie\nfunkcji (dziedzinę, zbiór wartości, miejsca zerowe,\nreprezentacji.\nmaksymalne przedziały, w których funkcja maleje, rośnie,\nma stały znak; punkty, w których funkcja przyjmuje\nw podanym przedziale wartość największą lub najmniejszą).\nPoprawna odpowiedź: B"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2014-grudzien-probna/6.webp",
+   "size": [
+    950,
+    337
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–2)\n3\n\n3\n\n\nab \nDane są liczby a, b takie, że\na\nb\n4\ni\n7\n. Oblicz\na b\nab\n. Zakoduj w kratkach poniżej\nkolejno, od lewej do prawej, cyfry setek, dziesiątek i jedności otrzymanego wyniku.\nCyfra\nsetek\ndziesiątek\njedności\nRozwiązania zadań 7.–18. należy zapisać w wyznaczonych miejscach pod treścią zadania.",
+   "key": "Zadanie 6. (0–2) – zadanie kodowane\nG6.6., 2.1. Zdający wyłącza wspólny czynnik z wyrazów\nIV. Użycie i tworzenie\nsumy algebraicznej poza nawias, używa wzorów skróconego\nstrategii\nmnożenia na \n2\n2\nb .\n2\n\n\na\nb\noraz\na\nPoprawna odpowiedź: 210"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2014-grudzien-probna/7.webp",
+   "size": [
+    950,
+    105
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–2)\nDługości boków prostokąta są równe 3 oraz 5. Oblicz sinus kąta ostrego, który tworzą\nprzekątne tego prostokąta.",
+   "key": "Zadanie 7. (0–2)\nDługości boków prostokąta są równe 3 oraz 5. Oblicz sinus kąta ostrego, który tworzą\nprzekątne tego prostokąta.\n6.1., R6.5. Zdający wykorzystuje definicje i wyznacza\nII. Wykorzystanie\nwartości funkcji sinus, cosinus i tangens kątów o miarach od\ni interpretowanie\n0\ndo 180\n, stosuje wzory na sinus i cosinus sumy i różnicy\nreprezentacji\nkątów, sumę i różnicę sinusów i cosinusów kątów.\nRozwiązanie (I sposób):\nPrzyjmijmy oznaczenia jak na rysunku.\nC\nD\nS\n3\n\n\n5\nA\nB\nWtedy \n\n\nAC \n. Z twierdzenia Pitagorasa otrzymujemy\n34\n.\n3\n5\n\n\nPonieważ\nsin\noraz\ncos\n, więc\n34\n34\n3\n5\n15\n\n\n\n\n\n\n\n\nsin\n2sin\ncos\n2\n17\n34\n34\nRozwiązanie (II sposób):\n34 . Niech  oznacza kąt ostry między przekątnymi\nPrzekątna tego prostokąta ma długość\ntego prostokąta.\nObliczamy pole P prostokąta dwoma sposobami:\n1\n34\n34\nP \n\n\n\n\n\n\n\n\n3 5\n15\n,\nP\n4\nsin\n17sin\n.\n2\n2\n2\n15\n\nStąd\nsin\n.\n17\nSchemat oceniania\nZdający otrzymuje – 1 pkt\njeżeli:\n\n\n3\n5\npoda wartość\nsin 2\ni\ncos 2\n34\n34\nalbo\npoda sposób obliczenia pola prostokąta przy wykorzystaniu sin.\nZdający otrzymuje – 2 pkt\n15\n\njeżeli obliczy\nsin\n.\n17"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2014-grudzien-probna/8.webp",
+   "size": [
+    949,
+    119
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–2)\n\n\n\n\n2\n\n2\nn\n2\nn\n\n\n\nOblicz granicę\nlim\n.\n\n\n\n\nn\n2\nn\n444\n\nn\n\n",
+   "key": "Zadanie 8. (0–2)\n\n\n\n\n2\n2\n\nn\n2\nn\n\n\n\nOblicz granicę\nlim\n.\n\n\n\n\nn\n2\nn\n444\n\nn\n\n\nII. Wykorzystanie\nR11.1. Zdający oblicza granice funkcji (i granice\ni interpretowanie\njednostronne), korzystając z twierdzeń o działaniach na\nreprezentacji\ngranicach i z własności funkcji ciągłych.\nRozwiązanie:\n\n\n\n\n\n\n\n\n\n2\n3\n2\n2\n\n\n\n\nn\n2\nn\nn\n444\nn\n2\nn\n\n\n\n\n\n\n\nlim\nlim\n\n\n\n\n\n\n\n\n\n\n\nn\n2\nn\n444\nn\n2\nn\n444\n\n\nn\nn\n\n\n\n\n2\n\n\n438\nn\n12\nn\n8\n\n\nlim\n438\n\n\n\n\n\nn\n2\nn\n444\n\nn\nSchemat oceniania\nZdający otrzymuje – 1 pkt\n\n\n2\n2\n\n2\nn\n2\n\n\nn\n438\nn\n12\nn\n8\n\njeżeli poprawnie zapisze wyrażenie\nw postaci ułamka, np. \n.\n\n\n\n\n\n\nn\n2\nn\n444\nn\n2\nn\n444\nZdający otrzymuje – 2 pkt\njeżeli poprawnie obliczy wartość granicy."
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2014-grudzien-probna/9.webp",
+   "size": [
+    950,
+    150
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–2)\n2\nx\n\nx \nFunkcja f  jest określona wzorem\nf x\n( )\ndla każdej liczby rzeczywistej\n4\n. Oblicz\n\nx\n4\n\npochodną funkcji f w punkcie\nx\n12\n.",
+   "key": "Zadanie 9. (0–2)\n2\nx\nx \n\nFunkcja f  jest określona wzorem\nf x\n( )\ndla każdej liczby rzeczywistej\n4\n. Oblicz\n\nx\n4\n\npochodną funkcji f w punkcie\nx\n12\n.\nII. Wykorzystanie\nR11.2. Zdający oblicza pochodne funkcji wymiernych.\ni interpretowanie\nreprezentacji\nRozwiązanie:\n\n\n2\n\n\n2\n2\nx x\n4\nx\n\nx\n8\nx\n\n,\n\n\nf\n( )\nx\n\n\n\n\n2\n2\n\n\nx\n4\nx\n4\n\n144\n96\n3\n\n\n\n.\nf\n(12)\n64\n4\nSchemat oceniania\nZdający otrzymuje – 1 pkt\n\n\n2\n\n\n2\nx x\n4\nx\ngdy poprawnie poda wzór funkcji f , np.\n\n\nf\n( )\nx\n\n\n2\n\nx\n4\nZdający otrzymuje – 2 pkt\n3\nf \n\n\ngdy obliczy wartość pochodnej dla\nx\n12\n:\n(12)\n4"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2014-grudzien-probna/10.webp",
+   "size": [
+    950,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–3)\n4\n\nFunkcja f jest określona wzorem\nf x\n( )\nx\ndla każdej liczby rzeczywistej x. Wyznacz\n\n\nrównanie prostej stycznej do wykresu funkcji f , która jest równoległa do prostej\n.\ny\n4\nx\n7",
+   "key": "Zadanie 10. (0–3)\n\n4\nFunkcja f jest określona wzorem\nf x\n( )\nx\ndla każdej liczby rzeczywistej x. Wyznacz\n\n\nrównanie prostej stycznej do wykresu funkcji f , która jest równoległa do prostej\n.\ny\n4\nx\n7\nIV. Użycie i tworzenie\nR11.3. Zdający korzysta z geometrycznej i fizycznej\ninterpretacji pochodnej.\nstrategii\nRozwiązanie:\nStyczna do wykresu funkcji f w punkcie \n\nx\n, (\nf x\n)\njest prostą o równaniu\n0\n0\n\n\n\n\n\n\ny\nf x\n(\n)\nf\n(\nx\n)\nx\nx\n0\n0\n0\nObliczamy pochodną funkcji f:\n\n\n3\nf\n( )\nx\n4\nx\n\n\n\n\nPonieważ styczna jest równoległa do prostej o równaniu\ny\n4\nx\n7\n, więc\nf\n(\nx\n)\n4\n.\n0\nx  i styczna ma równanie\nZatem\n1\n0\n\n\n\n\n\n.\ny\n1\n4\nx\n1\n, czyli\ny\n4\nx\n3\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp – 1 p.\n\n3\n\nObliczenie pochodnej funkcji f:\nf\n( )\nx\n4\nx\n.\nPokonanie zasadniczych trudności zadania – 2 p.\nx .\nObliczenie pierwszej współrzędnej punktu styczności:\n1\n0\nRozwiązanie pełne – 3 p.\n\n.\nZapisanie równania stycznej w postaci np.\ny\n4\nx\n3"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2014-grudzien-probna/11.webp",
+   "size": [
+    949,
+    78
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–3)\n\n\nWyznacz wszystkie liczby rzeczywiste x, spełniające równanie sin5\nx\nsin\nx\n0\n.",
+   "key": "Zadanie 11. (0–3)\n\n\nWyznacz wszystkie liczby rzeczywiste x, spełniające równanie sin5\nx\nsin\nx\n0\n.\nIV. Użycie i tworzenie\nR6.5. Zdający stosuje wzory na sinus i cosinus sumy i różnicy\nstrategii\nkątów, sumę i różnicę sinusów i cosinusów kątów.\nRozwiązanie (I sposób):\nKorzystamy ze wzoru na różnicę sinusów i zapisujemy równanie w postaci\nx \n2sin2 cos3\nx\n0\nzatem\nx \nx \nsin2\n0\nlub cos3\n0\nstąd otrzymujemy kolejno:\n\nk\nx \n\nk\n\nsin2\n0\n, gdy 2x\nczyli\nx\n, gdzie k jest liczbą całkowitą,\n2\n\n\n\nk\nx \n\n\n\n\n\ncos3\n0\n, gdy 3\nx\nk\nczyli\nx\n, gdzie k jest liczbą całkowitą.\n2\n6\n3\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp – 1 p.\nx \nZapisanie równania w postaci iloczynowej np. sin2 cos3\nx\n0\nPokonanie zasadniczych trudności zadania – 2 p.\nZapisanie rozwiązań równania\n\nk\nx \n\n\nsin2\n0\n:\nx\n, gdzie k jest liczbą całkowitą\n2\nalbo\n\n\nk\n\nx \n\n\ncos3\n0\n:\nx\n, gdzie k jest liczbą całkowitą.\n6\n3\nRozwiązanie pełne – 3 p.\n\n\n\nk\nk\n\n\n\n\n\nZapisanie wszystkich rozwiązań równania sin5\nx\nsin\nx\n0\nx\nx\n:\nlub\n, gdzie k\n2\n6\n3\njest liczbą całkowitą.\nRozwiązanie (II sposób):\n\nZapisujemy równanie w postaci sin5\nx\nsin\nx\n.\nZ własności funkcji sinus wynika, że\n\n\nk\n5\nx\nx\n2\n, gdzie k jest liczbą całkowitą\nlub\n\n\n\n\n5\nx\nx\n2\nk\n, gdzie k jest liczbą całkowitą,\nzatem\n\nk\n\nk\n\n4\nx\n2\nx\n, czyli\n, gdzie k jest liczbą całkowitą\n2\nlub\n\n\nk\n\n\n\n\n\n\n6\nx\n2\nk\n, czyli\nx\n, gdzie k jest liczbą całkowitą.\n6\n3\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp – 1 p.\n\n\nk\nZapisanie jednej z zależności: 5\nx\nx\n2\n, gdzie k jest liczbą całkowitą lub\n\n\n\n\n5\nx\nx\n2\nk\n, gdzie k jest liczbą całkowitą.\nPokonanie zasadniczych trudności zadania – 2 p.\n\n\nk\n\n\n\n\nZapisanie obu zależności: 5\nx\nx\n2\n, gdzie k jest liczbą całkowitą oraz 5\nx\nx\n2\nk\n,\ngdzie k jest liczbą całkowitą.\nRozwiązanie pełne – 3 p.\n\n\n\nk\nk\n\n\n\n\n\nZapisanie wszystkich rozwiązań równania sin5\nx\nsin\nx\n0\n:\nx\nlub\nx\n, gdzie k\n2\n6\n3\njest liczbą całkowitą.\nUwagi\n\n1. Jeżeli zdający zapisze jedynie  5x\nx\n, to otrzymuje 0 punktów.\n\n\n\n\n2. Jeżeli zdający zapisze 5x\nx\noraz 5x\nx\n, to otrzymuje 1 punkt.\n\n\nk\n3. Jeżeli zdający zapisze tylko jedną z zależności 5\nx\nx\n2\n, gdzie k jest liczbą całkowitą\n\n\n\n\nlub 5\nx\nx\n2\nk\n, gdzie k jest liczbą całkowitą i w rezultacie uzyska tylko jedną serię\n\n\n\nk\nk\n\n\n\nrozwiązań:\nx\nalbo\nx\n, gdzie k jest liczbą całkowitą, to otrzymuje 2 punkty.\n2\n6\n3"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2014-grudzien-probna/12.webp",
+   "size": [
+    950,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–3)\nnP oznacza pole koła o promieniu 1\nn . Oblicz sumę wszystkich wyrazów\nNiech\n2n , dla\n1\nciągu \n\n.\nnP",
+   "key": "Zadanie 12. (0–3)\nnP oznacza pole koła o promieniu 1\nn . Oblicz sumę wszystkich wyrazów\nNiech\n2n , dla\n1\nciągu \n\nnP\n.\nIV. Użycie i tworzenie\nR5.3. Zdający rozpoznaje szeregi geometryczne zbieżne\nstrategii\ni oblicza ich sumy.\nRozwiązanie:\n2\n\n\n1\n\n1\n\nr \n\n\n\nn  zachodzi\nPole koła o promieniu\njest równe\n, czyli\nP\n. Dla\n1\n\n\nn\nn\nn\nn\nn\nn\n\n\n2\n2\n4\n4\nP\n1\n1\n. Wynika stąd, że \n\n\nq \nrówność\nn\n1\nnP\njest ciągiem geometrycznym o ilorazie\nP\n4\n4\nn\n\n1\n\n\n, więc suma S wszystkich wyrazów ciągu\ni pierwszym wyrazie\nP\n. Ponieważ\n1\n1\n1\n4\n4\n\n\nnP\njest skończona i jest równa\n\n\nP\n4\n\n1\n\n\nS\n\n1\n1\nq\n3\n\n1\n4\nSchemat oceniania\nRozwiązanie, w którym jest istotny postęp ........................................................................ 1 p.\n\n1\nObliczenie pierwszego wyrazu i ilorazu ciągu \n\n\nq \nnP\n:\nP\n,\n1\n4\n4\nPokonanie zasadniczych trudności zadania ....................................................................... 2 p.\n1\nStwierdzenie, że istnieje skończona suma wszystkich wyrazów ciągu \n\nq \n\nnP\n1\n, np.:\n4\nRozwiązanie pełne ................................................................................................................ 3 p.\n\nObliczenie sumy S wszystkich wyrazów ciągu \n\n\nnP\n:\nS\n3\nUwaga:\nJeżeli zdający obliczy sumę wszystkich wyrazów ciągu  \n\nq , to\nnP\n, ale nie stwierdzi, że\n1\notrzymuje 2 punkty."
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2014-grudzien-probna/13.webp",
+   "size": [
+    890,
+    108
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–3)\na\nb\n\n, to\n\nWykaż, że jeżeli\na\nb\n1\n.\n3\n3\n\n\n2\na\n2\nb",
+   "key": "Zadanie 13. (0–3)\na\nb\n\n, to\n\nWykaż, że jeżeli\na\nb\n1\n.\n3\n3\n\n\n2\na\n2\nb\nR2.6. Zdający dodaje, odejmuje, mnoży i dzieli wyrażenia\nV. Rozumowanie\nwymierne; rozszerza i (w łatwych przypadkach) skraca\ni argumentacja\nwyrażenia wymierne.\nRozwiązanie (I sposób):\na\nb\n\nPrzekształcamy nierówność\nrównoważnie.\n3\n3\n\n\n2\na\n2\nb\n3\n3\n\n\n\n2\na\nab\n2\nb\na b\n,\n\n\n\n\n\n\n2\n\n2\n2 a\nb\nab a\nb\n,\n\n\n\n\n\n\n\n\n\n2 a\nb\nab a\nb\na\nb\n.\n\n\n\nPonieważ a\nb\n, więc możemy obie strony tej nierówności podzielić przez\na\nb\n0\n.\nOtrzymujemy\n\n\n\n\n2\nab a\nb\n.\n\n\n\n, to\nab  oraz\n\n\n\n\n\nPonieważ\na\nb\n1\n1\na\nb\n2\n, zatem\nab a\nb\n1 2\n2\n. To kończy dowód.\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp – 1 p.\na\nb\n\n\nw postaci \n\n\n2\n2\n\n\n\nZapisanie nierówności\n2 a\nb\nab a\nb\n3\n3\n\n\n2\na\n2\nb\nPokonanie zasadniczych trudności zadania – 2 p.\na\nb\n\n nierówność\n\nStwierdzenie, że dla\na\nb\n1\njest równoważna nierówności\n3\n3\n\n\n2\na\n2\nb\n\n\n\n\n2\nab a\nb\nUwaga:\n\n\nZdający zamiast podzielić obie strony nierówności przez\na\nb\n0\n, może zapisać nierówność\n\n\nw postaci równoważnej \n\n\n\n\n\n\n\na\nb\nab a\nb\n2\n0\nRozwiązanie pełne – 3 p.\nPrzeprowadzenie pełnego dowodu.\nRozwiązanie (II sposób):\nx\n\nDefiniujemy funkcję f określoną wzorem\nf x\n( )\ndla  każdej liczby rzeczywistej\n3\n\n2\nx\n3 2\nx \n.\n\n\n3\n\n2 1\nx\n\n\nObliczamy pochodną funkcji f:\nf\n( )\nx\n\n\n2\n3\n\n2\nx\n\n\n\n\nx\n. Wynika stąd, że w przedziale\n\n1, funkcja f\nStwierdzamy, że\nf\n( )\nx\n0\ndla\n1,\n\njest malejąca. Zatem dla dowolnych dwóch argumentów a\nb\nz tego przedziału prawdziwa\na\nb\n\n\n\n\nf a\nf b\njest nierówność\n, czyli\n, co należało udowodnić.\n\n3\n\n3\n2\na\n2\nb\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp – 1 p.\n\n\n3\n\n2 1\nx\nx\n\n\n\nOkreślenie funkcji\nf x\n( )\ni obliczenie jej pochodnej\nf\n( )\nx\n\n\n3\n2\n\n2\nx\n3\n\n2\nx\nPokonanie zasadniczych trudności zadania – 2 p.\nOkreślenie znaku pochodnej funkcji f w przedziale \n\n\n\n1,:\n\nx\n\n\n1,\nf\n( )\nx\n0\ndla\nRozwiązanie pełne – 3 p.\n\n1, funkcja f jest malejąca i wywnioskowanie\nStwierdzenie, że w przedziale\nprawdziwości tezy."
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2014-grudzien-probna/14.webp",
+   "size": [
+    950,
+    125
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–4)\n2\n2\n2\n są kątami wewnętrznymi trójkąta i\n\n\n\n\n\nWykaż, że jeżeli\n,\n,\nsin\nsin\nsin\n, to\n\ncos\n0\n.",
+   "key": "Zadanie 14. (0–4)\n2\n2\n2\n są kątami wewnętrznymi trójkąta i\n\n\n\n\n\nWykaż, że jeżeli\nsin\nsin\nsin\n, to\n, ,\n\ncos\n0\n.\nR7.5. Zdający znajduje związki miarowe w figurach płaskich\nV. Rozumowanie\nz zastosowaniem twierdzenia sinusów i twierdzenia\ni argumentacja\ncosinusów.\nRozwiązanie (I sposób):\nNiech , ,\na b c oznaczają długości boków trójkąta leżących naprzeciwko kątów, odpowiednio,\n, i niech R będzie promieniem okręgu opisanego na tym trójkącie. Z twierdzenia\n,\n,\nsinusów otrzymujemy\na\nb\nc\n\n\n\nsin\n, sin\n, sin\n.\n2\nR\n2\nR\n2\nR\n2\n\n\n2\n\n\n2\n\nZatem nierówność\nsin\nsin\nsin\nmożemy zapisać w postaci\n2\n2\n2\n\n\n\n\n\n\na\nb\nc\n\n\n.\n\n\n\n\n\n\n\n2\nR\n\n\n2\nR\n\n\n2\nR\n\n2\n\n2\n\n2\n2\n\n2\n\n2\n\nStąd\na\nb\nc\n, czyli\na\nb\nc\n0\n. Zatem z twierdzenia cosinusów otrzymujemy\n2\n2\n2\n\n\na\nb\nc\n\n\n\ncos\n0\n.\n2\nab\nUwaga:\nZamiast wykorzystać twierdzenie sinusów możemy również skorzystać ze wzoru na pole\ntrójkąta i wówczas otrzymujemy\n2\nP\n2\nP\n2\nP\n\n\n\nsin\nsin\nsin\n,\n,\nbc\nac\nab\nDalsza część rozwiązania przebiega tak samo.\nSchemat oceniania:\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania – 1 p.\nZastosowanie\na\nb\nc\n twierdzenia sinusów, np. zapisanie równości: sin\n\n\n\n, sin\n, sin\n2\nR\n2\nR\n2\nR\nalbo\n2\nP\n2\nP\n2\nP\n wzoru na pole trójkąta i zapisanie równości:\n\n\n\nsin\nsin\nsin\n,\n,\nbc\nac\nab\nRozwiązanie, w którym jest istotny postęp – 2 p.\n2\n2\n2\n\n\n\na\nb\nc\n0\nZapisanie nierówności\n.\nPokonanie zasadniczych trudności zadania – 3 p.\n2\n\n2\n\n2\na\nb\nc\n\n\nZastosowanie twierdzenia cosinusów do zapisania równości\ncos\n.\n2\nab\nRozwiązanie pełne – 4 p.\n\nPoprawne uzasadnienie, że cos\n0\n.\nUwaga:\n2\n\n2\n\n2\nJeżeli zdający zauważy, że z nierówności\na\nb\nc\nwynika, że trójkąt jest rozwartokątny\noraz jest kątem rozwartym, a stąd cos\n\n0\n, to otrzymuje 4 punkty.\nRozwiązanie (II sposób):\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n180\nsin\nsin 180\nsin\nPonieważ\n, więc\n. Nierówność\n2\n2\n2\n\n\n\n\n\nsin\nsin\nsin\nmożemy zapisać w postaci\n\n\n2\n\n\n2\n\n\n2\n\n\n\nsin\nsin\nsin\n.\nZe wzoru na sinus sumy kątów otrzymujemy\n\n\n2\n2\n2\n\n\n\n\n\n\n\n\n\nsin\nsin\nsin\ncos\ncos\nsin\n2\n2\n2\n2\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsin\nsin\nsin\ncos\n2sin\ncos\ncos\nsin\ncos\nsin\n2\n\n\n2\n\n2\n\n\n2\n\n\n2\n\n2\n\n\n\n\n\n\nsin\nsin\ncos\nsin\ncos\nsin\n2sin\ncos\ncos\nsin\n\n\n\n\n2\n2\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\nsin\n1 cos\nsin\n1 cos\n2sin\ncos\ncos\nsin\n2\n2\n2\n2\n\n\n\n\n\n\n\n\n\n\nsin\nsin\nsin\nsin\n2sin\ncos\ncos\nsin\n2\n2\n\n\n\n\n\n\n\n2sin\nsin\n2sin\ncos\ncos\nsin\n2\n\n2\n\n\n\n\n\n\nsin\nsin\nsin\ncos\ncos\nsin\n\n\nObie strony nierówności możemy podzielić przez sin\nsin\n0\n, otrzymując\n\n\n\n\n\nsin\nsin\ncos\ncos\n\n\n\n\n\n\ncos\ncos\nsin\nsin\n0\n\n\n\n\n\n\ncos\n0\n\n\n\n\n, więc\n\n. To oznacza, że cos\n\nStąd wynika, że\n90\n90\n0\n, co kończy dowód.\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania – 1 p.\n\n\n2\n\n\n2\n\n\n2\n\n\n\nDoprowadzenie nierówności do postaci\nsin\nsin\nsin\nRozwiązanie, w którym jest istotny postęp – 2 p.\nDoprowadzenie nierówności do postaci\n2\n2\n2\n2\n2\n2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nsin\nsin\nsin\ncos\n2sin\ncos\ncos\nsin\ncos\nsin\nPokonanie zasadniczych trudności zadania – 3 p.\n\n\n\n\n\n\nDoprowadzenie nierówności do postaci\ncos\n0\nRozwiązanie pełne – 4 p.\n\nPoprawne uzasadnienie, że cos\n0\n."
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2014-grudzien-probna/15.webp",
+   "size": [
+    950,
+    110
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–3)\n\nPunkt E jest środkiem boku BC prostokąta ABCD, w którym AB\nBC\n. Punkt F leży na boku\nAEF \n\n\nBAE\nEAF\nCD tego prostokąta oraz\n90\n. Udowodnij, że\n.",
+   "key": "Zadanie 15. (0–4)\n\nPunkt E jest środkiem boku BC prostokąta ABCD, w którym AB\nBC\n. Punkt F leży na boku\nAEF \n\n\n90\nBAE\nEAF\nCD tego prostokąta oraz\n. Udowodnij, że\n.\nV. Rozumowanie\nG10.14. Zdający stosuje cechy przystawania trójkątów.\ni argumentacja\nRozwiązanie (I sposób):\nPrzedłużamy odcinki AB i EF do przecięcia w punkcie G.\nF\nC\nD\nE\nG\nA\nB\nTrójkąty ECF i EBG są przystające (oba są prostokątne, kąty CEF i BEG są równe, gdyż są\n\n\nwierzchołkowe oraz CE\nBE\n), skąd  EF\nEG\n. Zatem trójkąty AEF i AEG są przystające\n(oba są prostokątne, AE jest ich wspólną przyprostokątną i przyprostokątne EF i EG mają tę\n\nEAF\nEAB\nsamą długość). Zatem\n, co kończy dowód.\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp – 1 p.\nZapisanie, że trójkąty ECF i EBG są przystające.\nPokonanie zasadniczych trudności zadania – 2 p.\nZapisanie, że trójkąty AEF i AEG są przystające.\nRozwiązanie pełne – 3 p.\n\nZapisanie, że\nEAF\nEAB\n.\nRozwiązanie (II sposób):\nPrzedłużamy odcinki AE i DC do przecięcia w punkcie G.\nF\nC\nD\nG\nE\nA\nB\nTrójkąty ABE i GCE są przystające (oba są prostokątne, kąty CEG i BEA są równe, gdyż są\n\n\n\nwierzchołkowe oraz CE\nBE\n), skąd AE\nGE\noraz\nEGC\nEAB\n. Prosta EF jest więc\n\nsymetralną odcinka AG. Zatem AF\nFG\n. Trójkąt AGF jest więc równoramienny, czyli\n\n\nEAF\nEGF\nEAB\n. To kończy dowód.\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp – 1 p.\nZapisanie, że trójkąty ABE i GCE są przystające.\nPokonanie zasadniczych trudności zadania – 2 p.\n\nZapisanie, że\nEGF\nEAB\n.\nRozwiązanie pełne – 3 p.\n\nZapisanie, że\nEAF\nEAB\n.\nRozwiązanie (III sposób):\nPrzyjmijmy oznaczenia, jak na rysunku.\nF\nx\nC\nD\nb\nE\nb\n\n\nA\nB\nG\na\n\n\n\nAEB\n90\nTrójkąt ABE jest prostokątny, więc\n, kąt AEF jest prosty, więc\n\n\n\n\n\n\n\n\n\nCEF\n180\n90\n90\n. Zatem trójkąty ABE i ECF są podobne, skąd\n\nFC\nBE\n, czyli a\nx\nb\n\n\n.\nEC\nAB\nb\na\n2\n2\n\na\nb\n\nStąd\nx\n.\na\nZ twierdzenia Pitagorasa dla trójkątów ABE i ADF otrzymujemy\n\n\n\nb\n2\n2\n\n\n\n\nAE\na\noraz\nAF\nx\n2\nb\nzatem\n\n\n2\n2\n2\n2\n2 2\n\n\na\nb\n4\na b\n\n\n2\n\n2\na\nb\n\n\n2\n\n\n\n\n\n\nAF\nx\n4\nb\n4\nb\n\n\n2\na\na\n\n\n\n\n2\n2\n2\n\na\nb\n4\n\n2 2\n\n4\n2\n\n2\na\n2\na b\nb\na\nb\n\n\n\n2\n2\na\na\na\nstąd otrzymujemy\n2\n2\n\na\nAG\nx\na\nb\n\n\n\n\n\ncos\noraz\ncos\n2\n2\nAF\nAF\n\na\nb\n2\n\n2\na\nb\n2\n2\n\n2\na\na\nb\n2\n\n\n\n\n\n\n\n\ncos2\n2cos\n2\n1\ncos\n, czyli 2\n\n\nNastępnie\n, co należało\n2\n\n2\n2\n\n2\na\nb\na\nb\nudowodnić.\nSchemat oceniania III sposobu rozwiązania:\nRozwiązanie, w którym jest istotny postęp ........................................................................ 1 p.\n2\n2\n\na\nb\n\n\nZapisanie, że\ncos\n2\n2\n\na\nb\nPokonanie zasadniczych trudności zadania ....................................................................... 2 p.\n2\n2\n\na\nb\na\n\n\n\nZapisanie, że\ncos\noraz\ncos\n2\n2\n\na\nb\n2\n\n2\na\nb\nRozwiązanie pełne ................................................................................................................ 3 p.\n\n\n\nZapisanie, że cos\ncos2\n.\nRozwiązanie (IV sposób):\nPrzyjmijmy oznaczenia, jak na rysunku.\nF\nx\nC\nD\nb\nE\nb\n\n\nA\nB\nG\na\n\n\n\nTrójkąt ABE jest prostokątny, więc\nAEB\n90\n, kąt AEF jest prosty, więc\n\n\n\n\n\n\n\n\n\nCEF\n180\n90\n90\n. Zatem trójkąty ABE i ECF są podobne, skąd\n\nFC\nBE\n, czyli a\nx\nb\n\n\nEC\nAB\nb\na\n2\n2\n\na\nb\n\nStąd\nx\na\nZ trójkątów ABE i AGF otrzymujemy\nb\n2\nb\n2\nb\n2\nab\n\n\n\n\ntg\noraz\ntg\n2\n2\n2\n2\na\nx\n\n\na\nb\na\nb\na\nb\n2\nb\n\n2\n\n2tg\n2\nab\na\na\n\n\n\n\n\n\n\n, czyli 2\n\n\nZauważmy, że\ntg2\ntg\n2\n2\n2\n2\n2\n2\n\n\n\n\n1\ntg\na\nb\na\nb\n\nb\n\n\n1\n\n2\na\n\na\n\nTo należało udowodnić.\nSchemat oceniania IV sposobu rozwiązania\nRozwiązanie, w którym jest istotny postęp – 1 p.\n2\nab\n\nZapisanie, że\ntg\n2\n2\n\na\nb\nPokonanie zasadniczych trudności zadania – 2 p.\n2\nab\nb\n\n\nZapisanie, że\ntg\noraz tg\n2\n2\n\na\nb\na\nRozwiązanie pełne – 3 p.\n\n\n\nZapisanie, że tg\ntg2"
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2014-grudzien-probna/16.webp",
+   "size": [
+    950,
+    140
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–5)\nOblicz prawdopodobieństwo warunkowe, że w trzykrotnym rzucie symetryczną sześcienną\nkostką do gry otrzymamy co najmniej jedną „jedynkę”, pod warunkiem że otrzymamy\nco najmniej jedną „szóstkę”.",
+   "key": "Zadanie 16. (0–5)\nOblicz prawdopodobieństwo warunkowe, że w trzykrotnym rzucie symetryczną sześcienną\nkostką do gry otrzymamy co najmniej jedną „jedynkę”, pod warunkiem, że otrzymamy\nco najmniej jedną „szóstkę”.\nIII. Modelowanie\nR10.2. Zdający oblicza prawdopodobieństwo warunkowe.\nmatematyczne\nRozwiązanie:\nZdarzeniami elementarnymi są wszystkie trzywyrazowe ciągi o wyrazach ze zbioru\n\n\n1,2,3,4,5,6 (czyli trójelementowe wariacje z powtórzeniami tego zbioru). Jest to model\n3\n\n\nklasyczny.\n6\n216\n.\nWprowadźmy oznaczenia dla zdarzeń\nA – otrzymamy co najmniej raz jedno oczko,\nB – otrzymamy co najmniej raz sześć oczek.\n\n\nA\nB\nP A\n(\nB\n)\n\n\nMamy obliczyć prawdopodobieństwo warunkowe\nP A B\n(\n|\n)\n.\nP B\n( )\nB\nMoc zdarzenia B obliczymy, korzystając z pojęcia zdarzenia przeciwnego, które polega na\ntym, że nie otrzymamy ani razu sześciu oczek.\nB\n3\n3\n\n\n\n\n\n\nB\n6\n5\n216 125\n91\n.\n\nZdarzenie A\nB\njest sumą parami rozłącznych zdarzeń:\n otrzymamy raz jedno oczko, raz sześć oczek i raz liczbę oczek ze zbioru \n\n2,3,4,5 –\n\nmożliwe są 3 2 4\n24\ntakie wyniki,\n otrzymamy raz jedno oczko i dwa razy sześć oczek; możliwe są 3 takie wyniki,\n otrzymamy dwa razy jedno oczko i raz sześć oczek; możliwe są 3 takie wyniki.\n30\n\n\nP A B \nA\nB\n30\n(\n|\n)\nStąd\ni\n91\nUwaga:\n\nA\nB\nmożna obliczyć korzystając z prawa de Morgana.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nA\nB\nA\nB\nA\nB\nA\nB\nA\nB\n\n\n3\n3\n3\n3\n\n\n\n\n=\n6\n5\n5\n4\n30\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ............................................................................................................. 1 p.\nZapisanie wzoru na prawdopodobieństwo warunkowe przy poprawnie wprowadzonych\noznaczeniach.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nB \nObliczenie\n91\nlub\nP B .\n( )\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\n\n\n\nObliczenie\nA\nB\n30\nlub\n.\nP A\n(\nB\n)\nRozwiązanie prawie pełne ................................................................................................... 4 p.\nRozwiązanie zadania do końca z błędami rachunkowymi.\nRozwiązanie pełne ................................................................................................................ 5 p.\n30\nP A B \nObliczenie\n(\n|\n)\n.\n91"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 6,
+   "image": "f2015-R-2014-grudzien-probna/17.webp",
+   "size": [
+    950,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–6)\no o równaniu \n\n\n\n2\n2\n\n\n\n. W pierwszej „ćwiartce” układu\nDany jest okrąg\nx\n3\ny\n1\n1\n0\nwspółrzędnych istnieją dwa okręgi\no o styczne zewnętrznie do okręgu\n,\no i jednocześnie\n1\n2\n0\nstyczne do obu osi układu współrzędnych. Oblicz odległość środków okręgów\n1o oraz\no .\n2",
+   "key": "Zadanie 17. (0–6)\no o równaniu \n\n\n\n2\n2\n\n\n\n. W pierwszej „ćwiartce” układu\nDany jest okrąg\nx\n3\ny\n1\n1\n0\nwspółrzędnych istnieją dwa okręgi\no\n,\no styczne zewnętrznie do okręgu\no i jednocześnie\n1\n2\n0\nstyczne do obu osi układu współrzędnych. Oblicz odległość środków okręgów\n1o oraz\no .\n2\nR8.5. Zdający posługuje się równaniem okręgu\nIV. Użycie i tworzenie\n2\n2\n\n\n\n\n2\n\n\n\n\nx\na\ny\nb\nr\noraz opisuje koła za pomocą\nstrategii\nnierówności.\nRozwiązanie:\n ma środek w punkcie \n\nOkrąg o równaniu \n\n2\n\n\n2\n\n\n\nx\n3\ny\n1\n1\n3,1 i promień 1. Z treści\nzadania wynika, że okręgi 1\no\n,\no leżą w pierwszej „ćwiartce” układu współrzędnych.\n2\nRównanie okręgu leżącego w I „ćwiartce” układu współrzędnych i stycznego do obu osi\nukładu jest postaci\n\n\n\n\n2\n2\n\n\n\n\n2\nr \nx\nr\ny\nr\nr\n, gdzie\n0\n.\nZapisujemy warunek styczności okręgów. Okręgi są styczne zewnętrznie, czyli odległość\nśrodków tych okręgów jest równa sumie ich promieni, zatem\n\n\n\n\n2\n2\n\n\n\n\n.\nr\n3\nr\n1\nr\n1\n2\n\n\n\nr\n10\nr\n9\n0\nPrzekształcając to równanie, otrzymujemy równanie\n, które ma dwa\n\n\nrozwiązania 1\nr\n1,\nr\n9\n.\n2\n\n\n\n\nS \nS \nŚrodki\nS S okręgów\n,\no o mają współrzędne\n,\n1,1\n,\n9,9\ni ich odległość jest\n1\n2\n1\n2\n1\n2\nrówna\n8 2 .\nSchemat oceniania:\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ............................................................................................................ 1 p.\nZapisanie, że okrąg o równaniu \n\n\n\n ma środek w punkcie \n\n2\n2\n\n\n\nx\n3\ny\n1\n1\n3,1 i promień 1.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZapisanie postaci równania okręgu leżącego w I „ćwiartce” układu współrzędnych\ni stycznego do obu osi układu jest postaci \n\n\n\n2\n2\n2\n\n\n\n\nr \nx\nr\ny\nr\nr\n, gdzie\n0\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZapisanie równania wynikającego z warunku styczności okręgów\n\n\n\n\n2\n2\n\n\n\n\n\nr\n3\nr\n1\nr\n1\nRozwiązanie prawie pełne ................................................................................................... 5 p.\nRozwiązanie pełne ................................................................................................................ 6 p.\nObliczenie odległości środków okręgów: 8 2 ."
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 7,
+   "image": "f2015-R-2014-grudzien-probna/18.webp",
+   "size": [
+    950,
+    172
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–7)\nOkno na poddaszu ma mieć kształt trapezu równoramiennego, którego krótsza podstawa\ni ramiona mają długość po 4 dm. Oblicz, jaką długość powinna mieć dłuższa podstawa tego\ntrapezu, aby do pomieszczenia wpadało przez to okno jak najwięcej światła, czyli aby pole\npowierzchni okna było największe. Oblicz to pole.",
+   "key": "Zadanie 18. (0–7)\nOkno na poddaszu ma mieć kształt trapezu równoramiennego, którego krótsza podstawa\ni ramiona mają długość po 4 dm. Oblicz, jaką długość powinna mieć dłuższa podstawa tego\ntrapezu, aby do pomieszczenia wpadało przez to okno jak najwięcej światła, czyli aby pole\npowierzchni okna było największe. Oblicz to pole.\nV. Rozumowanie\nR11.6. Zdający stosuje pochodne do rozwiązywania\ni argumentacja\nzagadnień optymalizacyjnych.\nRozwiązanie (I sposób):\nNiech x oznacza długość rzutu prostokątnego ramienia trapezu na prostą zawierająca dłuższą\npodstawę trapezu, a h – wysokość trapezu.\n4\n4\n4\nh\nx\nx\n4\n\n\nZ geometrycznych warunków zadania wynika, że 0\nx\n4\n.\nPrzy tak przyjętych oznaczeniach pole trapezu jest określone wzorem:\n\n2 4\n2\nx\n\n\n\n\n\n\n\n\n\nP\nh\n4\nx\nh\ni 0\nx\n4\n2\nZ twierdzenia Pitagorasa otrzymujemy\n2\n\n2\n\n2\nx\nh\n4\n,\n\n\n2\nstąd\nh\n16\nx\n.\nPole trapezu, w zależności od zmiennej x, jest określone wzorem:\n\n\n\n\n\n\n2\n\n\n\n2\n\n\n\n2\n\nP x\n4\nx\n16\nx\n4\nx\n16\nx\n\n\n\n3\n\n\n\n\n\n4\n\n3\n\n\n4\nx\n4\nx\nx\n8\nx\n128\nx\n256\n\n\ngdzie 0\nx\n4\n.\n\n\nNależy obliczyć, dla jakiego x spełniającego nierówność 0\nx\n4\n, funkcja P określona\nwzorem \n\n\n\n\n\n4\n3\nP x\nx\n8\nx\n128\nx\n256\nprzyjmuje wartość największą.\n\n\n4\n\n3\n\n\nFunkcja P osiąga wartość największą, gdy funkcja\nf x\nx\n8\nx\n128\nx\n256\nosiąga\nw przedziale \n\n0,4 wartość największą. Wystarczy więc zbadać funkcję f. Wyznaczmy\npochodną tej funkcji\n\n\n\n3\n\n2\n\nf\nx\n4\nx\n24\nx\n128\n\n,\nx \nNastępnie obliczamy miejsca zerowe pochodnej:\nx\nx\n4\n2\n1\n2\n3\nPonadto:\n\nw przedziale \n\n\n\n\nf\nx\n0\n0,2 ,\n\nw przedziale \n\n\n\n\nf\nx\n0\n2,4\nZatem funkcja f jest rosnąca w przedziale 0,2 i malejąca w przedziale\n\n2,4 .\nPonieważ \n\n\n\n, więc funkcja P jest rosnąca w przedziale 0,2 ,\n\nx\nP x\nf x\ndla\n0,4\n\nx \n2,4 . Stąd wynika, że w punkcie\n2\na malejąca w przedziale\nfunkcja P przyjmuje\nwartość największą.\nx \nx \n, czyli dłuższa podstawa trapezu ma długość 8, a pole tego trapezu\n2\n, to 2\n4\n8\nGdy\njest wówczas równe\n\n\n\n\n\n\n\n\n\n2\nP\n2\n4\n2\n16\n2\n6 2 3\n12 3\n.\nOdpowiedź: Największe pole, równe 12 3 dm2, ma szyba w kształcie trapezu, którego dłuższa\npodstawa ma długość 8 dm.\nSchemat oceniania I sposobu rozwiązania:\nRozwiązanie zadania składa się z trzech etapów.\nPierwszy etap składa się z trzech części:\na) wybór zmiennej x (długość rzutu prostokątnego ramienia trapezu na prostą\nzawierająca dłuższą podstawę trapezu) i zapisanie za pomocą tej zmiennej\n\n\nh\n16\nx\n2\nwysokości trapezu:\nb) zapisanie pola trapezu w zależności od zmiennej x: \n\n\n\n\n\n2\nP x\n4\nx\n16\nx\nc) określenie dziedziny funkcji P: \n\n0, 4\nZdający może otrzymać maksymalnie po 1 punkcie za realizację każdej z części tego etapu,\nprzy czym dziedzina funkcji nie może wynikać jedynie z wyznaczonego wzoru funkcji, ale\nz geometrycznych warunków zadania.\nDrugi etap składa się z trzech części:\n\n\n4\n\n3\n\n\na) wyznaczenie pochodnej funkcji wielomianowej\nf x\nx\n8\nx\n128\nx\n256\n:\n\n\n\n3\n\n2\n\nf\nx\n4\nx\n24\nx\n128\n,\n\n,\nx \nb) obliczenie miejsc zerowych pochodnej:\n,\nx\nx\n4\n2\n1\n2\n3\nc) uzasadnienie (np. przez badanie monotoniczności funkcji), że funkcja P osiąga\nx \n2\nwartość największą w punkcie\n.\nZa poprawne rozwiązanie każdej z części tego etapu zdający otrzymuje 1 punkt, o ile\npoprzednia część etapu została zrealizowana bezbłędnie.\nTrzeci etap.\n: \nx \n\nObliczenie pola trapezu dla\n2\nP\n2\n12 3\n.\nZa poprawne rozwiązanie tego etapu zdający otrzymuje 1 punkt.\nUwaga:\nPunkt za trzeci etap przyznajemy tylko w przypadku, gdy zdający wyznaczył poprawnie\nx \n2\n.\nRozwiązanie (II sposób):\nNiech x oznacza długość dłuższej podstawy trapezu, a h – wysokość trapezu.\n4\n4\n4\nh\ny\ny\n4\nx\nDługość y rzutu prostokątnego ramienia trapezu na prostą zawierająca dłuższą podstawę\n\nx\n4\n\ntrapezu jest wówczas równa\ny\n.\n2\n\n\nZ geometrycznych warunków zadania wynika, że 4\nx\n12\n.\nPrzy tak przyjętych oznaczeniach pole trapezu jest określone wzorem:\n\nx\n4\n\n\n\n\nP\nh\ni 4\nx\n12\n2\nZ twierdzenia Pitagorasa otrzymujemy\n2\n\n2\n\n2\ny\nh\n4\n,\n\n\n2\n\nx\n4\n\n2\n\n2\nh\n4\n.\n2\n\n\n2\n2\n2\n\n\n\n\n\n\nx\n4\nx\n8\nx\n16\n64\nx\n8\nx\n16\n1\n\n\n\n\n\n\n\n2\n\n\nstąd\nh\n16\n16\nx\n8\nx\n48\n2\n4\n4\n2\nPole trapezu, w zależności od zmiennej x, jest określone wzorem:\n\nx\n4 1\n1\n\n\n\n\n2\n\n\n\n2\n\n\n\n\n\n2\n\n\n\nP x\nx\n8\nx\n48\nx\n4\nx\n8\nx\n48\n2\n2\n4\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2\n2\n4\n2\nx\n8\nx\n16\nx\n8\nx\n48\nx\n96\nx\n512\nx\n768\n4\n4\n\n\ngdzie 4\nx\n12\n.\n\n\nNależy obliczyć, dla jakiego x spełniającego nierówność 4\nx\n12\n, funkcja P określona\n1\nwzorem \n\n\n\n\n\n4\n2\nP x\nx\n96\nx\n512\nx\n768\nprzyjmuje wartość największą.\n4\n\n\n4\n\n2\n\n\nFunkcja P osiąga wartość największą, gdy funkcja\nf x\nx\n96\nx\n512\nx\n768\nosiąga\nw przedziale \n\n4,12 wartość największą. Wystarczy więc zbadać funkcję f. Wyznaczmy\npochodną tej funkcji\n\n\n\n\n\nf\nx\n4\nx\n3\n192\nx\n512\n\n,\nx \nNastępnie obliczamy miejsca zerowe pochodnej:\nx\nx\n4\n8\n.\n1\n2\n3\nPonadto:\n\nw przedziale \n\n\n\n\nf\nx\n0\n4,8\n\nw przedziale \n\n\n\n\nf\nx\n0\n8,12\nZatem funkcja f jest rosnąca w przedziale 4,8 i malejąca w przedziale\n\n8,12 .\n1\nPonieważ \n\n\n\n, więc funkcja P jest rosnąca w przedziale 4,8 ,\n\nx\nP x\nf x\ndla\n4,12\n4\n\nx  funkcja P przyjmuje\na malejąca w przedziale\n8,12 . Stąd wynika, że w punkcie\n8\nwartość największą.\nx  pole tego trapezu jest równe\nDla\n8\n\n4\n8 1\n\n\n\n\n2\n\n\n\nP\n8\n8\n8 8\n48\n3 48\n12 3\n2\n2\nOdpowiedź.: Największe pole, równe 12 3 dm2, ma szyba w kształcie trapezu, którego dłuższa\npodstawa ma długość 8 dm.\nSchemat oceniania II sposobu rozwiązania:\nRozwiązanie zadania składa się z trzech etapów.\nPierwszy etap składa się z trzech części:\na) wybór zmiennej x (długość dłuższej podstawy trapezu) i zapisanie za pomocą tej\n\n\n2\n\nx\n4\n\n\nzmiennej wysokości trapezu:\nh\n16\n2\n\nx\n4\nb) zapisanie pola trapezu w zależności od zmiennej x: \n\n\n\n\n2\nP x\nx\n8\nx\n48\n4\nc) określenie dziedziny funkcji P: \n\n4, 12 .\nZdający może otrzymać maksymalnie po 1 punkcie za realizację każdej z części tego etapu,\nprzy czym dziedziną funkcji nie może wynikać jedynie z wyznaczonego wzoru funkcji, ale\nz geometrycznych warunków zadania.\nDrugi etap składa"
+  }
+ ]
+}

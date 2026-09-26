@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2015-P-2020-kwiecien-probna",
+  "formula": "2015",
+  "level": "P",
+  "year": 2020,
+  "session": "probna",
+  "month": "04",
+  "code": "MMA-P1_1P",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Probny/2020/MMA-P1_1P.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Probny/2020/MMA-P1_1P-zasady.pdf",
+  "examFile": "f2015-P-2020-kwiecien-probna.pdf",
+  "keyFile": "f2015-P-2020-kwiecien-probna-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "CKE probny egzamin maturalny 2020 (online, April 2020)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-maturalny-w-formule-2015/materialy-dodatkowe/probny-egzamin-maturalny-2020/",
+  "examPages": 26,
+  "keyPages": 20,
+  "examBytes": 2178129,
+  "keyBytes": 339698
+ },
+ "keyHead": "PRÓBNY EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2019/2020\nMATEMATYKA\nPOZIOM PODSTAWOWY\nFORMUŁA OD 2015\n(„NOWA MATURA”)\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nDLA ARKUSZY\nKWIECIEŃ 2020\nZadania zamknięte\nPunkt przyznaje się za wskazanie poprawnej odpowiedzi.\nNr\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nzad.\nOdp.\nC\nC\nB\nD\nA\nD\nA\nD\nA\nA\nC\nB\nB\nD\nC\nC\nC\nA\nB\nA\nA\nB\nB\nD\nD\nOgólne zasady oceniania zadań otwartych\nUwaga: Akceptowane są wszystkie odpowiedzi merytorycznie poprawne i spełniające warunki\nzadania.\nZadanie 26. (0–2)\nRozwiąż nierówność\n2\n.\n2\nx\n+\nx\n−\n6\n≤\n0\nPrzykładowe rozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania polega na wyznaczeniu pierwiastków trójmianu kwadratowego\n2\nx\n2\nx\n−.\n6\n+\nNa przykład obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:\n−−\n1 7\n−+\n1 7\n3\n,\n= −,\n.\nΔ\n=\n7\n2\nx\n=\n2\nx\n=\n=\n1\n2\n4\n4\n2\n2\n2\n6\n0\nDrugi etap rozwiązania polega na wyznaczeniu zbioru rozwiązań nierówności\nx\n+\nx\n−\n≤\n.\n3\n3\n3\nPodajemy zbiór rozwiązań nierówności:\n−≤\n2\nx\n≤\nlub\n−\n2,\nlub\nx\n∈−\n2\n,\n, np.\n2\n2\n2\n( )\nf x\n=\n2\nx\n2\n+\nx\n−\n6\nodczytując go ze szkicu wykresu funkcji\n.\n2\nx\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n• zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\n3\no obliczy lub poda pierwiastki trójmianu kwadratowego\nx = −,\n2\nx =\ni na tym\n2\n1\n2\nzakończy lub błędnie zapisze zbiór rozwiązań nierówności,\n( )\n2\n2\n6\no zaznaczy na wykresie miejsca zerowe funkcji\nf x\n=\nx\n+\nx\n−\ni na tym\nzakończy lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n• realizując pierwszy etap błędnie wyznaczy pierwiastki (ale otrzyma dwa różne\npierwiastki) i konsekwentnie do tego rozwiąże nierówność, np. popełni błąd\nrachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  ............................................................................................................... 2 p.\ngdy:\n3\n3\n3\n• poda zbiór rozwiązań nierówności:\nlub\nlub\n−≤\n2\nx\n≤\n−\n2,\nx\n∈−\n2\n,\n2\n2\n2\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\nUwagi\n1. Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to\noznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje\n0 punktów za całe rozwiązanie.\n2. Jeśli zdający wyznacza ujemną deltę trójmianu kwadratowego, to otrzymuje 0 punktów\nza całe rozwiązanie.\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu\n3\n3\nx = −,\n2\nx =\ni zapisze, np.\nx\n∈−\n2\n,\n−\n, popełniając tym samym błąd przy\n2\n2\n1\n2\nprzepisywaniu jednego z pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\n3\n, to przyznajemy 2 punkty.\nnierówności w postaci\nx\n,\n2\n∈\n−\n2\nZadanie 27. (0–2)\nRozwiąż równanie (\n)(\n)\nx\n2\n6\n3\nx\n2\n0\n−\n+\n=\n.\nPrzykładowe rozwiązanie\n2\nx − oraz 3\n2\nLewa strona równania jest iloczynem dwóch czynników\n6\nx +\n. Zatem iloczyn ten\njest równy 0, gdy co najmniej jeden z tych czynników jest równy 0, czyli\n2\n6\n0\nlub 3\nx +\n2\n0\n.\nx −\n=\n=\n2\nRozwiązaniem równania 3\nx +\n2\n=\n0\njest\nx = −\n.\n3\n2\nRozwiązania równania\nx −\n6\n=\n0\nmożemy wyznaczyć, korzystając:\n2\n• z postaci iloczynowej trójmianu\nx − (wzoru skróconego mnożenia na różnicę\n6\nkwadratów)\n(\n)(\n)\nx\n−\n6\nx\n+\n6\n=\n0\n, stąd\nx =\n6\nlub\nx = −\n6\nalbo\n• ze wzorów na pierwiastki trójmianu kwadratowego:\nΔ\n=\n24\n,\n0\n−\n2 6\n0\n+\n2 6\nx\n6\n,\nx\n6\n,\n=\n= −\n=\n=\n1\n2\n2\n2\nalbo\n• z własności wartości bezwzględnej, przekształcając najpierw równanie do postaci\nrównoważnej\nx =\n6\n, skąd\nx =\n6\nlub\nx = −\n6\n.\n2\nZatem wszystkie rozwiązania równania to:\nx = −\nlub\nx =\n6\n, lub\nx = −\n6\n.\n3\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n2\n• zapisze dwa równania:\nx −\n6\n=\n0\nlub 3\nx +\n2\n=\n0\n(wystarczy, że z rozwiązania wynika,\n2\nże zdający wyznacza pierwiastki każdego z wielomianów:\nx − oraz 3\n6\nx +\n2\n)\nalbo\n2\n• zapisze rozwiązanie\nx = −",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/1.webp",
+   "size": [
+    950,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\nNiech\na ,\n2\nb \n3\n. Wartość wyrażenia\na\nb\n\nb\na\njest równa\n73\n71\n73\n71\nA.\n9\nB.\n9\nC.\nD.\n\n\n9\n9",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/2.webp",
+   "size": [
+    950,
+    138
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\n9\n2\nLiczba\n9\n\n81\njest równa\nA.\n81\n4\nB. 81\nC.\n9\n13\nD.\n9\n36",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/3.webp",
+   "size": [
+    950,
+    132
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nWartość wyrażenia\nlog 8 5log 2\njest równa\n\n4\n4\nA. 2\nB. 4\nC.\n2\nlog 5\nD.\n1 log 10\n\n\n4\n4",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/4.webp",
+   "size": [
+    950,
+    305
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nDane są dwa koła. Promień pierwszego koła jest większy od promienia drugiego koła o\n30\n%\n.\nWynika stąd, że pole pierwszego koła jest większe od pola drugiego koła\nA. o mniej niż 50%, ale więcej niż 40%.\nB. o mniej niż 60%, ale więcej niż 50%.\nC. dokładnie o 60%.\nD. o więcej niż 60%.",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/5.webp",
+   "size": [
+    950,
+    148
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\nLiczba \n\n\n2\n2\n2 7\n\n5\n\n2 7\n\n5\njest równa\nA.\n9\nB. 3\nC. 2809\nD. 28\n20 7\n",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/6.webp",
+   "size": [
+    956,
+    568
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\nWskaż rysunek, na którym jest przedstawiony zbiór wszystkich liczb x spełniających warunek:\n11\n2\n7\n15\n.\n\nx\n\nA.\nx\n9\n11\nB.\nx\n9\n11\nC.\nx\n11\n9\nD.\nx\n9\n11",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/7.webp",
+   "size": [
+    956,
+    286
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\nRozważmy treść następującego zadania:\nObwód prostokąta o bokach długości a i b jest równy 60. Jeden z boków tego prostokąta jest\no 10 dłuższy od drugiego. Oblicz długości boków tego prostokąta.\nKtóry układ równań opisuje zależności między długościami boków tego prostokąta?\n\n\n\n\n2\na\nb\n60\n2\n60\n2\n60\n2\na\nb\n60\n\n\n\na\n\nb\n\nab\n\n\n\n\n\n\nA.\nB.\nC.\nD.\n\n\n10\nb\na\na\nb\n10\na\n10\nb\n\n\n10\na\nb\n\n\n\n\n\n",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/8.webp",
+   "size": [
+    956,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–1)\nx\n\n1\nRozwiązaniem równania\n3\n, gdzie\nx , jest liczba należąca do przedziału\n2\n\nx\n\n2\nA. \n\n\nC. \n\n\n\n2,1\nB.\n1, \n\n, 5\nD.\n5,\n2\n\n",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/9.webp",
+   "size": [
+    956,
+    197
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–1)\nLinę o długości 100 metrów rozcięto na trzy części, których długości pozostają\nw stosunku 3 : 4 : 5. Stąd wynika, że najdłuższa z tych części ma długość\n2\n1\nA.\n413 metra.\nB.\n33 3 metra.\nC. 60 metrów.\nD. 25 metrów.",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/10.webp",
+   "size": [
+    956,
+    600
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\nf\nNa rysunku przedstawiono fragment wykresu funkcji kwadratowej\nokreślonej wzorem\n\nf x\n\nx\n2\n\nbx\n\nc.\nWspółczynniki b i c – we wzorze funkcji f – spełniają warunki:\nA.\nB.\nC.\nD.\nb \n0\ni\nc \n0\nb \n0\ni\nc \n0\nb \n0\ni\nc \n0\nb \n0\ni\nc \n0",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/11.webp",
+   "size": [
+    956,
+    189
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–1)\nDany jest ciąg arytmetyczny \n\na\n, określony dla\nn , w którym są dane:\n1\na\n1 \n2\ni\na\n2 \n9\n.\nn\nWtedy\nna \n79\ndla\nA.\nn \n10\nB.\nn \n11\nC.\nn \n12\nD.\nn \n13",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/12.webp",
+   "size": [
+    956,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–1)\nDany jest trzywyrazowy ciąg geometryczny o wyrazach dodatnich: \n\n81, 3 , 4\nx\n. Stąd wynika, że\n85\n6\nA.\nx \n18\nB.\nx \n6\nC.\nx \nD.\nx \n6\n85",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/13.webp",
+   "size": [
+    956,
+    195
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–1)\n2\n6\nKąt  jest ostry i spełniona jest równość\nsin\n. Stąd wynika, że\n\n\n7\n24\n5\n25\n5\n6\nA.\ncos\nB.\ncos\nC.\ncos\nD.\ncos\n\n\n\n\n\n\n\n\n49\n7\n49\n7",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/14.webp",
+   "size": [
+    950,
+    558
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–1)\nNa okręgu o środku w punkcie O leżą punkty A, B i C (zobacz rysunek). Kąt ABC ma\nmiarę 121, a kąt BOC ma miarę 40.\nA\nO\nB\nC\nKąt AOB ma miarę\nA. 59\nB. 50\nC. 81\nD. 78",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/15.webp",
+   "size": [
+    950,
+    629
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\nW trójkącie ABC punkt D leży na boku BC, a punkt E leży na boku AC. Odcinek DE jest\n4\n6\nrównoległy do boku AB, a ponadto\nAE\n\nDE\n\n,\nAB \n(zobacz rysunek).\nC\nE\nD\n4\n4\nA\nB\n6\nOdcinek CE ma długość\nA. 16\n8\nB.\nC. 8\nD. 6\n3\n3",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/16.webp",
+   "size": [
+    950,
+    159
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\nDany jest trójkąt równoboczny, którego pole powierzchni jest równe 6 3 . Bok tego trójkąta\nma długość\nA. 3 2\nB. 2 3\nC. 2 6\nD. 6 2",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/17.webp",
+   "size": [
+    956,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–1)\n\n\n\n\nPunkty\nB \n2,4\ni\nC \n5,1\nsą sąsiednimi wierzchołkami kwadratu ABCD. Pole tego\nkwadratu jest równe\nA. 29\nB. 40\nC. 58\nD. 74",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/18.webp",
+   "size": [
+    956,
+    612
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\nNa rysunku przedstawiono ostrosłup prawidłowy czworokątny ABCDS o podstawie ABCD.\nS\nD\nC\nO\nA\nB\nKąt nachylenia krawędzi bocznej SA ostrosłupa do płaszczyzny podstawy ABCD to\nA.\nSAO\nB.\nSAB\nC.\nSOA\nD.\nASB",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/19.webp",
+   "size": [
+    956,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nGraniastosłup ma 14 wierzchołków. Liczba wszystkich krawędzi tego graniastosłupa jest równa\nA. 14\nB. 21\nC. 28\nD. 26",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/20.webp",
+   "size": [
+    956,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\n\n\nA \n4,\n\n4\nProsta k przechodzi przez punkt\ni jest prostopadła do osi Ox. Prosta k ma równanie\n0\n4\n0\n0\nA.\nx\n4\n0\nB.\nx\n\ny\n\nC.\ny \n\nD.\nx\n\ny\n",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/21.webp",
+   "size": [
+    950,
+    599
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (0–1)\nProsta  l  jest nachylona do osi  Ox  pod kątem 30 i  przecina oś Oy w punkcie \n\n0\n3\n,\n(zobacz rysunek).\ny\nl\n0\nx\nProsta  l  ma równanie\n3\n3\n1\n1\nA.\nB.\nC.\nD.\ny\n\nx\n\n3\ny\n\nx\n\n3\ny\n\nx\n\n3\ny\n\nx\n\n3\n3\n3\n2\n2",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/22.webp",
+   "size": [
+    950,
+    144
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (0–1)\nDany jest stożek o wysokości 6 i tworzącej 3 5 . Objętość tego stożka jest równa\nA. 36π\nB. 18π\nC. 108π\nD. 54π",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/23.webp",
+   "size": [
+    950,
+    181
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nŚrednia arytmetyczna zestawu ośmiu danych:  x, 2, 4, 6, 8, 10, 12, 14  jest równa 9. Wtedy\nmediana tego zestawu danych jest równa\nA. 8\nB. 9\nC. 10\nD. 16",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/24.webp",
+   "size": [
+    950,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–1)\nIle jest wszystkich czterocyfrowych liczb naturalnych mniejszych niż 2017?\nA. 2016\nB. 2017\nC. 1016\nD. 1017",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-kwiecien-probna/25.webp",
+   "size": [
+    950,
+    180
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (0–1)\nZ pudełka, w którym jest tylko 6 kul białych i n kul czarnych, losujemy jedną kulę.\n1\nPrawdopodobieństwo wylosowania kuli białej jest równe\n. Liczba kul czarnych jest równa\n3\nA.\n9\nB.\n2\nC.\n18\nD.\n12\nn \nn \nn \nn ",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-kwiecien-probna/26.webp",
+   "size": [
+    950,
+    78
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (0–2)\nRozwiąż nierówność\n2\nx\n2\nx\n6\n0\n.\n\n\n",
+   "key": "Zadanie 26. (0–2)\nRozwiąż nierówność\n2\n.\n2\nx\n+\nx\n−\n6\n≤\n0\nPrzykładowe rozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania polega na wyznaczeniu pierwiastków trójmianu kwadratowego\n2\nx\n2\nx\n−.\n6\n+\nNa przykład obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:\n−−\n1 7\n−+\n1 7\n3\n,\n= −,\n.\nΔ\n=\n7\n2\nx\n=\n2\nx\n=\n=\n1\n2\n4\n4\n2\n2\n2\n6\n0\nDrugi etap rozwiązania polega na wyznaczeniu zbioru rozwiązań nierówności\nx\n+\nx\n−\n≤\n.\n3\n3\n3\nPodajemy zbiór rozwiązań nierówności:\n−≤\n2\nx\n≤\nlub\n−\n2,\nlub\nx\n∈−\n2\n,\n, np.\n2\n2\n2\n( )\nf x\n=\n2\nx\n2\n+\nx\n−\n6\nodczytując go ze szkicu wykresu funkcji\n.\n2\nx\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n• zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\n3\no obliczy lub poda pierwiastki trójmianu kwadratowego\nx = −,\n2\nx =\ni na tym\n2\n1\n2\nzakończy lub błędnie zapisze zbiór rozwiązań nierówności,\n( )\n2\n2\n6\no zaznaczy na wykresie miejsca zerowe funkcji\nf x\n=\nx\n+\nx\n−\ni na tym\nzakończy lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n• realizując pierwszy etap błędnie wyznaczy pierwiastki (ale otrzyma dwa różne\npierwiastki) i konsekwentnie do tego rozwiąże nierówność, np. popełni błąd\nrachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  ............................................................................................................... 2 p.\ngdy:\n3\n3\n3\n• poda zbiór rozwiązań nierówności:\nlub\nlub\n−≤\n2\nx\n≤\n−\n2,\nx\n∈−\n2\n,\n2\n2\n2\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\nUwagi\n1. Jeżeli zdający podaje pierwiastki bez związku z trójmianem kwadratowym z zadania, to\noznacza, że nie podjął realizacji 1. etapu rozwiązania i w konsekwencji otrzymuje\n0 punktów za całe rozwiązanie.\n2. Jeśli zdający wyznacza ujemną deltę trójmianu kwadratowego, to otrzymuje 0 punktów\nza całe rozwiązanie.\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu\n3\n3\nx = −,\n2\nx =\ni zapisze, np.\nx\n∈−\n2\n,\n−\n, popełniając tym samym błąd przy\n2\n2\n1\n2\nprzepisywaniu jednego z pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\n3\n, to przyznajemy 2 punkty.\nnierówności w postaci\nx\n,\n2\n∈\n−\n2"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-kwiecien-probna/27.webp",
+   "size": [
+    950,
+    87
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–2)\nRozwiąż równanie \n\n\nx\n2\n6\n3\nx\n2\n0\n.\n\n\n",
+   "key": "Zadanie 27. (0–2)\nRozwiąż równanie (\n)(\n)\nx\n2\n6\n3\nx\n2\n0\n−\n+\n=\n.\nPrzykładowe rozwiązanie\n2\nx − oraz 3\n2\nLewa strona równania jest iloczynem dwóch czynników\n6\nx +\n. Zatem iloczyn ten\njest równy 0, gdy co najmniej jeden z tych czynników jest równy 0, czyli\n2\n6\n0\nlub 3\nx +\n2\n0\n.\nx −\n=\n=\n2\nRozwiązaniem równania 3\nx +\n2\n=\n0\njest\nx = −\n.\n3\n2\nRozwiązania równania\nx −\n6\n=\n0\nmożemy wyznaczyć, korzystając:\n2\n• z postaci iloczynowej trójmianu\nx − (wzoru skróconego mnożenia na różnicę\n6\nkwadratów)\n(\n)(\n)\nx\n−\n6\nx\n+\n6\n=\n0\n, stąd\nx =\n6\nlub\nx = −\n6\nalbo\n• ze wzorów na pierwiastki trójmianu kwadratowego:\nΔ\n=\n24\n,\n0\n−\n2 6\n0\n+\n2 6\nx\n6\n,\nx\n6\n,\n=\n= −\n=\n=\n1\n2\n2\n2\nalbo\n• z własności wartości bezwzględnej, przekształcając najpierw równanie do postaci\nrównoważnej\nx =\n6\n, skąd\nx =\n6\nlub\nx = −\n6\n.\n2\nZatem wszystkie rozwiązania równania to:\nx = −\nlub\nx =\n6\n, lub\nx = −\n6\n.\n3\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n2\n• zapisze dwa równania:\nx −\n6\n=\n0\nlub 3\nx +\n2\n=\n0\n(wystarczy, że z rozwiązania wynika,\n2\nże zdający wyznacza pierwiastki każdego z wielomianów:\nx − oraz 3\n6\nx +\n2\n)\nalbo\n2\n• zapisze rozwiązanie\nx = −\n,\n3\nalbo\n2\n• wyznaczy dwa pierwiastki wielomianu\nx −,\n6\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje  .............................................................................................................. 2 p.\n2\ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\nx = −\nlub\n6\n, lub\n6\n.\nx =\nx = −\n3\nUwagi\n1. Jeżeli zdający zapisuje zamiast znaku = znak ≠ i zamieszcza zapisy typu: x2 – 6 ≠ 0 lub\n3x + 2 ≠ 0, to oznacza, że podejmuje próbę wyznaczenia miejsc zerowych dwóch\nwielomianów i otrzymuje przynajmniej 1 punkt.\n2. Jeżeli zdający nie zapisuje warunku x2 – 6 = 0, ale pisze od razu błędną postać iloczynową\nx2 – 6, np. (x – 3)(x – 2) = 0, (x – 6)(x + 6) = 0, i nie wyznacza poprawnie miejsca zerowego\ndrugiego wielomianu, to otrzymuje 0 punktów."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-kwiecien-probna/28.webp",
+   "size": [
+    890,
+    142
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–2)\nWykaż, że dla dowolnej dodatniej liczby rzeczywistej x prawdziwa jest nierówność\n1\n4\nx\n4\n.\n\n\nx",
+   "key": "Zadanie 28. (0–2)\nWykaż, że dla dowolnej dodatniej liczby rzeczywistej x prawdziwa jest nierówność\n1\n4\nx\n4\n.\n+\n≥\nx\nPrzykładowe rozwiązanie\nI sposób rozwiązania\n1\nDla dodatnich liczb x nierówność\n4\nx +\n≥\n4\njest równoważna kolejno nierównościom\nx\n4\nx\n2\n1\n4\nx\n,\n+ ≥\n,\n4\nx\n2\n−\n4\nx\n+ ≥\n1\n0\n(\n)\n2\n2\n1\n0\n.\nx −\n≥\nTa nierówność jest prawdziwa, gdyż lewa strona tej nierówności jest kwadratem liczby\nrzeczywistej. To kończy dowód.\nII sposób rozwiązania\n1\nDla dodatnich liczb x nierówność\n4\nx +\n≥\n4\njest równoważna kolejno nierównościom\nx\n1\n4\nx −\n4\n+\n≥\n0\n,\nx\n(\n)\n2\n1\n2\n0\nx −\n≥\nx\nTa nierówność jest prawdziwa, gdyż lewa strona tej nierówności jest kwadratem liczby\nrzeczywistej. To kończy dowód.\nIII sposób rozwiązania\n1\nDla dodatnich liczb x nierówność\n4\nx +\n≥\n4\njest równoważna kolejno nierównościom\nx\n4\nx\n2\n1\n4\nx\n,\n+ ≥\n.\n4\nx\n2\n−\n4\nx\n+ ≥\n1\n0\n(\n)\n2\nPonieważ wyróżnik trójmianu kwadratowego\n2\n+ jest równy\nΔ\n4\n4 1 4\n0\n4\nx\n−\n4\nx\n1\n= −\n−⋅⋅\n=\ni współczynnik przy\n2x jest dodatni, więc nierówność jest prawdziwa dla każdej liczby\nrzeczywistej x. To kończy dowód.\nUwaga\nMożemy też naszkicować wykres tego trójmianu\n4\n2\n4\n+ .\n1\ny\n=\nx\n−\nx\nx\nIV sposób rozwiązania\nZ twierdzenia o średniej arytmetycznej i geometrycznej dla liczb dodatnich 4x i 1x wynika, że\nprawdziwa jest nierówność\n1\n4\nx\n+\nx\n1\n4\n2\n.\n≥\nx\n⋅\n=\nx\n2\n1\n4\n4\nStąd otrzymujemy\nx +\n≥\n.\nx\nTo kończy dowód.\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n• przekształci poprawnie nierówność do postaci (\n)\n2\n2\nx −\n1\n0\n≥\nalbo\n• przekształci poprawnie nierówność do postaci (\n)\n2\n1\n2\nx −\n≥\n0\n,\nx\nalbo\n• przekształci poprawnie nierówność do postaci\n4\n2\n4\n1\n0\ni obliczy wyróżnik\nx\n−\nx\n+ ≥\n+ : Δ\n0\ntrójmianu\n4\nx\n2\n−\n4\nx\n1\n=\nalbo\n1\n( )\n1\nx =\n• obliczy pochodną funkcji\nf x\n=\n4\nx\n+\ni wykaże, że dla\nfunkcja f osiąga\nx\n2\nminimum lokalne\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy przeprowadzi pełne rozumowanie.\nUwaga\nJeżeli zdający sprawdzi prawdziwość tezy tylko dla konkretnych przypadków, to otrzymuje\n0 punktów."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-kwiecien-probna/29.webp",
+   "size": [
+    956,
+    156
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–2)\nDany jest trójkąt prostokątny ABC , w którym\nACB \n90\ni\nABC \n60\n. Niech D\n\n\noznacza punkt wspólny wysokości poprowadzonej z wierzchołka C kąta prostego\n:\n3 :1\ni przeciwprostokątnej AB tego trójkąta. Wykaż, że\nAD\nDB \n.",
+   "key": "Zadanie 29. (0–2)\nS\nACB =\n90\nS\nABC =\n60\n. Niech D\nDany jest trójkąt prostokątny ABC , w którym\n°\ni\n°\noznacza punkt wspólny wysokości poprowadzonej z wierzchołka C kąta prostego\ni przeciwprostokątnej AB tego trójkąta. Wykaż, że\nAD\n:\nDB =\n3 :1\n.\nPrzykładowe rozwiązania\nI sposób rozwiązania\nSporządzamy pomocniczy rysunek ilustrujący treść zadania.\nB\nD\nA\nC\n1\nS\nABC =\n60\nS\nDBC =\n60\nPonieważ\n°\n, więc\n. Podobnie, ponieważ\n°\n, więc\nBC\n=\nAB\n2\n1\n. Otrzymujemy zatem ciąg równości\nDB\n=\nBC\n2\n(\n)\n1\n1 1\n1\nDB\n=\nBC\n=\nAB\n=\nAB\n.\n2\n2 2\n4\n3\n1\n3\nZatem\n. Stąd wynika, że\nAD\n:\nDB\n=\nAB\n:\nAB\n=\n3 :1\n. To kończy dowód.\nAD\nAB\n=\n4\n4\n4\nSchemat punktowania I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................... 1 p.\ngdy zauważy i zapisze, że\n1\n1\ni\nBC\n=\nAB\nDB\n=\nBC\n2\n2\ni na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................... 2 p.\ngdy przeprowadzi pełne, poprawne rozumowanie.\nII sposób rozwiązania\nSporządzamy pomocniczy rysunek ilustrujący treść zadania.\nB\nD\nA\nC\nZ trójkątów prostokątnych ADC i BDC otrzymujemy równości\nCD\nCD\ni tg60\n,\ntg30\n° =\n° =\nAD\nDB\nczyli równości\n3\ni\n.\nCD\n=\nAD\nCD\n=\n3\nDB\n3\nPorównujemy prawe strony obu równań i zapisujemy równanie\n3\n3 AD\n=\n3\nDB\n,\nrównoważne równaniu\nAD\n3\n.\nDB =\n=\n3\n3\n3\nOtrzymana równość oznacza tezę twierdzenia.\nSchemat punktowania II sposobu rozwiązania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy zauważy i zapisze, że\n3\ni\nCD\n=\nAD\nCD\n=\n3\nDB\n3\ni na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy przeprowadzi pełne, poprawne rozumowanie.\nIII sposób rozwiązania\nSporządzamy pomocniczy rysunek ilustrujący treść zadania.\nB\nD\nA\nC\nNiech AC\n=\nb\n. Wtedy w trójkącie ACD mamy:\nb\n3\nb\nAD =\nCD =\ni\n.\n2\n2\nPonadto, w trójkącie ABC :\n3\nb\nBC =\n.\n3\nAD\n3\nb\n3\nb\n3\nb\nS\n60\nDBC =\n°\nDB =\nDB =\n:\n=\n3\nPonieważ\n, więc\n. Zatem\n.\n2\n6\n6\nTo kończy dowód.\nSchemat punktowania III sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................... 1 p.\ngdy zapisze długość odcinków AD i DB w zależności od długości odcinka AC, np. oznaczy\nAC\n=\nb\ni zapisze długości odcinków AD i DB w zależności od b :\n3\n3\nb\nb\nAD =\nDB =\ni\n2\n6\ni na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................... 2 p.\ngdy przeprowadzi pełne, poprawne rozumowanie.\nIV sposób rozwiązania\nNiech BC\n=\na\n3\n. Ponieważ trójkąt ABC jest połową trójkąta równobocznego, więc\nAC\n=\na\n.\nB\nD\na\nA\nC\nAC\na\n3\n=\n=\n3\nTrójkąty ADC i CDB są podobne, a skala ich podobieństwa jest równa\n, więc\nBC\na\nP\n(\n)\n2\n3\n3\nstosunek pól tych trójkątów jest kwadratem tej skali, czyli\nADC\n=\n=\n. Te trójkąty mają\nP\nCDB\nwspólną wysokość CD, więc stosunek ich pól jest równy stosunkowi długości ich podstaw,\nAD\nP\n3\nADC\n=\n=\nczyli\n.\nP\nBD\nCDB\nTo kończy dowód.\nSchemat punktowania IV sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................... 1 p.\ngdy zapisze, że trójkąty ADC i CDB są podobne, obliczy stosunek pól tych trójkątów i zapisze,\nże CD jest wspólną wysokością tych trójkątów i na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................... 2 p.\ngdy przeprowadzi pełne, poprawne rozumowanie.\nUwagi\n1. Jeżeli zdający sprawdzi prawdziwość tezy tylko dla konkretnych przypadków, to\notrzymuje 0 punktów. Uwaga ta nie dotyczy sytuacji, gdy zdający zapisuje stosowną\nwłasność: podobieństwo trójkątów o kątach 30°, 60°, 90°.\n2. Jeżeli zdający ustali, że długości odcinków są równe: BD = x, BC = 2x, AB = 4x lub\nBD = x, BC = 2x, AD = 3x i nie towarzyszą tym ustaleniom zapisy świadczące o błędnym\nrozumowaniu, to może otrzymać 2 punkty.\n3. Jeżeli zdający przeprowadzi uzasadnienie, rozważając konkretne długości odcinków\ni zapisze, że ze względu na podobieństwo figur teza jest prawdziwa dla dowolnych\ndługości boków, spełniających podane warunki, to może otrzymać 2 punkty."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-kwiecien-probna/30.webp",
+   "size": [
+    950,
+    155
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–2)\nZe zbioru liczb \n\n1 2 4 5 10\n, , , ,\nlosujemy dwa razy po jednej liczbie ze zwracaniem. Oblicz\nprawdopodobieństwo zdarzenia A polegającego na tym, że iloraz pierwszej wylosowanej liczby\nprzez drugą wylosowaną liczbę jest liczbą całkowitą.",
+   "key": "Zadanie 30. (0–2)\nZe zbioru liczb {\n}\n1 2 4 5 10\n, , , ,\nlosujemy dwa razy po jednej liczbie ze zwracaniem. Oblicz\nprawdopodobieństwo zdarzenia A polegającego na tym, że iloraz pierwszej wylosowanej liczby\nprzez drugą wylosowaną liczbę jest liczbą całkowitą.\nPrzykładowe rozwiązania\nI sposób rozwiązania („metoda klasyczna”)\nZdarzeniami elementarnymi są wszystkie pary uporządkowane (\n)\n,x y liczb ze zbioru\n{\n}\n1, 2, 4, 5,10 . Jest to model klasyczny. Liczba wszystkich zdarzeń elementarnych jest równa\n5 5\n25\nΩ= ⋅=\n.\nZdarzeniu A sprzyjają następujące zdarzenia elementarne:\n(\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n)\n1,1 , 2,1 , 4,1 , 5,1 , 10,1 , 2,2 , 4,2 , 10,2 , 4,4 , 5,5 , 10,5 , 10,10\nA\n12\n( )\nZatem\nA =\n12\ni stąd\n0,48\n.\nP A =\n=\n=\nΩ\n25\nII sposób rozwiązania („metoda tabeli”)\nZdarzeniami elementarnymi są wszystkie pary uporządkowane (\n)\n,x y liczb ze zbioru\n{\n}\n1, 2, 4, 5,10 . Jest to model klasyczny. Budujemy tabelę ilustrującą sytuację opisaną\nw zadaniu.\nI losowanie\n1\n2\n4\n5\n10\n1\n×\n×\n×\n×\n×\nII losowanie\n2\n×\n×\n×\n4\n×\n5\n×\n×\n10\n×\nSymbolem × oznaczono zdarzenia elementarne sprzyjające zdarzeniu A. Mamy więc 25,\n25\nwszystkich zdarzeń elementarnych, czyli\nΩ=\n, oraz 12 zdarzeń elementarnych\nA\n12\n( )\nsprzyjających zdarzeniu A , czyli\nA =\n12\n.  Stąd\n.\nP A =\n=\n=\n0,48\nΩ\n25\nSchemat punktowania I i II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................... 1 p.\ngdy\n25\n• obliczy liczbę wszystkich możliwych zdarzeń elementarnych\nΩ=\nalbo\n• przedstawi poprawny sposób wyznaczenia wszystkich elementów zbioru A lub wypisze\nwszystkie te zdarzenia elementarne:\n(\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n) (\n)\n1,1 , 2,1 , 4,1 , 5,1 , 10,1 , 2,2 , 4,2 , 10,2 , 4,4 , 5,5 , 10,5 , 10,10\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje  ............................................................................................................... 2 p.\nA\n12\n( )\ngdy obliczy prawdopodobieństwo zdarzenia A :\n.\nP A =\n=\n=\n0,48\nΩ\n25\nIII sposób rozwiązania („metoda drzewa”)\nDrzewo z istotnymi gałęziami\nI losowanie\n4\n5\n10\n1\n2\nII losowanie\n1\n1\n1\n2\n4\n2\n5\n1\n5\n1\n2\n10\n1 1\n12\n( )\nP A =\n12\n⋅\n⋅\n=\n=\n0,48\n.\n5 5\n25\nSchemat punktowania III sposobu rozwiązania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy narysuje drzewo uwzględniające wszystkie istotne gałęzie i zapisze poprawne\nprawdopodobieństwo przynajmniej przy jednej gałęzi.\nZdający otrzymuje  .............................................................................................................. 2 p.\n1 1\n12\n( )\ngdy obliczy prawdopodobieństwo zdarzenia A :\n.\nP A =\n12\n⋅\n⋅\n=\n=\n0,48\n5 5\n25\nUwagi\n( )\n1\n1. Jeśli zdający rozwiąże zadanie do końca i otrzyma\nP A > , to otrzymuje za całe\nrozwiązanie 0 punktów.\n2. Jeżeli zdający poprawnie obliczy prawdopodobieństwo w sytuacji rozważania losowania bez\nzwracania i uzyska wynik 7\n20 , to może otrzymać 1 punkt.\n3. Jeżeli zdający przy opisie elementów zbioru A zmienia kolejność liczb i pisze na przykład\n(1, 2) zamiast (2, 1), to może otrzymać 2 punkty."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-kwiecien-probna/31.webp",
+   "size": [
+    964,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (0–2)\nDany jest ciąg arytmetyczny \n\nna\n, określony dla\nn , w którym spełniona jest równość\n1\na\n\na\n\na\n\na\n\n100\n. Oblicz sumę\na\n\na\n.\n21\n24\n27\n30\n25\n26",
+   "key": "Zadanie 31. (0–2)\nDany jest ciąg arytmetyczny (\n)\nna\n, określony dla\nn ≥, w którym spełniona jest równość\n1\n100\n. Oblicz sumę\n.\na\n+\na\n+\na\n+\na\n=\na\n+\na\n21\n24\n27\n30\n25\n26\nPrzykładowe rozwiązanie\nPonieważ w zadaniu należy obliczyć sumę\na\n+\na\n, więc zapiszemy daną równość\n25\n26\na\n+\na\n+\na\n+\na\n=\n100\nw postaci równoważnej\n21\n24\n27\n30\na\n−\n4\nr\n+\na\n−+\nr\na\n+ +\nr\na\n+\n4\nr\n=\n100\n,\n25\n25\n26\n26\ngdzie r oznacza odpowiednio różnicę danego ciągu. Stąd wynika, że\na\n+\na\n=\n50\n.\n25\n26\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n• zapisze równość\na\n+\na\n+\na\n+\na\n=\n100\nw postaci równoważnej\n21\n24\n27\n30\n2\na\n+\n49\nr\n=\n50\na\n−\n4\nr\n+\na\n−+\nr\na\n+ +\nr\na\n+\n4\nr\n=\n100\nlub\n4\na\n+\n98\nr\n=\n100\n, lub\n1\n25\n25\n26\n26\n1\ni na tym zakończy lub dalej popełni błędy\nalbo\n• zapisze, że\na\na\na\n24\nr\na\n25\nr\n2\na\n49\nr\n+\n=\n+\n+\n+\n=\n+\n25\n26\n1\n1\n1\ni na tym zakończy lub dalej popełni błędy,\nalbo\n• popełni błąd rachunkowy w przekształcaniu równości\ndo\na\n+\na\n+\na\n+\na\n=\n100\n21\n24\n27\n30\npostaci równoważnej i konsekwentnie do popełnionego błędu obliczy sumę\n.\na\n+\na\n25\n26\nZdający otrzymuje  ............................................................................................................... 2 p.\ngdy obliczy i zapisze, że\na\na\n50\n.\n+\n=\n25\n26\nUwagi\n1. Jeżeli zdający zapisze równość\na\n+\na\n+\na\n+\na\n=\n100\nw postaci równoważnej\n21\n24\n27\n30\n4\na\n+\n98\nr\n=\n100\n, a następnie wprowadzi konkretne wartości liczbowe do równania z dwiema\n1\n1\nniewiadomymi, np.\nr = , i nawet poprawnie obliczy\na\n+\na\n, to otrzymuje 1 punkt za\n25\n26\ntakie rozwiązanie.\n2. Jeżeli zdający myli własności ciągu arytmetycznego z własnościami ciągu geometrycznego,\nto za całe zadanie otrzymuje 0 punktów.\n3. Jeżeli zdający rozważa wyłącznie konkretne ciągi i nie podaje stosownego uzasadnienia na\ntemat zastosowania tych rozważań do sytuacji ogólnej, to otrzymuje 0 punktów.\n4. Jeżeli zdający zapisuje wyłącznie\na\na\n50\n, to otrzymuje 0 punktów.\n+\n=\n25\n26"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2020-kwiecien-probna/32.webp",
+   "size": [
+    950,
+    160
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (0–4)\nFunkcja kwadratowa  f  określona wzorem \n2\nf x\n\nax\nbx\n\nc\nma dwa miejsca zerowe:\n+\n\n\nx  i\n2\nx \n6\n. Wykres funkcji  f  przechodzi przez punkt\nA \n1,\n\n5\n. Oblicz najmniejszą\n1\n2\nwartość funkcji  f.",
+   "key": "Zadanie 32. (0–4)\n( )\nFunkcja kwadratowa\nf x\n=\nax\n2\n+\nbx\n+\nc\nma dwa miejsca zerowe\nx = − i\n2\n6\n. Wykres\nx =\n1\n2\n(\n)\n1,\n5\nfunkcji f przechodzi przez punkt\nA =\n−\n. Oblicz najmniejszą wartość funkcji f.\nPrzykładowe rozwiązania\nI sposób rozwiązania\nPonieważ znamy miejsca zerowe funkcji kwadratowej, to możemy zapisać wzór funkcji f\n( )\n(\n)(\n)\nw postaci iloczynowej\n.\nf\nx\n=\na x\n−\n6\nx\n+\n2\n(\n)\nWykres tej funkcji przechodzi przez punkt\n, więc otrzymujemy równanie\nA =\n1,\n−\n5\n(\n)(\n)\n,\n5\n1\n6\n1\n2\n−=\na\n−\n+\n,\n−= −\n5\n15a\n1\n.\na =\n3\n1\n( )\n(\n)(\n)\nFunkcja określona jest wzorem:\n.\nf\nx\n=\nx\n−\n6\nx\n+\n2\n3\nNajmniejsza wartość jest przyjmowana przez funkcję f dla argumentu\n0x , który jest średnią\narytmetyczną miejsc zerowych tej funkcji.\n(\n)\nWyznaczamy\n0x i najmniejszą wartość funkcji\n:\nf\nx\n0\n6 2\n−\n1\n16\n(\n)\n( )\n(\n)(\n)\n,\n.\nx =\n=\n2\nf\nx\n=\nf\n2\n=\n2\n−\n6\n2\n+\n2\n= −\n2\n3\n3\n0\n0\nII sposób rozwiązania\nZ treści zadania wynika, że możemy zapisać układ trzech równań:\n2\n⋅−\n(\n)\n(\n)\na\n2\n+ ⋅−\nb\n2\n+\nc\n=\n0\n⋅\n2\na\n6\nb\n6\nc\n0\n+ ⋅+\n=\n\n⋅\n2\na\n1\n+ ⋅+\nb\n1\nc\n= −\n5\n\n1\n4\nPo rozwiązaniu układu równań otrzymujemy\na =\n,\nb = −\ni\nc = −.\n4\n3\n3\n1\n4\n( )\n2\nStąd wynika, że funkcja  f określona jest wzorem:\n.\nf\nx\nx\nx\n4\n=\n−\n−\n3\n3\n4\nb\n−\n3\nFunkcja ta przyjmuje najmniejszą wartość dla argumentu\n.\n2\nx\n=\n=\n=\n0\n1\n2\na\n2\n⋅\n3\n1\n4\n16\n( )\n2\nObliczamy najmniejszą wartość funkcji:\n.\nf\n2\n=\n⋅\n2\n−\n⋅−\n2\n4\n= −\n3\n3\n3\nUwaga\nPo obliczeniu współczynników a, b i c możemy najmniejszą wartość funkcji obliczyć ze\n= −∆. Wtedy otrzymujemy\nwzoru\nq\n4\na\n(\n)\n2\n4\n1\n16\n16\n(\n)\n4\n4\n−\n−⋅\n⋅−\n+\n16\n3\n3\n9\n3\n.\nf\n= −\n= −\n= −\nmin\n1\n4\n3\n4\n⋅\n3\n3\nSchemat punktowania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający\n• obliczy pierwszą współrzędną wierzchołka paraboli:\np =\n2\nalbo\n• zapisze wzór funkcji f w postaci iloczynowej, z jednym nieznanym współczynnikiem:\n( )\n(\n)(\n)\n,\n6\n2\nf\nx\n=\na x\n−\nx\n+\nalbo\n• zapisze trzy równania, w których niewiadomymi są współczynniki a, b, c trójmianu\nkwadratowego:\n2\n(\n)\n(\n)\na\n⋅−\n2\n+\nb\n⋅−\n2\n+\nc\n=\n0\n2\na\n⋅\n6\n+\nb\n⋅+\n6\nc\n=\n0\n2\na\n⋅\n1\n+\nb\n⋅+\n1\nc\n= −\n5\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp  ....................................................................... 2 p.\nZdający\n• zapisze wzór funkcji f w postaci iloczynowej, z jednym nieznanym współczynnikiem:\n1\n( )\n(\n)(\n)\ni obliczy wartość a:\nf\nx\na x\n6\nx\n2\na =\n=\n−\n+\n3\nalbo\n1\n4\n• obliczy współczynniki trójmianu kwadratowego:\n,\ni\nc = −\n4\na =\nb = −\n3\n3\ni na tym poprzestanie lub dalej popełnia błędy.\nPokonanie zasadniczych trudności zadania  ................................................................. 3 p.\nZdający\n1\n4\n•  obliczy współczynniki trójmianu kwadratowego:\n,\ni\nc = − oraz obliczy\n4\na =\nb = −\n3\n3\npierwszą współrzędną wierzchołka paraboli:\np =\n2\nalbo\n1\n4\n• obliczy współczynniki trójmianu kwadratowego:\n,\ni\nc = − oraz zapisze,\n4\na =\nb = −\n3\n3\n(\n)\n2\n∆\n4\n1\n(\n)\nże najmniejsza wartość funkcji jest równa\noraz obliczy\n4\n4\n−\n∆= −\n−⋅\n⋅−\n3\n3\n4a\nalbo\n•  zapisze wzór funkcji f w postaci iloczynowej, z jednym nieznanym współczynnikiem:\n1\n( )\n(\n)(\n)\ni obliczy wartość a:\noraz obliczy pierwszą współrzędną\n6\n2\na =\nf\nx\n=\na x\n−\nx\n+\n3\nwierzchołka paraboli:\np =\n2\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie pełne ........................................................................................................... 4 p.\n16\nZdający obliczy najmniejszą wartość funkcji f:\n.\n−\n3\nUwagi\n1. Jeżeli zdający popełni błędy (rachunkowe, w przepisywaniu), które nie przekreślają\npoprawności rozumowania i konsekwentnie rozwiąże zadanie do końca, to może otrzymać\nco najwyżej 3 punkty za takie rozwiązanie.\n2.  Jeżeli zdający przyjmuje konkretna wartość a > 0, to może otrzymać co najwyżej 1 punkt.\n3.  Jeżeli zdający przy wyznaczaniu a popełnia błąd rachunkowy i otrzymuje a > 0, to może\notrzymać co najwyżej 3 punkty.\n4.  Jeżeli zdający przy wyznaczaniu a popełnia błąd rachunkowy i otrzymuje a < 0, to może\notrzymać co najwyżej 2 punkty."
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2020-kwiecien-probna/33.webp",
+   "size": [
+    950,
+    675
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (0–4)\n\n\nC \n0,0\nPunkt\njest wierzchołkiem trójkąta prostokątnego ABC, którego wierzchołek A leży na\nosi Ox, a wierzchołek B na osi Oy układu współrzędnych. Prosta zawierająca wysokość tego\n\n\nD \n3,4\ntrójkąta opuszczoną z wierzchołka C przecina przeciwprostokątną AB w punkcie\n.\nOblicz współrzędne wierzchołków A i B tego trójkąta oraz długość przeciwprostokątnej AB.",
+   "key": "Zadanie 33. (0–4)\n(\n)\nC =\n0,0\nPunkt\njest wierzchołkiem trójkąta prostokątnego ABC, którego wierzchołek A leży na\nosi Ox, a wierzchołek B na osi Oy układu współrzędnych. Prosta zawierająca wysokość tego\n(\n)\nD =\n3,4\ntrójkąta opuszczoną z wierzchołka C przecina przeciwprostokątną AB w punkcie\n.\nOblicz współrzędne wierzchołków A i B tego trójkąta oraz długość przeciwprostokątnej AB.\nPrzykładowe rozwiązania\nI sposób rozwiązania\nWspółczynnik kierunkowy prostej CD jest równy\ny\n−\ny\n4\n−\n0\n4\na\n=\nD\nC\n=\n=\n.\nCD\nx\n−\nx\n3\n−\n0\n3\nD\nC\nProsta AB jest prostopadła do prostej CD, więc jej współczynnik kierunkowy jest równy\n3\n.\na\n= −\n4\nAB\n(\n)\n3,4\nProsta ta przechodzi przez punkt\nD =\n, więc jej równanie ma postać\n3\n(\n)\n,\ny\n= −\nx\n−\n3\n+\n4\n4\n3\n25\n.\ny\n= −\nx\n+\n4\n4\n(\n)\n25\nPonieważ prosta AB przecina oś Oy w punkt B, więc\n0,\n, natomiast oś Ox w punkcie\nB =\n4\n(\n)\n,0\nA, więc\nA\n=\nx\n. Zatem\nA\n3\n25\n0\n= −\nx\n+\n,\n4\n4\nA\n25\n,\nx =\n3\nA\n(\n)\n25\nczyli\n.\nA =\n3 ,0\nDługość przeciwprostokątnej AB jest zatem równa\n(\n)\n(\n)\n(\n)\n2\n2\n25\n25\n625\n625\n1\n1\n0\n0\n625\nAB =\n−\n+\n−\n=\n+\n=\n⋅\n+\n=\n3\n4\n9\n16\n9\n16\n25\n5\n125\n5\n=\n625\n⋅\n=\n25\n⋅\n=\n=\n10\n.\n916\n⋅\n3 4\n⋅\n12\n12\nSchemat punktowania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\n4\nZdający zapisze współczynnik kierunkowy prostej CD:\na\n=\n3\nCD\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp  ....................................................................... 2 p.\n3\n(\n)\nZdający zapisze równanie prostej AB:\ny\n= −\nx\n−\n3\n+\n4\n4\ni na tym poprzestanie lub dalej popełnia błędy.\nPokonanie zasadniczych trudności zadania  ...................................................................... 3 p.\n(\n)\n(\n)\n25\n25\nZdający obliczy współrzędne punktów A i B:\nA =\n3 ,0\n,\nB =\n0,\n.\n4\nRozwiązanie pełne ................................................................................................................ 4 p.\n5\nZdający obliczy długość przeciwprostokątnej AB trójkąta ABC:\nAB =\n10\n.\n12\nII sposób rozwiązania\n(\n)\n(\n)\nA\nx\n,0\nB\n0,\ny\nNiech\n=\ni\n=\n. Długość odcinka CD jest równa\nA\nB\n(\n)\n(\n)\n2\n2\nCD =\n3\n−\n0\n+\n4\n−\n0\n=\n5\n.\nZ twierdzenia dla trójkątów ACD i BDC otrzymujemy\n2\n2\n2\n2\n2\n2\nAD\n+\nCD\n=\nAC\ni\nCD\n+\nBD\n=\nBC\n,\n(\n)\n(\n)\n2\n2\n(\n)\n(\n)\n(\n)\n(\n)\n2\n2\n2\n2\n3\n−\nx\n+\n4\n−\n0\n+\n5\n2\n=\nx\n2\ni\n3\n−\n0\n+\n4\n−\ny\n+\n5\n2\n=\ny\n2\n,\nA\nA\nB\nB\ni\n,\n9\n−\n6\nx\n+\nx\n2\n+\n16\n+\n25\n=\nx\n2\n9 16\n+\n−\n8\ny\n+\ny\n2\n+\n25\n=\ny\n2\nA\nA\nA\nB\nB\nB\n50\n6\ni 50\n8\n,\n=\nx\n=\ny\nA\nB\n50\n25\n50\n25\n1\n1\ni\n.\nx =\n=\n=\n8\ny =\n=\n=\n6\n6\n3\n3\n8\n4\n4\nA\nB\n(\n)\n(\n)\n25\n25\nZatem\n3 ,0\ni\n0,\n.\nA =\nB =\n4\nDługość przeciwprostokątnej AB jest zatem równa\n(\n)\n(\n)\n(\n)\n2\n2\n25\n25\n625\n625\n1\n1\nAB =\n0\n0\n625\n=\n−\n+\n−\n=\n+\n=\n⋅\n+\n3\n4\n9\n16\n9\n16\n25\n5\n125\n5\n625\n25\n10\n=\n⋅\n=\n⋅\n=\n=\n.\n916\n3 4\n12\n12\n⋅\n⋅\nSchemat punktowania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze\ndo pełnego rozwiązania ........................................................................................................ 1 p.\n(\n)\n2\n(\n)\n(\n)\n2\n2\nZdający zapisze jedno z równań:\n3\n−\nx\n+\n4\n−\n0\n+\n5\n2\n=\nx\n2\n,\nA\nA\n(\n)\n2\n(\n)\n(\n)\n2\n2\n3\n−\n0\n+\n4\n−\ny\n+\n5\n2\n=\ny\n2\nz niewiadomą odpowiednio\nx ,\ny\nB\nB\nA\nB\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp  ....................................................................... 2 p.\n(\n)\n2\n(\n)\n2\n(\n)\n2\nZdający zapisze oba równania:\n3\nx\n4\n0\n5\n2\nx\n2\n,\n−\n+\n−\n+\n=\nA\nA\n(\n)\n2\n(\n)\n2\n(\n)\n2\n3\n0\n4\ny\n5\n2\ny\n2\nz niewiadomą odpowiednio\nx ,\ny\n−\n+\n−\n+\n=\nB\nB\nA\nB\ni na tym poprzestanie lub dalej popełnia błędy.\nPokonanie zasadniczych trudności zadania  ...................................................................... 3 p.\n(\n)\n(\n)\n25\n25\nZdający obliczy współrzędne punktów A i B:\nA =\n3 ,0\n,\nB =\n0,\ni na tym poprzestanie\n4\nlub dalej popełnia błędy.\nRozwiązanie pełne ................................................................................................................ 4 p.\n5\nZdający obliczy długość przeciwprostokątnej AB trójkąta ABC:\nAB =\n10\n.\n12\nUwaga (do schematów punktowania I i II sposobu rozwiązania)\nJeżeli zdający popełni błędy (rachunkowe, w przepisywaniu), które nie przekreślają\npoprawności rozumowania i konsekwentnie rozwiąże zadanie do końca, to może otrzymać co\nnajwyżej 3 punkty za takie rozwiązanie."
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-P-2020-kwiecien-probna/34.webp",
+   "size": [
+    950,
+    801
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (0–5)\nABCDEF\nABC\nPodstawą graniastosłupa prostego\njest trójkąt prostokątny\n, w którym\nACB\n90\n(zobacz rysunek). Stosunek długości przyprostokątnej AC tego trójkąta do\n\n\ndługości przyprostokątnej BC jest równy 4 : 3. Punkt S jest środkiem okręgu opisanego na\ntrójkącie ABC, a długość odcinka SC jest równa 5. Pole ściany bocznej BEFC graniastosłupa\njest równe 48. Oblicz objętość tego graniastosłupa.\nF\nD\nE\nC\nA\nB\nS",
+   "key": "Zadanie 34. (0–5)\nABCDEF\nABC\nPodstawą graniastosłupa prostego\njest trójkąt prostokątny\n, w którym\nSACB\n90\n=\n°\n(zobacz rysunek). Stosunek długości przyprostokątnej AC tego trójkąta do\ndługości przyprostokątnej BC jest równy 4 : 3. Punkt S jest środkiem okręgu opisanego na\ntrójkącie ABC, a długość odcinka SC jest równa 5. Pole ściany bocznej BEFC graniastosłupa\njest równe 48. Oblicz objętość tego graniastosłupa.\nF\nD\nE\nC\nA\nB\nS\nPrzykładowe rozwiązanie\nOdcinek CS jest promieniem okręgu opisanego na trójkącie ABC. Zatem\nCS\n=\nAS\n=\nBS\n=\n5\n,\nskąd otrzymujemy\nAB =\n10\n.\nPonieważ stosunek długości przyprostokątnej AC do długości przyprostokątnej BC jest równy\n4 : 3, więc możemy przyjąć\nAC\n4\nx\noraz\nBC\n3\nx\n, gdzie x oznacza współczynnik\n=\n=\nproporcjonalności. Z twierdzenia Pitagorasa otrzymujemy równanie\n(\n)\n2\n(\n)\n2\n10\n2\n4\n3\n,\n=\nx\n+\nx\n100\n25x\n2\n,\n=\n,\nx =\n2\n4\nx =\n2\n.\n1 8 6\nZatem\nAB =\n8\noraz\nBC =\n6\n. Pole trójkąta ABC jest równe\n.\nP =\n⋅⋅\n=\n24\n2\nPole ściany bocznej BEFC jest równe 48, więc\nBC H\n48\n, gdzie BE\nH\n⋅\n=\n=\nto wysokość graniastosłupa.\n6\n48\n,\n⋅\nH\n=\n.\nH =\n8\nObjętość graniastosłupa jest równa\nV\n=\nP\n⋅\nH\n=\n24 8\n⋅=\n192\n.\np\nSchemat punktowania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do\npełnego rozwiązania ............................................................................................................. 1 p.\nZdający\n• obliczy długość przeciwprostokątnej trójkąta ABC:\nAB =\n10\nalbo\n• zapisze zależność między długościami przyprostokątnych trójkąta ABC, np.:\nb\n4\na =\nlub (\nAC\n=\n4\nx\ni\nBC\n=\n3\nx\n)\n3\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie, w którym postęp jest istotny ........................................................................ 2 p.\nZdający zapisze\n• równanie pozwalające obliczyć długości przyprostokątnych, np.: (\n)\n2\n(\n)\n2\n3\nx\n4\nx\n10\n2\n+\n=\nalbo\n• układ równań pozwalający obliczyć długości przyprostokątnych, np.:\nb\n4\na\n2\n+\nb\n2\n=\n10\n2\na =\ni\n3\ni na tym poprzestanie lub dalej popełnia błędy.\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\n10\n8\n6\nZdający obliczy długości boków trójkąta ABC:\nAB =\n,\nAC =\n,\nBC =\ni na tym\npoprzestanie lub dalej popełnia błędy.\nUwaga\nAkceptujemy rozwiązanie, w którym zdający wykorzystuje trójkę pitagorejską (6, 8, 10).\nRozwiązanie prawie pełne ................................................................................................... 4 p.\nZdający\n8\n• nie obliczy objętości bryły, ale obliczy wysokość graniastosłupa:\nH =\nalbo\n• obliczy objętość graniastosłupa, popełniając w trakcie rozwiązania błędy rachunkowe.\nRozwiązanie pełne ................................................................................................................ 5 p.\nZdający obliczy objętość graniastosłupa:\n192\n.\nV =\nUwagi\n1. Jeżeli zdający rozważa w podstawie graniastosłupa trójkąt inny niż do trójkąta o bokach\n6, 8, 10, ale podobny do tego trójkąta o bokach 6, 8, 10, to może otrzymać co najwyżej\n2 punkty.\n2. Jeżeli zdający rozkłada liczbę 48 na iloczyn 8 · 6 i przyjmuje, że 6 jest długością BC,\na następnie wyznacza pole podstawy i objętość bryły, to może otrzymać co najwyżej\n3 punkty."
+  }
+ ]
+}

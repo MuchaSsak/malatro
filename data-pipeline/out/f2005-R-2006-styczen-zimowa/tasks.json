@@ -1,0 +1,170 @@
+{
+ "exam": {
+  "id": "f2005-R-2006-styczen-zimowa",
+  "formula": "2005",
+  "level": "R",
+  "year": 2006,
+  "session": "zimowa",
+  "month": "01",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/stories/Arkusz2006styczen/mat_a2.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/Arkusz2006styczen/mat_a2_model.pdf",
+  "examFile": "f2005-R-2006-styczen-zimowa.pdf",
+  "keyFile": "f2005-R-2006-styczen-zimowa-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure); sesja zimowa (17 Jan 2006); Arkusz II",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2006-2/sesja-zimowa-2006-r/",
+  "examPages": 12,
+  "keyPages": 3,
+  "examBytes": 230462,
+  "keyBytes": 132354
+ },
+ "keyHead": "MODEL ODPOWIEDZI I SCHEMAT OCENIANIA\nARKUSZA  II\nNumer\nNumer\nLiczba\nEtapy rozwiązania zadania\nzadania\nczynności\npunktów\n4\n3\n2\n∆\n=\n+\n+\nObliczenie wyróżnika:\nm\n8\nm\n12\nm\ni wskazanie\n+\n+\n4\n3\n2\npierwiastków wielomianu\nm\n8\nm\n12\nm\n:\n11.1.\n2\n=\n= −\n−\nm\n0,\nm\n6,\nm\n2\n, lub zapisanie wyróżnika w postaci\n1\n2\n3\n(\n) (\n)\n∆=\n+\n⋅\n+\niloczynowej:\nm\n2\nm\n2\nm\n6 .\n11.\n∆>\nRozwiązanie nierówności\n0\ni zapisanie dziedziny:\n11.2.\n1\n(\n)\n(\n)\n(\n)\n∈\n−\n∞\n−\n∪\n−\n∪\n∞\nm\n,\n6\n,2\n0\n,0\n.\n+\n3\nm\n2\n= m\n11.3.\nZapisanie wzoru funkcji:\nf\n(\nm\n)\n1\n+\n2\n11.4.\nNaszkicowanie wykresu funkcji f.\n2\n2\n=\n2\nWykorzystanie własności\nx\nx\ni doprowadzenie\n12.1.\n1\ndrugiego równania do postaci: (\n)\n(\n)\n2\n2\n+\n+\n+\n=\ny\n1\ny\n1\n8\n.\ny = − lub\ny = .\nWyznaczenie wartości zmiennej  y:\n3\n1\n12.2.\n1\n= −\n=\n\ny\n3\n\ny\n1\nRozwiązanie układu równań\nlub\n:\n= −\n=\nx\n2\nx\n2\n\n\n12.3.\n2\n=\n= −\n\n\nx\n2\nx\n2\nlub\n.\n\n\n=\n=\ny\n1\ny\n1\n\n\n12.\nInna metoda.\n12.1. Zastosowanie definicji wartości bezwzględnej i zapisanie\nalternatywy układów równań lub dwóch równań.\n12.2. Przekształcenie otrzymanych układów równań do równań z jedną\nniewiadomą.\n12.3. Rozwiązanie równań, układów równań.\nMetoda graficzna.\n12.1. Geometryczna interpretacja pierwszego równania.\n12.2. Geometryczna interpretacja drugiego równania.\n12.3. Podanie rozwiązania układu\n>\n≠\n−\n⋅\n+\n>\n13.1.\nx\nx\n1\nZapisanie założeń:\nx\n0\ni\nx\n1\ni 4\n12 2\n32\n0\n.\nx\n−\n⋅\nx\n+\n>\nDoprowadzenie nierówności 4\n12 2\n32\n0\ndo postaci,\n13.2.\n1\n2\n−\n+\n>\nt =\n2x\nt >\nna przykład\nt\n12\nt\n32\n0\n, gdzie\ni\n0\n.\nt <\nt >\n13.3.\nRozwiązanie nierówności ze zmienną t:\n4\nlub\n8\n.\n1\n13.\nx <\nx >\nx <\nRozwiązanie nierówności: 2\n4\nlub  2\n8\n:\n2\nlub\n13.4.\n1\nx >\n3\n.\nWyznaczenie dziedziny funkcji  f :\n13.5.\n1\n(\n)\n(\n)\n(\n)\nD =\n∪\n∪\n∞.\n0, 1\n1, 2\n3,\nZapisanie, że długość boku każdego kolejnego trójkąta jest\niloczynem długości boku trójkąta poprzedniego\n14.1.\n1\n3\ni liczby\n2 .\nZapisanie, że ciąg pól utworzonych trójkątów jest\n14.\nnieskończonym ciągiem geometrycznym o pierwszym\n14.2.\n2\n2\na\n3\n3\nP =\nq =\nwyrazie równym\ni ilorazie\n.\n1\n4\n4\n2 3\n=\n14.3.\n1\nObliczenie sumy pól wszystkich trójkątów:\nS\na\n.\nx ≠\n15.1.\nZapisanie założenia: sin\n0\n.\n1\nZastosowanie wzoru redukcyjnego i zapisanie równania\n1\ncos\nx\n15.2.\n1\n+\n−\n=\nw postaci:\nsin\nx\n0\n.\n15.\nsin\nx\nsin\nx\n(\n)\n+\n=\nPrzekształcenie równania do postaci:\ncos\nx\ncos\nx\n1\n0\n.\n15.3.\n1\nπ\n=\n+\nπ\n∈\nZapisanie rozwiązań równania:\nx\nk\n,\nk\nC\n.\n15.4.\n1\n2\nZastosowanie wzoru na prawdopodobieństwo sumy\n16.1.\n1\nzdarzeń.\nWykorzystanie niezależności zdarzeń i otrzymanie\n16.\n16.2.\n2\nrównania (\n)(\n)\n−\n−\n=\n1\nP A\n( ) 1\nP B\n( )\n0\n.\nWywnioskowanie, że przynajmniej jedno ze zdarzeń A lub\n16.3.\n1\nB jest zdarzeniem pewnym.\nPodanie przedziałów, w których funkcja jest\nmalejąca:(\n17.1.\n1",
+ "tasks": [
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-R-2006-styczen-zimowa/11.webp",
+   "size": [
+    950,
+    1488
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (6 pkt)\n=\n⋅\nWyznacz dziedzinę i naszkicuj wykres funkcji f danej wzorem\nf m\n( )\nx\nx\n, gdzie\nx\n,\nx\n1\n2\n1\n2\n+\n2\n−\n+\n2\n+\n+\n=\nsą\nróżnymi\npierwiastkami\nrównania\n(\nm\n2)\nx\n(\nm\n2)\nx\n3\nm\n2\n0\n,\nw\nktórym\n{\n}\n∈R\n\\ −\nm\n2\n.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-styczen-zimowa/12.webp",
+   "size": [
+    949,
+    1492
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (4 pkt)\nRozwiąż układ równań\n\n−\n=\nx\ny\n1\n\n2\n+\n+\n2\n=\n\nx\n(\ny\n1)\n8\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-styczen-zimowa/13.webp",
+   "size": [
+    950,
+    1486
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (5 pkt)\n(\n)\nf x =\nx\n−\n⋅\nx\n+\nWyznacz dziedzinę funkcji\n( )\nlog\n4\n12 2\n32\n.\nx\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-styczen-zimowa/14.webp",
+   "size": [
+    950,
+    1480
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (4 pkt)\nDany jest ciąg trójkątów równobocznych takich, że bok następnego trójkąta jest wysokością\npoprzedniego. Oblicz  sumę pól wszystkich tak utworzonych trójkątów, przyjmując, że bok\npierwszego trójkąta ma długość a (\n)\na >\n0\n.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-styczen-zimowa/15.webp",
+   "size": [
+    950,
+    1481
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (4 pkt)\nπ\n\n\n1\n+\n+\n+\n=\nRozwiąż równanie:\nctg\nx\ncos\nx\n0.\n\n\nsin\nx\n\n2\n\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-styczen-zimowa/16.webp",
+   "size": [
+    950,
+    1485
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (4 pkt)\nPara (\n)\nΩ\n⊂\nΩ\n⊂\nΩ\n,\nP\njest przestrzenią probabilistyczną, a\nA\ni\nB\nsą zdarzeniami\n∪B\n=\nP\n(\nA\n)\n1\n, to jedno z tych zdarzeń jest zdarzeniem\nniezależnymi. Wykaż, że jeżeli\npewnym tj. ( )\nlub ( )\n=\n=\nP\nA\n1\nP\nB\n.1\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2006-styczen-zimowa/17.webp",
+   "size": [
+    950,
+    1485
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (5 pkt)\nRysunek przedstawia wykres pochodnej funkcji f.\na) Podaj maksymalne przedziały, w których funkcja  f  jest malejąca.\nb) Wyznacz wartość x, dla której funkcja  f  osiąga maksimum lokalne. Odpowiedź\nuzasadnij.\nA =\nc) Wiedząc, że punkt\n(1,2)\nnależy do wykresu funkcji  f , napisz równanie stycznej\ndo krzywej  f  w punkcie A.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 8,
+   "image": "f2005-R-2006-styczen-zimowa/18.webp",
+   "size": [
+    950,
+    1455
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (8 pkt)\nA =\nB = −\nBCA =\n0\nPunkty\n(7,8)\ni\n( 1,2)\nsą wierzchołkami trójkąta ABC, w którym\n)\n90\n.\na) Wyznacz współrzędne wierzchołka C, wiedząc, że leży on na osi OX.\nb) Napisz równanie obrazu okręgu opisanego na trójkącie  ABC w jednokładności o środku\nP =\nk = −\nw punkcie\n(1,0)\ni skali\n2.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 6,
+   "image": "f2005-R-2006-styczen-zimowa/19.webp",
+   "size": [
+    950,
+    1467
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (6 pkt)\nDany jest ostrosłup prawidłowy trójkątny, w którym długość krawędzi podstawy jest równa a.\nKąt między krawędzią boczną i krawędzią podstawy ma miarę 45°. Ostrosłup przecięto\npłaszczyzną przechodzącą przez krawędź podstawy i środek przeciwległej jej krawędzi\nbocznej. Sporządź rysunek ostrosłupa i zaznacz otrzymany przekrój. Oblicz pole tego\nprzekroju.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2006-styczen-zimowa/20.webp",
+   "size": [
+    949,
+    1415
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (4 pkt)\nCiąg (\nna\n)\nokreślony  jest rekurencyjnie w następujący sposób:\n=\n\na\n2\n1\n\na\n=\n≥\nn\na\ndla\ndowolnego\nn\n1.\n\n+\nn\n1\n+\na\n1\n\nn\nWykaż, korzystając z zasady indukcji matematycznej, że ciąg (\n)\nna\nmożna określić za pomocą\n2\n=\nn ≥\nwzoru ogólnego\nna\n−, gdzie\n1.\n2\nn\n1",
+   "key": ""
+  }
+ ]
+}

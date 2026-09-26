@@ -1,0 +1,198 @@
+{
+ "exam": {
+  "id": "f2005-P-2008-maj",
+  "formula": "2005",
+  "level": "P",
+  "year": 2008,
+  "session": "maj",
+  "month": "05",
+  "code": "MMA-P1_1P-082",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2008/mat_pp.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2008/mat_pp_rozw.pdf",
+  "examFile": "f2005-P-2008-maj.pdf",
+  "keyFile": "f2005-P-2008-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2008-2/",
+  "examPages": 19,
+  "keyPages": 15,
+  "examBytes": 341483,
+  "keyBytes": 298391
+ },
+ "keyHead": "ARKUSZ ZAWIERA INFORMACJE PRAWNIE CHRONIONE\nDO MOMENTU ROZPOCZĘCIA EGZAMINU!\nMiejsce\nna naklejkę\nEGZAMIN MATURALNY\nZ MATEMATYKI\nMAJ\nROK 2008\nPOZIOM PODSTAWOWY\nCzas pracy 120 minut\nInstrukcja dla zdającego\n1. Sprawdź, czy arkusz egzaminacyjny zawiera 19 stron (zadania\n1 – 12). Ewentualny brak zgłoś przewodniczącemu zespołu\nnadzorującego egzamin.\n2. Rozwiązania zadań i odpowiedzi zamieść w miejscu na to\nprzeznaczonym.\n3. W\nrozwiązaniach\nzadań\nprzedstaw\ntok\nrozumowania\nprowadzący do ostatecznego wyniku.\n4. Pisz czytelnie. Używaj długopisu/pióra tylko z czarnym\ntuszem/atramentem.\n5. Nie używaj korektora, a błędne zapisy przekreśl.\n6. Pamiętaj, że zapisy w brudnopisie nie podlegają ocenie.\n7. Obok każdego zadania podana jest maksymalna liczba punktów,\nktórą możesz uzyskać za jego poprawne rozwiązanie.\n8. Możesz korzystać z zestawu wzorów matematycznych, cyrkla\nZa rozwiązanie\ni linijki oraz kalkulatora.\nwszystkich zadań\n9. Na karcie odpowiedzi wpisz swoją datę urodzenia i PESEL.\nmożna otrzymać\nNie\nwpisuj\nżadnych\nznaków\nw\nczęści\nprzeznaczonej\nłącznie\ndla egzaminatora.\n50 punktów\nŻyczymy powodzenia!\nWypełnia zdający\nprzed rozpoczęciem pracy\nKOD\nPESEL ZDAJĄCEGO\nZDAJĄCEGO\n2\nEgzamin maturalny z matematyki\nPoziom podstawowy\nZadanie 1. (4 pkt)\n( )\n=\nNa poniższym rysunku przedstawiono łamaną ABCD, która jest wykresem funkcji\ny\nf x\n.\ny\nD\nC\n3\n2\n1\n–3\n–2\n–1\n0\n1\n2\n3\n4\nx\n–1\n–2\n–3\n–4\nB\nA\nKorzystając z tego wykresu:\na) zapisz w postaci przedziału zbiór wartości funkcji f ,\nx = −\nb) podaj wartość funkcji f dla argumentu\n1\n10\n,\nc) wyznacz równanie prostej BC ,\nd) oblicz długość odcinka BC .\n−\na) Zbiór wartości funkcji f odczytuję z wykresu. Jest nim przedział\n4, 3\n.\n−<\n−\n< −. Z wykresu odczytuję, że w przedziale\nb) Zauważam, że\n3\n1\n10\n2\n−\n−\n3,\n2\nfunkcja f jest stała i dla każdego argumentu z tego przedziału\nprzyjmuje wartość (\n)\n−\n4\n, zatem wartością funkcji f dla argumentu\n, co można zapisać (\n)\njest (\n)\nx = −\n−\n−\n= −.\n1\n10\n4\nf\n1\n10\n4\n(\n)\nB = −\n−\nc) Wyznaczam równanie prostej przechodzącej przez punkty\n2, 4\n−−\n4\n3\n(\n)\n(\n)\nC =\n−\n=\n−\ni\n2,3\n:\ny\n3\nx\n2\n−−\n2\n2\n7\n1\n=\n−\nstąd\ny\nx\n.\n4\n2\n(\n)\n(\n)\n(\n)\n(\n)\n2\n2\nBC =\n−−\n+\n−−\n=\nObliczam długość odcinka BC:\n2\n2\n3\n4\n65\n.\nEgzamin maturalny z matematyki\n3\nPoziom podstawowy\nZadanie 2. (4 pkt)\nn ≥\nLiczba przekątnych wielokąta wypukłego, w którym jest n boków i\n3\nwyraża się wzorem\n(\n)\n−\nn n\n3\n( )\n=\nP n\n.\n2\nWykorzystując ten wzór:\na) oblicz liczbę przekątnych w dwudziestokącie wypukłym.\nb) oblicz, ile boków ma wielokąt wypukły, w którym liczba przekątnych jest pięć razy\nwiększa od liczby boków.\nc) sprawdź, czy jest prawdziwe następujące stwierdzenie:\nKażdy wielokąt wypukły o parzystej liczbie boków ma parzystą liczbę przekątnych.\nOdpowiedź uzasadnij.\n⋅\n20 17\ni otrzymuję (\n)\nn =\n=\n=\na)  Do podanego wzoru podstawiam\n20\nP\n20\n170\n.\n2\nW dwudziestokącie wypukłym jest 170 przekątnych.\nb) Zapisuję równanie uwzględniające treść tego podpunktu: (\n)\n−\nn n\n3\n=\n5\nn\n.\n2\n−\n=\nJest ono równoważne równaniu kwadratowemu\nn\n2\n13\nn\n0\n, którego\nn =\nn =\nrozwiązaniem są liczby\n0\nlub\n13\n.\n≥\nBiorąc pod uwagę założenie, że\nn\n3\nformułuję odpowiedź: Wielokątem\nwypukłym, który ma 5 razy więcej przekątnych niż boków jest trzynastokąt.\nc) Powyższe stwierdzenie nie jest prawdziwe, ponieważ sześciokąt wypukły ma\n9 przekątnych, czyli ( )\n=\nP\n6\n9\n.\n4\nEgzamin maturalny z matematyki\nPoziom podstawowy\nZadanie 3. (4 pkt)\n(\n)\n4\n23\n−\n9\n=\n4\n⋅\n4\nRozwiąż równanie\n4\nx\n32\nx\n16\n4\n.\nZapisz rozwiązanie tego równania w postaci 2k , gdzie k jest liczbą całkowitą.\nWszystkie liczby występujące w równaniu zapisuję w postaci potęgi o podstawie 2:\n46\n−\n45\n=\n16\n⋅\n32\n2\nx\n2\nx\n2\n2\nPo lewej stronie równania wyłączam wspólny czynnik przed nawias, a po prawej\nstronie wykonuję mnożenie:\n(\n)\n−\n=\n45\n48\n2\nx\n2\n1\n2\nx =\n45\n48\n2\n2\n45\ndzielę obie strony równania przez\n2 i otrzymuję:\nx =\n=\n48\n45\n3\n2\n:2\n2\n32 .\nRozwiązaniem równania jest liczba\nEgzamin maturalny z matematyki\n5\nPoziom podstawowy\nZadanie 4. (3 pkt)\nKoncern paliwowy podnosił dwukrotnie w jednym tygodniu cenę benzyny, pierwszy raz\no 10%, a drugi raz o 5%. Po obu tych podwyżkach jeden litr benzyny, wyprodukowanej przez\nten koncern, kosztuje 4,62 zł. Oblicz cenę jednego litra benzyny przed omawianymi\npodwyżkami.\nOznaczam literą x cenę jednego litra benzyny przed podwyżkami;\n1,1x –cena jednego litra benzyny po pierwszej podwyżce;\n⋅\n1,05 1,1x\n– cena jednego litra benzyny po obu podwyżkach.\n⋅\n=\nZapisuję równanie:  1,05 1,1\nx\n4,62\nx =\n1,155\n4,62\nx =\nRozwiązaniem równania jest\n4\n;\nCena jednego litra benzyny przed podwyżkami była równa 4 zł.\n6\nEgzamin maturalny z matematyki\nPoziom podstawowy\nZadanie 5. (5 pkt)\n1\nNieskończony ciąg liczbowy (\n)\n=\n−\n=\na\njest określony wzorem\na\n2\n,\nn\n1, 2, 3,...\n.\nn\nn\nn\na) Oblicz, ile wyrazów ciągu (\n)\na\njest mniejszych od 1,975.\nn\nb) Dla pewnej liczby x trzywyrazowy ciąg (\n)\na\n,\na x jest arytmetyczny. Oblicz x.\n,\n2\n7\n1\n−\n<\na) Rozwiązuję nierówność\n2\n1,975",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2008-maj/1.webp",
+   "size": [
+    947,
+    837
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (4 pkt)\n( )\n=\nNa poniższym rysunku przedstawiono łamaną ABCD, która jest wykresem funkcji\ny\nf x\n.\ny\nD\nC\n3\n2\n1\n–3\n–2\n–1\n0\n1\n2\n3\n4\nx\n–1\n–2\n–3\n–4\nB\nA\nKorzystając z tego wykresu:\na) zapisz w postaci przedziału zbiór wartości funkcji f ,\nx = −\nb) podaj wartość funkcji f dla argumentu\n1\n10\n,\nc) wyznacz równanie prostej BC ,\nd) oblicz długość odcinka BC .",
+   "key": "Zadanie 1. (4 pkt)\n( )\n=\nNa poniższym rysunku przedstawiono łamaną ABCD, która jest wykresem funkcji\ny\nf x\n.\ny\nD\nC\n3\n2\n1\n–3\n–2\n–1\n0\n1\n2\n3\n4\nx\n–1\n–2\n–3\n–4\nB\nA\nKorzystając z tego wykresu:\na) zapisz w postaci przedziału zbiór wartości funkcji f ,\nx = −\nb) podaj wartość funkcji f dla argumentu\n1\n10\n,\nc) wyznacz równanie prostej BC ,\nd) oblicz długość odcinka BC .\n−\na) Zbiór wartości funkcji f odczytuję z wykresu. Jest nim przedział\n4, 3\n.\n−<\n−\n< −. Z wykresu odczytuję, że w przedziale\nb) Zauważam, że\n3\n1\n10\n2\n−\n−\n3,\n2\nfunkcja f jest stała i dla każdego argumentu z tego przedziału\nprzyjmuje wartość (\n)\n−\n4\n, zatem wartością funkcji f dla argumentu\n, co można zapisać (\n)\njest (\n)\nx = −\n−\n−\n= −.\n1\n10\n4\nf\n1\n10\n4\n(\n)\nB = −\n−\nc) Wyznaczam równanie prostej przechodzącej przez punkty\n2, 4\n−−\n4\n3\n(\n)\n(\n)\nC =\n−\n=\n−\ni\n2,3\n:\ny\n3\nx\n2\n−−\n2\n2\n7\n1\n=\n−\nstąd\ny\nx\n.\n4\n2\n(\n)\n(\n)\n(\n)\n(\n)\n2\n2\nBC =\n−−\n+\n−−\n=\nObliczam długość odcinka BC:\n2\n2\n3\n4\n65\n.\nEgzamin maturalny z matematyki\n3\nPoziom podstawowy"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2008-maj/2.webp",
+   "size": [
+    950,
+    353
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (4 pkt)\nn ≥\nLiczba przekątnych wielokąta wypukłego, w którym jest n boków i\n3\nwyraża się wzorem\n(\n)\n−\nn n\n3\n( )\n=\nP n\n.\n2\nWykorzystując ten wzór:\na) oblicz liczbę przekątnych w dwudziestokącie wypukłym.\nb) oblicz, ile boków ma wielokąt wypukły, w którym liczba przekątnych jest pięć razy\nwiększa od liczby boków.\nc) sprawdź, czy jest prawdziwe następujące stwierdzenie:\nKażdy wielokąt wypukły o parzystej liczbie boków ma parzystą liczbę przekątnych.\nOdpowiedź uzasadnij.",
+   "key": "Zadanie 2. (4 pkt)\nn ≥\nLiczba przekątnych wielokąta wypukłego, w którym jest n boków i\n3\nwyraża się wzorem\n(\n)\n−\nn n\n3\n( )\n=\nP n\n.\n2\nWykorzystując ten wzór:\na) oblicz liczbę przekątnych w dwudziestokącie wypukłym.\nb) oblicz, ile boków ma wielokąt wypukły, w którym liczba przekątnych jest pięć razy\nwiększa od liczby boków.\nc) sprawdź, czy jest prawdziwe następujące stwierdzenie:\nKażdy wielokąt wypukły o parzystej liczbie boków ma parzystą liczbę przekątnych.\nOdpowiedź uzasadnij.\n⋅\n20 17\ni otrzymuję (\n)\nn =\n=\n=\na)  Do podanego wzoru podstawiam\n20\nP\n20\n170\n.\n2\nW dwudziestokącie wypukłym jest 170 przekątnych.\nb) Zapisuję równanie uwzględniające treść tego podpunktu: (\n)\n−\nn n\n3\n=\n5\nn\n.\n2\n−\n=\nJest ono równoważne równaniu kwadratowemu\nn\n2\n13\nn\n0\n, którego\nn =\nn =\nrozwiązaniem są liczby\n0\nlub\n13\n.\n≥\nBiorąc pod uwagę założenie, że\nn\n3\nformułuję odpowiedź: Wielokątem\nwypukłym, który ma 5 razy więcej przekątnych niż boków jest trzynastokąt.\nc) Powyższe stwierdzenie nie jest prawdziwe, ponieważ sześciokąt wypukły ma\n9 przekątnych, czyli ( )\n=\nP\n6\n9\n.\n4\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2008-maj/3.webp",
+   "size": [
+    944,
+    135
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (4 pkt)\n(\n)\n4\n23\n−\n9\n=\n4\n⋅\n4\nRozwiąż równanie\n4\nx\n32\nx\n16\n4\n.\nZapisz rozwiązanie tego równania w postaci 2k , gdzie k jest liczbą całkowitą.",
+   "key": "Zadanie 3. (4 pkt)\n(\n)\n4\n23\n−\n9\n=\n4\n⋅\n4\nRozwiąż równanie\n4\nx\n32\nx\n16\n4\n.\nZapisz rozwiązanie tego równania w postaci 2k , gdzie k jest liczbą całkowitą.\nWszystkie liczby występujące w równaniu zapisuję w postaci potęgi o podstawie 2:\n46\n−\n45\n=\n16\n⋅\n32\n2\nx\n2\nx\n2\n2\nPo lewej stronie równania wyłączam wspólny czynnik przed nawias, a po prawej\nstronie wykonuję mnożenie:\n(\n)\n−\n=\n45\n48\n2\nx\n2\n1\n2\nx =\n45\n48\n2\n2\n45\ndzielę obie strony równania przez\n2 i otrzymuję:\nx =\n=\n48\n45\n3\n2\n:2\n2\n32 .\nRozwiązaniem równania jest liczba\nEgzamin maturalny z matematyki\n5\nPoziom podstawowy"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2008-maj/4.webp",
+   "size": [
+    956,
+    164
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (3 pkt)\nKoncern paliwowy podnosił dwukrotnie w jednym tygodniu cenę benzyny, pierwszy raz\no 10%, a drugi raz o 5%. Po obu tych podwyżkach jeden litr benzyny, wyprodukowanej przez\nten koncern, kosztuje 4,62 zł. Oblicz cenę jednego litra benzyny przed omawianymi\npodwyżkami.",
+   "key": "Zadanie 4. (3 pkt)\nKoncern paliwowy podnosił dwukrotnie w jednym tygodniu cenę benzyny, pierwszy raz\no 10%, a drugi raz o 5%. Po obu tych podwyżkach jeden litr benzyny, wyprodukowanej przez\nten koncern, kosztuje 4,62 zł. Oblicz cenę jednego litra benzyny przed omawianymi\npodwyżkami.\nOznaczam literą x cenę jednego litra benzyny przed podwyżkami;\n1,1x –cena jednego litra benzyny po pierwszej podwyżce;\n⋅\n1,05 1,1x\n– cena jednego litra benzyny po obu podwyżkach.\n⋅\n=\nZapisuję równanie:  1,05 1,1\nx\n4,62\nx =\n1,155\n4,62\nx =\nRozwiązaniem równania jest\n4\n;\nCena jednego litra benzyny przed podwyżkami była równa 4 zł.\n6\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2008-maj/5.webp",
+   "size": [
+    944,
+    188
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (5 pkt)\n1\nNieskończony ciąg liczbowy (\n)\n=\n−\n=\na\njest określony wzorem\na\n2\n,\nn\n1, 2, 3,...\n.\nn\nn\nn\na) Oblicz, ile wyrazów ciągu (\n)\na\njest mniejszych od 1,975.\nn\nb) Dla pewnej liczby x trzywyrazowy ciąg (\n)\na\n,\na x jest arytmetyczny. Oblicz x.\n,\n2\n7",
+   "key": "Zadanie 5. (5 pkt)\n1\nNieskończony ciąg liczbowy (\n)\n=\n−\n=\na\njest określony wzorem\na\n2\n,\nn\n1, 2, 3,...\n.\nn\nn\nn\na) Oblicz, ile wyrazów ciągu (\n)\na\njest mniejszych od 1,975.\nn\nb) Dla pewnej liczby x trzywyrazowy ciąg (\n)\na\n,\na x jest arytmetyczny. Oblicz x.\n,\n2\n7\n1\n−\n<\na) Rozwiązuję nierówność\n2\n1,975\n.\nn\nPrzekształcam ją do postaci równoważnej 1\nn >\n0,025\n. Nierówność tę\nzapisuję w postaci 1\n1\nn >\nn <\n. Jest ona spełniona gdy:\n40\n.\n40\nPonieważ n jest liczbą naturalną, więc odpowiedź jest następująca:\n39  wyrazów danego ciągu to liczby mniejsze od 1,975.\nb) Korzystam ze związku między sąsiednimi wyrazami w ciągu arytmetycznym\n+\na\nx\n=\n−\n=\ni zapisuję równanie:\na\n,   czyli\nx\n2\na\na\n.\n2\n7\n7\n2\n2\n3\n13\na =\na =\nObliczam potrzebne wyrazy:\n,\n.\n2\n7\n2\n7\n13\n3\n31\nx =\n⋅\n−\n=\nWstawiam obliczone wartości do równania i otrzymuję\n2 7\n.\n2\n14\n31\nOdpowiedź: Trzywyrazowy ciąg (\n)\nx =\na\n,\na x jest arytmetyczny dla\n,\n.\n2\n7\n14\nEgzamin maturalny z matematyki\n7\nPoziom podstawowy"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2008-maj/6.webp",
+   "size": [
+    950,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (5 pkt)\n+\n−\n=\nProsta o równaniu 5\nx\n4\ny\n10\n0\nprzecina oś Ox układu współrzędnych w punkcie A oraz\noś Oy w punkcie B . Oblicz współrzędne wszystkich punktów C leżących na osi Ox i takich,\nże trójkąt ABC ma pole równe 35.",
+   "key": "Zadanie 6. (5 pkt)\n+\n−\n=\nProsta o równaniu 5\nx\n4\ny\n10\n0\nprzecina oś Ox układu współrzędnych w punkcie A oraz\noś Oy w punkcie B . Oblicz współrzędne wszystkich punktów C leżących na osi Ox i takich,\nże trójkąt ABC ma pole równe 35.\n⎛\n5\n⎞\n(\n)\nA =\n= ⎜\nWyznaczam współrzędne punktów A i B:\n2,0\noraz\nB\n0, 2\n.\n⎟\n⎝\n⎠\ny\nB\nC\nA\nC\nx\nO\nPunkt C może leżeć z lewej lub z prawej strony punktu A. Przyjmując, że w obu\nprzypadkach wysokością trójkąta ABC jest odcinek BO, którego długość jest\nrówna 5\n2 i korzystając z faktu, że pole trójkąta ABC równa się 35 zapisuję\n1\n⋅\n⋅\n=\nrównanie:\nAC\nBO\n35\n2\n1\n5\n⋅\n⋅\n=\nAC\n35\n2\n2\nAC =\n28\n.\n(\n)\n(\n)\n(\n)\nA =\nC =\nC = −\nPonieważ punkt\n2, 0\n, więc\n30,0\nlub\n26,0\n.\nZadanie ma zatem dwa rozwiązania.\n8\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2008-maj/7.webp",
+   "size": [
+    950,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (4 pkt)\nDany jest trapez, w którym podstawy mają długość 4 cm i 10 cm oraz ramiona tworzą\nz dłuższą podstawą kąty o miarach 30° i 45°. Oblicz wysokość tego trapezu.",
+   "key": "Zadanie 7. (4 pkt)\nDany jest trapez, w którym podstawy mają długość 4 cm i 10 cm oraz ramiona tworzą\nz dłuższą podstawą kąty o miarach 30° i 45°. Oblicz wysokość tego trapezu.\nD\nC\nh\nh\n.\n.\n30°\n45°\nA\nE\nB\nF\nTrójkąt\nAED\njest\ntrójkątem\nprostokątnym\ni\nrównoramiennym\n=\n=\n°\n=\n=\n(\n)\nDAE\n)\nEDA\n45\n), więc AE\nED\nh\n.\nKorzystam z własności trójkąta prostokątnego BFC i zapisuję zależność między\nCF\nFB =\n° , stąd\n=\n⋅\n=\nprzyprostokątnymi\ntg30\nFB\nCF\n3\n,\nFB\nh\n3\n.\n=\n=\nEF\nDC\n4\n, więc otrzymuję równanie:\n+\n+\n=\nAE\n4\nFB\n10\n, z którego po podstawieniu wyznaczonych wielkości\notrzymuję:\n+\n+\n=\nh\n4\nh\n3\n10\n.\nObliczam wysokość trapezu:\n+\n=\nh\nh\n3\n6\n(\n)\n+\n=\nh\n1\n3\n6\n(\n)\n6\nh =\n=\n−\n3\n3\n1\n.\n+\n3\n1\nOdpowiedź: Wysokość trapezu jest równa (\n)\n−\n3\n3\n1\ncm.\nEgzamin maturalny z matematyki\n9\nPoziom podstawowy"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2008-maj/8.webp",
+   "size": [
+    947,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (4 pkt)\n( )\n=\n3\n−\n2\n−\n+\nDany jest wielomian\nW x\nx\n5\nx\n9\nx\n45\n.\n(\n)\nA =\na) Sprawdź, czy punkt\n1, 30\nnależy do wykresu tego wielomianu.\nb) Zapisz wielomian W w postaci iloczynu trzech wielomianów stopnia pierwszego.",
+   "key": "Zadanie 8. (4 pkt)\n( )\n=\n3\n−\n2\n−\n+\nDany jest wielomian\nW x\nx\n5\nx\n9\nx\n45\n.\n(\n)\nA =\na) Sprawdź, czy punkt\n1, 30\nnależy do wykresu tego wielomianu.\nb) Zapisz wielomian W w postaci iloczynu trzech wielomianów stopnia pierwszego.\n( )\na) Obliczam\nW\n1\n:\n( )\n=\n−⋅\n−⋅+\n=\nW\n1\n1\n3\n5 1\n2\n9 1\n45\n32\n( )\n≠\nW\n1\n30\nOtrzymany wynik oznacza, że punkt A nie należy do wykresu wielomianu W.\nb) Rozkładam wielomian na czynniki:\n( )\n=\n−\n−\n+\n=\n3\n2\nW x\nx\n5\nx\n9\nx\n45\n=\n−\n−\n+\n=\n3\n2\nx\n9\nx\n5\nx\n45\n(\n)\n(\n)\n=\n−\n−\n−\n=\n2\n2\nx x\n9\n5\nx\n9\n(\n)(\n)\n=\n−\n−\n=\n2\nx\n9\nx\n5\n(\n)(\n)(\n)\n=\n+\n−\n−\nx\n3\nx\n3\nx\n5\n.\n( )\n(\n)(\n)(\n)\n=\n+\n−\n−\nOdpowiedź:\nW x\nx\n3\nx\n3\nx\n5\n.\n10\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2008-maj/9.webp",
+   "size": [
+    944,
+    125
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (5 pkt)\n( )\n(\n)(\n)\n=\n+\n−\nOblicz najmniejszą i największą wartość funkcji kwadratowej\nf x\n2\nx\n1\nx\n2\n−\nw przedziale\n2, 2\n.",
+   "key": "Zadanie 9. (5 pkt)\n( )\n(\n)(\n)\n=\n+\n−\nOblicz najmniejszą i największą wartość funkcji kwadratowej\nf x\n2\nx\n1\nx\n2\n−\nw przedziale\n2, 2\n.\nZapisuję wzór funkcji w postaci ogólnej ( )\n=\n−\n−\n2\nf x\n2\nx\n3\nx\n2\n.\n−\nb\n3\n=\n=\nWyznaczam odciętą wierzchołka paraboli:\nx\n.\nw\n2\na\n4\n−\nPierwsza współrzędna wierzchołka paraboli należy do przedziału\n2, 2\n, więc\nnajmniejszą wartością funkcji f w tym przedziale jest druga współrzędna\n−Δ\n25\n=\n= −\nwierzchołka:\ny\n.\nw\n4\na\n8\nObliczam wartości funkcji na końcach przedziału: (\n)\n, ( )\nf −\n=\n=\n2\n12\nf\n2\n0\n.\nNajwiększą wartością funkcji f w podanym przedziale jest (\n)\nf −\n=\n2\n12\n.\nOdpowiedź: Najmniejszą wartością funkcji w podanym przedziale jest\n25\n, a największą (\n)\ny = −\nf −\n=\n2\n12\n.\nw\n8\nEgzamin maturalny z matematyki\n11\nPoziom podstawowy"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-P-2008-maj/10.webp",
+   "size": [
+    947,
+    791
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (3 pkt)\na\nRysunek przedstawia fragment wykresu funkcji h , określonej wzorem ( )\n=\nx ≠\nh x\ndla\n0\n.\nx\n(\n)\nP =\nWiadomo, że do wykresu funkcji h należy punkt\n2,5\n.\na) Oblicz wartość współczynnika a .\nb) Ustal, czy liczba ( )\n(\n)\nπ −\n−π jest dodatnia czy ujemna.\nh\nh\nc) Rozwiąż nierówność ( )\nh x >\n5\n.\ny\n1\n1\nx",
+   "key": "Zadanie 10. (3 pkt)\na\nRysunek przedstawia fragment wykresu funkcji h , określonej wzorem ( )\n=\nx ≠\nh x\ndla\n0\n.\nx\n(\n)\nP =\nWiadomo, że do wykresu funkcji h należy punkt\n2,5\n.\na) Oblicz wartość współczynnika a .\nb) Ustal, czy liczba ( )\n(\n)\nπ −\n−π jest dodatnia czy ujemna.\nh\nh\nc) Rozwiąż nierówność ( )\nh x >\n5\n.\ny\n(\n)\nP =\n2,5\n1\nx\n1\n(\n)\nP =\na) Korzystam z faktu, że punkt\n2,5\nnależy do wykresu funkcji h\na\n=\ni wyznaczam współczynnik a: 5\nstąd a=10.\n2\n10\nFunkcja h jest dana wzorem: ( )\n=\nh x\n.\nx\n(\n)\n( )\n−\nπ\n<\nh π >\nb) Z wykresu odczytuję, że\nh\n0\n, natomiast\n0\n. Stąd wynika, że\n( )\n(\n)\nπ −\n−π jest liczbą dodatnią.\nh\nh\nZ informacji podanej w zadaniu wiem, że wykres funkcji h przechodzi przez\n(\n)\n. Odczytuję rozwiązanie nierówności ( )\nP =\nh x > z wykresu: jest to\npunkt\n2,5\n5\nprzedział (\n)\n0,2 .\n12\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2008-maj/11.webp",
+   "size": [
+    956,
+    694
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (5 pkt)\n2 15\na\nPole powierzchni bocznej ostrosłupa prawidłowego trójkątnego równa się\n, gdzie\n4\na oznacza długość krawędzi podstawy tego ostrosłupa. Zaznacz na poniższym rysunku kąt\nnachylenia ściany bocznej ostrosłupa do płaszczyzny jego podstawy. Miarę tego kąta oznacz\nsymbolem β . Oblicz cos β i korzystając z tablic funkcji trygonometrycznych odczytaj\nprzybliżoną wartość β z dokładnością do 1°.",
+   "key": "Zadanie 11. (5 pkt)\n2 15\na\nPole powierzchni bocznej ostrosłupa prawidłowego trójkątnego równa się\n, gdzie\n4\na oznacza długość krawędzi podstawy tego ostrosłupa. Zaznacz na poniższym rysunku kąt\nnachylenia ściany bocznej ostrosłupa do płaszczyzny jego podstawy. Miarę tego kąta oznacz\nsymbolem β . Oblicz cos β i korzystając z tablic funkcji trygonometrycznych odczytaj\nprzybliżoną wartość β z dokładnością do 1°.\nS\nh\nh\nC\nβ\nD\nx\nx\nO\nA\na\nB\nNa rysunku zaznaczam kąt nachylenia ściany bocznej ostrosłupa do płaszczyzny\npodstawy – β (punkt D jest środkiem odcinka BC).\nEgzamin maturalny z matematyki\n13\nPoziom podstawowy\nWprowadzam oznaczenie: h – wysokość ściany bocznej.\nZapisuję równanie opisujące pole powierzchni bocznej ostrosłupa:\n1\na\n2\n15\n⋅\n⋅\n=\n3 2\na h\n, z którego wyznaczam wysokość ściany bocznej ostrosłupa\n4\na\n15\nh =\n.\n6\na\n3\n=\n=\nZ trójkąta prostokątnego SOD, w którym\nx\nOD\n– długość promienia\n6\nx\nβ =\nokręgu wpisanego w podstawę ostrosłupa otrzymuję: cos\n.\nh\na\n3\nx\n5\n6\nβ\n=\n=\n=\n≈\ncos\n0,4472\n.\nh\n5\na\n15\n6\nD .\nβ =\nZ tablicy wartości funkcji trygonometrycznych odczytuję miarę kąta:\n63\n14\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2008-maj/12.webp",
+   "size": [
+    950,
+    191
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (4 pkt)\nRzucamy dwa razy symetryczną sześcienną kostką do gry. Oblicz prawdopodobieństwo\nkażdego z następujących zdarzeń:\na) A – w każdym rzucie wypadnie nieparzysta liczba oczek.\nb) B – suma oczek otrzymanych w obu rzutach jest liczbą większą od 9.\nc) C – suma oczek otrzymanych w obu rzutach jest liczbą nieparzystą i większą od 9.",
+   "key": "Zadanie 12. (4 pkt)\nRzucamy dwa razy symetryczną sześcienną kostką do gry. Oblicz prawdopodobieństwo\nkażdego z następujących zdarzeń:\na) A – w każdym rzucie wypadnie nieparzysta liczba oczek.\nb) B – suma oczek otrzymanych w obu rzutach jest liczbą większą od 9.\nc) C – suma oczek otrzymanych w obu rzutach jest liczbą nieparzystą i większą od 9.\nΩ dla tego doświadczenia jest zbiorem wszystkich uporządkowanych par,\nktórych wyrazy mogą się powtarzać i każdy z tych wyrazów może być jedną\nz liczb: 1, 2, 3, 4, 5, 6.\nMożna ten zbiór opisać w tabelce:\n1\n2\n3\n4\n5\n6\n1\n(1,1) (1,2)\n(1,3)\n(1,4)\n(1,5)\n(1,6)\n2\n(2,1) (2,2)\n(2,3)\n(2,4)\n(2,5)\n(2,6)\n3\n(3,1) (3,2)\n(3,3)\n(3,4)\n(3,5)\n(3,6)\n4\n(4,1) (4,2)\n(4,3)\n(4,4)\n(4,5)\n(4,6)\n5\n(5,1) (5,2)\n(5,3)\n(5,4)\n(5,5)\n(5,6)\n6\n(6,1) (6,2)\n(6,3)\n(6,4)\n(6,5)\n(6,6)\nΩ =\n=\n26\n36\n.\nZdarzeniu A sprzyja 9 zdarzeń elementarnych:\n{\n}\n(\n) (\n)(\n) (\n) (\n) (\n) (\n) (\n) (\n)\n1,1 , 1,3 1,5 , 3,1 , 3,3 , 3,5 , 5,1 , 5,3 , 5,5\n.\n9\n1\nObliczam prawdopodobieństwo zdarzenia A: ( )\nP A =\n=\n.\n36\n4\nZdarzeniu B sprzyja 6 zdarzeń elementarnych. Łatwo je wypisać:\n{\n}\n(\n) (\n) (\n) (\n) (\n) (\n)\n6,6 , 6,5 , 6,4 , 5,6 , 5,5 , 4,6\n.\n6\n1\nObliczam prawdopodobieństwo zdarzenia B: ( )\nP B =\n=\n.\n36\n6\n{\n}\nZdarzeniu C sprzyjają dwa zdarzenia elementarne: (\n) (\n)\n6,5 , 5,6\n2\n1\nObliczam prawdopodobieństwo zdarzenia C: ( )\nP C =\n=\n.\n36\n18\nEgzamin maturalny z matematyki\n15\nPoziom podstawowy\nBRUDNOPIS"
+  }
+ ]
+}

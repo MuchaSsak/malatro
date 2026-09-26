@@ -1,0 +1,192 @@
+{
+ "exam": "f2023-P-2022-marzec-pokazowa",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 3.919911741000426e+78, "value_tex": "6^{101}", "answer_tex": "6^{101}",
+   "category": "liczby", "topic_pl": "Potęgi", "topic_en": "Powers",
+   "difficulty": 1,
+   "summary_pl": "Oblicz $6^{100}+6^{100}+\\ldots$ (sześć razy)",
+   "summary_en": "Compute $6^{100}+6^{100}+\\ldots$ (six times)",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The value of the expression $6^{100}+6^{100}+6^{100}+6^{100}+6^{100}+6^{100}$ equals: A. $6^{600}$ B. $6^{101}$ C. $36^{100}$ D. $36^{600}$",
+   "confidence": "high", "notes": "Value is astronomically large (~3.92e78); JS double stores it approximately, as expected for this magnitude."
+  },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 2, "value_tex": "2", "answer_tex": "\\log_7 98 - \\log_7 2 = 2",
+   "category": "liczby", "topic_pl": "Wartość logarytmu", "topic_en": "Logarithm value",
+   "difficulty": 1,
+   "summary_pl": "Oblicz $\\log_7 98 - \\log_7 2$",
+   "summary_en": "Compute $\\log_7 98 - \\log_7 2$",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The value of the expression $\\log_7 98 - \\log_7 2$ equals: A. $7$ B. $2$ C. $1$ D. $(-1)$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "3", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 648, "value_tex": "648", "answer_tex": "8\\cdot9\\cdot9=648",
+   "category": "kombinatoryka", "topic_pl": "Zliczanie liczb", "topic_en": "Counting numbers",
+   "difficulty": 2,
+   "summary_pl": "Ile liczb 3-cyfrowych bez cyfry 2?",
+   "summary_en": "How many 3-digit numbers have no digit 2?",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of all natural three-digit numbers in whose decimal notation the digit $2$ does not occur is: A. $900$ B. $729$ C. $648$ D. $512$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "4", "include": false, "exclude_reason": "expression", "category": "wyrazenia", "difficulty": 1, "notes": "Correct option (48a) depends on the free variable a, not a fixed number." },
+  { "task": "5", "include": false, "exclude_reason": "multi_choice_letters", "category": "planimetria", "difficulty": 3, "notes": "Correct options (B and E) are systems of equations in alpha, beta, not plain numbers." },
+  {
+   "task": "6", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 4, "value_tex": "4", "answer_tex": "k=4",
+   "category": "rownania", "topic_pl": "Pierwiastek wielomianu", "topic_en": "Polynomial root",
+   "difficulty": 2,
+   "summary_pl": "$W(x)=3x^3{+}kx^2{-}12x{-}7k{+}12$, $W(-2)=0$. Oblicz $k$",
+   "summary_en": "$W(x)=3x^3{+}kx^2{-}12x{-}7k{+}12$, $W(-2)=0$. Find $k$",
+   "statement_en": "Given is the polynomial $W(x) = 3x^3+kx^2-12x-7k+12$, where $k$ is some real number. It is known that the number $(-2)$ is a root of this polynomial. Complete the sentence. Choose the correct answer from the options given. The number $k$ equals: A. $2$ B. $4$ C. $6$ D. $8$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "7", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1, "value_tex": "1", "answer_tex": "\\text{dokładnie jedno rozwiązanie } (x=2)",
+   "category": "rownania", "topic_pl": "Równanie wymierne", "topic_en": "Rational equation",
+   "difficulty": 2,
+   "summary_pl": "Ile rozwiązań ma $\\frac{(4x-6)(x-2)^2}{2x(x-1,5)(x+6)}=0$?",
+   "summary_en": "How many solutions has $\\frac{(4x-6)(x-2)^2}{2x(x-1.5)(x+6)}=0$?",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The equation $\\frac{(4x-6)(x-2)^2}{2x(x-1.5)(x+6)} = 0$ has, in the set of real numbers: A. exactly one solution: $x=2$. B. exactly two solutions: $x=1.5$, $x=2$. C. exactly three solutions: $x=-6$, $x=0$, $x=2$. D. exactly four solutions: $x=-6$, $x=0$, $x=1.5$, $x=2$.",
+   "confidence": "high", "notes": "x=1.5 makes both numerator and denominator zero, so it is excluded from the domain; only x=2 remains."
+  },
+  { "task": "8", "include": false, "exclude_reason": "graph_or_drawing", "category": "rownania", "difficulty": 1, "notes": "" },
+  { "task": "9", "include": false, "exclude_reason": "proof", "category": "liczby", "difficulty": 2, "notes": "" },
+  { "task": "10.1", "include": false, "exclude_reason": "graph_or_drawing", "category": "funkcje", "difficulty": 2, "notes": "" },
+  { "task": "10.2", "include": false, "exclude_reason": "interval_or_set", "category": "funkcje", "difficulty": 2, "notes": "" },
+  { "task": "10.3", "include": false, "exclude_reason": "expression", "category": "funkcje", "difficulty": 3, "notes": "" },
+  { "task": "11", "include": false, "exclude_reason": "statement", "category": "funkcje", "difficulty": 1, "notes": "" },
+  { "task": "12", "include": false, "exclude_reason": "expression", "category": "funkcje", "difficulty": 2, "notes": "Correct option (Q=-3P+27) is a formula in P and Q, not a number." },
+  { "task": "13.1", "include": false, "exclude_reason": "graph_or_drawing", "category": "funkcje", "difficulty": 2, "notes": "" },
+  {
+   "task": "13.2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 99.9, "value_tex": "99.9", "answer_tex": "M \\approx 99.9 \\text{ mg}",
+   "category": "ciagi", "topic_pl": "Suma ciągu geometrycznego", "topic_en": "Geometric series sum",
+   "difficulty": 3,
+   "summary_pl": "Lek: dawka 100 mg co 4 doby, $T=4$ doby. Masa przed 11. dawką",
+   "summary_en": "Drug: 100 mg dose every 4 days, $T=4$ days. Mass before 11th dose",
+   "statement_en": "[Context: The half-life $T$ of a drug in the body is the time after which the drug's mass in the body decreases by half, following a single dose. Assume that after taking one dose, the drug's mass $m$ in the body changes over time according to the exponential relation $m(t) = m_0\\cdot\\left(\\frac12\\right)^{t/T}$, where $m_0$ is the mass of the dose taken, $T$ is the half-life, and $t$ is the time counted from the moment the dose was taken. When several doses are taken, the masses remaining in the body from each previously taken dose add up to give the total current mass of the drug in the body. A patient receives a dose $m_0=100$ mg of drug $L$ every $4$ days at the same time of day. The half-life of this drug in the body equals $T=4$ days.] Calculate the mass of drug $L$ in the patient's body just before taking the eleventh dose of this drug. Round the result to $0.1$ mg. Show your working.",
+   "confidence": "high", "notes": "The key's official answer is the value rounded to 0.1 mg as the task instructs (exact value 99.90234375 mg)."
+  },
+  {
+   "task": "14", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 21218, "value_tex": "21218", "answer_tex": "20000\\cdot(1{,}03)^2 = 21218 \\text{ zł}",
+   "category": "liczby", "topic_pl": "Procent składany", "topic_en": "Compound interest",
+   "difficulty": 2,
+   "summary_pl": "Lokata 20000 zł, 3% rocznie składane. Kwota po 2 latach",
+   "summary_en": "Deposit 20000 PLN, 3% annual compounding. Amount after 2 years",
+   "statement_en": "A customer deposited 20,000 PLN in a bank on a two-year deposit. After each annual savings period the bank adds interest of $3\\%$ of the amount of the current capital in the deposit. Complete the sentence. Choose the correct answer from the options given. After $2$ years of saving in this bank, the amount in the deposit (not accounting for taxes) equals: A. $20000\\cdot(1.12)^2$ B. $20000\\cdot2\\cdot1.03$ C. $20000\\cdot1.06$ D. $20000\\cdot(1.03)^2$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "15", "include": false, "exclude_reason": "true_false", "category": "ciagi", "difficulty": 1, "notes": "" },
+  { "task": "16", "include": false, "exclude_reason": "true_false", "category": "trygonometria", "difficulty": 2, "notes": "" },
+  { "task": "17", "include": false, "exclude_reason": "expression", "category": "analityczna", "difficulty": 1, "notes": "Answer is the equation of a circle, not a numeric value." },
+  {
+   "task": "18", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 6, "value_tex": "6", "answer_tex": "|OD|=6",
+   "category": "planimetria", "topic_pl": "Podobieństwo trójkątów", "topic_en": "Similar triangles",
+   "difficulty": 2,
+   "summary_pl": "$|AO|=5$, $|BO|=3$, $|OC|=10$, równe kąty. Oblicz $|OD|$",
+   "summary_en": "$|AO|=5$, $|BO|=3$, $|OC|=10$, equal angles. Find $|OD|$",
+   "statement_en": "Segments $AD$ and $BC$ intersect at point $O$. In triangles $ABO$ and $ODC$ the following hold: $|AO|=5$, $|BO|=3$, $|OC|=10$, $|\\angle OAB| = |\\angle OCD|$ (see figure). Calculate the length of side $OD$ of triangle $ODC$. Show your working. [Figure: segments $AD$ and $BC$ crossing at $O$, forming triangles $ABO$ and $ODC$]",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "19", "include": false, "exclude_reason": "expression", "category": "analityczna", "difficulty": 2, "notes": "Correct choices (B, E) are equations of lines, not numbers." },
+  {
+   "task": "20", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 7.211102550927978, "value_tex": "2\\sqrt{13}", "answer_tex": "2\\sqrt{13}",
+   "category": "analityczna", "topic_pl": "Odległość punktów", "topic_en": "Distance between points",
+   "difficulty": 1,
+   "summary_pl": "Kwadrat $ABCD$: $A=(-2,1)$, $C=(4,5)$. Przekątna",
+   "summary_en": "Square $ABCD$: $A=(-2,1)$, $C=(4,5)$. Diagonal length",
+   "statement_en": "In the Cartesian coordinate system $(x,y)$, a square $ABCD$ is given. Vertices $A=(-2,1)$ and $C=(4,5)$ are the endpoints of a diagonal of this square. Complete the sentence. Choose the correct answer from the options given. The length of the diagonal of square $ABCD$ equals: A. $10$ B. $2\\sqrt{13}$ C. $2\\sqrt{10}$ D. $8$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "21", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 30, "value_tex": "30", "answer_tex": "\\angle BAC=30°",
+   "category": "planimetria", "topic_pl": "Twierdzenie Talesa (kąt wpisany)", "topic_en": "Thales' theorem (inscribed angle)",
+   "difficulty": 2,
+   "summary_pl": "Średnica $AB$, $r=8$, cięciwa $AC=8\\sqrt3$. Kąt $BAC$",
+   "summary_en": "Diameter $AB$, $r=8$, chord $AC=8\\sqrt3$. Angle $BAC$",
+   "statement_en": "Segment $AB$ is a diameter of a circle with center $O$ and radius $r=8$ (see figure). Chord $AC$ has length $8\\sqrt3$. Complete the sentence. Choose the correct answer from the options given. The measure of angle $BAC$ equals: A. $30°$ B. $45°$ C. $15°$ D. $60°$ [Figure: circle with diameter $AB$, center $O$, and point $C$ on the circle forming chord $AC$]",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "22", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.75, "value_tex": "\\frac{3}{4}", "answer_tex": "\\tan\\alpha=\\frac34",
+   "category": "trygonometria", "topic_pl": "Tożsamości trygonometryczne", "topic_en": "Trigonometric identities",
+   "difficulty": 1,
+   "summary_pl": "$4\\tan\\alpha=3\\sin^2\\alpha+3\\cos^2\\alpha$. Oblicz $\\tan\\alpha$",
+   "summary_en": "$4\\tan\\alpha=3\\sin^2\\alpha+3\\cos^2\\alpha$. Find $\\tan\\alpha$",
+   "statement_en": "The angle $\\alpha$ is acute and $4\\tan\\alpha = 3\\sin^2\\alpha + 3\\cos^2\\alpha$. Complete the sentence. Choose the correct answer from the options given. The tangent of angle $\\alpha$ equals: A. $\\frac34$ B. $\\frac43$ C. $\\frac14$ D. $4$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "23", "include": false, "exclude_reason": "matching", "category": "planimetria", "difficulty": 2, "notes": "Answer combines a letter and a justification number (A2), not a plain numeric value." },
+  {
+   "task": "24", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 38, "value_tex": "38", "answer_tex": "\\angle OBA=38°",
+   "category": "planimetria", "topic_pl": "Styczne do okręgu", "topic_en": "Tangents to a circle",
+   "difficulty": 2,
+   "summary_pl": "Styczne z kątem $76°$. Oblicz kąt $OBA$",
+   "summary_en": "Tangents meeting at $76°$. Find angle $OBA$",
+   "statement_en": "Points $A$ and $B$ lie on a circle with center $O$. Lines $k$ and $l$ are tangent to this circle at points $A$ and $B$ respectively. These lines intersect at point $S$ and form an angle of measure $76°$ (see figure). Complete the sentence. Choose the correct answer from the options given. The measure of angle $OBA$ equals: A. $52°$ B. $26°$ C. $14°$ D. $38°$ [Figure: circle with center $O$, tangent lines $k$ and $l$ touching the circle at $A$ and $B$, meeting at external point $S$ with a $76°$ angle between them]",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "25", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 2, "value_tex": "2", "answer_tex": "a=2",
+   "category": "stereometria", "topic_pl": "Siatka graniastosłupa", "topic_en": "Prism net",
+   "difficulty": 3,
+   "summary_pl": "Siatka graniastosłupa: przekątna 16, kąt $30°$. Krawędź",
+   "summary_en": "Prism net: diagonal 16, angle $30°$. Base edge",
+   "statement_en": "The lateral surface of a regular quadrilateral prism was cut along a lateral edge of the prism and unfolded onto a plane. This produced a rectangle $ABCD$, in which side $BC$ corresponds to the edge of the cut (the height of the prism). The diagonal $AC$ of this rectangle has length $16$ and forms an angle of measure $30°$ with side $BC$ (see figure). Complete the sentence. Choose the correct answer from the options given. The length of the base edge of this prism equals: A. $8$ B. $8\\sqrt3$ C. $2\\sqrt3$ D. $2$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "26", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.125, "value_tex": "\\frac{1}{8}", "answer_tex": "1:8",
+   "category": "stereometria", "topic_pl": "Podobieństwo ostrosłupów", "topic_en": "Similar pyramids",
+   "difficulty": 2,
+   "summary_pl": "Ostrosłup, $D,E,F$ środki krawędzi. Stosunek objętości",
+   "summary_en": "Pyramid, $D,E,F$ edge midpoints. Ratio of volumes",
+   "statement_en": "Given is a regular triangular pyramid $ABCS$ with base $ABC$. Points $D$, $E$ and $F$ are the midpoints of lateral edges $AS$, $BS$ and $CS$ respectively (see figure). Complete the sentence. Choose the correct answer from the options given. The ratio of the volume of pyramid $DEFS$ to the volume of pyramid $ABCS$ equals: A. $3:4$ B. $1:4$ C. $1:8$ D. $3:8$",
+   "confidence": "high", "notes": ""
+  },
+  { "task": "27", "include": false, "exclude_reason": "graph_or_drawing", "category": "stereometria", "difficulty": 2, "notes": "" },
+  {
+   "task": "28", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.0011111111111111111, "value_tex": "\\frac{1}{900}", "answer_tex": "P(A)=\\frac{10}{9000}=\\frac{1}{900}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo klasyczne", "topic_en": "Classical probability",
+   "difficulty": 3,
+   "summary_pl": "Losy 1000-9999, wygrywa suma cyfr=3. $P$(1. los wygrywa)",
+   "summary_en": "Tickets 1000-9999, win if digit sum=3. $P$(1st ticket wins)",
+   "statement_en": "A container holds raffle tickets numbered with consecutive natural numbers from $1000$ to $9999$. Every ticket whose number has digit sum equal to $3$ is a winning ticket. Participants of the raffle draw one ticket each from the container. Calculate the probability of the event that the first ticket drawn from the container was a winning one. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "29", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 1350, "value_tex": "1350", "answer_tex": "x=50 \\land b=50 \\land P=1250",
+   "category": "funkcje", "topic_pl": "Optymalizacja pola równoległoboku", "topic_en": "Parallelogram area optimisation",
+   "difficulty": 3,
+   "summary_pl": "Równoległobok: obwód 200, kąt $30°$. Max. pole (x+b+P)",
+   "summary_en": "Parallelogram: perimeter 200, angle $30°$. Max area (x+b+P)",
+   "statement_en": "Consider all parallelograms with perimeter equal to $200$ and an acute angle of measure $30°$. Give the formula and domain of the function describing the area of such a parallelogram as a function of the length $x$ of a side of the parallelogram. Calculate the dimensions of the one, among the parallelograms considered, that has the greatest area, and calculate that greatest area. Show your working.",
+   "confidence": "high", "notes": "Task mixes a symbolic part (formula and domain, excluded) with numeric parts (both side lengths x, b and the maximal area P); value sums x+b+P."
+  },
+  { "task": "30.1", "include": false, "exclude_reason": "true_false", "category": "statystyka", "difficulty": 2, "notes": "" },
+  {
+   "task": "30.2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 2.5, "value_tex": "2.5", "answer_tex": "\\text{dominanta}=2.5\\text{ h}",
+   "category": "statystyka", "topic_pl": "Dominanta", "topic_en": "Mode",
+   "difficulty": 1,
+   "summary_pl": "Dominanta dziennego czasu korzystania z komputera",
+   "summary_en": "Mode of daily computer usage time",
+   "statement_en": "[Context: In a group of 100 students a survey was conducted about daily computer usage time; the results are shown in a bar chart with hours (1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5) on the horizontal axis and number of students (5, 21, 24, 26, 14, 6, 3, 1 respectively) on the vertical axis.] Complete the sentence. Choose the correct answer from the options given. The mode of the daily computer usage time equals: A. $2.25$ hours. B. $2.50$ hours. C. $2.75$ hours. D. $1.50$ hours.",
+   "confidence": "high", "notes": ""
+  }
+ ]
+}

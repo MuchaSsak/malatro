@@ -1,0 +1,3122 @@
+[
+{
+"exam": "f2005-P-2005-maj",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 1.3214285714285714,
+"answer_tex": "a_1=\\frac34,\\ a_2=\\frac47",
+"summary_pl": "Ciag $a_n=\\frac{n+2}{3n+1}$: wyrazy wieksze od $\\frac12$ (suma)"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "4",
+"why": [
+"no_diacritics"
+],
+"value": 52,
+"answer_tex": "16+36",
+"summary_pl": "Plyty na 3 polkach (ciag geom.), srodkowa=24, suma=76: gorna+dolna"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 4.66,
+"answer_tex": "\\bar{x}=2{,}75,\\ D^2=0{,}94,\\ \\sigma=0{,}97",
+"summary_pl": "Ankieta o czasie na prace domowa: srednia+wariancja+odchylenie (suma)"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "4",
+"why": [
+"no_diacritics"
+],
+"value": 2.5,
+"answer_tex": "x=-\\sqrt3 \\lor x=-\\frac12 \\lor x=\\sqrt3 \\lor x=3",
+"summary_pl": "Pierwiastki $W(x)=-2x^4{+}5x^3{+}9x^2{-}15x{-}9$ (suma)"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 5,
+"answer_tex": "a=-14,\\ b=14,\\ x_3=5",
+"summary_pl": "3 i $-1$ to pierwiastki $W(x)=2x^3+ax^2+bx+30$. $a,b$ i 3. pierw."
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "3",
+"why": [
+"no_diacritics"
+],
+"value": -2.9555555555555557,
+"answer_tex": "-\\frac{133}{45}",
+"summary_pl": "Oblicz $tg^2\\beta-5\\sin\\beta\\cdot ctg\\alpha+\\sqrt{1-\\cos^2\\alpha}$ (trojkat 8,6)"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": -3993,
+"answer_tex": "a_{2007}=-4000,\\ n=7",
+"summary_pl": "Ciag arytm.: $S_n=-n^2+13n$. a) wzor $a_n$ b) $a_{2007}$ c) $n$ dla $a_n=0$ (b+c)"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 12,
+"answer_tex": "x\\in\\{0,\\sqrt7,-\\sqrt7\\},\\ a=0,\\ b=12",
+"summary_pl": "$W(x)=2x^3+ax^2-14x+b$: a) rozw. rownanie (a=b=0) b) dobierz a,b (podz. przez x-2,x+3)"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 1330.2150202128978,
+"answer_tex": "768\\sqrt3",
+"summary_pl": "Objetosc graniastoslupa (romb 8, kat 60, przekatna CE nachylona 60)"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": -22,
+"answer_tex": "2x_1+x_2=-22",
+"summary_pl": "Pierwiastki $x^2+10x-24=0$: oblicz $2x_1+x_2$"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": -4,
+"answer_tex": "a=-4",
+"summary_pl": "2 jest pierwiastkiem $W(x)=x^3+ax^2+6x-4$. Oblicz $a$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "2 \\text{ rozwiazania } (x=2 \\lor x=-2)",
+"summary_pl": "Ile rozwiazan ma $\\frac{x^2-4}{(x-4)(x+4)}=0$?"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 14,
+"answer_tex": "a_5=14",
+"summary_pl": "Ciag arytm.: $a_2=5$, $a_4=11$. Oblicz $a_5$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 1.4142135623730951,
+"answer_tex": "q=\\sqrt{2}",
+"summary_pl": "Ciag geom. malejacy: $a_1=-2$, $a_3=-4$. Oblicz iloraz"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 0.6614378277661477,
+"answer_tex": "\\sin\\alpha=\\frac{\\sqrt7}{4}",
+"summary_pl": "Kat ostry $\\alpha$: $\\cos\\alpha=\\frac34$. Oblicz $\\sin\\alpha$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 18,
+"answer_tex": "18",
+"summary_pl": "Promien okregu opisanego na trojk. rownobocznym = 12. Wysokosc?"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 9.219544457292887,
+"answer_tex": "AD=\\sqrt{85}",
+"summary_pl": "Przekatna $AC=11$ prostokata, $AB$ krotszy o 5. Oblicz $AD$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 54,
+"answer_tex": "54^\\circ",
+"summary_pl": "Dziesieciokat wpisany w okrag: oblicz kat wpisany $BGE$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "21",
+"why": [
+"no_diacritics"
+],
+"value": 3.605551275463989,
+"answer_tex": "r=\\sqrt{13}",
+"summary_pl": "Promien okregu $(x+2)^2+(y-1)^2=13$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "23",
+"why": [
+"no_diacritics"
+],
+"value": 36,
+"answer_tex": "36\\text{ cm}",
+"summary_pl": "Objetosc szescianu $27\\,cm^3$. Suma dlugosci krawedzi?"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 10,
+"answer_tex": "10",
+"summary_pl": "Graniastoslup ma 15 krawedzi. Ile wierzcholkow?"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "27",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "x=3",
+"summary_pl": "Rozwiaz $x^3-3x^2+2x-6=0$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "28",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "a_1=2",
+"summary_pl": "Ciag arytm.: $a_5=26$, $S_5=70$. Oblicz $a_1$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 70,
+"answer_tex": "P=70",
+"summary_pl": "Graniastoslup prawidlowy: $AB=10$, $CF=11$. Pole $\\triangle ABF$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 0,
+"answer_tex": "\\text{brak rozwiazan}",
+"summary_pl": "Ile rozwiazan ma rownanie $\\frac{x^2+36}{x-6}=0$?"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": -5,
+"answer_tex": "x=-5",
+"summary_pl": "Najwieksza liczba calkowita w $(4+x)^2<(x-4)(x+4)$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "2",
+"summary_pl": "W trojk. prost. $\\alpha=27^\\circ,\\beta=63^\\circ$: oblicz $\\frac{\\cos\\alpha+\\sin\\beta}{\\cos\\alpha}$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": -2,
+"answer_tex": "-2",
+"summary_pl": "Roznica ciagu arytm. $a_n=-2n+1$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": -0.5,
+"answer_tex": "-\\frac{1}{2}",
+"summary_pl": "Ciag geom.: $a_2=\\frac{\\sqrt3}{2}$, $a_3=-\\frac32$. Oblicz $a_1$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": -0.6666666666666666,
+"answer_tex": "-\\frac{2}{3}",
+"summary_pl": "Wspolczynnik kierunkowy prostej $AB$, $A=(6,1)$, $B=(3,3)$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 6.5,
+"answer_tex": "6{,}5",
+"summary_pl": "Promien okregu opisanego na trojk. prost. o przypr. 5,12"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 12,
+"answer_tex": "12",
+"summary_pl": "Odleglosc srodkow 2 okregow (r=12,17), mniejszy przez srodek wiekszego"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 13,
+"answer_tex": "13",
+"summary_pl": "Promien podstawy stozka z obrotu trojk. o przypr. 13,15"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 96,
+"answer_tex": "96",
+"summary_pl": "Pole trapezu prost. o podstawach 6,10, $\\tan$ kata ostrego=3"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "26",
+"why": [
+"no_diacritics"
+],
+"value": 0.25,
+"answer_tex": "\\frac{1}{4}",
+"summary_pl": "64, x, 4 - ciag geom. malejacy. Oblicz piaty wyraz"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "28",
+"why": [
+"no_diacritics"
+],
+"value": 4.6,
+"answer_tex": "\\bar{x}=3,\\ \\sigma^2=1{,}6",
+"summary_pl": "Oceny klasy: srednia i wariancja (suma)"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 0.9780192957356101,
+"answer_tex": "\\frac{\\sqrt{506}}{23}",
+"summary_pl": "Sinus kata nachylenia $BS$ do podstawy ostroslupa $ABCDS$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 25,
+"answer_tex": "\\alpha=25^\\circ",
+"summary_pl": "Styczna do okregu, kat $40°$. Oblicz kat $\\alpha$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": 20,
+"answer_tex": "Obw=20",
+"summary_pl": "Prostokat o przekatnej $2\\sqrt{13}$ podobny do $2\\times3$. Obwod?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 4.5,
+"answer_tex": "P=\\frac{9}{2}",
+"summary_pl": "Romb: bok $3$, $\\cos$ kata ostrego $\\frac{\\sqrt3}{2}$. Pole?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 16.970562748477143,
+"answer_tex": "12\\sqrt2",
+"summary_pl": "Pole szescianu $12$. Suma dlugosci krawedzi?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "n=2",
+"summary_pl": "Ciag $a_n=-2+\\frac{12}{n}$. Dla jakiego $n$: $a_n=4$?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 30,
+"answer_tex": "30^\\circ",
+"summary_pl": "Przyprostokatne $1$ i $\\sqrt3$. Najmniejszy kat?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 55,
+"answer_tex": "a_1=55",
+"summary_pl": "Ciag arytm.: $r=-2$, $a_{20}=17$. Oblicz $a_1$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "21",
+"why": [
+"no_diacritics"
+],
+"value": 0.6666666666666666,
+"answer_tex": "q=\\frac{2}{3}",
+"summary_pl": "Ciag geom.: $a_1=\\frac98$, $a_4=\\frac13$. Oblicz $q$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": 3.5,
+"answer_tex": "\\bar{x}=3.5",
+"summary_pl": "Diagram ocen. Oblicz srednia arytmetyczna"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "27",
+"why": [
+"no_diacritics"
+],
+"value": 1.3333333333333333,
+"answer_tex": "x=1 \\lor x=-1 \\lor x=\\frac43",
+"summary_pl": "Rozwiaz $3x^3-4x^2-3x+4=0$ (suma rozwiazan)"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "31",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "q=3",
+"summary_pl": "Ciag geom. $a_n=7\\cdot3^{n-1}$. Oblicz iloraz $q$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "32",
+"why": [
+"no_diacritics"
+],
+"value": 162,
+"answer_tex": "V=162",
+"summary_pl": "Graniastoslup: bok $3$, katy $30°,60°$. Oblicz objetosc"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "4",
+"why": [
+"no_diacritics"
+],
+"value": 2.3333333333333335,
+"answer_tex": "\\frac{7}{3}",
+"summary_pl": "Oblicz sume $\\log_8 16 + 1$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 0,
+"answer_tex": "\\frac{1}{x_1}+\\frac{1}{x_2}=0",
+"summary_pl": "Pierwiastki $2(x+2)(x-2)=0$: oblicz $\\frac{1}{x_1}+\\frac{1}{x_2}$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 1.4142135623730951,
+"answer_tex": "\\sqrt{2}",
+"summary_pl": "Trojkaty podobne o polach $25\\,cm^2$ i $50\\,cm^2$: skala podobienstwa"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": 5,
+"answer_tex": "x=5",
+"summary_pl": "$x-2, 6, 12$ to ciag geometryczny. Oblicz $x$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "3",
+"summary_pl": "Trapez rownoramienny, kat ostry $60°$, ramie $2\\sqrt3$. Wysokosc?"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 160,
+"answer_tex": "160^\\circ",
+"summary_pl": "Kat srodkowy oparty na luku o dlugosci $\\frac49$ okregu"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 5,
+"answer_tex": "5",
+"summary_pl": "Ostroslup ma 10 krawedzi. Ile scian bocznych?"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "l=2h",
+"summary_pl": "Stozek i walec: rowne pola boczne. Stosunek tworzacej do wysokosci walca"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 9,
+"answer_tex": "a=9",
+"summary_pl": "Mediana $2,12,a,10,5,3$ rowna 7. Oblicz $a$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "27",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "x=2 \\lor x=\\frac{2}{3} \\lor x=-\\frac{2}{3}",
+"summary_pl": "Rozwiaz $9x^3-18x^2-4x+8=0$ (suma rozwiazan)"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "32",
+"why": [
+"no_diacritics"
+],
+"value": 11.224972160321824,
+"answer_tex": "d=3\\sqrt{14}",
+"summary_pl": "Prostopadloscian: pole calk. 198, krawedzie w stosunku $1:2:3$. Przekatna?"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 6,
+"answer_tex": "x=6",
+"summary_pl": "Srednie zestawow $2,4,7,8,9$ i $2,4,7,8,9,x$ rowne. Oblicz $x$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": 6,
+"answer_tex": "6",
+"summary_pl": "Najwieksza calk.: $\\frac{x}{4}-\\sqrt3<0$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": -6,
+"answer_tex": "-6",
+"summary_pl": "Iloczyn rozwiazan $(x-\\frac12)^2-\\frac{25}{4}=0$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 121,
+"answer_tex": "121",
+"summary_pl": "Suma 11 wyrazow ciagu $a_n=2n-1$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": 1.1111111111111112,
+"answer_tex": "r=\\frac{10}{9}",
+"summary_pl": "Ciag arytm.: $a_{10}=11$, $a_{100}=111$. Oblicz $r$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 0.3713906763541037,
+"answer_tex": "\\frac{2}{\\sqrt{29}}",
+"summary_pl": "Trojkat prost. o przypr. $2,5$: cosinus wiek. kata"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 5.196152422706632,
+"answer_tex": "3\\sqrt3",
+"summary_pl": "Szesciokat foremny: przekatna $2\\sqrt2$, pole?"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 54,
+"answer_tex": "18\\ \\text{i}\\ 36",
+"summary_pl": "Trojkaty podobne, pola $1{:}4$: mozliwe obwody (suma)"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 7.3484692283495345,
+"answer_tex": "3\\sqrt6",
+"summary_pl": "Czworoscian foremny o kraw. $9$: wysokosc"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": 4.898979485566356,
+"answer_tex": "2\\sqrt6",
+"summary_pl": "Graniastoslup: pole podst. $36$, kat przek. $30°$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "26",
+"why": [
+"no_diacritics"
+],
+"value": -1,
+"answer_tex": "x=-1\\ \\lor\\ x=\\frac{\\sqrt6}{4}\\ \\lor\\ x=-\\frac{\\sqrt6}{4}",
+"summary_pl": "Rozwiaz $8x^3+8x^2-3x-3=0$ (suma rozwiazan)"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "28",
+"why": [
+"no_diacritics"
+],
+"value": 0.17777777777777778,
+"answer_tex": "P(A)=\\frac{8}{45}",
+"summary_pl": "2-cyfrowa liczba: podzielna przez $9$ lub $12$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "32",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "q=2",
+"summary_pl": "Ciag arytm. $a_1{=}2$: $a_1,a_2,a_4$ tworza geom. (iloraz)"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "34",
+"why": [
+"no_diacritics"
+],
+"value": 25.819888974716115,
+"answer_tex": "V=\\frac{20\\sqrt{15}}{3}",
+"summary_pl": "Ostroslup: sciana boczna pole $10$, kat $60°$. Objetosc"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "1",
+"why": [
+"no_diacritics"
+],
+"value": 2.5,
+"answer_tex": "f((-\\infty,-2))=\\{3\\},\\ x_0=-\\frac12",
+"summary_pl": "$f(x)=|x{-}1|{-}|x{+}2|$: wartosc dla $x<-2$ i zero (a+c)"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "3",
+"why": [
+"no_diacritics"
+],
+"value": 0.2327105695731869,
+"answer_tex": "V=\\frac{2\\pi}{27}\\text{ m}^3",
+"summary_pl": "Kapsula: stozek+polkula, $V_{stozka}=\\frac23 V$. Oblicz $V$"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "4",
+"why": [
+"no_diacritics"
+],
+"value": 1.359122918275927,
+"answer_tex": "\\cos\\alpha=\\frac78,\\ \\sin\\alpha=\\frac{\\sqrt{15}}{8}",
+"summary_pl": "Trojkat $1,\\frac32,2$: $\\cos\\alpha+\\sin\\alpha$ najkr. boku (suma)"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": 30,
+"answer_tex": "A=(3-\\sqrt3,6),\\ B=(3+\\sqrt3,6),\\ C=(3,9)",
+"summary_pl": "Trojkat rownob. na paraboli $y=-x^2+6x$ (suma wspolrzednych)"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 60,
+"answer_tex": "60^\\circ",
+"summary_pl": "Romb na okregu: $\\frac{P_{kola}}{P_{rombu}}=\\frac{\\pi\\sqrt3}{8}$. Kat ostry?"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 10150.666666666666,
+"answer_tex": "a_2+a_4+\\dots+a_{100}=10150,\\ \\lim=\\frac23",
+"summary_pl": "Ciag arytm. $S_n=2n^2+n$: suma parzystych + granica (a+b)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "4",
+"why": [
+"no_diacritics"
+],
+"value": 3.141592653589793,
+"answer_tex": "x=\\frac{\\pi}{6} \\lor x=\\frac{5\\pi}{6}",
+"summary_pl": "Rozwiaz $4\\cos^2x=4\\sin x+1$ w $[0,2\\pi]$ (suma rozw.)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 14,
+"answer_tex": "S=\\left(\\frac{38}{3},\\frac{4}{3}\\right)",
+"summary_pl": "Jednokladnosc ujemna okregow - srodek $S$? (suma wspolrzednych)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": -8,
+"answer_tex": "\\text{domain}=(0,8);\\ f_{min}=-8",
+"summary_pl": "Dziedzina i najmn. wartosc $f(x)=\\log_{\\frac{\\sqrt2}{2}}(8x-x^2)$?"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 69,
+"answer_tex": "\\alpha\\approx69\\text{\\textdegree}",
+"summary_pl": "Ostroslup: $V=\\frac{2}{9}H^3$. Oblicz kat $\\alpha$ (czesc b)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 4.2,
+"answer_tex": "\\frac{21}{5}",
+"summary_pl": "Trojkat prost. $|BC|{=}9$, $|CA|{=}12$, $|BC|{=}|CD|$. $|AD|$?"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 0.5,
+"answer_tex": "x=-\\frac32 \\lor x=\\frac12 \\lor x=\\frac32",
+"summary_pl": "$W(x):(x-1)$ daje iloraz $8x^2+4x-14$, r.$-5$. Pierwiastki (suma)"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "1",
+"why": [
+"no_diacritics"
+],
+"value": 6.283185307179586,
+"answer_tex": "x=\\frac{2\\pi}{3}\\ \\lor\\ x=\\frac{4\\pi}{3}",
+"summary_pl": "Rozwiaz $2\\sin^2x-7\\cos x-5=0$, $x\\in[0,2\\pi)$ (suma)"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 0.6928203230275509,
+"answer_tex": "\\sin\\alpha=\\frac{2\\sqrt3}{5}",
+"summary_pl": "Graniastoslup: $V=12\\sqrt3$, $P_b=36$. Sinus kata scian"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": 0.02857142857142857,
+"answer_tex": "P(A)=\\frac{1}{35}",
+"summary_pl": "Losowa permutacja $1..8$: sumy sasiadow nieparzyste"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 29,
+"answer_tex": "B=(24,1),\\ C=(4,11),\\ D=(-18,7)",
+"summary_pl": "Romb: $A{=}(-2,3)$, srodek $S{=}(3,4)$, pole $300$ (suma wsp.)"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "x_1=1",
+"summary_pl": "Ciag $(x_n)$: $(3^{x_n})$ geom. o ilorazie $27$; $\\sum_1^{10}x_n{=}145$. $x_1=?$"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 6.110100926607787,
+"answer_tex": "\\frac{4\\sqrt{21}}{3}",
+"summary_pl": "Trojkat rownoram.: baza $8$, $\\angle BAC=30^\\circ$. Oblicz srodkowa $AD$"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 90,
+"answer_tex": "90°",
+"summary_pl": "Kat miedzy stycznymi do $x^2{+}y^2{+}2x{-}2y{-}3{=}0$ z $A=(2,0)$?"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "a=1",
+"summary_pl": "Graniastoslup 6-katny: suma krawedzi $24$, max pole boczne. $a=?$"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 0.883452208598772,
+"answer_tex": "\\frac{4\\sqrt{82}}{41}",
+"summary_pl": "Ostroslup: $AC:AS=6:5$. Oblicz sinus kata nachylenia sciany bocznej"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 7.25,
+"answer_tex": "m=6;\\ x=-2 \\lor x=\\frac{1}{4} \\lor x=3",
+"summary_pl": "Wielomian $W(x)=4x^3-5x^2-23x+m$: $m$ i pierwiastki (suma)"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "3",
+"why": [
+"no_diacritics"
+],
+"value": 15.707963267948966,
+"answer_tex": "x=0,\\ \\pi,\\ 2\\pi,\\ \\frac{5\\pi}{6},\\ \\frac{7\\pi}{6}",
+"summary_pl": "Rozwiaz $\\sin 2x+\\sqrt3\\sin x=0$ w $[0,2\\pi]$ (suma rozwiazan)"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 105,
+"answer_tex": "5,\\ 20,\\ 80",
+"summary_pl": "3 liczby (geom., suma 105) sa wyrazami 1,6,26 ciagu arytm. Oblicz je"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 13,
+"answer_tex": "B=(9,4)",
+"summary_pl": "Trojkat rownoram. ABC: $M=(5,6)$ srodek $BC$, $A=(-3,0)$. Oblicz $B$"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": 4.5,
+"answer_tex": "P=\\frac{9}{2}",
+"summary_pl": "Szescian kraw. 2: pole przekroju $AHRP$ (P srodek BC)"
+},
+{
+"exam": "f2005-R-2015-maj",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 12,
+"answer_tex": "x=3, x=4, x=5",
+"summary_pl": "Wielomian $W(x)$ z param. $m$, przes. przez $(0,0)$. Pierwiastki? (suma)"
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 24.5,
+"answer_tex": "a=-5;\\ b=30;\\ x=2 \\lor x=-\\frac{5}{2}",
+"summary_pl": "Wielomian $W(x)=2x^3+ax^2-13x+b$: $a,b$ i pierwiastki (suma)"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": -3,
+"answer_tex": "x=-4 \\lor x=-2 \\lor x=3",
+"summary_pl": "$W(x)=x^3+cx^2-10x+d$, $(x+2)|W$, reszta z $(x-1)$ to $-30$. Pierwiastki (suma)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "1",
+"why": [
+"no_diacritics"
+],
+"value": -8,
+"answer_tex": "x=-10 \\lor x=2",
+"summary_pl": "Rozwiaz $3|x+2|-|x-3|=11$ (suma rozw.)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "4",
+"why": [
+"no_diacritics"
+],
+"value": 0.35714285714285715,
+"answer_tex": "\\frac{5}{14}",
+"summary_pl": "Ciag 8 liczb z $\\{1..7,9\\}$ bez powtorzen. $P$(parzyste niesasiadujace)?"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 3.141592653589793,
+"answer_tex": "x=-\\frac{\\pi}{6} \\lor x=\\frac{7\\pi}{6}",
+"summary_pl": "Rozwiaz $2\\cos^2x+3\\sin x=0$ w $[-\\pi/2,3\\pi/2]$ (suma rozw.)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "x=\\frac{1-\\sqrt5}{2},\\ x=\\frac{1+\\sqrt5}{2}",
+"summary_pl": "$W(x){=}5x^3{-}7x^2{-}3x{+}p$, pierwiastek $\\frac25$. Pozostale pierwiastki? (suma)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": -4.533333333333333,
+"answer_tex": "B=\\left(-\\frac{17}{5},\\frac{31}{5}\\right),\\ C=\\left(-3,-\\frac{13}{3}\\right)",
+"summary_pl": "Trojkat rownoram. z $A=(7,-1)$, okrag wpisany $x^2{+}y^2{=}10$. $B,C$? (suma)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 2.052800957118669,
+"answer_tex": "\\frac{32\\sqrt3}{27}",
+"summary_pl": "Ostroslup: przekroj rownoboczny, kraw. boczna $\\frac{4\\sqrt3}{3}$. Objetosc?"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": -0.5,
+"answer_tex": "m=1;\\ x=2,\\ x=-3,\\ x=-\\frac12",
+"summary_pl": "Wielomian podzielny przez $(x-2)$, reszta $6$: $m$ i pierwiastki"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": 0.75,
+"answer_tex": "a_1=\\frac{3}{4}",
+"summary_pl": "Ciag geom. o sumie $\\frac{21}{4}$ powiazany z ciagiem arytm. Oblicz $a_1$"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 3.141592653589793,
+"answer_tex": "x=\\frac{\\pi}{6} \\lor x=\\frac{5\\pi}{6}",
+"summary_pl": "Rozwiaz $3\\cos 2x+10\\cos^2x=24\\sin x-3$, $x\\in[0,2\\pi)$ (suma rozw.)"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": -1.55,
+"answer_tex": "m=-\\frac{9}{5} \\lor m=\\frac{1}{4}",
+"summary_pl": "Znajdz $m$: rozne $x_1,x_2$ i $x_1^2+5x_1x_2+2x_2^2=2$ (suma wartosci $m$)"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 0.14285714285714285,
+"answer_tex": "\\sin\\alpha=\\frac{1}{7}",
+"summary_pl": "Trojkat rownoramienny $AC=BC=10$, $\\angle ABC=30^\\circ$, $BP{:}PC=2{:}3$. Oblicz $\\sin\\alpha$"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 624,
+"answer_tex": "V=624",
+"summary_pl": "Ostroslup, podstawa-trapez $AD=10$, $BC=16$, $\\angle ABC=30^\\circ$, $\\tan\\alpha=\\frac{9}{2}$. Oblicz objetosc"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 12.649110640673518,
+"answer_tex": "d=4\\sqrt{10}",
+"summary_pl": "Przekatna kwadratu ze srodkow bokow $(7,1)$, $(9,7)$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": 1.6309297535714573,
+"answer_tex": "x=\\log_3 6",
+"summary_pl": "Dla jakiego $x$ funkcja $3^x$ ma wartosc 6?"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 11,
+"answer_tex": "f(44)=11",
+"summary_pl": "Najwieksza z wartosci $f(42),f(44),f(45),f(48)$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 0.5,
+"answer_tex": "x=0 \\lor x=\\frac12",
+"summary_pl": "Rozwiaz $(2x-1)(x-2)=(1-2x)(x+2)$ (suma rozw.)"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 0.9797958971132712,
+"answer_tex": "\\sin\\alpha=\\frac{2\\sqrt6}{5}",
+"summary_pl": "Sinus kata ostrego w trojkacie prostokatnym (rysunek)"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 10,
+"answer_tex": "10",
+"summary_pl": "Okregi o promieniach 10, 15 - odleglosc srodkow"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "21",
+"why": [
+"no_diacritics"
+],
+"value": 6,
+"answer_tex": "a_5=6",
+"summary_pl": "Ciag geom. 9-wyrazowy: $a_1=3$, $a_9=12$, oblicz $a_5$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": 4,
+"answer_tex": "4",
+"summary_pl": "Ciag $a_n=(n+3)(n-5)$: ile wyrazow ujemnych?"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": -2,
+"answer_tex": "a=-2",
+"summary_pl": "Wyznacz $a$: rozwiazaniem $ax+4\\ge0$ jest $(-\\infty,2]$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 2.5,
+"answer_tex": "x=2 \\lor x=\\frac12",
+"summary_pl": "Rozwiaz $\\frac{x(x+1)}{x-1}=5x-4$ (suma rozwiazan)"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "29",
+"why": [
+"no_diacritics"
+],
+"value": 1.9364916731037085,
+"answer_tex": "R=\\frac{\\sqrt{15}}{2}",
+"summary_pl": "Promien okregu opisanego na trojkacie o bokach $\\sqrt7,\\sqrt8,\\sqrt{15}$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "P=2",
+"summary_pl": "Proste $l,k$ przez $A=(0,4)$: pole trojkata z osia $Ox$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 0.9411764705882353,
+"answer_tex": "\\frac{16}{17}",
+"summary_pl": "Stosunek pol powierzchni szescianu i graniastoslupa"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 0,
+"answer_tex": "x=0",
+"summary_pl": "Najmniejsza liczba calkowita: $2(x-2)\\le4(x-1)+1$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": -2,
+"answer_tex": "x=-2",
+"summary_pl": "Rozwiaz $x^2(x+1)=x^2-8$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 91,
+"answer_tex": "91",
+"summary_pl": "12. wyraz ciagu dwucyfrowych liczb podzielnych przez 7"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 0.9393939393939394,
+"answer_tex": "\\frac{31}{33}",
+"summary_pl": "Ciag $a_n=\\frac{2^n-1}{2^n+1}$. Oblicz $a_5$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 0.3713906763541037,
+"answer_tex": "\\frac{2}{\\sqrt{29}}",
+"summary_pl": "Trojkat prostokatny $2,5$: cosinus wiekszego kata ostrego"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 40,
+"answer_tex": "\\alpha=40^\\circ",
+"summary_pl": "Kat wpisany $\\alpha$ przy kacie 50 stopni w okregu"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 0.3333333333333333,
+"answer_tex": "a=\\frac{1}{3}",
+"summary_pl": "Wspolczynnik kierunkowy prostej $AB$, $A=(-4,3)$, $B=(8,7)$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "21",
+"why": [
+"no_diacritics"
+],
+"value": -13,
+"answer_tex": "b=-13",
+"summary_pl": "$S=(2,-5)$ srodkiem $AB$: $A=(-4,3)$, $B=(8,b)$. Oblicz $b$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "23",
+"why": [
+"no_diacritics"
+],
+"value": 10,
+"answer_tex": "10",
+"summary_pl": "Przekatna przekroju osiowego walca: $r=4$, $h=6$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "26",
+"why": [
+"no_diacritics"
+],
+"value": 5.333333333333333,
+"answer_tex": "x=\\frac{4}{3} \\lor x=4",
+"summary_pl": "Rozwiaz $\\frac{2x-4}{x}=\\frac{x}{2x-4}$ (suma rozwiazan)"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 369.50417228136047,
+"answer_tex": "V=\\frac{640\\sqrt{3}}{3}",
+"summary_pl": "Ostroslup: pole podstawy $192$, krawedzie boczne pod $30^\\circ$. Objetosc?"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 204,
+"answer_tex": "204",
+"summary_pl": "Ile liczb 4-cyfrowych $<2018$ podzielnych przez 5?"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 0.32653061224489793,
+"answer_tex": "\\frac{16}{49}",
+"summary_pl": "Losowanie z $A$ i $B$: P(suma podzielna przez 3)"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "21",
+"why": [
+"no_diacritics"
+],
+"value": 15,
+"answer_tex": "15",
+"summary_pl": "Ile liczb dwucyfrowych jest podzielnych przez 6?"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "31",
+"why": [
+"no_diacritics"
+],
+"value": 0.027777777777777776,
+"answer_tex": "P(A)=\\frac{1}{36}",
+"summary_pl": "Rzut 3 kostkami. Prawdop. sumy oczek $=16$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "4",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "3",
+"summary_pl": "Najmniejsza liczba calk. w $\\frac{5(4-x)}{2}<x$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": 0.024,
+"answer_tex": "0.024",
+"summary_pl": "250 liczb: 4 (128x), 2 (122x). Blad przyblizenia sredniej do 3"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": -5,
+"answer_tex": "m=-5",
+"summary_pl": "Zbior wartosci $f(x)=-(x+9)^2+m$ to $(-\\infty,-5]$. Znajdz $m$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "3",
+"summary_pl": "Rozwiaz $\\frac{x^2-3x}{x^2+x}=0$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 8.885765876316732,
+"answer_tex": "2\\pi\\sqrt2",
+"summary_pl": "Okrag o srodku $S=(2,4)$ przez $P=(1,3)$. Dlugosc okregu?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 24,
+"answer_tex": "P=(0,16),\\ Q=(8,0)",
+"summary_pl": "$S=(4,8)$ srodkiem $PQ$, $P\\in Oy$, $Q\\in Ox$. Wspolrzedne (suma)"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "BC=3",
+"summary_pl": "$AC=6$ w trojkacie prost., pola $ADC{:}CDB=4{:}1$. Oblicz $BC$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": -1.3333333333333333,
+"answer_tex": "\\tan\\alpha=-\\frac{4}{3}",
+"summary_pl": "$P=(-3,4)$, $O=(0,0)$. Tangens kata nachylenia prostej $OP$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "3",
+"summary_pl": "$A=(4,1)$, $B=(1,3)$, $C=(4,-1)$. Pole trojkata $ABC$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "23",
+"why": [
+"no_diacritics"
+],
+"value": 255,
+"answer_tex": "255",
+"summary_pl": "Ile 4-cyfrowych liczb $<2020$ jest podzielnych przez 4?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 10,
+"answer_tex": "10",
+"summary_pl": "Graniastoslup ma o 9 wiecej wierzcholkow niz ostroslup. Ile bokow podstawy?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 16.970562748477143,
+"answer_tex": "12\\sqrt2",
+"summary_pl": "Pole calk. szescianu = 12. Suma dlugosci krawedzi?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "27",
+"why": [
+"no_diacritics"
+],
+"value": -0.2,
+"answer_tex": "x=1 \\lor x=-\\frac{6}{5}",
+"summary_pl": "Ciag $(x+2,4x+2,x+11)$ geometryczny. Oblicz $x$ (suma wartosci)"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": -2,
+"answer_tex": "x=-3 \\lor x=-2 \\lor x=3",
+"summary_pl": "Rozwiaz $(x^3+8)(x^2-9)=0$ (suma rozwiazan)"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "32",
+"why": [
+"no_diacritics"
+],
+"value": 0.48736615966233715,
+"answer_tex": "\\sin\\alpha=\\frac{24}{5\\sqrt{97}}",
+"summary_pl": "Trojkat rownoram. $AB=12$, ramiona $10$. $D$-srodek $BC$. Sinus kata $DAC$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 226.1946710584651,
+"answer_tex": "V=72\\pi",
+"summary_pl": "Pole boczne stozka = 3x pole podstawy, wysokosc 12. Objetosc?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 37.32050807568877,
+"answer_tex": "x=10(2+\\sqrt3)",
+"summary_pl": "Rozwiaz $x\\sqrt3+2=2x-8$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 0.16666666666666666,
+"answer_tex": "\\cos^2\\alpha=\\frac{1}{6}",
+"summary_pl": "Kat ostry: $tg\\,\\alpha=\\sqrt5$. Oblicz $\\cos^2\\alpha$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 41,
+"answer_tex": "41°",
+"summary_pl": "Okrag: $AC$ srednica, $\\angle AOB=82^\\circ$. Oblicz $\\angle OBC$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 50,
+"answer_tex": "50°",
+"summary_pl": "Styczna+ciec. $40^\\circ$, $BC$ srednica. Oblicz $\\angle ABC$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 4,
+"answer_tex": "x=4",
+"summary_pl": "Trojkat prost. $24,10,26$, dwusieczne w $P$. Oblicz $x$ do $AB$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 20,
+"answer_tex": "10 \\text{ i } 10",
+"summary_pl": "Bok rownolegloboku $5$. Mozliwe przekatne? (suma)"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 3.4641016151377544,
+"answer_tex": "2\\sqrt3",
+"summary_pl": "Trojkat rownoram.: kat $120^\\circ$, bok $12$. Najkr. wysokosc?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": -1,
+"answer_tex": "m=-1",
+"summary_pl": "Proste $y=-\\frac{1}{m-2}x-1$ i $y=\\frac13x+1$ rownolegle. $m=?$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 192,
+"answer_tex": "192",
+"summary_pl": "Graniastoslup prawidlowy: $36$ krawedzi po $4$. Pole boczne?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "26",
+"why": [
+"no_diacritics"
+],
+"value": 2.309401076758503,
+"answer_tex": "\\frac{4\\sqrt3}{3}",
+"summary_pl": "Ostroslup 6-katny: wys. sciany $2\\times$ kraw. Stosunek pol?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "28",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "x=2",
+"summary_pl": "Srednia $2,3x,3x{+}2,3x{+}4$ to $\\frac{13}{2}$. $x=?$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "31",
+"why": [
+"no_diacritics"
+],
+"value": -0.29523809523809524,
+"answer_tex": "r=-\\frac{31}{105}",
+"summary_pl": "Ciag arytm.: $S_{20}=20a_{21}+62$. Oblicz roznice $r$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "\\frac{|CE|}{|EB|}=2",
+"summary_pl": "Trojkat rownoram.: pole $ADEC=17\\times$ pole $BED$. $|CE|/|EB|$?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "34",
+"why": [
+"no_diacritics"
+],
+"value": 0.3,
+"answer_tex": "\\frac{3}{10}",
+"summary_pl": "Losowanie liczby 2-cyfrowej. $P$(podzielna przez $4$)?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "35",
+"why": [
+"no_diacritics"
+],
+"value": 40,
+"answer_tex": "A=\\left(\\frac{33}{5},\\frac{14}{5}\\right),\\ P_{ABC}=\\frac{153}{5}",
+"summary_pl": "Trojkat rownoram.: $B=(3,10)$, $C=(-2,3)$. $A$ i pole? (suma)"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "2",
+"summary_pl": "Ile rozwiazan ma $(x^2-27)(x^2+16)=0$?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "2",
+"summary_pl": "Z wykresu: ile rozwiazan ma $f(x)=-1$ w $(-4,6)$?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 40,
+"answer_tex": "a_4=40",
+"summary_pl": "Ciag arytm.: $r=2$, $a_8=48$. Oblicz $a_4$"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 100,
+"answer_tex": "100°",
+"summary_pl": "Katy trojkata: $\\alpha,4\\alpha,\\alpha+30°$. Najwiekszy kat?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "21",
+"why": [
+"no_diacritics"
+],
+"value": 15,
+"answer_tex": "15°",
+"summary_pl": "Trojkat rownoboczny $BEC$ na boku kwadratu. Kat $DEC$?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 28,
+"answer_tex": "28",
+"summary_pl": "Graniastoslup ma 42 krawedzie. Ile wierzcholkow?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 110.85125168440814,
+"answer_tex": "64\\sqrt{3}",
+"summary_pl": "Ostroslup: wszystkie krawedzie $=8$. Pole calkowite?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "26",
+"why": [
+"no_diacritics"
+],
+"value": 10,
+"answer_tex": "10",
+"summary_pl": "Ile 4-cyfrowych liczb ma sume cyfr $3$?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "32",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "x=1",
+"summary_pl": "Ciag $(x,3x+2,9x+16)$ geometryczny. Oblicz $x$"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "34",
+"why": [
+"no_diacritics"
+],
+"value": 0.15217391304347827,
+"answer_tex": "P(A)=\\frac{7}{46}",
+"summary_pl": "Losujemy 2-cyfrowa liczbe $>53$. P(podzielna przez 7)?"
+},
+{
+"exam": "f2015-P-2022-czerwiec",
+"task": "35",
+"why": [
+"no_diacritics"
+],
+"value": 19.333333333333332,
+"answer_tex": "B=(9,1),\\ C=(-\\frac{1}{3},\\frac{29}{3})",
+"summary_pl": "Trojkat $ABC$: $|AC|=|BC|$, $A=(1,-3)$, srodek $AB=(5,-1)$, $C$ na $y=x+10$. Oblicz $B,C$ (suma wspolrzednych)"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 0,
+"answer_tex": "0",
+"summary_pl": "Iloczyn rozwiazan $2x(x^2-9)(x+1)=0$"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": -7,
+"answer_tex": "r=-7",
+"summary_pl": "Ciag arytm.: $a_5=-31$, $a_{10}=-66$. Oblicz roznice $r$"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 0.6666666666666666,
+"answer_tex": "q=\\frac{2}{3}",
+"summary_pl": "Ciag geom. dodatni: $9a_5=4a_3$. Oblicz iloraz"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 37.69911184307752,
+"answer_tex": "12\\pi",
+"summary_pl": "Okrag r=6, romb $ASBP$, kat $PAS=60°$. Pole zakreskowane?"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 62.35382907247958,
+"answer_tex": "36\\sqrt{3}",
+"summary_pl": "Wysokosc trojk. rownobocznego $=6\\sqrt3$. Pole?"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 51.96152422706632,
+"answer_tex": "30\\sqrt{3}",
+"summary_pl": "Boki 6 i 10, kat $120°$. Pole rownolegloboku?"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "23",
+"why": [
+"no_diacritics"
+],
+"value": -28,
+"answer_tex": "b=-28",
+"summary_pl": "$K=(4,-10)$, $L=(b,2)$, pierwsza wsp. srodka $=-12$. Oblicz $b$"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 12.649110640673518,
+"answer_tex": "4\\sqrt{10}",
+"summary_pl": "$A=(-4,4)$, $B=(4,0)$ sasiednie wierzcholki kwadratu. Przekatna?"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 280,
+"answer_tex": "280\\ cm^3",
+"summary_pl": "Romb (przekatne 7,10) podstawa graniastoslupa, wysokosc o 2 mniejsza. Objetosc?"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "27",
+"why": [
+"no_diacritics"
+],
+"value": 900,
+"answer_tex": "9\\cdot10\\cdot10\\cdot1=900",
+"summary_pl": "Ile 4-cyfrowych liczb nieparzystych podzielnych przez 5?"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "28",
+"why": [
+"no_diacritics"
+],
+"value": -6,
+"answer_tex": "x=-6",
+"summary_pl": "Srednia $2x,4,6,8,11,13$ wynosi 5. Oblicz $x$"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 14750,
+"answer_tex": "S_{100}=14750",
+"summary_pl": "Ciag arytm.: $a_1=-1$, $a_4=8$. Oblicz $S_{100}$"
+},
+{
+"exam": "f2015-P-2022-maj",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 72,
+"answer_tex": "\\angle BAC=72°",
+"summary_pl": "Trojkat rownoram. $|AC|=|BC|$, dwusieczna dzieli na trojkaty podobne. Kat $BAC$?"
+},
+{
+"exam": "f2015-P-2023-maj",
+"task": "23",
+"why": [
+"no_diacritics"
+],
+"value": 5.666666666666667,
+"answer_tex": "a=-\\frac13,\\ b=6",
+"summary_pl": "Prosta rownol. do $y=-\\frac13x+2$ przez $(3,5)$: $a+b$? (a + b)"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "x=3",
+"summary_pl": "Najwieksza liczba calkowita w $8-\\frac{1-2x}{2}\\ge 3x$"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "\\text{trzy rozwiazania}",
+"summary_pl": "Ile rozwiazan ma $4(x-1)^2(x^2-25)=0$?"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "m=2",
+"summary_pl": "Ciag $(4,m,m-1)$ geometryczny - znajdz $m$"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 0.5714285714285714,
+"answer_tex": "\\frac{4}{7}",
+"summary_pl": "W trojkacie prost. $\\sin\\alpha=\\frac47$. Oblicz $\\cos\\beta$"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 4,
+"answer_tex": "4",
+"summary_pl": "Promien okregu wpisanego w trojkat (z rysunku)"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 13,
+"answer_tex": "13",
+"summary_pl": "Promien okregu opisanego na trojkacie (z rysunku)"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 54,
+"answer_tex": "54^\\circ",
+"summary_pl": "Kat wpisany $AGD$ w dziesieciokacie foremnym"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "2",
+"summary_pl": "Krawedz podstawy ostroslupa, gdy pole boczne=4x podstawy, calk.=20"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "23",
+"why": [
+"no_diacritics"
+],
+"value": 5.196152422706632,
+"answer_tex": "3\\sqrt{3}",
+"summary_pl": "Wysokosc stozka o tworzacej 6 i kacie rozwarcia $60^\\circ$"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 30,
+"answer_tex": "30",
+"summary_pl": "Srednia $a,b,c=12$; oblicz srednia $2a,3a,2b,3b,2c,3c$"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "29",
+"why": [
+"no_diacritics"
+],
+"value": 9,
+"answer_tex": "a_1=9",
+"summary_pl": "Ciag arytm.: 25 wyrazow, suma 2025, $a_{25}=17a_1$. Oblicz $a_1$"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 6.5,
+"answer_tex": "\\bar{x}=3,\\ M_e=3{,}5",
+"summary_pl": "Tabela punktow 32 uczniow - srednia i mediana (suma)"
+},
+{
+"exam": "f2015-P-2025-czerwiec",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 27,
+"answer_tex": "V=27",
+"summary_pl": "Objetosc prostopadloscianu, krawedzie w ciagu geom. q=4, pole=94,5"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": -3,
+"answer_tex": "x=-3 \\lor x=0",
+"summary_pl": "Rozwiaz $2x(x+3)(x^2+25)=0$ (suma rozwiazan)"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 4,
+"answer_tex": "4",
+"summary_pl": "Ile ujemnych wyrazow ma ciag $a_n=(n+3)(n-5)$?"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "a_4=1",
+"summary_pl": "Ciag geom.: $a_1=27$, $a_2=9$. Oblicz $a_4$"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 1.3333333333333333,
+"answer_tex": "\\tan\\alpha=\\frac{4}{3}",
+"summary_pl": "Oblicz tangens kata $\\alpha$ z rysunku"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 0.5547001962252291,
+"answer_tex": "\\sin\\beta=\\frac{2}{\\sqrt{13}}",
+"summary_pl": "Oblicz sinus kata $\\beta$ z rysunku"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 40,
+"answer_tex": "40^\\circ",
+"summary_pl": "Kat wpisany $50°$. Oblicz kat $ABO$"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 2.25,
+"answer_tex": "|BD|=2.25",
+"summary_pl": "Trojkat rownoram. $4,4,3$. Oblicz $|BD|$"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 57.15767664977295,
+"answer_tex": "P=33\\sqrt3",
+"summary_pl": "Trojkat: $|AB|=11$, $|BC|=12$, kat $60°$. Pole?"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": -2,
+"answer_tex": "m=-2",
+"summary_pl": "Dla jakiego $m$ proste $k$ i $l$ sa rownolegle?"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "20",
+"why": [
+"no_diacritics"
+],
+"value": 10,
+"answer_tex": "10",
+"summary_pl": "Kwadrat $ABCD$: $A=(4,-1)$, $S=(1,3)$. Dlugosc przekatnej"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "21",
+"why": [
+"no_diacritics"
+],
+"value": 15.588457268119896,
+"answer_tex": "9\\sqrt3",
+"summary_pl": "Szescian o objetosci $729$. Oblicz przekatna"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": 30.413812651491096,
+"answer_tex": "5\\sqrt{37}",
+"summary_pl": "Ostroslup prawidlowy: bok $10$, wys. $30$. Wys. sciany bocznej"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "25",
+"why": [
+"no_diacritics"
+],
+"value": 6,
+"answer_tex": "x+y=6",
+"summary_pl": "Srednia 7 liczb $1,2,3,4,5,x,y$ wynosi $3$. Oblicz $x+y$"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "29",
+"why": [
+"no_diacritics"
+],
+"value": 0.5,
+"answer_tex": "m=-2 \\lor m=\\frac{5}{2}",
+"summary_pl": "Dla jakich $m$ ciag $(2m+11,m^2+3,5-m)$ jest arytm.? (suma)"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 8.75,
+"answer_tex": "\\bar{x}=4.25,\\ M_e=4.5",
+"summary_pl": "Diagram ocen 24 uczniow. Oblicz srednia i mediane (suma)"
+},
+{
+"exam": "f2015-P-2025-maj",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 525.9831161826106,
+"answer_tex": "V=64\\pi,\\ P_c=48\\pi+32\\pi\\sqrt3",
+"summary_pl": "Stozek: tworzaca $8$, kat rozwarcia $120°$. $V$ i $P_c$ (suma)"
+},
+{
+"exam": "f2015-P-2026-maj",
+"task": "31",
+"why": [
+"no_diacritics"
+],
+"value": 0.36,
+"answer_tex": "P(A)=\\frac{9}{25}",
+"summary_pl": "Losujemy cyfry z $X,Y$. $P$(liczba podzielna przez 6)?"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "5",
+"why": [
+"no_diacritics"
+],
+"value": -2,
+"answer_tex": "-2",
+"summary_pl": "Najmniejsza calk.: $\\frac{7+2x}{5}\\ge\\frac{4}{15}$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 0,
+"answer_tex": "0",
+"summary_pl": "Suma rozwiazan $(x^2-4)(x^2-9)=0$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 128,
+"answer_tex": "a_3=128",
+"summary_pl": "Trzeci wyraz ciagu $a_n=32\\cdot(1/2)^{n-5}$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "q=2",
+"summary_pl": "Iloraz ciagu geom. $(x,x+4,2x+8)$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 90,
+"answer_tex": "\\beta+\\gamma=90^\\circ",
+"summary_pl": "Katy wpisane w okregu: oblicz $\\beta+\\gamma$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 19.31370849898476,
+"answer_tex": "8(\\sqrt2+1)",
+"summary_pl": "Obwod trojkata prost. rownoram. (przec. $8$)"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 8,
+"answer_tex": "8",
+"summary_pl": "Trojkaty podobne: bok trojkata $KLM$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "19",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "y_B=3",
+"summary_pl": "Okrag o srodku $S=(-8,-6)$: srednica $AB$, $y_B$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "22",
+"why": [
+"no_diacritics"
+],
+"value": -2,
+"answer_tex": "m=-2",
+"summary_pl": "Parametr $m$: proste rownolegle"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "23",
+"why": [
+"no_diacritics"
+],
+"value": 70.14805770653953,
+"answer_tex": "V=\\frac{81\\sqrt3}{2}",
+"summary_pl": "Objetosc graniastoslupa szesciokatnego (kraw. $3$)"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 10.392304845413262,
+"answer_tex": "H=6\\sqrt3",
+"summary_pl": "Wysokosc stozka: tworzaca $12$, kat $60°$"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "28",
+"why": [
+"no_diacritics"
+],
+"value": 8.3,
+"answer_tex": "x=8.3",
+"summary_pl": "Cena czekolady: uklad rownan o zakupach"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 14.9,
+"answer_tex": "\\bar{x}=7.4,\\ Me=7.5",
+"summary_pl": "Srednia i mediana godzin snu (tabela) (x̄+Me)"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "32",
+"why": [
+"no_diacritics"
+],
+"value": 25,
+"answer_tex": "|AD|=25",
+"summary_pl": "Trapez: przekatna $39$, $\\cos\\alpha=12/13$ (ramie)"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "33",
+"why": [
+"no_diacritics"
+],
+"value": 7.745966692414834,
+"answer_tex": "H=2\\sqrt{15}",
+"summary_pl": "Ostroslup: pole calk. $80$, $5\\times$ pole podstawy"
+},
+{
+"exam": "f2015-P-2026-sierpien",
+"task": "34",
+"why": [
+"no_diacritics"
+],
+"value": 287,
+"answer_tex": "a_1=36,\\ r=-6,\\ k=257",
+"summary_pl": "Ciag arytm.: $S_{10}=90$. a) $a_1,r$ b) $k$ ($a_1{+}r{+}k$)"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "1",
+"why": [
+"no_diacritics"
+],
+"value": 0.4666666666666667,
+"answer_tex": "\\frac{7}{15}",
+"summary_pl": "P-stwo losowania bialej kuli (dwie urny, kostka)"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 7.242640687119285,
+"answer_tex": "\\frac{3}{\\sqrt2-1}",
+"summary_pl": "Suma nieskonczonego ciagu geom. $a_n=3/(\\sqrt2)^n$"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": -153,
+"answer_tex": "n=-153",
+"summary_pl": "Najmniejsza calk. $n$ spelniajaca $2|x+57|=|x-39|$"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 300,
+"answer_tex": "P_{AMS}=40,\\ P_{ALS}=45,\\ P_{BMS}=80,\\ P_{CLS}=135",
+"summary_pl": "Pola $AMS,ALS,BMS,CLS$ w trojkacie $ABC$ (suma)"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": 171700,
+"answer_tex": "171700",
+"summary_pl": "Ile jest 100-cyfrowych liczb o sumie cyfr rownej 4?"
+},
+{
+"exam": "f2015-R-2013-grudzien-pokazowa",
+"task": "18",
+"why": [
+"no_diacritics"
+],
+"value": 18010,
+"answer_tex": "x=10\\text{ cm},\\ V_{max}=18000\\text{ cm}^3",
+"summary_pl": "Pudelko z kartonu: bok naroza i max. objetosc (suma)"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "1",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "a_2=3",
+"summary_pl": "Ciag $a_{n+1}=a_n+n-6$, $a_3=-1$. Oblicz $a_2$"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 512,
+"answer_tex": "x=512",
+"summary_pl": "Najwieksza liczba calkowita: $|x|<|x-1025|$"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "7",
+"why": [
+"no_diacritics"
+],
+"value": 0.3142857142857143,
+"answer_tex": "r=\\frac{11}{35}",
+"summary_pl": "Prosta $y=\\frac34x-\\frac{61}{14}$ styczna do okregu $S=(1,-4)$. Promien?"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": -4.71238898038469,
+"answer_tex": "x=-\\frac{\\pi}{6} \\lor x=-\\frac{5\\pi}{6} \\lor x=-\\frac{\\pi}{2}",
+"summary_pl": "Rozwiaz $4\\sin^2x(1-\\sin x)=\\cos^2x(3-\\sin x)$, $x\\in(-\\pi,0]$ (suma)"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 12.041594578792296,
+"answer_tex": "CD=\\sqrt{145}",
+"summary_pl": "Trojkat prostokatny 15,20: odleglosc wierzcholka od stycznosci okregu"
+},
+{
+"exam": "f2015-R-2015-czerwiec",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 3.577708763999664,
+"answer_tex": "OK=\\frac{8\\sqrt5}{5}",
+"summary_pl": "Ostroslup: trapez $AC=8\\sqrt3$, krawedzie boczne $4\\sqrt5$. Odleglosc do $SD$"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "1",
+"summary_pl": "Ile rozwiazan ma rownanie $f(x)=1$ dla danej funkcji $f$?"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 1.4333333333333333,
+"answer_tex": "\\frac{43}{30}",
+"summary_pl": "Oblicz granice ciagu (roznica dwoch ulamkow wymiernych)"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 0.9797958971132712,
+"answer_tex": "\\sin\\alpha=\\frac{2\\sqrt6}{5}",
+"summary_pl": "Ostroslup: podstawa kwadrat, $SD$ wysokoscia $=2\\times$ bok. Sinus kata miedzy scianami"
+},
+{
+"exam": "f2015-R-2015-maj",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 83.40349316833291,
+"answer_tex": "h=2\\sqrt5, r=4, V=\\frac{32\\sqrt5\\pi}{3}",
+"summary_pl": "Stozki: przekroj osiowy - trojkat o obwodzie 20. h,r,V najwiekszego (suma)"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "3",
+"why": [
+"no_diacritics"
+],
+"value": 105,
+"answer_tex": "105^\\circ",
+"summary_pl": "Na okregu $A,B,C,D,E$: $\\angle BCD=110^\\circ$, $\\angle BDA=35^\\circ$. Oblicz $\\angle DEA$"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 18.84955592153876,
+"answer_tex": "x=\\pi\\lor\\frac{7\\pi}{6}\\lor\\frac{11\\pi}{6}\\lor2\\pi",
+"summary_pl": "Rozwiaz $3\\sin^2x-\\sin^2(2x)=0$ w $[\\pi,2\\pi]$ (suma rozwiazan)"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": 37.71281292110203,
+"answer_tex": "Ob=16\\sqrt3+10",
+"summary_pl": "Czworokat opisany na okregu: $BC=4$, $CD=5$, kat $60^\\circ$, $\\sin=\\frac14$. Oblicz obwod"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "14",
+"why": [
+"no_diacritics"
+],
+"value": 2.449489742783178,
+"answer_tex": "h=\\sqrt6",
+"summary_pl": "Szescian bok $6$; $S$ = przec. przekatnych sciany $ADHE$. Wysokosc $SBH$ z $S$ na $BH$"
+},
+{
+"exam": "f2015-R-2023-maj",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 8,
+"answer_tex": "m=8",
+"summary_pl": "Trojkat $ABC$: $P(m)=\\frac{m^2}{m-4}$. Znajdz $m$ dla najmniejszego pola"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 105,
+"answer_tex": "x=5,\\ y=20,\\ z=80",
+"summary_pl": "Ciag geom. rosnacy $(x,y,z)$, suma $105$, tez arytm. $x,y,z$?"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 14.137166941154069,
+"answer_tex": "x=\\frac{\\pi}{4} \\lor x=\\frac{7\\pi}{6} \\lor x=\\frac{5\\pi}{4} \\lor x=\\frac{11\\pi}{6}",
+"summary_pl": "Rozwiaz $\\sin2x+\\cos2x=1+\\sin x-\\cos x$ w $[0,2\\pi]$ (suma rozw.)"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": 63.98076211353316,
+"answer_tex": "\\angle BAC=30^\\circ,\\ |AC|=15\\sqrt3+8",
+"summary_pl": "Trojkat: $R=17$, $|AB|=30$, $|BC|=17$. Kat $BAC$ i $|AC|$? (suma)"
+},
+{
+"exam": "f2015-R-2024-maj",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": 1908.1332839871632,
+"answer_tex": "a=8\\sqrt3,\\ P_{min}=96\\sqrt3+1728",
+"summary_pl": "Graniastoslup obj. $3456$, $a\\le8\\sqrt3$. $a$ i min. pole? (suma z b)"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 2,
+"answer_tex": "m=2",
+"summary_pl": "Rownanie $x^2+2mx+2m-1=0$: $x_1\\neq x_2$ i $m(x_1^2+x_2^2)=3mx_1x_2+2$. Znajdz $m$"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": 7.853981633974483,
+"answer_tex": "x=\\frac{\\pi}{6}\\lor\\frac{\\pi}{4}\\lor\\frac{\\pi}{2}\\lor\\frac{3\\pi}{4}\\lor\\frac{5\\pi}{6}",
+"summary_pl": "Rozwiaz $\\cos2x+2\\cos^2 3x+\\cos4x=0$ w $[0,\\pi]$ (suma rozwiazan)"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 4.041451884327381,
+"answer_tex": "R=\\frac{7\\sqrt3}{3}",
+"summary_pl": "Czworokat wpisany w okrag: boki $3,3,5,8$. Oblicz promien okregu"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 61.25,
+"answer_tex": "S=\\frac{245}{4}",
+"summary_pl": "Ciag arytm.: $a_6=15$, $a_{15}=a_3(a_8-6)$; geom.: $b_1=a_{11}$, $b_2=a_6$. Suma $b_n$?"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "13",
+"why": [
+"no_diacritics"
+],
+"value": 6,
+"answer_tex": "\\eta=6",
+"summary_pl": "Ostroslup: przekroj dzieli krawedz $CD$ w stosunku $3{:}11$. Oblicz stos. $P_{calk}:P_{podst}$"
+},
+{
+"exam": "f2015-R-2025-czerwiec",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 20,
+"answer_tex": "a=4,\\ V_{max}=16",
+"summary_pl": "Graniastoslup, pole calk. $24\\sqrt3$, $V(a)=6a-\\frac18a^3$. Znajdz $a$ i $V_{max}$ (cz. b)"
+},
+{
+"exam": "f2015-R-2026-maj",
+"task": "3",
+"why": [
+"no_diacritics"
+],
+"value": 42,
+"answer_tex": "n=42",
+"summary_pl": "Najmniejsze $n$: $|\\frac{2n-5}{3n+2}-\\frac23|<\\frac{1}{20}$"
+},
+{
+"exam": "f2023-P-2022-wrzesien-diagnostyczna",
+"task": "3",
+"why": [
+"no_diacritics"
+],
+"value": 180,
+"answer_tex": "9\\cdot10\\cdot2=180",
+"summary_pl": "Ile 4-cyfr. liczb nieparz. podzielnych przez 25?"
+},
+{
+"exam": "f2023-P-2023-grudzien-diagnostyczna",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 3,
+"answer_tex": "k=3",
+"summary_pl": "$W(x)=-3x^3-x^2+kx+1$ podzielny przez $(x+1)$. Oblicz $k$"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 1.3333333333333333,
+"answer_tex": "x=\\frac{4}{3}",
+"summary_pl": "Rozwiaz $\\frac{x-8}{3x-7}=\\frac{5x}{3}$ dla $x\\in(\\frac54,\\infty)$"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 5,
+"answer_tex": "5",
+"summary_pl": "Suma rozwiazan $(3x-12)(10+5x)(x-3)=0$"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "15",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "1",
+"summary_pl": "Ciag $a_n=32\\cdot(-1)^n/2^{n-1}$. Oblicz $a_6$"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "16",
+"why": [
+"no_diacritics"
+],
+"value": -8,
+"answer_tex": "-8",
+"summary_pl": "Ciag arytm.: $r=-4$, $a_{10}=-24$. Oblicz $a_6$"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "17",
+"why": [
+"no_diacritics"
+],
+"value": -0.5,
+"answer_tex": "-\\frac{1}{2}",
+"summary_pl": "Ciag geom.: $a_3=-8a_6$. Oblicz iloraz"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "21.1",
+"why": [
+"no_diacritics"
+],
+"value": 80,
+"answer_tex": "80^\\circ",
+"summary_pl": "Okrag, $\\angle BDA=40^\\circ$, $\\angle DBC=65^\\circ$. Kat ostry $BSA$?"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "21.2",
+"why": [
+"no_diacritics"
+],
+"value": 31.41592653589793,
+"answer_tex": "10\\pi",
+"summary_pl": "Okrag jak w zad. 21: dlugosc luku $BC$ pod katem $CDB$"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "22.1",
+"why": [
+"no_diacritics"
+],
+"value": 10.392304845413264,
+"answer_tex": "6\\sqrt{3}",
+"summary_pl": "Trojkat: $AB=6$, $AC=4$, $\\angle CAB=60^\\circ$. Pole?"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "22.2",
+"why": [
+"no_diacritics"
+],
+"value": 5.291502622129181,
+"answer_tex": "2\\sqrt{7}",
+"summary_pl": "Ten sam trojkat: dlugosc boku $BC$?"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "24",
+"why": [
+"no_diacritics"
+],
+"value": 0,
+"answer_tex": "m=0",
+"summary_pl": "Dla jakiego $m$ proste $k$ i $l$ sa rownolegle?"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "26",
+"why": [
+"no_diacritics"
+],
+"value": 144.9948452238571,
+"answer_tex": "V=48, P_c=56\\sqrt{3}",
+"summary_pl": "Graniastoslup: oblicz objetosc i pole calk. (V+P_c)"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "27",
+"why": [
+"no_diacritics"
+],
+"value": 12.566370614359172,
+"answer_tex": "4\\pi",
+"summary_pl": "Walec: $r=2$, $V=16\\pi^2$. Oblicz wysokosc"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "29",
+"why": [
+"no_diacritics"
+],
+"value": 0.16666666666666666,
+"answer_tex": "P(A)=\\frac{1}{6}",
+"summary_pl": "Rzuty kostka: P(liczba nieparzysta i podzielna przez 3)"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 128,
+"answer_tex": "dominanta=1, srednia=2, procent=125",
+"summary_pl": "Diagram usterek: dominanta, srednia, procent (suma)"
+},
+{
+"exam": "f2023-P-2025-sierpien",
+"task": "31",
+"why": [
+"no_diacritics"
+],
+"value": 260,
+"answer_tex": "260 zl",
+"summary_pl": "Hotel: cena pokoju dajaca najwiekszy przychod"
+},
+{
+"exam": "f2023-P-2026-czerwiec",
+"task": "32",
+"why": [
+"no_diacritics"
+],
+"value": 1,
+"answer_tex": "x=1",
+"summary_pl": "Kwadrat $ABCD$, bok $4$. Dla jakiego $x=|CF|$ pole $DEF$ najmniejsze?"
+},
+{
+"exam": "f2023-P-2026-maj",
+"task": "30",
+"why": [
+"no_diacritics"
+],
+"value": 0.36,
+"answer_tex": "P(A)=\\frac{9}{25}",
+"summary_pl": "Losowanie cyfr z $X=\\{1,3,5,7,9\\}$, $Y=\\{0,2,4,6,8\\}$. $P$(podzielna przez 6)"
+},
+{
+"exam": "f2023-R-2022-grudzien-diagnostyczna",
+"task": "11",
+"why": [
+"no_diacritics"
+],
+"value": 71.5968,
+"answer_tex": "P=\\frac{27648}{625},\\ L=27.36",
+"summary_pl": "Trapez w okregu: $R=5$, $BC=6$, $\\frac{\\sin\\alpha}{\\sin\\beta}=\\frac58$ (P+L)"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": 7.853981633974483,
+"answer_tex": "x=\\frac{\\pi}{6}\\lor x=\\frac{\\pi}{4}\\lor x=\\frac{\\pi}{2}\\lor x=\\frac{3\\pi}{4}\\lor x=\\frac{5\\pi}{6}",
+"summary_pl": "Rozwiaz $\\cos2x+2\\cos^23x+\\cos4x=0$ (suma rozwiazan)"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": 61.25,
+"answer_tex": "\\frac{245}{4}",
+"summary_pl": "Ciagi arytm. i geom. powiazane: suma wyrazow $(b_n)$"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 6,
+"answer_tex": "6",
+"summary_pl": "Ostroslup: stosunek pola calk. do pola podstawy"
+},
+{
+"exam": "f2023-R-2025-czerwiec",
+"task": "12.2",
+"why": [
+"no_diacritics"
+],
+"value": 20,
+"answer_tex": "a=4, V=16",
+"summary_pl": "Graniastoslup: krawedz i najw. objetosc ($a+V$)"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "3",
+"why": [
+"no_diacritics"
+],
+"value": 45,
+"answer_tex": "45^\\circ",
+"summary_pl": "Trojkat rownoboczny $ABC$, $D$ na $BC$: oblicz kat $DAC$"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": -4.2,
+"answer_tex": "A=(\\frac{16}{5},-\\frac{13}{5}), B=(-1,-2), M=(\\frac{2}{5},-\\frac{11}{5})",
+"summary_pl": "Przeciecie okregow $O_1,O_2$: wspolrzedne $A,B,M$ (suma)"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "9",
+"why": [
+"no_diacritics"
+],
+"value": 1.0471975511965976,
+"answer_tex": "x=-\\frac{2\\pi}{3}\\lor x=-\\frac{\\pi}{6}\\lor x=\\frac{\\pi}{3}\\lor x=\\frac{5\\pi}{6}",
+"summary_pl": "Rozwiaz $3\\cos^2x+\\sqrt3\\sin2x-3\\sin^2x=0$ (suma rozw.)"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "10",
+"why": [
+"no_diacritics"
+],
+"value": 918,
+"answer_tex": "918",
+"summary_pl": "Ostroslup $ABCDS$: oblicz pole powierzchni bocznej"
+},
+{
+"exam": "f2023-R-2025-maj",
+"task": "12.2",
+"why": [
+"no_diacritics"
+],
+"value": 348.74763431434,
+"answer_tex": "h=5\\sqrt{3}, V=\\frac{125\\sqrt{3}\\pi}{2}",
+"summary_pl": "Stozek: wysokosc i najm. objetosc ($h+V$)"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 19.333333333333332,
+"answer_tex": "(x,y,z)=(1,3,9) \\lor (x,y,z)=\\left(\\frac19,\\frac79,\\frac{49}{9}\\right)",
+"summary_pl": "Ciag $(x,y,z)$: geom.->arytm.->geom. (suma x+y+z obu rozw.)"
+},
+{
+"exam": "f2023-R-2026-czerwiec",
+"task": "12",
+"why": [
+"no_diacritics"
+],
+"value": 13.639900109604907,
+"answer_tex": "P_{KLMN}=\\frac{63\\sqrt3}{8}",
+"summary_pl": "Ostroslup: pole przekroju $KLMN$ (trapez)"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "1",
+"why": [
+"no_diacritics"
+],
+"value": 0.3333333333333333,
+"answer_tex": "\\frac13",
+"summary_pl": "Oblicz granice ciagu z symbolem Newtona"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "2",
+"why": [
+"no_diacritics"
+],
+"value": 0.03571428571428571,
+"answer_tex": "P(A)=\\frac{1}{28}",
+"summary_pl": "P-stwo ciagu liczb z podzielnoscia iloczynow przez 3"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "6",
+"why": [
+"no_diacritics"
+],
+"value": -1026168,
+"answer_tex": "S=-1\\,026\\,168",
+"summary_pl": "Ciag arytm.: oblicz sume wszystkich wyrazow"
+},
+{
+"exam": "f2023-R-2026-maj",
+"task": "8",
+"why": [
+"no_diacritics"
+],
+"value": 7.70561208549239,
+"answer_tex": "a=3\\sqrt6,\\ \\cos\\beta=\\frac{5}{14}",
+"summary_pl": "Ostroslup trojkatny: krawedz $a$ i $\\cos\\beta$ (suma)"
+}
+]

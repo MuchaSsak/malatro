@@ -1,0 +1,10 @@
+- f2005-P-2013-maj task 32: value = sum of triangle angles (180), trivially uninformative -> drop
+- f2005-R-2010-sierpien task 8: triangle-angle sum 180 -> drop (generic rule: sum answers that are angle sums of a polygon)
+- generic: drop any entry with a `crop_issue` field (e.g. f2015-P-2024-sierpien 9,10,14 miss the function graph -> unsolvable from the card)
+- f2005-P-2010-listopad-probna 34, f2005-R-2014-czerwiec 8: two valid answer sets, low confidence -> already dropped by the confidence filter
+- PIPELINE GAP: 'Informacja do zadań X-Y' shared blocks (common graph/figure) are not prepended to each task crop in extract.py (seen f2015-P-2026-maj 8-12, f2015-P-2024-sierpien 9-15). Fix: detect the block, stitch it above each covered task, re-crop, then re-include tasks flagged crop_issue.
+- f2015-P-2025-czerwiec 17-18: shared triangle figure missing from crops (same pipeline gap, not flagged crop_issue)
+- FIXED: INFO_RE now matches "8.–10."; re-extracted 13 exams; cleared crop_issue on f2015-P-2020-maj#7, f2015-P-2020-maj#8, f2015-P-2020-maj#9, f2015-P-2023-maj#13, f2015-P-2024-sierpien#9, f2015-P-2024-sierpien#10, f2015-P-2024-sierpien#13, f2015-P-2024-sierpien#14, f2015-P-2024-sierpien#15, f2015-P-2025-sierpien#8, f2015-P-2025-sierpien#9, f2015-P-2025-sierpien#10, f2015-P-2025-sierpien#11, f2015-P-2025-sierpien#12, f2015-P-2025-sierpien#17, f2015-P-2025-sierpien#18, f2015-P-2025-sierpien#19, f2015-P-2025-sierpien#20, f2015-P-2025-maj#8, f2015-P-2025-maj#9, f2015-P-2026-maj#12. f2015-P-2024-czerwiec still needs re-extract after its annotation agent finishes.
+- re-extracted f2015-P-2024-czerwiec; cleared crop_issue on ['11', '12']
+- DONE: excluded f2005-P-2013-maj#32, f2005-R-2010-sierpien#8, f2015-P-2016-maj#32, f2015-R-2015-maj#4 (angle sums / "no solutions"=0)
+- FIXED: INFO_RE also matches "Informacja do zadań 10. i 11." and 2005-style "W zadaniach 8. i 9. wykorzystaj ..."; re-extracted f2015-P-2016-maj, f2015-P-2021-czerwiec, f2015-P-2022-czerwiec, f2005-P-2014-sierpien; cleared ['f2005-P-2014-sierpien#9']

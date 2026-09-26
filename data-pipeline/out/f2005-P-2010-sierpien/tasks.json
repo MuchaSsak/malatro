@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2010-sierpien",
+  "formula": "2005",
+  "level": "P",
+  "year": 2010,
+  "session": "sierpien",
+  "month": "08",
+  "code": "MMA-P1_1P-104",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2010-sierpien-poprawkowa-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2010-sierpien-poprawkowa-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2005-P-2010-sierpien.pdf",
+  "keyFile": "f2005-P-2010-sierpien-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin poprawkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 17,
+  "keyPages": 17,
+  "examBytes": 437025,
+  "keyBytes": 324330
+ },
+ "keyHead": "Egzamin maturalny z matematyki\nPoziom podstawowy\nOdpowiedzi do zadań zamkniętych\nNr zadania\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nOdpowiedź\nA C C B C\nA B C A D\nB\nC\nD\nB\nD\nC\nA\nB\nA\nA\nA\nC\nB\nA\nA\nSchemat oceniania zadań otwartych\nZadanie 26. (2 pkt)\n−\n+\n>\n2\nRozwiąż nierówność\nx\n14\nx\n24\n0\n.\nI sposób rozwiązania\nObliczamy pierwiastki trójmianu kwadratowego\n• obliczamy wyróżnik trójmianu kwadratowego i pierwiastki tego trójmianu:\n−\n+\n14 10\n14 10\nΔ =\n=\n=\n=\n=\n100\n,\nx\n2\n,\nx\n12\n1\n2\n2\n2\nalbo\n• stosujemy wzory Viète’a:\n+\n=\n⋅\n=\nx\nx\n14\noraz\nx\nx\n24\n1\n2\n1\n2\nx =\nx =\ni stąd\n2\n,\n12\n1\n2\nalbo\n• zapisujemy nierówność w postaci (\n)(\n)\n−\n−\n>\nx\n2\nx\n12\n0\n. Lewą stronę nierówności\nmożemy uzyskać np.:\no grupując wyrazy i wyłączając wspólny czynnik,\no korzystając z postaci kanonicznej\n(\n)\n(\n) (\n)\n(\n)(\n)\n2\n−\n−\n=\n−\n+\n⋅\n−\n−\n=\n−\n−\nx\n7\n25\nx\n7\n5\nx\n7\n5\nx\n2\nx\n12\n,\no podając postać iloczynową\nalbo\n• rysujemy fragment wykresu funkcji kwadratowej z zaznaczonymi miejscami\nzerowymi\n2\n12\nalbo\n• wskazujemy pierwiastki trójmianu\nx =\nx =\n2\n,\n12\n1\n2\n(\n)\n(\n)\nx∈−∞\n∪\n∞ .\n,2\n12,\nPodajemy rozwiązanie nierówności:\nEgzamin maturalny z matematyki\nPoziom podstawowy\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .....................................................................................................................1 pkt\ngdy wyznaczy pierwiastki trójmianu kwadratowego lub zapisze trójmian w postaci\niloczynowej i na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje .....................................................................................................................2 pkt\ngdy:\n•\n<\n>\npoda zbiór rozwiązań nierówności w postaci:\nx\n2 lub\nx\n12\nlub\n(\n)\n(\n∞  lub  (\n)\n)\n(\n)\nx∈−∞\n∪\n−∞\n∪\n∞\n, 2\n12,\n, 2\n12,\nalbo\n•\nsporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx <\nx >\n2\n12\nnierówności w postaci:\n,\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n2\n12\nII sposób rozwiązania\nZapisujemy nierówność w postaci\n(\n)\n2\nx −\n−\n>\n7\n25\n0\n, a następnie\n(\n)\n2\nx −\n>\n7\n5\n, a stąd\n<\n>\nx −\n>\n7\n5\n, więc\nx\n2 lub\nx\n12\n.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .....................................................................................................................1 pkt\nx −\n>\ngdy doprowadzi nierówność do postaci\n7\n5\ni na tym poprzestanie lub dalej popełni\nbłędy\nZdający otrzymuje .....................................................................................................................2 pkt\ngdy:\n• poda zbiór rozwiązań nierówności w postaci:\n<\n>\nx\n2 lub\nx\n12\n(\n)\n(\n∞  lub  (\n)\n)\n(\n)\nx∈−∞\n∪\n−∞\n∪\n∞\nlub\n, 2\n12,\n, 2\n12,\nalbo\n• sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx <\nx >\n2\n12\nnierówności w postaci:\n,\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n2\n12\n2\nEgzamin maturalny z matematyki\nPoziom podstawowy\nUwagi:\n1. Przyznajemy 2 punkty za rozwiązanie, w którym zdający od razu poda właściwą sumę\nprzedziałów.\n2. Przyznajemy 2 punkty za rozwiązanie, w którym zdający poprawnie obliczy pierwiastki\n(\n)\n(\n)\nx =\nx =\nx∈−∞−\n∪\n∞, popełniając tym samym błąd\ntrójmianu\n2\n,\n12\ni zapisze np.:\n, 2\n12,\nprzy przepisywaniu jednego z pierwiastków.\n3. Przyznajemy 1 punkt za rozwiązanie, w którym zdający popełni błąd w obliczaniu\n−−\nΔ\nb\npierwiastków (np. wstawi do wzoru Δ zamiast\nΔ , b zamiast\n− lub\n=\nb\nx\n1\n2\nc\n−−\nΔ\nb\n=\nzamiast\nx\n, popełni błąd stosując wzory Viète’a)  i konsekwentnie rozwiąże\n1\n2\na\nzadanie do końca.\n4. Przyznajemy 0 punktów zdającemu, który otrzyma niedodatni wyróżnik trójmianu\nkwadratowego, nawet jeśli konsekwentnie rozwiąże zadanie do końca (rozwiązuje inne\nzadanie).\n5. Przyznajemy 0 punktów zdającemu, który rozwiązuje nierówność inną niż w treści\nzadania.\n6. W związku z rozbieżnością w rozumieniu i używaniu spójników w języku potocznym\n(\n)\n(\n)\nx∈−∞\nx∈\n∞, ale\ni formalnym języku matematyki akceptujemy zapis, np.\n,2\ni\n12,\ntylko wówczas gdy zapisowi temu towarzyszy poprawna interpretacja geometryczna.\nZadanie 27. (2 punkty)\n−\n+\n−\n=\nRozwiąż równanie\nx\n3\n3\nx\n2\n2\nx\n6\n0\n.\nI sposób rozwiązania (grupowanie wyrazów)\nStosując metodę grupowania otrzymujemy:",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/1.webp",
+   "size": [
+    950,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nCena towaru bez podatku VAT jest równa 60 zł. Towar ten wraz z podatkiem VAT\nw wysokości 22% kosztuje\nA. 73,20 zł\nB. 49,18 zł\nC. 60,22 zł\nD. 82 zł",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/2.webp",
+   "size": [
+    950,
+    112
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\n2\n⋅\n4\nIloczyn\n81 9\njest równy\nA.\n43\nB.\n03\nC.\n3\n16\nD.\n3\n14",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/3.webp",
+   "size": [
+    950,
+    130
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n−\nRóżnica\nlog 9\nlog 1\njest równa\n3\n3\nA. 0\nB. 1\nC. 2\nD. 3",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/4.webp",
+   "size": [
+    950,
+    226
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\nWskaż nierówność, która opisuje przedział zaznaczony na osi liczbowej.\nx\n–4\n2\nx −\n<\nx +\n<\nx +\n>\nx −\n>\nA.\n1\n3\nB.\n1\n3\nC.\n1\n3\nD.\n1\n3",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/5.webp",
+   "size": [
+    950,
+    138
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\nWyrażenie (\n)(\n)\n−\n+\nx x\n1\nx\n1\njest równe\nA. (\n)\n3\nx −\nx −\n−\n1\nB.\n3\n1\nC.\n3x\nx\nD.\n3x",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/6.webp",
+   "size": [
+    950,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\nx =\n−\nKwadrat liczby\n2\n3\njest równy\n−\n+\nA. 7\n4 3\nB. 7\n4 3\nC. 1\nD. 7",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/7.webp",
+   "size": [
+    950,
+    261
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\nZbiorem rozwiązań nierówności (\n)\nx x +\n>\n5\n0\njest\nA. (\n)\n(\n)\n−∞\n∪\n+∞\n,0\n5,\nB. (\n)\n(\n)\n−∞−\n∪\n+∞\n, 5\n0,\nC. (\n)\n(\n)\n−∞−\n∪\n+∞\n, 5\n5,\nD. (\n)\n−\n+∞\n5,",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/8.webp",
+   "size": [
+    950,
+    237
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\n−\n2\nx\n4\n=\nRównanie (\n0\n)(\n)\n−\n+\nx\n4\nx\n4\nA. nie ma rozwiązań.\nB. ma dokładnie jedno rozwiązanie.\nC. ma dokładnie dwa rozwiązania.\nD. ma dokładnie cztery rozwiązania.",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/9.webp",
+   "size": [
+    950,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\n=\n+\n−\nWierzchołek paraboli\ny\nx\n2\n4\nx\n13\nleży na prostej o równaniu\nx = −\nx =\nx =\nx = −\nA.\n2\nB.\n2\nC.\n4\nD.\n4",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/10.webp",
+   "size": [
+    950,
+    117
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\n( )\n(\n)\n=\n−\n+ jest rosnąca\nWskaż m, dla którego funkcja liniowa\nf x\nm\n1\nx\n6\nm = −\nm =\nm =\nm =\nA.\n1\nB.\n0\nC.\n1\nD.\n2",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/11.webp",
+   "size": [
+    950,
+    376
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\nZbiorem wartości funkcji kwadratowej f jest przedział (\n−∞\n,3\n. Na którym rysunku\nprzedstawiono wykres funkcji f ?\nA.\nB.\nC.\nD.\ny\ny\ny\ny\n5\n5\n5\n5\n4\n4\n4\n4\n3\n3\n3\n3\n2\n2\n2\n2\n1\n1\n1\n1\nx\nx\nx\nx\n-5 -4 -3 -2 -1\n1\n2\n3\n4\n5\n-5 -4 -3 -2 -1\n1\n2\n3\n4\n5\n-5 -4 -3 -2 -1\n1\n2\n3\n4\n5\n-5 -4 -3 -2 -1\n1\n2\n3\n4\n5\n-1\n-1\n-1\n-1\n-2\n-2\n-2\n-2\n-3\n-3\n-3\n-3\n-4\n-4\n-4\n-4\n-5\n-5\n-5\n-5",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/12.webp",
+   "size": [
+    950,
+    336
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\n=\n+\na >\nb <\nNa którym rysunku przedstawiono wykres funkcji liniowej y\nax\nb\ntakiej, że\n0\ni\n0\n?\nA.\nB.\nC.\nD.\ny\ny\ny\ny\nx\nx\nx\nx",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/13.webp",
+   "size": [
+    950,
+    139
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\na\n( )\n(\n)\n=\nx ≠\nA =\nDo wykresu funkcji\nf x\ndla\n0\nnależy punkt\n2,6\n. Wtedy\nx\na =\na =\na =\na =\nA.\n2\nB.\n6\nC.\n8\nD.\n12",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/14.webp",
+   "size": [
+    950,
+    135
+   ],
+   "stem": "",
+   "text": "Zadanie 14.  (1 pkt)\nW ciągu arytmetycznym (\n)\na =\na =\nna\nmamy:\n5\ni\n11\n. Oblicz\n5a .\n2\n4\nA. 8\nB. 14\nC. 17\nD. 6",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/15.webp",
+   "size": [
+    950,
+    151
+   ],
+   "stem": "",
+   "text": "Zadanie 15.  (1 pkt)\nW malejącym ciągu geometrycznym (\n)\na = − i\na = −. Iloraz tego ciągu jest\nna\nmamy:\n2\n4\n1\n3\nrówny\n−\n−\nA.\n2\nB. 2\nC.\n2\nD.\n2",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/16.webp",
+   "size": [
+    950,
+    179
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\n3\nKąt α jest ostry i\nα =\n. Wtedy sinα jest równy\ncos\n4\nA. 1\n3\n7\n7\n4\nB.\n4\nC.\n4\nD.\n16",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/17.webp",
+   "size": [
+    950,
+    150
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\nOkrąg opisany na trójkącie równobocznym ma promień 12. Wysokość tego trójkąta jest\nrówna\nA. 18\nB. 20\nC. 22\nD. 24",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/18.webp",
+   "size": [
+    950,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nPrzekątna AC prostokąta ABCD ma długość 11, a bok AB jest od niej o 5 krótszy. Oblicz\ndługość boku AD.\nA.\n157\nB.\n85\nC. 5\nD.\n83",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/19.webp",
+   "size": [
+    950,
+    480
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nPunkty A, B, C, D, E, F, G, H, I, J dzielą okrąg o środku S na dziesięć równych łuków. Oblicz\nmiarę kąta wpisanego BGE zaznaczonego na rysunku.\nG\nF\nH\nE\nI\nS\nJ\nD\nC\nA\nB\nA. 54°\nB. 72°\nC. 60°\nD. 45°",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/20.webp",
+   "size": [
+    950,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\n(\n)\n(\n)\nA = −\nC = −\nPunkty\n1,3\ni\n5,5\nsą przeciwległymi wierzchołkami kwadratu ABCD. Pole tego\nkwadratu jest równe\nA. 10\nB. 25\nC. 50\nD. 100",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/21.webp",
+   "size": [
+    950,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\nOkrąg o równaniu (\n)\n(\n)\n2\n2\n+\n+\n−\n=\nx\n2\ny\n1\n13\nma promień równy\nA.\n13\nB.  13\nC.  8\nD.  2 2",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/22.webp",
+   "size": [
+    950,
+    173
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\n1\n= −\n+\nProsta l ma równanie\ny\nx\n7\n. Wskaż równanie prostej prostopadłej do prostej l.\n4\n1\n1\n=\n+\n= −\n−\n=\n−\n= −\n+\nA.\ny\nx\n1\nB.\ny\nx\n7\nC.\ny\n4\nx\n1\nD.\ny\n4\nx\n7\n4\n4",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/23.webp",
+   "size": [
+    950,
+    151
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nObjętość sześcianu jest równa 27 cm3. Jaka jest suma długości wszystkich krawędzi tego\nsześcianu?\nA. 18 cm\nB. 36 cm\nC. 24 cm\nD. 12 cm",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/24.webp",
+   "size": [
+    950,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nGraniastosłup ma 15 krawędzi. Ile wierzchołków ma ten graniastosłup?\nA. 10\nB. 5\nC. 15\nD. 30",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-sierpien/25.webp",
+   "size": [
+    950,
+    168
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\nZe zbioru liczb {\n}\n1, 2, 3, 4, 5, 6, 7, 8, 9,10,11 wybieramy losowo jedną liczbę. Niech p oznacza\nprawdopodobieństwo wybrania liczby będącej wielokrotnością liczby 3. Wówczas\np <\np =\np =\np >\nA.\n0,3\nB.\n0,3\nC.\n0,4\nD.\n0,4",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-sierpien/26.webp",
+   "size": [
+    947,
+    85
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\n−\n+\n>\n2\nRozwiąż nierówność\nx\n14\nx\n24\n0\n.",
+   "key": "Zadanie 26. (2 pkt)\n−\n+\n>\n2\nRozwiąż nierówność\nx\n14\nx\n24\n0\n.\nI sposób rozwiązania\nObliczamy pierwiastki trójmianu kwadratowego\n• obliczamy wyróżnik trójmianu kwadratowego i pierwiastki tego trójmianu:\n−\n+\n14 10\n14 10\nΔ =\n=\n=\n=\n=\n100\n,\nx\n2\n,\nx\n12\n1\n2\n2\n2\nalbo\n• stosujemy wzory Viète’a:\n+\n=\n⋅\n=\nx\nx\n14\noraz\nx\nx\n24\n1\n2\n1\n2\nx =\nx =\ni stąd\n2\n,\n12\n1\n2\nalbo\n• zapisujemy nierówność w postaci (\n)(\n)\n−\n−\n>\nx\n2\nx\n12\n0\n. Lewą stronę nierówności\nmożemy uzyskać np.:\no grupując wyrazy i wyłączając wspólny czynnik,\no korzystając z postaci kanonicznej\n(\n)\n(\n) (\n)\n(\n)(\n)\n2\n−\n−\n=\n−\n+\n⋅\n−\n−\n=\n−\n−\nx\n7\n25\nx\n7\n5\nx\n7\n5\nx\n2\nx\n12\n,\no podając postać iloczynową\nalbo\n• rysujemy fragment wykresu funkcji kwadratowej z zaznaczonymi miejscami\nzerowymi\n2\n12\nalbo\n• wskazujemy pierwiastki trójmianu\nx =\nx =\n2\n,\n12\n1\n2\n(\n)\n(\n)\nx∈−∞\n∪\n∞ .\n,2\n12,\nPodajemy rozwiązanie nierówności:\nEgzamin maturalny z matematyki\nPoziom podstawowy\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .....................................................................................................................1 pkt\ngdy wyznaczy pierwiastki trójmianu kwadratowego lub zapisze trójmian w postaci\niloczynowej i na tym poprzestanie lub dalej popełni błędy.\nZdający otrzymuje .....................................................................................................................2 pkt\ngdy:\n•\n<\n>\npoda zbiór rozwiązań nierówności w postaci:\nx\n2 lub\nx\n12\nlub\n(\n)\n(\n∞  lub  (\n)\n)\n(\n)\nx∈−∞\n∪\n−∞\n∪\n∞\n, 2\n12,\n, 2\n12,\nalbo\n•\nsporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx <\nx >\n2\n12\nnierówności w postaci:\n,\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n2\n12\nII sposób rozwiązania\nZapisujemy nierówność w postaci\n(\n)\n2\nx −\n−\n>\n7\n25\n0\n, a następnie\n(\n)\n2\nx −\n>\n7\n5\n, a stąd\n<\n>\nx −\n>\n7\n5\n, więc\nx\n2 lub\nx\n12\n.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .....................................................................................................................1 pkt\nx −\n>\ngdy doprowadzi nierówność do postaci\n7\n5\ni na tym poprzestanie lub dalej popełni\nbłędy\nZdający otrzymuje .....................................................................................................................2 pkt\ngdy:\n• poda zbiór rozwiązań nierówności w postaci:\n<\n>\nx\n2 lub\nx\n12\n(\n)\n(\n∞  lub  (\n)\n)\n(\n)\nx∈−∞\n∪\n−∞\n∪\n∞\nlub\n, 2\n12,\n, 2\n12,\nalbo\n• sporządzi ilustrację geometryczną (oś liczbowa, wykres) i zapisze zbiór rozwiązań\nx <\nx >\n2\n12\nnierówności w postaci:\n,\nalbo\n•\npoda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów:\nx\n2\n12\n2\nEgzamin maturalny z matematyki\nPoziom podstawowy\nUwagi:\n1. Przyznajemy 2 punkty za rozwiązanie, w którym zdający od razu poda właściwą sumę\nprzedziałów.\n2. Przyznajemy 2 punkty za rozwiązanie, w którym zdający poprawnie obliczy pierwiastki\n(\n)\n(\n)\nx =\nx =\nx∈−∞−\n∪\n∞, popełniając tym samym błąd\ntrójmianu\n2\n,\n12\ni zapisze np.:\n, 2\n12,\nprzy przepisywaniu jednego z pierwiastków.\n3. Przyznajemy 1 punkt za rozwiązanie, w którym zdający popełni błąd w obliczaniu\n−−\nΔ\nb\npierwiastków (np. wstawi do wzoru Δ zamiast\nΔ , b zamiast\n− lub\n=\nb\nx\n1\n2\nc\n−−\nΔ\nb\n=\nzamiast\nx\n, popełni błąd stosując wzory Viète’a)  i konsekwentnie rozwiąże\n1\n2\na\nzadanie do końca.\n4. Przyznajemy 0 punktów zdającemu, który otrzyma niedodatni wyróżnik trójmianu\nkwadratowego, nawet jeśli konsekwentnie rozwiąże zadanie do końca (rozwiązuje inne\nzadanie).\n5. Przyznajemy 0 punktów zdającemu, który rozwiązuje nierówność inną niż w treści\nzadania.\n6. W związku z rozbieżnością w rozumieniu i używaniu spójników w języku potocznym\n(\n)\n(\n)\nx∈−∞\nx∈\n∞, ale\ni formalnym języku matematyki akceptujemy zapis, np.\n,2\ni\n12,\ntylko wówczas gdy zapisowi temu towarzyszy poprawna interpretacja geometryczna."
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-sierpien/27.webp",
+   "size": [
+    947,
+    85
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\n−\n+\n−\n=\n3\n2\nRozwiąż równanie\nx\n3\nx\n2\nx\n6\n0\n.",
+   "key": "Zadanie 27. (2 punkty)\n−\n+\n−\n=\nRozwiąż równanie\nx\n3\n3\nx\n2\n2\nx\n6\n0\n.\nI sposób rozwiązania (grupowanie wyrazów)\nStosując metodę grupowania otrzymujemy:\nalbo (\n)\n(\n)\n(\n)\n(\n)\n2\n−\n+\n−\n=\n2\n+\n−\n2\n+\n=\nx\nx\n3\n2\nx\n3\n0\nx x\n2\n3\nx\n2\n0\nstąd\n)(\n)\n(\n−\n+\n=\n2\nx\n3\nx\n2\n0\n, a stąd\nx =\n3\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ................................................................................................................... 1 pkt\ngdy pogrupuje wyrazy do postaci, z której łatwo można doprowadzić do postaci\n(\n)\n(\n)\n(\n)\n(\n)\n2\n−\n+\n−\n=\n2\n+\n−\n2\n+\n=\niloczynowej, np.:\nx\nx\n3\n2\nx\n3\n0\nlub\nx x\n2\n3\nx\n2\n0\ni na tym\npoprzestanie lub dalej popełnia błędy\nZdający otrzymuje ................................................................................................................... 2 pkt\n=\ngdy poda rozwiązanie\nx\n3\n.\nUwagi:\n=\n1. Jeżeli zdający otrzyma rozwiązanie\nx\n3\ni poda dodatkowo inne rzeczywiste\nrozwiązanie, to otrzymuje 1 pkt.\n2. Zdający może od razu zapisać rozkład na czynniki. Jeśli na tym poprzestanie lub\nbłędnie poda rozwiązanie równania to otrzymuje 1 pkt.\n3\nEgzamin maturalny z matematyki\nPoziom podstawowy\nII sposób rozwiązania (dzielenie)\n( )\n=\n−⋅\n+ ⋅−= , więc jednym z pierwiastków tego\n3\n2\nSprawdzamy, że\nW\n3\n3\n3 3\n2 3 6\n0\nx = .\nwielomianu jest\n3\nx − i otrzymujemy\nx +\n2\nDzielimy wielomian przez dwumian\n3\n2\n. Mamy więc\n) (\n)\nrównanie w postaci (\n−\n⋅\n2\n+\n=\n=\nx\n3\nx\n2\n0\na stąd otrzymujemy\nx\n3\n.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ................................................................................................................... 1 pkt\nx −,  otrzyma iloraz\nx +\n2\ngdy wykona dzielenie wielomianu przez dwumian\n3\n2\ni na tym\npoprzestanie lub dalej popełnia błędy,\nZdający otrzymuje ................................................................................................................... 2 pkt\n=\ngdy poda rozwiązanie\nx\n3\n."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-sierpien/28.webp",
+   "size": [
+    950,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\nPiąty wyraz ciągu arytmetycznego jest równy 26, a suma pięciu początkowych wyrazów tego\nciągu jest równa 70. Oblicz pierwszy wyraz tego ciągu.",
+   "key": "Zadanie 28. (2 punkty)\nPiąty wyraz ciągu arytmetycznego jest równy 26, a suma pięciu początkowych wyrazów tego\nciągu jest równa 70. Oblicz pierwszy wyraz tego ciągu.\nI sposób rozwiązania\nKorzystamy ze wzoru ogólnego ciągu arytmetycznego i wzoru na sumę pięciu początkowych\n+\n=\n⎧⎪⎨\na\n4\nr\n26\n1\nwyrazów tego ciągu i zapisujemy układ równań, np.\n+\n. Rozwiązujemy układ\n2\na\n4\nr\n⋅=\n1\n5\n70\n⎪⎩\n2\nrównań i obliczamy\n1a :\n+\n=\n⎧\na\n4\nr\n26\n1\n⎨\n+\n=\n2\na\n4\nr\n28\n⎩\n1\n=\n−\n⎧\n4\nr\n26\na\n1\n⎨\n+\n−\n=\n2\na\n26\na\n28\n⎩\n1\n1\n=\n−\n⎧\nr\na\n4\n26\n1\n.\n⎨\n=\na\n2\n⎩\n1\nII sposób rozwiązania\nKorzystamy ze wzoru na sumę pięciu początkowych wyrazów ciągu arytmetycznego\na +\n26 5\n⋅=\na =\ni zapisujemy równanie\n1\n70\n. Następnie obliczamy\n2\n.\n1\n2\nIII sposób rozwiązania\nWypisujemy pięć kolejnych wyrazów ciągu arytmetycznego spełniającego podane warunki:\na =\n2, 8, 14, 20, 26, zatem\n2\n.\n1\n4\nEgzamin maturalny z matematyki\nPoziom podstawowy\nSchemat oceniania I, II i III sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy:\n+\n=\n⎧⎪⎨\na\n4\nr\n26\n1\na +\n26 5\n• zapisze układ równań, np.\n⋅=\nlub równanie, np.\n1\n70\ni na tym\n+\n2\na\n4\nr\n⋅=\n1\n2\n5\n70\n⎪⎩\n2\npoprzestanie lub dalej popełnia błędy\nalbo\n• błędnie obliczy\n1a .\nZdający otrzymuje .................................................................................................................... 2 pkt\na =\ngdy obliczy\n2\n.\n1\nUwaga:\na =\na =\nr =\n1. Jeśli zdający poda tylko\n2\nalbo\n2\ni\n6\nto przyznajemy 1 punkt.\n1\n1\n2. Zdający otrzymuje 2 punkty, jeżeli wypisze pięć początkowych wyrazów tego ciągu:\n2, 8, 14, 20, 26."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-sierpien/29.webp",
+   "size": [
+    950,
+    117
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\n(\n)\n=\n,4 −\nWyznacz równanie okręgu o środku w punkcie\nS\n2\ni przechodzącego przez punkt\n(\n)\nO =\n0,0\n.",
+   "key": "Zadanie 29. (2 punkty)\n(\n)\n=\n,4 −\nWyznacz równanie okręgu o środku w punkcie\nS\n2\ni przechodzącego przez punkt\n(\n)\nO =\n0,0\n.\nI sposób rozwiązania (z tw. Pitagorasa)\n• zapisujemy równanie okręgu w postaci (\n)\n(\n)\n2\n2\n−\n+\n+\n=\n2\nx\n4\ny\n2\nr\n• zaznaczamy współrzędne środka okręgu w prostokątnym układzie współrzędnych oraz\npunkt, przez który przechodzi ten okrąg\n• obliczamy długość promienia r\n=\nSO\n:\nr =\n+\nr =\n2\n4\n2\n2\n2\n20\n• podajemy równanie okręgu w postaci kanonicznej: (\n)\n(\n)\n2\n2\n−\n+\n+\n=\nx\n4\ny\n2\n20\nlub ogólnej\n+\n−\n+\n=\nx\n2\ny\n2\n8\nx\n4\ny\n0\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy:\n•\nwykorzysta\nwspółrzędne\nśrodka\ni\nzapisze\nrównanie\nokręgu\nw\npostaci\n(\n)\n(\n)\n2\n2\n+\n−\n+\n+\n=\n−\n+\n+\n=\n2\n2\n2\nx\n4\ny\n2\nr\nlub\nx\ny\n8\nx\n4\ny\nC\n0\nna tym poprzestając albo dalej\nbłędnie interpretuje dane zadania\nalbo\n5\nEgzamin maturalny z matematyki\nPoziom podstawowy\n(\n)\n•\nO =\nwykorzysta fakt, że okrąg przechodzi przez punkt\n0,0\n, błędnie wyznaczy długość\nr =\npromienia okręgu np.\n12\ni konsekwentnie do tego zapisze równanie\n(\n)\n(\n)\n2\n2\n−\n+\n+\n=\nx\n4\ny\n2\n12\nalbo\n•\nS = −\nbłędnie przyjmie, że środkiem okręgu jest punkt\n( 2,4)\ni konsekwentnie do tego\n1\nzapisze równanie (\n)\n(\n)\n2\n2\n+\n+\n−\n=\nx\n2\ny\n4\n20\nalbo\n•\nwyznaczy równanie okręgu popełniając błąd rachunkowy.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy:\nzapisze równanie okręgu w postaci kanonicznej (\n)\n(\n)\n2\n2\n•\n−\n+\n+\n=\nx\n4\ny\n2\n20\nlub ogólnej\n2\n+\n2\n−\n+\n=\nx\ny\n8\nx\n4\ny\n0\n.\nII sposób rozwiązania (odległość między dwoma punktami)\n• zapisujemy równanie okręgu w postaci np.: (\n)\n(\n)\n2\n2\n−\n+\n+\n=\n2\nx\n4\ny\n2\nr\n(\n)\nO =\n0,0\n• obliczamy odległość punktu\nod środka okręgu:\n(\n)\n(\n)\n2\n2\nOS =\n−\n+ −−\n=\n4\n0\n2\n0\n20\n• podajemy równanie okręgu w postaci kanonicznej:(\n)\n(\n)\n2\n2\n−\n+\n+\n=\nx\n4\ny\n2\n20\nlub ogólnej\n+\n−\n+\n=\n2\n2\nx\ny\n8\nx\n4\ny\n0\n.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy:\n• wykorzysta\nwspółrzędne\nśrodka\ni\nzapisze\nrównanie\nokręgu\nw\npostaci\n(\n)\n(\n)\n2\n2\n−\n+\n+\n=\n2\n2\n+\n2\n−\n+\n+\n=\nx\n4\ny\n2\nr\nlub\nx\ny\n8\nx\n4\ny\nC\n0\nna tym poprzestając albo dalej\n2r może być dowolna liczba dodatnia)\nbłędnie interpretuje dane z zadania (np.  zamiast\nalbo\n•\nobliczy długość promienia okręgu korzystając z odległości dwóch punktów\n(\n)\n(\n)\n2\n2\nOS =\n−\n+ −−\n=\n=\nnp.\n4\n0\n2\n0\n20\n2 5\ni nie poda równania okręgu lub poda je\nbłędnie np. (\n)\n(\n)\n2\n2\n+\n+\n−\n=\nx\n4\ny\n2\n20\nalbo\n•\nS = −\nbłędnie przyjmie, że środkiem okręgu jest punkt\n( 2,4)\ni konsekwentnie do tego\n1\nzapisze równanie (\n)\n(\n)\n2\n2\n+\n+\n−\n=\nx\n2\ny\n4\n20\nalbo\n•\nwyznaczy równanie okręgu popełniając błąd rachunkowy.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy:\n6\nEgzamin maturalny z matematyki\nPoziom podstawowy\nzapisze równanie okręgu w postaci kanonicznej (\n)\n(\n)\n2\n2\n•\n−\n+\n+\n=\nx\n4\ny\n2\n20\nlub ogólnej\n+\n−\n+\n=\n2\n2\nx\ny\n8\nx\n4\ny\n0\n.\nUwaga:\nJeśli zdający zapisze od razu wzór (\n)\n(\n)\n2\n2\n−\n+\n+\n=\nto przyznajemy 2 punkty.\nx\n4\ny\n2\n20"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-sierpien/30.webp",
+   "size": [
+    947,
+    87
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\n(\n)\n(\n)\n(\n)\nA =\nB =\nC =\nWykaż, że trójkąt o wierzchołkach\n3,8\n,\n1,2\n,\n6,7\njest prostokątny.",
+   "key": "Zadanie 30. (2 punkty)\n(\n)\n(\n)\n(\n)\nA =\nB =\nC =\nWykaż, że trójkąt o wierzchołkach\n3,8\n,\n1,2\n,\n6,7\njest prostokątny.\nI sposób rozwiązania  (z tw. Pitagorasa)\n=\n=\n=\n•   Obliczamy długości  boków trójkąta\nAB\n2\n10\n,\nAC\n10\n,\nBC\n5\n2\n•  Obliczamy sumę kwadratów dwóch boków trójkąta, np.\n2\n2\n2\n+\n=\n+\n=\n=\nAB\nAC\n40\n10\n50\nBC\nMożemy w takim przypadku wywnioskować, że dane wierzchołki A, B, C są wierzchołkami\ntrójkąta prostokątnego.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy\n• obliczy długości boków trójkąta ABC:\n=\n=\n=\n=\n=\nAB\n40\n2 10,\nAC\n10,\nBC\n50\n5 2\nalbo\n• obliczy długość jednego boku z błędem, a pozostałe poprawnie i konsekwentnie\nwyciągnie wniosek\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy przeprowadzi pełne rozumowanie np.\n• obliczy długości boków trójkąta ABC:\n=\n=\n=\n=\n=\nAB\n40\n2 10,\nAC\n10,\nBC\n50\n5 2\n,\nskorzysta z twierdzenia odwrotnego do twierdzenia Pitagorasa i stwierdzi na tej\npodstawie, że trójkąt jest prostokątny.\nII sposób rozwiązania  (współczynniki kierunkowe prostych)\nWyznaczamy współczynniki kierunkowe prostych AB, AC, BC\n−\n−\n−\n2\n8\n7\n8\n1\n7\n2\n=\n=\n=\n=\n−\n=\n=\na\n3\n,\na\n,\na\n1\nAB\n−\nAC\n−\nBC\n−\n1\n3\n6\n3\n3\n6\n1\n−, więc są to proste\nIloczyn współczynników kierunkowych prostych AB i BC jest równy 1\nprostopadłe, a tym samym trójkąt ABC jest trójkątem prostokątnym.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy\n• obliczy współczynniki kierunkowe prostych AB i AC i na tym poprzestanie\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy\n7\nEgzamin maturalny z matematyki\nPoziom podstawowy\n• przeprowadzi pełne rozumowanie, np. wyznaczy iloczyn współczynników kierunkowych\nprostych AB i BC i stwierdzi, że proste są prostopadłe, więc trójkąt jest prostokątny.\nIII sposób rozwiązania  (iloczyn skalarny)\nJJJG\nJJJG\n[\n]\n[\n]1\n=\n−\n,2 −\n=\n,3 −\nObliczamy współrzędne wektorów AB , AC i BC\n:\nAB\n6\n,\nAC\ni\nBC =\n.\n[5,5]\n(\n)\n(\n) (\n)\n⋅AC\n=\n−\n⋅\n+\n−\n⋅\n−\n=\nObliczamy iloczyn skalarny wektorów\nAB\n2\n3\n6\n1\n0\n.\nJeżeli iloczyn skalarny wektorów równa się zero to wektory są prostopadłe, a tym samym\ntrójkąt ABC jest prostokątny.\nSchemat oceniania III sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy\nJJJG\nJJJG\n• obliczy współrzędne wektorów AB\ni AC\ni na tym poprzestanie.\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy\n• przeprowadzi pełne rozumowanie wykaże za pomocą wektorów, że trójkąt jest\nprostokątny.\nIV sposób rozwiązania  (okrąg opisany na trójkącie prostokątnym)\n=\n=\n=\nObliczamy długości boków trójkąta\nAB\n2\n10\n,\nAC\n10\n,\nBC\n5\n2\n.\nJeżeli trójkąt ABC jest prostokątny to środek najdłuższego boku jest środkiem okręgu\nopisanego na tym trójkącie.\nNajdłuższym bokiem trójkąta ABC jest BC , więc wyznaczamy współrzędne środka odcinka\n⎛\n7\n9\n⎞\n=\n⎜\n⎟\nBC :\nS\n,\n.\n⎝\n2\n2\n⎠\n5\n= SC\n=\nObliczamy odległość punktu S od wierzchołków A, B, C :\nBS\n2\n2\n2\n2\n⎛\n7\n⎞\n⎛\n9\n⎞\n1\n49\n50\n5\n=\n−\n+\n−\n=\n+\n=\n=\n⎜\n⎟\n⎜\n⎟\nAS\n3\n8\n2\n.\n⎝\n2\n⎠\n⎝\n2\n⎠\n4\n4\n4\n2\nOdległość środka odcinka BC jest taka sama od wszystkich wierzchołków trójkąta ABC, więc\ntrójkąt ten jest prostokątny.\nSchemat oceniania IV sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy\n• obliczy długości boków trójkąta ABC:\n=\n=\n=\n=\n=\nAB\n40\n2 10,\nAC\n10,\nBC\n50\n5 2\nalbo\n• obliczy długość jednego boku z błędem, a pozostałe poprawnie i konsekwentnie do tego\nwyciągnie poprawny wniosek\nalbo\n8\nEgzamin maturalny z matematyki\nPoziom podstawowy\n⎛\n7 9\n⎞\n• wyznaczy współrzędne\n= ⎜\nS\n,\nśrodka odcinka BC i obliczy długość odcinka AS.\n⎟\n⎝\n2 2\n⎠\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy przeprowadzi pełne rozumowanie\n• wykaże, że BC jest średnicą okręgu opisanego na trójkącie ABC i stwierdzi, że ten trójkąt\njest prostokątny\nV sposób rozwiązania  (graficzny)\n(\n)\n(\n)\n(\n)\nA =\nB =\nC =\nZaznaczamy wierzchołki trójkąta\n3,8\n,\n1,2\n,\n6,7\n9\n3\n1\n8\n1\n7\n3\n6\n5\n4\n3\n2\n1\n-1\n1\n2\n3\n4\n5\n6\n7\nWykazujemy, że trójkąt jest prostokątny na podstawie dokładnego rysunku w układzie\nwspółrzędnych.\nSchemat oceniania V sposobu rozwiązania\nZdający otrzymuje .................................................................................................................... 1 pkt\ngdy\n• na\npodstawie\npunktów\nkratowych\npoda\ndługości\nboków\ntrójkąta\nABC:\n=\n=\n=\n=\n=\nAB\n40\n2 10,\nAC\n10,\nBC\n50\n5 2\nZdający otrzymuje .................................................................................................................... 2 pkt\ngdy przeprowadzi pełne rozumowanie np.\n• wykaże, że trójkąt jest prostokątny na podstawie dokładnego rysunku w układzie\nwspółrzędnych, np.\n9\nEgzamin maturalny z matematyki\nPoziom podstawowy\n9\n3\n1\n8\n1\n7\n3\n6\n5\n4\n3\n2\n1\n-1\n1\n2\n3\n4\n5\n6\n7\nUwaga:\nJeżeli zdający na rysunku jak wyżej wyróżni oprócz wierzchołków tylko punkt kratowy\no współrzędnych (\n)\n2,5 i na tym poprzestanie, to otrzymuje 1 punkt."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-sierpien/31.webp",
+   "size": [
+    947,
+    91
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\na >\nb >\n2\n+\n=\n+\n2\n=\n+\n= .\nWykaż, że jeżeli\n0\ni\n0\noraz\na\nb\na\nb\n, to a\nb\nlub\na\nb\n1",
+   "key": "Zadanie 31. (2 punkty)\na >\nb >\n+\n=\n+\n=\n+\n= .\n2\n2\nWykaż, że jeżeli\n0\ni\n0\noraz\na\nb\na\nb\n, to a\nb\nlub\na\nb\n1\nRozwiązanie\nPrzekształcamy równość zapisaną z treści zadania\n( )\n2\n2\n+\n=\n+\n2\na\nb\na\nb\n2\n+\n=\n+\n2\na\nb\na\nb\n2\n−\n2\n+\n−\n=\na\nb\nb\na\n0\n(\n)(\n) (\n)\n−\n+\n−\n−\n=\na\nb\na\nb\na\nb\n0\n(\n)(\n)\n−\n+\n−\n=\na\nb\na\nb\n1\n0\n−\n=\n+\n−=\na\nb\n0 lub\na\nb\n1\n0\n=\n+\n=\na\nb\nlub\na\nb\n1\nco należało wykazać.\nSchemat oceniania\nZdający otrzymuje .................................................................................................................... 1 pkt\n2\n+\n=\n+\n2\ngdy poprawnie przekształci równość\na\nb\na\nb\npozbywając się pierwiastków\ni w otrzymanej równości zastosuje wzór skróconego mnożenia na różnicę kwadratów,\npisząc np.:  (\n)(\n)\n−\n+\n−\n+\n=\na\nb\na\nb\na\nb\n0\ni tym poprzestanie lub dalej popełnia błędy.\nZdający otrzymuje .................................................................................................................... 2 pkt\n=\n+\n= ..\ngdy przeprowadzi pełne rozumowanie zakończone wnioskiem, że a\nb\nlub\na\nb\n1\nUwaga:\nJeżeli zdający podstawi konkretne wartości w miejsce a i b, to przyznajemy 0 punktów.\n10\nEgzamin maturalny z matematyki\nPoziom podstawowy"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2010-sierpien/32.webp",
+   "size": [
+    950,
+    136
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\nRzucamy dwukrotnie sześcienną kostką do gry. Oblicz prawdopodobieństwo zdarzenia\npolegającego na tym, że suma liczb oczek otrzymanych na obu kostkach jest większa od 6\ni iloczyn tych liczb jest nieparzysty.",
+   "key": "Zadanie 32. (4 punkty)\nRzucamy dwukrotnie sześcienną kostką do gry. Oblicz prawdopodobieństwo zdarzenia\npolegającego na tym, że suma liczb oczek otrzymanych na obu kostkach jest większa od 6\ni iloczyn tych liczb jest nieparzysty.\nI sposób rozwiązania  (klasyczna definicja prawdopodobieństwa)\nZdarzeniami elementarnymi są wszystkie pary ( , )\nx y liczb naturalnych ze zbioru\n{1,2,3,4,5,6}. Zdarzenia jednoelementowe są równoprawdopodobne, mamy model\nΩ =\n⋅\n=\nklasyczny,\n6 6\n36\n.\nOznaczając przez A zdarzenie - suma liczb oczek otrzymanych na obu kostkach jest większa\nod 6 i iloczyn tych liczb jest nieparzysty, otrzymujemy\n1\n{\n}\n(\n) (\n)\n( )\nA =\nA =\nP A =\n5,3 , 3,5 ,(5,5)\n,\n3\ni\n.\n12\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do\ncałkowitego rozwiązania zadania.............................................................................................. 1 pkt\nΩ =\nZdający zapisze, że\n36\nalbo wypisze wszystkie zdarzenia elementarne sprzyjające\n{\n}\n(\n) (\n)\nA =\nzdarzeniu A:\n5,3 , 3,5 ,(5,5)\ni na tym zakończy lub dalej rozwiązuje błędnie.\nRozwiązanie, w którym jest istotny postęp ............................................................................. 2 pkt\n{\n}\n(\n) (\n)\nΩ =\nA =\nZdający zapisze, że\n36\ni\n5,3 , 3,5 ,(5,5)\ni na tym zakończy lub dalej rozwiązuje\nbłędnie.\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\ni na tym zakończy lub dalej rozwiązuje błędnie\nΩ =\nA =\nZdający zapisze, że\n36\ni\n3\nRozwiązanie bezbłędne .............................................................................................................. 4 pkt\n1\nObliczenie prawdopodobieństwa zdarzenia A: ( )\nP A =\n12\nUwaga\nJeśli zdający zapisze, że ( )\nP A > , to otrzymuje 0 pkt.\n1\nII sposób rozwiązania (metoda drzewa)\nRysujemy drzewo dla danego doświadczenia losowego. Prawdopodobieństwo na każdym jego\n1 . Pogrubione gałęzie ilustrują zdarzenie opisane w treści zadania.\nodcinku jest równe 6\n11\nEgzamin maturalny z matematyki\nPoziom podstawowy\n1\n2\n4\n6\n3\n5\n1\n1\n1\n1\n1\n1\n1\n⋅\n+\n⋅\n+\n⋅\n=\nPrawdopodobieństwo tego zdarzenia jest równe\n.\n6\n6\n6\n6\n6\n6\n12\nUwaga:\nMożemy narysować fragment drzewa - pogrubione gałęzie na rysunku.\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do\ncałkowitego rozwiązania zadania.............................................................................................. 1 pkt\nZdający narysuje drzewo i na tym zakończy lub dalej rozwiązuje błędnie.\nRozwiązanie, w którym jest istotny postęp ............................................................................. 2 pkt\nZdający narysuje drzewo, zapisze prawdopodobieństwa na jego gałęziach i na tym\nzakończy lub dalej rozwiązuje błędnie.\nUwagi:\n• Oceniamy rozwiązanie na 0 punktów, gdy w dalszej części rozwiązania zdający dodaje\nprawdopodobieństwa wzdłuż gałęzi zamiast mnożyć albo mnoży otrzymane iloczyny\nzamiast dodawać.\n• Dopuszcza się błąd w zapisaniu prawdopodobieństwa na jednej gałęzi drzewa (traktujemy\njako błąd nieuwagi).\n• Jeżeli zdający opisał prawdopodobieństwa tylko na istotnych gałęziach, to kwalifikujemy\nto do kategorii „pokonanie zasadniczych trudności zadania”.\n• Jeżeli zdający narysował „inteligentne drzewo” i opisał prawdopodobieństwa na jego\ngałęziach, to kwalifikujemy to do kategorii „pokonanie zasadniczych trudności zadania”.\n• Jeżeli rozwiązujący popełni błąd rachunkowy lub nieuwagi i na tym zakończy,\nto otrzymuje 2 punkty.\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\n• Zdający wskaże na drzewie właściwe gałęzie (np. pogrubienie gałęzi lub zapisanie\nprawdopodobieństw tylko na istotnych gałęziach).\nRozwiązanie bezbłędne .............................................................................................................. 4 pkt\nObliczenie prawdopodobieństwa: 1\n12\nIII sposób rozwiązania  (tabela)\n12\nEgzamin maturalny z matematyki\nPoziom podstawowy\nRysujemy tabelę o wymiarach 6x6, w tabeli jest 36 pól. Zaznaczamy pola sprzyjające\nzdarzeniu opisanemu w treści zadania i obliczamy prawdopodobieństwo.\nSchemat oceniania III sposobu rozwiązania\nTak jak w I sposobie."
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2010-sierpien/33.webp",
+   "size": [
+    950,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\nDany jest graniastosłup prawidłowy trójkątny ABCDEF o podstawach ABC i DEF\nAB =\ni krawędziach bocznych AD, BE i CF. Oblicz pole trójkąta ABF wiedząc, że\n10\nCF =\ni\n11\n. Narysuj ten graniastosłup i zaznacz na nim trójkąt ABF.",
+   "key": "Zadanie 33. (4 punkty)\nDany jest graniastosłup prawidłowy trójkątny ABCDEF o podstawach ABC i DEF\nAB =\ni krawędziach bocznych AD, BE i CF. Oblicz pole trójkąta ABF wiedząc, że\n10\nCF =\ni\n11\n. Narysuj ten graniastosłup i zaznacz na nim trójkąt ABF.\nI sposób rozwiązania\nZe wzoru na wysokość trójkąta równobocznego mamy\nF\nSC =\n5 3\n. Z twierdzenia Pitagorasa dla trójkąta SCF\n(\n)\n2\nh =\n2\n+\n=\n=\ndostajemy\n11\n5 3\n196\n14\n, więc\nD\nE\npola trójkąta ABF jest równe\n1\n1\n=\n⋅\n⋅\n=\n⋅\n⋅\n=\nP\nAB\nh\n10\n14\n70\n.\n2\n2\nUwaga 1.\nb\nSC =\nZamiast\nobliczać\n5 3\nmożemy\nrównież\nh\nobliczyć z twierdzenia Pitagorasa dla trójkąta BEF\ndługość\nprzeciwprostokątnej\nBF\ntego\ntrójkąta\nC\nb =\n+\nb =\n≈\n(\n2\n2\n221\n14,87\n),\na\ndalej\nz\n11\n10\n,\n.\ntwierdzenia Pitagorasa dla trójkąta SBF długość\n=\n−\n=\n=\nodcinka FS, czyli h (\nh\n221\n25\n196\n14\n).\nB\nA\nS\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze\ndo całkowitego rozwiązania zadania ........................................................................................ 1 pkt\nNarysowanie graniastosłupa i zaznaczenie na rysunku trójkąta ABF.\nRozwiązanie, w którym jest istotny postęp.............................................................................. 2 pkt\n• obliczenie wysokości SC trójkąta równobocznego ABC:\nSC =\n5 3\nalbo\n• obliczenie długości przekątnej ściany bocznej b\n=\nb =\nAF\n:\n221\n.\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\n=\nh =\nObliczenie h\nFS\nwysokości trójkąta ABF:\n14\n.\nZostały pokonane zasadnicze trudności zadania, ale w trakcie ich pokonywania\nzostały popełnione błędy rachunkowe, usterki........................................................................ 2 pkt\nRozwiązanie bezbłędne .............................................................................................................. 4 pkt\nP =\nObliczenie pola trójkąta ABF:\n70\n.\n13\nEgzamin maturalny z matematyki\nPoziom podstawowy\nII sposób rozwiązania\n1) Narysowanie graniastosłupa i zaznaczenie na rysunku trójkąta ABF.\n=\n2) Obliczenie b\nAF\n(długości przekątnej ściany bocznej) z twierdzenia Pitagorasa\nb =\n+\nb =\n≈\n2\n2\ndla trójkąta ACF:\n11\n10\nstąd\n221\n14,87\n.\n+\n10\n2 221\n=\n=\n+\n3) Obliczenie p połowy obwodu trójkąta ABF:\np\n5\n221\n.\n2\n4) Obliczenie pola trójkąta ABF np. ze wzoru Herona:\n(\n) (\n) (\n)\n(\n)(\n)\n2\nP =\n+\n⋅\n+ −\n⋅\n+ −\n=\n−\n+\n221\n5\n221\n5\n221\n221\n5 10\n25\n221\n5\n221\n5\n:\nP =\n70\n.\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do\ncałkowitego rozwiązania zadania.............................................................................................. 1 pkt\nNarysowanie graniastosłupa i zaznaczenie na rysunku trójkąta ABF.\nRozwiązanie, w którym jest istotny postęp.............................................................................. 2 pkt\n=\nb =\nObliczenie długości przekątnej ściany bocznej b\nAF\n:\n221\n.\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\np =\n+\nObliczenie p połowy obwodu trójkąta ABF:\n221\n5\n.\nZostały pokonane zasadnicze trudności zadania, ale w trakcie ich pokonywania\nzostały popełnione błędy rachunkowe, usterki........................................................................ 2 pkt\nRozwiązanie bezbłędne .............................................................................................................. 4 pkt\nP =\nObliczenie pola trójkąta ABF:\n70\n.\nUwaga:\nJeżeli zdający zastosuje poprawnie wzór Herona, doprowadzając rozwiązanie do końca, ale\nw trakcie obliczania pola popełni błąd rachunkowy wcześniej bezbłędnie obliczając połowę\nobwodu trójkata,  to otrzymuje 3 punkty za całe rozwiązanie.\nIII sposób rozwiązania\n1) Narysowanie graniastosłupa i zaznaczenie na rysunku trójkąta ABF .\n=\n2) Obliczenie b\nAF\n(długości przekątnej ściany bocznej) z twierdzenia Pitagorasa dla\nb =\n+\nb =\n≈\n2\n2\ntrójkąta ACF:\n11\n10\n, stąd\n221\n14,87\n.\n2\n=\n−\n2\n2\n3) Obliczenie cosinusa kąta AFB:\nAB\n2\nb\n2\nb\ncos\n)\nAFB\n,\n171\n=\n⋅\n−⋅\nAFB =\n100\n2 221 2 221cos\n)\nAFB\nstąd\ncos\n)\n221\n2\n⎛\n171\n⎞\n140\n=\n−⎜\nAFB =\n4) Obliczenie sinusa kąta AFB\nsin\n)\nAFB\n1\n:\nsin\n)\n.\n⎟\n⎝\n221\n⎠\n221\n2 sin\nb\n)\nAFB\nP =\nP =\n5) Obliczenie pola trójkąta ABF ze wzoru\n:\n70\n.\n2\n14\nEgzamin maturalny z matematyki\nPoziom podstawowy\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze do\ncałkowitego rozwiązania zadania.............................................................................................. 1 pkt\nNarysowanie graniastosłupa i zaznaczenie na rysunku trójkąta ABF.\nRozwiązanie, w którym jest istotny postęp.............................................................................. 2 pkt\n=\nb =\nObliczenie długości przekątnej ściany bocznej b\nAF\n:\n221\n.\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\n140\nAFB =\nObliczenie sinusa kąta AFB:\nsin\n)\n.\n221\nZostały pokonane zasadnicze trudności zadania, ale w trakcie ich pokonywania\nzostały popełnione błędy rachunkowe, usterki........................................................................ 2 pkt\nRozwiązanie bezbłędne .............................................................................................................. 4 pkt\nP =\nObliczenie pola trójkąta ABF:\n70\n."
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2010-sierpien/34.webp",
+   "size": [
+    950,
+    136
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (5 pkt)\nKolarz przejechał trasę długości 60 km. Gdyby jechał ze średnią prędkością większą\no 1 km/h, to przejechałby tę trasę w czasie o 6 minut krótszym. Oblicz, z jaką średnią\nprędkością jechał ten kolarz.",
+   "key": "Zadanie 34. (5 punktów)\nKolarz przejechał trasę długości 60 km. Gdyby jechał ze średnią prędkością większą\no 1 km/h, to przejechałby tę trasę w czasie o 6 minut krótszym. Oblicz, z jaką średnią\nprędkością jechał ten kolarz.\nRozwiązanie\nOznaczamy przez v średnią prędkość kolarza, a przez t czas pokonania całej trasy\nw godzinach.\nZ warunków zadania zapisujemy\n60\n60\n(\n)(\n)\n=\n+\n−\n+ = −\n−\n=\n60\nv\n1\nt\n0,1\nlub\nv\n1\nlub\nt\n0,1\n+\nt\n0,1\nv\n1\nRozwiązujemy układ równań\n⎧\n⎧⎪⎨\n= ⋅\n⎧\n60\nv t\n= ⋅\n= ⋅\n60\nv t\n60\nv t\n⎪⎪⎨\n⎪⎪⎨\n(\n)(\n)\n=\n+\n−\n60\nv\n1\nt\n0,1\n⎪⎩\n60\n60\n⎪−\n⎪+ =\n=\n⎧=\nt\n0,1\n60\nv\n1\n⎪\nt\n⎩\n+\n⎪\nv\n1\n−\n⎪⎪⎨\nt\n0,1\n⎩\nv\n⎧=\n60\n⎧=\n60\nv\n⎛\n60\n⎞\n⎪\n⎪\nv\n(\n)\n⎪⎪⎨\n=\n+\n−\nt\n60\nv\n1\n0,1\n⎜\n⎟\nt\n⎪⎪⎨\n⎪\n⎝\nv\n⎠\n⎩\n60\n60\n(\n)\n⎪\n+\n+ =\n60\nv\n1\n1\n60\n(\n)\n⎪−\n=\n−\n+\n⋅\n⎪\n=\n60\n0,1\nv\n1\nv\n−\nt\nt\n0,1\nt\n0,1\n⎩\n⎪\n60\nv\n+\n(\n)(\n)\n1\n+\n−\n=\n⎪⎩\n60\nt\nt\n0,1\n60\nt\n=\n+\n−\n2\n−\n60\nv\n60\nv\n60\n0,1\nv\n0,1\nv\nt\n(\n)(\n)\n+\n2\n−\n−\n=\n60\nt\nt\n0,1\nt\n6\n60\nt\n+\n−\n=\n2\n+\n−\n=\n⋅\n60\nt\nt\n0,1\n60\nt\n0,1\nv\n0,1\nv\n60\n0 10\n2\n−\n−\n=\nt\n0,1\nt\n6\n0\ni dalej jak w poprzednim\n2\n+ −\n=\nv\nv\n600\n0\nΔ =\n24,01\nrozwiązaniu.\nΔ =\n2401\n=\n= −\nt\n2,5 lub\nt\n2,4\n=\n= −\nv\n24 lub\nv\n25\n1\n2\n1\n2\n2t nie spełnia\n2v nie spełnia warunków\nzadania (\nwarunków zadania\n)\nv >\n0\n15\nEgzamin maturalny z matematyki\nPoziom podstawowy\nzadania (\n)\n(\n)\nv >\nt >\n0\n0\nObliczamy\n60\nv =\n=\n24\n2,5\nSchemat oceniania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny na drodze\ndo całkowitego rozwiązania zadania ........................................................................................ 1 pkt\nZapisanie równania w sytuacji domniemanej (t oznacza czas pokonania całej trasy\nw godzinach, a v średnią prędkość kolarza w kilometrach na godzinę)\n(\n)(\n)\n•\n=\n+\n−\n60\nv\n1\nt\n0,1\nalbo\n60\n•\n+ = −\nv\n1\nt\n0,1\nalbo\n60\n•\n−\n=\nt\n0,1\n+\nv\n1\nalbo\nv t⋅=\n60\nUwaga\n(\n)(\n)\n=\n+\n+\nPrzyznajemy 0  pkt, jeżeli zdający napisze, że\n60\nv\n1\nt\n0,1\nlub równoważne (tzn. wg\nzdającego kolarz jadący szybciej jedzie dłużej).\nRozwiązanie, w którym jest istotny postęp.............................................................................. 2 pkt\nZapisanie układu równań z niewiadomymi v i  t - odpowiednio z prędkością i czasem\n⎧\n⎧\n= ⋅\n60\nv t\n= ⋅\n60\nv t\n⎪⎪⎨\n⎪⎪⎨\n⎧⎪⎨\n= ⋅\n60\nv t\nalbo\nalbo\n.\n(\n)(\n)\n=\n+\n−\n60\nv\n1\nt\n0,1\n60\n60\n⎪⎩\n⎪+ =\n⎪−\n=\nv\n1\nt\n0,1\n⎪\n⎪\n−\n⎩\n+\nt\n0,1\nv\n1\n⎩\nPokonanie zasadniczych trudności zadania............................................................................. 3 pkt\nSprowadzenie do równania wymiernego z jedną niewiadomą v lub t, np.:\n⎛\n⎞\n) 60\nlub   60\n60\n60\n(\n=\n+\n−\n+ = −\n−\n=\n60\nv\n1\n0,1\n1\nlub\nt\n0,1\n.\n⎜\n⎟\n60\n⎝\nv\n⎠\nt\nt\n0,1\n+\n1\nt\nUwaga:\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą.\nZostały pokonane zasadnicze trudności zadania, ale w trakcie ich pokonywania zostały\npopełnione błędy rachunkowe, usterki..................................................................................... 2 pkt\nRozwiązanie zadania do końca lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe)................................................................. 4 pkt\n) 60\n⎛\n⎞\n(\n•\n=\n+\n−\nrozwiązanie równania\n60\nv\n1\n0,1\nz błędem rachunkowym\n⎜\n⎟\n⎝\nv\n⎠\n16\nEgzamin maturalny z matematyki\nPoziom podstawowy\nrozwiązanie równania 60\n60\n60\n•\n+ = −\n−\n=\nt = −\n1\nlub\nt\n0,1\nbezbłędnie:\n2,4h\nlub\n60\nt\nt\n0,1\n+\n1\nt\nt =\n2,5h\ni nieobliczenie prędkości\n•\nrozwiązanie równania z niewiadomą t z błędem rachunkowym i konsekwentne\ndo popełnionego błędu obliczenie prędkości\nUwaga\nZdający otrzymuje również 4 pkt za doprowadzenie równania wymiernego do równania\nkwadratowego:\n2\n+ −\n=\n2\n−\n−\n=\nv\nv\n600\n0\nlub\nt\n0,1\nt\n6\n0\nlub za otrzymanie tego równania kwadratowego bezpośrednio z układu równań.\nRozwiązanie bezbłędne .............................................................................................................. 5 pkt\nv =\nObliczenie średniej prędkości, z jaką jechał kolarz:\n24\nkm/h.\n17"
+  }
+ ]
+}

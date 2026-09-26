@@ -1,0 +1,268 @@
+{
+ "exam": {
+  "id": "f2015-R-2016-czerwiec",
+  "formula": "2015",
+  "level": "R",
+  "year": 2016,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "MMA-R1_1P-163",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2016-czerwiec-matura-rozszerzona.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2016-czerwiec-matura-rozszerzona-odpowiedzi.pdf",
+  "examFile": "f2015-R-2016-czerwiec.pdf",
+  "keyFile": "f2015-R-2016-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 22,
+  "keyPages": 32,
+  "examBytes": 358807,
+  "keyBytes": 478335
+ },
+ "keyHead": "EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2015/2016\nFORMUŁA OD 2015\n(„NOWA MATURA”)\nMATEMATYKA\nPOZIOM ROZSZERZONY\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nARKUSZ MMA-P1\nCZERWIEC 2016\nKlucz punktowania zadań zamkniętych\nNr\n1\n2\n3\n4\n5\nzad\nOdp.\nA\nD\nB A\nC\nZadania kodowane\nZadanie 6.\nZadanie 7.\n3    1    4\n9    2    3\nZadania otwarte\nZadanie 8. (0–4)\nWykaż, że dla , , ,\na b c d >\n0\nprawdziwa jest nierówność\na\nb\nc\nd\nac\nbd\n.\n+\n⋅\n+\n≥\n+\nRozwiązanie\nObie strony nierówności\na\nb\nc\nd\nac\nbd\nmożemy podnieść do kwadratu, bo\n+\n⋅\n+\n≥\n+\nprzyjmują wyłącznie wartości dodatnie. Otrzymujemy:\n(\n)(\n)\na\nb\nc\nd\nac\nbd\n2\nabcd\n+\n+\n≥\n+\n+\nac\nad\nbc\nbd\nac\nbd\n2\nabcd\n+\n+\n+\n≥\n+\n+\nad\nbc\n2\nabcd\n+\n≥\n2\n(\n)\nad\nbc\n0\n.\n−\n≥\n2\nNierówność (\n)\nad\nbc\n0\njest prawdziwa dla wszystkich liczb rzeczywistych\n−\n≥\na b c d >\n, , ,\n0\n, co kończy dowód.\nSchemat punktowania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ............................................................................................................ 1 p.\nZdający zauważy, że obie strony nierówności\na\nb\nc\nd\nac\nbd\nsą dodatnie\n+\n⋅\n+\n≥\n+\ni można nierówność obustronnie podnieść do kwadratu.\nRozwiązanie, w którym jest istotny postęp ………………………………………………2 p.\nZdający zapisze nierówność w postaci: (\n)(\n)\na\nb\nc\nd\nac\nbd\n2\nabcd\n.\n+\n+\n≥\n+\n+\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZdający zapisze nierówność w postaci:\nad\nbc\n2\nabcd\n.\n+\n≥\nRozwiązanie pełne ................................................................................................................ 4 p.\nZdający przeprowadzi pełny dowód.\nUwaga:\nJeżeli zdający przy podnoszeniu prawej strony nierówności do kwadratu otrzymuje wyrażenie\nac +\nbd\n, to za całe rozwiązanie otrzymuje 0 punktów.\nZadanie 9. (0–4)\n2\nRozwiąż nierówność\nx\n3\nx\n2\nx\n1\n.\n−\n+\n≥\n−\nI sposób rozwiązania\nZauważmy, że nierówność możemy zapisać w postaci równoważnej kolejno jako:\nx\n1\nx\n2\nx\n1\n−\n⋅\n−\n≥\n−\n,\n(\n)\nx\n1\nx\n2\n1\n0\n.\n−\n⋅\n−\n−\n≥\nPonieważ dla dowolnej liczby rzeczywistej x prawdziwa jest nierówność\nx\n1 ≥\n0\n, więc\n−\n(\n)\nnierówność\nx\n1\nx\n2\n1\n0\njest równoważna nierówności\nx\n2\n1\n0\n, czyli\n−\n⋅\n−\n−\n≥\n−\n−\n≥\nx\n2 ≥\n1\n−\n.\nZ\ngeometrycznej\ninterpretacji\nwartości\nbezwzględnej,\notrzymujemy\n(\n)\nx∈−∞\n,1\n3,\n+∞.\n∪\nII sposób rozwiązania\n2\nNaszkicujmy w układzie współrzędnych wykresy funkcji\ny\nx\n3\nx\n2\noraz\ny\n= x\n1\n.\n=\n−\n+\n−\ny\n1\nx\n0\n1\n2\n3\n-1\nRozważmy nierówność kolejno w przedziałach (\n)1\n)\n)\n,\n,\n,1\n2\noraz\n,2\n.\n−\n∞\n+\n∞\n(\n)1\n(\n)1\nx\n,\n2\n2\nx\n1\nx\nGdy\n, to wtedy\nx\n3\nx\n2\nx\n3\nx\n2\noraz\n, a nierówność\n∈\n−\n∞\n−\n+\n=\n−\n+\n−\n=\n−\n−\nprzyjmuje postać\n2\nx\n3\nx\n2\nx\n1\n,\n−\n+\n≥\n−\n+\n2\nx\n−x\n2\n1\n0\n,\n+\n≥\n2 ≥\n(\n)\nx\n1\n0\n.\n−\nNierówność ta jest prawdziwa dla każdej liczby rzeczywistej x, zatem każda liczba\n(\n)1\nx\n,\njest rozwiązaniem nierówności.\n∈\n−\n∞\n(\n)\n)\nx\n,1\n2\n2\n2\nx\n1\nx\n1\nGdy\n∈\n, to wtedy\nx\n3\nx\n2\nx\n3\nx\n2\noraz\n−\n=\n−",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2016-czerwiec/1.webp",
+   "size": [
+    950,
+    186
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\n( )\n3\nx\nFunkcja  f  określona jest wzorem\nf x\n3\n5\n−\n− dla każdej liczby rzeczywistej. Zbiorem\n1\n=\n+\nwartości funkcji f  jest\nA. (\n)\n)\nD. (\n)\n2,+∞\nB.\n1,3\nC.\n−+∞\n1,\n0,+∞",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2016-czerwiec/2.webp",
+   "size": [
+    950,
+    159
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\n2\n2\nWartość wyrażenia\nsin 75\ncos 75\n° jest równa\n°−\n1\n1\n3\n3\nA.\nB.\n2\nC.\nD.\n2\n−\n−\n2\n2",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2016-czerwiec/3.webp",
+   "size": [
+    950,
+    413
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nW trapezie ABCD o podstawach AB i CD dane są:\nAD =\n6\n,\nBC =\n12\n,\nAC =\n10\noraz\n\nABC\n\nCAD\n(zobacz rysunek).\n=\nC\nD\n6\n12\n10\nα\nα\nB\nA\nWówczas długość podstawy AB tego trapezu jest równa\nA.\nAB =\n18\nB.\nAB =\n20\nC.\nAB =\n22\nD.\nAB =\n24",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2016-czerwiec/4.webp",
+   "size": [
+    950,
+    203
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nW ostrosłupie prawidłowym czworokątnym wszystkie krawędzie mają jednakową długość.\nWynika stąd, że cosinus kąta nachylenia ściany bocznej do płaszczyzny podstawy tego\nostrosłupa jest równy\n3\n3\nC. 1\nD. 1\nA.\n3\nB.\n2\n2\n3",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-R-2016-czerwiec/5.webp",
+   "size": [
+    950,
+    180
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\n3\n7\nn\n3\nn\n−\n+\nGranica\nlim\njest równa\n2\n5\n1\n2\nn\n3\nn\n4\nn\nn\n→∞\n+\n+\n+\n7\nA. −∞\nB.\n−\nC. 0\nD. +∞\n4",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2016-czerwiec/6.webp",
+   "size": [
+    950,
+    230
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–2)\nDany jest nieskończony ciąg geometryczny (\n)\nna\nokreślony dla\nn ≥, w którym iloraz jest\n1\nrówny pierwszemu wyrazowi, a suma wszystkich wyrazów tego ciągu jest równa 12. Oblicz\npierwszy wyraz tego ciągu. Zakoduj kolejno pierwsze trzy cyfry po przecinku otrzymanego\nwyniku.",
+   "key": "Zadanie 6."
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-R-2016-czerwiec/7.webp",
+   "size": [
+    950,
+    233
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–2)\n2\n3\n( )\n(\n)\n(\n)\nA B ⊂Ω takie, że\n,\nP A =\nP A\nB\nP B A ,\n\\\nDane są zdarzenia losowe\ni\n∪\n=\n. Oblicz\n7\n5\nB A oznacza różnicę zdarzeń B i A. Zakoduj kolejno pierwsze trzy cyfry\n\\\ngdzie zdarzenie\npo przecinku rozwinięcia dziesiętnego otrzymanego wyniku.",
+   "key": "Zadanie 7.\n3    1    4\n9    2    3\nZadania otwarte"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2016-czerwiec/8.webp",
+   "size": [
+    890,
+    83
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–4)\nWykaż, że dla , , ,\na b c d >\n0\nprawdziwa jest nierówność\na\nb\nc\nd\nac\nbd\n.\n+\n⋅\n+\n≥\n+",
+   "key": "Zadanie 8. (0–4)\nWykaż, że dla , , ,\na b c d >\n0\nprawdziwa jest nierówność\na\nb\nc\nd\nac\nbd\n.\n+\n⋅\n+\n≥\n+\nRozwiązanie\nObie strony nierówności\na\nb\nc\nd\nac\nbd\nmożemy podnieść do kwadratu, bo\n+\n⋅\n+\n≥\n+\nprzyjmują wyłącznie wartości dodatnie. Otrzymujemy:\n(\n)(\n)\na\nb\nc\nd\nac\nbd\n2\nabcd\n+\n+\n≥\n+\n+\nac\nad\nbc\nbd\nac\nbd\n2\nabcd\n+\n+\n+\n≥\n+\n+\nad\nbc\n2\nabcd\n+\n≥\n2\n(\n)\nad\nbc\n0\n.\n−\n≥\n2\nNierówność (\n)\nad\nbc\n0\njest prawdziwa dla wszystkich liczb rzeczywistych\n−\n≥\na b c d >\n, , ,\n0\n, co kończy dowód.\nSchemat punktowania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ............................................................................................................ 1 p.\nZdający zauważy, że obie strony nierówności\na\nb\nc\nd\nac\nbd\nsą dodatnie\n+\n⋅\n+\n≥\n+\ni można nierówność obustronnie podnieść do kwadratu.\nRozwiązanie, w którym jest istotny postęp ………………………………………………2 p.\nZdający zapisze nierówność w postaci: (\n)(\n)\na\nb\nc\nd\nac\nbd\n2\nabcd\n.\n+\n+\n≥\n+\n+\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZdający zapisze nierówność w postaci:\nad\nbc\n2\nabcd\n.\n+\n≥\nRozwiązanie pełne ................................................................................................................ 4 p.\nZdający przeprowadzi pełny dowód.\nUwaga:\nJeżeli zdający przy podnoszeniu prawej strony nierówności do kwadratu otrzymuje wyrażenie\nac +\nbd\n, to za całe rozwiązanie otrzymuje 0 punktów."
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2016-czerwiec/9.webp",
+   "size": [
+    947,
+    86
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–4)\n2\nRozwiąż nierówność\nx\n3\nx\n2\nx\n1\n.\n−\n+\n≥\n−",
+   "key": "Zadanie 9. (0–4)\n2\nRozwiąż nierówność\nx\n3\nx\n2\nx\n1\n.\n−\n+\n≥\n−\nI sposób rozwiązania\nZauważmy, że nierówność możemy zapisać w postaci równoważnej kolejno jako:\nx\n1\nx\n2\nx\n1\n−\n⋅\n−\n≥\n−\n,\n(\n)\nx\n1\nx\n2\n1\n0\n.\n−\n⋅\n−\n−\n≥\nPonieważ dla dowolnej liczby rzeczywistej x prawdziwa jest nierówność\nx\n1 ≥\n0\n, więc\n−\n(\n)\nnierówność\nx\n1\nx\n2\n1\n0\njest równoważna nierówności\nx\n2\n1\n0\n, czyli\n−\n⋅\n−\n−\n≥\n−\n−\n≥\nx\n2 ≥\n1\n−\n.\nZ\ngeometrycznej\ninterpretacji\nwartości\nbezwzględnej,\notrzymujemy\n(\n)\nx∈−∞\n,1\n3,\n+∞.\n∪\nII sposób rozwiązania\n2\nNaszkicujmy w układzie współrzędnych wykresy funkcji\ny\nx\n3\nx\n2\noraz\ny\n= x\n1\n.\n=\n−\n+\n−\ny\n1\nx\n0\n1\n2\n3\n-1\nRozważmy nierówność kolejno w przedziałach (\n)1\n)\n)\n,\n,\n,1\n2\noraz\n,2\n.\n−\n∞\n+\n∞\n(\n)1\n(\n)1\nx\n,\n2\n2\nx\n1\nx\nGdy\n, to wtedy\nx\n3\nx\n2\nx\n3\nx\n2\noraz\n, a nierówność\n∈\n−\n∞\n−\n+\n=\n−\n+\n−\n=\n−\n−\nprzyjmuje postać\n2\nx\n3\nx\n2\nx\n1\n,\n−\n+\n≥\n−\n+\n2\nx\n−x\n2\n1\n0\n,\n+\n≥\n2 ≥\n(\n)\nx\n1\n0\n.\n−\nNierówność ta jest prawdziwa dla każdej liczby rzeczywistej x, zatem każda liczba\n(\n)1\nx\n,\njest rozwiązaniem nierówności.\n∈\n−\n∞\n(\n)\n)\nx\n,1\n2\n2\n2\nx\n1\nx\n1\nGdy\n∈\n, to wtedy\nx\n3\nx\n2\nx\n3\nx\n2\noraz\n−\n=\n−\n, a nierówność\n−\n+\n=\n−\n−\n+\nprzyjmuje postać\n2\nx\n3\nx\n2\nx\n1\n,\n−\n+\n−\n≥\n−\n2\nx\n2\nx\n1\n0\n,\n−\n+ ≤\n2\n(\n)\nx −\n1\n0\n.\n≤\n)\nNierówność ta jest prawdziwa tylko dla\nx\n1\n. Zatem w przedziale\n,1\n2\ntylko liczba\nx\n1\n=\n=\njest rozwiązaniem nierówności.\n)\n2\n2\nGdy\nx\n,2\n, to wtedy\nx\n3\nx\n2\nx\n3\nx\n2\noraz\nx\n1\nx\n1\n, a nierówność\n∈\n+\n∞\n−\n+\n=\n−\n+\n−\n=\n−\nprzyjmuje postać\n2\nx\n3\nx\n2\nx\n1\n,\n−\n+\n≥\n−\n2\n,\nx\n−x\n4\n3\n0\n+\n≥\n(\n)(\n)\nx\n1\nx\n3\n0\n−\n−\n≥\n,\ny\n1\nx\n0\n1\n2\n3\n-1\n(\n)\nx\n,\n1\n,3\n.\n∈\n−\n∞\n∪\n+\n∞\n)\n)\n,2\nx∈\n3,\nZatem w przedziale\n+\n∞\nrozwiązaniem nierówności jest każda liczba\n+∞.\nW rezultacie rozwiązaniem nierówności\nx\n2\n3\nx\n2\nx\n1\njest każda liczba\n−\n+\n≥\n−\n(\n)\nx∈−∞\n,1\n3,\n∪\n+∞.\nSchemat punktowania I i II sposobu rozwiązania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny do całkowitego\nrozwiązania zadania ............................................................................................................. 1 p.\ngdy\n• zapisze, że\n2\nx\n1\nx\n2\nx\n3\nx\n2\n−\n⋅\n−\n=\n−\n+\nalbo\n• zapisze, że nierówność należy rozważyć w każdym z przedziałów (\n)1\n)\n,\n,1\n2\n−\n∞\n,\n,\n)\n,2\n.\n+\n∞\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\ngdy\n(\n)\nx\n1\nx\n2\n1\n0\n• zapisze nierówność w postaci iloczynowej:\n−\n⋅\n−\n−\n≥\nalbo\n•  zapisze poprawnie nierówność w każdym z przedziałów: (\n)1\n)\n)\n,\n,\n,1\n2\n,\n,2\n.\n−\n∞\n+\n∞\nPokonanie zasadniczych trudności zadania ......................................................................  3 p.\ngdy\n2\n• zapisze, że nierówność\nx\n3\nx\n2\nx\n1\njest równoważna nierówności\nx\n2 ≥\n1\n−\n+\n≥\n−\n−\nalbo\n• zapisze poprawnie nierówność w każdym z przedziałów (\n)1\n)\n)\n,\n,\n,1\n2\n,\n,2\n−\n∞\n+\n∞\ni rozwiąże poprawnie tę nierówność w jednym lub dwóch spośród ww. przedziałów.\nRozwiązanie pełne ...............................................................................................................  4 p.\n(\n)\ngdy zapisze rozwiązanie nierówności, np.:\nx\n,\n1\n,3\n.\n∈\n−\n∞\n∪\n+\n∞\nUwagi:\n1. Jeżeli zdający rozważy wszystkie przedziały otwarte, tj. (\n)1\n, (\n1,2 , (\n)\n)\n,\n2,+∞, to\n−\n∞\notrzymuje o 1 punkt mniej, niż wynika to z osiągniętego przez niego etapu rozwiązania\nzadania.\n(\n)\n2. Jeżeli zdający podzieli obie strony nierówności\nx\n1\nx\n2\n1\n0\nprzez\nx −, nie\n1\n−\n⋅\n−\n−\n≥\nzakładając, że\nx −\n1\n0\ni konsekwentnie rozwiąże nierówność do końca, to otrzymuje\n>\n3 punkty.\nIII sposób rozwiązania\n2\nPonieważ obie strony nierówności\nx\n3\nx\n2\nx\n1\nsą nieujemne, więc podnosząc je do\n−\n+\n≥\n−\nkwadratu otrzymujemy nierówność równoważną\n2\n(\n)\n2\n2\n(\n)\nx\n3\nx\n2\nx\n1\n,\n−\n+\n≥\n−\n4\n3\n2\n2\n+ ,\nx\n6\nx\n13\nx\n12\nx\n4\nx\n2\nx\n1\n−\n+\n−\n+\n≥\n−\n4\n3\n2\nx\n6\nx\n12\nx\n10\nx\n3\n0\n.\n−\n+\n−\n+\n≥\n( )\n4\n3\n2\nZauważmy, że liczba 1 jest pierwiastkiem wielomianu\nW x\nx\n6\nx\n12\nx\n10\nx\n+ , gdyż\n3\n=\n−\n+\n−\n4\n3\n2\n1\n6 1\n12 1\n10 1 3\n0\n. Zatem wielomian W jest podzielny przez dwumian\nx −.\n1\n−⋅\n+\n⋅\n−\n⋅+\n=\nStosując algorytm Hornera, otrzymujemy\n1\n−\n6\n12\n10\n3\n−\n1\n1\n−\n5\n7\n−\n3\n0\n)(\n)\n( )\n(\n3\n2\nZatem\nW x\nx\n1\nx\n5\nx\n7\nx\n3\n. Liczba 1 jest też pierwiastkiem wielomianu\n=\n−\n−\n+\n−\n( )\n3\n2\nP x\nx\n5\nx\n7\nx\n−, gdyż\n3\n3\n2\n. Dzieląc ten wielomian przez\nx −,\n1\n=\n−\n+\n1\n5 1\n7 1 3\n0\n−⋅\n+\n⋅−\n=\notrzymujemy\n1\n−\n5\n7\n−\n3\n1\n1\n3\n0\n−\n4\n) (\n2\n)\n( )\n(\n2\n2\nZatem\nW x\nx\n1\nx\n4\nx\n3\n. Trójmian kwadratowy\nx\n4\nx\n3\nma dwa pierwiastki\n=\n−\n−\n+\n−\n+\n3\n( )\n(\n) (\n)\nx = ,\n1\nx =\n3\n, więc\nW x\nx\n1\nx\n3\n.  Ponieważ dla każdej liczby rzeczywistej x\n=\n−\n−\n1\n2\n2\n( )\nprawdziwa jest nierówność  (\n)\n, więc nierówność\nW x ≥\n0\njest równoważna\nx −\n1\n0\n≥\nnierówności kwadratowej\n(\n)(\n)\nx\n1\nx\n3\n0\n,\n−\n−\n≥\n(\n)\nx\n,\n1\n,3\nktórej rozwiązaniem jest każda liczba\n.\n∈\n−\n∞\n∪\n+\n∞\nUwaga:\n2\nNierówność (\n)\n2\n2\n(\n)\nx\n3\nx\n2\nx\n1\nmożemy też przekształcić równoważnie\n−\n+\n≥\n−\n2\n(\n)\n2\n2\n(\n)\nx\n3\nx\n2\nx\n1\n0\n,\n−\n+\n−\n−\n≥\n(\n)(\n)\nx\n2\n3\nx\n2\nx\n1\nx\n2\n3\nx\n2\nx\n1\n0\n,\n−\n+\n−\n+\n−\n+\n+\n−\n≥\n(\n)(\n)\n2\n2\nx\n4\nx\n3\nx\n2\nx\n1\n0\n,\n−\n+\n−\n+\n≥\n2\n(\n)(\n)(\n)\nx\n1\nx\n3\nx\n1\n0\n,\n−\n−\n−\n≥\na dalej tak samo jak w III sposobie rozwiązania.\nSchemat punktowania III sposobu rozwiązania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny do całkowitego\nrozwiązania zadania ............................................................................................................. 1 p.\n2\nZdający zapisze nierówność w postaci równoważnej (\n)\n2\n2\n(\n)\nx\n3\nx\n2\nx\n1\n.\n−\n+\n≥\n−\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający zapisze nierówność w postaci równoważnej\n)(\n)\n•  (\nx\n1\nx\n3\n5\nx\n2\n7\nx\n3\n0\n−\n−\n+\n−\n≥\nalbo\n• (\n)(\n)\n2\n2\nx\n3\nx\n2\nx\n1\nx\n3\nx\n2\nx\n1\n0\n.\n−\n+\n−\n+\n−\n+\n+\n−\n≥\nPokonanie zasadniczych trudności zadania ......................................................................  3 p.\nZdający\n3\n• zapisze nierówność w postaci równoważnej (\n) (\n)\nx\n1\nx\n3\n0\n−\n−\n≥\nalbo\n( )\n4\n3\n2\n• wyznaczy\nwszystkie\npierwiastki\nwielomianu\nW x\nx\n6\nx\n12\nx\n10\nx\n+\n3\n=\n−\n+\n−\ni naszkicuje wykres tego wielomianu (lub wykresy odpowiednich czynników tego\nwielomianu).\nRozwiązanie pełne ...............................................................................................................  4 "
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2016-czerwiec/10.webp",
+   "size": [
+    950,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–3)\nDany jest ciąg (\n)\na\nokreślony dla każdej liczby całkowitej\nn\n1\n, w którym\na =\n4\noraz dla\n≥\nn\n4\nkażdej liczby\nn\n1\nprawdziwa jest równość\na\na\nn\n4\n. Oblicz pierwszy wyraz ciągu\n≥\n=\n+\n−\nn\n1\nn\n+\n(\n)\na\ni ustal, czy ciąg ten jest malejący.\nn",
+   "key": "Zadanie 10. (0–3)\nDany jest ciąg (\n)\na\nokreślony dla każdej liczby całkowitej\n, w którym\na =\n4\noraz dla\nn\n1\n≥\nn\n4\nkażdej liczby\nn\n1\nprawdziwa jest równość\na\na\nn\n4\n. Oblicz pierwszy wyraz ciągu\n≥\n=\n+\n−\nn\n1\nn\n+\n(\n)\na\ni ustal, czy ciąg ten jest malejący.\nn\nRozwiązanie\na\n4\nPonieważ\ni\na\n= a\n3\n4\n, więc\na\n5\n.\n4 =\n+\n−\n3 =\n4\n3\na\n7\na\n10\nAnalogicznie\na\n= a\n2\n4\n, więc\noraz\na\n= a\n1\n4\n, zatem\n.\n+\n−\n2 =\n+\n−\n1 =\n3\n2\n2\n1\nPonieważ\na\na\n4\n4\na\n, więc ciąg ten nie jest malejący.\n=\n+\n−\n=\n5\n4\n4\nUwaga:\nn <\n4\nMożemy też zauważyć, że\na\na\nn\n4\n. Różnica ta jest ujemna tylko dla\n, a więc\n−\n=\n−\nn\n1\nn\n+\ntylko pierwsze cztery wyrazy tego ciągu maleją. Dla\nn =\n4\nróżnica jest równa 0, co oznacza,\nże czwarty i piąty wyraz ciągu jest taki sam. Ciąg ten nie jest zatem malejący.\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy\n• obliczy trzeci wyraz ciągu:\na\n5\n3 =\nalbo\n• uzasadni, że ciąg nie jest malejący.\nUwaga:\nZdający nie musi odwoływać się do definicji ciągu malejącego, wystarczy, że zauważy np., że\na\na\nlub zapisze, że dla\nn =\n4\nróżnica\na\na\nn\n4\njest równa 0, albo że dla\nn >\n4\n=\n−\n=\n−\nn\n1\nn\n5\n4\n+\nróżnica jest dodatnia.\nZdający otrzymuje  .............................................................................................................. 2 p.\na\n10\ngdy obliczy pierwszy wyraz ciągu:\n.\n1 =\nZdający otrzymuje  .............................................................................................................. 3 p.\na\n10\ngdy obliczy pierwszy wyraz ciągu\noraz uzasadni, że ciąg nie jest malejący.\n1 ="
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2016-czerwiec/11.webp",
+   "size": [
+    950,
+    477
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–3)\nDany jest sześcian ABCDEFGH. Przez wierzchołki A i C oraz środek K krawędzi BF\npoprowadzono płaszczyznę, która przecina przekątną BH w punkcie P (zobacz rysunek).\nH\nG\nF\nE\nK\nP\nD\nC\nA\nB\nWykaż, że\nBP\n:\nHP =\n1:3\n.",
+   "key": "Zadanie 11. (0–3)\nDany jest sześcian ABCDEFGH. Przez wierzchołki A i C oraz środek K krawędzi BF\npoprowadzono płaszczyznę, która przecina przekątną BH w punkcie P (zobacz rysunek).\nH\nG\nF\nE\nK\nP\nD\nC\nA\nB\nWykaż, że\nBP\n:\nHP =\n1:3\n.\nRozwiązanie\nPunkt P leży w płaszczyźnie DBFH i jest punktem przecięcia przekątnej BH z odcinkiem KL,\ngdzie L to środek przekątnej BD ściany ABCD.\nH\nG\nF\nE\nS\nK\nP\nD\nC\nL\nA\nB\nOdcinek KL łączy środki boków BD i BF trójkąta DBF, więc jest równoległy do boku DF.\n1\nBP\nBS\nTo oznacza, że trójkąt LBK jest podobny do trójkąta DBF w skali 1:2. Zatem\n.\n=\n2\n1 1\n1\nPunkt S to środek przekątnej BH sześcianu, więc\nBP\nBH\nBH\n. Stąd wynika, że\n=\n⋅\n=\n2 2\n4\nBP\n:\nHP =\n1:3\n. To kończy dowód.\nUwaga:\nTezę możemy udowodnić też w inny sposób.\nSposób I\nNiech M oznacza punkt przecięcia prostych LK i HF.\nF\nM\nH\nK\nP\nB\nD\nL\nWówczas trójkąty LBK i MFK są przystające, gdyż oba są prostokątne,\n\nLKB\n\nMKF\n=\n1\n(kąty wierzchołkowe) i KB\nKF\nFM\nLB\nDB\n. Stąd wynika, że\n.\n=\n=\n=\n2\nTrójkąty LBP i MHP są podobne (\n\nLBP\n\nMHP\ni\n\nBLP\n\nHMP\n, gdyż są to pary\n=\n=\nkątów naprzemianległych, a proste LB i HM są równoległe).  Stąd\n1\n1\n1\nBP\nLB\nDB\nDB\n1\n2\n2\n2\n.\n=\n=\n=\n=\n=\n1\n3\nHP\nHM\nHF\nFM\nDB\nDB\n3\n+\n+\n2\n2\nTo kończy dowód.\nSposób II\nPrzyjmijmy oznaczenia jak na rysunku.\nF\nH\na\nK\nP\n1\n2 a\nβ\nα\nB\nD\nL\nQ\n1\n1\nWtedy\nBK\na\n,\nDB\na\n2\n,\nDB\na\n2\n. Zatem\n=\n=\n=\n2\n2\n1\nHD\na\na\n2\nKB\n2\n2\ntg\ni\ntg\n,\nα =\n=\n=\nβ =\n=\n=\n1\nDB\n2\nLB\n2\na\n2\na\n2\n2\na więc tg\ntg\n. Stąd wynika, że α\n, gdyż α i β to katy ostre. Stąd z kolei wynika, że\nα\n=\nβ\n=\nβ\ntrójkąt LBP jest równoramienny, więc spodek Q wysokości PQ tego trójkąta jest środkiem\n1\n1\nodcinka LB. Zatem\nQB\nLB\nDB\n.\n=\n=\n2\n4\nTrójkąty BPQ i BHD są podobne (oba są prostokątne i mają wspólny kąt ostry przy\nwierzchołku B), więc\n1\nBP\nQB\nDB\n1\n4\n.\n=\n=\n=\nHB\nDB\nDB\n4\nStąd wynika, że\nBP\n:\nHP =\n1:3\n.\nSposób III\nPoprowadźmy odcinek łączące środki przeciwległych boków prostokąta BFHD.\nF\nH\nS\na\nK\nP\nB\nD\nL\nPrzecinają się one w punkcie S, który jest środkiem przekątnej BH tego prostokąta. Punkt P\njest natomiast środkiem przekątnej prostokąta BKSL. Stąd wynika, że\n1\n3\nBP\nBH\ni\nHP\nBH\n.\n=\n=\n4\n4\nTo oznacza, że\nBP\n:\nHP =\n1:3\n.\nSchemat punktowania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy zauważy, że P jest punktem przecięcia przekątnej BH z odcinkiem KL, gdzie L to środek\nprzekątnej BD.\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy\n• zapisze, że trójkąty LBK i DBF są podobne w skali 1: 2\nalbo\n• zapisze, że odcinek KL jest obrazem odcinka FD w jednokładności o środku B i skali 1\n2 ,\nalbo\n• wykaże, że trójkąt  LBP jest równoramienny np. wykaże, że\n\nPBL\n\nPLB\n,\n=\nalbo\n•  poprowadzi odcinki łączące środek przekątnej BH z punktami K i L\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje  .............................................................................................................. 3 p.\ngdy wykaże, że\nBP\n:\nHP =\n1:3\n."
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2016-czerwiec/12.webp",
+   "size": [
+    950,
+    145
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–4)\nLiczba m jest sumą odwrotności dwóch różnych pierwiastków równania\n2\n2\nk\nx\n(\nk\n)1\nx\n1\n0\n, gdzie\nk\n0\n.\n+\n−\n+\n=\n≠\nm\nWyznacz zbiór wartości funkcji określonej wzorem\nf\n(\nx\n)\n2\n.\n=",
+   "key": "Zadanie 12. (0–4)\nLiczba m jest sumą odwrotności dwóch różnych pierwiastków równania\n2\n2\nk\nx\n(\nk\n)1\nx\n1\n0\n, gdzie\nk\n0\n.\n+\n−\n+\n=\n≠\nm\nWyznacz zbiór wartości funkcji określonej wzorem\nf\n(\nx\n)\n2\n.\n=\nRozwiązanie\n2\n2\nRównanie\nk x\n(\nk\n1)\nx\n1\n0\nz niewiadomą x ma dwa rozwiązania rzeczywiste\n1x ,\n+\n−\n+ =\n) (\n)\n2\n1\ni (\n)\n2\n(\nk ≠\n0\nk\n1\n4\nk\n0\nk ∈−\n1,0\n0,\n2x wtedy i tylko wtedy, gdy\n−\n−\n>\n, a więc dla\n∪\n. Suma\n3\nm odwrotności  rozwiązań jest określona wtedy, gdy\nx x ≠\n0\n, a więc (ze wzoru Viete’a) gdy\n1\n2\n1\n) (\n)\n1\n(\n0\n. To zachodzi dla każdej wartości\nk ∈−\n1,0\n0,\n. Zatem\n≠\n∪\n3\n2\nk\nk\n1\n−\n−\n1\n1\nx\nx\n+\n2\nk\n(\n)\n1\n2\nm\nk\n1\n.\n=\n+\n=\n=\n= −\n−\n1\nx\nx\nx x\n2\n1\n2\n1\n2\nk\nFunkcja f jest więc określona wzorem\n) (\nk\n1\n)\n−\n( )\n1\n(\n)\n1\n( )\n−\nk\n−\n1\n(\nf k\n2\ndla\nk ∈−\n1,0\n0,\n.\n=\n=\n∪\n2\n3\nWykres funkcji f otrzymamy, przesuwając wykres funkcji wykładniczej ( ) ( )\nk\n1\ng k =\no wektor\n2\n\n[\n]\nu =\n1,0\n, a następnie biorąc ten fragment otrzymanego wykresu, który odpowiada\n) (\n)\n1\n(\nk ∈−\n1,0\n0,\nargumentom\n∪\n.\n3\ny\n5\n4\nk\n1\n( )\n−\n( )\n1\nf k\n=\nk\n( )\n1\ny =\n2\n2\n3\n2\n3 4\nk\n−\n1\n( )\n1\ny\n=\n1\n2\nk\n0\n-3\n-2\n-1\n1\n1\n2\n3\n4\n5\n3\nk\n1\n) ( )\n1 1\n( )\n−\n−−\n1\n1\n(\nk\n1\n)\n( )\n−\n−\n(\nFunkcja h, określona wzorem\nh k\n2\njest malejąca,\nh\n1\n4\n,\n=\n=\n−\n=\n=\n2\n2\n1\n2\n1\n( ) ( )\n−\n−\n1\n( ) ( )\n1\n1\n1\n3\nh\n0\n2\nh\n2\n3\n3\n4\n=\n=\n,\n=\n=\n=\n, więc zbiorem wartości funkcji f jest\n2\n3\n2\n(\n3 4,2\n)\n(\n)\n2,4\n.\n∪\nSchemat punktowania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\n\n\n1\n{ }\nZdający rozwiąże nierówność\n0\n:\nk\n1,\n\\ 0\n.\nΔ >\n∈−\n\n\n\n3\n\nRozwiązanie, w którym jest istotny postęp  ....................................................................... 2 p.\nZdający wyznaczy sumę odwrotności dwóch różnych pierwiastków równania w zależności\nod k:\n1\n1\nnp.\n= −+ .\nk\n1\n+\nx\nx\n1\n2\nRozwiązanie zasadniczych trudności zadania ................................................................... 3 p.\n( ) ( )\nk\n1\n−\n1\nZdający obliczy wartości funkcji wykładniczej h, określonej wzorem\nh k\ndla\n=\n2\n1\n, ( )\n1\n: (\n)\n( )\n3\nargumentów\n1, 0, 3\nh −\n1\n4\nh\n0\n2\nh\n4\n−\n=\n=\n=\n3\nRozwiązanie pełne  ............................................................................................................... 4 p.\nZdający wykorzysta monotoniczność funkcji wykładniczej i wyznaczy zbiór wartości\nfunkcji f: (\n3 4,4 \\ 2 .\n) { }\nUwagi:\n0\n1. Jeżeli zdający zapisze i rozwiąże warunek\nΔ ≥\n, to za całe rozwiązanie otrzymuje co\nnajwyżej 3 punkty.\n2. Jeżeli zdający wyznaczy poprawnie sumę odwrotności różnych rozwiązań danego\nrównania, ale utworzy funkcję wykładniczą o niepopranym wzorze, to za całe rozwiązanie\notrzymuje co najwyżej 3 punkty.\n3 4,4 , to za całe\ni wyznaczy zbiór wartości:(\n)\n3.  Jeżeli zdający nie uwzględni warunku\nk ≠\n0\nrozwiązanie otrzymuje co najwyżej 3 punkty.\n4.  Jeżeli zdający błędnie rozwiąże nierówność\n0\n, ale przy wyznaczaniu zbioru wartości\nΔ >\nfunkcji uwzględni warunek\nk ≠\n0\n, to za całe rozwiązanie otrzymuje co najwyżej 3 punkty.\n5.  Jeżeli zdający poprawnie rozwiąże nierówność\n0\ni warunek\nk ≠\n0\nuwzględni dopiero\nΔ >\nprzy wyznaczaniu zbioru wartości funkcji f, to może otrzymać maksymalną liczbę\npunktów za całe rozwiązanie.\n6. Jeżeli zdający niepoprawnie rozwiąże nierówność\n0\ni przy wyznaczaniu zbioru\nΔ >\nwartości funkcji nie uwzględni warunku\nk ≠\n0\n, to za całe rozwiązanie otrzymuje co\nnajwyżej 2 punkty.\n7. Jeżeli zdający poprawnie wyznaczy sumę odwrotności dwóch różnych pierwiastków\nrównania w zależności od k, zapisze wzór funkcji f, stosując inną interpretację zmiennej\nniż przedstawiona w powyższym rozwiązaniu, to może otrzymać maksymalną liczbę\npunktów za całe rozwiązanie.\n8. Akceptujemy następujące interpretacje.\nI sposób interpretacji\nZa taką odpowiedź zdający powinien otrzymać maksymalną punktację. Jeśli przyjąć, że\n2\n2\nrównanie\nk\nx\n(\nk\n)1\nx\n1\n0\nto równanie z niewiadomą x i parametrem k, gdzie\nk\n0\n, to\n+\n−\n+\n=\n≠\n2m .\nwtedy funkcja f zmiennej x jest stała i zbiorem jej wartości jest { }\nII sposób interpretacji\n2\n2\nJeśli przyjąć, że równanie\nk\nx\n(\nk\n)1\nx\n1\n0\nto równanie z niewiadomą x i parametrem k,\n+\n−\n+\n=\na funkcję f potraktować jako funkcję zmiennej k, to zbiorem wartości funkcji f jest\n(\n3 4,2\n)\n(\n)\n2,4\n.\n∪\n9. Jeśli zdający wyznaczy m w zależności od k (np.\n= −+ ), ale nie zapisze warunku\nm\nk\n1\nistnienia dwóch różnych pierwiastków równania kwadratowego i na tym zakończy, to\notrzymuje 1 punkt."
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 3,
+   "image": "f2015-R-2016-czerwiec/13.webp",
+   "size": [
+    947,
+    84
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–3)\nRozwiąż nierówność (\n)(\n)\nx∈\n(0,2π)\n2sin\nx\n3\n2sin\nx\n1\n0\nw przedziale\n.\n−\n+\n>",
+   "key": "Zadanie 13. (0–3)\nRozwiąż nierówność (\n)(\n)\nw przedziale\nx∈\n(0,2π)\n.\n2sin\nx\n3\n2sin\nx\n1\n0\n−\n+\n>\nRozwiązanie I sposób ( metoda podstawienia )\n= , otrzymamy nierówność (\n)(\n)\nPodstawmy sin x\nt\n2\nt\n3\n2\nt\n1\n0\n.\n−\n+\n>\n\n\n\n\n1\n3\n1\n3\nStąd\nt\n,\n,\n, czyli\nsin\nx < −\nlub\nsin\nx >\n.\n∈−∞−\n∪\n+∞\n\n\n\n\n\n2\n\n\n2\n\n2\n2\n3\n1\nNierówność\nsin\nx >\njest sprzeczna, zatem rozwiązujemy nierówność\nsin\nx < −\n2\n2\n(\n)\nw przedziale\nx∈\n0,2π\n.\ny\n1\nx\nπ\nπ\n3\nπ\n1\n2π\nπ\n−\n6\n2\n2\n2\n-1\n\n7π 11π\n\nRozwiązanie:\nx\n,\n.\n∈\n\n\n6\n6\n\nSchemat punktowania\nRozwiązanie, w którym jest istotny postęp, ale nie zostały pokonane zasadnicze\ntrudności zadania ................................................................................................................. 1 p.\n\n1\n\n\n3\n\nZdający poda rozwiązanie nierówności  (\n)(\n)\n2\nt\n3\n2\nt\n1\n0\n:\nt\n,\n,\n−\n+\n>\n∈−∞−\n∪\n+∞\n\n\n\n\n\n2\n\n\n2\n\n1\n3\ni zapisze go za pomocą alternatywy nierówności\nsin\nx < −\nlub\nsin\nx >\ni na tym\n2\n2\npoprzestanie lub dalej popełnia błędy.\nPokonanie zasadniczych trudności zadania ....................................................................... 2 p.\nZdający\n3\n• zauważy, że nierówność\nsin\nx >\njest sprzeczna\n2\nalbo\n\n\n1\n7π 11π\n1\n• rozwiąże nierówność\nsin\nx < −\n:\nx\n,\nrozwiąże nierówność\nsin\nx < −\n:\n∈\n\n2\n\n6\n6\n\n2\n\n7π 11π\n\nx\n,\n∈\n\n\n6\n6\n\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie pełne ................................................................................................................ 3 p.\n3\n1\nZdający zauważy, że nierówność\nsin\nx >\njest sprzeczna i rozwiąże nierówność\nsin\nx < −\n:\n2\n2\n\n7π 11π\n\nx\n,\n.\n∈\n\n\n6\n6\n\nRozwiązanie II sposób „zbiór wartości”\nZdający zauważy, że nierówność 2sin\nx −<\n3\n0\nspełniona jest dla x\nR\n.\n∈\nZatem, aby spełniona była nierówność (\n)(\n)\n2sin\nx\n3\n2sin\nx\n1\n0\nwystarczy rozwiązać\n−\n+\n>\nwarunek 2sin\nx + <\n1\n0\n.\n1\n\n7π 11π\n\nStąd\nsin\nx < −\n, czyli\nx\n,\n.\n∈\n\n2\n\n6\n6\n\nSchemat punktowania\nPokonanie zasadniczych trudności zadania ....................................................................... 2 p.\nZdający:\n• zauważy, że nierówność 2sin\nx −<\n3\n0\nspełniona jest dla x\nR\n∈\nalbo\n\n\n1\n7π 11π\n•  rozwiąże nierówność\nsin\nx < −\n:\nx\n,\n∈\n\n2\n\n6\n6\n\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie pełne ................................................................................................................ 3 p.\nZdający zauważy, że nierówność 2sin\nx −<\n3\n0\nspełniona jest dla x\nR\ni rozwiąże\n∈\n1\n\n\n7π 11π\nnierówność\nsin\nx < −\n:\nx\n,\n.\n∈\n\n2\n\n6\n6\n"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2016-czerwiec/14.webp",
+   "size": [
+    950,
+    135
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–4)\nW trójkącie prostokątnym stosunek różnicy długości przyprostokątnych do długości\nprzeciwprostokątnej jest równy 1\n2 . Oblicz cosinusy kątów ostrych tego trójkąta.",
+   "key": "Zadanie 14. (0–4)\nW trójkącie prostokątnym stosunek różnicy długości przyprostokątnych do długości\nprzeciwprostokątnej jest równy 1\n2 . Oblicz cosinusy kątów ostrych tego trójkąta.\nRozwiązanie (I sposób)\nSporządzamy rysunek pomocniczy i wprowadzamy oznaczenia.\nβ\nc\na\nα\n⋅\nb\nBez zmniejszania ogólności rozwiązania możemy założyć, że a\nb\n. Otrzymujemy zatem\n>\nrównanie\na\nb\n1\n−\n,\n=\nc\n2\nktóre jest równoważne równaniu\na\nb\n1\n.\n−\n=\nc\nc\n2\n1\n1\nOznacza to, że\n, a stąd wynika, że\n. Podstawiamy tę\nsin\ncos\nsin\ncos\nα\n−\nα\n=\nα\n=\nα\n+\n2\n2\nzależność do tożsamości\n2\n2\n= i otrzymujemy równanie\nsin\ncos\n1\nα\n+\nα\n3\n.\n2\n2 cos\ncos\n0\nα\n+\nα\n−\n=\n4\n1\n7\n1\n7\n−+\n−−\ncos\ncos\nTo równanie ma dwa rozwiązania:\nα\n=\n,\nα\n=\n.\n4\n4\nPonieważ α jest kątem ostrym, więc drugie rozwiązanie należy odrzucić. Pozostaje obliczyć\ncosinus drugiego kąta ostrego. Ale\n, więc cos\n.\n90\nsin\nβ\n=\n° −\nα\nβ\n=\nα\nZ równości\n1\nsin\ncos\nα\n=\nα\n+\n2\n1\n7\n1\n1\n7\n−+\n+\ncos\nsin\nβ\n=\nα\n=\n+\n=\notrzymujemy\n.\n4\n2\n4\nSchemat punktowania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny\nna drodze do pełnego rozwiązania .....................................................................................  1 p.\na\nb\n1\n1\n−\nZdający zapisze równość\nw postaci\ni na tym zakończy lub dalej\nsin\ncos\n=\nα\n−\nα\n=\nc\n2\n2\npopełni błędy.\nRozwiązanie, w którym jest istotny postęp  ......................................................................  2 p.\n1\nZdający podstawi równość\ndo tożsamości\nsin\n2\ncos\n2\n= i doprowadzi\n1\nα\n−\nα\nsin\ncos\nα\n−\nα\n=\n2\notrzymane równanie do postaci uporządkowanego równania kwadratowego, np.\n3\n2\n2 cos\ncos\n0\nα\n+\nα\n−\n=\n4\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ......................................................................  3 p.\nZdający zapisze dwa rozwiązania tego równania\n1\n7\n1\n7\n−+\n−−\ncos\ncos\nα\n=\n,\nα\n=\n4\n4\noraz odrzuci ujemne rozwiązanie tego równania i na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne  ..............................................................................................................  4 p.\n1\n7\n−+\ncos\nZdający obliczy i zapisze cosinusy obu kątów ostrych tego trójkąta:\nα\n=\n,\n4\n1\n7\n+\ncos\nβ\n=\n.\n4\nRozwiązanie (II sposób)\nSporządzamy rysunek pomocniczy i wprowadzamy oznaczenia.\nβ\nc\na\nα\n⋅\nb\nBez straty ogólności rozwiązania możemy założyć, że a\nb\n. Otrzymujemy zatem równanie\n>\na\nb\n1\n−\n,\n=\nc\n2\nc\nZ tej równości wyznaczamy\n. Ponieważ dany trójkąt jest trójkątem prostokątnym,\na\nb\n=\n+\n2\nwięc stosujemy twierdzenie Pitagorasa i mamy:\n2\n\nc\n\n2\n2\nb\nb\nc\n,\n+\n+\n=\n\n\n\n2\n\nktóre jest równoważne równaniu\n2\n2\n.\n3\nc\n4\nbc\n8\nb\n0\n−\n−\n=\nOtrzymane równanie można potraktować jako równanie kwadratowe z niewiadomą c\ni parametrem b. Wyróżnik trójmianu stojącego po lewej stronie równania\n2\n(\n)\n2\n112\nb\n4\nb\n7\nΔ =\n=\n,\njest liczbą dodatnią (\nb >\n0\n), więc istnieją dwa rozwiązania tego równania:\n(\n)\n(\n)\n2\nb\n1\n7\n2\nb\n1\n7\n+\n−\n4\nb\n4\nb\n7\n4\nb\n4\nb\n7\n+\n−\noraz\n.\nc\nc\n=\n=\n=\n=\n1\n2\n6\n3\n6\n3\nc < , więc to rozwiązanie należy odrzucić, bo c jest długością boku w trójkącie.\n2 0\nPonieważ\nObliczamy zatem cosinusy obu kątów ostrych tego trójkąta, stosując definicję funkcji cosinus\nw trójkącie prostokątnym:\n(\n)\n3 1\n7\n−\nb\nb\n3\n1\n7\n−+\ncos\nα\n=\n=\n=\n=\n=\n.\n(\n)\n(\n)\nc\n12\n4\n−\n2\nb\n1\n7\n2 1\n7\n+\n+\n3\n(\n)\n(\n)\n2\nb\n1\n7\nb\n4\n7\n+\n+\nc\nPodstawiamy\ndo równości\ni otrzymujemy\n.\nc\na\n=\na\nb\n=\n=\n+\n3\n2\n3\nZatem cosinus drugiego kąta ostrego jest równy:\n(\n)\nb\n4\n7\n+\n(\n)\n3 1\n7\n−\n+\na\n4\n7\n1\n7\n+\n+\n3\ncos\nβ\n=\n=\n=\n=\n=\n.\n(\n)\n(\n)\nc\n12\n4\n−\n2\nb\n1\n7\n2 1\n7\n+\n+\n3\nSchemat punktowania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny\nna drodze do pełnego rozwiązania .....................................................................................  1 p.\na\nb\n1\n−\nZdający zapisze równość\n, a następnie wyznaczy z niej jedną zmienną np.\n=\nc\n2\nc\na\nb\n=\n+\n2\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie, w którym jest istotny postęp .......................................................................  2 p.\n2\n\n\nc\n2\n2\nZdający skorzysta z twierdzenia Pitagorasa i doprowadzi równanie\nb\nb\nc\ndo\n+\n+\n=\n\n\n\n2\n\nrównania kwadratowego z niewiadomą c i parametrem b\n2\n2\n3\nc\n4\nbc\n8\nb\n0\n−\n−\n=\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania ......................................................................  3 p.\n(\n)\n2\nb\n1\n7\n+\nZdający zapisze dodatnie rozwiązanie tego równania\n, a następnie obliczy\nc\n=\n1\n3\ncosinus kąta α :\nb\n1\n7\n−+\ncos\nα\n=\n=\nc\n4\ni na tym zakończy lub dalej popełni błędy.\nRozwiązanie pełne  ..............................................................................................................  4 p.\n1\n7\n−+\ncos\nα\n=\nZdający obliczy i zapisze cosinusy obu kątów ostrych tego trójkąta:\n,\n4\n1\n7\n+\ncos\nβ\n=\n.\n4"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-R-2016-czerwiec/15.webp",
+   "size": [
+    950,
+    105
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–4)\nOblicz, ile jest wszystkich liczb naturalnych pięciocyfrowych, w których zapisie występują\ndokładnie trzy cyfry nieparzyste.",
+   "key": "Zadanie 15. (0–4)\nOblicz, ile jest wszystkich liczb naturalnych pięciocyfrowych, w których zapisie występują\ndokładnie trzy cyfry nieparzyste.\nRozwiązanie (I sposób)\nRozpatrujemy dwa przypadki:\na) Jeśli pierwszą cyfrą jest cyfra nieparzysta, którą możemy wybrać na 5 sposobów, to\nz czterech pozostałych miejsc wybieramy dwa, na które wstawiamy cyfry nieparzyste.\nMożemy to zrobić na\n25 sposobów. Na pozostałych dwóch miejscach umieszczamy\n25 sposobów. Liczba wszystkich utworzonych w ten sposób liczb\ncyfry parzyste na\n\n4\n2\n2\npięciocyfrowych wynosi\n5\n5\n5\n18750\n.\n⋅\n⋅\n⋅\n=\n\n2\n\nb) Jeśli pierwszą cyfrą jest cyfra parzysta, którą możemy wybrać na 4 sposoby, to\nz czterech pozostałych miejsc wybieramy trzy, na które wstawiamy cyfry nieparzyste.\nMożemy to zrobić na\n35 sposobów. Na pozostałym miejscu umieszczamy cyfrę\nparzystą na 5 sposobów. Liczba wszystkich utworzonych w ten sposób liczb\n\n4\n3\npięciocyfrowych wynosi\n4\n5\n5\n10000\n.\n⋅\n⋅\n⋅=\n\n3\n\nZatem wszystkich liczb pięciocyfrowych spełniających podane w zadaniu warunki jest\n18750 10000\n28750\n.\n+\n=\nRozwiązanie (II sposób)\nW pierwszej kolejności obliczymy liczbę wszystkich ciągów 5-wyrazowych, których\nwyrazami są elementami zbioru {0, 1, 2, …, 8, 9} oraz dokładnie 3 wyrazy to cyfry\n⋅\n⋅\n5\n4\n3\n2\n3\nnieparzyste:\n5\n5\n. Wśród niech jest\n5\n5\nciągów, których pierwszym wyrazem\n\n⋅\n\n⋅\n3\n3\n\n\njest cyfra 0. Pozostałe ciągi reprezentują rozpatrywane liczby.\nZatem wszystkich liczb pięciocyfrowych spełniających podane w zadaniu warunki jest:\n\n5\n\n4\n4 5\n⋅\n3\n2\n3\n5\n4\n4\n4\n4\n5\n5\n5\n5\n5\n4 5\n10 5 5\n4 5\n46 5\n28750\n.\n⋅\n⋅\n−\n⋅\n⋅=\n⋅\n−⋅\n=\n⋅⋅\n−⋅\n=\n⋅\n=\n\n\n3\n3\n2\n\n\nSchemat punktowania\nRozwiązanie, w którym postęp jest wprawdzie niewielki, ale konieczny do całkowitego\nrozwiązania zadania ............................................................................................................. 1 p.\nZdający\n• rozpatrzy dwa przypadki ze względu na to, czy pierwsza cyfra liczby (licząc od lewej\nstrony) jest parzysta, czy nieparzysta i w każdym z tych przypadków zapisze na ile\nsposobów można wybrać pierwszą cyfrę: 4 w pierwszy przypadku, 5 w drugim\nprzypadku\nalbo\n\n• zapisze, że jest 5\nmożliwości rozmieszczenia trzech cyfr nieparzystych,\n\n3\n\nalbo\n• zapisze 10 przypadków rozmieszczenia trzech cyfr nieparzystych:\nN N _ _ _\nN _ N _ _\nN _ _ N _\nN _ _ _ N\n_ N N _ _\n_ N _ N _\n_ N _ _ N\n_ _ N N _\n_ _ N _ N\n_ _ _ N N,\nalbo\n• zapisze, że alby obliczyć liczbę wszystkich rozpatrywanych liczb wystarczy od liczby\nwszystkich ciągów 5-wyrazowych, których wyrazami są elementami zbioru\n{0, 1, 2, …, 8, 9} oraz dokładnie 3 wyrazy to cyfry nieparzystymi  odjąć liczbę\nwszystkich ciągów 5-wyrazowych, których wyrazami są elementy zbioru\n{0, 1, 2, …, 8, 9} i pierwszym wyrazem ciągu jest cyfra 0\ni na tym zakończy lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający zapisze liczbę wszystkich\n\n4\n3\n• rozpatrywanych liczb, których pierwsza cyfra jest parzysta:\n4\n5\n5\n⋅\n⋅\n⋅\n\n3\n\nalbo\n\n4\n• rozpatrywanych liczb, których pierwsza cyfra jest nieparzysta:\n2\n2\n5\n5\n5\n,\n⋅\n\n⋅\n⋅\n2\n\nalbo\n• liczbę wszystkich ciągów 5-wyrazowych, których wyrazami są elementami zbioru\n⋅\n5\n3\n2\n{0, 1, 2, …, 8, 9} oraz dokładnie 3 wyrazy to cyfry nieparzystymi:\n5\n5\n,\n⋅\n\n3\n\nalbo\n• zapisze liczbę wszystkich ciągów 5-wyrazowych, których wyrazami są elementy\n⋅\n4\n3\nzbioru {0, 1, 2, …, 8, 9} i pierwszym wyrazem ciągu jest cyfra 0:\n5\n5\n.\n\n⋅\n3\n\nPokonanie zasadniczych trudności zadania ......................................................................  3 p.\nZdający zapisze liczbę wszystkich rozpatrywanych liczb pięciocyfrowych\n\n4\n\n4\n3\n2\n2\n•\n4\n5\n5\n5\n5\n5\n⋅\n⋅\n⋅+ ⋅\n⋅\n⋅\n\n\n3\n2\n\n\nalbo\n\n\n5\n4\n3\n2\n3\n•\n5\n5\n5\n5\n,\n\n⋅\n⋅\n−\n\n⋅\n⋅\n3\n3\n\n\nalbo\n• obliczy bezbłędnie liczbę liczb pięciocyfrowych spełniających warunki zadania,\nktórych pierwszą cyfrą jest cyfra nieparzysta, a liczbę liczb pięciocyfrowych\nspełniających warunki zadania, których pierwszą cyfrą jest cyfra parzysta obliczy\nz błędem rachunkowym (lub odwrotnie) i konsekwentnie do popełnionego błędu\nobliczy liczbę rozpatrywanych liczb.\nRozwiązanie pełne ...............................................................................................................  4 p.\nZdający, obliczy, że wszystkich liczb pięciocyfrowych spełniających podane w zadaniu\nwarunki jest 28750 .\nUwaga:\nJeżeli zdający pominie jeden z 10 przypadków rozmieszczenia trzech cyfr  nieparzystych\ni konsekwentnie rozwiąże zadanie do końca, to otrzymuje 3 punkty."
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-R-2016-czerwiec/16.webp",
+   "size": [
+    950,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–5)\n(\n)\n(\n)\nPunkty\nA = −\n7, 2\ni\nB =\n4, 7\nsą wierzchołkami podstawy trójkąta równoramiennego\n−\n−\nABC, a wysokość opuszczona z wierzchołka A tego trójkąta zawiera się w prostej o równaniu\n. Oblicz współrzędne wierzchołka C.\n2\nx\n19\ny\n52\n0\n+\n+\n=",
+   "key": "Zadanie 16. (0–5)\n(\n)\n(\n)\nPunkty\nA = −\n7, 2\ni\nB =\n4, 7\nsą wierzchołkami podstawy trójkąta równoramiennego\n−\n−\nABC, a wysokość opuszczona z wierzchołka A tego trójkąta zawiera się w prostej o równaniu\n. Oblicz współrzędne wierzchołka C.\n2\nx\n19\ny\n52\n0\n+\n+\n=\nRozwiązanie (I sposób)\nTrójkąt ABC jest równoramienny, więc wierzchołek C leży na symetralnej podstawy AB i na\nprostej BC, która jest prostopadła do w prostej o równaniu 2\nx\n19\ny\n52\n0\n(wysokości\n+\n+\n=\nopuszczonej z wierzchołka A tego trójkąta).\ny\n16\n15\n14\n13\nC\n12\n11\n10\n9\n8\n7\n6\n5\n4\n3\n2\n−\n19\nx\n+\n2\ny\n+\n90\n=\n0\n1\n0\n17-16-15-14-13-12-11-10 -9 -8 -7 -6 -5 -4 -3 -2 -1\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21\n-1\nA\n-2\n-3\n-4\nS\n-5\n-6\n11\nx\n5\ny\n6\n0\n−\n−\n=\n-7\nB\n5\ny\n(\nx\n4\n)\n7\n= −\n−\n−\n-8\n11\n-9\n-10\n-11\n-12\n-13\nNiech S będzie środkiem odcinka AB. Ze wzorów na współrzędne środka odcinka\notrzymujemy\n\nx\nx\ny\ny\n\n\n7\n4\n2\n7\n\n\n3\n9\n\n+\n+\n−+\n−−\nS\nA\nB\n,\nA\nB\n,\n,\n.\n=\n=\n= −\n−\n\n\n\n\n\n\n\n2\n2\n\n\n2\n2\n\n\n2\n2\n\n(\n)\n7\n2\n5\n−−−\n) (\n)\n(\n)\nProsta AB ma równanie postaci\ny\nx\n4\n7\n, czyli\ny\nx\n4\n−.\n7\n=\n−\n−\n= −\n−\n(\n11\n4\n7\n−−\n5\n(\n)\ny\nx\n4\n7\nSymetralna odcinka AB jest prostopadła do prostej o równaniu\n−\n= −\n−\n11\n11\n6\n11\n\n3\n\n9\ny\nx\ni przechodzi przez punkt S, zatem ma postać\ny\nx\n, czyli\n=\n−\nlub\n=\n+\n−\n\n\n5\n\n2\n\n2\n5\n5\n11\nx\n5\ny\n6\n0\n.\n−\n−\n=\nProsta BC jest prostopadła do prostej o równaniu 2\nx\n19\ny\n52\n0\ni przechodzi przez punkt\n+\n+\n=\n(\n)\n(\n)\n(\n)\nB =\n4, 7\n, więc ma równanie postaci\n19\nx\n4\n2\ny\n7\n0\n, czyli  19\nx\n2\ny\n90\n0\n.\n−\n−\n−\n+\n+\n=\n−\n+\n+\n=\nObliczmy współrzędne punktu C przecięcia tych dwóch prostych, rozwiązując układ równań\n11\n6\ny\nx\n=\n−\ni 19\nx\n2\ny\n90\n0\n.\n−\n+\n+\n=\n5\n5\nStąd\n\n\n11\n6\n19\nx\n2\nx\n90\n0\n,\n−\n+\n−\n+\n=\n\n\n5\n5\n\n\n(\n)\n19 5\nx\n2 11\nx\n6\n90 5\n0\n,\n−\n⋅\n+\n−\n+\n⋅=\n73\nx =\n438\n,\nx =\n6\n.\n11\n6\n60\n(\n)\nZatem\ny =\n6\n12\n, więc\nC =\n6,12\n.\n⋅−\n=\n=\n5\n5\n5\nUwaga:\nRównanie symetralnej podstawy AB trójkąta możemy wyznaczyć nieco inaczej.\nSposób a). Wykorzystamy fakt, że jest ona prostopadła do wektora AB i przechodzi przez\n\n\n(\n)\n(\n)\n\n[\n]\nśrodek S odcinka AB. Współrzędne wektora AB są równe\nAB=\n4\n7 , 7\n2\n11, 5\n.\n−−\n−−−\n=\n−\n\n\n(\n)\n3\n9\nSymetralna odcinka AB jest prostopadła wektora AB i przechodzi przez punkt\nS = −\n,\n,\n−\n2\n2\nwięc ma ona równanie postaci (\n)\n(\n)\n3\n9\n11\nx\n5\ny\n0\n, czyli 11\nx\n5\ny\n6\n0\n.\n+\n−\n+\n=\n−\n−\n=\n2\n2\nSposób b). Wykorzystamy fakt, że symetralna odcinka jest zbiorem wszystkich punktów\n(\n)\nC\nx y\n,\npłaszczyzny równo oddalonych od jego końców. Niech\n=\nbędzie dowolnym punktem\nleżącym na symetralnej odcinka AB. Zatem AC\nBC\n. Stąd, otrzymujemy kolejno\n=\n2\n2\n2\n2\n(\n)\n(\n)\n(\n)\n(\n)\nx\n7\ny\n2\nx\n4\ny\n7\n,\n+\n+\n+\n=\n−\n+\n+\n2\n2\n2\n2\n(\n)\n(\n)\n(\n)\n(\n)\nx\n7\ny\n2\nx\n4\ny\n7\n,\n+\n+\n+\n=\n−\n+\n+\n2\n2\n2\n2\nx\n14\nx\n49\ny\n4\ny\n4\nx\n8\nx\n16\ny\n14\ny\n49\n,\n+\n+\n+\n+\n+\n=\n−\n+\n+\n+\n+\n11\n6\n, czyli\ny\nx\n.\n11\nx\n5\ny\n6\n0\n=\n−\n−\n−\n=\n5\n5\nSchemat punktowania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający\n• wyznaczy współrzędne środka S podstawy AB i zapisze równanie prostej AB:\n\n\n5\n3\n9\n(\n)\nS\n,\n,\ny\nx\n4\n−\n7\n= −\n−\n= −\n−\n\n\n11\n\n2\n2\n\nalbo\n• wyznaczy współrzędne środka S podstawy AB i obliczy współczynnik kierunkowy\n5\n\n3\n9\n\nprostej AB:\nS\n,\n,\na = −\n,\n= −\n\n−\n\n11\n\n2\n2\n\nalbo\n• wyznaczy współrzędne środka S podstawy AB i obliczy współrzędne wektora AB:\n\n\n3\n9\n\n[\n]\nS\n,\n,\nAB =\n11, 5\n,\n= −\n−\n−\n\n\n\n2\n2\n\nalbo\n• zapisze równanie symetralnej odcinka AB w postaci\n2\n2\n2\n2\n(\n)\n(\n)\n(\n)\n(\n)\nx\n7\ny\n2\nx\n4\ny\n7\n.\n+\n+\n+\n=\n−\n+\n+\nRozwiązanie, w którym jest istotny postęp  ....................................................................... 2 p.\nZdający wyznaczy:\n11\n6\n•  równanie prostej SC :\ny\nx\nlub 11\nx\n5\ny\n6\n0\n=\n−\n−\n−\n=\n5\n5\nalbo\n• równanie prostej BC : 19\nx\n2\ny\n90\n0\n.\n−\n+\n+\n=\nPokonanie zasadniczych trudności zadania ....................................................................... 4 p.\n11\n6\nZdający wyznaczy równania prostych SC i BC:\ny\nx\n(lub 11\n),\n=\n−\nx\n5\ny\n6\n0\n−\n−\n=\n5\n5\n19\nx\n2\ny\n90\n0\ni zapisze, że C jest punktem przecięcia tych dwóch prostych.\n−\n+\n+\n=\nUwaga:\nJeżeli zdający wyznaczając równania prostych SC i BC popełni błąd rachunkowy, to otrzymuje\n3 punkty.\nRozwiązanie pełne ................................................................................................................ 5 p.\nZdający obliczy współrzędne wierzchołka C: (\n)\n6,12 .\nRozwiązanie (II sposób)\nTrójkąt ABC jest równoramienny, więc AC\nBC\n=\ni punkt C leży na prostej BC, która jest\nprostopadła do w prostej o równaniu 2\nx\n19\ny\n52\n0\n(wysokości opuszczonej z wierzchołka\n+\n+\n=\nA tego trójkąta).\ny\n11\n10\n9\n8\n7\n6\n5\n4\n3\n2\n19\nx\n2\ny\n90\n0\n−\n+\n+\n=\n1\n0\n-10\n-9\n-8\n-7\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\nA\n-1\n-2\n-3\n-4\nS\n-5\n-6\n11\nx\n−\n5\ny\n−\n6\n=\n0\n5\ny\n(\nx\n4\n)\n7\n= −\n−\n−\n-7\nB\n11\n-8\nProsta BC jest prostopadła do prostej o równaniu 2\nx\n19\ny\n52\n0\ni przechodzi przez punkt\n+\n+\n=\n(\n)\nB =\n4, 7\n, więc ma równanie postaci\n−\n(\n)\n(\n)\n19\nx\n4\n2\ny\n7\n0\n,\n−\n−\n+\n+\n=\n19\nx\n2\ny\n90\n0\n,\n−\n+\n+\n=\n19\ny\nx\n45\n.\n=\n−\n2\n\n\n19\nZatem punkt C ma współrzędne\nC\nx\n,\nx\n45\n.\n=\n−\n\n\nc\nc\n\n2\n\nTrójkąt ABC jest równoramienny i jego podstawą jest AB, zatem AC\nBC\n.\n=\nZatem\n2\n2\n\n19\n\n\n19\n\n2\n2\n(\n)\n(\n)\nx\n7\nx\n45\n2\nx\n4\nx\n45\n7\n.\n+\n+\n−\n+\n=\n−\n+\n−\n+\n\n\n\n\nc\nc\nc\nc\n\n2\n\n\n2\n\nStąd\n2\n2\n\n\n\n\n19\n19\n2\n2\n(\n)\n(\n)\nx\n7\nx\n45\n2\nx\n4\nx\n45\n7\n,\n+\n+\n\n−\n+\n\n=\n−\n+\n\n−\n+\n\nc\nc\nc\nc\n\n2\n\n\n2\n\n2\n2\n\n19\n\n\n19\n\n2\n2\n(\n)\n(\n)\nx\n7\nx\n43\nx\n4\nx\n38\n,\n+\n+\n−\n=\n−\n+\n−\n\n\n\n\nc\nc\nc\nc\n\n2\n\n\n2\n\n2\n2\n\n\n\n\n19\n19\n19\n19\nx\n2\n14\nx\n49\nx\n2\nx\n43 1849\nx\n2\n8\nx\n16\nx\n2\nx\n38 1444\n,\n+\n+\n+\n\n\n−⋅\n⋅\n+\n=\n−\n+\n+\n\n\n−⋅\n⋅\n+\nc\nc\nc\nc\nc\nc\nc\nc\n\n2\n\n2\n\n2\n\n2\n14\nx\n49 19 43\nx\n1849\n8\nx\n16 19 38\nx\n1444\n,\n+\n−\n⋅\n+\n= −\n+\n−\n⋅\n+\nc\nc\nc\nc\n14\nx\n722\nx\n817\nx\n8\nx\n1849 16\n49 1444\n,\n+\n−\n+\n= −\n+\n−\n+\nc\nc\nc\nc\n73\nx\n438\n,\n−\n= −\nx =\n6\n.\n19 6\ny =\n45\n57\n45\n12\n(\n)\nStąd\n⋅−\n=\n−\n=\n, więc\nC =\n6,12\n.\n2\nSchemat punktowania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ..................................................................."
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 7,
+   "image": "f2015-R-2016-czerwiec/17.webp",
+   "size": [
+    950,
+    106
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–7)\nRozpatrujemy wszystkie walce, których pole powierzchni całkowitej jest równe 2π . Oblicz\npromień podstawy tego walca, który ma największą objętość. Podaj tę największą objętość.",
+   "key": "Zadanie 17. (0–7)\nRozpatrujemy wszystkie walce, których pole powierzchni całkowitej jest równe 2π . Oblicz\npromień podstawy tego walca, który ma największą objętość. Podaj tę największą objętość.\nRozwiązanie\nr >\n0\nh >\n0\nNiech r oraz h oznaczają, odpowiednio, promień i wysokość walca (\ni\n). Ponieważ\npole P powierzchni całkowitej tego walca jest określone wzorem\n, więc\nP\n2π\nr\n2\n2π\nrh\n=\n+\notrzymujemy równanie\n, które jest równoważne równaniu\n. Z tego\n2\n2\n2π\n2π\nr\n2π\nrh\n1\nr\nrh\n=\n+\n=\n+\n1\nr\n2\n−\nh >\n0\nrównania wyznaczamy wysokość walca,\n. Zauważamy, że nierówność\njest\nh\n=\nr\nrównoważna nierówności 0\nr\n< . Objętość walca równą\n1\nzapisujemy jako\n<\nV\nπ\nr h\n2\n=\nfunkcję zmiennej r :\n2\n1\nr\n−\n, gdzie 0\nr\n< .\n1\n<\n( )\nV\nr\nπ\nr\n2\nπ\nr\nπ\nr\n3\n=\n⋅\n=\n−\nr\n3\n(\n)\n( )\nr =\nPochodna tej funkcji jest określona wzorem\nV\n'\nr\nπ 1 3\nr\n2\ndla 0\nr\n< . Dla\n1\n=\n−\n<\n3\n3\n0\nr\npochodna funkcji przyjmuje wartość zero. Ponadto, dla\n<\n<\npochodna funkcji\n3\n3\nr\n1\nprzyjmuje wartości dodatnie, zaś dla\n< < wartości dodatnie. Oznacza to, że w punkcie\n3\n3\nr =\nobjętość V tego walca osiąga maksimum lokalne. To maksimum lokalne jest\n3\n( )\n3\nw przedziale (\n)\nV r\nπ\nr\nπ\nr\n0, 1 , ponieważ dla\njednocześnie największą wartością funkcji\n=\n−\n3\nfunkcja V jest rosnąca, a dla  3\n0\nr\nr\n1\n<\n≤\n≤< jest malejąca.\n3\n3\nZatem, przy danym polu powierzchni całkowitej, największą objętość ma walec, którego\n3\n3\n2 3\nr =\nr =\nh =\npromień podstawy równa się\n. Jeżeli\n, to\n. Największa objętość tego\n3\n3\n3\n2 3 π\nV =\nwalca jest więc równa\n.\n9\nSchemat punktowania\nRozwiązanie zadania składa się z trzech etapów.\na) Pierwszy etap składa się z trzech części:\n• zapisanie równania\n,\n2π\n2π\nr\n2\n2π\nrh\n=\n+\n• zapisanie objętości danego walca jako funkcji jednej zmiennej, np.\n2\n1\nr\n−\n,\n( )\nV\nr\nπ\nr\n2\nπ\nr\nπ\nr\n3\n=\n⋅\n=\n−\nr\n• zapisanie, że dziedziną funkcji ( )\nV r jest przedział (\n)\n0,1 .\nZa zapisanie poprawnego równania w pierwszej części tego etapu zdający otrzymuje\n1 punkt. Za poprawne zapisanie objętości rozważanego walca w drugiej części tego etapu\nzdający otrzymuje 1 punkt, o ile pierwsza część etapu została zrealizowana bezbłędnie. Punkt\nza trzecią część zdający otrzymuje niezależnie od realizacji dwóch pierwszych części.\nb) Drugi etap składa się z trzech części:\n• zapisanie wzoru pochodnej funkcji ( )\n(\n)\nV r , np.:\n( )\n2\nV\n'\nr\nπ 1\n3\nr\n,\n=\n−\n• zapisanie, że w przedziale (\n)\n0, 1 pochodna funkcji V ma jedno miejsce zerowe\n3\nr =\n,\n3\n3\n( )\nV r osiąga w punkcie\nr =\n• zapisanie, że funkcja\nmaksimum lokalne\n3\ni uzasadnienie, że to maksimum lokalne jest jednocześnie największą wartością tej\nfunkcji.\nZa poprawne rozwiązanie każdej z części tego etapu zdający otrzymuje 1 punkt, o ile\npoprzednia część etapu została zrealizowana bezbłędnie.\nc) Trzeci etap:\n3\nr =\n1 punkt zdający otrzyma za zapisanie, że dla\nwalec ma największą objętość równą\n3\n2 3 π\nV =\n.\n9\nUwaga:\nPunkty za realizację danego etapu przyznajemy tylko wówczas, gdy zdający rozwiązał\npoprawnie poprzedni etap zadania."
+  }
+ ]
+}

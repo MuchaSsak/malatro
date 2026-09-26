@@ -1,0 +1,123 @@
+[
+ {
+  "exam": "f2015-P-2024-sierpien",
+  "task": "14",
+  "verdict": "fix",
+  "solved_value": 1,
+  "value": 1,
+  "answer_tex": "x=1",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Graph: zeros -1 and 3, vertex (1,-2), so axis x=1 (option A, key A). Stored -2 (option C) is wrong."
+ },
+ {
+  "exam": "f2015-P-2024-sierpien",
+  "task": "33",
+  "verdict": "ok",
+  "solved_value": -3,
+  "value": -3,
+  "answer_tex": "r=-3",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "2a1+r=2a1+5r+12 gives r=-3; matches key."
+ },
+ {
+  "exam": "f2015-P-2025-czerwiec",
+  "task": "17",
+  "verdict": "ok",
+  "solved_value": 4,
+  "value": 4,
+  "answer_tex": "4",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Crop has figure 10-24-26; r=(10+24-26)/2=4, option B, key B."
+ },
+ {
+  "exam": "f2015-P-2025-czerwiec",
+  "task": "18",
+  "verdict": "ok",
+  "solved_value": 13,
+  "value": 13,
+  "answer_tex": "13",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Crop has figure; R=hypotenuse/2=13, option D, key D."
+ },
+ {
+  "exam": "f2015-P-2025-maj",
+  "task": "14",
+  "verdict": "ok",
+  "solved_value": 1.3333333333333333,
+  "value": 1.3333333333333333,
+  "answer_tex": "\\tan\\alpha=\\frac{4}{3}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "AD=3, CD=5 so AC=4; tan alpha=4/3, option D, key D."
+ },
+ {
+  "exam": "f2015-P-2025-maj",
+  "task": "15",
+  "verdict": "ok",
+  "solved_value": 0.5547001962252291,
+  "value": 0.5547001962252291,
+  "answer_tex": "\\sin\\beta=\\frac{2}{\\sqrt{13}}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "AC=4, AB=6, BC=sqrt52; sin beta=4/sqrt52=2/sqrt13, option A, key A."
+ },
+ {
+  "exam": "f2015-P-2025-maj",
+  "task": "29",
+  "verdict": "ok",
+  "solved_value": 0.5,
+  "value": 0.5,
+  "answer_tex": "m=-2 \\lor m=\\frac{5}{2}",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "2m^2-m-10=0 gives m=-2, 5/2; sum 1/2 matches key."
+ },
+ {
+  "exam": "f2015-P-2025-sierpien",
+  "task": "8",
+  "verdict": "ok",
+  "solved_value": 0,
+  "value": 0,
+  "answer_tex": "0",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Crop includes graph; f(x)=x-1 on [-3,4]: f(-2)=-3, f(2)=1, sum 0, option B, key B."
+ },
+ {
+  "exam": "f2015-P-2025-sierpien",
+  "task": "10",
+  "verdict": "ok",
+  "solved_value": -1,
+  "value": -1,
+  "answer_tex": "b=-1",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Axis x=-b/(2*1/2)=-b=1 so b=-1, option B, key B."
+ },
+ {
+  "exam": "f2015-P-2025-sierpien",
+  "task": "12",
+  "verdict": "ok",
+  "solved_value": 4,
+  "value": 4,
+  "answer_tex": "x=4",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "g is f shifted right by 3; axis x=4, option D, key D."
+ },
+ {
+  "exam": "f2015-P-2025-sierpien",
+  "task": "17",
+  "verdict": "ok",
+  "solved_value": 80,
+  "value": 80,
+  "answer_tex": "80^\\circ",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "Central angle BSA = 2*inscribed BDA = 80 deg, option D, key D."
+ }
+]

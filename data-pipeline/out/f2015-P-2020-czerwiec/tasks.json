@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2015-P-2020-czerwiec",
+  "formula": "2015",
+  "level": "P",
+  "year": 2020,
+  "session": "czerwiec",
+  "month": "07",
+  "code": "MMA-P1_1P-203",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2020-lipiec-matura-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2020-lipiec-matura-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2015-P-2020-czerwiec.pdf",
+  "keyFile": "f2015-P-2020-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "COVID-19: termin dodatkowy held in July 2020; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 28,
+  "keyPages": 23,
+  "examBytes": 1614728,
+  "keyBytes": 488317
+ },
+ "keyHead": "EGZAMIN MATURALNY\nW ROKU SZKOLNYM 2019/2020\nMATEMATYKA\nPOZIOM PODSTAWOWY\nFORMUŁA OD 2015\n(„NOWA MATURA”)\nZASADY OCENIANIA ROZWIĄZAŃ ZADAŃ\nARKUSZ MMA-P1A1P-203\nCZERWIEC 2020\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nEgzaminatorze!\n• Oceniaj prace zdających uczciwie i z zaangażowaniem.\n• Stosuj przyjęte zasady oceniania w sposób obiektywny. Pamiętaj, że każda\nmerytorycznie poprawna odpowiedź, spełniająca warunki określone w poleceniu, musi\nzostać pozytywnie oceniona, nawet jeżeli nie została przewidziana w przykładowych\nodpowiedziach w zasadach oceniania.\n• Konsultuj\nniejednoznaczne\nrozwiązania\nzadań\nz\ninnymi\negzaminatorami\nlub\nprzewodniczącym zespołu egzaminatorów. W przypadku niemożności osiągnięcia\nwspólnego stanowiska, rozstrzygajcie na korzyść zdającego.\n• Przyznając punkty, nie kieruj się emocjami.\n• Informuj przewodniczącego o wszystkich nieprawidłowościach zaistniałych w trakcie\noceniania, w tym podejrzeń o niesamodzielność w pisaniu pracy.\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nWersja A\nNr\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nzad.\nC\nB\nC\nD\nA\nB\nC   A\nD\nA\nB\nB\nD\nB\nD\nA\nB\nD\nA\nC\nD\nD\nC\nB\nB\nOdp.\nZadanie 1. (0–1)\nZadanie 2. (0–1)\nZadanie 3. (0–1)\nZadanie 4. (0–1)\nZadanie 5. (0–1)\nZadanie 6. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZadanie 7. (0–1)\nZadanie 8. (0–1)\nZadanie 9. (0–1)\nZadanie 10. (0–1)\nZadanie 11. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZadanie 12. (0–1)\nZadanie 13. (0–1)\nZadanie 14. (0–1)\nZadanie 15. (0–1)\nZadanie 16. (0–1)\nZadanie 17. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZadanie 18. (0–1)\nZadanie 19. (0–1)\nZadanie 20. (0–1)\nZadanie 21. (0–1)\nZadanie 22. (0–1)\nZadanie 23. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZadanie 24. (0–1)\nZadanie 25. (0–1)\nZadanie 26. (0–2)\n(\n)(\n)\nRozwiąż nierówność\n2\nx\n+\n5\n3\nx\n−\n1\n≥\n0\n.\nZadanie 26. (0–2)\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania polega na wyznaczeniu pierwiastków trójmianu kwadratowego\n(\n)(\n)\n.\n2\nx\n+\n5\n3\nx\n−\n1\nZnajdujemy pierwiastki trójmianu kwadratowego\n2\n−:\n6\nx\n+\n13\nx\n5\n5\n1\n• podajemy je bezpośrednio z postaci iloczynowej:\n,\nx = −\nx =\n2\n3\n1\n2\nalbo\n• obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:\n13 17\n5\n13 17\n1\n(\n)\n−\n−\n−\n+\n2\n,\n∆=\n17\n,\n,\n.\n∆=\n13\n−⋅⋅−\n4 6\n5\n=\n289\nx\n=\n= −\nx\n=\n=\n12\n2\n12\n3\n1\n2\nDrugi etap rozwiązania polega na wyznaczeniu zbioru rozwiązań nierówności\n(\n)(\n)\n.\n2\nx\n+\n5\n3\nx\n−\n1\n≥\n0\nPodajemy zbiór rozwiązań nierówności: (\n(\n5\n5\n1\n)\n1\n)\n−∞−\n,\n∪\n,\n+∞ lub\nx∈−∞−\n,\n∪\n,\n+∞ lub\n2\n3\n2\n3\n5\n1\n(\nx ≤−\nlub\nx ≥\n) , np. odczytując go ze szkicu wykresu funkcji\nf x\n( )\n=\n6\nx\n2\n+\n13\nx\n−.\n5\n2\n3\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nx\nSchemat oceniania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n• zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\n5\n1\nobliczy lub poda pierwiastki trójmianu kwadratowego\n,\ni na\nx = −\nx =\n•\n2\n3\n1\n2\ntym zakończy lub błędnie zapisze zbiór rozwiązań nierówności,\nzaznaczy na wykresie miejsca zerowe funkcji\nf x\n( )\n6\nx\n2\n13\nx\n− i na tym\n5\n=\n+\n•\nzakończy lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n• realizując pierwszy etap błędnie wyznaczy pierwiastki (ale otrzyma dwa różne\npierwiastki) i konsekwentnie do tego rozwiąże nierówność, np. popełni błąd\nrachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy:\n• poda zbiór rozwiązań nierówności: (\n(\n5\n1\n5\n1\n)\n)\n,\n,\n+∞ lub\n,\n,\n+∞\n−∞−\n∪\nx∈−∞−\n∪\n2\n3\n2\n3\n5\n1\nlub (\nlub\n)\nx ≤−\nx ≥\n2\n3\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\nUwagi\n(2𝑥𝑥−5)(3𝑥𝑥−1) ≥0, to może otrzymać 1 punkt, jeśli konsekwentnie rozwiąże\n1. Jeżeli zdający popełnia błąd w przepisywaniu nierówności, np. zapisze\n2. Jeżeli zdający rozwiązuje układ nierówności 2𝑥𝑥+ 5 ≥0 i 3𝑥𝑥−1 ≥0 i nie rozpatruje\nzadanie do końca.\nukładu 2𝑥𝑥+ 5 ≤0 i 3𝑥𝑥−1 ≤0, to może otrzymać 1 punkt za poprawne\nwyznaczenie pierwiastków −\n5\n1\n2 i\n3.\n3. Zapisanie przedziału domkniętego w nieskończoności traktujemy jako usterkę nie\npowodującą utraty punktów.\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nZasady oceniania rozwiązań zadań\npoziom podstawowy\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu\n(\n5\n1\n5\n1\n)\nx = −\ni\nx =\ni zapisze, np.,\nx∈−∞−\n,\n∪−\n,\n+∞ popełniając tym samym błędy\n2\n3\n2\n3\n1\n2\nprzy przepisywaniu pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\n(\n1\n5\n)\n+∞, to przyznajemy 2 punkty.\nnierówności w postaci\nx∈−∞\n,\n∪−\n,\n3\n2\nZadanie 27. (0–2)\n(\n)(\n)\nDane są liczby\na\n3",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/1.webp",
+   "size": [
+    950,
+    166
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (0–1)\n9\na\nRówność\njest prawdziwa, gdy\n2\n+\na\n=\n2\na\n+\n1\nA.\nB.\nC.\nD.\na\n=\n−\n2\na\n=\n−\n1\na\n=\n1\na\n=\n2",
+   "key": "Zadanie 1. (0–1)"
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/2.webp",
+   "size": [
+    950,
+    158
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (0–1)\n(\n)\n2\nLiczba\n7\njest równa\n1\n−\n2\n−\n1\nA.\n2\n14\nB.\n2\n8\n2\n14\nC.\n2\n2\n14\nD.\n2\n14\n2 2\n7\n2\n−\n−\n−\n−\n−⋅\n+",
+   "key": "Zadanie 2. (0–1)"
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/3.webp",
+   "size": [
+    950,
+    147
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (0–1)\nLiczba\nlog\n4 jest równa\n8\n2\nA.\n2\nB.\n4\nC.\nD.\n16\n32",
+   "key": "Zadanie 3. (0–1)"
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/4.webp",
+   "size": [
+    950,
+    184
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (0–1)\nMasę Słońca równą\n1,989 10\n30\nkg przybliżono do\n2 10\n30\nkg. Błąd bezwzględny tego\n⋅\n⋅\nprzybliżenia jest równy\nA.  0,0011 1030 kg\nB. 1,1 1030 kg\nC. 0,11 1030 kg\nD. 0,011 1030 kg\n.\n.\n.\n.",
+   "key": "Zadanie 4. (0–1)"
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/5.webp",
+   "size": [
+    950,
+    151
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (0–1)\nNajwiększą liczbą całkowitą spełniającą nierówność 1\n2\nx\nx\n4\njest\n−\n≥\n+\n6\n3\n2\n2\nA.\n−\n3\nB.\n−\nC.\nD.\n3",
+   "key": "Zadanie 5. (0–1)"
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/6.webp",
+   "size": [
+    950,
+    269
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (0–1)\n1\n−\nx\n2\nRównanie\n=\nx\nw zbiorze liczb całkowitych\nx\nA.\nnie ma żadnego rozwiązania.\nB.\nma dokładnie jedno rozwiązanie.\nC.\nma dokładnie dwa rozwiązania.\nD.\nma więcej niż dwa rozwiązania.",
+   "key": "Zadanie 6. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/7.webp",
+   "size": [
+    950,
+    595
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (0–1)\n2\nBoki trójkąta ABC są zawarte w prostych o równaniach\ny\n=\nx\n+\n2\ni\ny\n= −+\nx\n2\noraz osi Ox\n3\nukładu współrzędnych (zobacz rysunek).\ny\nC\nA\nB\n0\nx\nPole trójkąta ABC jest równe\n5\n3\nA. 10\nB.\nC. 5\nD.\n2\n2",
+   "key": "Zadanie 7. (0–1)"
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/8.webp",
+   "size": [
+    950,
+    207
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (0–1)\n(\n)\n(\n)\nPunkt\nleży na wykresie funkcji liniowej  f  określonej wzorem\n+ .\nP = −\n3,7\nf x\n( )\n=\n2\nm\n−\n1\nx\n5\nZatem\n1\n1\n5\n5\nm =\nm = −\nm =\nm = −\nA.\nB.\nC.\nD.\n6\n6\n6\n6",
+   "key": "Zadanie 8. (0–1)"
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/9.webp",
+   "size": [
+    950,
+    163
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (0–1)\n( )\nWykresem funkcji kwadratowej f określonej wzorem\n2\n6\n4\njest parabola\nf x\n= −\nx\n+\nx\n+\no wierzchołku w punkcie (\n)\n,3\n. Liczba  q  jest równa\nq\nA. 4\nB. 7\nC. 9\nD. 13",
+   "key": "Zadanie 9. (0–1)"
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/10.webp",
+   "size": [
+    950,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (0–1)\nFunkcja   f   każdej liczbie naturalnej\nn ≥\n1\nprzyporządkowuje resztę z dzielenia tej liczby przez 4.\nZbiorem wartości funkcji  f  jest\nA. {\n}\nB. {\n}\nC. {\n}\nD. {\n}\n0,1, 2, 3\n1, 2, 3, 4\n0,1, 2, 3, 4\n0, 2",
+   "key": "Zadanie 10. (0–1)"
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/11.webp",
+   "size": [
+    950,
+    603
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (0–1)\nNa rysunku poniżej przedstawiono fragment wykresu funkcji kwadratowej  f  określonej\n2\nwzorem\nf x\n( )\n=\nax\n+\nbx\n+\nc\n.\ny\nx\n0\nStąd wynika, że\n0\n0\n0\n0\na\n<\na\n<\na\n>\na\n>\n\n\n\n\nA.\nB.\nC.\nD.\n<\n>\n<\n>\n0\n0\n0\n0\nb\nb\nb\nb\n\n\n\n",
+   "key": "Zadanie 11. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/12.webp",
+   "size": [
+    950,
+    192
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (0–1)\n3\n(\n)\ny\nm\n2\nx\n7\nProste o równaniach\n=\n−\noraz\ny\n=\nx\n+\nsą prostopadłe. Wtedy\n4\n5\n2\n11\n10\nA.\nm = −\nB.\nm =\nC.\nm =\nD.\nm =\n4\n3\n4\n3",
+   "key": "Zadanie 12. (0–1)"
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/13.webp",
+   "size": [
+    950,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (0–1)\n(\n)\nCiąg arytmetyczny\njest określony dla każdej liczby naturalnej\n1\n. Czwarty wyraz tego\na\nn ≥\nn\nciągu jest równy\n2020\n. Suma\njest równa\na =\na +\na\n4\n2\n6\nA.\n505\nB.\n1010\nC.\n2020\nD.\n4040",
+   "key": "Zadanie 13. (0–1)"
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/14.webp",
+   "size": [
+    950,
+    179
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (0–1)\n(\n)\nCiąg geometryczny\nna\njest określony dla każdej liczby naturalnej\nn ≥\n1\noraz\na =\n6\ni\na = −\n48\n.\n2\n5\nWynika stąd, że\nA.\na >\n0\nB.\na <\n0\nC.\na\na\nD.\na\na\n>\n>\n7\n7\n7\n6\n7\n8",
+   "key": "Zadanie 14. (0–1)"
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/15.webp",
+   "size": [
+    950,
+    201
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (0–1)\n(\n)\n(\n)\nPunkty\nA =\n80, 1\ni\nB = −\n6, 19\nsą wierzchołkami trójkąta prostokątnego ABC. W tym\n−\n−\ntrójkącie kąt przy wierzchołku  C  jest prosty. Środkiem okręgu opisanego na tym trójkącie jest\npunkt o współrzędnych\nA. (\n)\nB. (\n)\nC. (\n)\nD. (\n)\n43, 10\n37,10\n43,10\n37, 10\n−\n−",
+   "key": "Zadanie 15. (0–1)"
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/16.webp",
+   "size": [
+    950,
+    488
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (0–1)\nW trapezie prostokątnym ABCD są dane długości boków:\nAB =\n8\n,\nBC =\n5\n,\nDC =\n5\n,\nAD =\n4\n(zobacz rysunek).\n5\nC\nD\n5\n4\nB\nA\n8\nTangens kąta ostrego ABC w tym trapezie jest równy\nA. 4\n4\nC. 3\nD. 3\n3\nB.\n5\n4\n5",
+   "key": "Zadanie 16. (0–1)"
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/17.webp",
+   "size": [
+    950,
+    143
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (0–1)\n(\n)\n(\n)\nPunkty\nA =\n1, 2\ni\nC =\n0, 5\nsą końcami przekątnej kwadratu ABCD. Obwód tego kwadratu\n−\njest równy\nA. 12\nB. 20\nC. 28\nD. 48",
+   "key": "Zadanie 17. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/18.webp",
+   "size": [
+    950,
+    173
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (0–1)\nPole trójkąta równoramiennego jest równe 25 2 . Miara kąta między ramionami tego trójkąta\njest równa 45°. Każde z ramion tego trójkąta ma długość\nA. 10 2\nB. 5 2\nC. 5\nD. 10",
+   "key": "Zadanie 18. (0–1)"
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/19.webp",
+   "size": [
+    950,
+    154
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (0–1)\nDany jest trójkąt prostokątny ABC, w którym przyprostokątna BC ma długość 250 cm,\na przyprostokątna AC ma długość 91 cm. Miara β kąta ABC spełnia warunek\nA. 19\nB. 21\nC. 67\nD. 69\n21\n°\n° <\nβ\n<\n23\n°\n° <\nβ\n<\n69\n°\n° <\nβ\n<\n71\n°\n° <\nβ\n<",
+   "key": "Zadanie 19. (0–1)"
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/20.webp",
+   "size": [
+    950,
+    144
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (0–1)\nTworząca stożka jest o 2 dłuższa od promienia jego podstawy, a pole powierzchni bocznej jest\no\n2π\nwiększe od pola podstawy. Promień podstawy tego stożka jest równy\nA. 3\nB.\nC. 1\nD.\n2π\nπ",
+   "key": "Zadanie 20. (0–1)"
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/21.webp",
+   "size": [
+    993,
+    144
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (0–1)\nObjętość ostrosłupa prawidłowego czworokątnego, w którym wysokość jest dwa razy dłuższa\nod krawędzi podstawy,  jest równa 144. Długość krawędzi podstawy tego ostrosłupa jest równa\nA. 18\nB. 36\nC. 3\nD. 6",
+   "key": "Zadanie 21. (0–1)"
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/22.webp",
+   "size": [
+    993,
+    545
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (0–1)\nPodstawą graniastosłupa prawidłowego jest kwadrat o boku 2. Przekątna graniastosłupa tworzy\nz jego podstawą kąt o mierze 60° (zobacz rysunek).\nWysokość tego graniastosłupa jest równa\n2\n6\nA.\nB.\n4\n2\nC.\nD.\n2\n6\n2\n4",
+   "key": "Zadanie 22. (0–1)"
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/23.webp",
+   "size": [
+    993,
+    150
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (0–1)\nWszystkich czterocyfrowych liczb naturalnych, w których cyfra tysięcy i cyfra setek są większe\nod 4, a każda z pozostałych cyfr jest mniejsza od 6, jest\nA. 4 4 5 5\n⋅⋅⋅\nB. 5 4 6 5\n⋅⋅⋅\nC. 5 5 6 6\n⋅⋅⋅\nD. 4 3 5 4\n⋅⋅⋅",
+   "key": "Zadanie 23. (0–1)\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/24.webp",
+   "size": [
+    993,
+    121
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (0–1)\nWariancją zestawu czterech ocen z matematyki: 1, 3, 5, 3, jest liczba\nA. 1\nB. 2\nC. 3\nD. 5",
+   "key": "Zadanie 24. (0–1)"
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2015-P-2020-czerwiec/25.webp",
+   "size": [
+    993,
+    178
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (0–1)\nW urnie jest 9 kul, w tym cztery kule czerwone, trzy zielone i dwie kule białe. Losujemy jedną\nkulę. Prawdopodobieństwo, że nie wylosowano ani kuli zielonej, ani białej, jest równe\n4\n4\n5\n6\nA.\nB.\nC.\nD.\n5\n9\n9\n9",
+   "key": "Zadanie 25. (0–1)"
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-czerwiec/26.webp",
+   "size": [
+    948,
+    86
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (0–2)\n(\n)(\n)\nRozwiąż nierówność\n2\nx\n5\n3\nx\n1\n0\n.\n+\n−\n≥",
+   "key": "Zadanie 26. (0–2)\n(\n)(\n)\nRozwiąż nierówność\n2\nx\n+\n5\n3\nx\n−\n1\n≥\n0\n.\nZadanie 26. (0–2)\nRozwiązanie\nRozwiązanie nierówności kwadratowej składa się z dwóch etapów.\nPierwszy etap rozwiązania polega na wyznaczeniu pierwiastków trójmianu kwadratowego\n(\n)(\n)\n.\n2\nx\n+\n5\n3\nx\n−\n1\nZnajdujemy pierwiastki trójmianu kwadratowego\n2\n−:\n6\nx\n+\n13\nx\n5\n5\n1\n• podajemy je bezpośrednio z postaci iloczynowej:\n,\nx = −\nx =\n2\n3\n1\n2\nalbo\n• obliczamy wyróżnik tego trójmianu, a następnie stosujemy wzory na pierwiastki:\n13 17\n5\n13 17\n1\n(\n)\n−\n−\n−\n+\n2\n,\n∆=\n17\n,\n,\n.\n∆=\n13\n−⋅⋅−\n4 6\n5\n=\n289\nx\n=\n= −\nx\n=\n=\n12\n2\n12\n3\n1\n2\nDrugi etap rozwiązania polega na wyznaczeniu zbioru rozwiązań nierówności\n(\n)(\n)\n.\n2\nx\n+\n5\n3\nx\n−\n1\n≥\n0\nPodajemy zbiór rozwiązań nierówności: (\n(\n5\n5\n1\n)\n1\n)\n−∞−\n,\n∪\n,\n+∞ lub\nx∈−∞−\n,\n∪\n,\n+∞ lub\n2\n3\n2\n3\n5\n1\n(\nx ≤−\nlub\nx ≥\n) , np. odczytując go ze szkicu wykresu funkcji\nf x\n( )\n=\n6\nx\n2\n+\n13\nx\n−.\n5\n2\n3\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nx\nSchemat oceniania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy:\n• zrealizuje pierwszy etap rozwiązania i na tym zakończy lub błędnie zapisze zbiór\nrozwiązań nierówności, np.\n5\n1\nobliczy lub poda pierwiastki trójmianu kwadratowego\n,\ni na\nx = −\nx =\n•\n2\n3\n1\n2\ntym zakończy lub błędnie zapisze zbiór rozwiązań nierówności,\nzaznaczy na wykresie miejsca zerowe funkcji\nf x\n( )\n6\nx\n2\n13\nx\n− i na tym\n5\n=\n+\n•\nzakończy lub błędnie zapisze zbiór rozwiązań nierówności\nalbo\n• realizując pierwszy etap błędnie wyznaczy pierwiastki (ale otrzyma dwa różne\npierwiastki) i konsekwentnie do tego rozwiąże nierówność, np. popełni błąd\nrachunkowy przy obliczaniu wyróżnika lub pierwiastków trójmianu kwadratowego\ni konsekwentnie do popełnionego błędu rozwiąże nierówność.\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy:\n• poda zbiór rozwiązań nierówności: (\n(\n5\n1\n5\n1\n)\n)\n,\n,\n+∞ lub\n,\n,\n+∞\n−∞−\n∪\nx∈−∞−\n∪\n2\n3\n2\n3\n5\n1\nlub (\nlub\n)\nx ≤−\nx ≥\n2\n3\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów\nx\nUwagi\n(2𝑥𝑥−5)(3𝑥𝑥−1) ≥0, to może otrzymać 1 punkt, jeśli konsekwentnie rozwiąże\n1. Jeżeli zdający popełnia błąd w przepisywaniu nierówności, np. zapisze\n2. Jeżeli zdający rozwiązuje układ nierówności 2𝑥𝑥+ 5 ≥0 i 3𝑥𝑥−1 ≥0 i nie rozpatruje\nzadanie do końca.\nukładu 2𝑥𝑥+ 5 ≤0 i 3𝑥𝑥−1 ≤0, to może otrzymać 1 punkt za poprawne\nwyznaczenie pierwiastków −\n5\n1\n2 i\n3.\n3. Zapisanie przedziału domkniętego w nieskończoności traktujemy jako usterkę nie\npowodującą utraty punktów.\nKryteria oceniania uwzględniające specyficzne trudności w uczeniu się matematyki\nZasady oceniania rozwiązań zadań\npoziom podstawowy\n1. Akceptujemy sytuację, gdy zdający poprawnie obliczy lub poda pierwiastki trójmianu\n(\n5\n1\n5\n1\n)\nx = −\ni\nx =\ni zapisze, np.,\nx∈−∞−\n,\n∪−\n,\n+∞ popełniając tym samym błędy\n2\n3\n2\n3\n1\n2\nprzy przepisywaniu pierwiastków, to za takie rozwiązanie otrzymuje 2 punkty.\n2. Jeśli zdający pomyli porządek liczb na osi liczbowej, np. zapisze zbiór rozwiązań\n(\n1\n5\n)\n+∞, to przyznajemy 2 punkty.\nnierówności w postaci\nx∈−∞\n,\n∪−\n,\n3\n2"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-czerwiec/27.webp",
+   "size": [
+    951,
+    118
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (0–2)\n(\n)(\n)\nDane są liczby\na\n3\nlog\n12\nlog\n27\ni\nb\n6\n7\n3\n6\n3\n7\n. Wartością\njest liczba\n=\n−\n=\n−\n+\na\n−\nb\n2\n2\ncałkowita. Oblicz tę liczbę.",
+   "key": "Zadanie 27. (0–2)\n(\n)(\n)\nDane są liczby\na\n3\nlog\n12\nlog\n27\ni\nb\n=\n6\n−\n7\n3\n6\n+\n3\n7\n. Wartością\njest\n=\n−\na\n−\nb\n2\n2\nliczba całkowita. Oblicz tę liczbę.\nZadanie 27. (0–2)\nRozwiązanie\nKorzystając z własności działań na logarytmach otrzymujemy\na\n=\n3\nlog\n12\n−\nlog\n27\n=\n3\nlog\n12\n−\n3\nlog\n3\n=\n3\n(log\n12\n−\nlog\n3\n)\n=\n3\nlog\n4\n=\n6\n.\n2\n2\n2\n2\n2\n2\n2\nWykorzystując wzór skróconego mnożenia obliczamy liczbę b\n(\n)(\n)\n(\n)(\n)\n(\n)\n.\nb\n=\n6\n−\n7\n3\n6\n+\n3\n7\n=\n3\n6\n−\n7\n6\n+\n7\n=\n3\n⋅\n−\n1\n=\n−\n3\nA zatem liczba a jest większa od liczby b o 9.\nSchemat oceniania\nZdający otrzymuje  .............................................................................................................. 1 p.\ngdy obliczy liczbę\n6\nalbo liczbę\n3\ni na tym poprzestanie lub dalej popełni błędy.\na\n=\nb\n=\n−\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy poda, że liczba a jest większa od liczby b o 9.\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-czerwiec/28.webp",
+   "size": [
+    956,
+    81
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (0–2)\nWykaż, że jeśli liczby rzeczywiste a i b spełniają warunek\ni\n, to\n.\na <\n4\nb <\n4\nab\n+\n16\n>\n4\na\n+\n4\nb",
+   "key": "Zadanie 28. (0–2)\na <\n4\nb <\n4\nab\n16\n4\na\n4\nb\nWykaż, że jeśli liczby rzeczywiste a i b spełniają warunek\ni\n, to\n+\n>\n+\n.\nZadanie 28. (0–2)\nRozwiązanie zadania\nab\n+\n16\n>\n4\na\n+\n4\nb\nNierówność\nmożemy zapisać w postaci równoważnej\nab\n−\n4\na\n−\n4\nb\n+\n16\n>\n0\n,\n(\n)\n(\n)\na b\n−\n4\n−\n4\nb\n−\n4\n>\n0\n,\n(\n)(\n)\n.\na\n−\n4\nb\n−\n4\n>\n0\na −\n4\nb −\n4\nTa nierówność jest prawdziwa, gdyż liczby\ni\nsą ujemne, co z kolei wynika\na <\n4\nb <\n4\nz założenia\ni\n, zaś iloczyn dwóch liczb ujemnych jest liczbą dodatnią.\nTo kończy dowód.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................... 1 p.\n16\n4\n4\n(\n)(\n)\ngdy przekształci nierówność\nab\n+\n>\na\n+\nb\ndo postaci iloczynowej np.\na\n−\n4\nb\n−\n4\n>\n0\ni na tym zakończy lub dalej popełnia błędy.\nZdający otrzymuje ............................................................................................................... 2 p.\ngdy przeprowadzi pełne rozumowanie.\nUwaga\nJeżeli zdający sprawdza prawdziwość nierówności jedynie dla wybranych wartości a i b, to\notrzymuje 0 punktów za całe rozwiązanie.\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-czerwiec/29.webp",
+   "size": [
+    950,
+    508
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (0–2)\nBok AB jest średnicą, a punkt S jest środkiem okręgu opisanego na trójkącie ABC. Punkt D leży\nna tym okręgu, a odcinek SD zawarty jest w symetralnej boku BC trójkąta (zobacz rysunek).\nWykaż, że odcinek AD jest zawarty w dwusiecznej kąta CAB.",
+   "key": "Zadanie 29. (0–2)\nBok AB jest średnicą, a punkt S jest środkiem okręgu opisanego na trójkącie ABC. Punkt D leży\nna tym okręgu, a prosta SD jest symetralną boku BC trójkąta (zobacz rysunek).\nWykaż, że odcinek AD jest zawarty w dwusiecznej kąta CAB.\nZadanie 29. (0–2)\nRozwiązanie (I sposób)\nPunkt D leży na symetralnej odcinka BC, zatem odcinki DC i DB mają równe długości. Stąd\nwynika, że łuki DC i DB mają równe długości. Kąty CAD i BAD są kątami wpisanymi w okrąg,\nopartymi na łukach równej długości. Zatem kąty te mają równe miary, czyli odcinek AD jest\nzawarty w dwusiecznej kąta CAB.\nRozwiązanie (II sposób)\nBok AB trójkąta jest średnicą okręgu, zatem trójkąt ABC jest prostokątny, a kąt BCA jest prosty.\nOznaczmy przez K punkt przecięcia odcinków SD i BC.\nKąt BKS jest prosty, jako kąt wyznaczony przez symetralną odcinka BC. Kąt CBA jest\nwspólnym kątem wewnętrznym trójkątów ABC i SBK. Jako trójkąty prostokątne, mające\nwspólny kąt wewnętrzny, trójkąty ABC i SBK są trójkątami podobnymi.\nZatem kąt BSK ma miarę α. Stąd wynika, że kąt rozwarty ASK ma miarę 180\n°−\nα\n.\nΚąt DAS, jako jeden z dwóch równych kątów w trójkącie równoramiennym ADS, ma miarę\nZasady oceniania rozwiązań zadań\npoziom podstawowy\n(\n)\n180\n180\n°−\n°−\nα\nα\n=\n.\n2\n2\nZatem kąt DAS stanowi połowę kąta CAB, czyli odcinek AD jest dwusieczną kata CAB.\nRozwiązanie (III sposób)\nNiech\nα = \nBAD\ni\nβ = \nCAD\n. Oznaczmy przez E punkt przecięcia odcinków AD i BC.\nTrójkąt ASD jest równoramienny, więc\n.\n\nSAD\n=\n\nSDA\n=\nα\nBok AB trójkąta ABC jest średnicą okręgu opisanego na tym trójkącie, zatem trójkąt ABC jest\nprostokątny, a kąt ACB jest prosty. Wobec tego proste AC i SD są równoległe.Stąd z kolei\nwynika, że kąty naprzemianległe SDA i CAD są równe, czyli α\n. To kończy dowód,\n=\nβ\nSchemat oceniania I, II i III sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................  1 p.,\ngdy\n• skorzysta z faktu, że symetralna jest zbiorem punktów równoodległych od końców\nodcinka, którego jest symetralną i zapisze, że łuki BD i CD mają taką samą długość\nalbo\n• uzasadni, że kąty ABC i BSD mają tę samą miarę\nalbo\n• uzasadni, że proste AC i SD są równoległe\ni na tym poprzestanie lub dalej popełnia błędy.\nZdający otrzymuje  ............................................................................................................  2 p.,\ngdy przeprowadzi pełne rozumowanie.\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-czerwiec/30.webp",
+   "size": [
+    950,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (0–2)\nDany jest trzywyrazowy ciąg (\n)\nx\n2, 4\nx\n2,\nx\n11\n. Oblicz te wszystkie wartości x, dla których\n+\n+\n+\nten ciąg jest geometryczny.",
+   "key": "Zadanie 30. (0–2)\nDany jest trzywyrazowy ciąg (\n)\nx\n+\n2,4\nx\n+\n2,\nx\n+\n11\n. Oblicz te wszystkie wartości x, dla których\nciąg ten jest geometryczny.\nZadanie 30. (0–2)\nRozwiązanie (I sposób)\nZ własności ciągu geometrycznego otrzymujemy równanie\n(\n)\n2\n(\n)(\n)\n4\n2\n2\n11\n,\nx\n+\n=\nx\n+\nx\n+\n16\n2\n16\n4\n2\n13\n22\nx\n+\nx\n+\n=\nx\n+\nx\n+\n,\n2\n15\nx\n+\n3\nx\n−\n18\n=\n0\n,\n2\n5\nx\n+\nx\n−\n6\n=\n0\n,\n(\n)(\n)\nx\n−\n1 5\nx\n+\n6\n=\n0\n,\n6\nx\n=\n1\nlub\nx = −\n.\n5\n6\notrzymujemy ciąg (\n)\nDla\nx\n=\n1\n3,6,12 geometryczny o ilorazie 2, zaś dla\nx = −\n5\notrzymujemy ciąg (\n)\n49\n7\n4\n14\n,\n−\n,\ngeometryczny o ilorazie\n−\n.\n5\n5\n5\n2\n6\nOdp. Dla\nx\n=\n1\noraz dla\nx = −\notrzymujemy ciąg geometryczny.\n5\nRozwiązanie (II sposób)\nNiech q oznacza iloraz ciągu geometrycznego. Wtedy ze wzoru na n-ty wyraz ciągu\ngeometrycznego otrzymujemy układ równań\n(\n)\n(\n)\n4\nx\n+\n2\n=\nx\n+\n2\nq\ni\nx\n+\n11\n=\nx\n+\n2\nq\n2\n.\nx = − otrzymujemy ciąg (\n)\nZauważmy, że dla\n2\n0, 6,9\n−\n, który nie jest geometryczny. Zatem\nx ≠−. Wtedy mamy\n2\n) (\n)\n4\nx\n+\n2\n2\n4\nx\n2\n(\n+\nq\ni\nx\n+\n11\n=\nx\n+\n2\n⋅\n=\n2\nx\n+\n2\nx\n+\nStąd\n(4\nx\n2)\n+\n2\nx\n+\n11\n=\n,\n2\nx\n+\n(\n)(\n)\n(\n)\n2\nx\n+\n2\nx\n+\n11\n=\n4\nx\n+\n2\n,\n2\n2\n16\nx\n+\n16\nx\n+\n4\n=\nx\n+\n13\nx\n+\n22\n,\n2\n15\nx\n+\n3\nx\n−\n18\n=\n0\n,\n5\nx\n2\n+\nx\n−\n6\n=\n0\n,\n(\n)(\n)\nx\n−\n1 5\nx\n+\n6\n=\n0\n,\n6\nx\n1\nlub\nx = −\n.\n=\n5\notrzymujemy ciąg (\n)\n6\nDla\nx\n1\n3,6,12 geometryczny o ilorazie 2, zaś dla\nx = −\n=\n5\notrzymujemy ciąg (\n)\n49\n7\n4\n14\n,\n−\n,\ngeometryczny o ilorazie\n−\n.\n5\n5\n5\n2\nZasady oceniania rozwiązań zadań\npoziom podstawowy\n6\nOdp. Dla\nx\n1\noraz dla\nx = −\notrzymujemy ciąg geometryczny.\n=\n5\nSchemat oceniania rozwiązania\nZdający otrzymuje ............................................................................................................... 1 p.\ngdy zapisze\nrównanie z niewiadomą x wynikające z własności ciągu geometrycznego, np.:\n•\n(\n)\n2\n(\n)(\n)\n4\nx\n2\nx\n2\nx\n11\n+\n=\n+\n+\nalbo\n• układ dwóch równań z dwiema niewiadomymi, z których jedną z niewiadomych jest\n(\n)\n(\n)\n2\nx, np.:\n4\nx\n+\n2\n=\nx\n+\n2\nq\ni\nx\n+\n11\n=\nx\n+\n2\nq\n.\nZdający otrzymuje  .............................................................................................................  2 p.\n6\ngdy obliczy wszystkie wartości x:\n,\n.\nx\n=\n1\nx = −\n5\nUwagi\n1. Jeżeli zdający odgadnie jedną z szukanych wartości\ni zapisze dla tej wartości ciąg\nx\n=\n1\ngeometryczny (\n)\n3, 6,12 , to otrzymuje 1 punkt.\n2. Jeśli zdający zapisze warunek w postaci ilorazowej, ale nie zapisze warunków\n1\nx ≠−,\n2\nx ≠−\ni rozwiąże zadanie do końca, to otrzymuje 2 punkty.\n2"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2015-P-2020-czerwiec/31.webp",
+   "size": [
+    955,
+    148
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (0–2)\n3\nProsta k jest nachylona do osi Ox pod kątem ostrym α , takim, że\ncos\n. Wyznacz\nα =\n3\nwspółczynnik kierunkowy prostej k.",
+   "key": "Zadanie 31. (0–2)\n3\nProsta k jest nachylona do osi Ox pod kątem ostrym α , takim, że\ncos\nα =\n. Wyznacz\n3\nwspółczynnik kierunkowy tej prostej.\nRozwiązanie\nWspółczynnik kierunkowy prostej jest równy tangensowi kąta α nachylenia  prostej k\ndo osi Ox.\nKorzystamy z jedynki  trygonometrycznej i wyznaczamy\nsin\n.\nα\ncos\n2\nsin\n2\n1\nα\n+\nα\n=\n2\nsin 2\nα\n=\n3\n6\n6\nsin\nlub\nsin\nα\n=\nα\n= −\n3\n3\n6\nPonieważ z założenia α jest kątem ostrym, więc\nsin\nα\n=\n.\n3\n6\n3\n\n\nZatem\ntg\nα\n=\n⋅\n=\n2\n.\n\n\n3\n3\n\n\n2 .\nWspółczynnik kierunkowy prostej k jest równy\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nSchemat oceniania\nZdający otrzymuje  .............................................................................................................. 1 p.\n6\ngdy wyznaczy\nsin\nα\n=\ni na tym poprzestanie lub dalej popełni błędy.\n3\nZdający otrzymuje  .............................................................................................................. 2 p.\ngdy wyznaczy współczynnik kierunkowy prostej k: (\n)\n2 .\nUwaga\nAkceptujemy rozwiązania na przybliżeniach.\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZadanie 31. (0–2)"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2020-czerwiec/32.webp",
+   "size": [
+    950,
+    120
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (0–4)\n(\n)\n(\n)\n(\n)\n(\n)\nPunkty\nA =\n1, 1\n,\nB =\n6,1\n,\nC =\n7,5\ni\nD =\n2,4\nsą wierzchołkami czworokąta ABCD.\n−\nOblicz współrzędne punktu przecięcia przekątnych tego czworokąta.",
+   "key": "Zadanie 32. (0–4)\n(\n)\n(\n)\n(\n)\n(\n)\nA =\n1, 1\nB =\n6,1\nC =\n7,5\nD =\n2,4\nPunkty\n−\n,\n,\ni\nsą wierzchołkami czworokąta ABCD.\nOblicz współrzędne punktu przecięcia przekątnych tego czworokąta.\nRozwiązanie\ny\n6\n5\nC\nD\n4\n3\nM\n2\n1\nB\n0\nx\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n-1\nA\n-2\nNiech M oznacza punkt przecięcia przekątnych czworokąta ABCD.\nWspółczynnik kierunkowy prostej BD jest równy\n4 1\n−\n3\na\n.\n=\n= −\nBD\n2\n−\n6\n4\n3\nPunkt D należy do prostej BD o równaniu\ny\nx\nb\n.\n= −\n+\n4\n3\nZatem\n4\n= −\n⋅+\n2\nb\n.\n4\n11\nCzyli\nb =\n.\n2\nProsta BD ma równanie:\n3\n11\ny\n= −\nx\n+\n.\n4\n2\nWspółczynnik kierunkowy prostej AC jest równy\n5 1\n+\n.\na\n=\n=\n1\nAC\n7 1\n−\nPunkt A należy do prostej AC o równaniu y\n=\nx\n+ .\nb\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZatem 1 1 b\n−= +\n.\nCzyli\nb = −.\n2\nProsta AC ma równanie:\n−.\ny\n=\nx\n2\nPunkt M jest punktem przecięcia prostych AC i BD, więc jego współrzędne obliczymy,\nrozwiązując układ równań\n3\n11\ny\n=\nx\n−\n2\ny\n= −\nx\n+\ni\n.\n4\n2\nStąd otrzymujemy\n3\n11\n2\n,\nx\n−\n= −\nx\n+\n4\n2\n7\n15\nx =\n,\n4\n2\n30\n2\nx =\n=\n4\n.\n7\n7\n(\n)\n2\n2\n2\n2\ny =\n4\n−\n2\n=\n2\nZatem\n, czyli\nM =\n4\n,2\n.\n7\n7\n7\n7\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający\n3\n• obliczy lub poda współczynnik kierunkowy prostej BD:\na = −\n4\nalbo\n• obliczy lub poda współczynnik kierunkowy prostej AC:\na =\n1\n1\ni na tym poprzestanie lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający\n3\n11\n• zapisze równanie prostej BD, np.:\ny\n= −\nx\n+\n4\n2\nalbo\n• zapisze równanie prostej AC, np.:\ny\n=\nx\n−\n2\ni na tym poprzestanie lub dalej popełnia błędy.\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\nZdający zapisze równanie prostej BD i  równanie prostej AC, np..:\n3\n11\ni\ny\n= −\nx\n+\n.\ny\n=\nx\n−\n2\n4\n2\nRozwiązanie pełne ........................................................................................................... 4 p.\n(\n)\n2\n2\nZdający obliczy współrzędne punktu przecięcia przekątnych czworokąta:\nM =\n4\n,2\n.\n7\n7\nUwaga\nJeżeli zdający realizuje strategię rozwiązania i popełnia jedynie błędy rachunkowe,\nto może otrzymać 3 punkty, o ile popełnione błędy nie ułatwiają rozważanego zagadnienia na\nżadnym etapie rozwiązania.\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZadanie 32. (0–4)"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2015-P-2020-czerwiec/33.webp",
+   "size": [
+    950,
+    112
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (0–4)\nRzucamy cztery razy symetryczną monetą. Oblicz prawdopodobieństwo zdarzenia A,\npolegającego na tym, że liczba otrzymanych orłów będzie różna od liczby otrzymanych reszek.",
+   "key": "Zadanie 33. (0–4)\nRzucamy 4 razy symetryczną monetą. Oblicz prawdopodobieństwo zdarzenia A, polegającego\nna tym, że liczba otrzymanych orłów będzie różna od liczby otrzymanych reszek.\nRozwiązanie\nSposób I\nZdarzeniami elementarnymi są wszystkie czterowyrazowe ciągi utworzone ze zbioru\ndwuelementowego.\n{\n(\n)\n(\n) (\n) (\n)\no o o o\n, , ,\n,\nr o o o\n, , ,\n,\no r o o\n, , ,\n,\no o r o\n, , ,\n,\nΩ=\n(\n) (\n) (\n) (\n)\n, , ,\n,\n, , ,\n,\n, , ,\n,\n, , ,\n,\no o o r\nr r o o\nr o r o\nr o o r\n(\n) (\n) (\n) (\n)\no r r o\n, , ,\n,\no r o r\n, , ,\n,\no o r r\n, , ,\n,\nr r r o\n, , ,\n,\n)}\n(\n) (\n) (\n) (\nr r o r\n, , ,\n,\nr o r r\n, , ,\n,\no r r r\n, , ,\n,\nr r r r\n, , ,\nLiczba wszystkich zdarzeń elementarnych jest równa 16.\nZdarzeniu A sprzyjają następujące zdarzenia elementarne:\n(\n) (\n) (\n) (\n) (\n)\no o o o\n, , ,\n,\nr o o o\n, , ,\n,\no r o o\n, , ,\n,\no o r o\n, , ,\n,\no o o r\n, , ,\n,\n(\n) (\n) (\n) (\n) (\n)\nr r r o\n, , ,\n,\nr r o r\n, , ,\n,\nr o r r\n, , ,\n,\no r r r\n, , ,\n,\nr r r r\n, , ,\n10\n5\n( )\nZatem\ni stąd\nP A =\n.\nA =\n10\n=\n16\n8\nSposób II\nZdarzeniami elementarnymi są wszystkie czterowyrazowe ciągi utworzone ze zbioru\ndwuelementowego.\n{\n(\n)\n(\n) (\n) (\n)\n, , ,\n,\n, , ,\n,\n, , ,\n,\n, , ,\n,\nΩ=\no o o o\nr o o o\no r o o\no o r o\n(\n) (\n) (\n) (\n)\n, , ,\n,\n, , ,\n,\n, , ,\n,\n, , ,\n,\no o o r\nr r o o\nr o r o\nr o o r\n(\n) (\n) (\n) (\n)\no r r o\n, , ,\n,\no r o r\n, , ,\n,\no o r r\n, , ,\n,\nr r r o\n, , ,\n,\n)}\n(\n) (\n) (\n) (\nr r o r\n, , ,\n,\nr o r r\n, , ,\n,\no r r r\n, , ,\n,\nr r r r\n, , ,\nLiczba wszystkich zdarzeń elementarnych jest równa 16.\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nZdarzenie A’ polega na wyrzuceniu tej samej liczby orłów i reszek, zatem sprzyjają mu\nnastępujące zdarzenia elementarne:\n(\n) (\n) (\n) (\n) (\n) (\n)\no r r o .\no o r r\n, , ,\n,\nr r o o\n, , ,\n,\no r o r\n, , ,\n,\nr o r o\n, , ,\n,\nr o o r\n, , ,\n,\n, , ,\n6\n5\n( )\nZatem\ni stąd\n.\nA =\n'\n10\nP A\n= −\n1\nP A\n(\n')\n= −\n1 16\n=\n8\nUwaga\nZbiory: Ω, A i A’ mogą być zapisane za pomocą drzewa.\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania ........................................................................................................................... 1 p.\nZdający\n• obliczy liczbę wszystkich zdarzeń elementarnych\n16\nΩ=\nalbo\n• narysuje pełne drzewo z 16 gałęziami\nalbo\n• wypisze wszystkie zdarzenia elementarne lub wszystkie zdarzenia elementarne\nsprzyjające zdarzeniu A lub wszystkie zdarzenia elementarne sprzyjające zdarzeniu A’\nalbo\ni na tym zakończy lub dalej popełnia błędy.\nRozwiązanie, w którym jest istotny postęp ........................................................................ 2 p.\nZdający\n• obliczy liczbę wszystkich zdarzeń elementarnych\noraz obliczy liczbę\nΩ=\n16\nwszystkich zdarzeń elementarnych w których liczba orłów jest większa od liczby\nreszek\nalbo\n• obliczy liczbę wszystkich zdarzeń elementarnych\n16\noraz obliczy liczbę\nΩ=\nwszystkich zdarzeń elementarnych w których liczba orłów jest mniejsza od liczby\nreszek\nalbo\n• obliczy liczbę wszystkich zdarzeń elementarnych, w których liczba orłów jest różna\nod liczby reszek\nA =\n10\nalbo\n• obliczy liczbę wszystkich zdarzeń elementarnych oraz liczbę zdarzeń sprzyjających\nzdarzeniu przeciwnemu (\n16\n,\n'\n6\n)\nΩ=\nA =\nalbo\n• zaznaczy na drzewie 10 gałęzi ilustrujących zdarzenie A lub 6 gałęzi ilustrujących\nzdarzenie A’.\ni na tym zakończy lub dalej popełnia błędy.\nPokonanie zasadniczych trudności zadania ....................................................................... 3 p.\n• Zdający obliczy liczbę wszystkich zdarzeń elementarnych\n16\noraz obliczy liczbę\nΩ=\nwszystkich zdarzeń elementarnych, w których liczba orłów jest różna od liczby reszek\n10\nA =\nalbo\nZasady oceniania rozwiązań zadań\npoziom podstawowy\n• zaznaczy na drzewie 10 gałęzi ilustrujących zdarzenie A lub 6 gałęzi ilustrujących\nzdarzenie przeciwne oraz na co najmniej jednej gałęzi każdego etapu zaznaczy\n1\nprawdopodobieństwo 2\nalbo\n3\n• obliczy prawdopodobieństwo zdarzenia przeciwnego\nP\n(\nA\n)'\n=\n8\nRozwiązanie pełne ........................................................................................................... 4 p.\n5\n( )\nZdający obliczy prawdopodobieństwo zdarzenia A:\nP A =\n.\n8\nUwagi\n1. Jeżeli zdający pomija przypadki (o, o, o, o) lub (r, r, r, r), to może otrzymać co najwyżej\n2 punkty.\n2. Jeżeli zdający obliczy\ni pominie jedno zdarzenie elementarne sprzyjające\n16\nΩ=\nzdarzeniu A i nie wypisze niepoprawnego zdarzenia oraz rozwiąże zadanie do końca, to może\notrzymać co najwyżej 2 punkty.\n5\n( )\n3. Jeżeli zdający zapisze tylko\n,\n,\nP A =\nbez uzasadnienia, to otrzymuje 1\nΩ=\n16\nA =\n10\n8\npunkt.\nZadanie 33. (0–4)"
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2015-P-2020-czerwiec/34.webp",
+   "size": [
+    950,
+    572
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (0–5)\nW ostrosłupie prawidłowym sześciokątnym ABCDEFS, którego krawędź podstawy a ma\ndługość 8 (zobacz rysunek), ściana boczna jest nachylona do płaszczyzny podstawy pod kątem\n= 60\n. Oblicz cosinus kąta między krawędzią boczną a płaszczyzną podstawy tego\nα\n°\nostrosłupa.\nS\nF\nE\nA\nD\nP\nC\nB\na=8",
+   "key": "Zadanie 34. (0–5)\nW ostrosłupie prawidłowym sześciokątnym, którego krawędź podstawy ma długość 8, ściana\nboczna jest nachylona do płaszczyzny podstawy po kątem\n. Oblicz cosinus kąta między\nα\n= 60\n°\nkrawędzią boczną a płaszczyzną podstawy tego ostrosłupa.\nZadanie 34. (0–5)\nZasady oceniania rozwiązań zadań\npoziom podstawowy\nRozwiązanie\nWprowadzamy oznaczenia jak na rysunku.\nS\nF\nE\nA\nD\nP\nR\nC\nB\na=8\nOdcinek PR jest wysokością trójkąta równobocznego o boku\n8\n, zatem\na =\na\n3\n8\n3\nPR\n4\n3\n.\n=\n=\n=\n2\n2\nZ trójkąta prostokątnego SPR , w którym kąty mają miary\n90 ,\n°\n60 ,\n°\n30 , obliczamy długość\n°\nPR\nodcinka SR , np.\ncos\n60\n. Zatem\nSR\n8\n3\n.\n=\n°\n=\nSR\nZ twierdzenia Pitagorasa dla  trójkąta SRB , który jest prostokątny, obliczamy długość\nkrawędzi bocznej.\n2\n2\n2\nSB\nSR\nRB\n=\n+\n(\n)\n2\n2\nSB\n8\n3\n4\n2\n=\n+\n2\nSB\n=\n192\n+\n16\n2 =\nSB\n208\nZatem\nSB\n=\n208 =\n4\n13\nBP\n8\n2\n13\nZ trójkąta SPB , który jest prostokątny, otrzymujemy\n=\n= 13\n.\ncos\nβ\n=\nSB\n4\n13\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania  .........................................................................................................................  1 p.\nZdający\n• prawidłowo zaznaczy na rysunku kąt nachylenia ściany bocznej do płaszczyzny\npodstawy\nalbo\nZasady oceniania rozwiązań zadań\npoziom podstawowy\na\n3\n8\n3\n• obliczy długość odcinka\nPR\n4\n3\n.\n=\n=\n=\n2\n2\nRozwiązanie, w którym jest istotny postęp  ......................................................................  2 p.\nZdający\nPR\n• obliczy wysokość ściany bocznej (długość odcinka SR ,  np.\n=\ncos\n60\n°\n):\nSR\nSR\n=\n8\n3\nalbo\nSP\n• obliczy wysokość ostrosłupa (długość odcinka SP , np.\nRP =\ntg60\n° ):\nSP\n=\n12\ni na tym zakończy lub dalej popełni błędy.\nPokonanie zasadniczych trudności zadania  .....................................................................  3 p.\nZdający\n• obliczy długość krawędzi bocznej ostrosłupa\nSB\n=\n208 =\n4\n13\nalbo\n, gdzie β jest kątem między krawędzią boczną i\n1 cos\n−\n2\nβ\n• zapisze, że\ntg\nβ\n=\ncos\nβ\npłaszczyzną podstawy\ni na tym zakończy lub dalej popełni błędy.\nZdający obliczy długość krawędzi bocznej ostrosłupa\nSB\n208 =\n4\n13\n.\n=\nRozwiązanie pełne, ale z usterkami ...................................................................................  4 p.\nRozwiązanie pełne ................................................................................................................  5 p\nZdający\n• zaznaczy kąt między krawędzią boczną a płaszczyzną podstawy i obliczy cosinus tego\n2\n13\nkąta\ncos\nβ\n=\n13\nalbo\nBP\n• prawidłowo opisze stosunek odpowiednich boków w trójkącie SPB\n,\n=\n∆\ncos\nβ\n=\nSB\n8\n2\n13\n= 13\n.\n4\n13\nUwaga\nJeżeli uczeń rozważa graniastosłup lub w ostrosłupie błędnie interpretuje kąty otrzymuje\n0 punktów.\nZasady oceniania rozwiązań zadań\npoziom podstawowy"
+  }
+ ]
+}

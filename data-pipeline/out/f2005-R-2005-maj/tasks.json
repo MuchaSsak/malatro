@@ -1,0 +1,156 @@
+{
+ "exam": {
+  "id": "f2005-R-2005-maj",
+  "formula": "2005",
+  "level": "R",
+  "year": 2005,
+  "session": "maj",
+  "month": "05",
+  "code": null,
+  "examUrl": "https://cke.gov.pl/images/stories/Matura2005/mat_r_a2.pdf",
+  "keyUrl": "https://cke.gov.pl/images/stories/Matura_odp_2005/mat_a2_schemat.pdf",
+  "examFile": "f2005-R-2005-maj.pdf",
+  "keyFile": "f2005-R-2005-maj-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "pre-2010 (outside requested 2010-2014 scope; math optional, different exam structure); Arkusz II (poziom rozszerzony; R candidates also wrote Arkusz I)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/2005-2/",
+  "examPages": 15,
+  "keyPages": 3,
+  "examBytes": 264023,
+  "keyBytes": 119478
+ },
+ "keyHead": "SCHEMAT OCENIANIA ARKUSZA EGZAMINACYJNEGO II\nzadania\nNr\nNr\nLiczba\nEtapy rozwiązania zadania\nczynności\npunktów\nWyznaczenie zbioru argumentów, dla których liczba logaryt-\n1 p\n11.1\n(\n)\n(\n)\n∈\n−\n−\n∪\n+\n∞\nmowana jest dodatnia:\nx\n;4\n1\n;1\nWyznaczenie zbioru argumentów, dla których podstawa loga-\nrytmu jest dodatnia i różna od 1:\n1 p\n11.2\n11\n) (\n) (\n)\n(\n(\n)\nx∈−∞−\n∪−\n−\n∪\n∪\n+∞\n; 2\n2;\n3\n3;2\n2;\nWyznaczenie dziedziny funkcji:\n) (\n) (\n)\n1 p\n11.3\n(\n(\n)\nx∈−\n−\n∪−\n−\n∪\n∪\n+∞\n4; 2\n2;\n3\n3;2\n2;\nZa przedstawienie metody szkicowania wykresu, np. poprzez\nobliczanie współrzędnych punktów należących do wykresu\nlub przekształcenie wzoru funkcji, np. do postaci:\n12.1\n1 p\nπ\n\n\n( )\n=\n+\nf\nx\n2\ncos\n\nx\n\n\n3\n\nNaszkicowanie wykresu funkcji\n12\n12.2\n1 p\nRozwiązanie równania (po 1 pkt za metodę i rozwiązanie):\n2\n12.3\n2 p\n=\nπ\n∨\n= −\nπ\n+\nπ\nk ∈\nx\n2\nk\nx\n2\nk\n, gdzie\nC\n3\nObliczenie prawdopodobieństwa otrzymania w jednym rzucie\n1\n13.1\n1 p\n=\ntej samej liczby oczek na obu kostkach:\np\n6\nWykorzystanie schematu Bernoulliego i określenie: p, q, N, k:\n1\n5\n13.2\n1 p\n=\n=\n=\n≥\np\n,\nq\n,\nN\nn\n,\nk\n1\n6\n6\n13\nObliczenie prawdopodobieństwa otrzymania w n rzutach\nco najmniej raz tej samej liczby oczek na obu kostkach:\n13.3\n1 p\n0\nn\nn\n\n\nn\n\n\n\n\n\n\n1\n5\n5\n(\n)\n( )\n≥\n=\n−\n=\n−\n\n\n=\n−\n\n\n\n\n\n\nP\nk\n1\n1\nP\n0\n1\n1\nn\nn\n0\n6\n6\n6\n\n\n\n\n\n\n\n\nRozwiązanie nierówności wykładniczej i sformułowanie od-\n13.4\n1 p\n{\n}\nn∈\npowiedzi:\n1, 2, 3\n= n\n3 −\nWyznaczenie:\na\n,\nr\n,\nS\njeśli\nan\n2\n(w tym 1 p. za metodę\n1\nn\n14.1\n−\n2 p\n2\n3\nn\nn\n=\n=\n=\noraz 1 p. za obliczenia):\na\n,1\nr\n,3\nS\n1\nn\n2\n=\n2 +\n14\nWyznaczenie:\nb\n,\nr\n,'\nS\n'\njeśli\nbn\nn\n3\n(w tym 1 p. za metodę\n1\nn\n14.2\n2 p\n=\n=\n=\n2\n+\noraz 1 p. za obliczenia):\nb\n,5\nr\n'\n,2\nS\n'\nn\n4\nn\n1\nn\n3\n14.3\nObliczenie granicy: 2\n1 p\n1\n→\nZapisanie wektora\nMN jako sumy odpowiednich wektorów:\n→\n→\n→\n→\n( )1\n15.1\n1 p\n=\n+\n+\nMN\nMA\nAB\nBN\n→\n→\n→\n→\n( )\n=\n+\n+\nMN\nMD\nDC\nCN\n2\n15\n15.2\nDodanie równości (1) i (2) stronami\n1 p\nPrzekształcenie wyniku do prostej postaci:\n→\n→\n→\n1\n\n\n15.3\n1 p\n=\n⋅\n\n+\n\nMN\nAB\nDC\n2\n\n\n15.4\nZinterpretowanie otrzymanego wyniku\n1 p\nSporządzenie rysunku wraz\n16.1\nz oznaczeniami i zaznaczenie\n2 p\nkąta nachylenia:\n16\n2\n3\na\nh =\n16.2\n1 p\nObliczenie długości wysokości h trapezu:\n3\nObliczenie długości krótszej podstawy b trapezu:\n(\n)\n−\n16.3\n3\n2\n2\n3\na\n1 p\n=\nb\n3\n(\n)\n−\n2\n2\n6\n1\na\n=\n16.4\n1 p\nObliczenie pola S trapezu:\nS\n3\nWprowadzenie oznaczeń, np.:\n=\n+\n=\n−\n=\n−\n3\n3\nx\n5 2\n7,\ny\n5 2\n7,",
+ "tasks": [
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 3,
+   "image": "f2005-R-2005-maj/11.webp",
+   "size": [
+    950,
+    1471
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (3 pkt)\n(\n)\n( )\n=\n3\n+\n2\n−\n−\nWyznacz dziedzinę funkcji\nf\nx\nlog\nx\n4\nx\nx\n4\ni zapisz ją w postaci sumy\n2\n−\nx\n3\nprzedziałów liczbowych.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2005-maj/12.webp",
+   "size": [
+    950,
+    1492
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (4 pkt)\n( )\n=\n−\n∈\nDana jest funkcja:\nf x\ncos\nx\n3sin ,\nx\nx\nR\n.\na) Naszkicuj wykres funkcji f.\nb) Rozwiąż równanie: ( )\n=\nf\nx\n1\n.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2005-maj/13.webp",
+   "size": [
+    950,
+    1492
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (4 pkt)\nRzucamy n razy dwiema symetrycznymi sześciennymi kostkami do gry. Oblicz, dla jakich n\nprawdopodobieństwo otrzymania co najmniej raz tej samej liczby oczek na obu kostkach jest\n671 .\nmniejsze od 1296\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2005-maj/14.webp",
+   "size": [
+    956,
+    1469
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (5 pkt)\n(\n)\n+\n+\n+\n+\n−\n1\n4\n7\n...\n3\nn\n2\nOblicz:\nlim\n.\n(\n)\n+\n+\n+\n+\n+\n5\n7\n9\n...\n2\nn\n3\n→\n∞\nn\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-R-2005-maj/15.webp",
+   "size": [
+    956,
+    2928
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (4 pkt)\nW dowolnym trójkącie ABC punkty M i N są odpowiednio środkami boków AC i BC (Rys. 1).\nRys. 1\nZapoznaj się uważnie z następującym rozumowaniem:\nKorzystając z własności wektorów i działań na wektorach, zapisujemy równości:\nuuuur\nuuur\nuuur\nuuur\n=\n+\n+\nMN\nMA\nAB\nBN\n(1)\noraz\nuuuur\nuuuur\nuuur\n=\n+\nMN\nMC\nCN\n(2)\nPo dodaniu równości  (1) i (2) stronami otrzymujemy:\nuuuur\nuuur\nuuuur\nuuur\nuuur\nuuur\n⋅\n=\n+\n+\n+\n+\n2 MN\nMA\nMC\nAB\nBN\nCN\nuuuur\nuuur\nuuur\nuuur\n= −\n= −\nPonieważ MC\nMA\noraz CN\nBN\n,  więc:\nuuuur\nuuur\nuuur\nuuur\nuuur\nuuur\n⋅\n=\n−\n+\n+\n−\n2 MN\nMA\nMA\nAB\nBN\nBN\nuuuur\nr\nuuur\nr\n⋅\n=\n+\n+\n2\nMN\n0\nAB\n0\nuuuur\nuuur\n1\n=\n⋅\nMN\nAB\n.\n2\nWykorzystując własności iloczynu wektora przez liczbę, ostatnią równość można\nzinterpretować następująco:\nodcinek łączący środki dwóch boków dowolnego trójkąta jest równoległy do trzeciego\nboku tego trójkąta, zaś jego długość jest równa połowie długości tego boku.\nuuuur\nPrzeprowadzając analogiczne rozumowanie, ustal związek pomiędzy wektorem MN\noraz\nuuur\nuuur\nwektorami AB\ni DC\n, wiedząc, że czworokąt ABCD jest dowolnym trapezem, zaś punkty\nM i N są odpowiednio środkami ramion AD i BC tego trapezu (Rys. 2).\nRys. 2\nPodaj interpretację otrzymanego wyniku.\nArkusz II\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-R-2005-maj/16.webp",
+   "size": [
+    950,
+    1492
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (5 pkt)\nSześcian o krawędzi długości a przecięto płaszczyzną przechodzącą przez przekątną\nπ . Sporządź odpowiedni rysunek.\npodstawy i nachyloną do płaszczyzny podstawy pod kątem 3\nOblicz pole otrzymanego przekroju.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 7,
+   "image": "f2005-R-2005-maj/17.webp",
+   "size": [
+    949,
+    1474
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (7 pkt)\n3\n+\n−\n3\n−\nWykaż, bez użycia kalkulatora i tablic, że\n5\n2\n7\n5\n2\n7\njest liczbą całkowitą.\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 8,
+   "image": "f2005-R-2005-maj/18.webp",
+   "size": [
+    950,
+    2977
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (8 pkt)\nPary liczb(\n)\n,x y spełniające układ równań:\n\n−\n2\n+\n2\n+\n+\n=\n4\nx\ny\n2\ny\n1\n0\n\n−\n2\n+\n+\n=\nx\ny\n4\n0\n\nsą współrzędnymi wierzchołków czworokąta wypukłego ABCD.\na) Wyznacz współrzędne punktów: A, B, C, D.\nb) Wykaż, że czworokąt ABCD jest trapezem równoramiennym.\nc) Wyznacz równanie okręgu opisanego na czworokącie ABCD.\nArkusz II\nArkusz II",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 10,
+   "image": "f2005-R-2005-maj/19.webp",
+   "size": [
+    950,
+    2910
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (10 pkt)\n1\n(\n)\n2\n+\n−\n+\n2\n+\n+\n=\nDane jest równanie:\nx\nm\n5\nx\nm\nm\n0\n.\n4\nZbadaj, dla jakich wartości parametru m stosunek sumy pierwiastków rzeczywistych\nrównania do ich iloczynu przyjmuje wartość najmniejszą. Wyznacz tę wartość.\nArkusz II",
+   "key": ""
+  }
+ ]
+}

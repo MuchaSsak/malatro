@@ -1,0 +1,506 @@
+{
+ "exam": {
+  "id": "f2005-P-2010-listopad-probna",
+  "formula": "2005",
+  "level": "P",
+  "year": 2010,
+  "session": "probna",
+  "month": "11",
+  "code": "MMA-P1_1P-105",
+  "examUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2011/arkusz_proba2010_std.pdf",
+  "keyUrl": "https://cke.gov.pl/images/_EGZAMIN_MATURALNY_OD_2015/Arkusze_egzaminacyjne/2011/schemat_internet_listopad_2010.pdf",
+  "examFile": "f2005-P-2010-listopad-probna.pdf",
+  "keyFile": "f2005-P-2010-listopad-probna-key.pdf",
+  "source": "cke",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "CKE probna matura listopad 2010 (P only)",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": "https://cke.gov.pl/egzamin-maturalny/egzamin-w-starej-formule/arkusze/",
+  "examPages": 19,
+  "keyPages": 20,
+  "examBytes": 743711,
+  "keyBytes": 318291
+ },
+ "keyHead": "Projekt współfinansowany przez Unię Europejską w ramach Europejskiego Funduszu Społecznego\nPróbny egzamin maturalny z matematyki 2010\nKlucz punktowania do zadań zamkniętych\noraz\nschemat oceniania do zadań otwartych\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nKlucz punktowania do zadań zamkniętych\nNr zadania\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\nOdpowiedź\nC B D A C\nA A B B A\nD\nA\nC\nB\nD\nC\nC\nA\nC\nB\nC\nC\nA\nB\nD\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nSchemat oceniania do zadań otwartych\nZadanie 26. (2 pkt)\n2\n+\n+\n≤\nRozwiąż nierówność\nx\n11\nx\n30\n0\n.\nI sposób rozwiązania\nObliczamy pierwiastki trójmianu kwadratowego:\n• obliczamy wyróżnik trójmianu kwadratowego i pierwiastki tego trójmianu:\n−\n−\n−\n+\n11 1\n11 1\nΔ = ,\n=\n= −,\n=\n= −\n1\nx\n6\nx\n5\n1\n2\n2\n2\nalbo\n• stosujemy wzory Viète’a:\n+\n= −\n⋅\n=\nx\nx\n11\noraz\nx\nx\n30\n1\n2\n1\n2\nx = −,\nx = −\ni stąd\n6\n5\n1\n2\nalbo\n• rozkładamy trójmian na czynniki, np.:\no grupując wyrazy i wyłączając wspólny czynnik,\no korzystając z postaci kanonicznej\n2\n⎛\n⎞\n⎛\n⎞⎛\n⎞\n11\n1\n11\n1\n11\n1\n(\n)(\n)\n+\n−\n=\n+\n−\n+\n+\n=\n+\n+\nx\nx\nx\nx\n5\nx\n6\n,\n⎜\n⎟\n⎜\n⎟⎜\n⎟\n⎝\n2\n⎠\n4\n⎝\n2\n2\n⎠⎝\n2\n2\n⎠\nPodajemy zbiór rozwiązań nierówności:\n• rysujemy fragment wykresu funkcji kwadratowej z zaznaczonymi miejscami\nzerowymi i odczytujemy zbiór rozwiązań\nx\n-6\n-5\nalbo\n• rozwiązujemy nierówność (\n)(\n)\n+\n+\n≤\nx\n5\nx\n6\n0\nanalizując znaki czynników.\n−\n−\nZbiorem rozwiązań nierówności jest przedział\n6, 5\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy poda poprawnie pierwiastki trójmianu kwadratowego lub zapisze trójmian w postaci\niloczynowej i na tym poprzestanie lub dalej popełni błędy\nZdający otrzymuje ............................................................................................................2 pkt\ngdy:\nlub (\n)\n• poda zbiór rozwiązań nierówności:\n−\n−\nx∈−\n−\n≥−\n≤−\n6, 5\nlub\n6, 5\nx\n6 i\nx\n5\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nalbo\n• zapisze zbiór rozwiązań nierówności w postaci\nx ≥−,\nx ≤−, o ile towarzyszy temu\n6\n5\nilustracja geometryczna (oś liczbowa, wykres)\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów.\nx\n-6\n-5\nII sposób rozwiązania\nZapisujemy nierówność w postaci\n2\n⎛\n⎞\n11\n1\n+\n−\n≤\nx\n0\n,\n⎜\n⎟\n⎝\n2\n⎠\n4\n2\n⎛\n11\n⎞\n1\n+\n≤\na następnie\nx\n⎜\n⎟\n⎝\n2\n⎠\n4\n11\n1\nx +\n≤\n, a stąd\n2\n2\n11\n1\n11\n1\n+\n≤\n+\n≥−\n.\nx\ni\nx\n2\n2\n2\n2\n≤−\n≥−.\nZatem\nx\n5 i\nx\n6\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\n2\n⎛\n⎞\n11\n1\n11\n1\n+\n≤\nx +\n≤\nx\ngdy doprowadzi nierówność do postaci\nlub\ni na tym poprzestanie\n⎜\n⎟\n⎝\n2\n⎠\n4\n2\n2\nlub dalej popełni błędy.\nZdający otrzymuje ............................................................................................................2 pkt\ngdy:\nlub (\n)\n• poda zbiór rozwiązań nierówności:\n−\n−\nx∈−\n−\n≥−\n≤−\n6, 5\nlub\n6, 5\nx\n6 i\nx\n5\nalbo\n• zapisze zbiór rozwiązań nierówności w postaci\nx ≥−,\nx ≤−, o ile towarzyszy temu\n6\n5\nilustracja geometryczna (oś liczbowa, wykres)\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów.\nx\n-6\n-5\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nZadanie 27. (2 pkt)\nRozwiąż równanie\n3\n+\n2\n−\n−\n=\n.\nx\n2\nx\n5\nx\n10\n0\nI sposób rozwiązania (metoda grupowania)\nPrzedstawiamy lewą stronę równania w postaci iloczynowej stosując metodę grupowania\nwyrazów\n)(\n)\n(\n+\n−\n=\n2\nx\n2\nx\n5\n0\nx = − lub\nx = −\nx =\nStąd\n2\n5\nlub\n5\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\n• poda poprawną postać iloczynową wielomianu po lewej stronie równania\n)(\n)(\n)\n)(\n)",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/1.webp",
+   "size": [
+    950,
+    130
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nLiczba 5\n−\n7\n−−+\n3\n4\njest równa\nA.\n−\n3\nB.\n−\n5\nC. 1\nD. 3",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/2.webp",
+   "size": [
+    950,
+    495
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\nx −\nWskaż rysunek, na którym jest przedstawiony zbiór rozwiązań nierówności\n2\n≥.\n3\nA.\nx\n–1\n5\nB.\nx\n–1\n5\nC.\nx\n3\nD.\nx\n5",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/3.webp",
+   "size": [
+    950,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\nSamochód kosztował 30000 zł. Jego cenę obniżono o 10%, a następnie cenę po tej obniżce\nponownie obniżono o 10%. Po tych obniżkach samochód kosztował\nA. 24400 zł\nB. 24700 zł\nC. 24000 zł\nD. 24300 zł",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/4.webp",
+   "size": [
+    950,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\n4\n1\n\n\nDana jest liczba\nx\n=\n63\n2\n⋅\n. Wtedy\n\n3\n\n\nA.\n2\nB.\n2\nC.\n8\n2\nD.\nx =\n7\nx\n=\n7\n−\nx =\n3\n⋅\n7\nx = ⋅\n3 7",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/5.webp",
+   "size": [
+    950,
+    122
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\nx =\nKwadrat liczby\n5\n+\n2 3\njest równy\nA. 37\nB. 25\nC. 37\nD. 147\n+\n4 3\n+\n20 3",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/6.webp",
+   "size": [
+    950,
+    149
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\nLiczba\nlog 5\n−\nlog 125\njest równa\n5\n5\n1\nA.\n−\nB.\n−\nC.\n25\nD. 4\n2\n1",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/7.webp",
+   "size": [
+    947,
+    125
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\nZbiorem wartości funkcji f jest\nA.\n−\n2,5\nB.\n−\n4,8\nC.\n−\n1,4\nD.\n5,8",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/8.webp",
+   "size": [
+    947,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\nKorzystając z wykresu funkcji f, wskaż nierówność prawdziwą.\n(\n)\n( )\n( )\n( )\n(\n)\n( )\n( )\n( )\nA.\nf\nf\nB.\nf\nf\nC.\nf\nf\nD.\nf\nf\n−\n1\n<\n1\n1\n<\n3\n−\n1\n<\n3\n3\n<\n0",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/9.webp",
+   "size": [
+    947,
+    724
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\nWykres funkcji g określonej wzorem ( )\n( )\ng x\n=\nf x\n+\n2\njest przedstawiony na rysunku\nA.\nB.\ny\ny\n6\n6\n5\n5\n4\n4\n3\n3\n2\n2\n1\n1\nx\nx\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n-1\n-1\n-2\n-2\n-3\n-3\nC.\nD.\ny\ny\n6\n6\n5\n5\n4\n4\n3\n3\n2\n2\n1\n1\nx\nx\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n-6\n-5\n-4\n-3\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n-1\n-1\n-2\n-2\n-3\n-3\n-4\n-4",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/10.webp",
+   "size": [
+    950,
+    130
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\nLiczby\n1x i\n2x są pierwiastkami równania\nx\n2\n+\n10\nx\n−\n24\n=\n0\ni\nx\n<\nx\n.  Oblicz\n2x\n+\nx\n.\n1\n2\n1\n2\nA.\n−\n22\nB.\n−\n17\nC. 8\nD. 13",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/11.webp",
+   "size": [
+    950,
+    159
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\n( )\nLiczba 2 jest pierwiastkiem wielomianu\nW x\n=\nx\n3\n+\nax\n2\n+\n6\nx\n−\n4\n. Współczynnik a jest\nrówny\nA. 2\nB.\n−\n2\nC. 4\nD.\n−\n4",
+   "key": ""
+  },
+  {
+   "task": "12",
+   "num": 12,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/12.webp",
+   "size": [
+    950,
+    133
+   ],
+   "stem": "",
+   "text": "Zadanie 12. (1 pkt)\n( )\n(\n)\nWskaż m, dla którego funkcja liniowa określona wzorem\nf x\n=\nm\n−\n1\nx\n+ jest stała.\n3\nA.\nm =\nB.\nm =\nC.\nm =\nD.\nm = −\n1\n2\n3\n1",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/13.webp",
+   "size": [
+    950,
+    270
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nZbiorem rozwiązań nierówności (\n)(\n)\nx\n−\n2\nx\n+\n3\n≥\n0\njest\nA.\n−\n2,3\nB.\n−\n3,2\nC. (\n)\n−∞−\n, 3\n∪\n2,\n+∞\nD. (\n)\n−∞−\n, 2\n∪\n3,\n+∞",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/14.webp",
+   "size": [
+    950,
+    139
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\nW ciągu geometrycznym (\n)\nna\ndane są:\na =\n2\ni\na =\n12\n. Wtedy\n1\n2\nA.\na =\n26\nB.\na =\n432\nC.\na =\n32\nD.\na =\n2592\n4\n4\n4\n4",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/15.webp",
+   "size": [
+    950,
+    155
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\nW ciągu arytmetycznym\na = oraz\n3\na\n=\n7\n. Wtedy suma\nS\n=\na\n+\na\n+\n...\n+\na\n+\na\njest\n1\n20\n20\n1\n2\n19\n20\nrówna\nA. 95\nB. 200\nC. 230\nD. 100",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/16.webp",
+   "size": [
+    950,
+    343
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\nNa rysunku zaznaczono długości boków i kąt α trójkąta prostokątnego (zobacz rysunek). Wtedy\n13\n5\n12\n5\n13\n12\n12\nA.\ncos\nα =\nB.\ntg\nα =\nC.\ncos\nα =\nD.\ntg\nα =\n13\n12\n13\n5",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/17.webp",
+   "size": [
+    950,
+    247
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\nOgród ma kształt prostokąta o bokach długości 20 m i 40 m. Na dwóch końcach przekątnej\ntego prostokąta wbito słupki. Odległość między tymi słupkami jest\nA. równa 40 m\nB. większa niż 50 m\nC. większa niż 40 m i mniejsza niż 45 m\nD. większa niż 45 m i mniejsza niż 50 m",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/18.webp",
+   "size": [
+    950,
+    162
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nPionowy słupek o wysokości 90 cm rzuca cień o długości 60 cm. W tej samej chwili stojąca\nobok wieża rzuca cień długości 12 m. Jaka jest wysokość wieży?\nA. 18 m\nB. 8 m\nC. 9 m\nD. 16 m",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/19.webp",
+   "size": [
+    950,
+    439
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nPunkty A, B i C leżą na okręgu o środku S (zobacz rysunek). Miara zaznaczonego kąta\nwpisanego ACB jest równa\nC\nA\nB\nS\n230°\nA. 65°\nB. 100°\nC. 115°\nD. 130°",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/20.webp",
+   "size": [
+    950,
+    303
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\n(\n)\n(\n)\nDane są punkty\nS =\n2,1\n,\nM =\n6,4\n. Równanie okręgu o środku S i przechodzącego przez\npunkt M ma postać\nA.  (\n)\n(\n)\n2\n2\nx\n−\n2\n+\ny\n−\n1\n=\n5\nB.  (\n)\n(\n)\n2\n2\nx\n−\n2\n+\ny\n−\n1\n=\n25\nC.  (\n)\n(\n)\n2\n2\nx\n−\n6\n+\ny\n−\n4\n=\n5\nD.  (\n)\n(\n)\n2\n2\nx\n−\n6\n+\ny\n−\n4\n=\n25",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/21.webp",
+   "size": [
+    950,
+    243
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\n1\nProste o równaniach\ny\n=\n2\nx\n+ oraz\n3\ny\n= −\nx\n+\n2\n3\nA. są równoległe i różne\nB. są prostopadłe\nC. przecinają się pod kątem innym niż prosty\nD. pokrywają się",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/22.webp",
+   "size": [
+    950,
+    142
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\nWskaż równanie prostej, która jest osią symetrii paraboli o równaniu\ny\n=\nx\n2\n−\n4\nx\n+\n2010\n.\nA.\nx =\n4\nB.\nx = −\n4\nC.\nx =\n2\nD.\nx = −\n2",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/23.webp",
+   "size": [
+    950,
+    188
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\n3\nKąt α jest ostry i\ncos\nα =\n. Wtedy\n7\n2 10\n10\n4\n3\nA.\nsin\nα =\nB.\nsin\nα =\nC.\nsin\nα =\nD.\nsin\nα =\n7\n7\n7\n4",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/24.webp",
+   "size": [
+    950,
+    151
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nW karcie dań jest 5 zup i 4 drugie dania. Na ile sposobów można zamówić obiad składający się\nz jednej zupy i jednego drugiego dania?\nA. 25\nB. 20\nC. 16\nD. 9",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2010-listopad-probna/25.webp",
+   "size": [
+    950,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\nW czterech rzutach sześcienną kostką do gry otrzymano następujące liczby oczek: 6, 3, 1, 4.\nMediana tych danych jest równa\nA. 2\nB. 2,5\nC. 5\nD. 3,5",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-listopad-probna/26.webp",
+   "size": [
+    947,
+    86
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (2 pkt)\nx\n2\nx\nRozwiąż nierówność\n+\n11\n+\n30\n≤\n0\n.",
+   "key": "Zadanie 26. (2 pkt)\n2\n+\n+\n≤\nRozwiąż nierówność\nx\n11\nx\n30\n0\n.\nI sposób rozwiązania\nObliczamy pierwiastki trójmianu kwadratowego:\n• obliczamy wyróżnik trójmianu kwadratowego i pierwiastki tego trójmianu:\n−\n−\n−\n+\n11 1\n11 1\nΔ = ,\n=\n= −,\n=\n= −\n1\nx\n6\nx\n5\n1\n2\n2\n2\nalbo\n• stosujemy wzory Viète’a:\n+\n= −\n⋅\n=\nx\nx\n11\noraz\nx\nx\n30\n1\n2\n1\n2\nx = −,\nx = −\ni stąd\n6\n5\n1\n2\nalbo\n• rozkładamy trójmian na czynniki, np.:\no grupując wyrazy i wyłączając wspólny czynnik,\no korzystając z postaci kanonicznej\n2\n⎛\n⎞\n⎛\n⎞⎛\n⎞\n11\n1\n11\n1\n11\n1\n(\n)(\n)\n+\n−\n=\n+\n−\n+\n+\n=\n+\n+\nx\nx\nx\nx\n5\nx\n6\n,\n⎜\n⎟\n⎜\n⎟⎜\n⎟\n⎝\n2\n⎠\n4\n⎝\n2\n2\n⎠⎝\n2\n2\n⎠\nPodajemy zbiór rozwiązań nierówności:\n• rysujemy fragment wykresu funkcji kwadratowej z zaznaczonymi miejscami\nzerowymi i odczytujemy zbiór rozwiązań\nx\n-6\n-5\nalbo\n• rozwiązujemy nierówność (\n)(\n)\n+\n+\n≤\nx\n5\nx\n6\n0\nanalizując znaki czynników.\n−\n−\nZbiorem rozwiązań nierówności jest przedział\n6, 5\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy poda poprawnie pierwiastki trójmianu kwadratowego lub zapisze trójmian w postaci\niloczynowej i na tym poprzestanie lub dalej popełni błędy\nZdający otrzymuje ............................................................................................................2 pkt\ngdy:\nlub (\n)\n• poda zbiór rozwiązań nierówności:\n−\n−\nx∈−\n−\n≥−\n≤−\n6, 5\nlub\n6, 5\nx\n6 i\nx\n5\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nalbo\n• zapisze zbiór rozwiązań nierówności w postaci\nx ≥−,\nx ≤−, o ile towarzyszy temu\n6\n5\nilustracja geometryczna (oś liczbowa, wykres)\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów.\nx\n-6\n-5\nII sposób rozwiązania\nZapisujemy nierówność w postaci\n2\n⎛\n⎞\n11\n1\n+\n−\n≤\nx\n0\n,\n⎜\n⎟\n⎝\n2\n⎠\n4\n2\n⎛\n11\n⎞\n1\n+\n≤\na następnie\nx\n⎜\n⎟\n⎝\n2\n⎠\n4\n11\n1\nx +\n≤\n, a stąd\n2\n2\n11\n1\n11\n1\n+\n≤\n+\n≥−\n.\nx\ni\nx\n2\n2\n2\n2\n≤−\n≥−.\nZatem\nx\n5 i\nx\n6\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\n2\n⎛\n⎞\n11\n1\n11\n1\n+\n≤\nx +\n≤\nx\ngdy doprowadzi nierówność do postaci\nlub\ni na tym poprzestanie\n⎜\n⎟\n⎝\n2\n⎠\n4\n2\n2\nlub dalej popełni błędy.\nZdający otrzymuje ............................................................................................................2 pkt\ngdy:\nlub (\n)\n• poda zbiór rozwiązań nierówności:\n−\n−\nx∈−\n−\n≥−\n≤−\n6, 5\nlub\n6, 5\nx\n6 i\nx\n5\nalbo\n• zapisze zbiór rozwiązań nierówności w postaci\nx ≥−,\nx ≤−, o ile towarzyszy temu\n6\n5\nilustracja geometryczna (oś liczbowa, wykres)\nalbo\n• poda zbiór rozwiązań nierówności w postaci graficznej z poprawnie zaznaczonymi\nkońcami przedziałów.\nx\n-6\n-5\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010"
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-listopad-probna/27.webp",
+   "size": [
+    947,
+    86
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\nRozwiąż równanie\nx\n3\n+\n2\nx\n2\n−\n5\nx\n−\n10\n=\n0\n.",
+   "key": "Zadanie 27. (2 pkt)\nRozwiąż równanie\n3\n+\n2\n−\n−\n=\n.\nx\n2\nx\n5\nx\n10\n0\nI sposób rozwiązania (metoda grupowania)\nPrzedstawiamy lewą stronę równania w postaci iloczynowej stosując metodę grupowania\nwyrazów\n)(\n)\n(\n+\n−\n=\n2\nx\n2\nx\n5\n0\nx = − lub\nx = −\nx =\nStąd\n2\n5\nlub\n5\n.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\n• poda poprawną postać iloczynową wielomianu po lewej stronie równania\n)(\n)(\n)\n)(\n)\n(\nlub (\n+\n2\n−\n=\n+\n−\n+\n=\nx\n2\nx\n5\n0\nx\n2\nx\n5\nx\n5\n0\ni na tym poprzestanie lub dalej\npopełnia błędy\nalbo\n• zapisze postać iloczynową z błędem (o ile otrzymany wielomian jest stopnia trzeciego\ni ma trzy różne pierwiastki) i konsekwentnie do popełnionego błędu poda rozwiązania\nrównania.\nZdający otrzymuje ............................................................................................................2 pkt\n−\n−\ngdy wyznaczy wszystkie rozwiązania równania:\n5,\n2,\n5\n.\nII sposób rozwiązania (metoda dzielenia)\n− jest pierwiastkiem wielomianu. Dzielimy wielomian\nStwierdzamy, że liczba 2\nx +\nx −. Zapisujemy równanie\n2\n3\n+\n2\n−\n−\nprzez dwumian\n2\ni otrzymujemy\n5\nx\n2\nx\n5\nx\n10\n)(\n)\nw postaci (\n+\n2\n−\n=\nx = − lub\nx = −\nx =\nx\n2\nx\n5\n0\n. Stąd\n2\n5\nlub\n5\n.\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy\n• podzieli wielomian\nx +\nx − i na\n2\n3\n+\n2\n−\n−\nprzez dwumian\notrzymując\n5\nx\n2\nx\n5\nx\n10\n2\ntym poprzestanie lub dalej popełnia błędy\nalbo\n• podzieli wielomian z błędem (o ile otrzymany iloraz jest stopnia drugiego i ma dwa\nróżne pierwiastki) i konsekwentnie do popełnionego błędu poda rozwiązanie\nrównania.\nZdający otrzymuje ............................................................................................................2 pkt\n−\n−\ngdy wyznaczy wszystkie rozwiązania równania:\n5,\n2,\n5\n.\nUwaga:\n(\n) (\n)\n2\n−\n2\n−\n=\n1. Jeżeli zdający zapisze\nx x\n5 2\nx\n5\n0\n(brak znaku przed liczbą 2) lub\n(\n) (\n)\n2\n+\n+\n=\nx\nx\n2 5\nx\n2\n0\n(brak znaku przed liczbą 5) i na tym zakończy, to otrzymuje\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\n)(\n)\n0 punktów. Jeżeli natomiast kontynuuje rozwiązanie i zapisze (\n+\n2\n−\n=\nx\n2\nx\n5\n0\n, to\noceniamy to rozwiązanie tak, jakby ten błąd nie wystąpił.\n−\n2. Jeśli zdający wykonał dzielenie przez dwumian x\np\nnie zapisując, że p jest jednym\nz rozwiązań równania\n3\n+\n2\n−\n−\n=\ni w końcowej odpowiedzi pominie\nx\n2\nx\n5\nx\n10\n0\npierwiastek p podając tylko pierwiastki trójmianu kwadratowego, to przyznajemy\n2 punkty."
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-listopad-probna/28.webp",
+   "size": [
+    956,
+    110
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\nPrzeciwprostokątna trójkąta prostokątnego jest dłuższa od jednej przyprostokątnej o 1 cm\ni od drugiej przyprostokątnej o 32 cm. Oblicz długości boków tego trójkąta.",
+   "key": "Zadanie 28. (2 pkt)\nPrzeciwprostokątna trójkąta prostokątnego jest dłuższa od jednej przyprostokątnej o 1 cm\ni od drugiej przyprostokątnej o 32 cm. Oblicz długości boków tego trójkąta.\nRozwiązanie\nNiech x oznacza długość przeciwprostokątnej. Z twierdzenia Pitagorasa otrzymujemy\nrównanie\n(\n)\n(\n)\n2\n2\n−\n+\n−\n=\nx >\nx\n1\nx\n32\nx\n2\ni\n32\nPo przekształceniach otrzymujemy równanie\n2\n−\n+\n=\nx\n66\nx\n1025\n0\n.\nx =\nx =\nWtedy\n25\n(sprzeczne z założeniem) oraz\n41\n.\n1\n2\nOdpowiedź: Przeciwprostokątna ma długość 41 cm, jedna przyprostokątna ma długość 9 cm\na druga ma długość 40 cm.\nUwagi:\n(\n)\n(\n)\n2\n2\n+\n+\n=\n+\nx +\n2\n1.  Jeżeli zdający zapisze równanie\nx\nx\n31\nx\n32\n, gdzie\n32\njest\ndługością przeciwprostokątnej, to po przekształceniach otrzyma równanie\n2\n−\n−\n=\nx =\nx = −.\nx\n2\nx\n63\n0\n. Wtedy\n9\nlub\n7\n(\n)\n(\n)\n2\n2\n2\n+\n−\n=\n+\nx + jest długością\n2.    Jeżeli zdający zapisze równanie\nx\nx\n31\nx\n1\n, gdzie\n1\n2\n−\n+\n=\nprzeciwprostokątnej, to po przekształceniach otrzyma równanie\nx\n64\nx\n960\n0\n,\nx + jest długością przeciwprostokątnej. Wtedy\nx =\nx =\ngdy\n1\n40\nlub\n24\n.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy zapisze równanie z jedną niewiadomą.\nTo równanie w zależności od przyjętych oznaczeń może mieć postać:\n(\n)\n(\n)\n2\n2\n−\n+\n−\n=\n2\nx\n1\nx\n32\nx\n, gdy x jest długością przeciwprostokątnej\nalbo\n(\n)\n(\n)\n2\n2\n2\n+\n+\n=\n+\nx +\nx\nx\n31\nx\n32\n, gdy\n32\njest długością przeciwprostokątnej\nalbo\n(\n)\n(\n)\n2\n2\n2\n+\n−\n=\n+\nx + jest długością przeciwprostokątnej.\nx\nx\n31\nx\n1\n, gdy\n1\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nZdający otrzymuje ............................................................................................................2 pkt\ngdy obliczy długości boków tego trójkąta: 9 cm, 40 cm i 41 cm."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-listopad-probna/29.webp",
+   "size": [
+    950,
+    477
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\nDany jest prostokąt ABCD. Okręgi o średnicach AB i AD przecinają się w punktach A i P\n(zobacz rysunek). Wykaż, że punkty B, P i D leżą na jednej prostej.\nD\nC\nP\nB\nA",
+   "key": "Zadanie 29. (2 pkt)\nDany jest prostokąt ABCD. Okręgi o średnicach AB i AD przecinają się w punktach A i P\n(zobacz rysunek). Wykaż, że punkty B, P i D leżą na jednej prostej.\nD\nC\nP\nB\nA\nI sposób rozwiązania\nD\nC\nŁączymy punkt P z punktami A, B i D. Kąt APD\nP\nAPD =\n°\njest oparty na półokręgu, więc\n)\n90\n.\nPodobnie kąt APB jest oparty na półokręgu,\nAPB =\n°\nwięc\n)\n90\n. Zatem\n=\n+\n=\n°+\n° =\n°\n)\nDPB\n)\nAPD\n)\nAPB\n90\n90\n180\n,\nB\nA\nczyli punkty B, P i D są współliniowe.\nUwaga.\nPo uzasadnieniu, że trójkąty APD i APB są\nprostokątne\nmożemy\nrównież\nzastosować\ntwierdzenie Pitagorasa dla tych trójkątów\ni trójkąta\nABD,\notrzymując\nrówność\n=\n+\nBD\nBP\nPD\n,\nktóra\noznacza\nwspółliniowość punktów B, P i D.\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\nAPB =\n°\nAPD =\n°\ngdy zauważy, że\n)\n90\noraz\n)\n90\ni na tym poprzestanie lub dalej popełnia\nbłędy lub gdy w jego rozumowaniu występują luki.\nZdający otrzymuje ............................................................................................................2 pkt\n=\n=\n°\ngdy uzasadni, że\n)\nAPD\n)\nAPB\n90\ni  wywnioskuje, że punkty B, P i D są współliniowe.\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nII sposób rozwiązania (jednokładność)\nD\nC\nNiech O i S będą środkami obu okręgów\ni R będzie punktem przecięcia odcinków AP\nP\ni OS.\nOdcinek OS łączący środki okręgów dzieli ich\nO\nwspólną cięciwę na połowy, więc |AR| =| RP|.\nR\nWtedy punkty D, P i B są obrazami punktów\nwspółliniowych O, R, S w jednokładności\no środku A i skali 2, więc są współliniowe.\nB\nA\nS\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ............................................................................................................2 pkt\ngdy zauważy i uzasadni, że punkty D, P i B są obrazami punktów współliniowych O, R, S\nw jednokładności o środku A i skali 2, więc są współliniowe.\nIII sposób rozwiązania (metoda analityczna)\nUmieszczamy okręgi w układzie współrzędnych,\ntak jak na rysunku.\nZapisujemy układ równań (równania okręgów):\nD\nC\n(\n)\n⎧\n2\n−\n+\n=\n2\n2\nx\na\ny\na\n⎪⎨\nP\n(\n)\n2\n+\n−\n=\n⎪⎩\n2\n2\nx\ny\nb\nb\nb\nRozwiązując ten układ równań otrzymujemy\nwspółrzędne punktu P:\n⎛\n⎞\n2\n2\n2\nab\n2\na b\n= ⎜\nP\n,\n.\n⎟\nA\nB\na\n2\n+\n2\n2\n+\n2\na\nb\na\nb\n⎝\n⎠\nx\ny\n+\n= .\nRównanie prostej BD ma postać\n1\n2\na\n2\nb\nPonieważ\n2\n2\n2\n2\n1\n2\nab\n1\n2\na b\nb\na\n⋅\n+\n⋅\n=\n+\n=\n1\n,\n+\n+\n+\n+\n2\n2\n2\n2\n2\n2\n2\n2\n2\na a\nb\n2\nb a\nb\na\nb\na\nb\nwięc punkt P leży na prostej BD.\nSchemat oceniania III sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy zapisze układ równań: (\n⎧\n)\n2\n−\n+\n=\nx\na\ny\n2\na\n2\n⎪⎨\ni na tym poprzestanie lub dalej popełnia błędy.\n(\n)\n2\n2\n+\n−\n=\n2\n⎪⎩\nx\ny\nb\nb\nZdający otrzymuje ............................................................................................................2 pkt\ngdy wykaże, że punkt P leży na prostej BD.\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nIV sposób rozwiązania\nPrzyjmijmy oznaczenia jak na rysunku.\nD\nC\nP\nN\n.\nB\nA\nM\n=\nOdcinki NA i NP są promieniami okręgu o średnicy AD, więc AN\nPN\n. Podobnie odcinki\n=\nMA i MP są promieniami okręgu o średnicy AB, więc AM\nPM\n. Zatem czworokąt AMPN\n=\nNAM =\n°\njest deltoidem. Stąd wynika, że\n)\nNAM\n)\nNPM\n. Ale\n)\n90\n, więc\nNPM =\n°\n(1)\n)\n90\n=\n=\nTrójkąty NPD i MBP są równoramienne, bo PN\nDN\noraz PM\nBM\n. Stąd wynika, że\n° −\n° −\n180\n)\nPND\n180\n)\nPMB\n=\n=\n(2)\n)\nNPD\noraz\n)\nMPB\n.\n2\n2\nZ faktu, że AMPN jest deltoidem wynika ponadto, że\n=\n=\n(3)\n)\nAMN\n)\nPMN\noraz\n)\nANM\n)\nPNM\n.\nTrójkąt AMN jest prostokątny, więc\n+\n=\n°\n(4)\n)\nANM\n)\nAMN\n90\n.\nObliczmy teraz miarę kąta BPD\n° −\n° −\n(1),(2)180\n)\nPMB\n180\n)\nPND\n=\n+\n+\n=\n+\n° +\n=\n)\nBPD\n)\nMPB\n)\nNPM\n)\nNPD\n90\n2\n2\n1\n1\n(3)\n(\n)\n(\n)\n=\n° −\n+\n=\n° −\n° −\n⋅\n+\n° −\n⋅\n=\n270\n)\nPMB\n)\nPND\n270\n180\n2\n)\nAMN\n180\n2\n)\nANM\n2\n2\n(4)\n(\n)\n=\n° +\n+\n=\n° +\n° =\n°\n90\n)\nAMN\n)\nANM\n90\n90\n180\n.\nTo oznacza, że punkty B, P i D są współliniowe.\nSchemat oceniania IV sposobu rozwiązania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy zauważy, że czworokąt AMPN jest deltoidem, uzasadni, że kąt MPN jest prosty i zapisze\nwszystkie równości między miarami kątów w trójkątach: DNP, BMP, AMN, MNP,\n=\n+\n+\n=\n°\npozwalające wykazać, że\n)\nBPD\n)\nMPB\n)\nNPM\n)\nNPD\n180\n.\nZdający otrzymuje ............................................................................................................2 pkt\n=\n+\n+\n=\n°\ngdy wykaże, że\n)\nBPD\n)\nMPB\n)\nNPM\n)\nNPD\n180\n.\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010"
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-listopad-probna/30.webp",
+   "size": [
+    950,
+    95
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\nUzasadnij, że jeśli (\n)(\n)\n(\n)\n2\na\n2\n+\nb\n2\nc\n2\n+\nd\n2\n=\nac\n+\nbd\n, to ad\n=\nbc\n.",
+   "key": "Zadanie 30. (2 pkt)\nUzasadnij, że jeśli (\n)(\n)\n(\n)\n2\n2\n+\n2\n2\n+\n2\n=\n+\n=\na\nb\nc\nd\nac\nbd\n, to ad\nbc\n.\nRozwiązanie\nPrzekształcając (\n)(\n)\n(\n)\n2\n2\n+\n2\n2\n+\n2\n=\n+\na\nb\nc\nd\nac\nbd\notrzymujemy kolejno:\n2\n2\n+\n2\n2\n+\n2\n2\n+\n2\n2\n=\n2\n2\n+\n+\n2\n2\na c\na d\nb c\nb d\na c\n2\nabcd\nb d\n−\n+\n=\n2\n2\n2\n2\na d\n2\nabcd\nb c\n0\n(\n)\n2\n−\n=\nad\nbc\n0\n=\nad\nbc\nSchemat oceniania\nZdający otrzymuje ............................................................................................................2 pkt\ngdy przeprowadzi pełny dowód twierdzenia.\nUwagi:\n1. Jeżeli zdający przeprowadzi rozumowanie pomijając niektóre przypadki np. rozważy\ntylko dodatnie wartości iloczynów ad i bc , to przyznajemy 1 punkt.\n2. Jeżeli zdający sprawdzi prawdziwość twierdzenia dla konkretnych wartości a, b, c, d, to\nprzyznajemy 0 punktów."
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2010-listopad-probna/31.webp",
+   "size": [
+    950,
+    110
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nOblicz, ile jest liczb naturalnych czterocyfrowych, w których zapisie pierwsza cyfra jest\nparzysta, a pozostałe nieparzyste.",
+   "key": "Zadanie 31. (2 pkt)\nIle jest liczb naturalnych czterocyfrowych, w zapisie których pierwsza cyfra jest parzysta\na pozostałe nieparzyste?\nRozwiązanie\nW zapisie danej liczby na pierwszym miejscu może wystąpić jedna z cyfr: 2, 4, 6, 8, czyli\nmamy 4 możliwości. Na drugim miejscu może być jedna z cyfr: 1, 3, 5, 7, 9, czyli mamy 5\n⋅\n=\n3\nmożliwości. Tak samo na trzecim i czwartym miejscu. Zatem mamy\n4 5\n500\ntakich liczb.\nSchemat oceniania\nZdający otrzymuje ............................................................................................................1 pkt\ngdy:\n• poprawnie obliczy, ile jest możliwości wystąpienia cyfry na pierwszym miejscu i dalej\npopełnia błąd lub na tym poprzestanie\nalbo\n• poprawnie obliczy, ile jest możliwości wystąpienia cyfry na drugim, trzecim i czwartym\nmiejscu a popełni błąd podając liczbę cyfr na pierwszym miejscu.\nZdający otrzymuje ............................................................................................................2 pkt\n⋅\n3\ngdy poprawnie obliczy, ile jest szukanych liczb:\n4 5\n, nawet, gdy popełni błąd w obliczeniu\n⋅\n=\n3\ntego iloczynu, np.\n4 5\n600\n.\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010"
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2010-listopad-probna/32.webp",
+   "size": [
+    956,
+    123
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\nCiąg (\n)\njest arytmetyczny, natomiast ciąg (\n)\n1,\nx y −\n,\n1\nx y\n,\n, 12\njest geometryczny.\nOblicz x oraz y i podaj ten ciąg geometryczny.",
+   "key": "Zadanie 32. (4 pkt)\nCiąg (\n)\njest arytmetyczny, natomiast ciąg (\n)\nx y −\n1, ,\n1\nx y\n, ,12\njest geometryczny.\nOblicz x oraz y i podaj ten ciąg geometryczny.\nI sposób rozwiązania\n+\n−\n1\ny\n1\n=\n=\nZ własności ciągu arytmetycznego otrzymujemy równanie\nx\n, czyli\ny\n2\nx\n,\n2\n=\n⋅\n2\na z własności ciągu geometrycznego wynika równanie\ny\nx\n12\n.\n=\n⎧\ny\n2\nx\nRozwiązujemy układ równań\n⎨\n.\n=\n2\ny\n12\nx\n⎩\n−\n=\nx = lub\nx =\n2\nOtrzymujemy równanie kwadratowe\n4\nx\n12\nx\n0\n, a stąd\n3\n0\n.\n⎧\n=\n⎧\n=\nx\n0\nx\n3\nZatem układ równań ma dwa rozwiązania\n⎨\nlub\n⎨\n.\n=\n=\ny\n0\ny\n6\n⎩\n⎩\nPierwsze rozwiązanie nie spełnia warunków zadania, gdyż ciąg (\n)\n0,0,12 nie jest\ngeometryczny.\n, stąd otrzymujemy ciąg geometryczny (\n)\nx = i\ny =\nZatem\n3\n6\n3,6,12 .\nII sposób rozwiązania\nKorzystając z definicji ciągów arytmetycznego i geometrycznego otrzymujemy układ równań\n= +\n⎧\nx\n1\nr\n⎪\n−=\n+\ny\n1\nx\nr\n⎪⎨\nx ≠\ny ≠\nr ≠− i\nq ≠\nprzy czym\n0\ni\n0\n,\n1\n0\n.\n=\n⋅\ny\nx q\n⎪\n⎪\n=\n⋅\n12\ny q\n⎩\nRozwiązujemy ten układ i otrzymujemy\n=\n⎧\nx\n3\n⎪\n=\n⎪⎨=\ny\n6\nq\n2\n⎪\n⎪=\nr\n2\n⎩\n. Stąd otrzymujemy ciąg geometryczny (\n)\nx = i\ny =\nZatem\n3\n6\n3,6,12 .\nSchemat oceniania I i II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\nWykorzystanie własności ciągu arytmetycznego albo geometrycznego (definicji lub wzoru na\nn-ty wyraz) i zapisanie równania, np.:\n+\n−\n1\ny\n1\n•\n=\n= +\n−=\n+\nx\nalbo równań, np.:\nx\n1\nr\ni\ny\n1\nx\nr\n2\nalbo\n•\n2\n=\n⋅\n=\n⋅\n=\n⋅\ny\nx\n12\nalbo równań, np.: y\nx q\ni 12\ny q\n.\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nZapisanie układu równań pozwalającego obliczyć x i y, np.:\n= +\n⎧\nx\n1\nr\n⎧= +\n⎧\n=\ny\n2\nx\nx\n1\nr\n⎪\n=\n⎧\ny\n2\nx\n−=\n+\n⎪\ny\n1\nx\nr\n⎪\n⎪⎨\n−=\n+\n=\n⋅\nalbo\ny\nx q\nalbo\ny\n1\nx\nr\nalbo\n⎨\n⎨\n⎨\n=\n=\n⋅\n2\ny\nx q\ny\n12\nx\n⎩\n⎪\n⎪\n⎪\n=\n⋅\n12\ny q\n2\n=\ny\n12\nx\n⎩\n⎩\n⎪\n=\n⋅\n12\ny q\n⎩\nUwaga\nZdający nie musi zapisywać układu równań, wystarczy, że zapisze wszystkie konieczne\nzależności.\nPokonanie zasadniczych trudności zadania..................................................................................3 pkt\nZapisanie i rozwiązanie równania kwadratowego z jedną niewiadomą, np.:\n•\n−\n=\nx = lub\nx =\n2\n4\nx\n12\nx\n0\n, stąd\n3\n0\nalbo\n•\n−\n=\ny =\ny =\ny\n2\n6\ny\n0\n, stąd\n0\nlub\n6\n.\nRozwiązanie pełne ..............................................................................................................4 pkt\noraz zapisanie ciągu geometrycznego (\n)\nx = i\ny =\nObliczenie\n3\n6\n3,6,12 .\nUwaga\n=\n=\nPrzyznajemy 4 punkty, gdy zdający obliczy\nx\n3 i\ny\n6\ni poda ciąg geometryczny w\n= ⋅\n3 2n\n−\n1\npostaci\nna\n.\nIII sposób rozwiązania\nZ własności ciągu arytmetycznego otrzymujemy równanie\n+\n−\n1\ny\n1\n=\n=\nx\n, czyli\ny\n2\nx\n,\n2\nnatomiast z własności ciągu geometrycznego równanie\n12\ny\n=\nx ≠\ny ≠\n, przy czym\n0\noraz\n0\n.\ny\nx\n=\n⎧⎪⎨\ny\n2\nx\nRozwiązujemy układ równań\n12\ny\n=\n⎪⎩\ny\nx\n=\n=\n⎧⎪⎨\n⎧⎪⎨\ny\n2\nx\ny\n2\nx\nx = i\ny =\nOtrzymujemy kolejno\n,\n,   zatem\n3\n6\n.\n12\n2\nx\n12\n=\n=\n2\n⎪⎩\n⎪⎩\n2\nx\nx\n2\nx\nStąd otrzymujemy ciąg geometryczny (\n)\n3,6,12 .\nSchemat oceniania III sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\nWykorzystanie własności ciągu arytmetycznego (definicji lub wzoru na n-ty wyraz) albo\nwykorzystanie własności ciągu geometrycznego (definicji lub wzoru na n-ty wyraz)\ni zapisanie:\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\n+\n−\n1\ny\n1\n• równania, np.:\n=\nx\n2\nalbo\n• równania, np.: 12\ny\n=\ny\nx\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nZapisanie układu równań pozwalającego obliczyć x i y, np.:\n=\n⎧⎪⎨\ny\n2\nx\n12\ny\n=\n⎪⎩\ny\nx\nUwaga\nZdający nie musi zapisywać układu równań, wystarczy, że zapisze wszystkie konieczne\nzależności.\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\nZapisanie  i rozwiązanie równania z niewiadomą x, np.:\n12\n2\nx\n=\nx = .\ni\n3\n2\nx\nx\nRozwiązanie pełne ..............................................................................................................4 pkt\noraz zapisanie ciągu geometrycznego (\n)\nx = i\ny =\nObliczenie\n3\n6\n3,6,12 .\nIV sposób rozwiązania:\nZ własności ciągu arytmetycznego otrzymujemy równanie\n+\n−\n1\ny\n1\n=\n=\nx\n, czyli\ny\n2\nx\n.\n2\nCiąg (\n)\n=\nx y\n, ,12\njest geometryczny i\ny\n2\nx\n, zatem iloraz q tego ciągu jest równy 2.\n12\n12\ny =\n=\nx =\n=\nZ własności ciągu geometrycznego otrzymujemy\n6\ni\n3\n.\n2\n4\n, a stąd otrzymujemy ciąg geometryczny (\n)\n=\n=\nZatem\nx\n3 i\ny\n6\n3,6,12 .\nSchemat oceniania IV sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\n+\n−\n1\ny\n1\n=\nWykorzystanie własności ciągu arytmetycznego i zapisanie równania, np.:\nx\n.\n2\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\n• zapisanie ciągu geometrycznego (\n)\nx\n,2 ,12\nx\nalbo\n• obliczenie ilorazu q tego ciągu:\nq =\n2\n.\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\nx = lub\ny =\nObliczenie\n3\n6\n.\nRozwiązanie pełne ..............................................................................................................4 pkt\noraz zapisanie ciągu geometrycznego (\n)\nx = i\ny =\nObliczenie\n3\n6\n3, 6, 12 .\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2010-listopad-probna/33.webp",
+   "size": [
+    950,
+    150
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (4 pkt)\n(\n)\n(\n)\n(\n)\nPunkty\nA =\n1, 5\n,\nB =\n14, 31\n,\nC =\n4, 31\nsą wierzchołkami trójkąta. Prosta zawierająca\nwysokość tego trójkąta poprowadzona z wierzchołka C przecina prostą AB w punkcie D.\nOblicz długość odcinka BD.",
+   "key": "Zadanie 33. (4 pkt)\n(\n)\n(\n)\n(\n)\nA =\nB =\nC =\nPunkty\n1,5\n,\n14,31\n,\n4,31\nsą wierzchołkami trójkąta. Prosta zawierająca\nwysokość tego trójkąta poprowadzona z wierzchołka C przecina prostą AB w punkcie D.\nOblicz długość odcinka BD.\nI sposób rozwiązania\n=\n+\nWyznaczamy równanie prostej AB:\ny\n2\nx\n3\n.\n1\n= −\n+\nWyznaczamy równanie prostej CD, prostopadłej do prostej AB:\ny\nx\n33\n.\n2\n(\n)\nD =\nObliczamy współrzędne punktu D:\n12,27\n.\nBD =\nObliczamy długość odcinka BD:\n2 5\n.\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\nWyznaczenie równania prostej AB (albo współczynnika kierunkowego a prostej AB albo\nJJJG\nJJJG\n[\n]\n=\n+\na =\nAB =\nwspółrzędnych wektora AB\n):\ny\n2\nx\n3\n(\n2\n,\n13,26\n).\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\n1\n= −\n+\nWyznaczenie równania prostej CD:\ny\nx\n33\n.\n2\nPokonanie zasadniczych trudności zadania  ...................................................................3 pkt\n(\n)\nD =\nObliczenie współrzędnych punktu D:\n12,27\n.\nRozwiązanie pełne ..............................................................................................................4 pkt\n10\nBD =\nBD =\n2 5\nObliczenie długości odcinka BD:\nlub\n.\n5\nII sposób rozwiązania\n=\n+\nWyznaczamy równanie prostej AB:\ny\n2\nx\n3\n.\n1\n= −\n+\nWyznaczamy równanie prostej CD, prostopadłej do prostej AB:\ny\nx\n33\n.\n2\n(\n)\nB =\n+\n−\n=\nObliczamy odległość punktu\n14,31\nod prostej CD o równaniu\nx\n2\ny\n66\n0\n:\n+\n⋅\n−\n14\n2 31\n66\n=\nBD =\n2 5\n, więc\n2 5\n.\n5\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\nWyznaczenie równania prostej AB (albo współczynnika kierunkowego a prostej AB albo\nJJJG\nJJJG\n[\n]\n=\n+\na =\nAB =\nwspółrzędnych wektora AB\n):\ny\n2\nx\n3\n(\n2\n,\n13,26\n).\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\n1\n= −\n+\nWyznaczenie równania prostej CD:\ny\nx\n33\n.\n2\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\n+\n⋅\n−\nZastosowanie wzoru na odległość punktu B od prostej CD: 14\n2 31\n66\n.\n5\nRozwiązanie pełne ..............................................................................................................4 pkt\n10\nBD =\nBD =\nObliczenie długości odcinka BD:\n2 5\nlub\n.\n5\nIII sposób rozwiązania\n=\n+\nWyznaczamy równanie prostej AB:\ny\n2\nx\n3\n.\n(\n)\nC =\n−\n+\n=\nObliczamy odległość punktu\n4,31\nod prostej AB o równaniu 2\nx\ny\n3\n0\n:\n⋅−\n+\n2 4\n31 3\n20\n=\n=\nCD\n.\n5\n5\nCB =\nObliczamy długość odcinka CB:\n10\n.\nKorzystając z twierdzenia Pitagorasa dla trójkąta CDB obliczamy długość odcinka BD:\n2\n⎛\n⎞+\n20\n2\n=\nBD =\n2\nBD\n10\n,  więc\n2 5\n.\n⎜\n⎟\n⎝\n5\n⎠\nSchemat oceniania III sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\n=\n+\nWyznaczenie równania prostej AB :\ny\n2\nx\n3\n.\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\n(\n)\nC =\n−\n+\n=\nObliczenie odległości punktu\n4,31\nod prostej AB o równaniu 2\nx\ny\n3\n0\n:\n⋅−\n+\n2 4\n31 3\n20\n=\nCD =\nCD =\nCD\nlub\nlub\n4 5\n.\n5\n5\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\n2\n⎛\n⎞+\n20\n2\n=\n2\nZastosowanie twierdzenia Pitagorasa dla trójkąta CDB:\nBD\n10\n.\n⎜\n⎟\n⎝\n5\n⎠\nRozwiązanie pełne ..............................................................................................................4 pkt\n10\nBD =\nBD =\nObliczenie długości odcinka BD:\n2 5\nlub\n.\n5\nIV sposób rozwiązania\nObliczamy długość odcinka CB oraz wysokość trójkąta ABC opuszczoną z wierzchołka A:\n=\n=\nCB\n10,\nh\n26\n.\nA\n⋅\n10 26\n=\n=\nObliczamy pole trójkąta ABC:\nP\n130\n.\nABC\n2\nAB =\n845\nObliczamy długość odcinka AB:\n.\n⋅\n⋅\nAB\nCD\n. Zatem 13 5\nCD\n=\n=\nPole trójkąta ABC możemy zapisać:\nP\n130\n.\nABC\n2\n2\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nCD =\nStąd\n4 5\n.\nKorzystając z twierdzenia Pitagorasa dla trójkąta CDB obliczamy długość odcinka BD:\n(\n)\n2\n2\n+\n=\n2\nBD =\n4 5\nBD\n10\n,  więc\n2 5\n.\nSchemat oceniania IV sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\n=\nObliczenie pola trójkąta AB :\nP\n130\n.\nABC\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nCD =\nObliczenie długości odcinka CD:\n4 5\n.\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\nZastosowanie twierdzenia Pitagorasa dla trójkąta CDB: (\n)\n2\n2\n+\n=\n2\n4 5\nBD\n10\n.\nRozwiązanie pełne ..............................................................................................................4 pkt\n10\nBD =\nBD =\nObliczenie długości odcinka BD:\n2 5\nlub\n.\n5\nV sposób rozwiązania\n=\n=\n=\nObliczamy długości wszystkich boków trójkąta ABC:\nAB\n845,\nAC\n685,\nCB\n10\n.\nKorzystając z twierdzenia Pitagorasa dla trójkątów CDB i ADC zapisujemy układ równań:\n⎧\n2\n2\n2\n=\n+\nCB\nBD\nCD\n⎪⎨\n(\n)\n2\n2\n2\n=\n−\n+\n⎪⎩\nCA\nAB\nBD\nCD\n2\nWyznaczając\nCD z pierwszego równania i podstawiając do drugiego równania\notrzymujemy:\n(\n)\n(\n)\n2\n2\n2\n=\n−\n+\n2\n−\n685\n845\nBD\n10\nBD\n.\nBD =\nStąd\n2 5\n.\nSchemat oceniania V sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiąza"
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2010-listopad-probna/34.webp",
+   "size": [
+    950,
+    221
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (5 pkt)\nDroga z miasta A do miasta B ma długość 474 km. Samochód jadący z miasta A do miasta B\nwyrusza godzinę później niż samochód z miasta B do miasta A. Samochody te spotykają się\nw odległości 300 km od miasta B. Średnia prędkość samochodu, który wyjechał z miasta A,\nliczona od chwili wyjazdu z A do momentu spotkania, była o 17 km/h mniejsza od średniej\nprędkości drugiego samochodu liczonej od chwili wyjazdu z B do chwili spotkania. Oblicz\nśrednią prędkość każdego samochodu do chwili spotkania.",
+   "key": "Zadanie 34. (5 pkt)\nDroga z miasta A do miasta B ma długość 474 km. Samochód jadący z miasta A do miasta B\nwyrusza godzinę później niż samochód z miasta B do miasta A. Samochody te spotykają się\nw odległości 300 km od miasta B. Średnia prędkość samochodu, który wyjechał z miasta A,\nliczona od chwili wyjazdu z A do momentu spotkania, była o 17 km/h mniejsza od średniej\nprędkości drugiego samochodu liczonej od chwili wyjazdu z B do chwili spotkania. Oblicz\nśrednią prędkość każdego samochodu do chwili spotkania.\nI sposób rozwiązania\nNiech v oznacza średnią prędkość samochodu, który wyjechał z miasta B i niech t oznacza\nczas od chwili wyjazdu tego samochodu do chwili spotkania.\nObliczamy, jaką drogę do chwili spotkania pokonał samochód jadący z miasta A: 174 km.\nZapisujemy układ równań\n⋅=\n⎧⎪⎨\nv t\n300\n(\n)(\n)\n−\n−\n=\nv\n17\nt\n1\n174\n⎪⎩\nv t⋅=\nPrzekształcając drugie równanie uwzględniając warunek\n300\notrzymujemy:\n=\n−\nv\n143 17\nt\n.\nOtrzymaną wartość v podstawiamy do pierwszego równania i otrzymujemy:\n−\n+\n=\n17\nt\n2\n143\nt\n300\n0\n.\nRozwiązaniami tego równania są liczby:\n75\n7\nt =\n=\nt =\n4\ni 2\n4\n.\n1\n17\n17\nv =\nv =\nStąd\n68\n,\n75\n.\n1\n2\nv =\nv =\nOdpowiedź:  pierwsze rozwiązanie:\n51\nkm/h,\n68\nkm/h,\nA\nB\nv =\nv =\ndrugie rozwiązanie:\n58\nkm/h,\n75\nkm/h,\nA\nB\ngdzie\nv oznacza prędkość samochodu jadącego z miasta A, a\nv oznacza prędkość\nA\nB\nsamochodu jadącego z miasta B.\nUwaga\nMożemy otrzymać inne równania kwadratowe z jedną niewiadomą:\n−\n+\n=\n−\n+\n=\n−\n+\n=\n17\nt\n2\n109\nt\n174\n0\nlub\nv\n2\n109\nv\n2958\n0\nlub\nv\n2\n143\nv\n5100\n0\n.\nA\nA\nA\nA\nB\nB\nSchemat oceniania I sposobu rozwiązania\nUwaga\nW poniżej zamieszczonym schemacie używamy niewiadomych\nv\n,\nt oznaczających\nA\nA\nodpowiednio: prędkość i czas dla samochodu jadącego z miasta A oraz niewiadomych\nv\n,\nt\nB\nB\noznaczających odpowiednio: prędkość i czas dla samochodu jadącego z miasta B. Oczywiście\nw pracach maturalnych te niewiadome mogą być oznaczane w inny sposób. Nie wymagamy,\nby te niewiadome były wyraźnie opisane na początku rozwiązania, o ile z postaci równań\njasno wynika ich znaczenie.\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania...........................................................................................................1 pkt\nObliczenie, jaką drogę do chwili spotkania pokonał samochód jadący z miasta A: 174 km.\nZapisanie równania:\n(\n)(\n)\nlub  (\n)(\n)\n−\n−\n=\n+\n+\n=\nv\n17\nt\n1\n174\nv\n17\nt\n1\n300\n.\nB\nB\nA\nA\nUwaga\nt⋅\n=\nt⋅\n=\nPrzyznajemy 0 pkt, jeżeli zdający zapisze tylko równanie\nlub\nlub\nv\n300\nv\n174\nB\nB\nA\nA\nodpowiednio zapisze, że (\n) (\n)\nlub (\n) (\n)\n+\n⋅\n+\n=\n−\n⋅\n−\n=\nv\n17\nt\n1\n174\nv\n17\nt\n1\n300\n.\nB\nB\nA\nA\nRozwiązanie, w którym jest istotny postęp......................................................................2 pkt\nZapisanie układu równań np.\n(\n)(\n)\n⋅\n=\n⎧\n−\n−\n=\n⎧⎪⎨\nv\nt\n174\nv\n17\nt\n1\n174\n⎪⎨\nA\nA\nB\nB\nlub\n(\n)(\n)\n+\n+\n=\n⋅\n=\nv\n17\nt\n1\n300\n⎪⎩\nv\nt\n300\n⎪⎩\nA\nA\nB\nB\nPokonanie zasadniczych trudności zadania.....................................................................3 pkt\nSprowadzenie do równania  z jedną niewiadomą\nv lub\nAt lub\nv lub Bt , np.\nA\nB\n⎛\n⎞\n⎛\n⎞\n174\n) 174\n(\n)\nlub  (\n+\n+\n=\n+\n+\n=\n17\nt\n1\n300\nv\n17\n1\n300\n⎜\n⎟\n⎜\n⎟\nA\nA\nt\nv\n⎝\n⎠\n⎝\n⎠\nA\nA\n⎛\n⎞\n⎛\n⎞\n300\n) 300\n(\n)\n(\nlub\n−\n−\n=\nlub\n−\n−\n=\n17\nt\n1\n174\nv\n17\n1\n174.\n⎜\n⎟\n⎜\n⎟\nB\nB\nt\nv\n⎝\n⎠\n⎝\n⎠\nB\nB\nUwaga\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą.\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe).........................................................4 pkt\n• rozwiązanie równania z niewiadomą\nv z błędem rachunkowym i konsekwentnie do\nB\npopełnionego błędu obliczenie prędkości obu samochodów\nalbo\n58\n7\n• rozwiązanie równania z niewiadomą\n=\n=\n=\nAt bezbłędnie:\nAt\n3\nh\nlub\nAt\nh\n3\nh\n17\n17\ni nieobliczenie prędkości samochodu jadącego z miasta A\nalbo\n75\n7\n• rozwiązanie równania z niewiadomą\n=\n=\n=\nBt bezbłędnie:\nBt\n4\nh\nlub\nBt\nh\n4\nh\n17\n17\ni nieobliczenie prędkości samochodu jadącego z miasta B\nalbo\n• obliczenie\nAt lub\nBt z błędem rachunkowym i konsekwentne obliczenie prędkości\nv ,\nA\nv\nB\nalbo\n• rozwiązanie równania kwadratowego i przyjęcie tylko jednego rozwiązania lub\nprędkości tylko jednego samochodu.\nKlucz punktowania do zadań zamkniętych oraz schemat oceniania do zadań otwartych\nPróbny egzamin maturalny z matematyki 2010\nRozwiązanie pełne ..............................................................................................................5 pkt\n⎧\n=\n⎧\n=\nv\n58 km/h\nv\n51 km/h\nA\nA\nObliczenie prędkości obu samochodów:\nlub\n⎨\n⎨\n=\n=\nv\n75 km/h\nv\n68 km/h\n⎩\n⎩\nB\nB\nUwaga\nZdający otrzymuje 5 punktów tylko w przypadku, gdy prawidłowo przyporządkuje\nprędkości.\nII sposób rozwiązania\nNiech\nv oznacza średnią prędkość samochodu, który wyjechał z miasta A, zaś\nv oznacza\nA\nB\nśrednią prędkość samochodu, który wyjechał z miasta B oraz niech t oznacza czas od chwili\nwyjazdu samochodu z miasta B do chwili spotkania samochodów.\nObliczamy, jaką drogę do chwili spotkania pokonał samochód jadący z miasta A: 174 km.\n174\n300\n= −,\n=\nZapisujemy\nrównania:\nv\nv\n,\nwówczas\notrzymujemy\nrównanie\nA\nB\nt\n1\nt\n174\n300\n+\n=\n17\n.\n−\nt\n1\nt\n−\n2\nPrzekształcamy to równanie do równania kwadratowego\n17\nt\n143 +300=0\nt\n.\n75\n7\nt =\n=\nt =\nRozwiązaniami tego równania są liczby: 1\n4\n, 2\n4\n.\n17\n17\n75\n7\nt =\n=\n=\n=\nt =\nDla\n4\notrzymujemy\nv\n51,\nv\n68\noraz\ndla\n4\notrzymujemy\n1\nA\nB\n2\n17\n17\n=\n=\nv\n58,\nv\n75\n.\nA\nB\nv =\nv =\nOdpowiedź:  Pierwsze rozwiązanie\n51\nkm/h,\n68\nkm/h.\nA\nB\nv =\nv =\nDrugie rozwiązanie\n58\nkm/h,\n75\nkm/h.\nA\nB\nSchemat oceniania II sposobu rozwiązania\nUwaga\nW poniżej zamieszczonym schemacie używamy niewiadomych\nv\n,\nv\n,\nt oznaczających\nA\nB\nodpowiednio: prędkość dla samochodu jadącego z miasta A, prędkość dla samochodu\njadącego z miasta B oraz czas dla samochodu jadącego z miasta B.\nOczywiście w pracach maturalnych te niewiadome mogą być oznaczane w inny sposób. Nie\nwymagamy, by te niewiadome były wyraźnie opisane na początku rozw"
+  }
+ ]
+}

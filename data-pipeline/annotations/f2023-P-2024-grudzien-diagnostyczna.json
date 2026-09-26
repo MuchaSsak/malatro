@@ -1,0 +1,257 @@
+{
+ "exam": "f2023-P-2024-grudzien-diagnostyczna",
+ "tasks": [
+  {
+   "task": "1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -8, "value_tex": "-8", "answer_tex": "x_1+x_2=-8",
+   "category": "liczby", "topic_pl": "Wartość bezwzględna", "topic_en": "Absolute value equation",
+   "difficulty": 2,
+   "summary_pl": "Rozwiąż $|x+4|=7$, oblicz $x_1+x_2$",
+   "summary_en": "Solve $|x+4|=7$, find $x_1+x_2$",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. Numbers $x_1$ and $x_2$ are the different solutions of the equation $|x+4|=7$. The sum $x_1+x_2$ is equal to A. $-14$ B. $-8$ C. $3$ D. $8$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 625, "value_tex": "5^4", "answer_tex": "5^4",
+   "category": "liczby", "topic_pl": "Potęgi i pierwiastki", "topic_en": "Powers and roots",
+   "difficulty": 2,
+   "summary_pl": "Oblicz $(\\sqrt[5]{5}\\cdot\\frac{1}{5})^{-5}$",
+   "summary_en": "Compute $(\\sqrt[5]{5}\\cdot\\frac{1}{5})^{-5}$",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $(\\sqrt[5]{5}\\cdot\\frac{1}{5})^{-5}$ is equal to A. $5^4$ B. $5^{-4}$ C. $5^{0.25}$ D. $5^{-0.25}$",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "3", "include": false, "exclude_reason": "proof",
+   "category": "liczby", "difficulty": 3, "notes": "Wykaz podzielnosc przez 21 - dowod, brak wartosci liczbowej"
+  },
+  {
+   "task": "4", "include": false, "exclude_reason": "expression",
+   "category": "liczby", "difficulty": 2, "notes": "Poprawna odpowiedz D to wyrazenie symboliczne log7(xy^6), nie liczba"
+  },
+  {
+   "task": "5", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 6.4, "value_tex": "6.4", "answer_tex": "p=6.4\\%",
+   "category": "liczby", "topic_pl": "Procent składany", "topic_en": "Compound interest",
+   "difficulty": 2,
+   "summary_pl": "Lokata 2-letnia, procent składany: oblicz oprocentowanie",
+   "summary_en": "2-year deposit, compound interest: find annual rate",
+   "statement_en": "Ms. Aniela deposited 60000 PLN into a 2-year bank deposit. After each yearly period the bank added interest of p% per annum on the current capital, according to compound interest. At the end of the saving period the amount on the deposit was 67925.76 PLN including interest (without taxes). Complete the sentence. Choose the correct answer from the options given. The annual interest rate of the deposit was equal to A. 6% B. 6.4% C. 6.5% D. 7%",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "6", "include": false, "exclude_reason": "expression",
+   "category": "wyrazenia", "difficulty": 2, "notes": "Poprawna odpowiedz B to wyrazenie wymierne 1/(3x^2-3x), nie liczba"
+  },
+  {
+   "task": "7", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -2, "value_tex": "-2", "answer_tex": "a\\cdot b=-2",
+   "category": "rownania", "topic_pl": "Układ równań liniowych", "topic_en": "System of linear equations",
+   "difficulty": 2,
+   "summary_pl": "Układ równań z $a,b$: para $(-1,6)$ jest rozw. Oblicz $ab$",
+   "summary_en": "System with $a,b$: pair $(-1,6)$ is a solution. Find $ab$",
+   "statement_en": "The pair of numbers x=-1 and y=6 is a solution of the system of equations {ax+3y=20, x+by=5}, where a and b are real numbers. Complete the sentence. Choose the correct answer from the options given. The value of the expression a*b is equal to A. -2 B. -0.5 C. 0.5 D. 2",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "8", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -6, "value_tex": "-6", "answer_tex": "x=-6",
+   "category": "rownania", "topic_pl": "Równanie wymierne", "topic_en": "Rational equation",
+   "difficulty": 3,
+   "summary_pl": "Rozwiąż równanie $\\frac{x+3}{x-1}=\\frac{x}{2x-2}$",
+   "summary_en": "Solve $\\frac{x+3}{x-1}=\\frac{x}{2x-2}$",
+   "statement_en": "Solve the equation (x+3)/(x-1) = x/(2x-2). Write the necessary assumption and the calculations.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "9", "include": false, "exclude_reason": "interval_or_set",
+   "category": "rownania", "difficulty": 2, "notes": "Rozwiazanie nierownosci to przedzial [-1,7]"
+  },
+  {
+   "task": "10", "include": false, "exclude_reason": "interval_or_set",
+   "category": "funkcje", "difficulty": 3, "notes": "Wszystkie 4 odpowiedzi to przedzialy (dziedzina, zbior wartosci itd.)"
+  },
+  {
+   "task": "11", "include": false, "exclude_reason": "true_false",
+   "category": "funkcje", "difficulty": 2, "notes": "Dwa stwierdzenia P/F"
+  },
+  {
+   "task": "12.1", "include": false, "exclude_reason": "interval_or_set",
+   "category": "funkcje", "difficulty": 2, "notes": "Odpowiedz to przedzial malejacy funkcji"
+  },
+  {
+   "task": "12.2", "include": false, "exclude_reason": "multi_choice_letters",
+   "category": "funkcje", "difficulty": 2, "notes": "Wybor dwoch liter z A-F, odpowiedzi to wzory funkcji (wyrazenia), nie liczby"
+  },
+  {
+   "task": "12.3", "include": false, "exclude_reason": "true_false",
+   "category": "funkcje", "difficulty": 2, "notes": "Dwa stwierdzenia P/F"
+  },
+  {
+   "task": "13", "include": false, "exclude_reason": "true_false",
+   "category": "funkcje", "difficulty": 1, "notes": "Dwa stwierdzenia P/F o funkcji logarytmicznej"
+  },
+  {
+   "task": "14", "include": false, "exclude_reason": "true_false",
+   "category": "ciagi", "difficulty": 2, "notes": "Dwa stwierdzenia P/F o ciagu"
+  },
+  {
+   "task": "15", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 4, "value_tex": "4", "answer_tex": "m=4",
+   "category": "ciagi", "topic_pl": "Ciąg arytmetyczny", "topic_en": "Arithmetic sequence",
+   "difficulty": 2,
+   "summary_pl": "Ciąg arytm. $(5m, 4+2m, m)$: oblicz $m$",
+   "summary_en": "Arithmetic sequence $(5m, 4+2m, m)$: find $m$",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The three-term sequence (5m, 4+2m, m) is arithmetic when the number m is equal to A. -4 B. -1 C. 1 D. 4",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "16", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.04938271604938271, "value_tex": "\\frac{4}{81}", "answer_tex": "a_5=\\frac{4}{81}",
+   "category": "ciagi", "topic_pl": "Ciąg geometryczny", "topic_en": "Geometric sequence",
+   "difficulty": 2,
+   "summary_pl": "Ciąg geom.: $a_2=\\frac16$, $a_3=\\frac19$. Oblicz $a_5$",
+   "summary_en": "Geometric sequence: $a_2=\\frac16$, $a_3=\\frac19$. Find $a_5$",
+   "statement_en": "A geometric sequence (a_n) is defined for every natural number n>=1, in which a_2=1/6 and a_3=1/9. Complete the sentence. Choose the correct answer from the options given. The fifth term of the sequence (a_n) is equal to A. 1/15 B. 2/27 C. 4/81 D. 8/243",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "17.1", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.4841229182759271, "value_tex": "\\frac{\\sqrt{15}}{8}", "answer_tex": "\\sin(\\angle ABC)=\\frac{\\sqrt{15}}{8}",
+   "category": "trygonometria", "topic_pl": "Trygonometria w trójkącie", "topic_en": "Right triangle trigonometry",
+   "difficulty": 2,
+   "summary_pl": "Trójkąt prostokątny: oblicz $\\sin(\\angle ABC)$",
+   "summary_en": "Right triangle: find $\\sin(\\angle ABC)$",
+   "statement_en": "A right triangle ABC is given, in which |AC|=sqrt(15) and |BC|=8 (right angle at A). On leg AB there is a point D such that |BD|=6 [Figure: right triangle with the right angle at A, AC=sqrt(15), BC=8 the hypotenuse, D on AB with BD=6]. Complete the sentence. Choose the correct answer from the options given. The sine of the acute angle ABC is equal to A. 1/2 B. 7/8 C. sqrt(15)/4 D. sqrt(15)/8",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "17.2", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 3.872983346207417, "value_tex": "\\sqrt{15}", "answer_tex": "\\tan(\\angle ADC)=\\sqrt{15}",
+   "category": "trygonometria", "topic_pl": "Trygonometria w trójkącie", "topic_en": "Right triangle trigonometry",
+   "difficulty": 2,
+   "summary_pl": "Trójkąt prostokątny: oblicz $\\tan(\\angle ADC)$",
+   "summary_en": "Right triangle: find $\\tan(\\angle ADC)$",
+   "statement_en": "A right triangle ABC is given, in which |AC|=sqrt(15) and |BC|=8 (right angle at A). On leg AB there is a point D such that |BD|=6 [Figure: right triangle with the right angle at A, AC=sqrt(15), BC=8 the hypotenuse, D on AB with BD=6]. Complete the sentence. Choose the correct answer from the options given. The tangent of the acute angle ADC is equal to A. sqrt(15) B. 1/2 C. 7/8 D. sqrt(15)/8",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "18", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -0.9013878188659973, "value_tex": "-\\frac{\\sqrt{13}}{4}", "answer_tex": "\\cos\\alpha=-\\frac{\\sqrt{13}}{4}",
+   "category": "trygonometria", "topic_pl": "Wartości funkcji trygonometrycznych", "topic_en": "Trigonometric values",
+   "difficulty": 2,
+   "summary_pl": "$\\sin\\alpha=\\frac{\\sqrt3}{4}$, $\\alpha$ rozwarty. Oblicz $\\cos\\alpha$",
+   "summary_en": "$\\sin\\alpha=\\frac{\\sqrt3}{4}$, $\\alpha$ obtuse. Find $\\cos\\alpha$",
+   "statement_en": "An angle of measure alpha is obtuse and sin(alpha) = sqrt(3)/4. Complete the sentence. Choose the correct answer from the options given. The cosine of the angle of measure alpha is equal to A. -sqrt(13)/4 B. -1/2 C. 1/2 D. sqrt(13)/4",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "19", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 22.14, "value_tex": "22.14", "answer_tex": "P_{ABCD}=22.14",
+   "category": "planimetria", "topic_pl": "Pole trapezu", "topic_en": "Area of a trapezoid",
+   "difficulty": 3,
+   "summary_pl": "Trapez prost.: $AB=7,5$, przekątna $AC=6$. Oblicz pole",
+   "summary_en": "Right trapezoid: $AB=7.5$, diagonal $AC=6$. Find the area",
+   "statement_en": "In right trapezoid ABCD the longer base AB has length 7.5. The shorter diagonal AC has length 6 and divides the trapezoid into two right triangles [Figure: right trapezoid ABCD with right angles at A and B, diagonal AC=6 splitting it into triangle ABC and triangle ACD]. Calculate the area of trapezoid ABCD. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "20", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 12.566370614359172, "value_tex": "4\\pi", "answer_tex": "|AB|=4\\pi",
+   "category": "planimetria", "topic_pl": "Kąt wpisany i długość łuku", "topic_en": "Inscribed angle and arc length",
+   "difficulty": 2,
+   "summary_pl": "Okrąg $r=6$, kąt wpisany $60°$. Oblicz łuk $AB$",
+   "summary_en": "Circle $r=6$, inscribed angle $60°$. Find arc $AB$",
+   "statement_en": "A circle with center S and radius 6 is given. The measure of the inscribed angle ACB is equal to 60 degrees [Figure: circle with center S, points A, B, C on the circle, inscribed angle ACB=60 degrees at vertex C]. Complete the sentence. Choose the correct answer from the options given. The length of arc AB, on which the inscribed angle ACB is based, is equal to A. 2*pi B. 4*pi C. 6*pi D. 12*pi",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "21", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 5, "value_tex": "5", "answer_tex": "|AB|=5",
+   "category": "analityczna", "topic_pl": "Kwadrat w układzie współrzędnych", "topic_en": "Square in coordinate plane",
+   "difficulty": 2,
+   "summary_pl": "Kwadrat: przekątna $A(-2,-1)$, $C(3,4)$. Oblicz bok",
+   "summary_en": "Square: diagonal $A(-2,-1)$, $C(3,4)$. Find the side",
+   "statement_en": "In the Cartesian coordinate system (x, y) points A=(-2,-1) and C=(3,4) are opposite vertices of square ABCD. Complete the sentence. Choose the correct answer from the options given. The side length of square ABCD is equal to A. 5 B. 10 C. 5*sqrt(2) D. sqrt(10)",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "22", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": -1, "value_tex": "-1", "answer_tex": "p=-1",
+   "category": "analityczna", "topic_pl": "Prosta równoległa", "topic_en": "Parallel line",
+   "difficulty": 2,
+   "summary_pl": "Prosta $l\\parallel k:y=-7x+3$, przez $(0,6)$. Oblicz $p$",
+   "summary_en": "Line $l\\parallel k:y=-7x+3$ through $(0,6)$. Find $p$",
+   "statement_en": "In the Cartesian coordinate system (x, y) a line k is given with equation y=-7x+3. Line l is parallel to line k and intersects the Oy axis at point (0,6). The point with coordinates (1, p) belongs to line l. Complete the sentence. Choose the correct answer from the options given. The number p is equal to A. -4 B. -1 C. 5/7 D. 7",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "23", "include": false, "exclude_reason": "no_numeric",
+   "category": "analityczna", "difficulty": 2, "notes": "Wybor okregu (etykieta o1-o4), nie wartosc liczbowa"
+  },
+  {
+   "task": "24", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 6, "value_tex": "6", "answer_tex": "h=6",
+   "category": "stereometria", "topic_pl": "Ostrosłup prawidłowy czworokątny", "topic_en": "Regular quadrilateral pyramid",
+   "difficulty": 2,
+   "summary_pl": "Ostrosłup: podstawa $4$, $\\tan\\alpha=3$. Oblicz wysokość",
+   "summary_en": "Pyramid: base $4$, $\\tan\\alpha=3$. Find the height",
+   "statement_en": "The base of a regular quadrilateral pyramid is a square with side length 4. A lateral face of this pyramid is inclined to the plane of the base at an angle alpha such that tan(alpha)=3. Complete the sentence. Choose the correct answer from the options given. The height of this pyramid is equal to A. 3 B. 6 C. 6*sqrt(2) D. 12",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "25", "include": false, "exclude_reason": "expression",
+   "category": "stereometria", "difficulty": 2, "notes": "Odpowiedz to wyrazenie symboliczne w p (objetosc jako wielomian), nie liczba"
+  },
+  {
+   "task": "26", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 120, "value_tex": "120", "answer_tex": "120^\\circ",
+   "category": "stereometria", "topic_pl": "Kąt rozwarcia stożka", "topic_en": "Cone apex angle",
+   "difficulty": 2,
+   "summary_pl": "Stożek: $V=8\\pi$, $h=2$. Oblicz kąt rozwarcia",
+   "summary_en": "Cone: $V=8\\pi$, $h=2$. Find the apex angle",
+   "statement_en": "The volume of a cone with height 2 is equal to 8*pi. Calculate the measure of the apex angle of this cone. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "27", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 384, "value_tex": "384", "answer_tex": "384",
+   "category": "kombinatoryka", "topic_pl": "Zliczanie liczb", "topic_en": "Counting numbers",
+   "difficulty": 2,
+   "summary_pl": "Ile 5-cyfrowych liczb nieparzystych z cyfr $0,1,2,3$?",
+   "summary_en": "How many 5-digit odd numbers using digits $0,1,2,3$?",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of all 5-digit odd natural numbers, in whose decimal notation only the digits 0, 1, 2, 3 occur (e.g. 12303, 11111), is A. 32 B. 384 C. 512 D. 576",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "28", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 0.4583333333333333, "value_tex": "\\frac{11}{24}", "answer_tex": "P(A)=\\frac{11}{24}",
+   "category": "prawdopodobienstwo", "topic_pl": "Prawdopodobieństwo klasyczne", "topic_en": "Classical probability",
+   "difficulty": 2,
+   "summary_pl": "Losowanie z $\\{1..6\\}$, $\\{7..10\\}$: $P$(iloczyn podz. przez 4)",
+   "summary_en": "Draw from $\\{1..6\\}$, $\\{7..10\\}$: $P$(product div. by 4)",
+   "statement_en": "Two sets are given: C={1,2,3,4,5,6} and D={7,8,9,10}. We draw one number from set C, then one number from set D. Calculate the probability of event A, that the numbers drawn have a product divisible by 4. Show your working.",
+   "confidence": "high", "notes": ""
+  },
+  {
+   "task": "29", "include": true, "exclude_reason": null,
+   "answer_kind": "sum", "value": 12.88, "value_tex": "12.88", "answer_tex": "\\bar{x}=6.38,\\ M_e=6.5",
+   "category": "statystyka", "topic_pl": "Średnia i mediana", "topic_en": "Mean and median",
+   "difficulty": 2,
+   "summary_pl": "Tabela liczby książek: średnia i mediana (suma)",
+   "summary_en": "Table of books read: mean and median (sum)",
+   "statement_en": "The school reading club has 50 students. The club supervisor collected data on the number of books read by these students in November 2024, shown in the table below: number of books read: 4, 5, 6, 7, 8; number of students who read that many books: 5, 8, 12, 13, 12. Complete the sentences. Fill in the appropriate numbers in the blanks so that the sentences are true. 1. The arithmetic mean of the number of books read in this group of students is equal to ... . 2. The median of the number of books read in this group of students is equal to ... .",
+   "confidence": "high", "notes": "Suma (srednia + mediana)"
+  },
+  {
+   "task": "30", "include": true, "exclude_reason": null,
+   "answer_kind": "single", "value": 1.8461538461538463, "value_tex": "\\frac{24}{13}", "answer_tex": "x=\\frac{24}{13}",
+   "category": "funkcje", "topic_pl": "Optymalizacja - prostopadłościan", "topic_en": "Optimization - cuboid",
+   "difficulty": 3,
+   "summary_pl": "Prostopadłościan $AE=3AB$, suma krawędzi $48$. $x$ dla max $P$?",
+   "summary_en": "Cuboid $AE=3AB$, edge sum $48$. Find $x$ for max area",
+   "statement_en": "Consider all cuboids ABCDEFGH in which edge AE is 3 times longer than edge AB, and the sum of lengths of all twelve edges of the cuboid is equal to 48 [Figure: cuboid ABCDEFGH with base ABCD, top EFGH, edge AB=x]. Let P(x) denote the function of the total surface area of such a cuboid depending on the length x of edge AB. Determine the formula and domain of function P. Calculate the length x of edge AB of the one among the considered cuboids whose total surface area is largest. Show your working.",
+   "confidence": "high", "notes": "Wzor i dziedzina funkcji P sa symboliczne (nie sumowane); sumowana jest tylko liczbowa czesc x=24/13"
+  }
+ ]
+}

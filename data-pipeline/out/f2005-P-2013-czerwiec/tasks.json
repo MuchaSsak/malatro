@@ -1,0 +1,492 @@
+{
+ "exam": {
+  "id": "f2005-P-2013-czerwiec",
+  "formula": "2005",
+  "level": "P",
+  "year": 2013,
+  "session": "czerwiec",
+  "month": "06",
+  "code": "MMA-P1_1P-133",
+  "examUrl": "https://arkusze.pl/maturalne/matematyka-2013-czerwiec-matura-podstawowa.pdf",
+  "keyUrl": "https://arkusze.pl/maturalne/matematyka-2013-czerwiec-matura-podstawowa-odpowiedzi.pdf",
+  "examFile": "f2005-P-2013-czerwiec.pdf",
+  "keyFile": "f2005-P-2013-czerwiec-key.pdf",
+  "source": "mirror",
+  "ok": true,
+  "examOk": true,
+  "keyOk": true,
+  "notes": "termin dodatkowy; not published on cke.gov.pl; CKE original PDF with arkusze.pl watermark line",
+  "duplicateOf": null,
+  "keyUrl2": null,
+  "listingPage": null,
+  "examPages": 26,
+  "keyPages": 14,
+  "examBytes": 421201,
+  "keyBytes": 423690
+ },
+ "keyHead": "Klucz odpowiedzi do zadań zamkniętych\noraz\nschematy oceniania zadań otwartych\nMatematyka\nPoziom podstawowy\nCZERWIEC 2013\nSchemat oceniania\nPoziom podstawowy\nKlucz punktowania zadań zamkniętych\nNr\n1\n2\n3\n4\n5\n6\n7\n8\n9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26\nzad\nOdp. B C C B C C A A B B C A B A A A B D B C C C D C A C\nSchematy oceniania zadań otwartych\nZadania 27. (2 pkt)\n\n\n\n\nRozwiąż równanie\n3\nx\n3\n4\nx\n2\n3\nx\n4\n0\n.\nI sposób rozwiązania (metoda grupowania)\nPrzedstawiamy lewą stronę równania w postaci iloczynu stosując metodę grupowania\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2\n2\n2\nwyrazów, np.:\nx\n3\nx\n4\n3\nx\n4\n0\nlub\n3\nx\nx\n1\n4\nx\n1\n0\n, stąd\n\n\n\n\n2\n\n\n3\nx\n4\nx\n1\n0\n.\n4\n\n\n\n\nx\nZatem\nlub\nx\n1\nlub\nx\n1\n.\n3\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje .......................................................................................................... 1 pkt\ngdy zapisze lewą stronę równania w postaci iloczynu co najmniej dwóch wielomianów\nstopni dodatnich, np.: \n\n\n2\n\n\n\ni na tym poprzestanie lub dalej popełni błąd.\nx\n1 3\nx\n4\n0\nZdający otrzymuje .......................................................................................................... 2 pkt\n4\n\nx\n\n\n\ngdy wyznaczy bezbłędnie wszystkie rozwiązania równania:\nlub\nx\n1\nlub\nx\n1\n.\n3\nII sposób rozwiązania (metoda dzielenia)\n\n3\n\n2\n\n\nStwierdzamy, że liczba 1 jest pierwiastkiem wielomianu\n3\nx\n4\nx\n3\nx\n4\n.\n3\n\n2\n\n\nx . Otrzymujemy iloraz\nDzielimy wielomian\n3\nx\n4\nx\n3\nx\n4\nprzez dwumian\n1\n2\n\n\n2\n\n\n\n3\nx\nx\n4\n. Zapisujemy równanie w postaci\n(\nx\n1\n)(\n3\nx\nx\n4\n)\n0\n. Obliczamy\n2\n\n\n\n\n\n\n\n3\nx\nx\n4\nwyróżnik trójmianu\n:\n1\n4\n3\n4\n49\n. Stąd pierwiastkami trójmianu\n\n\n1\n7\n1\n7\n4\n4\n\n\n\n\n\n\nx\n1\nx\nx\n\n\n\nsą liczby\noraz\n. Zatem\nlub\nx\n1\nlub\nx\n1\n.\n1\n2\n6\n6\n3\n3\nalbo\n jest pierwiastkiem wielomianu\n\n3\n\n2\n\n\nstwierdzamy, że liczba 1\n3\nx\n4\nx\n3\nx\n4\n. Dzielimy\n2\n\n\n\nx . Otrzymujemy iloraz\n\n\nwielomian\n3\n2\nprzez dwumian\n3\nx\n7\nx\n4\n.\n3\nx\n4\nx\n3\nx\n4\n1\n\n\n\n\n2\nZapisujemy równanie w postaci\n(\nx\n1\n)(\n3\nx\n7\nx\n4\n)\n0\n. Obliczamy wyróżnik\n2\n\n\n\n\n\n\n\n\ntrójmianu\n3\nx\n7\nx\n4\n:\n49\n4\n3\n4\n1\n. Stąd pierwiastkami trójmianu są liczby\n\n\n7\n1\n7\n1\n4\n4\n\n\n\n\n\n\n\n\nx\n1\nx\nx\nx\n1\nx\n1\noraz\n. Zatem\nlub\nlub\n.\n1\n2\n6\n6\n3\n3\nalbo\n4 jest pierwiastkiem wielomianu\n\n3\n\n2\n\n\nstwierdzamy, że liczba 3\n3\nx\n4\nx\n3\nx\n4\n. Dzielimy\n4\n2\nx \nx .\n3\n\n2\n\n\nwielomian\n3\nx\n4\nx\n3",
+ "tasks": [
+  {
+   "task": "1",
+   "num": 1,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/1.webp",
+   "size": [
+    947,
+    148
+   ],
+   "stem": "",
+   "text": "Zadanie 1. (1 pkt)\nLiczba \n\n3 16 4\n3\n\n2\njest równa\n4\n4\n4\n4\n4\n8\n12\nA.\n4\nB.\nC.\nD.",
+   "key": ""
+  },
+  {
+   "task": "2",
+   "num": 2,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/2.webp",
+   "size": [
+    947,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 2. (1 pkt)\nDodatnia liczba x stanowi 70% liczby y. Wówczas\n13\n7\n10\n10\n\n\n\n\nA.\ny\nx\nB.\ny\nx\nC.\ny\nx\nD.\ny\nx\n10\n10\n7\n13",
+   "key": ""
+  },
+  {
+   "task": "3",
+   "num": 3,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/3.webp",
+   "size": [
+    947,
+    152
+   ],
+   "stem": "",
+   "text": "Zadanie 3. (1 pkt)\n\nPrzedział\n1,3\njest opisany nierównością\nx \n\n\n1 \n\n1 \nx \n\nA.\n1\n2\nB.\nx\n2\nC.\nx\n2\nD.\n1\n2",
+   "key": ""
+  },
+  {
+   "task": "4",
+   "num": 4,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/4.webp",
+   "size": [
+    947,
+    146
+   ],
+   "stem": "",
+   "text": "Zadanie 4. (1 pkt)\n\nWartość wyrażenia\nlog\n20\nlog\n5\njest równa\n2\n2\nD.\nlog 25\nA.\nlog 2\n15\nB.  2\nC.  4\n2",
+   "key": ""
+  },
+  {
+   "task": "5",
+   "num": 5,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/5.webp",
+   "size": [
+    947,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 5. (1 pkt)\nLiczba \n\n\n\n\n\n\n. Wtedy\n3\njest miejscem zerowym funkcji\nf x\n( )\n2\nm\n1\nx\n9\nm \nm \nm \nm \nA.\n2\nB.\n0\nC.\n2\nD.\n3",
+   "key": ""
+  },
+  {
+   "task": "6",
+   "num": 6,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/6.webp",
+   "size": [
+    947,
+    125
+   ],
+   "stem": "",
+   "text": "Zadanie 6. (1 pkt)\nDla każdego kąta ostrego  wyrażenie\n\n\n\n\n\n\n\n2\n2\n2\n4\njest równe\nsin\nsin\ncos\ncos\nD. 2\n2sin \n2cos \nA.\n2\nB.\n2\nC. 1",
+   "key": ""
+  },
+  {
+   "task": "7",
+   "num": 7,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/7.webp",
+   "size": [
+    947,
+    200
+   ],
+   "stem": "",
+   "text": "Zadanie 7. (1 pkt)\n1\nKąt  jest ostry i\n\n\n\n\n\nsin\n. Wartość wyrażenia 1\ntg\ncos\njest równa\n3\nA. 4\nB. 11\nC. 17\nD. 11\n3\n9\n9\n3",
+   "key": ""
+  },
+  {
+   "task": "8",
+   "num": 8,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/8.webp",
+   "size": [
+    947,
+    131
+   ],
+   "stem": "",
+   "text": "Zadanie 8. (1 pkt)\nZbiorem wartości funkcji f jest przedział\n\n\n\nA.\n3,5\nB.\n6,7\nC.\n0,6\nD.\n5,8",
+   "key": ""
+  },
+  {
+   "task": "9",
+   "num": 9,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/9.webp",
+   "size": [
+    947,
+    132
+   ],
+   "stem": "",
+   "text": "Zadanie 9. (1 pkt)\nPrzedziałem, w którym funkcja f przyjmuje tylko wartości ujemne, jest\nB. 5,7\nC. 0,7\n\n\n\nA.\n5,0\nD.\n6,5",
+   "key": ""
+  },
+  {
+   "task": "10",
+   "num": 10,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/10.webp",
+   "size": [
+    947,
+    254
+   ],
+   "stem": "",
+   "text": "Zadanie 10. (1 pkt)\nFunkcja g jest określona wzorem\n\n\n\n\nA.\ng x\n( )\nf x\n1\n\n\n\nB.\ng x\n( )\nf x\n1\n\n\n\n\nC.\ng x\n( )\nf x\n1\n\n\n\nD.\ng x\n( )\nf x\n1",
+   "key": ""
+  },
+  {
+   "task": "11",
+   "num": 11,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/11.webp",
+   "size": [
+    947,
+    449
+   ],
+   "stem": "",
+   "text": "Zadanie 11. (1 pkt)\nPunkt O jest środkiem okręgu. Kąt ,  zaznaczony na rysunku, ma miarę\n40\n\nA.\n50\n.\n\nB.\n45\nO\n\n\nC.\n25\n\nD.\n20",
+   "key": ""
+  },
+  {
+   "task": "13",
+   "num": 13,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/13.webp",
+   "size": [
+    950,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 13. (1 pkt)\nProstokąt ABCD o przekątnej długości\n2\n13\njest podobny do prostokąta o bokach długości\n2 i 3. Obwód prostokąta ABCD jest równy\nA.  10\nB.  20\nC.  5\nD.  24",
+   "key": ""
+  },
+  {
+   "task": "14",
+   "num": 14,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/14.webp",
+   "size": [
+    950,
+    226
+   ],
+   "stem": "",
+   "text": "Zadanie 14. (1 pkt)\n3\nKosinus kąta ostrego rombu jest równy\n2 , bok rombu ma długość 3. Pole tego rombu jest\nrówne\nA.  9\nB.  9 3\nC.  9 3\n2\nD.  6\n4\n2",
+   "key": ""
+  },
+  {
+   "task": "15",
+   "num": 15,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/15.webp",
+   "size": [
+    950,
+    153
+   ],
+   "stem": "",
+   "text": "Zadanie 15. (1 pkt)\nPole powierzchni całkowitej sześcianu jest równe 12. Suma długości wszystkich krawędzi\ntego sześcianu jest równa\nA. 12 2\nB. 8 2\nC. 6 2\nD. 3 2",
+   "key": ""
+  },
+  {
+   "task": "16",
+   "num": 16,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/16.webp",
+   "size": [
+    950,
+    157
+   ],
+   "stem": "",
+   "text": "Zadanie 16. (1 pkt)\n12\nCiąg \n\n\n\n\nna\nokreślony jest wzorem\nna\n2\ndla\nn\n1\n. Równość\nna\n4\nzachodzi dla\nn\n\n\n\n\nA.\nn\n2\nB.\nn\n3\nC.\nn\n4\nD.\nn\n5",
+   "key": ""
+  },
+  {
+   "task": "17",
+   "num": 17,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/17.webp",
+   "size": [
+    950,
+    208
+   ],
+   "stem": "",
+   "text": "Zadanie 17. (1 pkt)\n\n\n\n\n\n2\nFunkcja\nf x\n3 (\nx x\n5)(2\nx x\n)(\n1)\nma dokładnie\nA.  dwa miejsca zerowe.\nB.  trzy miejsca zerowe.\nC.  cztery miejsca zerowe.\nD.  pięć miejsc zerowych.",
+   "key": ""
+  },
+  {
+   "task": "18",
+   "num": 18,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/18.webp",
+   "size": [
+    950,
+    541
+   ],
+   "stem": "",
+   "text": "Zadanie 18. (1 pkt)\nWskaż równanie prostej, której fragment przedstawiony jest na poniższym wykresie\ny\n3\n2\n1\nx\n0\n-2\n-1\n1\n2\n3\n4\n5\n6\n7\n-1\n\n\n\n\n\n\n\n\n\n\n\n\nA.\nx\n2\ny\n4\n0\nB.\nx\n2\ny\n4\n0\nC.\nx\n2\ny\n4\n0\nD.\nx\n2\ny\n4\n0",
+   "key": ""
+  },
+  {
+   "task": "19",
+   "num": 19,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/19.webp",
+   "size": [
+    950,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 19. (1 pkt)\nPrzyprostokątne w trójkącie prostokątnym mają długości 1 oraz 3 . Najmniejszy kąt w tym\ntrójkącie ma miarę\nC. 45\nA.  60\nB.  30\nD.  15",
+   "key": ""
+  },
+  {
+   "task": "20",
+   "num": 20,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/20.webp",
+   "size": [
+    950,
+    169
+   ],
+   "stem": "",
+   "text": "Zadanie 20. (1 pkt)\nDany jest ciąg arytmetyczny \n\n\n\n\na\n, w którym różnica\nr\n2\noraz\na\n17\n. Wówczas\nn\n20\npierwszy wyraz tego ciągu jest równy\nA.  45\nB.  50\nC.  55\nD.  60",
+   "key": ""
+  },
+  {
+   "task": "21",
+   "num": 21,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/21.webp",
+   "size": [
+    950,
+    214
+   ],
+   "stem": "",
+   "text": "Zadanie 21. (1 pkt)\npierwszy wyraz jest równy 9\n8 , a czwarty wyraz jest równy 1\nW ciągu geometrycznym \n\na\n3 .\nn\nWówczas iloraz q tego ciągu jest równy\n1\n1\n2\n3\nq \nq \nq \nq \nA.\nB.\nC.\nD.\n3\n2\n3\n2",
+   "key": ""
+  },
+  {
+   "task": "22",
+   "num": 22,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/22.webp",
+   "size": [
+    950,
+    557
+   ],
+   "stem": "",
+   "text": "Zadanie 22. (1 pkt)\nWyniki sprawdzianu z matematyki są przedstawione na poniższym diagramie.\n9\n8\n7\n6\nLiczba uczniów\n5\n4\n3\n2\n1\n0\n1\n2\n3\n4\n5\n6\nOcena\nŚrednia ocen uzyskanych przez uczniów z tego sprawdzianu jest równa\nA.  2\nB.  3\nC.  3,5\nD.  4",
+   "key": ""
+  },
+  {
+   "task": "23",
+   "num": 23,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/23.webp",
+   "size": [
+    950,
+    181
+   ],
+   "stem": "",
+   "text": "Zadanie 23. (1 pkt)\nObjętość stożka o wysokości h i promieniu podstawy trzy razy mniejszym od wysokości jest\nrówna\n1\n1\n1\n1\n\n\n\n\nA.\nh\n2\nB.\nh\n2\nC.\nh\n3\nD.\nh\n3\n9\n27\n9\n27",
+   "key": ""
+  },
+  {
+   "task": "24",
+   "num": 24,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/24.webp",
+   "size": [
+    950,
+    180
+   ],
+   "stem": "",
+   "text": "Zadanie 24. (1 pkt)\nRzucamy trzykrotnie symetryczną monetą. Prawdopodobieństwo, że w trzecim rzucie\nwypadnie orzeł jest równe\nA. 1\n3\nC. 1\nD. 3\n4\nB.\n8\n2\n4",
+   "key": ""
+  },
+  {
+   "task": "25",
+   "num": 25,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/25.webp",
+   "size": [
+    950,
+    211
+   ],
+   "stem": "",
+   "text": "Zadanie 25. (1 pkt)\n2\n\nDana jest prosta l o równaniu\ny\nx\n. Prosta k równoległa do prostej l i przecinająca oś Oy\n5\nw punkcie o współrzędnych \n\n0, 3 ma równanie\n\n\n\n\n\n\n\n\nA.\ny\n0,4\nx\n3\nB.\ny\n0,4\nx\n3\nC.\ny\n2,5\nx\n3\nD.\ny\n2,5\nx\n3",
+   "key": ""
+  },
+  {
+   "task": "26",
+   "num": 26,
+   "sub": null,
+   "points": 1,
+   "image": "f2005-P-2013-czerwiec/26.webp",
+   "size": [
+    950,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 26. (1 pkt)\n\n\nLiczba log 4\njest równa\nlog5\nlog 2\nA. 10\nB. 2\nC. 1\nD. 0",
+   "key": ""
+  },
+  {
+   "task": "27",
+   "num": 27,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-czerwiec/27.webp",
+   "size": [
+    947,
+    80
+   ],
+   "stem": "",
+   "text": "Zadanie 27. (2 pkt)\n3\n\n2\n\n\n\nRozwiąż równanie\n3\nx\n4\nx\n3\nx\n4\n0\n.",
+   "key": ""
+  },
+  {
+   "task": "28",
+   "num": 28,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-czerwiec/28.webp",
+   "size": [
+    947,
+    112
+   ],
+   "stem": "",
+   "text": "Zadanie 28. (2 pkt)\n7\n.\nKąt  jest ostry i\n\n\n3\n\n\n\n\n2\n\ncos\n. Oblicz wartość wyrażenia\n2\nsin\nsin\ncos\n4",
+   "key": "Zadanie 28. (2 pkt)\n7\nKąt  jest ostry i\n\n\n\n\n\n\n\ncos\n. Oblicz wartość wyrażenia\n3\n2\n.\n2\nsin\nsin\ncos\n4\nI sposób rozwiązania\n\n\nPonieważ\n\n3\n\n\n\n\n2\n\n\n\n\n2\n\n\n2\n\n\n\n\n, więc obliczymy\n2\nsin\nsin\ncos\n2\nsin\nsin\ncos\n2\nsin\nsinus tego kąta. Otrzymujemy zatem kolejno\n2\n\n\n7\n7\n9\n2\n\n\n\n\n,\nsin\n1\n\n\n1\n\n\n4\n16\n16\n\n\n3\n\n( jest kątem ostrym). Zatem wartość tego wyrażenia równa się\nsin\nskąd wynika, że\n4\n3\n2\n4 .\nSchemat oceniania\nPoziom podstawowy\nSchemat oceniania  I sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy\n zauważy, że\n\n\n\n\n\n\n\nsin\n3\nsin\ncos\n2\nsin\ni na tym zakończy lub dalej popełni błędy,\nalbo\n3\n\n obliczy wartość sinusa danego kąta\nsin\ni popełni błąd w obliczeniach.\n4\nZdający otrzymuje  ............................................................................................................ 2 pkt\n3\n\n3\n\n\n\n\n2\n\n2\ngdy zapisze, że wartość wyrażenia\n2\nsin\nsin\ncos\njest równa\n4 .\nII sposób rozwiązania\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPonieważ\n3\n2\n2\n2\n, więc obliczymy\n2\nsin\nsin\ncos\n2\nsin\nsin\ncos\n2\nsin\nwartość sin. Rysujemy trójkąt prostokątny o przeciwprostokątnej równej 4 , zaś\n7\n\n7 i a oraz zaznaczamy kąt ostry α taki, że\nprzyprostokątnych równych\ncos\n.\n4\nZ twierdzenia Pitagorasa otrzymujemy\n\n\n2\na .\na \n\n2\n7\n4\n2\n, skąd\n3\n3\n3\n\nsin\n2\nZatem\n, a więc wartość wyrażenia jest równa\n4 .\n4\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy\n gdy narysuje trójkąt prostokątny o przeciwprostokątnej równej 4 , przyprostokątnych\n7\n\n7 oraz a , zaznaczy kąt ostry α taki, że\nrównych\ncos\n, obliczy długość\n4\na  i na tym zakończy lub dalej popełni błędy\n3\ndrugiej przyprostokątnej\nalbo\n zauważy, że\n3\n\n\n\n\n2\n\n\n\nsin\nsin\ncos\nsin\ni na tym zakończy lub dalej popełni błędy.\nZdający otrzymuje  ............................................................................................................ 2 pkt\n3\n\n\n\n\n\n\n3\n2\n2\ngdy zapisze, że wartość wyrażenia\n2\nsin\nsin\ncos\njest równa\n4 ."
+  },
+  {
+   "task": "29",
+   "num": 29,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-czerwiec/29.webp",
+   "size": [
+    950,
+    109
+   ],
+   "stem": "",
+   "text": "Zadanie 29. (2 pkt)\nOblicz, ile jest liczb naturalnych czterocyfrowych, w których cyfra jedności jest o 3 większa\nod cyfry setek.",
+   "key": "Zadanie 29. (2 pkt)\nOblicz, ile jest liczb naturalnych czterocyfrowych, w których cyfra jedności jest o 3 większa\nod cyfry setek.\nRozwiązanie\nW zapisie każdej z szukanych liczb na pierwszym miejscu (miejscu cyfry tysięcy) może\nwystąpić jedna z cyfr: 1, 2, 3, 4, 5, 6, 7, 8, 9, czyli mamy 9 możliwości. Na trzecim miejscu\n(miejscu cyfry dziesiątek) może być jedna z liczb: 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, czyli mamy 10\nmożliwości. Ponieważ cyfra jedności jest o 3 większa od cyfry setek, więc na miejscu\nSchemat oceniania\nPoziom podstawowy\ndrugim (miejscu cyfry setek) może wystąpić jedna z liczb: 0, 1, 2, 3, 4, 5, 6 i wtedy na\nmiejscu czwartym (miejscu cyfry jedności) wystąpi odpowiednio cyfra:  3, 4, 5, 6, 7, 8, 9,\nzatem mamy 7 możliwości, w których cyfra jedności jest o 3 większa od cyfry setek.\n\n\nZatem mamy 9 10 7\n630\nliczb naturalnych czterocyfrowych, w których cyfra jedności\njest o 3 większa od cyfry setek.\nSchemat oceniania\nZdający otrzymuje  ............................................................................................................ 1 pkt\ngdy:\n wypisze wszystkie możliwości obsadzenia cyfry setek i cyfry jedności liczby\nczterocyfrowej, w której cyfra jedności jest o 3 większa od cyfry setek:\n_0_3,   _1_4,   _2_5,   _3_6,   _4_7,   _5_8,   _6_9 lub zapisze, że jest 7 takich\nmożliwości\nalbo\n zapisze, że cyfrę tysięcy możemy wybrać na 9 sposobów, a cyfrę dziesiątek na 10 lub\nwypisze te możliwości (np. 1_0_,  1_1_, ... , 1_9_,  2_0_,  2_1_, ... ,  2_9, ... ,  9_0_,\n9_1_,  9_9_ ) lub obliczy, że jest 90 takich możliwości.\nZdający otrzymuje  ............................................................................................................ 2 pkt\ngdy poprawnie obliczy, ile jest liczb naturalnych czterocyfrowych, w których cyfra jedności\n\n\njest o 3 większa od cyfry setek: 9 10 7\n630\n."
+  },
+  {
+   "task": "30",
+   "num": 30,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-czerwiec/30.webp",
+   "size": [
+    947,
+    124
+   ],
+   "stem": "",
+   "text": "Zadanie 30. (2 pkt)\nWykaż, że liczba \n\n\n\n2\n\n4\n1\n2013\n1\n2013\njest dzielnikiem liczby\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n1\n2013\n2013\n2013\n2013\n2013\n2013\n2013\n.",
+   "key": "Zadanie 30. (2 pkt)\nWykaż, że liczba \n\n\n\n2\n\n4\njest dzielnikiem liczby\n1 2013\n1 2013\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n.\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\nI sposób rozwiązania\nZauważamy, że liczbę\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\nmożna\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\nzapisać w postaci, np.:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2\n4\n6\n1 2013\n1 2013 2013\n1 2013 2013\n1 2013 2013\n\n\n\n\n\n2\n\n4\n\n6\n1 2013 1 2013\n2013\n2013 .\nzapisujemy w postaci \n\n\n\n\nLiczbę\n\n2\n\n4\n\n6\n2\n4\n.\n1 2013\n2013\n2013\n1 2013\n1 2013\nZatem liczba \n\n\n\n2\n\n4\n1 2013\n1 2013\njest dzielnikiem liczby\n\n\n\n\n\n\n\n2\n3\n4\n5\n6\n7\n.\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\nSchemat oceniania I sposobu rozwiązania\nZdający otrzymuje ............................................................................................................. 1 pkt\ngdy:\nzapisze liczbę\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\nw postaci\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\n\n\ni nie zauważy, że liczbę \n\n\n\n\n\n2\n\n4\n\n6\n\n2\n\n4\n1 2013 1 2013\n2013\n2013\n1 2013\n1 2013\n\n\n\nmożna zapisać w postaci\n2\n4\n6\n,\n1 2013\n2013\n2013\nZdający otrzymuje ............................................................................................................. 2 pkt\ngdy przeprowadzi pełne rozumowanie.\nSchemat oceniania\nPoziom podstawowy\nUwaga\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\nZdający może rozłożyć na czynniki wielomian\n1 x\nx\nx\nx\nx\nx\nx\n, gdzie\nx \n. Wtedy zdający otrzymuje 1 punkt za zapisanie tego wielomianu w postaci\n2013\niloczynu\n\n\n\n\n4\n\n\n2\n\n3\n1\nx\n1\nx\nx\nx\n,\n\n\n\n\n\n\n\n\n\n2\n3\n2\na za zapisanie, że\n1\nx\nx\nx\n1\nx\n1\nx\ni uzasadnienie podzielności otrzymuje\n2 punkty.\nII sposób rozwiązania\nZauważamy, że suma\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\njest sumą\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\na ,\nośmiu początkowych wyrazów ciągu geometrycznego, w którym\n1\nq \n2013\n1\na \n7\ni\n2013\n.\n8\nStąd\n\n\n\n\n\n\n\n\n4\n\n4\n\n2\n\n2\n\n4\n1 2013\n1\n2013\n1 2013\n1\n2013\n1\n2013\n\n8\n1 2013\n\n\n\n\nS\n1 1 2013\n8\n\n\n\n1 2013\n1 2013\n\n\n\n\n\n\n\n\n\n2\n\n4\n1 2013\n1\n2013 1\n2013\n1\n2013\n\n\n\n\n\n\n\n\n2\n4\n2014 1\n2013\n1\n2013\n\n1 2013\nZatem liczba \n\n\n\n\n2\n4\njest dzielnikiem liczby\n1 2013\n1 2013\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n.\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\nSchemat oceniania II sposobu rozwiązania\nZdający otrzymuje ............................................................................................................. 1 pkt\ngdy:\n zauważy, że liczba\n\n\n\n\n\n\n\n2\n3\n4\n5\n6\n7\njest sumą\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\na ,\na \n7\nośmiu wyrazów ciągu geometrycznego, w którym\n1\nq \ni\n2013\n2013\n1\n8\nalbo\n\n8\n1 2013\n zapisze, że\n\n.\nS\n1 1 2013\n8\n\nZdający otrzymuje ............................................................................................................. 2 pkt\ngdy przeprowadzi pełne rozumowanie i zapisze\n\n\n\n\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n\n\n2\n\n4\n.\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\n1 2013 1 2013\n1\n2013\nIII sposób rozwiązania\n\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n1 2013\n2013\n2013\n2013\n2013\n2013\n2013\nZauważamy, że liczbę\nmożna zapisać\nw postaci, np.: \n\n\n\n\n\n\n\n\n4\n\n\n4\n\n2\n\n4\n\n3\n\n4\n\n1 2013\n2013 1 2013\n2013 1 2013\n2013 1 2013\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4\n2\n3\n4\n2\n2\n1 2013\n1 2013\n2013\n2013\n1 2013\n1 2013\n2013 1 2013\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n4\n2\n2\n4\n2\n1 2013\n1 2013\n2013 1 2013\n1 2013\n1 2013\n1 2013\n.\n\n\nZatem liczba \n\n\n\n\n\n\n\n\n2\n4\n2\n7\n1 2013\n1 2013\njest dzielnikiem liczby\n1 2013\n2013\n...\n2013\n.\nSchemat oceniania\nPoziom podstawowy\nSchemat oceniania III sposobu rozwiązania\nZdający otrzymuje ............................................................................................................. 1 pkt\nw postaci \n\n\n\n\n2\n\n\n7\n\n4\n\n\n2\n\n3\n1 2013 2013\n... 2013\n1 2013\n1 2013\n2013\n2013\ngdy zapisze liczbę\ni nie zauważy, że liczbę \n\nmożna zapisać w postaci \n\n\n\n\n2\n\n3\n\n2\n\n1 2013 2013\n2013\n1 2013\n1 2013\n.\nZdający otrzymuje ............................................................................................................. 2 pkt\ngdy przeprowadzi pełne rozumowanie.\nZadania 31. (2 pkt)\nNieskończony ciąg geometryczny \n\n\n7 3n\n1\nna\nn . Oblicz\nna\njest określony wzorem\n, dla\n1\niloraz q tego ciągu.\nRozwiązanie (I sposób)\nPonieważ ciąg \nna\njest geometryczny, więc wystarczy obliczyć dwa kolejne wyrazy tego\n. Iloraz ciągu \n\n\n1 1\n oraz\n\n\n\na\n7 3\n7 9\n2 1\nciągu, np.\na\n7 3\n7 27\nna\njest więc równy\n1\n2\n\na\n7 27\n2\n\n\n\nq\n3\n.\n\na\n7 9\n1\nRozwiązanie (II sposób)\nPierwszy wyraz ciągu \n. Ponieważ ciąg \n\n1 1\n\n\nna\njest równy\na\n7 3\n63\nna\njest\n1\n\n\n\nn\n1\nn\n1\nn\nn\n1\nn\n1\n\n\n\n\n\n\n\n\n\na\n7 3\n7 3\n3\n21 3\n63 3\na\n3\ngeometryczny oraz\n, więc ze wzoru na n-ty\nn\n1\nq \nwyraz ciągu geometrycznego wynika, że iloraz tego ciągu jest równy\n3\n.\nRozwiązanie (III sposób)\nPonieważ wszystkie wyraz ciągu \nna\nsą różne od zera, więc iloraz q tego ciągu jest równy\n\n1\nn\n\n1\na\n7\n3\n\n\n\n\nn .\nq\nn\n1\n3\ndla\n1\n\n3n\na\n1\n7\nn\nRozwiązanie (IV sposób)\n, więc ciąg  \n\n\n\nn  mamy\n\n\nn\n1\n1\n\n\nn\n\n1\n\n1\n\nn\n\n1\n\n1\na\n7 3\n7 3\n3\n3 7 3\n3\na\nna\nDla każdego\nn\n1\nn\njest geometryczny, a jego iloraz jest równy 3.\nSchemat oceniania\nZdający otrzymuje .......................................................................................................... 1 pkt\ngdy\n obliczy dwa kolejne wyrazy ciągu \n\n\n oraz\n1 1\n\n\n\nna\na\n7 3\n7 9\na\n7 3\n2 1\n7 27\n, np.:\n1\n2\n\n i na tym\noraz poprawnie zapisze relację między tymi wyrazami, np.:\na\na q\n2\n1\npoprzestanie lub błędnie obliczy iloraz ciągu\nalbo\n\n\n\n obliczy pierwszy wyraz ciągu i zapisze n-ty wyraz ciągu w postaci\n63 3n\n1\nna\ni na\ntym poprzestanie lub błędnie poda iloraz ciągu.\nalbo\nSchemat oceniania\nPoziom podstawowy\nn  wyraz ciągu \n wyznaczy\n1\nna\noraz poprawnie zapisze relację między wyrazami,\na\n\n\n\n\nq\nn\n1\na\na\nq\nnp.:\nlub\ni na tym poprzestanie lub błędnie obliczy iloraz ciągu.\nn\n1\nn\na\nn\nZdający otrzymuje .......................................................................................................... 2 pkt\nq \ngdy obliczy iloraz q:\n3\n.\nUwaga\nq \nJeżeli zdający poda od razu iloraz ciągu\n3\n, to"
+  },
+  {
+   "task": "31",
+   "num": 31,
+   "sub": null,
+   "points": 2,
+   "image": "f2005-P-2013-czerwiec/31.webp",
+   "size": [
+    956,
+    119
+   ],
+   "stem": "",
+   "text": "Zadanie 31. (2 pkt)\nNieskończony ciąg geometryczny \n\n\n7 3n\n\n\n1\nn .\njest określony wzorem\nna\n, dla\n1\na\nn\nOblicz iloraz q tego ciągu.",
+   "key": ""
+  },
+  {
+   "task": "32",
+   "num": 32,
+   "sub": null,
+   "points": 4,
+   "image": "f2005-P-2013-czerwiec/32.webp",
+   "size": [
+    950,
+    647
+   ],
+   "stem": "",
+   "text": "Zadanie 32. (4 pkt)\nPodstawą graniastosłupa ABCDEFGH jest prostokąt ABCD (zobacz rysunek), którego krótszy\nbok ma długość 3. Przekątna prostokąta ABCD tworzy z jego dłuższym bokiem kąt 30.\nPrzekątna HB graniastosłupa tworzy z płaszczyzną jego podstawy kąt 60. Oblicz objętość\ntego graniastosłupa.\nH\nG\nF\nE\nD\nC\nB\nA",
+   "key": "Zadanie 32. (4 pkt)\nPodstawą graniastosłupa ABCDEFGH jest prostokąt ABCD (zobacz rysunek), którego\nkrótszy bok ma długość 3. Przekątna prostokąta ABCD tworzy z jego dłuższym bokiem kąt\n30. Przekątna  HB graniastosłupa tworzy z płaszczyzną jego podstawy kąt 60.Oblicz\nobjętość tego graniastosłupa.\nH\nG\nE\nF\nD\nC\nA\nB\nRozwiązanie (krawędź podstawy AB, przekątna BD i wysokość DH graniastosłupa)\nH\nG\nE\nF\nD\nC\n60\n30\nA\nB\nUwaga\nStrategia rozwiązania tego zadania sprowadza się do realizacji następujących etapów\nrozwiązania:\n obliczenie długości dłuższej krawędzi podstawy graniastosłupa, ew. długości\nprzekątnej  podstawy i wysokości tego graniastosłupa\n obliczenie pola podstawy graniastosłupa\n obliczenie objętości ostrosłupa.\nSchemat oceniania\nPoziom podstawowy\nAD \nNiech\n3\n. Z definicji tangensa kąta ostrego w trójkącie prostokątnym ABD  wynika, że\nAD\nAB \n, stąd\nAB \ntg30\n3 3\n.\nZ twierdzenia Pitagorasa zastosowanego do trójkąta ABD otrzymujemy\n\n\n2\nBD \n23\n\n\n3 3\n6\n.\nP \nPole P podstawy graniastosłupa (pole prostokąta ABCD) jest równe:\n9 3\n.\nA teraz z definicji tangensa kąta ostrego w trójkącie prostokątnym BDH otrzymujemy, że\nDH\nBD \n, stąd\nDH \n.\ntg60\n6 3\nV \n\n\nObliczamy zatem objętość graniastosłupa ABCDEFGH:\n9 3 6 3\n162\n.\nSchemat oceniania rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania .................................................................................................................... ….1 pkt\nObliczenie\n długości dłuższej krawędzi podstawy graniastosłupa:\nAB \n3 3\nalbo\n długości przekątnej podstawy graniastosłupa:\nBD \n6\n.\nRozwiązanie, w którym jest istotny postęp ...................................................................... 2 pkt\nObliczenie\n długości dłuższej krawędzi podstawy graniastosłupa i długości przekątnej   podstawy\nBD \nAB \ngraniastosłupa:\n3 3\n,\n6\n.\nalbo\n3\n\n\n\n\n\n pola podstawy graniastosłupa:\nP\nBC\nBD\nsin60\n3 6\n9 3\n.\nABCD\n2\nPokonanie zasadniczych trudności zadania ..................................................................... 3 pkt\nObliczenie\n długości dłuższej krawędzi podstawy graniastosłupa i długości przekątnej podstawy\nAB \nBD \nDH \ngraniastosłupa  i wysokości  graniastosłupa:\n3 3\n,\n6\n,\n6 3\nalbo\n pola\npodstawy\ngraniastosłupa\ni\nwysokości\ngraniastosłupa:\n\nDH \nP\n9 3\n,\n6 3\n.\nABCD\nRozwiązanie pełne .............................................................................................................. 4 pkt\nV \nObliczenie objętości graniastosłupa:\n162\n.\nUwaga\nZdający może zauważyć, że trójkąt ABD jest „połową” trójkąta równobocznego, w którym\npołowa długości boku jest równa 3, pole podstawy graniastosłupa jest równe polu takiego\n2\n6\n3\nAB \nBD \n\n\n3 3\n6\nP\n9 3\ntrójkąta równobocznego i od razu zapisać, że\n,\n,\n.\nABCD\n4\nPodobnie może zauważyć, że trójkąt BHD jest „połową” trójkąta równobocznego, w którym\nDH \n6 3\npołowa długości boku jest równa 6  i od razu zapisać\n.\nSchemat oceniania\nPoziom podstawowy"
+  },
+  {
+   "task": "33",
+   "num": 33,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2013-czerwiec/33.webp",
+   "size": [
+    956,
+    191
+   ],
+   "stem": "",
+   "text": "Zadanie 33. (5 pkt)\nGrupa znajomych wykupiła wspólnie dostęp do Internetu na okres jednego roku. Opłata\nmiesięczna wynosiła 120 złotych. Podzielono tę kwotę na równe części, by każdy\nze znajomych płacił tyle samo. Po upływie miesiąca do grupy dołączyły jeszcze dwie osoby\ni wówczas opłata miesięczna przypadająca na każdego użytkownika zmniejszyła się\no 5 złotych. Ile osób liczyła ta grupa w pierwszym miesiącu użytkowania Internetu?\n.",
+   "key": "Zadanie 33. (5 pkt)\nGrupa znajomych wykupiła wspólnie dostęp do Internetu na okres jednego roku. Opłata\nmiesięczna wynosiła 120 złotych. Podzielono tę kwotę na równe części, by każdy\nze znajomych płacił tyle samo. Po upływie miesiąca do grupy dołączyły jeszcze dwie osoby\ni wówczas opłata miesięczna przypadająca na każdego użytkownika zmniejszyła się\no 5 złotych. Ile osób liczyła ta grupa w pierwszym miesiącu użytkowania Internetu?\nI sposób rozwiązania\nNiech x oznacza liczbę osób, które w pierwszym miesiącu wykupiły dostęp do Internetu, zaś\ny – opłatę przypadającą na każdą z tych osób (w zł). Koszt wykupienia dostępu do Internetu\n\n\nopisuje równanie\nx y\n120\n.\nGdy do grupy dołączyły jeszcze dwie osoby, to opłata przypadająca na każdego\nużytkownika zmniejszyła się o 5 złotych miesięcznie. Otrzymujemy zatem równanie:\n\n\n\n\n\n\n\nx\n2\ny\n5\n120\n.\nRozwiązujemy układ równań\n\n\n\nx y\n120\n.\n\n\n\n\n\n\n\nx\n2\ny\n5\n120\n\nDrugie równanie możemy zapisać w postaci\n\n\n\n\n.\nxy\n5\nx\n2\ny\n10\n120\nStąd i z pierwszego równania otrzymujemy\n\n\n\n\n,\n120\n5\nx\n2\ny\n10\n120\n\n\n,\n2\ny\n5\nx\n10\n5\n\n.\ny\nx\n5\n2\nPodstawiamy do pierwszego równania układu i otrzymujemy\n\n5\n\n\n\nx\nx\n5\n120\n,\n\n\n\n2\n\n5\n\n\n\n2 x\n2\n5\nx\n120\n0\n,\n\n\n\n2\n.\nx\n2\nx\n48\n0\n\n\n\n\n2\n4 192\n196\n14\nZatem\n\n\n2 14\n2 14\n\n,\n\n\nx\n8\nx\n6\n.\n1\n2\n2\n2\nPierwsze z rozwiązań odrzucamy, gdyż liczba osób nie może być ujemna. Zatem\nw pierwszym miesiącu użytkowania Internetu grupa liczyła 6 osób.\nUwaga\n2\nZ równania 120\n\n\n\n\nmożemy także wyznaczyć\n\n\n. Wówczas\n5\nx\n2\ny\n10\n120\nx\ny\n2\n5\notrzymujmy równanie\n\n\n2\n\n\n,\n5 y\n2\ny\n120\n\n\n\n\n2\n2\n\n\n\n,\n5 y\n2\ny\n120\n0\nSchemat oceniania\nPoziom podstawowy\n2\n\n\n\n.\ny\n5\ny\n300\n0\n\n\n\n\n2\n25 1200\n1225\n35\nZatem\n\n\n5 35\n5\n35\n\n\n\n\ny\n15\n,\ny\n20\n.\n1\n2\n2\n2\ny \nPierwsze z rozwiązań odrzucamy, gdyż opłata nie może być ujemna. Gdy\n20\n, to wtedy\n2 20\nx \n\n\n\n. Zatem w pierwszym miesiącu użytkowania Internetu grupa liczyła 6 osób.\n2\n6\n5\nSchemat oceniania I sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ......................................................................................................  1 pkt\nZapisanie zależności między x – ilością osób w grupie i y – opłatą przypadająca na każdą\nz tych osób, np.:\n\n\n\nx y\n120\nalbo\n \n\n\n\n\n\n\nx\n2\ny\n5\n120\n.\nRozwiązanie, w którym jest istotny postęp  .................................................................  2 pkt\n\n\n\nx y\n120\nZapisanie układu równań z niewiadomymi x i y, np. \n\n\n\n\n\n\nx\n2\ny\n5\n120.\n\nPokonanie zasadniczych trudności zadania  ................................................................  3 pkt\nZapisanie równania z jedną niewiadomą x lub y, np:\n\n\n\n\n5\nlub 2\n\n\n120\n\n\n120\nlub\n\n\n\n\n\n\n\nx\nx\n5\n120\n\n\n\n\n\n\n5 y\n2\ny\n120\nx\n2\n5\n120\nlub\n2\ny\n5\n120\n.\n\n\n\n\n\n\n\n\n\n2\n\ny\n\n\n\nx\n\n\n\nUwaga\nZdający nie musi zapisywać układu równań, może bezpośrednio zapisać równanie z jedną\nniewiadomą.\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe)  ....................................................  4 pkt\n zapisanie równania kwadratowego z niewiadomą x i rozwiązanie tego równania\nz błędem rachunkowym\nalbo\n bezbłędne rozwiązanie równania z niewiadomą y i nie obliczenie liczby osób, które\nw pierwszym miesiącu wykupiły dostęp do Internetu\nalbo\n rozwiązanie równania z niewiadomą y z błędem rachunkowym i konsekwentne\nobliczenie liczby osób, które w pierwszym miesiącu wykupiły dostęp do Internetu.\nRozwiązanie pełne  .........................................................................................................  5 pkt\nObliczenie liczby osób, które w pierwszym miesiącu wykupiły dostęp do Internetu: 6.\nII sposób rozwiązania\nNiech x oznacza liczbę osób, które w pierwszym miesiącu wykupiły dostęp do Internetu.\nWtedy opłata przypadającą na każdą z tych osób jest równa 120\nx zł. Gdy do grupy dołączyły\nx \n2\njeszcze dwie osoby, to liczba osób w grupie jest wtedy równa\n, więc opłata\nSchemat oceniania\nPoziom podstawowy\nprzypadająca wówczas na każdego użytkownika jest równa 120\nzł. Ponieważ opłata\nx \n2\nzmniejszyła się o 5 zł, więc otrzymujemy równanie\n120\n120\n\n\n5\n.\n\nx\nx\n2\nPrzekształcamy je do postaci\n2\n\n\n\nx\n2\nx\n48\n0\n.\n\n\n\n\n2\n4 192\n196\n14\nZatem\n\n\n2 14\n2 14\n\n,\n\n\nx\n8\nx\n6\n.\n1\n2\n2\n2\nPierwsze z rozwiązań odrzucamy, gdyż liczba osób nie może być ujemna. Zatem\nw pierwszym miesiącu użytkowania Internetu grupa liczyła 6 osób.\nSchemat oceniania II sposobu rozwiązania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania  ......................................................................................................  1 pkt\nPrzyjęcie oznaczenia, np.: x - liczba osób, które w pierwszym miesiącu wykupiły dostęp do\nInternetu oraz wyznaczenie opłaty przypadającej na jedną osobę w zależności od przyjętej\nzmiennej 120\nx .\nRozwiązanie, w którym jest istotny postęp  .................................................................  2 pkt\nWyznaczenie opłaty przypadającej na jedną osobę w zależności od przyjętej zmiennej\nw sytuacji, gdy liczba osób zwiększyła się o 2: 120\n.\nx \n2\nPokonanie zasadniczych trudności zadania  ................................................................  3 pkt\nZapisanie równania z jedną niewiadomą: 120\n120\n\n\n5\n.\n\nx\nx\n2\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe)  ....................................................  4 pkt\n2\n\n\n\nZapisanie równania kwadratowego, np.\nx\n2\nx\n48\n0\ni rozwiązanie go z błędem\nrachunkowym.\nRozwiązanie pełne  .........................................................................................................  5 pkt\nObliczenie liczby osób, które w pierwszym miesiącu wykupiły dostęp do Internetu: 6.\nUwagi\n1. Jeżeli zdający porównuje wielkości różnych typów, to otrzymuje 0 punktów.\n2. Jeżeli zdający odga"
+  },
+  {
+   "task": "34",
+   "num": 34,
+   "sub": null,
+   "points": 5,
+   "image": "f2005-P-2013-czerwiec/34.webp",
+   "size": [
+    950,
+    185
+   ],
+   "stem": "",
+   "text": "Zadanie 34. (5 pkt)\n\n\n\n\n\n\nA \nB \nC \n1, 5\n5,1\n1,3\nWierzchołki trapezu ABCD mają współrzędne:\n,\n,\n,\n\n\nD \n2,0\n. Napisz równanie okręgu, który jest styczny do podstawy AB tego trapezu,\na jego środek jest punktem przecięcia się prostych zawierających ramiona AD oraz BC\ntrapezu ABCD.\n.",
+   "key": "Zadanie 34. (5 pkt)\n\n\n\n\n\n\nA \nB \nC \nWierzchołki trapezu ABCD mają współrzędne:\n1, 5\n,\n5,1\n,\n1,3\n,\n\n\nD \n2,0\n. Napisz równanie okręgu, który jest styczny do podstawy AB tego trapezu,\na jego środek jest punktem przecięcia się prostych zawierających ramiona AD oraz BC\ntrapezu ABCD.\nRozwiązanie\nWyznaczamy równania prostych zawierających ramiona AD oraz BC trapezu, odpowiednio:\n1\n7\n\n\n\n\ny\nx\ny\n5\nx\n10\noraz\n.\n2\n2\nŚrodkiem okręgu S jest punkt przecięcia się prostych o wyznaczonych równaniach.\nAby wyznaczyć współrzędne punktu S zapisujemy i rozwiązujemy układ równań:\n\n\n\ny\n5\nx\n10\n1\n7\n\n\ny\nx\n\n2\n2\n1\n7\n\n\n\n\n\n\nx . Zatem\nS \nx\n5\nx\n10\ny \n3,5\nStąd\n, czyli\n3\n5\n, czyli\n. Zauważmy, że\n2\n2\npromień szukanego okręgu jest równy odległości punktu S od prostej AB. Trzeba też\nsprawdzić, czy punkt styczności okręgu i prostej AB leży na podstawie tego trapezu.\nWyznaczamy równanie prostej prostopadłej do prostej AB przechodzącej przez punkt S:\n, a następnie wyznaczamy współrzędne punktu P przecięcia się tej prostej z prostą\ny\nx\n2\n\n\ny\nx\n2\n\n\nP \n\n3, 1\nAB. Rozwiązujemy zatem układ równań\n\ni zapisujemy, że\n.\n\ny\nx\n4\n\n\n\n\n\nZauważmy, że punkt P leży między punktami A i B, gdyż\nx\n1\nx\n3\nx\n5\n.\nA\nP\nB\nObliczamy promień okręgu r:\n\n\n\n\n2\n2\n\n\n\n\n\n\nr\nSP\n3 3\n1 5\n72\n6 2\n.\nZapisujemy równanie okręgu ośrodku S i promieniu r:\n\n2\n\n\n2\n\n(\nx\n3)\n(\ny\n5)\n72\n.\nUwaga\nPromień okręgu r możemy także wyznaczyć w inny sposób:\n\n\n1. Wyznaczamy\nrównanie\nprostej\nAB:\ny\nx\n4\ni\nobliczamy\npromień\n\n3 5\n4\n12\n\n\n\nokręgu:\nr\n6 2\n.\n\n1 1\n2\n2. Obliczamy pole trójkąta ABS, korzystając ze wzoru na pole trójkąta o wierzchołkach\n\n\n\n\n\n\nA \nB \nS \n1, 5\n5,1\n3,5\n,\n,\n:\n1\n1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nP\n5 1 5 5\n1 5\n3 1\n60\n12\n36\n.\nABS\n2\n2\n1\n\n\n.\nP\nAB r\nPole trójkąta ABS możemy zapisać w inny sposób:\nABS\n2\n1\n36\n\n\n. Stąd\nAB \n2\n\n2\n\n\n36\n6 2\nr\nr \n\nPonieważ\n6\n6\n72\n6 2\n, to\n.\n6 2\n2\n3 2\nSchemat oceniania\nPoziom podstawowy\nSchemat oceniania\nRozwiązanie, w którym postęp jest niewielki, ale konieczny na drodze do pełnego\nrozwiązania zadania ........................................................................................................... 1 pkt\nZapisanie równania prostej zawierającej ramię AD trapezu albo równania prostej\n1\n7\n\n\n\n\ny\nx\nzawierającej ramię BC trapezu, odpowiednio:\ny\n5\nx\n10\nalbo\n.\n2\n2\nRozwiązanie, w którym jest istotny postęp ...................................................................... 2 pkt\n\n\nS \nObliczenie współrzędnych środka okręgu S:\n3,5\n.\nUwaga\n\n\n\ny\n5\nx\n10\nZdający może podać rozwiązanie układu równań\nbez obliczeń.\n1\n7\n\n\ny\nx\n\n2\n2\nPokonanie zasadniczych trudności zadania ..................................................................... 3 pkt\nr \nObliczenie promienia r okręgu:\n6 2\n.\nRozwiązanie zadania do końca, lecz z usterkami, które jednak nie przekreślają\npoprawności rozwiązania (np. błędy rachunkowe)  ....................................................... 4 pkt\n wyznaczenie współrzędnych środka okręgu z błędem rachunkowym i konsekwentne\nobliczenie długości promienia okręgu oraz zapisanie równania okręgu\nalbo\n obliczenie długości promienia okręgu z błędem rachunkowym i konsekwentne\nzapisanie równania okręgu.\nRozwiązanie pełne .............................................................................................................. 5 pkt\n\n2\n\n\n2\n\nZapisanie równania okręgu ośrodku S i promieniu r:\n(\nx\n3)\n(\ny\n5)\n72\n.\nUwaga\nJeśli zdający odczytał z rysunku współrzędne środka okręgu S , nie sprawdził, że ten punkt\nnależy do prostych AD i BC i kontynuował rozwiązanie do końca, to za takie rozwiązanie\nmoże otrzymać maksymalnie 4 punkty."
+  }
+ ]
+}

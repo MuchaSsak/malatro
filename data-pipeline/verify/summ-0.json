@@ -1,0 +1,1505 @@
+[
+{
+"exam": "f2005-P-2005-maj",
+"task": "2",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag $a_n=\\frac{n+2}{3n+1}$: wyrazy wieksze od $\\frac12$ (suma)",
+"summary_en": "Sequence $a_n=\\frac{n+2}{3n+1}$: terms greater than $\\frac12$ (sum)"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "4",
+"need": [
+"diacritics"
+],
+"summary_pl": "Plyty na 3 polkach (ciag geom.), srodkowa=24, suma=76: gorna+dolna",
+"summary_en": "CDs on 3 shelves (geometric seq.), middle=24, total=76: top+bottom"
+},
+{
+"exam": "f2005-P-2005-maj",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ankieta o czasie na prace domowa: srednia+wariancja+odchylenie (suma)",
+"summary_en": "Survey on homework time: mean+variance+std dev (sum)"
+},
+{
+"exam": "f2005-P-2006-listopad-probna",
+"task": "4",
+"need": [
+"diacritics"
+],
+"summary_pl": "Pierwiastki $W(x)=-2x^4{+}5x^3{+}9x^2{-}15x{-}9$ (suma)",
+"summary_en": "Roots of $W(x)=-2x^4+5x^3+9x^2-15x-9$ (sum of roots)"
+},
+{
+"exam": "f2005-P-2006-maj",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "3 i $-1$ to pierwiastki $W(x)=2x^3+ax^2+bx+30$. $a,b$ i 3. pierw.",
+"summary_en": "3 and -1 are roots of $W(x)=2x^3+ax^2+bx+30$. Find a, b, 3rd root"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "3",
+"need": [
+"diacritics"
+],
+"summary_pl": "Oblicz $tg^2\\beta-5\\sin\\beta\\cdot ctg\\alpha+\\sqrt{1-\\cos^2\\alpha}$ (trojkat 8,6)",
+"summary_en": "Compute $tg^2\\beta-5\\sin\\beta\\cdot ctg\\alpha+\\sqrt{1-\\cos^2\\alpha}$ (triangle 8,6)"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "5",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag arytm.: $S_n=-n^2+13n$. a) wzor $a_n$ b) $a_{2007}$ c) $n$ dla $a_n=0$ (b+c)",
+"summary_en": "Arithmetic seq.: $S_n=-n^2+13n$. a) formula for $a_n$ b) $a_{2007}$ c) $n$ for $a_n=0$ (b+c)"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "6",
+"need": [
+"diacritics"
+],
+"summary_pl": "$W(x)=2x^3+ax^2-14x+b$: a) rozw. rownanie (a=b=0) b) dobierz a,b (podz. przez x-2,x+3)",
+"summary_en": "$W(x)=2x^3+ax^2-14x+b$: a) solve equation (a=b=0) b) find a,b (divisible by x-2, x+3)"
+},
+{
+"exam": "f2005-P-2007-maj",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "Objetosc graniastoslupa (romb 8, kat 60, przekatna CE nachylona 60)",
+"summary_en": "Volume of prism (rhombus base 8, angle 60, diagonal CE inclined 60)"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "Pierwiastki $x^2+10x-24=0$: oblicz $2x_1+x_2$",
+"summary_en": "Roots of $x^2+10x-24=0$: find $2x_1+x_2$"
+},
+{
+"exam": "f2005-P-2010-listopad-probna",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "2 jest pierwiastkiem $W(x)=x^3+ax^2+6x-4$. Oblicz $a$",
+"summary_en": "2 is a root of $W(x)=x^3+ax^2+6x-4$. Find $a$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ile rozwiazan ma $\\frac{x^2-4}{(x-4)(x+4)}=0$?",
+"summary_en": "How many solutions does $\\frac{x^2-4}{(x-4)(x+4)}=0$ have?"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "14",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag arytm.: $a_2=5$, $a_4=11$. Oblicz $a_5$",
+"summary_en": "Arithmetic sequence: $a_2=5$, $a_4=11$. Find $a_5$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "15",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag geom. malejacy: $a_1=-2$, $a_3=-4$. Oblicz iloraz",
+"summary_en": "Decreasing geometric sequence: $a_1=-2$, $a_3=-4$. Find the ratio"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "16",
+"need": [
+"diacritics"
+],
+"summary_pl": "Kat ostry $\\alpha$: $\\cos\\alpha=\\frac34$. Oblicz $\\sin\\alpha$",
+"summary_en": "Acute angle $\\alpha$: $\\cos\\alpha=\\frac34$. Find $\\sin\\alpha$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "17",
+"need": [
+"diacritics"
+],
+"summary_pl": "Promien okregu opisanego na trojk. rownobocznym = 12. Wysokosc?",
+"summary_en": "Circumradius of an equilateral triangle is 12. Find its height"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "18",
+"need": [
+"diacritics"
+],
+"summary_pl": "Przekatna $AC=11$ prostokata, $AB$ krotszy o 5. Oblicz $AD$",
+"summary_en": "Diagonal $AC=11$ of a rectangle, $AB$ shorter by 5. Find $AD$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "19",
+"need": [
+"diacritics"
+],
+"summary_pl": "Dziesieciokat wpisany w okrag: oblicz kat wpisany $BGE$",
+"summary_en": "Ten points on a circle: find inscribed angle $BGE$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "21",
+"need": [
+"diacritics"
+],
+"summary_pl": "Promien okregu $(x+2)^2+(y-1)^2=13$",
+"summary_en": "Radius of the circle $(x+2)^2+(y-1)^2=13$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "23",
+"need": [
+"diacritics"
+],
+"summary_pl": "Objetosc szescianu $27\\,cm^3$. Suma dlugosci krawedzi?",
+"summary_en": "Cube volume $27\\,cm^3$. Sum of all edge lengths?"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "24",
+"need": [
+"diacritics"
+],
+"summary_pl": "Graniastoslup ma 15 krawedzi. Ile wierzcholkow?",
+"summary_en": "A prism has 15 edges. How many vertices?"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "27",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $x^3-3x^2+2x-6=0$",
+"summary_en": "Solve $x^3-3x^2+2x-6=0$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "28",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag arytm.: $a_5=26$, $S_5=70$. Oblicz $a_1$",
+"summary_en": "Arithmetic sequence: $a_5=26$, $S_5=70$. Find $a_1$"
+},
+{
+"exam": "f2005-P-2010-sierpien",
+"task": "33",
+"need": [
+"diacritics"
+],
+"summary_pl": "Graniastoslup prawidlowy: $AB=10$, $CF=11$. Pole $\\triangle ABF$",
+"summary_en": "Regular prism: $AB=10$, $CF=11$. Area of $\\triangle ABF$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ile rozwiazan ma rownanie $\\frac{x^2+36}{x-6}=0$?",
+"summary_en": "How many solutions does $\\frac{x^2+36}{x-6}=0$ have?"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Najwieksza liczba calkowita w $(4+x)^2<(x-4)(x+4)$",
+"summary_en": "Largest integer solving $(4+x)^2<(x-4)(x+4)$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "12",
+"need": [
+"diacritics"
+],
+"summary_pl": "W trojk. prost. $\\alpha=27^\\circ,\\beta=63^\\circ$: oblicz $\\frac{\\cos\\alpha+\\sin\\beta}{\\cos\\alpha}$",
+"summary_en": "Right triangle $\\alpha=27^\\circ,\\beta=63^\\circ$: find $\\frac{\\cos\\alpha+\\sin\\beta}{\\cos\\alpha}$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "13",
+"need": [
+"diacritics"
+],
+"summary_pl": "Roznica ciagu arytm. $a_n=-2n+1$",
+"summary_en": "Common difference of the arithmetic sequence $a_n=-2n+1$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "14",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag geom.: $a_2=\\frac{\\sqrt3}{2}$, $a_3=-\\frac32$. Oblicz $a_1$",
+"summary_en": "Geometric seq.: $a_2=\\frac{\\sqrt3}{2}$, $a_3=-\\frac32$. Find $a_1$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "15",
+"need": [
+"diacritics"
+],
+"summary_pl": "Wspolczynnik kierunkowy prostej $AB$, $A=(6,1)$, $B=(3,3)$",
+"summary_en": "Slope of line $AB$, $A=(6,1)$, $B=(3,3)$"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "17",
+"need": [
+"diacritics"
+],
+"summary_pl": "Promien okregu opisanego na trojk. prost. o przypr. 5,12",
+"summary_en": "Circumradius of right triangle with legs 5,12"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "18",
+"need": [
+"diacritics"
+],
+"summary_pl": "Odleglosc srodkow 2 okregow (r=12,17), mniejszy przez srodek wiekszego",
+"summary_en": "Distance between centers of 2 circles (r=12,17), smaller through larger's center"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "19",
+"need": [
+"diacritics"
+],
+"summary_pl": "Promien podstawy stozka z obrotu trojk. o przypr. 13,15",
+"summary_en": "Base radius of cone from rotating a triangle with legs 13,15"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "24",
+"need": [
+"diacritics"
+],
+"summary_pl": "Pole trapezu prost. o podstawach 6,10, $\\tan$ kata ostrego=3",
+"summary_en": "Area of right trapezoid, bases 6,10, acute angle tangent=3"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "26",
+"need": [
+"diacritics"
+],
+"summary_pl": "64, x, 4 - ciag geom. malejacy. Oblicz piaty wyraz",
+"summary_en": "64, x, 4 - decreasing geometric sequence. Find the fifth term"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "28",
+"need": [
+"diacritics"
+],
+"summary_pl": "Oceny klasy: srednia i wariancja (suma)",
+"summary_en": "Class grades: mean and variance (sum)"
+},
+{
+"exam": "f2005-P-2012-marzec-probna",
+"task": "30",
+"need": [
+"diacritics"
+],
+"summary_pl": "Sinus kata nachylenia $BS$ do podstawy ostroslupa $ABCDS$",
+"summary_en": "Sine of the angle between $BS$ and the base of pyramid $ABCDS$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "Styczna do okregu, kat $40°$. Oblicz kat $\\alpha$",
+"summary_en": "Tangent to circle, angle $40°$. Find angle $\\alpha$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "13",
+"need": [
+"diacritics"
+],
+"summary_pl": "Prostokat o przekatnej $2\\sqrt{13}$ podobny do $2\\times3$. Obwod?",
+"summary_en": "Rectangle, diagonal $2\\sqrt{13}$, similar to $2\\times3$. Perimeter?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "14",
+"need": [
+"diacritics"
+],
+"summary_pl": "Romb: bok $3$, $\\cos$ kata ostrego $\\frac{\\sqrt3}{2}$. Pole?",
+"summary_en": "Rhombus: side $3$, $\\cos$ of acute angle $\\frac{\\sqrt3}{2}$. Area?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "15",
+"need": [
+"diacritics"
+],
+"summary_pl": "Pole szescianu $12$. Suma dlugosci krawedzi?",
+"summary_en": "Cube surface area $12$. Sum of all edge lengths?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "16",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag $a_n=-2+\\frac{12}{n}$. Dla jakiego $n$: $a_n=4$?",
+"summary_en": "Sequence $a_n=-2+\\frac{12}{n}$. For which $n$: $a_n=4$?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "19",
+"need": [
+"diacritics"
+],
+"summary_pl": "Przyprostokatne $1$ i $\\sqrt3$. Najmniejszy kat?",
+"summary_en": "Legs $1$ and $\\sqrt3$. Smallest angle?"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "20",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag arytm.: $r=-2$, $a_{20}=17$. Oblicz $a_1$",
+"summary_en": "Arithmetic seq.: $r=-2$, $a_{20}=17$. Find $a_1$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "21",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag geom.: $a_1=\\frac98$, $a_4=\\frac13$. Oblicz $q$",
+"summary_en": "Geometric seq.: $a_1=\\frac98$, $a_4=\\frac13$. Find $q$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "22",
+"need": [
+"diacritics"
+],
+"summary_pl": "Diagram ocen. Oblicz srednia arytmetyczna",
+"summary_en": "Grade diagram. Find the arithmetic mean"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "27",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $3x^3-4x^2-3x+4=0$ (suma rozwiazan)",
+"summary_en": "Solve $3x^3-4x^2-3x+4=0$ (sum of solutions)"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "31",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag geom. $a_n=7\\cdot3^{n-1}$. Oblicz iloraz $q$",
+"summary_en": "Geometric seq. $a_n=7\\cdot3^{n-1}$. Find ratio $q$"
+},
+{
+"exam": "f2005-P-2013-czerwiec",
+"task": "32",
+"need": [
+"diacritics"
+],
+"summary_pl": "Graniastoslup: bok $3$, katy $30°,60°$. Oblicz objetosc",
+"summary_en": "Prism: side $3$, angles $30°,60°$. Find the volume"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "4",
+"need": [
+"diacritics"
+],
+"summary_pl": "Oblicz sume $\\log_8 16 + 1$",
+"summary_en": "Compute the sum $\\log_8 16 + 1$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "Pierwiastki $2(x+2)(x-2)=0$: oblicz $\\frac{1}{x_1}+\\frac{1}{x_2}$",
+"summary_en": "Roots of $2(x+2)(x-2)=0$: find $\\frac{1}{x_1}+\\frac{1}{x_2}$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "12",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkaty podobne o polach $25\\,cm^2$ i $50\\,cm^2$: skala podobienstwa",
+"summary_en": "Similar triangles with areas $25\\,cm^2$ and $50\\,cm^2$: find the scale"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "13",
+"need": [
+"diacritics"
+],
+"summary_pl": "$x-2, 6, 12$ to ciag geometryczny. Oblicz $x$",
+"summary_en": "$x-2, 6, 12$ form a geometric sequence. Find $x$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "16",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trapez rownoramienny, kat ostry $60°$, ramie $2\\sqrt3$. Wysokosc?",
+"summary_en": "Isosceles trapezoid, acute angle $60°$, leg $2\\sqrt3$. Find the height"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "17",
+"need": [
+"diacritics"
+],
+"summary_pl": "Kat srodkowy oparty na luku o dlugosci $\\frac49$ okregu",
+"summary_en": "Central angle on an arc of length $\\frac49$ of the circle"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "19",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ostroslup ma 10 krawedzi. Ile scian bocznych?",
+"summary_en": "A pyramid has 10 edges. How many side faces?"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "20",
+"need": [
+"diacritics"
+],
+"summary_pl": "Stozek i walec: rowne pola boczne. Stosunek tworzacej do wysokosci walca",
+"summary_en": "Cone and cylinder with equal lateral areas: ratio of slant height to cylinder height"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "25",
+"need": [
+"diacritics"
+],
+"summary_pl": "Mediana $2,12,a,10,5,3$ rowna 7. Oblicz $a$",
+"summary_en": "Median of $2,12,a,10,5,3$ is 7. Find $a$"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "27",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $9x^3-18x^2-4x+8=0$ (suma rozwiazan)",
+"summary_en": "Solve $9x^3-18x^2-4x+8=0$ (sum of solutions)"
+},
+{
+"exam": "f2005-P-2014-maj",
+"task": "32",
+"need": [
+"diacritics"
+],
+"summary_pl": "Prostopadloscian: pole calk. 198, krawedzie w stosunku $1:2:3$. Przekatna?",
+"summary_en": "Cuboid: total surface area 198, edges in ratio $1:2:3$. Find the diagonal"
+},
+{
+"exam": "f2005-P-2015-maj",
+"task": "24",
+"need": [
+"diacritics"
+],
+"summary_pl": "Srednie zestawow $2,4,7,8,9$ i $2,4,7,8,9,x$ rowne. Oblicz $x$",
+"summary_en": "Means of $2,4,7,8,9$ and $2,4,7,8,9,x$ equal. Find $x$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "5",
+"need": [
+"diacritics"
+],
+"summary_pl": "Najwieksza calk.: $\\frac{x}{4}-\\sqrt3<0$",
+"summary_en": "Largest integer: $\\frac{x}{4}-\\sqrt3<0$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Iloczyn rozwiazan $(x-\\frac12)^2-\\frac{25}{4}=0$",
+"summary_en": "Product of solutions of $(x-\\frac12)^2-\\frac{25}{4}=0$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "12",
+"need": [
+"diacritics"
+],
+"summary_pl": "Suma 11 wyrazow ciagu $a_n=2n-1$",
+"summary_en": "Sum of 11 terms of $a_n=2n-1$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "13",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag arytm.: $a_{10}=11$, $a_{100}=111$. Oblicz $r$",
+"summary_en": "Arithmetic seq.: $a_{10}=11$, $a_{100}=111$. Find $r$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "14",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat prost. o przypr. $2,5$: cosinus wiek. kata",
+"summary_en": "Right triangle, legs $2,5$: cosine of larger acute angle"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "16",
+"need": [
+"diacritics"
+],
+"summary_pl": "Szesciokat foremny: przekatna $2\\sqrt2$, pole?",
+"summary_en": "Regular hexagon: diagonal $2\\sqrt2$, find area"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "17",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkaty podobne, pola $1{:}4$: mozliwe obwody (suma)",
+"summary_en": "Similar triangles, areas $1{:}4$: possible perimeters (sum)"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "20",
+"need": [
+"diacritics"
+],
+"summary_pl": "Czworoscian foremny o kraw. $9$: wysokosc",
+"summary_en": "Regular tetrahedron, edge $9$: height"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "22",
+"need": [
+"diacritics"
+],
+"summary_pl": "Graniastoslup: pole podst. $36$, kat przek. $30°$",
+"summary_en": "Prism: base area $36$, diagonal angle $30°$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "26",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $8x^3+8x^2-3x-3=0$ (suma rozwiazan)",
+"summary_en": "Solve $8x^3+8x^2-3x-3=0$ (sum of solutions)"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "28",
+"need": [
+"diacritics"
+],
+"summary_pl": "2-cyfrowa liczba: podzielna przez $9$ lub $12$",
+"summary_en": "2-digit number: divisible by $9$ or $12$"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "32",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag arytm. $a_1{=}2$: $a_1,a_2,a_4$ tworza geom. (iloraz)",
+"summary_en": "Arithmetic seq. $a_1=2$: $a_1,a_2,a_4$ form geometric (ratio)"
+},
+{
+"exam": "f2005-P-2015-sierpien",
+"task": "34",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ostroslup: sciana boczna pole $10$, kat $60°$. Objetosc",
+"summary_en": "Pyramid: lateral face area $10$, angle $60°$. Volume"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "1",
+"need": [
+"diacritics"
+],
+"summary_pl": "$f(x)=|x{-}1|{-}|x{+}2|$: wartosc dla $x<-2$ i zero (a+c)",
+"summary_en": "$f(x)=|x-1|-|x+2|$: value for $x<-2$ and the zero (a+c)"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "3",
+"need": [
+"diacritics"
+],
+"summary_pl": "Kapsula: stozek+polkula, $V_{stozka}=\\frac23 V$. Oblicz $V$",
+"summary_en": "Capsule: cone+hemisphere, $V_{cone}=\\frac23 V$. Find $V$"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "4",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat $1,\\frac32,2$: $\\cos\\alpha+\\sin\\alpha$ najkr. boku (suma)",
+"summary_en": "Triangle sides $1,\\frac32,2$: $\\cos\\alpha+\\sin\\alpha$ of shortest side (sum)"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "5",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat rownob. na paraboli $y=-x^2+6x$ (suma wspolrzednych)",
+"summary_en": "Equilateral triangle on $y=-x^2+6x$ (sum of coordinates)"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "Romb na okregu: $\\frac{P_{kola}}{P_{rombu}}=\\frac{\\pi\\sqrt3}{8}$. Kat ostry?",
+"summary_en": "Rhombus on circle: $\\frac{P_{circle}}{P_{rhombus}}=\\frac{\\pi\\sqrt3}{8}$. Acute angle?"
+},
+{
+"exam": "f2005-R-2007-maj",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag arytm. $S_n=2n^2+n$: suma parzystych + granica (a+b)",
+"summary_en": "Arithmetic seq. $S_n=2n^2+n$: even-term sum + limit (a+b)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "4",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $4\\cos^2x=4\\sin x+1$ w $[0,2\\pi]$ (suma rozw.)",
+"summary_en": "Solve $4\\cos^2x=4\\sin x+1$ on $[0,2\\pi]$ (sum of solutions)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Jednokladnosc ujemna okregow - srodek $S$? (suma wspolrzednych)",
+"summary_en": "Negative homothety of two circles - find center $S$ (sum of coords)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "9",
+"need": [
+"diacritics"
+],
+"summary_pl": "Dziedzina i najmn. wartosc $f(x)=\\log_{\\frac{\\sqrt2}{2}}(8x-x^2)$?",
+"summary_en": "Domain and minimum of $f(x)=\\log_{\\frac{\\sqrt2}{2}}(8x-x^2)$?"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ostroslup: $V=\\frac{2}{9}H^3$. Oblicz kat $\\alpha$ (czesc b)",
+"summary_en": "Pyramid: $V=\\frac{2}{9}H^3$. Find angle $\\alpha$ (part b)"
+},
+{
+"exam": "f2005-R-2008-maj",
+"task": "12",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat prost. $|BC|{=}9$, $|CA|{=}12$, $|BC|{=}|CD|$. $|AD|$?",
+"summary_en": "Right triangle $|BC|{=}9$, $|CA|{=}12$, $|BC|{=}|CD|$. Find $|AD|$"
+},
+{
+"exam": "f2005-R-2009-maj",
+"task": "2",
+"need": [
+"diacritics"
+],
+"summary_pl": "$W(x):(x-1)$ daje iloraz $8x^2+4x-14$, r.$-5$. Pierwiastki (suma)",
+"summary_en": "$W(x):(x-1)$ gives quotient $8x^2+4x-14$, rem.$-5$. Roots (sum)"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "1",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $2\\sin^2x-7\\cos x-5=0$, $x\\in[0,2\\pi)$ (suma)",
+"summary_en": "Solve $2\\sin^2x-7\\cos x-5=0$, $x\\in[0,2\\pi)$ (sum)"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Graniastoslup: $V=12\\sqrt3$, $P_b=36$. Sinus kata scian",
+"summary_en": "Prism: $V=12\\sqrt3$, lateral area $36$. Sine of face angle"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "9",
+"need": [
+"diacritics"
+],
+"summary_pl": "Losowa permutacja $1..8$: sumy sasiadow nieparzyste",
+"summary_en": "Random permutation of $1..8$: neighbor sums odd"
+},
+{
+"exam": "f2005-R-2010-sierpien",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "Romb: $A{=}(-2,3)$, srodek $S{=}(3,4)$, pole $300$ (suma wsp.)",
+"summary_en": "Rhombus: $A=(-2,3)$, center $S=(3,4)$, area $300$ (sum of coords)"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "5",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag $(x_n)$: $(3^{x_n})$ geom. o ilorazie $27$; $\\sum_1^{10}x_n{=}145$. $x_1=?$",
+"summary_en": "Sequence $(x_n)$: $(3^{x_n})$ geometric ratio $27$; $\\sum_1^{10}x_n{=}145$. Find $x_1$"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "6",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat rownoram.: baza $8$, $\\angle BAC=30^\\circ$. Oblicz srodkowa $AD$",
+"summary_en": "Isosceles triangle: base $8$, $\\angle BAC=30^\\circ$. Find median $AD$"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Kat miedzy stycznymi do $x^2{+}y^2{+}2x{-}2y{-}3{=}0$ z $A=(2,0)$?",
+"summary_en": "Angle between tangents to $x^2{+}y^2{+}2x{-}2y{-}3{=}0$ from $A=(2,0)$?"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Graniastoslup 6-katny: suma krawedzi $24$, max pole boczne. $a=?$",
+"summary_en": "Hexagonal prism: edge sum $24$, max lateral area. Find $a$"
+},
+{
+"exam": "f2005-R-2011-maj",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ostroslup: $AC:AS=6:5$. Oblicz sinus kata nachylenia sciany bocznej",
+"summary_en": "Pyramid: $AC:AS=6:5$. Find sine of the face inclination angle"
+},
+{
+"exam": "f2005-R-2013-maj",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Wielomian $W(x)=4x^3-5x^2-23x+m$: $m$ i pierwiastki (suma)",
+"summary_en": "Polynomial $W(x)=4x^3-5x^2-23x+m$: $m$ and roots (sum)"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "3",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $\\sin 2x+\\sqrt3\\sin x=0$ w $[0,2\\pi]$ (suma rozwiazan)",
+"summary_en": "Solve $\\sin 2x+\\sqrt3\\sin x=0$ on $[0,2\\pi]$ (sum of solutions)"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "3 liczby (geom., suma 105) sa wyrazami 1,6,26 ciagu arytm. Oblicz je",
+"summary_en": "3 numbers (geometric, sum 105) are terms 1,6,26 of an AP. Find them"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat rownoram. ABC: $M=(5,6)$ srodek $BC$, $A=(-3,0)$. Oblicz $B$",
+"summary_en": "Isosceles triangle ABC: $M=(5,6)$ midpoint of $BC$, $A=(-3,0)$. Find $B$"
+},
+{
+"exam": "f2005-R-2015-czerwiec",
+"task": "9",
+"need": [
+"diacritics"
+],
+"summary_pl": "Szescian kraw. 2: pole przekroju $AHRP$ (P srodek BC)",
+"summary_en": "Cube edge 2: area of cross-section $AHRP$ (P midpoint of BC)"
+},
+{
+"exam": "f2005-R-2015-maj",
+"task": "2",
+"need": [
+"diacritics"
+],
+"summary_pl": "Wielomian $W(x)$ z param. $m$, przes. przez $(0,0)$. Pierwiastki? (suma)",
+"summary_en": "Polynomial $W(x)$ with param $m$, shifted through origin. Roots? (sum)"
+},
+{
+"exam": "f2005-R-2017-maj",
+"task": "2",
+"need": [
+"diacritics"
+],
+"summary_pl": "Wielomian $W(x)=2x^3+ax^2-13x+b$: $a,b$ i pierwiastki (suma)",
+"summary_en": "Polynomial $W(x)=2x^3+ax^2-13x+b$: $a,b$ and roots (sum)"
+},
+{
+"exam": "f2005-R-2018-czerwiec",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "$W(x)=x^3+cx^2-10x+d$, $(x+2)|W$, reszta z $(x-1)$ to $-30$. Pierwiastki (suma)",
+"summary_en": "$W(x)=x^3+cx^2-10x+d$, divisible by $(x+2)$, remainder by $(x-1)$ is $-30$. Roots (sum)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "1",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $3|x+2|-|x-3|=11$ (suma rozw.)",
+"summary_en": "Solve $3|x+2|-|x-3|=11$ (sum of solutions)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "4",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag 8 liczb z $\\{1..7,9\\}$ bez powtorzen. $P$(parzyste niesasiadujace)?",
+"summary_en": "Sequence of 8 numbers from $\\{1..7,9\\}$, no repeats. $P$(evens not adjacent)?"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $2\\cos^2x+3\\sin x=0$ w $[-\\pi/2,3\\pi/2]$ (suma rozw.)",
+"summary_en": "Solve $2\\cos^2x+3\\sin x=0$ on $[-\\pi/2,3\\pi/2]$ (sum of solutions)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "$W(x){=}5x^3{-}7x^2{-}3x{+}p$, pierwiastek $\\frac25$. Pozostale pierwiastki? (suma)",
+"summary_en": "$W(x){=}5x^3{-}7x^2{-}3x{+}p$, root $\\frac25$. Other roots? (sum)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "10",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat rownoram. z $A=(7,-1)$, okrag wpisany $x^2{+}y^2{=}10$. $B,C$? (suma)",
+"summary_en": "Isosceles triangle from $A=(7,-1)$, incircle $x^2{+}y^2{=}10$. Find $B,C$ (sum)"
+},
+{
+"exam": "f2005-R-2018-maj",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ostroslup: przekroj rownoboczny, kraw. boczna $\\frac{4\\sqrt3}{3}$. Objetosc?",
+"summary_en": "Pyramid: equilateral cross-section, lateral edge $\\frac{4\\sqrt3}{3}$. Volume?"
+},
+{
+"exam": "f2005-R-2019-maj",
+"task": "6",
+"need": [
+"diacritics"
+],
+"summary_pl": "Wielomian podzielny przez $(x-2)$, reszta $6$: $m$ i pierwiastki",
+"summary_en": "Polynomial divisible by $(x-2)$, remainder 6: find $m$ and roots"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "5",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag geom. o sumie $\\frac{21}{4}$ powiazany z ciagiem arytm. Oblicz $a_1$",
+"summary_en": "Geometric sequence summing to $\\frac{21}{4}$, linked to an arithmetic one. Find $a_1$"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "6",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $3\\cos 2x+10\\cos^2x=24\\sin x-3$, $x\\in[0,2\\pi)$ (suma rozw.)",
+"summary_en": "Solve $3\\cos 2x+10\\cos^2x=24\\sin x-3$ for $x\\in[0,2\\pi)$ (sum of solutions)"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Znajdz $m$: rozne $x_1,x_2$ i $x_1^2+5x_1x_2+2x_2^2=2$ (suma wartosci $m$)",
+"summary_en": "Find $m$: distinct roots $x_1,x_2$ with $x_1^2+5x_1x_2+2x_2^2=2$ (sum of $m$ values)"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat rownoramienny $AC=BC=10$, $\\angle ABC=30^\\circ$, $BP{:}PC=2{:}3$. Oblicz $\\sin\\alpha$",
+"summary_en": "Isosceles triangle $AC=BC=10$, $\\angle ABC=30^\\circ$, $BP{:}PC=2{:}3$. Find $\\sin\\alpha$"
+},
+{
+"exam": "f2005-R-2020-maj",
+"task": "12",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ostroslup, podstawa-trapez $AD=10$, $BC=16$, $\\angle ABC=30^\\circ$, $\\tan\\alpha=\\frac{9}{2}$. Oblicz objetosc",
+"summary_en": "Pyramid, trapezoidal base $AD=10$, $BC=16$, $\\angle ABC=30^\\circ$, $\\tan\\alpha=\\frac{9}{2}$. Find the volume"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "2",
+"need": [
+"diacritics"
+],
+"summary_pl": "Przekatna kwadratu ze srodkow bokow $(7,1)$, $(9,7)$",
+"summary_en": "Diagonal of a square from side midpoints $(7,1)$, $(9,7)$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "5",
+"need": [
+"diacritics"
+],
+"summary_pl": "Dla jakiego $x$ funkcja $3^x$ ma wartosc 6?",
+"summary_en": "For which $x$ does $3^x$ equal 6?"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "Najwieksza z wartosci $f(42),f(44),f(45),f(48)$",
+"summary_en": "Largest among $f(42), f(44), f(45), f(48)$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "15",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $(2x-1)(x-2)=(1-2x)(x+2)$ (suma rozw.)",
+"summary_en": "Solve $(2x-1)(x-2)=(1-2x)(x+2)$ (sum of solutions)"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "17",
+"need": [
+"diacritics"
+],
+"summary_pl": "Sinus kata ostrego w trojkacie prostokatnym (rysunek)",
+"summary_en": "Sine of the acute angle in a right triangle (figure)"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "19",
+"need": [
+"diacritics"
+],
+"summary_pl": "Okregi o promieniach 10, 15 - odleglosc srodkow",
+"summary_en": "Circles of radii 10, 15 - distance between centers"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "21",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag geom. 9-wyrazowy: $a_1=3$, $a_9=12$, oblicz $a_5$",
+"summary_en": "Geometric sequence of 9 terms: $a_1=3$, $a_9=12$, find $a_5$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "22",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag $a_n=(n+3)(n-5)$: ile wyrazow ujemnych?",
+"summary_en": "Sequence $a_n=(n+3)(n-5)$: how many negative terms?"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "24",
+"need": [
+"diacritics"
+],
+"summary_pl": "Wyznacz $a$: rozwiazaniem $ax+4\\ge0$ jest $(-\\infty,2]$",
+"summary_en": "Find $a$: solution set of $ax+4\\ge0$ is $(-\\infty,2]$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "25",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $\\frac{x(x+1)}{x-1}=5x-4$ (suma rozwiazan)",
+"summary_en": "Solve $\\frac{x(x+1)}{x-1}=5x-4$ (sum of solutions)"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "29",
+"need": [
+"diacritics"
+],
+"summary_pl": "Promien okregu opisanego na trojkacie o bokach $\\sqrt7,\\sqrt8,\\sqrt{15}$",
+"summary_en": "Circumradius of a triangle with sides $\\sqrt7,\\sqrt8,\\sqrt{15}$"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "30",
+"need": [
+"diacritics"
+],
+"summary_pl": "Proste $l,k$ przez $A=(0,4)$: pole trojkata z osia $Ox$",
+"summary_en": "Lines $l,k$ through $A=(0,4)$: area of triangle with the $Ox$ axis"
+},
+{
+"exam": "f2015-P-2013-grudzien-pokazowa",
+"task": "33",
+"need": [
+"diacritics"
+],
+"summary_pl": "Stosunek pol powierzchni szescianu i graniastoslupa",
+"summary_en": "Ratio of surface areas of a cube and a prism"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Najmniejsza liczba calkowita: $2(x-2)\\le4(x-1)+1$",
+"summary_en": "Smallest integer solving $2(x-2)\\le4(x-1)+1$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "9",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $x^2(x+1)=x^2-8$",
+"summary_en": "Solve $x^2(x+1)=x^2-8$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "14",
+"need": [
+"diacritics"
+],
+"summary_pl": "12. wyraz ciagu dwucyfrowych liczb podzielnych przez 7",
+"summary_en": "12th term: two-digit numbers divisible by 7"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "15",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag $a_n=\\frac{2^n-1}{2^n+1}$. Oblicz $a_5$",
+"summary_en": "Sequence $a_n=\\frac{2^n-1}{2^n+1}$. Find $a_5$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "17",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat prostokatny $2,5$: cosinus wiekszego kata ostrego",
+"summary_en": "Right triangle 2,5: cosine of larger acute angle"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "19",
+"need": [
+"diacritics"
+],
+"summary_pl": "Kat wpisany $\\alpha$ przy kacie 50 stopni w okregu",
+"summary_en": "Inscribed angle $\\alpha$ with a $50°$ angle in a circle"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "20",
+"need": [
+"diacritics"
+],
+"summary_pl": "Wspolczynnik kierunkowy prostej $AB$, $A=(-4,3)$, $B=(8,7)$",
+"summary_en": "Slope of line $AB$, $A=(-4,3)$, $B=(8,7)$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "21",
+"need": [
+"diacritics"
+],
+"summary_pl": "$S=(2,-5)$ srodkiem $AB$: $A=(-4,3)$, $B=(8,b)$. Oblicz $b$",
+"summary_en": "$S=(2,-5)$ midpoint of $AB$: $A=(-4,3)$, $B=(8,b)$. Find $b$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "23",
+"need": [
+"diacritics"
+],
+"summary_pl": "Przekatna przekroju osiowego walca: $r=4$, $h=6$",
+"summary_en": "Diagonal of cylinder's axial cross-section: $r=4$, $h=6$"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "26",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $\\frac{2x-4}{x}=\\frac{x}{2x-4}$ (suma rozwiazan)",
+"summary_en": "Solve $\\frac{2x-4}{x}=\\frac{x}{2x-4}$ (sum of solutions)"
+},
+{
+"exam": "f2015-P-2015-sierpien",
+"task": "33",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ostroslup: pole podstawy $192$, krawedzie boczne pod $30^\\circ$. Objetosc?",
+"summary_en": "Pyramid: base area $192$, lateral edges at $30^\\circ$. Volume?"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "24",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ile liczb 4-cyfrowych $<2018$ podzielnych przez 5?",
+"summary_en": "How many 4-digit numbers $<2018$ divisible by 5?"
+},
+{
+"exam": "f2015-P-2018-maj",
+"task": "33",
+"need": [
+"diacritics"
+],
+"summary_pl": "Losowanie z $A$ i $B$: P(suma podzielna przez 3)",
+"summary_en": "Draw from A and B: P(sum divisible by 3)"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "21",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ile liczb dwucyfrowych jest podzielnych przez 6?",
+"summary_en": "How many two-digit numbers are divisible by 6?"
+},
+{
+"exam": "f2015-P-2019-czerwiec",
+"task": "31",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rzut 3 kostkami. Prawdop. sumy oczek $=16$",
+"summary_en": "Roll 3 dice. Probability that the sum equals 16"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "4",
+"need": [
+"diacritics"
+],
+"summary_pl": "Najmniejsza liczba calk. w $\\frac{5(4-x)}{2}<x$",
+"summary_en": "Least integer solving $\\frac{5(4-x)}{2}<x$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "5",
+"need": [
+"diacritics"
+],
+"summary_pl": "250 liczb: 4 (128x), 2 (122x). Blad przyblizenia sredniej do 3",
+"summary_en": "250 numbers: 4(x128), 2(x122). Error of mean approximated to 3"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "8",
+"need": [
+"diacritics"
+],
+"summary_pl": "Zbior wartosci $f(x)=-(x+9)^2+m$ to $(-\\infty,-5]$. Znajdz $m$",
+"summary_en": "Range of $f(x)=-(x+9)^2+m$ is $(-\\infty,-5]$. Find $m$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "11",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $\\frac{x^2-3x}{x^2+x}=0$",
+"summary_en": "Solve $\\frac{x^2-3x}{x^2+x}=0$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "12",
+"need": [
+"diacritics"
+],
+"summary_pl": "Okrag o srodku $S=(2,4)$ przez $P=(1,3)$. Dlugosc okregu?",
+"summary_en": "Circle centered $S=(2,4)$ through $P=(1,3)$. Circumference?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "14",
+"need": [
+"diacritics"
+],
+"summary_pl": "$S=(4,8)$ srodkiem $PQ$, $P\\in Oy$, $Q\\in Ox$. Wspolrzedne (suma)",
+"summary_en": "$S=(4,8)$ midpoint of $PQ$, $P\\in Oy$, $Q\\in Ox$. Coordinates (sum)"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "15",
+"need": [
+"diacritics"
+],
+"summary_pl": "$AC=6$ w trojkacie prost., pola $ADC{:}CDB=4{:}1$. Oblicz $BC$",
+"summary_en": "$AC=6$ in right triangle, areas $ADC{:}CDB=4{:}1$. Find $BC$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "16",
+"need": [
+"diacritics"
+],
+"summary_pl": "$P=(-3,4)$, $O=(0,0)$. Tangens kata nachylenia prostej $OP$",
+"summary_en": "$P=(-3,4)$, $O=(0,0)$. Tangent of line $OP$'s inclination angle"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "22",
+"need": [
+"diacritics"
+],
+"summary_pl": "$A=(4,1)$, $B=(1,3)$, $C=(4,-1)$. Pole trojkata $ABC$",
+"summary_en": "$A=(4,1)$, $B=(1,3)$, $C=(4,-1)$. Area of triangle $ABC$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "23",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ile 4-cyfrowych liczb $<2020$ jest podzielnych przez 4?",
+"summary_en": "How many 4-digit numbers $<2020$ are divisible by 4?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "24",
+"need": [
+"diacritics"
+],
+"summary_pl": "Graniastoslup ma o 9 wiecej wierzcholkow niz ostroslup. Ile bokow podstawy?",
+"summary_en": "Prism has 9 more vertices than pyramid. How many sides has the base?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "25",
+"need": [
+"diacritics"
+],
+"summary_pl": "Pole calk. szescianu = 12. Suma dlugosci krawedzi?",
+"summary_en": "Cube total surface area = 12. Sum of edge lengths?"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "27",
+"need": [
+"diacritics"
+],
+"summary_pl": "Ciag $(x+2,4x+2,x+11)$ geometryczny. Oblicz $x$ (suma wartosci)",
+"summary_en": "Sequence $(x+2,4x+2,x+11)$ is geometric. Find $x$ (sum of values)"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "30",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $(x^3+8)(x^2-9)=0$ (suma rozwiazan)",
+"summary_en": "Solve $(x^3+8)(x^2-9)=0$ (sum of solutions)"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "32",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat rownoram. $AB=12$, ramiona $10$. $D$-srodek $BC$. Sinus kata $DAC$",
+"summary_en": "Isosceles triangle $AB=12$, legs $10$. $D$=midpoint of $BC$. Sine of angle $DAC$"
+},
+{
+"exam": "f2015-P-2020-sierpien",
+"task": "33",
+"need": [
+"diacritics"
+],
+"summary_pl": "Pole boczne stozka = 3x pole podstawy, wysokosc 12. Objetosc?",
+"summary_en": "Cone lateral area = 3x base area, height 12. Volume?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "7",
+"need": [
+"diacritics"
+],
+"summary_pl": "Rozwiaz $x\\sqrt3+2=2x-8$",
+"summary_en": "Solve $x\\sqrt3+2=2x-8$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "15",
+"need": [
+"diacritics"
+],
+"summary_pl": "Kat ostry: $tg\\,\\alpha=\\sqrt5$. Oblicz $\\cos^2\\alpha$",
+"summary_en": "Acute angle: $\\tan\\alpha=\\sqrt5$. Find $\\cos^2\\alpha$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "16",
+"need": [
+"diacritics"
+],
+"summary_pl": "Okrag: $AC$ srednica, $\\angle AOB=82^\\circ$. Oblicz $\\angle OBC$",
+"summary_en": "Circle: $AC$ diameter, $\\angle AOB=82^\\circ$. Find $\\angle OBC$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "17",
+"need": [
+"diacritics"
+],
+"summary_pl": "Styczna+ciec. $40^\\circ$, $BC$ srednica. Oblicz $\\angle ABC$",
+"summary_en": "Tangent-chord angle $40^\\circ$, $BC$ diameter. Find $\\angle ABC$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "18",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat prost. $24,10,26$, dwusieczne w $P$. Oblicz $x$ do $AB$",
+"summary_en": "Right triangle $24,10,26$, bisectors meet at $P$. Find dist. $x$ to $AB$"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "19",
+"need": [
+"diacritics"
+],
+"summary_pl": "Bok rownolegloboku $5$. Mozliwe przekatne? (suma)",
+"summary_en": "Parallelogram side $5$. Possible diagonals? (sum)"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "20",
+"need": [
+"diacritics"
+],
+"summary_pl": "Trojkat rownoram.: kat $120^\\circ$, bok $12$. Najkr. wysokosc?",
+"summary_en": "Isosceles triangle: angle $120^\\circ$, side $12$. Shortest altitude?"
+},
+{
+"exam": "f2015-P-2021-czerwiec",
+"task": "22",
+"need": [
+"diacritics"
+],
+"summary_pl": "Proste $y=-\\frac{1}{m-2}x-1$ i $y=\\frac13x+1$ rownolegle. $m=?$",
+"summary_en": "Lines $y=-\\frac{1}{m-2}x-1$ and $y=\\frac13x+1$ parallel. Find $m$"
+}
+]
