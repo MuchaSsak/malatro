@@ -21,6 +21,7 @@ import Modal from "~/components/ui/Modal";
 import { useGame, useRun } from "~/contexts/GameContext";
 import PlaybackProvider, { usePlayback } from "~/contexts/PlaybackContext";
 import { useSettings } from "~/contexts/SettingsContext";
+import { useViewer } from "~/contexts/ViewerContext";
 import { audio } from "~/lib/audio";
 import { emitJiggle, emitPopup } from "~/lib/fx";
 import { HAND_BY_ID } from "~/lib/game/hands";
@@ -41,6 +42,7 @@ function GameTable({ onMainMenu, onNewRun }: GameScreenProps) {
   const { l } = useSettings();
   const { t } = useLingui();
   const pb = usePlayback();
+  const { target: viewerTarget } = useViewer();
   const [modal, setModal] = useState<"info" | "options" | "deck" | null>(null);
   const [scope, animate] = useAnimate();
 
@@ -79,10 +81,26 @@ function GameTable({ onMainMenu, onNewRun }: GameScreenProps) {
     });
   }, [engine, l, t]);
 
+  // Escape opens options (pause menu); while a modal or the task viewer is open, they own Escape
+  useEffect(() => {
+    if (modal || viewerTarget) return;
+    const handleKey = (e: KeyboardEvent) => {
+      if (e.key !== "Escape" || e.repeat) return;
+      audio.play("click");
+      setModal("options");
+    };
+    window.addEventListener("keydown", handleKey);
+    return () => window.removeEventListener("keydown", handleKey);
+  }, [modal, viewerTarget]);
+
   // screen shake on big hands
   useEffect(() => {
     if (!pb.shake || !scope.current) return;
-    void animate(scope.current, { x: [0, -8, 7, -5, 3, 0], y: [0, 4, -5, 3, -1, 0], rotate: [0, -0.4, 0.3, 0] }, { duration: 0.35 });
+    void animate(
+      scope.current,
+      { x: [0, -8, 7, -5, 3, 0], y: [0, 4, -5, 3, -1, 0], rotate: [0, -0.4, 0.3, 0] },
+      { duration: 0.35 },
+    );
   }, [pb.shake, animate, scope]);
 
   const phase = run.phase;
@@ -105,7 +123,10 @@ function GameTable({ onMainMenu, onNewRun }: GameScreenProps) {
       <DeckPile onClick={() => setModal("deck")} />
       {(phase === "gameover" || phase === "won") && (
         <>
-          <div className="absolute inset-0 z-[140]" style={{ background: phase === "won" ? "rgba(0,60,120,.35)" : "rgba(232,84,80,.35)" }} />
+          <div
+            className="absolute inset-0 z-[140]"
+            style={{ background: phase === "won" ? "rgba(0,60,120,.35)" : "rgba(232,84,80,.35)" }}
+          />
           <GameOver onNewRun={onNewRun} onMainMenu={onMainMenu} />
         </>
       )}

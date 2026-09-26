@@ -35,13 +35,19 @@ chain, matching Balatro's own sound feel without reusing any of its files.
 
 Music (`public/audio/music/`):
 
-| File | Used as | Licence |
-| --- | --- | --- |
-| `hep-cats_kevin-macleod.mp3` | Main/round theme (`audio.playMusic("main")`) | CC BY 4.0 — credit "Hep Cats" by Kevin MacLeod (incompetech.com) |
-| `chill-wave_kevin-macleod.mp3` | Shop/pack theme (`audio.playMusic("shop")`) | CC BY 4.0 — credit "Chill Wave" by Kevin MacLeod |
+All tracks: Kevin MacLeod (incompetech.com), CC BY 4.0, file name `<slug>_kevin-macleod.mp3`.
+Two playlists in `src/lib/audio.ts` (`PLAYLISTS`): first track opens, the rest play shuffled and
+reshuffle on wrap; each playlist resumes where it left off when the mood switches back.
 
-Both play at `rate(0.9)` for the woozy Balatro feel and slow further on game over
-(`audio.slowMusic`). Required attribution text: `assets/audio/music/ATTRIBUTION.txt`.
+| Playlist | Used for | Tracks |
+| --- | --- | --- |
+| `main` | Menu, blind select, rounds, cash-out (`audio.playMusic("main")`) | Hep Cats, Local Forecast - Elevator, Cool Vibes, Groove Grove, Funkorama, Backbay Lounge |
+| `shop` | Shop + pack opening (`audio.playMusic("shop")`) | Chill Wave, Bossa Antigua, Lobby Time, Sidewalk Shade |
+
+Tracks never use howler `loop`: with `html5: true` howler loops on a `setTimeout` that drifts or
+gets throttled, which left the music silently stopped after the first pass. Advancing on the
+native `end` event fixes that. All play at `rate(0.9)` for the woozy Balatro feel and slow further
+on game over (`audio.slowMusic`). The 8 newer tracks are re-encoded to 128 kbps. Required attribution text: `assets/audio/music/ATTRIBUTION.txt`.
 **The Balatro OST itself is not used anywhere** (it is commercial, sold separately on Steam/Spotify).
 
 ## Cursors (`public/cursors/`)
@@ -73,7 +79,7 @@ not add them there; they are copyrighted (© LocalThunk/Playstack) and research-
 
 ## In-game credits
 
-`src/components/game/OptionsPanel.tsx` already shows a one-line credits string: "Font m6x11 by
-Daniel Linssen · Music: 'Hep Cats', 'Chill Wave' Kevin MacLeod (incompetech.com) CC BY 4.0 · SFX
-Kenney (CC0) · Background: React Bits Balatro · Tasks: CKE". [repo: src/components/game/OptionsPanel.tsx:157-158]
+`src/components/game/OptionsPanel.tsx` shows a credits string at the bottom of Options: font
+(Daniel Linssen), every music title above with "Kevin MacLeod (incompetech.com) CC BY 4.0", SFX
+Kenney (CC0), background React Bits Balatro, tasks CKE. [repo: src/components/game/OptionsPanel.tsx]
 This matches the table above; keep both in sync if a new asset with an attribution requirement is added.

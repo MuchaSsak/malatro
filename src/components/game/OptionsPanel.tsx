@@ -154,8 +154,9 @@ export default function OptionsPanel({ onClose, onMainMenu, onAbandon }: Options
         <Trans>Back</Trans>
       </PixelButton>
       <p className="text-center font-pixel text-lg leading-tight text-white/45">
-        Font m6x11 by Daniel Linssen · Music: "Hep Cats", "Chill Wave" Kevin MacLeod (incompetech.com) CC BY 4.0 · SFX
-        Kenney (CC0) · Background: React Bits Balatro · Tasks: CKE
+        Font m6x11 by Daniel Linssen · Music: Kevin MacLeod (incompetech.com) CC BY 4.0 — "Hep Cats", "Local Forecast -
+        Elevator", "Cool Vibes", "Groove Grove", "Funkorama", "Backbay Lounge", "Chill Wave", "Bossa Antigua", "Lobby
+        Time", "Sidewalk Shade" · SFX Kenney (CC0) · Background: React Bits Balatro · Tasks: CKE
       </p>
     </div>
   );

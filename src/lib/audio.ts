@@ -39,24 +39,42 @@ const SFX = {
 
 export type SfxName = keyof typeof SFX;
 
-const MUSIC = {
-  main: "/audio/music/hep-cats_kevin-macleod.mp3",
-  shop: "/audio/music/chill-wave_kevin-macleod.mp3",
+/**
+ * Soundtrack: each mood is a playlist (files in /audio/music/<slug>_kevin-macleod.mp3). The first
+ * track opens, the rest play shuffled, reshuffling on wrap. Tracks never use howler's `loop` —
+ * with html5 audio that loops on a setTimeout that drifts/gets throttled and leaves the music
+ * stopped; advancing on the native `end` event is reliable.
+ */
+const PLAYLISTS = {
+  main: ["hep-cats", "local-forecast-elevator", "cool-vibes", "groove-grove", "funkorama", "backbay-lounge"],
+  shop: ["chill-wave", "bossa-antigua", "lobby-time", "sidewalk-shade"],
 } as const;
-export type MusicName = keyof typeof MUSIC;
+export type MusicName = keyof typeof PLAYLISTS;
+
+type Channel = { order: string[]; index: number; howl: Howl | null; pauseTimer?: number; failures: number };
+
+function shuffle<T>(items: T[]): T[] {
+  const a = [...items];
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
 
 class AudioManager {
   private cache = new Map<string, Howl>();
-  private music = new Map<MusicName, Howl>();
+  private channels = new Map<MusicName, Channel>();
   private current: MusicName | null = null;
   private sfxVolume = 0.7;
   private musicVolume = 0.35;
+  private musicRate = 0.9;
   private isUnlocked = false;
 
   setVolumes(sfx: number, music: number) {
     this.sfxVolume = sfx;
     this.musicVolume = music;
-    if (this.current) this.music.get(this.current)?.volume(music);
+    if (this.current) this.channels.get(this.current)?.howl?.volume(music);
   }
 
   private howl(file: string): Howl {
@@ -92,30 +110,69 @@ class AudioManager {
     const prev = this.current;
     this.current = name;
     if (prev) {
-      const p = this.music.get(prev);
-      if (p) {
+      const ch = this.channels.get(prev);
+      const p = ch?.howl;
+      if (ch && p) {
         p.fade(p.volume(), 0, 800);
-        setTimeout(() => p.pause(), 850);
+        window.clearTimeout(ch.pauseTimer);
+        ch.pauseTimer = window.setTimeout(() => p.pause(), 850);
       }
     }
     if (this.isUnlocked) this.startMusic(name);
   }
 
-  private startMusic(name: MusicName) {
-    let h = this.music.get(name);
-    if (!h) {
-      h = new Howl({ src: [MUSIC[name]], loop: true, html5: true, volume: 0 });
-      this.music.set(name, h);
+  private channel(name: MusicName): Channel {
+    let ch = this.channels.get(name);
+    if (!ch) {
+      const [first, ...rest] = PLAYLISTS[name];
+      ch = { order: [first, ...shuffle(rest)], index: 0, howl: null, failures: 0 };
+      this.channels.set(name, ch);
     }
-    h.rate(0.9);
+    return ch;
+  }
+
+  private load(name: MusicName, ch: Channel): Howl {
+    const h = new Howl({
+      src: [`/audio/music/${ch.order[ch.index]}_kevin-macleod.mp3`],
+      html5: true,
+      volume: 0,
+      onplay: () => (ch.failures = 0),
+      onend: () => this.nextTrack(name, ch),
+      onloaderror: () => this.nextTrack(name, ch, true),
+      onplayerror: () => this.nextTrack(name, ch, true),
+    });
+    ch.howl = h;
+    return h;
+  }
+
+  private nextTrack(name: MusicName, ch: Channel, isFailure = false) {
+    ch.howl?.unload();
+    ch.howl = null;
+    if (isFailure && ++ch.failures >= ch.order.length) return; // every file broken: stay silent
+    ch.index += 1;
+    if (ch.index >= ch.order.length) {
+      const last = ch.order[ch.order.length - 1];
+      let next = shuffle(ch.order);
+      if (next[0] === last) next = [...next.slice(1), last];
+      ch.order = next;
+      ch.index = 0;
+    }
+    if (this.current === name && this.isUnlocked) this.startMusic(name);
+  }
+
+  private startMusic(name: MusicName) {
+    const ch = this.channel(name);
+    window.clearTimeout(ch.pauseTimer);
+    const h = ch.howl ?? this.load(name, ch);
+    h.rate(this.musicRate);
     if (!h.playing()) h.play();
-    h.fade(0, this.musicVolume, 1200);
+    h.fade(h.volume(), this.musicVolume, 1200);
   }
 
   /** Game over: music slows down like in Balatro. */
   slowMusic(isSlow: boolean) {
-    if (!this.current) return;
-    this.music.get(this.current)?.rate(isSlow ? 0.6 : 0.9);
+    this.musicRate = isSlow ? 0.6 : 0.9;
+    if (this.current) this.channels.get(this.current)?.howl?.rate(this.musicRate);
   }
 }
 

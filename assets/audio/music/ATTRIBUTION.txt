@@ -14,6 +14,54 @@ chill-wave_kevin-macleod.mp3
   Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Chill%20Wave.mp3  (ISRC USUAN1600048)
   100 bpm, synths / bass / drum / guitar, feel "Grooving, Relaxed", 4:00. Unmodified.
 
+local-forecast-elevator_kevin-macleod.mp3
+  "Local Forecast - Elevator" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Local%20Forecast%20-%20Elevator.mp3
+  3:09. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
+cool-vibes_kevin-macleod.mp3
+  "Cool Vibes" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Cool%20Vibes.mp3
+  3:38. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
+groove-grove_kevin-macleod.mp3
+  "Groove Grove" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Groove%20Grove.mp3
+  3:26. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
+funkorama_kevin-macleod.mp3
+  "Funkorama" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Funkorama.mp3
+  3:21. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
+backbay-lounge_kevin-macleod.mp3
+  "Backbay Lounge" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Backbay%20Lounge.mp3
+  4:27. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
+bossa-antigua_kevin-macleod.mp3
+  "Bossa Antigua" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Bossa%20Antigua.mp3
+  4:43. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
+lobby-time_kevin-macleod.mp3
+  "Lobby Time" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Lobby%20Time.mp3
+  3:13. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
+sidewalk-shade_kevin-macleod.mp3
+  "Sidewalk Shade" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sidewalk%20Shade.mp3
+  2:38. Change: re-encoded to 128 kbps MP3, metadata stripped. No other changes.
+
 Tip for the Balatro feel: Balatro plays its OST at ~70% speed. Try howler `rate(0.85)` or
 WebAudio playbackRate 0.8-0.9 (pitch drops too = woozier, more Balatro-like). On game over,
 ramp playbackRate down toward 0.5 over ~3 s (Balatro does exactly this).

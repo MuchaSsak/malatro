@@ -109,3 +109,12 @@ Added `RunStats.playTimeMs` (active time, 60 s idle cap per action gap), shown a
 shown as "Played h:mm:ss" under the player name in the main menu. Migration
 `20260926150000_run_play_time.sql` (drops old 10-arg `submit_run`). Only runs submitted at Game
 Over count; abandoned runs never reach the DB.
+
+## 2026-09-26 — soundtrack playlists, music-stops fix, Esc menu
+
+Music stopped after a while: tracks used howler `loop` with `html5: true`, which loops on a
+drifting/throttled `setTimeout` instead of the native `ended` event. Replaced single looping tracks
+with two playlists (`main` 6 tracks, `shop` 4 tracks, all Kevin MacLeod CC BY 4.0) that advance on
+`end`; also fixed a stale fade-out `pause()` timer that could kill a track switched back to within
+850 ms. Esc in a run now opens Options when nothing else is open. Credits + `ATTRIBUTION.txt`
+list every track (`assets.md`).
