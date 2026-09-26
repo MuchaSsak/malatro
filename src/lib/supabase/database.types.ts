@@ -41,6 +41,7 @@ export type Database = {
           difficulty: string
           hands_played: number
           id: string
+          play_time_ms: number
           is_endless: boolean
           is_won: boolean
           run_id: string
@@ -57,6 +58,7 @@ export type Database = {
           difficulty: string
           hands_played?: number
           id?: string
+          play_time_ms?: number
           is_endless?: boolean
           is_won?: boolean
           run_id: string
@@ -73,6 +75,7 @@ export type Database = {
           difficulty?: string
           hands_played?: number
           id?: string
+          play_time_ms?: number
           is_endless?: boolean
           is_won?: boolean
           run_id?: string
@@ -96,6 +99,13 @@ export type Database = {
       [_ in never]: never
     }
     Functions: {
+      get_my_stats: {
+        Args: never
+        Returns: {
+          runs_count: number
+          total_play_time_ms: number
+        }[]
+      }
       get_leaderboard: {
         Args: { p_difficulty: string; p_limit?: number }
         Returns: {
@@ -118,6 +128,7 @@ export type Database = {
           p_hands_played: number
           p_is_endless: boolean
           p_is_won: boolean
+          p_play_time_ms?: number
           p_run_id: string
           p_seed: string
           p_total_score: number

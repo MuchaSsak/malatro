@@ -12,12 +12,13 @@ import { useGame } from "~/contexts/GameContext";
 import { useSettings } from "~/contexts/SettingsContext";
 import useSignOut from "~/hooks/auth/useSignOut";
 import useGetLeaderboard from "~/hooks/runs/useGetLeaderboard";
+import useGetMyStats from "~/hooks/runs/useGetMyStats";
 import { audio } from "~/lib/audio";
 import { DIFFICULTIES } from "~/lib/game/constants";
 import { eligible } from "~/lib/game/deck";
 import { randomSeed } from "~/lib/game/rng";
 import type { DifficultyMode } from "~/lib/game/types";
-import { cn, formatNumber } from "~/lib/utils";
+import { cn, formatDuration, formatNumber } from "~/lib/utils";
 import HowToPlay from "~/screens/HowToPlay";
 
 type MainMenuProps = { onPlay: () => void };
@@ -27,6 +28,8 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
   const { displayName, session, setGuest } = useAuth();
   const { settings, update, isFullscreen, toggleFullscreen } = useSettings();
   const signOut = useSignOut();
+  const myStats = useGetMyStats(session?.user.id);
+  const playTime = myStats.data ? formatDuration(myStats.data.total_play_time_ms) : null;
   const [modal, setModal] = useState<"play" | "options" | "leaderboard" | "howto" | null>(() =>
     settings.hasSeenTutorial ? null : "howto",
   );
@@ -54,7 +57,14 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
         </PixelButton>
       </div>
       <div className="absolute bottom-[70px] left-[40px] flex items-center gap-3 rounded-panel bg-panel/90 px-5 py-3 shadow-hard">
-        <span className="tx font-pixel text-3xl text-white">{displayName ?? <Trans>Guest</Trans>}</span>
+        <div className="flex flex-col">
+          <span className="tx font-pixel text-3xl text-white">{displayName ?? <Trans>Guest</Trans>}</span>
+          {playTime && (
+            <span className="tx font-pixel text-xl text-white/70">
+              <Trans>Played {playTime}</Trans>
+            </span>
+          )}
+        </div>
         <PixelButton
           tone="red"
           size="sm"

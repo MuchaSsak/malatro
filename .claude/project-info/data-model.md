@@ -48,7 +48,7 @@ both in `src/lib/game/types.ts` — full field list there. Highlights not obviou
   surviving a page reload with `pending` still set means the UI replays and resolves it rather than
   losing the play.
 - `RunState.plan: BlindPlan` — this ante's Small/Big tag and Boss id, rolled once per ante.
-- `RunStats.playTimeMs?` — active play time; `engine.act` adds the gap since `updatedAt`, capped at 60 s, skipped once phase is `gameover`/`won`. Optional so old saves load (treated as 0). Local only, not sent to `submit_run`.
+- `RunStats.playTimeMs?` — active play time; `engine.act` adds the gap since `updatedAt`, capped at 60 s, skipped once phase is `gameover`/`won`. Optional so old saves load (treated as 0). Sent as `p_play_time_ms` to `submit_run`; lifetime total comes from `get_my_stats`.
 
 ## localStorage keys
 
@@ -63,8 +63,8 @@ All access goes through `src/lib/storage.ts` (`readJson`/`writeJson`, try/catch,
 
 ## Supabase schema
 
-Declarative source in `supabase/schemas/{TABLES,RPC}/`, one migration so far
-(`supabase/migrations/20260926120000_init_malatro.sql`). RLS is enabled on both tables; the only
+Declarative source in `supabase/schemas/{TABLES,RPC}/`, migrations `20260926120000_init_malatro.sql`,
+`20260926150000_run_play_time.sql`. RLS is enabled on both tables; the only
 write path into `runs` is the RPC (no insert policy on the table itself).
 
 **Tables**
@@ -72,13 +72,14 @@ write path into `runs` is the RPC (no insert policy on the table itself).
 | Table | Key columns | RLS |
 | --- | --- | --- |
 | `profiles` | `id` (= `auth.users.id`), `slug` (unique, `^[a-z0-9_-]{3,20}$`) | `select` own row only; row is created by an `after insert on auth.users` trigger (`private.profiles_sync_with_users`), slug from `signUp` metadata or the email's local part |
-| `runs` | `id`, `user_id`, `run_id` (client-generated, unique per user), `difficulty`, `ante`, `is_won`, `is_endless`, `total_score`, `best_hand`, `correct_notes`, `hands_played`, `seed` | `select` own rows only; no insert/update policy — writes go through `submit_run` |
+| `runs` | `id`, `user_id`, `run_id` (client-generated, unique per user), `difficulty`, `ante`, `is_won`, `is_endless`, `total_score`, `best_hand`, `correct_notes`, `hands_played`, `play_time_ms` (0-100 days), `seed` | `select` own rows only; no insert/update policy — writes go through `submit_run` |
 
 **RPCs**
 
 | RPC | Access | Behaviour |
 | --- | --- | --- |
-| `submit_run(p_run_id, p_difficulty, p_ante, p_is_won, p_is_endless, p_total_score, p_best_hand, p_correct_notes, p_hands_played, p_seed)` | `authenticated` only | `security definer`; upserts on `(user_id, run_id)`, keeping the **greatest** ante/score/best-hand/notes/hands-played across resubmits (so a longer continuation of the same run only ever improves the row) |
+| `submit_run(p_run_id, p_difficulty, p_ante, p_is_won, p_is_endless, p_total_score, p_best_hand, p_correct_notes, p_hands_played, p_seed, p_play_time_ms = 0)` | `authenticated` only | `security definer`; upserts on `(user_id, run_id)`, keeping the **greatest** ante/score/best-hand/notes/hands-played/play-time across resubmits (so a longer continuation of the same run only ever improves the row) |
+| `get_my_stats()` | `authenticated` only | Caller's `runs_count` + `total_play_time_ms` (sum over own runs); shown under the name in the main menu |
 | `get_leaderboard(p_difficulty, p_limit = 50)` | `anon, authenticated` | Best row per player for one difficulty (`distinct on (user_id)`), joined to `profiles.slug`, flags `is_me` via `auth.uid()`; limit clamped to 1-200 |
 
 Client wiring: `src/lib/supabase/client.ts` builds a typed `SupabaseClient<Database>` only when

@@ -102,3 +102,10 @@ Supabase setup steps (`technologies.md`) and F/Esc/Delete controls (`requirement
 
 Added `RunStats.playTimeMs` (active time, 60 s idle cap per action gap), shown as "Play time" /
 "Czas gry" on the Game Over panel. Not submitted to Supabase (would need an RPC/column change).
+
+## 2026-09-26 — lifetime play time in Supabase
+
+`runs.play_time_ms` + `submit_run(p_play_time_ms)` + new `get_my_stats()` RPC (sum per user),
+shown as "Played h:mm:ss" under the player name in the main menu. Migration
+`20260926150000_run_play_time.sql` (drops old 10-arg `submit_run`). Only runs submitted at Game
+Over count; abandoned runs never reach the DB.

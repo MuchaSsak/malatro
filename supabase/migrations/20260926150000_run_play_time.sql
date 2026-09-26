@@ -1,5 +1,17 @@
 begin;
 
+/* Runs: active play time per run (ms), capped at 100 days */
+alter table public.runs add column if not exists play_time_ms bigint not null default 0;
+alter table public.runs drop constraint if exists runs_play_time_check;
+alter table public.runs add constraint runs_play_time_check check (play_time_ms between 0 and 8640000000);
+
+/* submit_run gains p_play_time_ms; drop the old signature so calls are unambiguous */
+drop function if exists public.submit_run (text, text, integer, boolean, boolean, bigint, bigint, integer, integer, text);
+
+commit;
+
+begin;
+
 /* submit_run - upsert the caller's run result; the only write path into public.runs */
 create or replace function public.submit_run (
   p_run_id text,
@@ -51,5 +63,28 @@ $$;
 
 revoke all on function public.submit_run (text, text, integer, boolean, boolean, bigint, bigint, integer, integer, text, bigint) from public, anon;
 grant execute on function public.submit_run (text, text, integer, boolean, boolean, bigint, bigint, integer, integer, text, bigint) to authenticated;
+
+commit;
+
+begin;
+
+/* get_my_stats - the caller's lifetime totals across all submitted runs */
+create or replace function public.get_my_stats ()
+returns table (
+  runs_count integer,
+  total_play_time_ms bigint
+)
+language sql
+stable
+security definer
+set search_path = ''
+as $$
+  select count(*)::integer, coalesce(sum(r.play_time_ms), 0)::bigint
+  from public.runs r
+  where r.user_id = auth.uid ();
+$$;
+
+revoke all on function public.get_my_stats () from public, anon;
+grant execute on function public.get_my_stats () to authenticated;
 
 commit;

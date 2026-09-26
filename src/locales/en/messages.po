@@ -20,11 +20,11 @@ msgid "{0} leveled up to lvl.{1}"
 msgstr "{0} leveled up to lvl.{1}"
 
 #. placeholder {0}: formatNumber(poolSize)
-#: src/screens/MainMenu.tsx:176
+#: src/screens/MainMenu.tsx:186
 msgid "{0} tasks in this deck"
 msgstr "{0} tasks in this deck"
 
-#: src/screens/MainMenu.tsx:39
+#: src/screens/MainMenu.tsx:42
 msgid "A matura roguelike deckbuilder"
 msgstr "A matura roguelike deckbuilder"
 
@@ -45,7 +45,7 @@ msgid "Answer from the key"
 msgstr "Answer from the key"
 
 #: src/components/game/Sidebar.tsx:265
-#: src/screens/MainMenu.tsx:298
+#: src/screens/MainMenu.tsx:308
 msgid "Ante"
 msgstr "Ante"
 
@@ -57,7 +57,7 @@ msgstr "Ante {0}"
 #. placeholder {0}: run.ante
 #. placeholder {1}: run.money
 #. placeholder {2}: run.jokers.length
-#: src/screens/MainMenu.tsx:241
+#: src/screens/MainMenu.tsx:251
 msgid "Ante {0} · ${1} · {2} Jokers"
 msgstr "Ante {0} · ${1} · {2} Jokers"
 
@@ -78,8 +78,8 @@ msgstr "Audio"
 #: src/components/game/DeckView.tsx:50
 #: src/components/game/OptionsPanel.tsx:154
 #: src/components/game/RunInfo.tsx:37
-#: src/screens/MainMenu.tsx:252
-#: src/screens/MainMenu.tsx:328
+#: src/screens/MainMenu.tsx:262
+#: src/screens/MainMenu.tsx:338
 msgid "Back"
 msgstr "Back"
 
@@ -100,7 +100,7 @@ msgid "Beat the Boss to raise the Ante"
 msgstr "Beat the Boss to raise the Ante"
 
 #: src/components/game/GameOver.tsx:47
-#: src/screens/MainMenu.tsx:304
+#: src/screens/MainMenu.tsx:314
 msgid "Best hand"
 msgstr "Best hand"
 
@@ -188,8 +188,8 @@ msgstr "Clear"
 msgid "Close (Esc)"
 msgstr "Close (Esc)"
 
-#: src/screens/MainMenu.tsx:155
-#: src/screens/MainMenu.tsx:246
+#: src/screens/MainMenu.tsx:165
+#: src/screens/MainMenu.tsx:256
 msgid "Continue"
 msgstr "Continue"
 
@@ -301,7 +301,7 @@ msgstr "Game speed"
 msgid "Graphics"
 msgstr "Graphics"
 
-#: src/screens/MainMenu.tsx:57
+#: src/screens/MainMenu.tsx:61
 msgid "Guest"
 msgstr "Guest"
 
@@ -318,7 +318,7 @@ msgstr "High"
 msgid "Holographic: +10 Mult"
 msgstr "Holographic: +10 Mult"
 
-#: src/screens/MainMenu.tsx:53
+#: src/screens/MainMenu.tsx:56
 msgid "HOW TO"
 msgstr "HOW TO"
 
@@ -336,15 +336,15 @@ msgid "JUMBO"
 msgstr "JUMBO"
 
 #: src/components/game/OptionsPanel.tsx:58
-#: src/screens/MainMenu.tsx:192
+#: src/screens/MainMenu.tsx:202
 msgid "Language"
 msgstr "Language"
 
-#: src/screens/MainMenu.tsx:265
+#: src/screens/MainMenu.tsx:275
 msgid "Leaderboard"
 msgstr "Leaderboard"
 
-#: src/screens/MainMenu.tsx:277
+#: src/screens/MainMenu.tsx:287
 msgid "Leaderboard needs Supabase (see README)."
 msgstr "Leaderboard needs Supabase (see README)."
 
@@ -359,11 +359,11 @@ msgid "Level up: [c:+{0}] Chips and [m:+{1}] Mult"
 msgstr "Level up: [c:+{0}] Chips and [m:+{1}] Mult"
 
 #: src/components/viewer/TaskBoard.tsx:112
-#: src/screens/MainMenu.tsx:281
+#: src/screens/MainMenu.tsx:291
 msgid "Loading..."
 msgstr "Loading..."
 
-#: src/screens/MainMenu.tsx:66
+#: src/screens/MainMenu.tsx:76
 msgid "Log in"
 msgstr "Log in"
 
@@ -371,7 +371,7 @@ msgstr "Log in"
 msgid "Log in to appear on the leaderboard"
 msgstr "Log in to appear on the leaderboard"
 
-#: src/screens/MainMenu.tsx:66
+#: src/screens/MainMenu.tsx:76
 msgid "Log out"
 msgstr "Log out"
 
@@ -424,7 +424,7 @@ msgid "New login? We create the account automatically. Same login next time = yo
 msgstr "New login? We create the account automatically. Same login next time = your results."
 
 #: src/components/game/GameOver.tsx:112
-#: src/screens/MainMenu.tsx:147
+#: src/screens/MainMenu.tsx:157
 msgid "New Run"
 msgstr "New Run"
 
@@ -437,7 +437,7 @@ msgstr "Next Round"
 msgid "No answer"
 msgstr "No answer"
 
-#: src/screens/MainMenu.tsx:287
+#: src/screens/MainMenu.tsx:297
 msgid "No runs yet. Be the first!"
 msgstr "No runs yet. Be the first!"
 
@@ -479,7 +479,7 @@ msgstr "Open task"
 msgid "Options"
 msgstr "Options"
 
-#: src/screens/MainMenu.tsx:47
+#: src/screens/MainMenu.tsx:50
 msgid "OPTIONS"
 msgstr "OPTIONS"
 
@@ -503,8 +503,8 @@ msgstr "PIN: at least 4 characters"
 msgid "Pixel cursor"
 msgstr "Pixel cursor"
 
-#: src/screens/MainMenu.tsx:44
-#: src/screens/MainMenu.tsx:228
+#: src/screens/MainMenu.tsx:47
+#: src/screens/MainMenu.tsx:238
 msgid "PLAY"
 msgstr "PLAY"
 
@@ -520,7 +520,11 @@ msgstr "Play Hand"
 msgid "Play time"
 msgstr "Play time"
 
-#: src/screens/MainMenu.tsx:295
+#: src/screens/MainMenu.tsx:64
+msgid "Played {playTime}"
+msgstr "Played {playTime}"
+
+#: src/screens/MainMenu.tsx:305
 msgid "Player"
 msgstr "Player"
 
@@ -528,11 +532,11 @@ msgstr "Player"
 msgid "Polychrome: x1.5 Mult"
 msgstr "Polychrome: x1.5 Mult"
 
-#: src/screens/MainMenu.tsx:213
+#: src/screens/MainMenu.tsx:223
 msgid "random"
 msgstr "random"
 
-#: src/screens/MainMenu.tsx:50
+#: src/screens/MainMenu.tsx:53
 msgid "RANKING"
 msgstr "RANKING"
 
@@ -601,7 +605,7 @@ msgstr "Saved to the leaderboard"
 msgid "Saving to leaderboard..."
 msgstr "Saving to leaderboard..."
 
-#: src/screens/MainMenu.tsx:301
+#: src/screens/MainMenu.tsx:311
 msgid "Score"
 msgstr "Score"
 
@@ -614,7 +618,7 @@ msgstr "Score at least"
 msgid "Seed"
 msgstr "Seed"
 
-#: src/screens/MainMenu.tsx:208
+#: src/screens/MainMenu.tsx:218
 msgid "Seed (optional)"
 msgstr "Seed (optional)"
 
@@ -666,7 +670,7 @@ msgstr "Sort Hand"
 msgid "Sound effects"
 msgstr "Sound effects"
 
-#: src/screens/MainMenu.tsx:222
+#: src/screens/MainMenu.tsx:232
 msgid "Start a new run? The current run will be lost."
 msgstr "Start a new run? The current run will be lost."
 
