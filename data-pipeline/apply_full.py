@@ -52,7 +52,7 @@ def needs_adjudication(r: dict, stored) -> bool:
 
 def main() -> None:
     results = load("result-*.json")
-    adj = load("adj-*.json")
+    adj = load("adj-[0-9]*.json")  # not adj-batches.json
     annotations: dict[str, dict] = {}
 
     def entry_for(exam: str, task: str) -> dict:
@@ -135,6 +135,27 @@ def main() -> None:
             a["has_figure"] = bool(r["has_figure"])
         a["verified"] = True
         stats["verified"] += 1
+
+    # hand-reviewed excludes (value readable off the task without solving)
+    manual = FULL / "manual-exclude.json"
+    for m in json.loads(manual.read_text(encoding="utf-8")) if manual.exists() else []:
+        a = entry_for(m["exam"], str(m["task"]))
+        if a.get("include"):
+            a["include"] = False
+            a["exclude_reason"] = "no_numeric"
+            a["notes"] = f"{a.get('notes') or ''} [manual-exclude] {m['reason']}".strip()
+            stats["excluded"] += 1
+
+    # magnitude guard: a value inside the answer tolerance of 0 (typing 0 would pass)
+    for (exam, task), _ in results.items():
+        a = entry_for(exam, task)
+        v = a.get("value")
+        if a.get("include") and isinstance(v, (int, float)) and 0 < abs(v) <= 0.011:
+            a["include"] = False
+            a["exclude_reason"] = "no_numeric"
+            a["notes"] = f"{a.get('notes') or ''} [full-verify] |value| within the 0.011 tolerance of 0".strip()
+            stats["excluded"] += 1
+            stats["tiny_value"] = stats.get("tiny_value", 0) + 1
 
     for exam, data in annotations.items():
         (ROOT / "annotations" / f"{exam}.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")

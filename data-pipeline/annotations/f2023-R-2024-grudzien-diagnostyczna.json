@@ -17,7 +17,9 @@
    "difficulty": 4,
    "summary_pl": "Kondensator: $Q(4)=2$, $Q(6)=18$. Oblicz $Q(5)$",
    "summary_en": "Capacitor: $Q(4)=2$, $Q(6)=18$. Find $Q(5)$",
-   "statement_en": "The electric charge accumulated in a capacitor can be described by $Q(t)=Q_0\\cdot\\beta^{-t}$ for $t\\ge0$, where: $Q_0$ - the charge in the capacitor at the initial moment ($t=0$), in millicoulombs, $Q$ - the charge in the capacitor at time $t$ (from the initial moment), in millicoulombs, $\\beta$ - a positive constant, $t$ - time in seconds. It is known that at $t=4\\text{ s}$ the capacitor held a charge of $2$ millicoulombs, and at $t=6\\text{ s}$ - a charge of $18$ millicoulombs. Compute how many millicoulombs of charge were accumulated in this capacitor at $t=5\\text{ s}$. Show your working."
+   "statement_en": "The electric charge accumulated in a capacitor can be described by $Q(t)=Q_0\\cdot\\beta^{-t}$ for $t\\ge0$, where: $Q_0$ - the charge in the capacitor at the initial moment ($t=0$), in millicoulombs, $Q$ - the charge in the capacitor at time $t$ (from the initial moment), in millicoulombs, $\\beta$ - a positive constant, $t$ - time in seconds. It is known that at $t=4\\text{ s}$ the capacitor held a charge of $2$ millicoulombs, and at $t=6\\text{ s}$ - a charge of $18$ millicoulombs. Compute how many millicoulombs of charge were accumulated in this capacitor at $t=5\\text{ s}$. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -43,7 +45,9 @@
    "difficulty": 4,
    "summary_pl": "Walec: $2rh=12\\sqrt3$, $P_c=12\\pi(\\sqrt3+1)$. Oblicz $V$",
    "summary_en": "Cylinder: $2rh=12\\sqrt3$, $P_c=12\\pi(\\sqrt3+1)$. Find $V$",
-   "statement_en": "The product of the base diameter and the height of a cylinder equals $12\\sqrt3$. The total surface area of this cylinder equals $12\\pi(\\sqrt3+1)$. Compute the volume of this cylinder. Show your working."
+   "statement_en": "The product of the base diameter and the height of a cylinder equals $12\\sqrt3$. The total surface area of this cylinder equals $12\\pi(\\sqrt3+1)$. Compute the volume of this cylinder. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -69,7 +73,9 @@
    "difficulty": 4,
    "summary_pl": "35% wyższe wykszt., 70%/40% zna niemiecki. Oblicz $P(B_1|A)$",
    "summary_en": "35% higher ed., 70%/40% speak German. Find $P(B_1\\mid A)$",
-   "statement_en": "In a certain local community, $35\\%$ of people have higher education. In this community, German is spoken well by $70\\%$ of people with higher education and $40\\%$ of people without higher education. We randomly select one member of this community. Compute the probability of the event that the selected person has higher education, given that this person speaks German well. Give the result as a decimal rounded to the nearest hundredth. Show your working."
+   "statement_en": "In a certain local community, $35\\%$ of people have higher education. In this community, German is spoken well by $70\\%$ of people with higher education and $40\\%$ of people without higher education. We randomly select one member of this community. Compute the probability of the event that the selected person has higher education, given that this person speaks German well. Give the result as a decimal rounded to the nearest hundredth. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -87,7 +93,9 @@
    "difficulty": 4,
    "summary_pl": "Rozwiąż $|4x-8|+|x-2|=|2-x|+|x+2|+4$ (suma rozw.)",
    "summary_en": "Solve $|4x-8|+|x-2|=|2-x|+|x+2|+4$ (sum of solutions)",
-   "statement_en": "Solve the equation $|4x-8|+|x-2|=|2-x|+|x+2|+4$. Show your working."
+   "statement_en": "Solve the equation $|4x-8|+|x-2|=|2-x|+|x+2|+4$. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -105,7 +113,9 @@
    "difficulty": 5,
    "summary_pl": "Okrąg, $A,B$ dane: $C$ z $|AC|=|BC|$ (suma współrz., oba przyp.)",
    "summary_en": "Circle, $A,B$ given: $C$ with $|AC|=|BC|$ (sum, both cases)",
-   "statement_en": "In the Cartesian coordinate system $(x,y)$, given are: the circle with equation $(x+1)^2+(y-3)^2=50$, and points $A=(6,4)$ and $B=(-6,8)$. Point $C$ lies on this circle and $|AC|=|BC|$. Compute the coordinates of point $C$. Consider all cases. Show your working."
+   "statement_en": "In the Cartesian coordinate system $(x,y)$, given are: the circle with equation $(x+1)^2+(y-3)^2=50$, and points $A=(6,4)$ and $B=(-6,8)$. Point $C$ lies on this circle and $|AC|=|BC|$. Compute the coordinates of point $C$. Consider all cases. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -123,7 +133,9 @@
    "difficulty": 4,
    "summary_pl": "Oblicz $\\lim_{n\\to\\infty}\\frac{1+3+5+\\dots+(2n+1)}{\\binom{n}{2}}$",
    "summary_en": "Compute $\\lim_{n\\to\\infty}\\frac{1+3+5+\\dots+(2n+1)}{\\binom{n}{2}}$",
-   "statement_en": "Compute the limit $\\displaystyle\\lim_{n\\to+\\infty}\\frac{1+3+5+7+\\dots+(2n+1)}{\\binom{n}{2}}$, where $1+3+5+7+\\dots+(2n+1)$ is the sum of consecutive odd natural numbers. Show your working."
+   "statement_en": "Compute the limit $\\displaystyle\\lim_{n\\to+\\infty}\\frac{1+3+5+7+\\dots+(2n+1)}{\\binom{n}{2}}$, where $1+3+5+7+\\dots+(2n+1)$ is the sum of consecutive odd natural numbers. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -141,7 +153,9 @@
    "difficulty": 5,
    "summary_pl": "Rozwiąż $\\sin^4x=\\sin x\\cos x-\\cos^4x$ w $[-\\pi,2\\pi]$ (suma rozw.)",
    "summary_en": "Solve $\\sin^4x=\\sin x\\cos x-\\cos^4x$ on $[-\\pi,2\\pi]$ (sum)",
-   "statement_en": "Solve the equation $\\sin^4x=\\sin x\\cdot\\cos x-\\cos^4x$ in the set $[-\\pi,2\\pi]$. Show your working."
+   "statement_en": "Solve the equation $\\sin^4x=\\sin x\\cdot\\cos x-\\cos^4x$ in the set $[-\\pi,2\\pi]$. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -159,7 +173,9 @@
    "difficulty": 5,
    "summary_pl": "Ciąg arytm. i geom.: oblicz wyrazy ciągu geom. (suma)",
    "summary_en": "Arithmetic and geometric sequence: find the geometric terms (sum)",
-   "statement_en": "The third and fifth terms of a decreasing arithmetic sequence $(a_n)$, defined for every natural number $n\\ge1$, satisfy the condition $a_3+a_5=10$. The three-term sequence $\\left(2a_1+4,\\ a_4-1,\\ -\\frac18a_7\\right)$ is geometric. Compute the terms of this geometric sequence. Show your working."
+   "statement_en": "The third and fifth terms of a decreasing arithmetic sequence $(a_n)$, defined for every natural number $n\\ge1$, satisfy the condition $a_3+a_5=10$. The three-term sequence $\\left(2a_1+4,\\ a_4-1,\\ -\\frac18a_7\\right)$ is geometric. Compute the terms of this geometric sequence. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -185,7 +201,9 @@
    "difficulty": 5,
    "summary_pl": "Kąt $BAC=2\\angle ABC$. Oblicz $\\frac{tg\\beta}{\\sin2\\alpha}$",
    "summary_en": "Angle $BAC=2\\angle ABC$. Find $\\frac{\\tan\\beta}{\\sin2\\alpha}$",
-   "statement_en": "In an acute triangle $ABC$ the measure of angle $BAC$ is twice the measure of angle $ABC$. Point $D$ is the midpoint of side $AB$. Let $\\alpha$ denote the measure of angle $ABC$, and $\\beta$ the measure of angle $ADC$ (see figure). Compute $\\dfrac{\\operatorname{tg}\\beta}{\\sin(2\\alpha)}$. Show your working."
+   "statement_en": "In an acute triangle $ABC$ the measure of angle $BAC$ is twice the measure of angle $ABC$. Point $D$ is the midpoint of side $AB$. Let $\\alpha$ denote the measure of angle $ABC$, and $\\beta$ the measure of angle $ADC$ (see figure). Compute $\\dfrac{\\operatorname{tg}\\beta}{\\sin(2\\alpha)}$. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13.1",
@@ -211,7 +229,9 @@
    "difficulty": 5,
    "summary_pl": "Czworokąt $OBCD$ na wykresie $f$: max pole, znajdź $C$ (suma współrz.)",
    "summary_en": "Quadrilateral $OBCD$ on graph of $f$: max area, find $C$ (sum)",
-   "statement_en": "The function $f$ is given by the formula $f(x)=\\frac{12x-84}{x-8}$ for every $x\\in(-\\infty,8)$. In the Cartesian coordinate system $(x,y)$ we consider all quadrilaterals $OBCD$ in which: vertex $O$ has coordinates $(0,0)$; vertices $B$ and $D$ are the points where the graph of $f$ crosses the $Ox$ and $Oy$ axes respectively; vertex $C$ has both coordinates positive and lies on the graph of $f$ (see figure). The area $P$ of quadrilateral $OBCD$, as a function of the first coordinate $x$ of point $C$, is given by $P(x)=\\frac{21}{4}\\cdot\\frac{x^2-56}{x-8}$ for $x\\in(0,7)$. Compute the coordinates of vertex $C$ for which the area of quadrilateral $OBCD$ is greatest. Show your working."
+   "statement_en": "The function $f$ is given by the formula $f(x)=\\frac{12x-84}{x-8}$ for every $x\\in(-\\infty,8)$. In the Cartesian coordinate system $(x,y)$ we consider all quadrilaterals $OBCD$ in which: vertex $O$ has coordinates $(0,0)$; vertices $B$ and $D$ are the points where the graph of $f$ crosses the $Ox$ and $Oy$ axes respectively; vertex $C$ has both coordinates positive and lies on the graph of $f$ (see figure). The area $P$ of quadrilateral $OBCD$, as a function of the first coordinate $x$ of point $C$, is given by $P(x)=\\frac{21}{4}\\cdot\\frac{x^2-56}{x-8}$ for $x\\in(0,7)$. Compute the coordinates of vertex $C$ for which the area of quadrilateral $OBCD$ is greatest. Show your working.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

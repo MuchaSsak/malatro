@@ -34,7 +34,12 @@ export default function Shop() {
     >
       <div className="flex h-[330px] gap-5">
         <div className="flex w-[250px] flex-col gap-4">
-          <PixelButton tone="red" size="lg" className="h-[140px] text-[44px] leading-[0.95]" onClick={() => engine.leaveShop()}>
+          <PixelButton
+            tone="red"
+            size="lg"
+            className="h-[140px] text-[44px] leading-[0.95]"
+            onClick={() => engine.leaveShop()}
+          >
             <span className="text-center">
               <Trans>Next Round</Trans>
             </span>
@@ -51,7 +56,9 @@ export default function Shop() {
           </PixelButton>
         </div>
         <div className="flex flex-1 items-center justify-center gap-10 rounded-panel bg-inset-deep px-6">
-          {shop.items.map((item) => (item.isSold ? <div key={item.uid} className="w-[168px]" /> : <ShopCard key={item.uid} item={item} />))}
+          {shop.items.map((item) =>
+            item.isSold ? <div key={item.uid} className="w-[168px]" /> : <ShopCard key={item.uid} item={item} />,
+          )}
         </div>
       </div>
       <div className="mt-5 flex h-[330px] gap-5">

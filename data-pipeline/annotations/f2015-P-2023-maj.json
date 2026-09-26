@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\log_9 27+\\log_9 3$",
    "statement_en": "The number $\\log_9 27 + \\log_9 3$ equals\nA. 81  B. 9  C. 4  D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\sqrt[3]{-\\frac{27}{16}}\\cdot\\sqrt[3]{2}$",
    "statement_en": "The number $\\sqrt[3]{-\\frac{27}{16}}\\cdot\\sqrt[3]{2}$ equals\nA. $-\\frac32$  B. $\\frac32$  C. $\\frac23$  D. $-\\frac23$",
    "confidence": "high",
-   "notes": "text extraction of the radicals was garbled; verified against the crop image [verified: ok: cbrt(-27/16*2)=cbrt(-27/8)=-3/2; key version A = A (-3/2).]"
+   "notes": "text extraction of the radicals was garbled; verified against the crop image [verified: ok: cbrt(-27/16*2)=cbrt(-27/8)=-3/2; key version A = A (-3/2).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "After 15% then 20% discounts price is 340 PLN. Original price?",
    "statement_en": "The price of a camera was reduced by 15%, and then by 20% relative to the price at that time. After these two reductions the camera costs 340 PLN. Before both reductions the price of this camera was equal to\nA. 500 PLN  B. 425 PLN  C. 400 PLN  D. 375 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -91,11 +97,13 @@
    "topic_pl": "Równania iloczynowe",
    "topic_en": "Factored equations",
    "difficulty": 2,
-   "summary_pl": "Które z liczb spełnia $\\sqrt3(x^2-2)(x+3)=0$?",
-   "summary_en": "Which number solves $\\sqrt3(x^2-2)(x+3)=0$?",
+   "summary_pl": "Która z liczb A–D spełnia $\\sqrt3(x^2-2)(x+3)=0$?",
+   "summary_en": "Which option A–D solves $\\sqrt3(x^2-2)(x+3)=0$?",
    "statement_en": "One of the solutions of the equation $\\sqrt3(x^2-2)(x+3)=0$ is the number\nA. 3  B. 2  C. $\\sqrt3$  D. $\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -119,9 +127,11 @@
    "difficulty": 2,
    "summary_pl": "Miejsce zerowe $f(x)=(2p-1)x+p$ to $-4$. Oblicz $p$",
    "summary_en": "Zero of $f(x)=(2p-1)x+p$ is $-4$. Find $p$",
-   "statement_en": "The zero of the linear function $f(x)=(2p-1)x+p$ is the number $(-4)$. Then\nA. $p=\\frac49$  B. $p=\\frac47$  C. $p=-\\frac47$  D. $p=-\\frac49$",
+   "statement_en": "The zero of the linear function $f(x)=(2p-1)x+p$ is the number $(-4)$. Then\nA. $p=\\frac{4}{9}$  B. $p=\\frac{4}{7}$  C. $p=-4$  D. $p=-\\frac{4}{7}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -161,9 +171,11 @@
    "difficulty": 2,
    "summary_pl": "Z wykresu: największa wartość $f$ na $\\langle-4,1\\rangle$",
    "summary_en": "From the graph: greatest value of $f$ on $\\langle-4,1\\rangle$",
-   "statement_en": "[Figure: piecewise graph of y=f(x): a segment y=2 for x in [-6,-3); a line rising from (-1,-3) to (1,1); a line falling from (1,5) (open) to (5,3)] The greatest value of the function f on the interval $\\langle-4,1\\rangle$ equals\nA. 0  B. 1  C. 2  D. 5",
+   "statement_en": "In the coordinate system $(x,y)$ the graph of the function $y=f(x)$ is drawn (see figure). [Figure: $f(x)=2$ for $x\\in\\langle-6,-3)$ (closed at $-6$, open at $-3$); a segment from $(-3,-3)$ (closed) to $(1,1)$ (closed); from $(1,5)$ (open) horizontal to $(2,5)$, then a segment down to $(5,3)$ (closed).] The greatest value of the function $f$ on the interval $\\langle-4,1\\rangle$ equals\nA. $0$  B. $1$  C. $2$  D. $5$",
    "confidence": "high",
-   "notes": "shared graph for zad. 11-13 was not in the crop; rendered exam PDF page 10 directly to confirm the piecewise graph and verified max = 2 on [-4,1] [verified: ok: Crop includes graph. On [-4,1]: f=2 on [-4,-3), then linear -3..1; max 2. Key version A = C (2).]"
+   "notes": "shared graph for zad. 11-13 was not in the crop; rendered exam PDF page 10 directly to confirm the piecewise graph and verified max = 2 on [-4,1] [verified: ok: Crop includes graph. On [-4,1]: f=2 on [-4,-3), then linear -3..1; max 2. Key version A = C (2).]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "14",
@@ -181,7 +193,9 @@
    "summary_en": "One zero is $-5$, vertex has $x=3$. Find the other zero",
    "statement_en": "One of the zeros of the quadratic function f is the number $(-5)$. The first coordinate of the vertex of the parabola that is the graph of f equals 3. The other zero of f is the number\nA. 11  B. 1  C. $(-1)$  D. $(-13)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -199,7 +213,9 @@
    "summary_en": "Sequence $a_n=2^n\\cdot(n+1)$. Find $a_4$",
    "statement_en": "The sequence $(a_n)$ is defined by $a_n=2^n\\cdot(n+1)$ for every natural number $n\\ge1$. The term $a_4$ equals\nA. 64  B. 40  C. 48  D. 80",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -217,7 +233,9 @@
    "summary_en": "Sequence $(27,9,a-1)$ is geometric. Find $a$",
    "statement_en": "The three-term sequence $(27,9,a-1)$ is geometric. The number a equals\nA. 3  B. 0  C. 4  D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -233,9 +251,11 @@
    "difficulty": 2,
    "summary_pl": "Ramię kąta $\\alpha$ przechodzi przez $P=(-3,1)$. Oblicz $\\mathrm{tg}\\,\\alpha$",
    "summary_en": "Angle $\\alpha$'s arm passes through $P=(-3,1)$. Find $\\tan\\alpha$",
-   "statement_en": "[Figure: angle alpha with vertex O=(0,0), one arm on the positive x-axis, the other through P=(-3,1)] The tangent of angle alpha equals\nA. $\\frac{1}{\\sqrt{10}}$  B. $-\\frac{3}{\\sqrt{10}}$  C. $-3$  D. $-\\frac13$",
+   "statement_en": "In the coordinate system an angle $\\alpha$ with vertex at $O=(0,0)$ is marked. One arm of the angle lies on the positive half-axis $Ox$, and the other passes through the point $P=(-3,1)$ (see figure). The tangent of angle $\\alpha$ equals\nA. $\\frac{1}{\\sqrt{10}}$  B. $\\left(-\\frac{3}{\\sqrt{10}}\\right)$  C. $\\left(-\\frac{3}{1}\\right)$  D. $\\left(-\\frac{1}{3}\\right)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -261,7 +281,9 @@
    "summary_en": "Angle $ACO=70°$ (points on a circle). Find acute angle $ABC$",
    "statement_en": "[Figure: points A, B, C on a circle with center O; angle ACO = 70 deg] The acute angle ABC has measure\nA. 10°  B. 20°  C. 35°  D. 40°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -279,7 +301,9 @@
    "summary_en": "Rhombus: side $6\\sqrt2$, obtuse angle $150°$. Product of diagonals?",
    "statement_en": "In a rhombus with side length $6\\sqrt2$ the obtuse angle has measure 150 deg. The product of the diagonals of this rhombus equals\nA. 24  B. 72  C. 36  D. $36\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -297,7 +321,9 @@
    "summary_en": "Tangents from C to a circle, central angle $140°$. Find angle ACB",
    "statement_en": "[Figure: tangent lines to a circle with center O through points A and B meet at C; angle AOB = 140 deg] The measure of angle ACB equals\nA. 20°  B. 35°  C. 40°  D. 70°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "22",
@@ -315,7 +341,9 @@
    "summary_en": "Triangle: $|BC|=6$, angle $ACB=150°$. Find the height from B",
    "statement_en": "[Figure: triangle ABC with |BC|=6, angle ACB = 150 deg] The height of triangle ABC dropped from vertex B equals\nA. 3  B. 4  C. $3\\sqrt3$  D. $4\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -329,11 +357,13 @@
    "topic_pl": "Prosta równoległa",
    "topic_en": "Parallel line",
    "difficulty": 2,
-   "summary_pl": "Prosta równol. do $y=-\\frac13x+2$ przez $(3,5)$: $a+b$? (a + b)",
-   "summary_en": "Line parallel to $y=-\\frac13x+2$ through $(3,5)$: $a+b$? (a + b)",
+   "summary_pl": "Prosta równoległa do $y=-\\frac13x+2$ przez $(3,5)$. Podaj $a+b$",
+   "summary_en": "Line parallel to $y=-\\frac13x+2$ through $(3,5)$. Give $a+b$",
    "statement_en": "The line k has equation $y=-\\frac13x+2$. The line with equation $y=ax+b$ is parallel to line k and passes through point P=(3,5) when\nA. $a=3$ and $b=4$  B. $a=-\\frac13$ and $b=4$  C. $a=3$ and $b=-4$  D. $a=-\\frac13$ and $b=6$",
    "confidence": "high",
-   "notes": "closed option gives a pair (a,b); summed per sum-of-parameters rule"
+   "notes": "closed option gives a pair (a,b); summed per sum-of-parameters rule",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -351,7 +381,9 @@
    "summary_en": "$S=(5,3)$ is midpoint of KL, $K=(-3,-7)$. Find $x_L+y_L$ (x + y)",
    "statement_en": "Points K=(-3,-7) and S=(5,3) are given. Point S is the midpoint of segment KL. Then point L has coordinates\nA. $(13,10)$  B. $(13,13)$  C. $(1,-2)$  D. $(7,-1)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -377,7 +409,9 @@
    "summary_en": "Prism: base edge 15, $\\cos\\alpha=\\frac{\\sqrt2}{3}$. Find the diagonal",
    "statement_en": "A regular quadrilateral prism has a base edge of length 15. The diagonal of the prism is inclined to the base plane at an angle alpha such that $\\cos\\alpha=\\frac{\\sqrt2}{3}$. The length of the prism's diagonal equals\nA. $15\\sqrt2$  B. 45  C. $5\\sqrt2$  D. 10",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -395,7 +429,9 @@
    "summary_en": "Mean of x,y,z is 4. Find mean of $1{+}x,2{+}y,3{+}z,14$",
    "statement_en": "The arithmetic mean of numbers x,y,z equals 4. The arithmetic mean of the four numbers $1+x, 2+y, 3+z, 14$ equals\nA. 6  B. 9  C. 8  D. 13",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -413,7 +449,9 @@
    "summary_en": "How many 5-digit numbers use only digits 0,5,7?",
    "statement_en": "The number of all 5-digit natural numbers whose decimal representation uses only the digits 0,5,7 (e.g. 57075, 55555) equals\nA. $5^3$  B. $2\\cdot4^3$  C. $2\\cdot3^4$  D. $3^5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -447,7 +485,9 @@
    "summary_en": "18 decreasing installments (diff. 30 PLN), sum 8910 PLN. First one?",
    "statement_en": "Mr Stanislaw paid off a loan of 8910 PLN in eighteen installments. Each successive installment was smaller than the previous one by 30 PLN. Calculate the amount of the first installment.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -473,7 +513,9 @@
    "summary_en": "$T_1$: legs 5,12. Similar $T_2$, hypotenuse 26. Area of $T_2$?",
    "statement_en": "Right triangles $T_1$ and $T_2$ are similar. The legs of triangle $T_1$ have lengths 5 and 12. The hypotenuse of triangle $T_2$ has length 26. Calculate the area of triangle $T_2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -499,7 +541,9 @@
    "summary_en": "Drawing with replacement from $\\{2,...,9\\}$: $P$(product div. by 15)",
    "statement_en": "From the set of eight numbers $\\{2,3,4,5,6,7,8,9\\}$ two numbers are drawn with replacement, one at a time. Calculate the probability of event A: the product of the drawn numbers is divisible by 15.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "36",
@@ -517,7 +561,9 @@
    "summary_en": "Prism ABCDEF: find total surface area and volume (P + V)",
    "statement_en": "[Figure: right prism ABCDEF with isosceles triangular base ABC] The base of the right prism ABCDEF is an isosceles triangle ABC with |AC|=|BC|, |AB|=8. The height of triangle ABC from vertex C has length 3. The diagonal CE of the lateral face forms a 60 deg angle with base edge CB. Calculate the total surface area and the volume of this prism.",
    "confidence": "high",
-   "notes": "value is the sum of surface area (24+90sqrt3) and volume (60sqrt3) per the sum-of-numeric-parts rule"
+   "notes": "value is the sum of surface area (24+90sqrt3) and volume (60sqrt3) per the sum-of-numeric-parts rule",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

@@ -12,6 +12,37 @@ export function makePool(tasks: TaskRecord[]): TaskPool {
   return { all: tasks, byId: new Map(tasks.map((t) => [t.id, t])) };
 }
 
+/** Weight multiplier for tasks never met before, in runs started with "prefer new tasks". */
+export const NEW_TASK_BOOST = 5;
+
+/** Compact set of task ids: one bit per pool entry, base64 (a few hundred chars for the whole pool). */
+export function encodeTaskSet(pool: TaskPool, ids: Set<string>): string {
+  const bytes = new Uint8Array(Math.ceil(pool.all.length / 8));
+  pool.all.forEach((t, i) => {
+    if (ids.has(t.id)) bytes[i >> 3] |= 1 << (i & 7);
+  });
+  return btoa(String.fromCharCode(...bytes));
+}
+
+const decoded = new Map<string, Set<string>>();
+
+export function decodeTaskSet(pool: TaskPool, encoded: string): Set<string> {
+  let set = decoded.get(encoded);
+  if (!set) {
+    set = new Set();
+    try {
+      const raw = atob(encoded);
+      pool.all.forEach((t, i) => {
+        if ((raw.charCodeAt(i >> 3) >> (i & 7)) & 1) set!.add(t.id);
+      });
+    } catch {
+      // a corrupt bitset just means no preference
+    }
+    decoded.set(encoded, set);
+  }
+  return set;
+}
+
 /** Which tasks a difficulty mode may deal, with sampling weights. [user] */
 export function modeWeight(mode: DifficultyMode, t: TaskRecord, isHard = false): number {
   if (mode === "trywialne") {
@@ -68,8 +99,11 @@ export function sampleTasks(
     .sort((a, b) => (run.seen[a.id] ?? 0) - (run.seen[b.id] ?? 0));
   const out: TaskRecord[] = [];
   const taken = new Set<string>();
+  const met = run.avoid ? decodeTaskSet(pool, run.avoid) : null;
   const weightOf = (t: TaskRecord) =>
-    modeWeight(run.difficulty, t, filter.isHard) * (t.level === "P" ? share.P / nP : share.R / nR);
+    modeWeight(run.difficulty, t, filter.isHard) *
+    (t.level === "P" ? share.P / nP : share.R / nR) *
+    (met && !met.has(t.id) ? NEW_TASK_BOOST : 1);
   let source = fresh;
   while (out.length < count) {
     const avail = source.filter((t) => !taken.has(t.id));

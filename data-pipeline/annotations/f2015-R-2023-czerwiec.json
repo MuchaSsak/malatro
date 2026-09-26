@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\log_{\\sqrt2}3\\cdot\\log_{\\sqrt3}2$",
    "statement_en": "The value of the expression $\\log_{\\sqrt2}3\\cdot\\log_{\\sqrt3}2$ equals\nA. $\\frac14$  B. $3^2$  C. $2^3$  D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Triangle with sides 4,5,6. Cosine of the largest angle?",
    "statement_en": "A triangle has sides of length 4, 5 and 6. The cosine of the largest interior angle of this triangle equals\nA. $\\frac18$  B. $\\frac{9}{16}$  C. $\\frac34$  D. $-\\frac34$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Remainder of $W(x)=5x^3-3x^2+2x-7$ divided by $x+2$",
    "statement_en": "The remainder of dividing the polynomial $W(x)=5x^3-3x^2+2x-7$ by the binomial $x+2$ equals\nA. $(-63)$  B. $(-39)$  C. 25  D. 41",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -79,7 +85,9 @@
    "summary_en": "Compute $\\lim_{n\\to\\infty}\\frac{4n^3-2n+1}{3n^3-n^2-2n+3}$",
    "statement_en": "Compute the limit $\\lim_{n\\to\\infty}\\frac{4n^3-2n+1}{3n^3-n^2-2n+3}$. In the boxes below, enter from left to right the first, second and third digit of the infinite decimal expansion of the result obtained.",
    "confidence": "high",
-   "notes": "coded-answer task; the recorded digits 1,3,3 correspond to the value 4/3"
+   "notes": "coded-answer task; the recorded digits 1,3,3 correspond to the value 4/3",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -97,7 +105,9 @@
    "summary_en": "$P=(x_0,18)$ on the graph of $f(x)=2x^3-4x^2+9x$. Find $x_0$",
    "statement_en": "The function f is given by $f(x)=2x^3-4x^2+9x$ for every real x. The point $P=(x_0,18)$ belongs to the graph of f. Calculate $x_0$ and find the equation of the tangent line to the graph of f at point P.",
    "confidence": "high",
-   "notes": "task also asks for the tangent line equation y=17x-16, which is symbolic; only the numeric part x0 is used as value"
+   "notes": "task also asks for the tangent line equation y=17x-16, which is symbolic; only the numeric part x0 is used as value",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -131,7 +141,9 @@
    "summary_en": "Series sum $2x-\\frac{6x}{x-1}+\\frac{18x}{(x-1)^2}-...=\\frac{15}{2}$. Find $x$",
    "statement_en": "Given is the infinite geometric series $2x-\\frac{6x}{x-1}+\\frac{18x}{(x-1)^2}-\\frac{54x}{(x-1)^3}+\\ldots$. Determine all values of the variable x (different from 0 and 1) for which the sum of this series exists and equals $\\frac{15}{2}$.",
    "confidence": "high",
-   "notes": "only x=6 lies in the convergence domain; the other algebraic root x=-5/4 is rejected"
+   "notes": "only x=6 lies in the convergence domain; the other algebraic root x=-5/4 is rejected",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -149,7 +161,9 @@
    "summary_en": "Solve $\\sin5x+\\cos x=0$ on $\\langle-\\frac\\pi2,\\frac\\pi2\\rangle$ (sum of solutions)",
    "statement_en": "Solve the equation $\\sin(5x)+\\cos x=0$ in the set $\\langle-\\frac{\\pi}{2},\\frac{\\pi}{2}\\rangle$.",
    "confidence": "high",
-   "notes": "five solutions sum exactly to 0 (verified by direct summation)"
+   "notes": "five solutions sum exactly to 0 (verified by direct summation)",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +181,9 @@
    "summary_en": "Drawing balls, $P$(white after swap)$=\\frac{37}{50}$. Find $n$",
    "statement_en": "A box contains n balls ($n\\ge3$), exactly 2 of which are black and the rest white. One ball is drawn from the box and set aside. If the drawn ball is white, a black ball is put into the box; if it is black, a white ball is put into the box. After this change, the probability of drawing a white ball from the box equals $\\frac{37}{50}$. Calculate n.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -193,7 +209,9 @@
    "summary_en": "Cyclic quadrilateral, r=4, angles BAD, BCD right (sum of sides)",
    "statement_en": "The convex quadrilateral ABCD is inscribed in a circle of radius 4. Angles BAD and BCD are right angles. The diagonals AC and BD of this quadrilateral intersect at point E such that $|BE|=3\\cdot|DE|$ and $|BD|=2\\cdot|AE|$. Calculate the side lengths of quadrilateral ABCD.",
    "confidence": "high",
-   "notes": "sum of the four side lengths AB+BC+CD+AD"
+   "notes": "sum of the four side lengths AB+BC+CD+AD",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -219,7 +237,9 @@
    "summary_en": "Circles $o_1,o_2$: $K$ on the axis of symmetry, $P_{MNK}=40$ (sum of both $K$'s coordinates)",
    "statement_en": "Circle $o_1$ with center $S_1$ is given by the equation $(x-6)^2+(y+1)^2=16$. Circle $o_2$ has center $S_2$ such that $\\vec{S_1S_2}=[-4,4]$. The radii of these circles are equal. Figure F consists of the two circles $o_1$ and $o_2$. Points M and N are the intersection points of figure F with the axis of symmetry that has a positive slope. Determine point K lying on one of the axes of symmetry of figure F such that the area of triangle MNK equals 40.",
    "confidence": "high",
-   "notes": "two valid points K1, K2; value is the sum of all four coordinates [verified: ok: S2=(2,3); axis y=x-3 gives M=(2,-1), N=(6,3); K on y=-x+5, 2|2x-8|=40 -> K=(-6,11),(14,-9). Sum 10. Each K alone sums to 5, so hint must say both.]"
+   "notes": "two valid points K1, K2; value is the sum of all four coordinates [verified: ok: S2=(2,3); axis y=x-3 gives M=(2,-1), N=(6,3); K on y=-x+5, 2|2x-8|=40 -> K=(-6,11),(14,-9). Sum 10. Each K alone sums to 5, so hint must say both.]",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

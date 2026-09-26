@@ -12,12 +12,17 @@ export type Settings = {
   graphics: GraphicsQuality;
   isPixelCursor: boolean;
   hasSeenTutorial: boolean;
+  /** new runs deal tasks never met before more often */
+  isPreferNew: boolean;
+  /** testing cheat panel (unlocked by tapping the blind chip 10 times) */
+  isCheats: boolean;
 };
 
 const KEY = "malatro_settings_v1";
 
 export const DEFAULT_SETTINGS: Settings = {
-  locale: "pl",
+  // English first; picking Polish is remembered with the other settings [user]
+  locale: "en",
   musicVolume: 0.35,
   sfxVolume: 0.7,
   speed: 1,
@@ -26,6 +31,8 @@ export const DEFAULT_SETTINGS: Settings = {
   graphics: "high",
   isPixelCursor: true,
   hasSeenTutorial: false,
+  isPreferNew: true,
+  isCheats: false,
 };
 
 export function loadSettings(): Settings {

@@ -10,14 +10,16 @@
    "value_tex": "2",
    "answer_tex": "x_1=-2,\\ x_2=4",
    "category": "funkcje",
-   "topic_pl": "Funkcja kwadratowa - postac kanoniczna",
+   "topic_pl": "Funkcja kwadratowa - postać kanoniczna",
    "topic_en": "Quadratic function - canonical form",
    "difficulty": 3,
    "summary_pl": "Wzor paraboli (wierzcholek $(1,-9)$, przez $(2,-8)$); suma miejsc zerowych",
    "summary_en": "Parabola formula (vertex $(1,-9)$, through $(2,-8)$); sum of zeros",
    "statement_en": "Find the formula of the quadratic function $y=f(x)$ whose graph is a parabola with vertex $(1,-9)$ passing through the point with coordinates $(2,-8)$. Present the obtained function in canonical form. Calculate its zeros and sketch its graph.",
    "confidence": "high",
-   "notes": "sum = sum of the two zeros of f (the canonical formula and the sketch are not numeric)"
+   "notes": "sum = sum of the two zeros of f (the canonical formula and the sketch are not numeric)",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Client's profit from selling shares (brokerage commission included)",
    "statement_en": "The brokerage commission a client pays for each purchase or sale transaction of shares depends on the transaction value, as shown in the table: up to 500 PLN - 15 PLN; 500.01-3000 PLN - 2% of value + 5 PLN; 3000.01-8000 PLN - 1.5% of value + 20 PLN; 8000.01-15000 PLN - 1% of value + 60 PLN; above 15000 PLN - 0.7% of value + 105 PLN. The client bought 530 shares at 25 PLN each through this brokerage. A year later he sold all the shares at 45 PLN each. Calculate how much he earned on these transactions after accounting for the commissions paid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "3",
@@ -46,14 +50,16 @@
    "value_tex": "-\\frac{133}{45}",
    "answer_tex": "-\\frac{133}{45}",
    "category": "trygonometria",
-   "topic_pl": "Funkcje trygonometryczne w trojkacie",
+   "topic_pl": "Funkcje trygonometryczne w trójkącie",
    "topic_en": "Trigonometric functions in a triangle",
    "difficulty": 3,
    "summary_pl": "Oblicz $tg^2\\beta-5\\sin\\beta\\cdot ctg\\alpha+\\sqrt{1-\\cos^2\\alpha}$ (trójkąt 8,6)",
    "summary_en": "Compute $tg^2\\beta-5\\sin\\beta\\cdot ctg\\alpha+\\sqrt{1-\\cos^2\\alpha}$ (triangle 8,6)",
    "statement_en": "Using the data shown in the figure (a triangle ABC with a right angle at C, side AC=8, side CB=6, angle alpha at vertex A, angle beta at vertex B), calculate the value of the expression $tg^2\\beta-5\\sin\\beta\\cdot ctg\\alpha+\\sqrt{1-\\cos^2\\alpha}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "4",
@@ -64,14 +70,16 @@
    "value_tex": "60",
    "answer_tex": "v=60\\text{ km/h}",
    "category": "rownania",
-   "topic_pl": "Zadanie tekstowe - predkosc",
+   "topic_pl": "Zadanie tekstowe - prędkość",
    "topic_en": "Word problem - speed",
    "difficulty": 3,
    "summary_pl": "Predkosc auta: 210km, +10km/h skraca czas o 0,5h",
    "summary_en": "Car's speed: 210km, +10km/h shortens time by 0.5h",
    "statement_en": "A car covered 210 km in a certain time. If it had traveled at an average speed 10 km/h greater, the travel time would have been shorter by half an hour. Calculate the average speed at which the car traveled.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -82,14 +90,16 @@
    "value_tex": "-3993",
    "answer_tex": "a_{2007}=-4000,\\ n=7",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny - suma wyrazow",
+   "topic_pl": "Ciąg arytmetyczny - suma wyrazów",
    "topic_en": "Arithmetic sequence - sum of terms",
    "difficulty": 3,
-   "summary_pl": "Ciąg arytm.: $S_n=-n^2+13n$. a) wzór $a_n$ b) $a_{2007}$ c) $n$ dla $a_n=0$ (b+c)",
-   "summary_en": "Arithmetic seq.: $S_n=-n^2+13n$. a) formula for $a_n$ b) $a_{2007}$ c) $n$ for $a_n=0$ (b+c)",
+   "summary_pl": "$S_n=-n^2+13n$; suma $a_{2007}$ i $n$, dla którego $a_n=0$",
+   "summary_en": "$S_n=-n^2+13n$; sum of $a_{2007}$ and $n$ such that $a_n=0$",
    "statement_en": "Given an arithmetic sequence $(a_n)$ for $n\\ge1$. It is known that for every $n\\ge1$ the sum of the first $n$ terms $S_n=a_1+a_2+\\dots+a_n$ is given by the formula $S_n=-n^2+13n$. a) Find the formula for the $n$-th term of the sequence $(a_n)$. b) Compute $a_{2007}$. c) Find the number $n$ for which $a_n=0$.",
    "confidence": "high",
-   "notes": "sum = a_2007 (part b) + n from part c); part a's formula is symbolic and not summed"
+   "notes": "sum = a_2007 (part b) + n from part c); part a's formula is symbolic and not summed",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -100,14 +110,16 @@
    "value_tex": "12",
    "answer_tex": "x\\in\\{0,\\sqrt7,-\\sqrt7\\},\\ a=0,\\ b=12",
    "category": "wyrazenia",
-   "topic_pl": "Wielomian - pierwiastki i podzielnosc",
+   "topic_pl": "Wielomian - pierwiastki i podzielność",
    "topic_en": "Polynomial - roots and divisibility",
    "difficulty": 3,
-   "summary_pl": "$W(x)=2x^3+ax^2-14x+b$: a) rozw. równanie (a=b=0) b) dobierz a,b (podz. przez x-2,x+3)",
-   "summary_en": "$W(x)=2x^3+ax^2-14x+b$: a) solve equation (a=b=0) b) find a,b (divisible by x-2, x+3)",
+   "summary_pl": "Suma rozw. $2x^3-14x=0$ oraz $a+b$ ($W$ podzielny przez $x-2$, $x+3$)",
+   "summary_en": "Sum of roots of $2x^3-14x=0$ plus $a+b$ ($x-2$, $x+3$ divide $W$)",
    "statement_en": "The polynomial $W(x)=2x^3+ax^2-14x+b$ is given. a) For $a=0$ and $b=0$ we obtain the polynomial $W(x)=2x^3-14x$. Solve the equation $2x^3-14x=0$. b) Choose the values of $a$ and $b$ so that the polynomial $W(x)$ is simultaneously divisible by $x-2$ and by $x+3$.",
    "confidence": "high",
-   "notes": "sum = all roots from part a (0, sqrt7, -sqrt7, which cancel to 0) plus a and b from part b (0+12); irrational roots cancel exactly"
+   "notes": "sum = all roots from part a (0, sqrt7, -sqrt7, which cancel to 0) plus a and b from part b (0+12); irrational roots cancel exactly",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -125,7 +137,9 @@
    "summary_en": "Find B, where $C=(2,3)$, perpendicular bisector of BC: $y=2x-8$ (sum of B's coordinates)",
    "statement_en": "Given the point $C=(2,3)$ and the line with equation $y=2x-8$, which is the perpendicular bisector of segment BC. Find the coordinates of point B. Show the calculations justifying your answer.",
    "confidence": "high",
-   "notes": "sum = x_B + y_B"
+   "notes": "sum = x_B + y_B",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -136,14 +150,16 @@
    "value_tex": "\\frac{30}{143}",
    "answer_tex": "\\frac{30}{143}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 3,
    "summary_pl": "P(dokladnie 130 zl na podlodze z 5 z 14 banknotow)",
    "summary_en": "P(exactly 130 PLN on the floor from 5 of 14 banknotes)",
    "statement_en": "There were 14 banknotes on a table: 2 banknotes of 100 PLN, 2 banknotes of 50 PLN and 10 banknotes of 20 PLN. The wind blew 5 banknotes onto the floor. Calculate the probability that exactly 130 PLN is lying on the floor. Give the answer as an irreducible fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -154,14 +170,16 @@
    "value_tex": "\\frac{9}{2}+3\\sqrt3",
    "answer_tex": "\\frac{9}{2}+3\\sqrt3",
    "category": "planimetria",
-   "topic_pl": "Czworokat wypukly",
+   "topic_pl": "Czworokąt wypukły",
    "topic_en": "Convex quadrilateral",
    "difficulty": 3,
    "summary_pl": "Pole czworokata wypuklego ABCD (katy 90,75,60,135; AB=AD=3)",
    "summary_en": "Area of convex quadrilateral ABCD (angles 90,75,60,135; AB=AD=3)",
    "statement_en": "Calculate the area of the convex quadrilateral $ABCD$ in which the interior angles measure respectively: $\\angle A=90^\\circ$, $\\angle B=75^\\circ$, $\\angle C=60^\\circ$, $\\angle D=135^\\circ$, and sides $AB$ and $AD$ have length 3 cm. Draw an auxiliary sketch.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -172,14 +190,16 @@
    "value_tex": "768\\sqrt3",
    "answer_tex": "768\\sqrt3",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup - romb w podstawie",
+   "topic_pl": "Graniastosłup - romb w podstawie",
    "topic_en": "Prism - rhombus base",
    "difficulty": 3,
    "summary_pl": "Objętość graniastosłupa (romb 8, kąt 60, przekątna CE nachylona 60)",
    "summary_en": "Volume of prism (rhombus base 8, angle 60, diagonal CE inclined 60)",
    "statement_en": "Given a right quadrilateral prism $ABCDEFGH$ with bases $ABCD$ and $EFGH$ and lateral edges $AE, BF, CG, DH$. The base $ABCD$ of the prism is a rhombus with side length 8 cm and acute angles $A$ and $C$ measuring $60^\\circ$. The space diagonal $CE$ of the prism is inclined to the base plane at an angle of $60^\\circ$. Draw an auxiliary sketch marking the angles mentioned in the problem. Calculate the volume of this prism.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",

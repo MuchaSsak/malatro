@@ -17,7 +17,9 @@
    "summary_en": "Compute $(\\log_{1/x}y)\\cdot(\\log_{1/y}x)$",
    "statement_en": "For any numbers $x>0$, $x\\ne1$, $y>0$, $y\\ne1$, the value of the expression $\\left(\\log_{\\frac1x}y\\right)\\cdot\\left(\\log_{\\frac1y}x\\right)$ equals: A. $x\\cdot y$ B. $\\frac{1}{x\\cdot y}$ C. $-1$ D. $1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\cos^2105°-\\sin^2105°$",
    "statement_en": "The number $\\cos^2105°-\\sin^2105°$ equals: A. $-\\frac{\\sqrt3}{2}$ B. $-\\frac12$ C. $\\frac12$ D. $\\frac{\\sqrt3}{2}$",
    "confidence": "high",
-   "notes": " [verified: ok: cos^2 105 - sin^2 105 = cos 210 = -sqrt3/2, option A; key A.]"
+   "notes": " [verified: ok: cos^2 105 - sin^2 105 = cos 210 = -sqrt3/2, option A; key A.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -61,7 +65,9 @@
    "summary_en": "$P(B')=\\frac14$, $P(A|B)=\\frac15$. Find $P(A\\cap B)$",
    "statement_en": "Random events $A$ and $B$ contained in $\\Omega$ are such that the probability $P(B')$ of the event $B'$, complementary to event $B$, equals $\\frac14$. Moreover, the conditional probability $P(A|B)=\\frac15$. It follows that: A. $P(A\\cap B)=\\frac{1}{20}$ B. $P(A\\cap B)=\\frac{4}{15}$ C. $P(A\\cap B)=\\frac{3}{20}$ D. $P(A\\cap B)=\\frac{4}{5}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -79,7 +85,9 @@
    "summary_en": "Compute the limit of a sequence (polynomial fractions)",
    "statement_en": "Compute the limit $\\displaystyle\\lim_{n\\to\\infty}\\left(\\frac{9n^3+11n^2}{7n^3+5n^2+3n+1}-\\frac{n^2}{3n^2+1}\\right)$. Enter, from left to right, the three consecutive digits after the decimal point of the resulting decimal expansion.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -97,7 +105,9 @@
    "summary_en": "Sum of all 5-digit numbers using digits 1,3,5,7,9",
    "statement_en": "Consider all five-digit natural numbers written using the digits 1, 3, 5, 7, 9, without repeating any digit. Compute the sum of all such numbers.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -111,11 +121,13 @@
    "topic_pl": "Styczna do paraboli",
    "topic_en": "Tangent to a parabola",
    "difficulty": 3,
-   "summary_pl": "Styczna do $y=x^2+x+2219$ w $P=(10,2429)$. Oblicz $b$",
-   "summary_en": "Tangent to $y=x^2+x+2219$ at $P=(10,2429)$. Find $b$",
-   "statement_en": "Point $P=(10,2429)$ lies on the parabola with equation $y=x^2+x+2219$. The line with slope-intercept equation $y=ax+b$ is tangent to this parabola at point $P$. Compute the coefficient $b$.",
+   "summary_pl": "Styczna do $y=2x^2+x+2219$ w $P=(10,2429)$. Oblicz $b$",
+   "summary_en": "Tangent to $y=2x^2+x+2219$ at $P=(10,2429)$. Find $b$",
+   "statement_en": "Point $P=(10,2429)$ lies on the parabola with equation $y=2x^2+x+2219$. The line with slope-intercept equation $y=ax+b$ is tangent to this parabola at point $P$. Compute the coefficient $b$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -149,7 +161,9 @@
    "summary_en": "Triangle: AC=16, AD=6, CD=14, BC=BD. Perimeter?",
    "statement_en": "Point $D$ lies on side $AB$ of triangle $ABC$, and $|AC|=16$, $|AD|=6$, $|CD|=14$, and $|BC|=|BD|$. Compute the perimeter of triangle $ABC$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +181,9 @@
    "summary_en": "Circles with parameter a: exactly one common point (sum of a-values)",
    "statement_en": "Given are the circles with equations $x^2+y^2-12x-8y+43=0$ and $x^2+y^2-2ax+4y+a^2-77=0$. Find all values of the parameter $a$ for which these circles have exactly one common point. Consider all cases.",
    "confidence": "high",
-   "notes": "Three values: a=6 (internal tangency), a=6±6√3 (external tangency); sum=18, per the 'several parameter values' sum rule."
+   "notes": "Three values: a=6 (internal tangency), a=6±6√3 (external tangency); sum=18, per the 'several parameter values' sum rule.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -185,7 +201,9 @@
    "summary_en": "Arith. seq a,b,c; sequence $\\left(\\frac1a,\\frac{2}{3b},\\frac1{2a+2b+c}\\right)$ is geometric. Find ratio",
    "statement_en": "The three-term sequence $(a, b, c)$ with positive terms is arithmetic, while the sequence $\\left(\\frac{1}{a}, \\frac{2}{3b}, \\frac{1}{2a+2b+c}\\right)$ is geometric. Compute the ratio of the geometric sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -203,7 +221,9 @@
    "summary_en": "Polynomial W(x): divisible by (x-2), remainder 6 by (x+1). Find m",
    "statement_en": "The polynomial given by the formula $W(x)=2x^3+(m^3+2)x^2-11x-2(2m+1)$ is divisible by the binomial $(x-2)$, and when divided by the binomial $(x+1)$ leaves a remainder of 6. Compute $m$, and for the value of $m$ found, solve the inequality $W(x)\\le0$.",
    "confidence": "high",
-   "notes": "Only m=1 is used as value; the inequality solution set (-∞,-3]∪[-1/2,2] is symbolic/interval and excluded from the sum, per the multi-part numeric-sum rule."
+   "notes": "Only m=1 is used as value; the inequality solution set (-∞,-3]∪[-1/2,2] is symbolic/interval and excluded from the sum, per the multi-part numeric-sum rule.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -225,11 +245,13 @@
    "topic_pl": "Optymalizacja graniastosłupa",
    "topic_en": "Optimizing a prism",
    "difficulty": 5,
-   "summary_pl": "Graniastosłup trójk., $V=2$: min. pole (suma: krawędzie+pole)",
-   "summary_en": "Triangular prism, V=2: minimal surface area (sum: edges+area)",
+   "summary_pl": "Graniast. trójk. $V=2$: suma kraw. podstawy, kraw. bocznej i min. pola",
+   "summary_en": "Triangular prism $V=2$: sum of base edge, lateral edge and min. area",
    "statement_en": "Consider all regular triangular prisms with volume $V=2$. Find the edge lengths of the one among these prisms whose total surface area is smallest. Compute this smallest area.",
    "confidence": "high",
-   "notes": "Summed parts: base edge a=2, height h=2√3/3, and minimal total area P=6√3 (=2+20√3/3), analogous to the prior exam's task-15 sum rule for mixed side-length/area requests."
+   "notes": "Summed parts: base edge a=2, height h=2√3/3, and minimal total area P=6√3 (=2+20√3/3), analogous to the prior exam's task-15 sum rule for mixed side-length/area requests.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

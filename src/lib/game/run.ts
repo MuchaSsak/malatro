@@ -70,7 +70,9 @@ export type Fx =
   | { kind: "joker"; jokerUid: string; text: L10n }
   | { kind: "money"; amount: number }
   | { kind: "levelup"; hand: HandTypeId; level: number }
-  | { kind: "sound"; name: string };
+  | { kind: "sound"; name: string }
+  /** answered cards for the long-term progress store (values already revealed don't count) */
+  | { kind: "attempts"; results: { taskId: string; isCorrect: boolean }[] };
 
 export class RuleError extends Error {
   constructor(public readonly text: L10n) {
@@ -151,7 +153,7 @@ export function consumableSellValue(): number {
 
 /** Run creation */
 
-export function createRun(difficulty: DifficultyMode, seed: string, now: number): RunState {
+export function createRun(difficulty: DifficultyMode, seed: string, now: number, avoid?: string): RunState {
   const rng = Rng.fromSeed(seed);
   const run: RunState = {
     version: 1,
@@ -189,6 +191,7 @@ export function createRun(difficulty: DifficultyMode, seed: string, now: number)
       bossesBeaten: 0,
       moneyEarned: 0,
       playTimeMs: 0,
+      answeredNotes: 0,
     },
     notes: {},
     known: {},
@@ -200,6 +203,7 @@ export function createRun(difficulty: DifficultyMode, seed: string, now: number)
     createdAt: now,
     updatedAt: now,
     lostTo: null,
+    ...(avoid ? { avoid } : {}),
   };
   const r = new Rng(run.rng);
   planAnte(run, r);
@@ -431,6 +435,10 @@ export function playHand(run: RunState, ctx: Ctx) {
   const played = round.selected.map((u) => round.hand.find((c) => c.uid === u)!);
   // face-down cards are revealed when played (and exempt from the answer requirement)
   const faceDownUids = played.filter((c) => c.isFaceDown).map((c) => c.uid);
+  // a card whose value the player could already see is not a real attempt at the task
+  const revealedIds = new Set(
+    played.filter((c) => c.reveal === "value" || run.known[c.taskId] === "value").map((c) => c.taskId),
+  );
   for (const c of played) c.isFaceDown = false;
   const boss = activeBoss(run, round);
   if (boss?.kind === "resit" && run.jokers.length) {
@@ -438,6 +446,7 @@ export function playHand(run: RunState, ctx: Ctx) {
     ctx.rng.pick(run.jokers).isDisabled = true;
   }
   const result = scoreHand({ run, round, played, pool: ctx.pool, rng: ctx.rng, faceDownUids });
+  ctx.fx({ kind: "attempts", results: result.noteResults.filter((r) => !revealedIds.has(r.taskId)) });
   round.pending = { played, result };
   round.hand = round.hand.filter((c) => !played.some((p) => p.uid === c.uid));
   round.selected = [];
@@ -458,6 +467,7 @@ export function resolvePlay(run: RunState, ctx: Ctx) {
   run.stats.handsPlayed += 1;
   run.stats.cardsPlayed += played.length;
   run.stats.correctNotes += result.correctNotes;
+  run.stats.answeredNotes = (run.stats.answeredNotes ?? 0) + result.noteResults.length;
   run.stats.bestHand = Math.max(run.stats.bestHand, result.total);
   run.stats.totalScore += result.total;
   for (const c of played) {
@@ -576,6 +586,29 @@ function winRound(run: RunState, ctx: Ctx) {
     run.blindIndex = (run.blindIndex + 1) as 0 | 1 | 2;
   }
   ctx.fx({ kind: "sound", name: "win" });
+}
+
+/** Cheats (testing panel, unlocked by tapping the blind chip). Any use marks the run. */
+
+export type CheatKind = "money5" | "money50" | "mult" | "hand" | "discard" | "reveal" | "win";
+
+export function cheat(run: RunState, ctx: Ctx, kind: CheatKind) {
+  const round = run.round;
+  const isInRound = run.phase === "round" && !!round && !round.pending;
+  if (["hand", "discard", "reveal", "win"].includes(kind) && !isInRound)
+    fail("Tylko w trakcie rundy", "Only during a round");
+  run.isCheated = true;
+  if (kind === "money5") run.money += 5;
+  else if (kind === "money50") run.money += 50;
+  else if (kind === "mult") run.cheatMult = (run.cheatMult ?? 1) * 10;
+  else if (kind === "hand") round!.handsLeft += 1;
+  else if (kind === "discard") round!.discardsLeft += 1;
+  else if (kind === "reveal") for (const c of round!.hand) c.reveal = "value";
+  else if (kind === "win") {
+    round!.score = Math.max(round!.score, round!.target);
+    winRound(run, ctx);
+  }
+  ctx.fx({ kind: "sound", name: kind.startsWith("money") ? "buy" : "click" });
 }
 
 function loseRun(run: RunState) {

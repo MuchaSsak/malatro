@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test";
 
 import { evaluateAnswer, isAnswerCorrect } from "~/lib/game/answer";
-import { VALUE_CAP } from "~/lib/game/constants";
+import { KNOWLEDGE_MULT, knowledgeChips, VALUE_CAP } from "~/lib/game/constants";
 import { makePool } from "~/lib/game/deck";
 import { GameEngine } from "~/lib/game/engine";
 import { detectHand } from "~/lib/game/hands";
@@ -66,9 +66,10 @@ describe("scoring", () => {
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1) });
     expect(res.handType).toBe("pair");
-    expect(res.chips).toBe(10 + 12 - 4 + VALUE_CAP);
-    expect(res.mult).toBe(2);
-    expect(res.total).toBe((10 + 8 + VALUE_CAP) * 2);
+    // + the knowledge bonus of 3 correct answers (fixture tasks are difficulty 2)
+    expect(res.chips).toBe(10 + 12 - 4 + VALUE_CAP + 3 * knowledgeChips(2));
+    expect(res.mult).toBe(2 + 3 * KNOWLEDGE_MULT);
+    expect(res.total).toBe((10 + 8 + VALUE_CAP + 3 * knowledgeChips(2)) * (2 + 3 * KNOWLEDGE_MULT));
   });
 
   test("jokers: Moduł makes negatives positive, Kalkulator adds mult", () => {
@@ -82,8 +83,8 @@ describe("scoring", () => {
     run.notes.a = "-6";
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1) });
-    expect(res.chips).toBe(5 + 6);
-    expect(res.mult).toBe(1 + 4);
+    expect(res.chips).toBe(5 + 6 + knowledgeChips(2));
+    expect(res.mult).toBe(1 + 4 + KNOWLEDGE_MULT);
   });
 
   test("a wrong answer scores nothing and drops out of the hand type", () => {
@@ -98,8 +99,8 @@ describe("scoring", () => {
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1) });
     expect(res.handType).toBe("high"); // not a pair: the wrong card doesn't count
-    expect(res.chips).toBe(5 + 12);
-    expect(res.mult).toBe(1); // Prymus needs every card right
+    expect(res.chips).toBe(5 + 12 + knowledgeChips(2));
+    expect(res.mult).toBe(1 + KNOWLEDGE_MULT); // Prymus needs every card right
     expect(res.scoredUids).toEqual(["u0"]);
     expect(res.moneyGained).toBe(0);
   });
@@ -116,9 +117,10 @@ describe("scoring", () => {
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1), faceDownUids: ["u1"] });
     expect(res.correctNotes).toBe(1);
-    expect(res.chips).toBe(5 + 0.5 + 4);
+    // the face-down card scores its value but no knowledge bonus (nobody answered it)
+    expect(res.chips).toBe(5 + 0.5 + 4 + knowledgeChips(2));
     expect(res.moneyGained).toBe(0);
-    expect(res.mult).toBe(1); // Prymus: 1 correct of 2 played (the face-down one has no answer)
+    expect(res.mult).toBe(1 + KNOWLEDGE_MULT); // Prymus: 1 correct of 2 played (the face-down one has no answer)
   });
 
   test("playing requires an answer on every selected face-up card", () => {

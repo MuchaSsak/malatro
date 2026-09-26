@@ -16,7 +16,7 @@
     "check": "bun run typecheck && bun run lint && bun test",
     "translate": "lingui extract --clean && lingui compile --typescript --strict",
     "i18n:compile": "lingui compile --typescript --strict",
-    "data:build": "python data-pipeline/build_dataset.py",
+    "data:build": "python data-pipeline/build_dataset.py --require-verified",
     "db:push": "supabase db push",
     "supabase:types": "supabase gen types typescript --linked --schema public > src/lib/supabase/database.types.tmp && mv src/lib/supabase/database.types.tmp src/lib/supabase/database.types.ts",
     "supabase:types:local": "supabase gen types typescript --local --schema public > src/lib/supabase/database.types.tmp && mv src/lib/supabase/database.types.tmp src/lib/supabase/database.types.ts"

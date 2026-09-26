@@ -29,11 +29,13 @@
    "topic_pl": "Ciąg geometryczny i arytmetyczny",
    "topic_en": "Geometric and arithmetic sequence",
    "difficulty": 4,
-   "summary_pl": "Ciąg $(a,b,c)$ geom., $(3a+3,2b,c-12)$ arytm., $3a+3+2b=c-12$ ($a+b+c$)",
-   "summary_en": "Sequence $(a,b,c)$ geometric, $(3a+3,2b,c-12)$ arithmetic, $3a+3+2b=c-12$ (find $a+b+c$)",
-   "statement_en": "Sequence $(a,b,c)$ is geometric. Sequence $(a+3, 2b, c-12)$ is arithmetic, and the sum of its first two terms equals its third term. Compute $a$, $b$, $c$.",
+   "summary_pl": "$(a,b,c)$ geom., $(3a+3,2b,c-12)$ arytm., $u_1+u_2=u_3$; podaj $a+b+c$",
+   "summary_en": "$(a,b,c)$ geom., $(3a+3,2b,c-12)$ arith., $u_1+u_2=u_3$; type $a+b+c$",
+   "statement_en": "The sequence $(a,b,c)$ is geometric. The sequence $(3a+3,\\ 2b,\\ c-12)$ is arithmetic, and the sum of its first two terms equals the third term. Compute $a$, $b$, $c$. [Card value is $a+b+c$.]",
    "confidence": "high",
-   "notes": "Only q=4 (a=3,b=12,c=48) is valid; q=3 branch is inconsistent. Sum=3+12+48=63 [verified: ok: b=3a+3, c=9a+21, b^2=ac gives a=3 uniquely: 3,12,48, sum 63 (key). Summary misstates 3a+3 as a+3 and omits the sum condition.]"
+   "notes": "Only q=4 (a=3,b=12,c=48) is valid; q=3 branch is inconsistent. Sum=3+12+48=63 [verified: ok: b=3a+3, c=9a+21, b^2=ac gives a=3 uniquely: 3,12,48, sum 63 (key). Summary misstates 3a+3 as a+3 and omits the sum condition.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -51,7 +53,9 @@
    "summary_en": "Solve $6\\sin^2x+7\\cos x-1=0$ (sum of solutions)",
    "statement_en": "Solve the equation $6\\sin^2x+7\\cos x-1=0$ for $x\\in\\langle0,2\\pi\\rangle$.",
    "confidence": "high",
-   "notes": "Substitution t=cos x gives 6t^2-7t-5=0, t=5/3 (rejected) or t=-1/2, giving x=2π/3, 4π/3; sum=2π"
+   "notes": "Substitution t=cos x gives 6t^2-7t-5=0, t=5/3 (rejected) or t=-1/2, giving x=2π/3, 4π/3; sum=2π",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -85,7 +89,9 @@
    "summary_en": "Triangle: $AC=5,AB=8,P=10\\sqrt3$. Find circumradius",
    "statement_en": "In an acute triangle $ABC$, $|AC|=5$ and $|AB|=8$. The area of this triangle equals $10\\sqrt3$. Compute the radius of the circle circumscribed on this triangle.",
    "confidence": "high",
-   "notes": "sin(A)=√3/2, cos(A)=1/2 (acute), BC=7 (law of cosines), R=BC/(2sinA)=7√3/3"
+   "notes": "sin(A)=√3/2, cos(A)=1/2 (acute), BC=7 (law of cosines), R=BC/(2sinA)=7√3/3",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -99,11 +105,13 @@
    "topic_pl": "Trapez równoramienny na płaszczyźnie",
    "topic_en": "Isosceles trapezoid in the plane",
    "difficulty": 4,
-   "summary_pl": "Trapez $ABCD$: wierzchołki $B,D$ i pole (suma)",
-   "summary_en": "Trapezoid $ABCD$: vertices $B,D$ and area (sum)",
+   "summary_pl": "Trapez $ABCD$: suma wsp. $B$, $D$ i pola trapezu",
+   "summary_en": "Trapezoid $ABCD$: sum of coords of $B$, $D$ and its area",
    "statement_en": "Points $A=(-5,5)$ and $C=(8,6)$ are opposite vertices of isosceles trapezoid $ABCD$, in which $AB\\parallel CD$. The line with equation $y=2x$ is the axis of symmetry of this trapezoid. Compute the coordinates of vertices $B$ and $D$, and the area of this trapezoid.",
    "confidence": "high",
-   "notes": "B=(7,-1), D=(0,10), Area=75; sum of all requested numbers = 7-1+0+10+75 = 91"
+   "notes": "B=(7,-1), D=(0,10), Area=75; sum of all requested numbers = 7-1+0+10+75 = 91",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -125,11 +133,13 @@
    "topic_pl": "Minimalizacja pola trójkąta w kwadracie",
    "topic_en": "Minimizing a triangle's area in a square",
    "difficulty": 4,
-   "summary_pl": "Kwadrat $ABCD$ bok $2$: minimalne pole $\\triangle AEF$ (suma)",
-   "summary_en": "Square $ABCD$ side 2: minimum area of $\\triangle AEF$ (sum)",
+   "summary_pl": "Kwadrat bok $2$, $CE=DF=x$: podaj $x$ + min. pole $\\triangle AEF$",
+   "summary_en": "Square side $2$, $CE=DF=x$: type $x$ + min. area of $\\triangle AEF$",
    "statement_en": "Given is square $ABCD$ with side length 2. On sides $BC$ and $CD$, points $E$ and $F$, different from the vertices, are chosen such that $|CE|=|DF|=x$. Compute the value of $x$ for which the area of triangle $AEF$ is smallest, and compute that area.",
    "confidence": "high",
-   "notes": "P(x)=0.5(x-1)^2+1.5, minimized at x=1 giving area 3/2; sum=1+1.5=2.5"
+   "notes": "P(x)=0.5(x-1)^2+1.5, minimized at x=1 giving area 3/2; sum=1+1.5=2.5",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -147,7 +157,9 @@
    "summary_en": "Random 4-digit number from digits $\\{1,2,3\\}$: $P(\\text{digit sum}=7)$",
    "statement_en": "One number is drawn from among all four-digit numbers with digits from the set $\\{1,2,3\\}$. Compute the probability of the event that the sum of all digits of the drawn number equals 7.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -163,9 +175,11 @@
    "difficulty": 4,
    "summary_pl": "Ostrosłup $ABCS$: oblicz objętość",
    "summary_en": "Pyramid $ABCS$: compute the volume",
-   "statement_en": "In triangular pyramid $ABCS$ with base $ABC$ and apex $S$, we have $AB=AC=BS=CS=9$ and $AS=8$. Compute the volume of this pyramid.",
+   "statement_en": "In triangular pyramid $ABCS$ with base $ABC$ and apex $S$, we have $|AB|=|AC|=|SB|=|SC|=9$ and $|AS|=|BC|=8$. Compute the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

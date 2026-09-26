@@ -27,7 +27,9 @@
    "summary_en": "17% of 21 minus 21% of 17 - result?",
    "statement_en": "When we subtract 21% of 17 from 17% of 21, we obtain\nA. 0\nB. $\\frac{4}{100}$\nC. 3.57\nD. 4",
    "confidence": "high",
-   "notes": "0.17*21=0.21*17=3.57, difference=0."
+   "notes": "0.17*21=0.21*17=3.57, difference=0.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -45,7 +47,9 @@
    "summary_en": "Compute $\\dfrac{5^3\\cdot25}{\\sqrt5}$",
    "statement_en": "The number $\\dfrac{5^3\\cdot25}{\\sqrt5}$ is equal to\nA. $5^5\\sqrt5$\nB. $5^4\\sqrt5$\nC. $5^3\\sqrt5$\nD. $5^6\\sqrt5$",
    "confidence": "high",
-   "notes": "5^3*5^2/5^{1/2}=5^{4.5}=5^4*sqrt5."
+   "notes": "5^3*5^2/5^{1/2}=5^{4.5}=5^4*sqrt5.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -73,7 +77,9 @@
    "summary_en": "Function $f(x)=\\dfrac{2x}{x-1}$. Find $f(2)$",
    "statement_en": "The function $f$ is given by $f(x)=\\dfrac{2x}{x-1}$ for $x\\ne1$. The value of function $f$ for argument $x=2$ is equal to\nA. 2\nB. $-4$\nC. 4\nD. $-2$",
    "confidence": "high",
-   "notes": "f(2)=4/1=4."
+   "notes": "f(2)=4/1=4.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -91,7 +97,9 @@
    "summary_en": "$a+b=3$, $b+c=4$, $c+a=5$. Find $a+b+c$",
    "statement_en": "Real numbers $a, b, c$ satisfy the conditions: $a+b=3$, $b+c=4$, and $c+a=5$. Then the sum $a+b+c$ is equal to\nA. 20\nB. 6\nC. 4\nD. 1",
    "confidence": "high",
-   "notes": "Adding all three: 2(a+b+c)=12, so a+b+c=6."
+   "notes": "Adding all three: 2(a+b+c)=12, so a+b+c=6.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -125,11 +133,13 @@
    "topic_pl": "Wierzchołek paraboli",
    "topic_en": "Vertex of parabola",
    "difficulty": 2,
-   "summary_pl": "Wierzchołek paraboli $y=(x-1)^2+2c$ leży na $y=6$",
-   "summary_en": "Vertex of $y=(x-1)^2+2c$ lies on $y=6$",
+   "summary_pl": "Wierzchołek $y=(x-1)^2+2c$ leży na prostej $y=6$. Oblicz $c$",
+   "summary_en": "Vertex of $y=(x-1)^2+2c$ lies on line $y=6$. Find $c$",
    "statement_en": "The vertex of the parabola with equation $y=(x-1)^2+2c$ lies on the line with equation $y=6$. Then\nA. $c=-6$\nB. $c=-3$\nC. $c=3$\nD. $c=6$",
    "confidence": "high",
-   "notes": "Vertex is (1,2c); 2c=6 => c=3."
+   "notes": "Vertex is (1,2c); 2c=6 => c=3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -147,7 +157,9 @@
    "summary_en": "Compute $\\log_2100-\\log_250$",
    "statement_en": "The number $\\log_2100-\\log_250$ is equal to\nA. $\\log_250$\nB. 1\nC. 2\nD. $\\log_25000$",
    "confidence": "high",
-   "notes": "log2(100/50)=log2(2)=1. [verified: ok: log2(100/50)=log2 2=1; key B=1.]"
+   "notes": "log2(100/50)=log2(2)=1. [verified: ok: log2(100/50)=log2 2=1; key B=1.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -175,7 +187,9 @@
    "summary_en": "Rectangle (perim. 30) minus equilateral triangle (perim. 15). Perimeter left?",
    "statement_en": "From rectangle $ABCD$ with perimeter 30, an equilateral triangle $AOD$ with perimeter 15 was cut out (see figure; $O$ is a point to the right, inside the rectangle, forming triangle $AOD$ with the left side $AD$). The perimeter of the shaded figure is equal to\nA. 25\nB. 30\nC. 35\nD. 40",
    "confidence": "high",
-   "notes": "AD=5 (triangle side), so AB=10; shaded perimeter = AB+BC+BA... = 10+5+10+5+5=35."
+   "notes": "AD=5 (triangle side), so AB=10; shaded perimeter = AB+BC+BA... = 10+5+10+5+5=35.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "13",
@@ -193,7 +207,9 @@
    "summary_en": "$3x-4,8,2$ form a GP. Find $x$",
    "statement_en": "The numbers $3x-4$, $8$, $2$, in the given order, are the first, second and third terms of a geometric sequence. Then\nA. $x=-6$\nB. $x=0$\nC. $x=6$\nD. $x=12$",
    "confidence": "high",
-   "notes": "8^2=(3x-4)*2 => 64=6x-8 => x=12."
+   "notes": "8^2=(3x-4)*2 => 64=6x-8 => x=12.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -211,7 +227,9 @@
    "summary_en": "$S=(4,1)$ midpoint of $AB$, $A=(a,0)$, $B=(a+3,2)$. Find $a$",
    "statement_en": "The point $S=(4,1)$ is the midpoint of segment $AB$, where $A=(a,0)$ and $B=(a+3,2)$. Then\nA. $a=0$\nB. $a=\\frac12$\nC. $a=2$\nD. $a=\\frac52$",
    "confidence": "high",
-   "notes": "(a+a+3)/2=4 => a=5/2."
+   "notes": "(a+a+3)/2=4 => a=5/2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +247,9 @@
    "summary_en": "How many 3-digit numbers are divisible by 5?",
    "statement_en": "How many three-digit natural numbers are divisible by 5?\nA. 90\nB. 100\nC. 180\nD. 200",
    "confidence": "high",
-   "notes": "From 100 to 995 step 5: (995-100)/5+1=180."
+   "notes": "From 100 to 995 step 5: (995-100)/5+1=180.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +267,9 @@
    "summary_en": "Circle, $AB$ diameter, central angle $100^\\circ$. Find angle $\\alpha$",
    "statement_en": "Point $O$ is the center of a circle with diameter $AB$ (see figure). The angle $AOC$ is $100^\\circ$, and $\\alpha$ is the base angle at $C$ of the isosceles triangle $OBC$ (with $OB=OC$ being radii). The angle $\\alpha$ has measure\nA. $40^\\circ$\nB. $50^\\circ$\nC. $60^\\circ$\nD. $80^\\circ$",
    "confidence": "high",
-   "notes": "Angle BOC=180-100=80 (straight line AB); triangle OBC isosceles, 2alpha+80=180, alpha=50."
+   "notes": "Angle BOC=180-100=80 (straight line AB); triangle OBC isosceles, 2alpha+80=180, alpha=50.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -265,7 +287,9 @@
    "summary_en": "Longest diagonal of hexagon = 8. Area of circumscribed circle?",
    "statement_en": "The longest diagonal of a regular hexagon has length 8. The area of the circle circumscribed on this hexagon is equal to\nA. $4\\pi$\nB. $8\\pi$\nC. $16\\pi$\nD. $64\\pi$",
    "confidence": "high",
-   "notes": "Longest diagonal=2R=8 => R=4; area=16pi."
+   "notes": "Longest diagonal=2R=8 => R=4; area=16pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +307,9 @@
    "summary_en": "Parallelogram: sides 4, 12, acute angle $30^\\circ$. Area?",
    "statement_en": "The area of a parallelogram with sides of length 4 and 12 and an acute angle of $30^\\circ$ is equal to\nA. 24\nB. $12\\sqrt3$\nC. 12\nD. $6\\sqrt3$",
    "confidence": "high",
-   "notes": "Area=4*12*sin30=24."
+   "notes": "Area=4*12*sin30=24.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +327,9 @@
    "summary_en": "Prism has 24 edges. How many vertices?",
    "statement_en": "The total number of edges of a prism is equal to 24. Then the total number of its vertices is equal to\nA. 6\nB. 8\nC. 12\nD. 16",
    "confidence": "high",
-   "notes": "Edges=3n=24 => n=8 (base sides); vertices=2n=16."
+   "notes": "Edges=3n=24 => n=8 (base sides); vertices=2n=16.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -319,7 +347,9 @@
    "summary_en": "Cylinder: height 8, volume $72\\pi$. Find the radius",
    "statement_en": "The volume of a cylinder of height 8 is equal to $72\\pi$. The radius of the base of this cylinder is equal to\nA. 9\nB. 8\nC. 6\nD. 3",
    "confidence": "high",
-   "notes": "r^2=72/8=9, r=3."
+   "notes": "r^2=72/8=9, r=3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -337,7 +367,9 @@
    "summary_en": "$7,a,49$ form an AP. Find $a$",
    "statement_en": "The numbers 7, $a$, 49, in the given order, form an arithmetic sequence. Then $a$ is equal to\nA. 14\nB. 21\nC. 28\nD. 42",
    "confidence": "high",
-   "notes": "a=(7+49)/2=28."
+   "notes": "a=(7+49)/2=28.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -355,7 +387,9 @@
    "summary_en": "$a_n=n^2-n$. Which term equals 6?",
    "statement_en": "The sequence $(a_n)$ is given by the formula $a_n=n^2-n$ for $n\\ge1$. Which term of this sequence is equal to 6?\nA. the second\nB. the third\nC. the sixth\nD. the thirtieth",
    "confidence": "high",
-   "notes": "n^2-n-6=0 => (n-3)(n+2)=0 => n=3 (third term); value taken as n=3."
+   "notes": "n^2-n-6=0 => (n-3)(n+2)=0 => n=3 (third term); value taken as n=3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -373,7 +407,9 @@
    "summary_en": "Roll 2 dice. P(five twice)",
    "statement_en": "We roll a symmetric six-sided die twice. The probability of getting five points twice is equal to\nA. $\\frac16$\nB. $\\frac1{12}$\nC. $\\frac1{18}$\nD. $\\frac1{36}$",
    "confidence": "high",
-   "notes": "(1/6)*(1/6)=1/36."
+   "notes": "(1/6)*(1/6)=1/36.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -391,7 +427,9 @@
    "summary_en": "$\\sin\\alpha=\\frac{\\sqrt3}{3}$, acute. Find $2\\cos^2\\alpha-1$",
    "statement_en": "Angle $\\alpha$ is acute and $\\sin\\alpha=\\dfrac{\\sqrt3}{3}$. The value of the expression $2\\cos^2\\alpha-1$ is equal to\nA. 0\nB. $\\frac13$\nC. $\\frac59$\nD. 1",
    "confidence": "high",
-   "notes": "cos^2=1-1/3=2/3; 2*(2/3)-1=1/3."
+   "notes": "cos^2=1-1/3=2/3; 2*(2/3)-1=1/3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -407,9 +445,11 @@
    "difficulty": 1,
    "summary_pl": "Z wykresu $f$: największa wartość na $\\langle-1,1\\rangle$?",
    "summary_en": "From graph of $f$: max value on $\\langle-1,1\\rangle$?",
-   "statement_en": "The figure shows the graph of the function $y=f(x)$ [piecewise: an open point at $(-3,4)$ decreasing to a local minimum near $(-1,1)$, then rising to a flat segment at height 3 from $x=1$ to $x=2$, then dropping steeply to an open point near $(3.5,-1.5)$]. The greatest value of function $f$ in the interval $\\langle-1,1\\rangle$ is equal to\nA. 4\nB. 3\nC. 2\nD. 1",
+   "statement_en": "The figure shows the graph of the function $y=f(x)$ [defined on $\\langle-3,3.5\\rangle$: starts at the filled point $(-3,4)$, decreases to a minimum of about 1 near $x=-1$, rises to $(1,3)$, is constant 3 on $\\langle1,2\\rangle$, then drops steeply to the filled point near $(3.5,-1.5)$]. The greatest value of function $f$ in the interval $\\langle-1,1\\rangle$ is equal to\nA. 4\nB. 3\nC. 2\nD. 1",
    "confidence": "high",
-   "notes": "On [-1,1], f rises from 1 (at x=-1) to 3 (at x=1, start of the flat top); max=3. [verified: ok: On <-1,1> graph rises from ~1 to 3 at x=1; max 3; key B=3.]"
+   "notes": "On [-1,1], f rises from 1 (at x=-1) to 3 (at x=1, start of the flat top); max=3. [verified: ok: On <-1,1> graph rises from ~1 to 3 at x=1; max 3; key B=3.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "26",
@@ -437,7 +477,9 @@
    "summary_en": "Solve $x^3-6x^2-12x+72=0$ (sum of solutions)",
    "statement_en": "Solve the equation $x^3-6x^2-12x+72=0$.",
    "confidence": "high",
-   "notes": "Group: x^2(x-6)-12(x-6)=(x-6)(x^2-12)=0; roots 6, 2sqrt3, -2sqrt3; sum=6."
+   "notes": "Group: x^2(x-6)-12(x-6)=(x-6)(x^2-12)=0; roots 6, 2sqrt3, -2sqrt3; sum=6.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -455,7 +497,9 @@
    "summary_en": "$\\tan\\alpha=2$. Find $\\frac{\\sin\\alpha-\\cos\\alpha}{\\sin\\alpha+\\cos\\alpha}$",
    "statement_en": "Angle $\\alpha$ is acute and $\\tan\\alpha=2$. Calculate $\\dfrac{\\sin\\alpha-\\cos\\alpha}{\\sin\\alpha+\\cos\\alpha}$.",
    "confidence": "high",
-   "notes": "Divide num/denom by cos: (tan-1)/(tan+1)=(2-1)/(2+1)=1/3."
+   "notes": "Divide num/denom by cos: (tan-1)/(tan+1)=(2-1)/(2+1)=1/3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -473,7 +517,9 @@
    "summary_en": "Grade table, mean 3.6. Find number of grade-5's",
    "statement_en": "The table lists the mathematics grades of students in class 3A at the end of the semester: grade 1: 0 students, grade 2: 4, grade 3: 9, grade 4: 13, grade 5: $x$, grade 6: 1. The arithmetic mean of these grades is equal to 3.6. Calculate the number $x$ of grade-5 ('bardzo dobry') marks in mathematics given at the end of the semester in this class.",
    "confidence": "high",
-   "notes": "(0+8+27+52+5x+6)/(27+x)=3.6 => x=3."
+   "notes": "(0+8+27+52+5x+6)/(27+x)=3.6 => x=3.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "30",
@@ -501,7 +547,9 @@
    "summary_en": "Cube edge is 2 shorter than its diagonal. Find the diagonal",
    "statement_en": "The length of the edge of a cube is 2 less than the length of its space diagonal. Calculate the length of the diagonal of this cube.",
    "confidence": "high",
-   "notes": "a=d-2, d=a*sqrt3 => d=(d-2)sqrt3 => d=3+sqrt3 (verified: a=1+sqrt3, a*sqrt3=3+sqrt3=d)."
+   "notes": "a=d-2, d=a*sqrt3 => d=(d-2)sqrt3 => d=3+sqrt3 (verified: a=1+sqrt3, a*sqrt3=3+sqrt3=d).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -529,7 +577,9 @@
    "summary_en": "$A=(-1,-5)$, $B=(3,-1)$, $C=(2,4)$ vertices of a parallelogram. Area?",
    "statement_en": "Points $A=(-1,-5)$, $B=(3,-1)$ and $C=(2,4)$ are consecutive vertices of parallelogram $ABCD$. Calculate the area of this parallelogram.",
    "confidence": "high",
-   "notes": "Area of parallelogram = 2*area(ABC) = 2*12 = 24 (shoelace on triangle ABC)."
+   "notes": "Area of parallelogram = 2*area(ABC) = 2*12 = 24 (shoelace on triangle ABC).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -543,11 +593,13 @@
    "topic_pl": "Kąt w ostrosłupie",
    "topic_en": "Angle in a pyramid",
    "difficulty": 3,
-   "summary_pl": "Ostrosłup: objętość 72, promień wpisany 2. Oblicz tangens kąta",
-   "summary_en": "Pyramid: volume 72, inradius 2. Find tangent of the angle",
+   "summary_pl": "Ostrosłup prawidłowy trójkątny, $V=72$, $r=2$. Tangens kąta $H$–ściana",
+   "summary_en": "Regular triangular pyramid, $V=72$, $r=2$. Tan of height–face angle",
    "statement_en": "The volume of the regular triangular pyramid $ABCS$ (see figure) is equal to 72, and the radius of the circle inscribed in its base $ABC$ is equal to 2. Calculate the tangent of the angle between the height of this pyramid and its lateral face.",
    "confidence": "high",
-   "notes": "a=4sqrt3 (base side from r=2), H=6sqrt3 (from volume 72); tan(angle)=r/H=2/(6sqrt3)=sqrt3/9."
+   "notes": "a=4sqrt3 (base side from r=2), H=6sqrt3 (from volume 72); tan(angle)=r/H=2/(6sqrt3)=sqrt3/9.",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

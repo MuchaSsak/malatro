@@ -3,8 +3,8 @@
  "tasks": [
   {
    "task": "1",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 0.8408964152537145,
    "value_tex": "2^{-1/4}",
@@ -17,7 +17,7 @@
    "summary_en": "Given a,b,c,d from $\\sqrt[4]8$. Which equals $k=2^{-1/4}$?",
    "statement_en": "Given are the numbers $a=\\frac{\\sqrt[4]{8}}{2}$, $b=\\frac{1}{2\\sqrt[4]{8}}$, $c=\\sqrt[4]{8}$, $d=\\frac{2}{\\sqrt[4]{8}}$, and $k=2^{-1/4}$. The following equality is true: A. $k=a$ B. $k=b$ C. $k=c$ D. $k=d$",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] a=2^{3/4}/2=2^{-1/4}=k, key A. But the value k=2^{-1/4} is given in task and summary: typeable without solving."
   },
   {
    "task": "2",
@@ -35,7 +35,9 @@
    "summary_en": "How many solutions does $||x|-2|=|x|+2$ have?",
    "statement_en": "The equation $||x|-2|=|x|+2$: A. has no solutions. B. has exactly one solution. C. has exactly two solutions. D. has exactly four solutions.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +55,9 @@
    "summary_en": "Compute $2\\log_5 10-\\frac{1}{\\log_{20}5}$",
    "statement_en": "The value of the expression $2\\log_5 10-\\frac{1}{\\log_{20}5}$ is equal to: A. -1 B. 0 C. 1 D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -79,7 +83,9 @@
    "summary_en": "Center of symmetry of homographic fn $A=(-5,3)$: find $d/a$",
    "statement_en": "The point $A=(-5,3)$ is the center of symmetry of the graph of the homographic function defined by the formula $f(x)=\\frac{ax+7}{x+d}$, for $x\\ne-d$. Compute the quotient $\\frac{d}{a}$. Write the final answer as a decimal with the units digit and the first two decimal digits of the infinite decimal expansion.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -97,7 +103,9 @@
    "summary_en": "Tangent to $y=\\sqrt3x^2-1$ at $30°$: find point P (sum of coords)",
    "statement_en": "The tangent line to the parabola with equation $y=\\sqrt3x^2-1$ at the point $P=(x_0,y_0)$ is inclined to the Ox axis at an angle of $30°$. Compute the coordinates of point P.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -131,7 +139,9 @@
    "summary_en": "Random permutation of $\\{1..7,9\\}$: P(no two evens adjacent)",
    "statement_en": "From the numbers of the eight-element set $Z=\\{1,2,3,4,5,6,7,9\\}$ we form an eight-term sequence whose terms do not repeat. Find the probability of the event that no two even numbers are neighboring terms of the sequence formed. Give the result as an irreducible common fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -149,7 +159,9 @@
    "summary_en": "Frustum: $H=10$, $V=840\\pi$, $r=6$. Find angle's cosine",
    "statement_en": "The volume of a frustum of a cone (shown in the figure) can be computed from the formula $V=\\frac13\\pi H(r^2+rR+R^2)$, where r and R are the radii of the bases ($r<R$), and H is the height of the solid. Given is a frustum whose height equals 10, volume $840\\pi$, and $r=6$. Compute the cosine of the angle of inclination of the diagonal of the axial cross-section of this solid to one of its bases. [Figure: a frustum of a cone with the smaller base radius r on top and larger base radius R at the bottom, height H]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +179,9 @@
    "summary_en": "Solve $\\sin6x+\\cos3x=2\\sin3x+1$ on $[0,\\pi]$ (sum of solutions)",
    "statement_en": "Solve the equation $\\sin6x+\\cos3x=2\\sin3x+1$ in the interval $\\langle0,\\pi\\rangle$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -193,7 +207,9 @@
    "summary_en": "Geometric seq.: $a_3+a_6=-84$, $a_4+a_7=168$. Find n: $S_n=32769$",
    "statement_en": "The terms of the geometric sequence $(a_n)$, defined for $n\\ge1$, satisfy the system of equations $a_3+a_6=-84$, $a_4+a_7=168$. Find the number n of initial terms of this sequence whose sum $S_n$ equals 32769.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -207,11 +223,13 @@
    "topic_pl": "Okrąg wpisany w trójkąt na płaszczyźnie",
    "topic_en": "Incircle of a triangle in the plane",
    "difficulty": 5,
-   "summary_pl": "Trójkąt równoram. $A=(7,-1)$, okrąg wpis. $x^2+y^2=10$",
-   "summary_en": "Isosceles triangle $A=(7,-1)$, incircle $x^2+y^2=10$",
+   "summary_pl": "$A=(7,-1)$, $|AC|=|BC|$, okrąg wpis. $x^2+y^2=10$: suma wsp. B i C",
+   "summary_en": "$A=(7,-1)$, $|AC|=|BC|$, incircle $x^2+y^2=10$: sum of coords of B, C",
    "statement_en": "The point $A=(7,-1)$ is a vertex of an isosceles triangle ABC, in which $AC=BC$. Both coordinates of vertex C are negative numbers. The circle inscribed in triangle ABC has the equation $x^2+y^2=10$. Compute the coordinates of vertices B and C of this triangle.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +247,9 @@
    "summary_en": "Isosceles trapezoid with incircle, $a+h=2$, min. perimeter: tangent of the acute angle",
    "statement_en": "We consider all isosceles trapezoids that admit an inscribed circle, satisfying the condition: the sum of the length of the longer base a and the height of the trapezoid equals 2. a) Determine all values of a for which a trapezoid with the given properties exists. b) Show that the perimeter L of such a trapezoid, as a function of the length a of its longer base, is expressed by the formula $L(a)=\\frac{4a^2-8a+8}{a}$. c) Compute the tangent of the acute angle of that trapezoid, among those considered, whose perimeter is smallest.",
    "confidence": "high",
-   "notes": "Only part c) is numeric (parts a: interval, b: proof of formula, are excluded); value is the answer to part c) alone. [verified: ok: L'=0 at a=sqrt2, h=2-sqrt2, p=(a-b)/2=2-sqrt2, tan=1; key tg=1. Only c) numeric. Summary had typo and omitted min-perimeter condition.]"
+   "notes": "Only part c) is numeric (parts a: interval, b: proof of formula, are excluded); value is the answer to part c) alone. [verified: ok: L'=0 at a=sqrt2, h=2-sqrt2, p=(a-b)/2=2-sqrt2, tan=1; key tg=1. Only c) numeric. Summary had typo and omitted min-perimeter condition.]",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

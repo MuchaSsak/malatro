@@ -14,16 +14,18 @@ import { audio } from "~/lib/audio";
 import { drawingKey, getStrokes, setStrokes, type Stroke } from "~/lib/drawings";
 import { evaluateAnswer, formatValue, isAnswerCorrect } from "~/lib/game/answer";
 import { CATEGORIES, SUITS } from "~/lib/game/categories";
-import { VALUE_CAP } from "~/lib/game/constants";
+import { KNOWLEDGE_MULT, knowledgeChips, VALUE_CAP } from "~/lib/game/constants";
 import { canAfford, cardInsight, cardShownValue, valueRangeLabel } from "~/lib/game/run";
-import { activeBoss } from "~/lib/game/scoring";
+import { activeBoss, cardChips, effectiveValue } from "~/lib/game/scoring";
 import type { RunState, TaskRecord } from "~/lib/game/types";
+import { recordAttempts, setMarked, useTaskProgress } from "~/lib/progress";
 import { fetchStatements } from "~/lib/tasks";
 import { cn } from "~/lib/utils";
 
 const COLORS = ["#e0302a", "#1d6fe0", "#1f9e5a", "#1c1c1c", "#e08a00"];
 /** One-tap inserts for the answer input (everything the answer parser understands). */
 const SYMBOLS = ["√", "π", "^", "/", "(", ")", "-", ",", "°", "%"];
+const LETTERS = ["A", "B", "C", "D"];
 
 /**
  * Fullscreen task: the original CKE crop (or, in English, the translated statement) on a drawable
@@ -41,9 +43,11 @@ export default function TaskViewer() {
     return () => window.removeEventListener("keydown", handleKey);
   }, [target, close]);
   const task = target ? pool.byId.get(target.taskId) : null;
+  // the Collection opens tasks outside any run
+  const isOpen = !!target && !!task && (!!run || target.source === "collection");
   return (
     <AnimatePresence>
-      {target && task && run && (
+      {isOpen && target && task && (
         <motion.div
           key={target.taskId + (target.cardUid ?? "")}
           className="viewer-scrim fixed inset-0 z-[500] flex"
@@ -66,35 +70,51 @@ function ViewerBody({
 }: {
   target: ViewerTarget;
   task: TaskRecord;
-  run: RunState;
+  run: RunState | null;
   onClose: () => void;
 }) {
   const { engine, pool } = useGame();
+  const isStudy = target.source === "collection";
   const { l, locale } = useSettings();
   const { t } = useLingui();
   const [tool, setTool] = useState<DrawTool>({ mode: "pen", color: COLORS[0], size: 5 });
   const [zoom, setZoom] = useState(1);
   const [statement, setStatement] = useState<string | null>(null);
   const [isOriginal, setIsOriginal] = useState(false);
-  const [note, setNote] = useState(run.notes[task.id] ?? "");
+  const [note, setNote] = useState(isStudy ? "" : (run?.notes[task.id] ?? ""));
+  const [isChecked, setIsChecked] = useState(false);
+  const progress = useTaskProgress(task.id);
   const inputRef = useRef<HTMLInputElement>(null);
   // English runs read the translated statement; the Polish crop stays one tap away for figures
   const sheet: "pl" | "en" = locale === "en" && !isOriginal ? "en" : "pl";
   const strokeKey = drawingKey(task.id, sheet);
   const [drawing, setDrawing] = useState(() => ({ key: strokeKey, strokes: getStrokes(strokeKey) }));
+  const [history, setHistory] = useState<{ key: string; past: Stroke[][]; future: Stroke[][] }>({
+    key: strokeKey,
+    past: [],
+    future: [],
+  });
   if (drawing.key !== strokeKey) setDrawing({ key: strokeKey, strokes: getStrokes(strokeKey) });
+  if (history.key !== strokeKey) setHistory({ key: strokeKey, past: [], future: [] });
   const strokes = drawing.strokes;
 
-  const round = run.round;
+  const round = run?.round ?? null;
   const card = target.cardUid ? round?.hand.find((c) => c.uid === target.cardUid) : undefined;
-  const isNoDrawing = activeBoss(run, round)?.kind === "no-drawing" && run.phase === "round";
-  const isKnown = run.known[task.id] === "value" || target.source === "played";
-  const insight = card ? cardInsight(run, card) : null;
-  const shownValue = card ? cardShownValue(run, card, pool) : null;
+  const isNoDrawing = !!run && activeBoss(run, round)?.kind === "no-drawing" && run.phase === "round";
+  const isKnown = isStudy ? isChecked : run?.known[task.id] === "value" || target.source === "played";
+  const insight = card && run ? cardInsight(run, card) : null;
+  const shownValue = card && run ? cardShownValue(run, card, pool) : null;
   const isSelected = !!card && !!round?.selected.includes(card.uid);
   const cat = CATEGORIES[task.cat];
   const suit = SUITS[cat.suit];
   const parsed = evaluateAnswer(note);
+  // chips this answer would score if it were right (card mods, boss and jokers applied, then the cap)
+  const chipsIfRight =
+    parsed === null
+      ? null
+      : run && card
+        ? cardChips(run, effectiveValue(run, round, card, { ...task, value: parsed }))
+        : Math.max(-VALUE_CAP, Math.min(VALUE_CAP, parsed));
 
   useEffect(() => {
     if (locale !== "en") return;
@@ -105,14 +125,58 @@ function ViewerBody({
     };
   }, [locale, task.exam, task.task]);
 
-  const saveStrokes = (next: Stroke[]) => {
+  const writeStrokes = (next: Stroke[]) => {
     setDrawing({ key: strokeKey, strokes: next });
     setStrokes(strokeKey, next);
   };
+  const saveStrokes = (next: Stroke[]) => {
+    setHistory({ key: strokeKey, past: [...history.past, strokes].slice(-100), future: [] });
+    writeStrokes(next);
+  };
+  const handleUndo = () => {
+    // strokes loaded from an earlier visit have no history: undo drops the last one
+    const prev = history.past.at(-1) ?? (strokes.length ? strokes.slice(0, -1) : null);
+    if (!prev) return;
+    setHistory({ key: strokeKey, past: history.past.slice(0, -1), future: [strokes, ...history.future] });
+    writeStrokes(prev);
+  };
+  const handleRedo = () => {
+    const next = history.future[0];
+    if (!next) return;
+    setHistory({ key: strokeKey, past: [...history.past, strokes], future: history.future.slice(1) });
+    writeStrokes(next);
+  };
+
+  // Ctrl+Z / Ctrl+Shift+Z / Ctrl+Y for the drawing (the answer input keeps its own text undo)
+  useEffect(() => {
+    const handleKey = (e: KeyboardEvent) => {
+      if (!(e.ctrlKey || e.metaKey) || isNoDrawing) return;
+      const el = document.activeElement;
+      if (el instanceof HTMLInputElement || el instanceof HTMLTextAreaElement) return;
+      const key = e.key.toLowerCase();
+      if (key === "z" && !e.shiftKey) {
+        e.preventDefault();
+        handleUndo();
+      } else if ((key === "z" && e.shiftKey) || key === "y") {
+        e.preventDefault();
+        handleRedo();
+      }
+    };
+    window.addEventListener("keydown", handleKey);
+    return () => window.removeEventListener("keydown", handleKey);
+  });
 
   const saveNote = (value: string) => {
     setNote(value);
-    engine.setNote(task.id, value);
+    if (!isStudy) engine.setNote(task.id, value);
+  };
+
+  const handleCheck = () => {
+    if (parsed === null || isChecked) return;
+    setIsChecked(true);
+    const isCorrect = isAnswerCorrect(note, task.value, `${task.tex} ${task.ans ?? ""}`);
+    recordAttempts([{ taskId: task.id, isCorrect }]);
+    audio.play(isCorrect ? "coin" : "error");
   };
 
   const insertSymbol = (symbol: string) => {
@@ -126,8 +190,8 @@ function ViewerBody({
     });
   };
 
-  const shopItem = target.source === "shop" ? run.shop?.items.find((i) => i.uid === target.cardUid) : undefined;
-  const packChoice = target.source === "pack" ? run.pack?.choices.find((c) => c.uid === target.cardUid) : undefined;
+  const shopItem = target.source === "shop" ? run?.shop?.items.find((i) => i.uid === target.cardUid) : undefined;
+  const packChoice = target.source === "pack" ? run?.pack?.choices.find((c) => c.uid === target.cardUid) : undefined;
   const effectiveTool: DrawTool = isNoDrawing ? { ...tool, mode: "none" } : tool;
 
   return (
@@ -172,11 +236,18 @@ function ViewerBody({
             🧽
           </ToolButton>
           <ToolButton
-            onClick={() => saveStrokes(strokes.slice(0, -1))}
-            label={t`Undo`}
-            isDisabled={isNoDrawing || strokes.length === 0}
+            onClick={handleUndo}
+            label={t`Undo (Ctrl+Z)`}
+            isDisabled={isNoDrawing || (strokes.length === 0 && history.past.length === 0)}
           >
             ↶
+          </ToolButton>
+          <ToolButton
+            onClick={handleRedo}
+            label={t`Redo (Ctrl+Y)`}
+            isDisabled={isNoDrawing || history.future.length === 0}
+          >
+            ↷
           </ToolButton>
           <ToolButton onClick={() => saveStrokes([])} label={t`Clear`} isDisabled={isNoDrawing || strokes.length === 0}>
             🗑
@@ -242,6 +313,11 @@ function ViewerBody({
           <div className="mt-1 text-[17px] text-ink/60">
             <Trans>Chips per card are capped at ±{VALUE_CAP}</Trans>
           </div>
+          <div className="mt-1 text-[18px] text-green">
+            <Trans>
+              Right answer bonus: +{knowledgeChips(task.diff)} chips, +{KNOWLEDGE_MULT} mult
+            </Trans>
+          </div>
         </div>
 
         {/* the player's own answer */}
@@ -272,12 +348,76 @@ function ViewerBody({
               </button>
             ))}
           </div>
+          {task.opts && (
+            <div className="mt-3">
+              <div className="tx mb-1 font-pixel text-lg text-white/70">
+                <Trans>Or pick the option</Trans>
+              </div>
+              <div className="grid grid-cols-2 gap-1.5">
+                {task.opts.map(([tex, answer], i) => (
+                  <button
+                    key={LETTERS[i]}
+                    type="button"
+                    onClick={() => saveNote(answer)}
+                    className={cn(
+                      "flex min-h-11 items-center gap-2 overflow-hidden rounded-lg px-2 py-1 text-left shadow-hard-sm active:translate-y-[2px] active:shadow-none",
+                      note === answer ? "bg-money text-[#3a3000]" : "bg-panel-light text-white hover:bg-grey",
+                    )}
+                  >
+                    <span className="font-pixel text-2xl">{LETTERS[i]}</span>
+                    <span className="min-w-0 truncate text-[16px]">
+                      <Tex tex={tex} />
+                    </span>
+                  </button>
+                ))}
+              </div>
+            </div>
+          )}
           <div className="mt-2 min-h-[28px] font-pixel text-xl text-white/70">
             {note && (parsed === null ? <Trans>Not a number I can read</Trans> : <>= {formatValue(parsed)}</>)}
           </div>
-          <div className="font-pixel text-[17px] leading-tight text-white/50">
-            <Trans>Required to play this card. A wrong answer scores 0 chips.</Trans>
-          </div>
+          {chipsIfRight !== null && (
+            <div className="font-pixel text-lg leading-tight text-blue">
+              <Trans>
+                If right: {formatValue(chipsIfRight + knowledgeChips(task.diff))} chips, +{KNOWLEDGE_MULT} mult
+              </Trans>
+              {parsed !== null && Math.abs(parsed) > VALUE_CAP && Math.abs(chipsIfRight) === VALUE_CAP && (
+                <span className="text-white/50">
+                  {" "}
+                  <Trans>(capped)</Trans>
+                </span>
+              )}
+            </div>
+          )}
+          {isStudy ? (
+            <PixelButton
+              tone="green"
+              size="sm"
+              className="mt-2 w-full"
+              disabled={parsed === null || isChecked}
+              onClick={handleCheck}
+            >
+              <Trans>Check answer</Trans>
+            </PixelButton>
+          ) : (
+            <div className="font-pixel text-[17px] leading-tight text-white/50">
+              <Trans>Required to play this card. A wrong answer scores 0 chips.</Trans>
+            </div>
+          )}
+        </div>
+
+        {/* study record across runs + the manual "don't know" mark */}
+        <div className="flex items-center gap-2 rounded-panel bg-inset px-3 py-2 font-pixel text-xl">
+          <span className="text-green">✓ {progress?.ok ?? 0}</span>
+          <span className="text-red">✗ {progress?.miss ?? 0}</span>
+          <div className="flex-1" />
+          <PixelButton
+            tone={progress?.isMarked ? "purple" : "panel"}
+            size="sm"
+            onClick={() => setMarked(task.id, !progress?.isMarked)}
+          >
+            {progress?.isMarked ? <Trans>Marked: don't know</Trans> : <Trans>I don't know this</Trans>}
+          </PixelButton>
         </div>
 
         {/* what is known about the value */}
@@ -300,6 +440,10 @@ function ViewerBody({
               </div>
             )}
           </div>
+        ) : isStudy ? (
+          <PixelButton tone="blue" size="sm" onClick={() => setIsChecked(true)}>
+            <Trans>Show the answer</Trans>
+          </PixelButton>
         ) : insight && shownValue !== null ? (
           <div className="rounded-panel bg-planet/80 p-4 text-center shadow-hard">
             <div className="tx font-pixel text-2xl text-white">
@@ -338,7 +482,7 @@ function ViewerBody({
               {isSelected ? <Trans>Deselect card</Trans> : <Trans>Select for play</Trans>}
             </PixelButton>
           )}
-          {shopItem && !shopItem.isSold && (
+          {shopItem && run && !shopItem.isSold && (
             <PixelButton
               tone="green"
               size="md"
@@ -364,7 +508,7 @@ function ViewerBody({
             </PixelButton>
           )}
           <PixelButton tone="orange" size="md" onClick={onClose}>
-            <Trans>Back to the table</Trans>
+            {isStudy ? <Trans>Back</Trans> : <Trans>Back to the table</Trans>}
           </PixelButton>
         </div>
       </aside>

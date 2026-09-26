@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\log_{25}1-\\frac12\\log_{25}5$",
    "statement_en": "The number $\\log_{25} 1 - \\frac{1}{2}\\log_{25} 5$ is equal to: A. $-\\frac14$ B. $-\\frac12$ C. $\\frac14$ D. $\\frac12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $3\\sqrt{45}-\\sqrt{20}$",
    "statement_en": "The number $3\\sqrt{45}-\\sqrt{20}$ is equal to: A. $(7\\cdot5)^{1/2}$ B. $5^{1/2}$ C. $7$ D. $7\\cdot5^{1/2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Coat price cut from 240 to 200 zl - by what %?",
    "statement_en": "During a seasonal sale a coat with an original value of 240 zl was marked down to 200 zl. So the price of this coat was reduced by: A. 16 2/3% of its original value. B. 20% of its original value. C. 40% of its original value. D. 83 1/3% of its original value.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Compute $\\frac{3^{-1}}{(-\\frac19)^{-2}}\\cdot81$",
    "statement_en": "The value of the expression $\\dfrac{3^{-1}}{\\left(-\\frac{1}{9}\\right)^{-2}}\\cdot 81$ is equal to: A. $\\frac13$ B. $-\\frac13$ C. $3$ D. $-3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Compute $(2-\\sqrt3)^2-(\\sqrt3-2)^2$",
    "statement_en": "The value of the expression $(2-\\sqrt3)^2-(\\sqrt3-2)^2$ is equal to: A. $-2\\sqrt3$ B. $0$ C. $6$ D. $8\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -123,7 +133,9 @@
    "summary_en": "How many solutions does $(x^2-3x)(x^2+1)=0$ have?",
    "statement_en": "The equation $(x^2-3x)(x^2+1)=0$ in the set of real numbers has exactly: A. one solution. B. two solutions. C. three solutions. D. four solutions.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -141,7 +153,9 @@
    "summary_en": "$f(x)=\\frac{x-k}{x^2+1}$, $f(1)=2$. Find $k$",
    "statement_en": "The function f is defined for every real x by $f(x)=\\dfrac{x-k}{x^2+1}$, where k is some real number. This function satisfies $f(1)=2$. The value of the coefficient k in the formula of this function is equal to: A. -3 B. 3 C. -4 D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -167,7 +181,9 @@
    "summary_en": "Parabola $f(x)=(x-13)^2-256$, one zero is $-3$. Find the other",
    "statement_en": "The quadratic function f is given by the formula $f(x)=(x-13)^2-256$. One of the zeros of this function is the number -3. The other zero of the function f is: A. -29 B. -23 C. 23 D. 29",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -201,7 +217,9 @@
    "summary_en": "Extreme value of $f(x)=-(x-1)(x-5)$",
    "statement_en": "The quadratic function f, defined by $f(x)=-(x-1)(x-5)$, attains: A. a minimum value equal to 3. B. a minimum value equal to 4. C. a maximum value equal to 3. D. a maximum value equal to 4.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +237,9 @@
    "summary_en": "$a_n=(-1)^n\\cdot\\frac{n+1}{2}$. Find $a_3$",
    "statement_en": "The sequence $(a_n)$ is defined by $a_n=(-1)^n\\cdot\\frac{n+1}{2}$ for every natural number $n\\ge1$. The third term of this sequence is equal to: A. 2 B. -2 C. 3 D. -1",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -237,7 +257,9 @@
    "summary_en": "Geometric seq. $(-2,1,x,y)$. Sum of all terms",
    "statement_en": "The four-term sequence $(-2, 1, x, y)$ is geometric. The sum of all terms of this sequence is equal to: A. $-\\frac54$ B. $-4$ C. $-\\frac14$ D. $-\\frac{15}{4}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -255,7 +277,9 @@
    "summary_en": "Circle $r=3$, sector $30°$. Find sector perimeter",
    "statement_en": "A circle has radius 3. The perimeter of the sector of this circle with central angle $30°$ is equal to: A. $\\frac34\\pi$ B. $\\frac12\\pi$ C. $\\frac34\\pi+6$ D. $\\frac12\\pi+6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -273,7 +297,9 @@
    "summary_en": "$\\cos\\alpha=\\frac{2\\sqrt6}{7}$, acute $\\alpha$. Find $\\sin\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $\\cos\\alpha=\\dfrac{2\\sqrt6}{7}$. The sine of angle $\\alpha$ is equal to: A. $\\frac{24}{49}$ B. $\\frac57$ C. $\\frac{25}{49}$ D. $\\frac{\\sqrt6}{7}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -291,7 +317,9 @@
    "summary_en": "Central $\\beta$ is $40°$ more than inscribed $\\alpha$. Find $\\beta$",
    "statement_en": "In circle O, the central angle $\\beta$ and the inscribed angle $\\alpha$ are subtended by the same arc. Angle $\\beta$ has a measure $40°$ greater than angle $\\alpha$. The measure of angle $\\beta$ is equal to: A. $40°$ B. $80°$ C. $100°$ D. $120°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -309,7 +337,9 @@
    "summary_en": "Area of equilateral triangle with height $3$",
    "statement_en": "The area of an equilateral triangle with height 3 is equal to: A. $\\frac{3\\sqrt3}{4}$ B. $\\frac{9\\sqrt3}{4}$ C. $3\\sqrt3$ D. $6\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -327,7 +357,9 @@
    "summary_en": "Interior angle of a regular decagon",
    "statement_en": "Each of the interior angles of a regular decagon has a measure of: A. $120°$ B. $135°$ C. $144°$ D. $150°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -361,7 +393,9 @@
    "summary_en": "Parallelogram $ABCD$: $A=(-1,-4)$, center $S=(2,2)$. Length of $AC$",
    "statement_en": "In the coordinate system (x, y), point $A=(-1,-4)$ is a vertex of parallelogram $ABCD$. Point $S=(2,2)$ is the center of symmetry of this parallelogram. The length of diagonal $AC$ of parallelogram $ABCD$ is equal to: A. $\\sqrt5$ B. $2\\sqrt5$ C. $3\\sqrt5$ D. $6\\sqrt5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -379,7 +413,9 @@
    "summary_en": "Hexagonal prism, edge $6$. Total surface area",
    "statement_en": "[Info for tasks 25-26: every edge of a regular hexagonal prism has length 6.] The total surface area of this prism is equal to: A. $216+18\\sqrt3$ B. $216+54\\sqrt3$ C. $216+216\\sqrt3$ D. $216+108\\sqrt3$",
    "confidence": "high",
-   "notes": " [verified: fix: Answer 216+108sqrt3 (key D) is right, but stored decimal 403.06114877131 is mistyped; 216+108*sqrt(3)=403.06148721743875.]"
+   "notes": " [verified: fix: Answer 216+108sqrt3 (key D) is right, but stored decimal 403.06114877131 is mistyped; 216+108*sqrt(3)=403.06148721743875.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -393,11 +429,13 @@
    "topic_pl": "Kąt przekątnej z podstawą",
    "topic_en": "Angle of diagonal with base",
    "difficulty": 3,
-   "summary_pl": "Graniastosłup sześciokątny: cosinus kąta przekątnej z podstawą",
-   "summary_en": "Hexagonal prism: cosine of angle between diagonal and base",
+   "summary_pl": "Gr. prawidł. 6-kątny, kraw. $6$: cos kąta dłuższej przekątnej z podst.",
+   "summary_en": "Regular hexagonal prism, edges $6$: cos of longer diagonal to base",
    "statement_en": "[Same regular hexagonal prism, every edge 6.] The cosine of the angle of inclination of the longer diagonal of this prism to the plane of its base is equal to: A. $\\frac12$ B. $\\frac{2}{\\sqrt5}$ C. $\\frac{1}{\\sqrt5}$ D. $\\frac{\\sqrt3}{2}$",
    "confidence": "high",
-   "notes": " [verified: ok: Long base diagonal 12, height 6, space diagonal 6sqrt5; cos=12/(6sqrt5)=2/sqrt5. Key B.]"
+   "notes": " [verified: ok: Long base diagonal 12, height 6, space diagonal 6sqrt5; cos=12/(6sqrt5)=2/sqrt5. Key B.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -415,7 +453,9 @@
    "summary_en": "Pyramid: lateral:base area = 12. Ratio of slant height to base edge",
    "statement_en": "In a regular quadrilateral pyramid, the ratio of the lateral surface area to the base area is equal to 12. It follows that in this pyramid, the ratio of the slant height of a lateral face to the base edge is equal to: A. 24 B. 3 C. 6 D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -433,7 +473,9 @@
    "summary_en": "Wage distribution of 100 employees - find the mean",
    "statement_en": "[Bar chart: number of employees vs. gross salary for January 2023: 4800 zl - 10 employees, 5100 zl - 36, 5500 zl - 5, 5900 zl - 25, 6400 zl - 18, 7500 zl - 4, 8600 zl - 2.] The average gross salary of all one hundred employees of this company for January 2023 is equal to: A. 5690 zl B. 5280 zl C. 6257 zl D. 5900 zl",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "29",
@@ -451,7 +493,9 @@
    "summary_en": "How many 4-digit numbers have all distinct digits?",
    "statement_en": "The number of all four-digit natural numbers whose decimal digits do not repeat is: A. $9\\cdot10\\cdot10\\cdot10\\cdot10$ B. $9\\cdot9\\cdot9\\cdot9$ C. $10\\cdot9\\cdot8\\cdot7$ D. $9\\cdot9\\cdot8\\cdot7$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -477,7 +521,9 @@
    "summary_en": "Arithmetic seq. $(3x^2+5x,\\,x^2,\\,20-x^2)$. Find $x$",
    "statement_en": "The sequence $(3x^2+5x,\\ x^2,\\ 20-x^2)$ is arithmetic. Find x.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -503,7 +549,9 @@
    "summary_en": "Trapezoid: $CD=6$, leg $4$, angles $60°$. Find the area",
    "statement_en": "Given is an isosceles trapezoid $ABCD$, in which base $CD$ has length 6, leg $AD$ has length 4, and angles $BAD$ and $ABC$ have measure $60°$ [figure: trapezoid ABCD with D and C on top, A and B on bottom]. Find the area of this trapezoid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -521,7 +569,9 @@
    "summary_en": "Solve $\\frac{2x-3}{3x-2}=\\frac{1}{2x}$ (sum of solutions)",
    "statement_en": "Solve the equation $\\dfrac{2x-3}{3x-2}=\\dfrac{1}{2x}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "35",
@@ -539,7 +589,9 @@
    "summary_en": "Draw 2 from $\\{1,...,5\\}$ no replacement - P(both odd)",
    "statement_en": "From the set of five numbers $\\{1,2,3,4,5\\}$ we draw without replacement, one after another, two numbers. Calculate the probability of event A: both drawn numbers are odd.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "36",
@@ -557,7 +609,9 @@
    "summary_en": "Triangle ABC: perp. bisector of AB meets BC at D (sum of coords)",
    "statement_en": "Points $A=\\left(\\frac{22}{5},-\\frac{21}{5}\\right)$, $B=(6,7)$ and $C=(-9,2)$ are vertices of triangle $ABC$. The perpendicular bisector of side $AB$ of this triangle intersects side $BC$ at point D. Find the coordinates of point D.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

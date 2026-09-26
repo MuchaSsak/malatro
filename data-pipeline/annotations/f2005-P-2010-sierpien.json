@@ -17,7 +17,9 @@
    "summary_en": "Price incl. 22% VAT (net price 60 PLN)",
    "statement_en": "The net price (without VAT) of a product is 60 PLN. Including 22% VAT, this product costs: A. 73.20 PLN B. 49.18 PLN C. 60.22 PLN D. 82 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "3^{16}",
    "answer_tex": "3^{16}",
    "category": "liczby",
-   "topic_pl": "Potegi",
+   "topic_pl": "Potęgi",
    "topic_en": "Powers",
    "difficulty": 2,
    "summary_pl": "Oblicz iloczyn $81^2 \\cdot 9^4$",
    "summary_en": "Compute the product $81^2 \\cdot 9^4$",
    "statement_en": "The product $81^2 \\cdot 9^4$ equals: A. $3^4$ B. $3^0$ C. $3^{16}$ D. $3^{14}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_3 9 - \\log_3 1$",
    "statement_en": "The difference $\\log_3 9 - \\log_3 1$ equals: A. 0 B. 1 C. 2 D. 3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -80,14 +86,16 @@
    "value_tex": "7-4\\sqrt{3}",
    "answer_tex": "7-4\\sqrt{3}",
    "category": "liczby",
-   "topic_pl": "Dzialania na pierwiastkach",
+   "topic_pl": "Działania na pierwiastkach",
    "topic_en": "Operations on roots",
    "difficulty": 2,
    "summary_pl": "Kwadrat liczby $x=2-\\sqrt3$",
    "summary_en": "Square of the number $x=2-\\sqrt3$",
    "statement_en": "The square of the number $x=2-\\sqrt{3}$ equals: A. $7-4\\sqrt3$ B. $7+4\\sqrt3$ C. 1 D. 7",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -106,14 +114,16 @@
    "value_tex": "2",
    "answer_tex": "2 \\text{ rozwiazania } (x=2 \\lor x=-2)",
    "category": "rownania",
-   "topic_pl": "Rozwiazania rownania",
+   "topic_pl": "Rozwiązania równania",
    "topic_en": "Equation solutions",
    "difficulty": 2,
    "summary_pl": "Ile rozwiązań ma $\\frac{x^2-4}{(x-4)(x+4)}=0$?",
    "summary_en": "How many solutions does $\\frac{x^2-4}{(x-4)(x+4)}=0$ have?",
    "statement_en": "The equation $\\frac{x^2-4}{(x-4)(x+4)}=0$: A. has no solutions. B. has exactly one solution. C. has exactly two solutions. D. has exactly four solutions.",
    "confidence": "high",
-   "notes": "Options are descriptive phrases but the underlying quantity is the count of solutions (2), so treated as a countable single value."
+   "notes": "Options are descriptive phrases but the underlying quantity is the count of solutions (2), so treated as a countable single value.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -124,14 +134,16 @@
    "value_tex": "-2",
    "answer_tex": "x=-2",
    "category": "funkcje",
-   "topic_pl": "Wierzcholek paraboli",
+   "topic_pl": "Wierzchołek paraboli",
    "topic_en": "Vertex of a parabola",
    "difficulty": 1,
-   "summary_pl": "Wspolrzedna x wierzcholka paraboli $y=x^2+4x-13$",
+   "summary_pl": "Współrzędna $x$ wierzchołka paraboli $y=x^2+4x-13$",
    "summary_en": "x-coordinate of the vertex of $y=x^2+4x-13$",
    "statement_en": "The vertex of the parabola $y=x^2+4x-13$ lies on the line: A. $x=-2$ B. $x=2$ C. $x=4$ D. $x=-4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -149,7 +161,9 @@
    "summary_en": "For which $m$ is $f(x)=(m-1)x+6$ increasing?",
    "statement_en": "Indicate $m$ for which the linear function $f(x)=(m-1)x+6$ is increasing: A. $m=-1$ B. $m=0$ C. $m=1$ D. $m=2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -183,7 +197,9 @@
    "summary_en": "Find $a$ if $f(x)=\\frac{a}{x}$ passes through $(2,6)$",
    "statement_en": "The point $A=(2,6)$ lies on the graph of $f(x)=\\frac{a}{x}$ for $x\\neq0$. Then: A. $a=2$ B. $a=6$ C. $a=8$ D. $a=12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -194,14 +210,16 @@
    "value_tex": "14",
    "answer_tex": "a_5=14",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $a_2=5$, $a_4=11$. Oblicz $a_5$",
    "summary_en": "Arithmetic sequence: $a_2=5$, $a_4=11$. Find $a_5$",
    "statement_en": "In an arithmetic sequence $(a_n)$, $a_2=5$ and $a_4=11$. Compute $a_5$: A. 8 B. 14 C. 17 D. 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -212,14 +230,16 @@
    "value_tex": "\\sqrt{2}",
    "answer_tex": "q=\\sqrt{2}",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 3,
    "summary_pl": "Ciąg geom. malejący: $a_1=-2$, $a_3=-4$. Oblicz iloraz",
    "summary_en": "Decreasing geometric sequence: $a_1=-2$, $a_3=-4$. Find the ratio",
    "statement_en": "In a decreasing geometric sequence $(a_n)$, $a_1=-2$ and $a_3=-4$. The common ratio equals: A. $-2$ B. $2$ C. $-\\sqrt2$ D. $\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -230,14 +250,16 @@
    "value_tex": "\\frac{\\sqrt{7}}{4}",
    "answer_tex": "\\sin\\alpha=\\frac{\\sqrt7}{4}",
    "category": "trygonometria",
-   "topic_pl": "Wartosci trygonometryczne",
+   "topic_pl": "Wartości trygonometryczne",
    "topic_en": "Trigonometric values",
    "difficulty": 2,
    "summary_pl": "Kąt ostry $\\alpha$: $\\cos\\alpha=\\frac34$. Oblicz $\\sin\\alpha$",
    "summary_en": "Acute angle $\\alpha$: $\\cos\\alpha=\\frac34$. Find $\\sin\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $\\cos\\alpha=\\frac{3}{4}$. Then $\\sin\\alpha$ equals: A. $\\frac14$ B. $\\frac{\\sqrt3}{4}$ C. $\\frac{\\sqrt7}{4}$ D. $\\frac{7}{16}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -248,14 +270,16 @@
    "value_tex": "18",
    "answer_tex": "18",
    "category": "planimetria",
-   "topic_pl": "Trojkat rownoboczny",
+   "topic_pl": "Trójkąt równoboczny",
    "topic_en": "Equilateral triangle",
    "difficulty": 2,
    "summary_pl": "Promień okręgu opisanego na trójk. równobocznym = 12. Wysokość?",
    "summary_en": "Circumradius of an equilateral triangle is 12. Find its height",
    "statement_en": "The circumscribed circle of an equilateral triangle has radius 12. The height of this triangle equals: A. 18 B. 20 C. 22 D. 24",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -266,14 +290,16 @@
    "value_tex": "\\sqrt{85}",
    "answer_tex": "AD=\\sqrt{85}",
    "category": "planimetria",
-   "topic_pl": "Prostokat",
+   "topic_pl": "Prostokąt",
    "topic_en": "Rectangle",
    "difficulty": 2,
    "summary_pl": "Przekątna $AC=11$ prostokąta, $AB$ krótszy o 5. Oblicz $AD$",
    "summary_en": "Diagonal $AC=11$ of a rectangle, $AB$ shorter by 5. Find $AD$",
    "statement_en": "The diagonal $AC$ of rectangle $ABCD$ has length 11, and side $AB$ is 5 shorter than it. Compute the length of side $AD$: A. $\\sqrt{157}$ B. $\\sqrt{85}$ C. 5 D. $\\sqrt{83}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -284,14 +310,16 @@
    "value_tex": "54",
    "answer_tex": "54^\\circ",
    "category": "planimetria",
-   "topic_pl": "Kat wpisany",
+   "topic_pl": "Kąt wpisany",
    "topic_en": "Inscribed angle",
    "difficulty": 3,
    "summary_pl": "Dziesięciokąt wpisany w okrąg: oblicz kąt wpisany $BGE$",
    "summary_en": "Ten points on a circle: find inscribed angle $BGE$",
    "statement_en": "Points A, B, C, D, E, F, G, H, I, J divide a circle with center S into ten equal arcs. Compute the measure of the inscribed angle $BGE$ shown in the figure [Figure: circle with 10 equally spaced points labelled clockwise G, F, E, D, C, B, A, J, I, H; angle BGE marked at vertex G]: A. $54°$ B. $72°$ C. $60°$ D. $45°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -302,14 +330,16 @@
    "value_tex": "10",
    "answer_tex": "10",
    "category": "analityczna",
-   "topic_pl": "Kwadrat na plaszczyznie",
+   "topic_pl": "Kwadrat na płaszczyźnie",
    "topic_en": "Square in the plane",
    "difficulty": 2,
    "summary_pl": "$A=(-1,3)$, $C=(-5,5)$ przeciwlegle wierzcholki kwadratu. Pole?",
    "summary_en": "$A=(-1,3)$, $C=(-5,5)$ are opposite square vertices. Find the area",
    "statement_en": "Points $A=(-1,3)$ and $C=(-5,5)$ are opposite vertices of square $ABCD$. The area of this square equals: A. 10 B. 25 C. 50 D. 100",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -320,14 +350,16 @@
    "value_tex": "\\sqrt{13}",
    "answer_tex": "r=\\sqrt{13}",
    "category": "analityczna",
-   "topic_pl": "Rownanie okregu",
+   "topic_pl": "Równanie okręgu",
    "topic_en": "Equation of a circle",
    "difficulty": 1,
    "summary_pl": "Promień okręgu $(x+2)^2+(y-1)^2=13$",
    "summary_en": "Radius of the circle $(x+2)^2+(y-1)^2=13$",
    "statement_en": "The circle with equation $(x+2)^2+(y-1)^2=13$ has radius: A. $\\sqrt{13}$ B. 13 C. 8 D. $2\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -346,14 +378,16 @@
    "value_tex": "36",
    "answer_tex": "36\\text{ cm}",
    "category": "stereometria",
-   "topic_pl": "Szescian",
+   "topic_pl": "Sześcian",
    "topic_en": "Cube",
    "difficulty": 2,
    "summary_pl": "Objętość sześcianu $27\\,cm^3$. Suma długości krawędzi?",
    "summary_en": "Cube volume $27\\,cm^3$. Sum of all edge lengths?",
    "statement_en": "The volume of a cube is $27\\text{ cm}^3$. What is the sum of the lengths of all edges of this cube? A. 18 cm B. 36 cm C. 24 cm D. 12 cm",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -364,14 +398,16 @@
    "value_tex": "10",
    "answer_tex": "10",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup",
+   "topic_pl": "Graniastosłup",
    "topic_en": "Prism",
    "difficulty": 2,
    "summary_pl": "Graniastosłup ma 15 krawędzi. Ile wierzchołków?",
    "summary_en": "A prism has 15 edges. How many vertices?",
    "statement_en": "A prism has 15 edges. How many vertices does this prism have? A. 10 B. 5 C. 15 D. 30",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -398,14 +434,16 @@
    "value_tex": "3",
    "answer_tex": "x=3",
    "category": "rownania",
-   "topic_pl": "Rownanie wielomianowe",
+   "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 3,
    "summary_pl": "Rozwiąż $x^3-3x^2+2x-6=0$",
    "summary_en": "Solve $x^3-3x^2+2x-6=0$",
    "statement_en": "Solve the equation $x^3-3x^2+2x-6=0$.",
    "confidence": "high",
-   "notes": "Factors as (x-3)(x^2+2)=0; x^2+2 has no real roots, so x=3 is the only real solution."
+   "notes": "Factors as (x-3)(x^2+2)=0; x^2+2 has no real roots, so x=3 is the only real solution.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -416,14 +454,16 @@
    "value_tex": "2",
    "answer_tex": "a_1=2",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $a_5=26$, $S_5=70$. Oblicz $a_1$",
    "summary_en": "Arithmetic sequence: $a_5=26$, $S_5=70$. Find $a_1$",
    "statement_en": "The fifth term of an arithmetic sequence is 26, and the sum of its first five terms is 70. Compute the first term of this sequence.",
    "confidence": "high",
-   "notes": " [verified: ok: S5=5(a1+26)/2=70 -> a1=2. Matches key.]"
+   "notes": " [verified: ok: S5=5(a1+26)/2=70 -> a1=2. Matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -458,14 +498,16 @@
    "value_tex": "\\frac{1}{12}",
    "answer_tex": "P(A)=\\frac{1}{12}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 3,
    "summary_pl": "Rzut 2 kostkami: $P$(suma>6 i iloczyn nieparzysty)",
    "summary_en": "Roll two dice: $P$(sum>6 and product odd)",
    "statement_en": "A cubical die is rolled twice. Compute the probability of the event that the sum of the numbers shown on both dice is greater than 6 and the product of these numbers is odd.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -476,14 +518,16 @@
    "value_tex": "70",
    "answer_tex": "P=70",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup prawidlowy",
+   "topic_pl": "Graniastosłup prawidłowy",
    "topic_en": "Regular prism",
    "difficulty": 3,
    "summary_pl": "Graniastosłup prawidłowy: $AB=10$, $CF=11$. Pole $\\triangle ABF$",
    "summary_en": "Regular prism: $AB=10$, $CF=11$. Area of $\\triangle ABF$",
    "statement_en": "Given is a regular triangular prism $ABCDEF$ with bases $ABC$ and $DEF$, and lateral edges $AD$, $BE$, $CF$. Compute the area of triangle $ABF$, given that $AB=10$ and $CF=11$. Draw this prism and mark triangle $ABF$ on it.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -497,11 +541,13 @@
    "topic_pl": "Zadanie tekstowe",
    "topic_en": "Word problem",
    "difficulty": 3,
-   "summary_pl": "Rowerzysta: 60 km, +1 km/h szybciej = -6 min. Oblicz predkosc",
+   "summary_pl": "Kolarz: 60 km; o 1 km/h szybciej = o 6 min krócej. Prędkość?",
    "summary_en": "Cyclist: 60 km, +1 km/h faster saves 6 min. Find the speed",
    "statement_en": "A cyclist rode a route of length 60 km. Had he ridden with an average speed greater by 1 km/h, he would have covered this route in a time shorter by 6 minutes. Compute the average speed at which this cyclist rode.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

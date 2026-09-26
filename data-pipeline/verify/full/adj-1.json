@@ -1,0 +1,57 @@
+[
+ {
+  "exam": "f2015-R-2016-czerwiec",
+  "task": "17",
+  "verdict": "fix",
+  "solved_value": 1.786549845345771,
+  "value": 1.786549845345771,
+  "answer_tex": "r=\\frac{\\sqrt3}{3},\\ V_{max}=\\frac{2\\sqrt3\\pi}{9}",
+  "value_tex": "\\frac{\\sqrt3}{3}+\\frac{2\\sqrt3\\,\\pi}{9}",
+  "answer_kind": "sum",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "h=(1-r^2)/r, V=pi(r-r^3), V'=0 at r=sqrt3/3, V=2sqrt3pi/9 (key same). Stored r=cbrt(1/3) wrong; sum r+V=1.786550."
+ },
+ {
+  "exam": "f2015-R-2026-maj",
+  "task": "11",
+  "verdict": "fix",
+  "solved_value": 7.70561208549239,
+  "value": 7.70561208549239,
+  "answer_tex": "a=3\\sqrt6,\\ \\cos\\beta=\\frac{5}{14}",
+  "value_tex": "3\\sqrt{6}+\\frac{5}{14}",
+  "answer_kind": "sum",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "R=3sqrt2, a=3sqrt6; dihedral cos=5/14 checked with 3D coordinates; key same. Stored float 7.704612 off by 0.001; correct 7.705612."
+ },
+ {
+  "exam": "f2005-R-2014-czerwiec",
+  "task": "7",
+  "verdict": "fix",
+  "solved_value": 9.6,
+  "value": 9.6,
+  "answer_tex": "A=(2,0),\\ B=\\left(\\frac{26}{5},\\frac{12}{5}\\right)",
+  "value_tex": "\\frac{48}{5}",
+  "answer_kind": "sum",
+  "exclude_reason": null,
+  "summary_fix": {
+   "pl": "$AB=4$ na $y=\\frac34x-\\frac32$, symetralna przez $(0,6)$: suma wsp.",
+   "en": "$AB=4$ on $y=\\frac34x-\\frac32$, bisector via $(0,6)$: sum of coords"
+  },
+  "reason": "S=(18/5,6/5), x=2 or 26/5 -> (2,0),(26/5,12/5), key same. Stored (-2,0) not on line. Sum of 4 coords=48/5; summary must say sum."
+ },
+ {
+  "exam": "f2015-P-2015-maj",
+  "task": "32",
+  "verdict": "fix",
+  "solved_value": 687.0580079512686,
+  "value": 687.0580079512686,
+  "answer_tex": "P_c=48\\left(3+8\\sqrt2\\right)",
+  "value_tex": "144+384\\sqrt{2}",
+  "answer_kind": "single",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "tan=4/3, base diag 12, a=6sqrt2, Pc=2a^2+4*16a=144+384sqrt2=687.058; key same. Stored decimal 687.0964 wrong."
+ }
+]

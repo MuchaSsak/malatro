@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\log_{\\sqrt2} 2$",
    "statement_en": "The number $\\log_{\\sqrt2} 2$ is equal to: A. $2$ B. $4$ C. $\\sqrt2$ D. $\\frac12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "How many digits does $n=2^{14}\\cdot5^{15}$ have?",
    "statement_en": "The natural number $n=2^{14}\\cdot5^{15}$ written in decimal form has: A. $14$ digits B. $15$ digits C. $16$ digits D. $30$ digits",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Commission dropped from 4% to 3%. By what percent?",
    "statement_en": "At a certain bank, the commission on mortgage loans was 4% throughout January. At the beginning of February the bank lowered the commission on all loans by 1 percentage point. This means the mortgage loan commission at this bank decreased by: A. $1\\%$ B. $25\\%$ C. $33\\%$ D. $75\\%$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "$1/4+1/5+1/a=1$. Find $a$",
    "statement_en": "The equality $\\frac14+\\frac15+\\frac1a=1$ is true for: A. $a=\\frac{11}{20}$ B. $a=\\frac89$ C. $a=\\frac98$ D. $a=\\frac{20}{11}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "For which $a$ does $x=2,y=2$ solve the system?",
    "statement_en": "The pair of numbers $x=2$ and $y=2$ is a solution of the system of equations $\\begin{cases}ax+y=4\\\\ -2x+3y=2a\\end{cases}$ for: A. $a=-1$ B. $a=1$ C. $a=-2$ D. $a=2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -107,7 +117,9 @@
    "summary_en": "Solve $(x-1)(x+2)/(x-3)=0$ (sum of solutions)",
    "statement_en": "The equation $\\frac{(x-1)(x+2)}{x-3}=0$: A. has three distinct solutions: $x=1$, $x=3$, $x=-2$. B. has three distinct solutions: $x=-1$, $x=-3$, $x=2$. C. has two distinct solutions: $x=1$, $x=-2$. D. has two distinct solutions: $x=-1$, $x=2$.",
    "confidence": "high",
-   "notes": "Sum of the two actual solutions x=1 and x=-2 equals -1 (x=3 is excluded, it makes the denominator zero)."
+   "notes": "Sum of the two actual solutions x=1 and x=-2 equals -1 (x=3 is excluded, it makes the denominator zero).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -125,7 +137,9 @@
    "summary_en": "Zero of $f(x)=3(x+1)-6\\sqrt3$",
    "statement_en": "The zero of the linear function $f$ given by $f(x)=3(x+1)-6\\sqrt3$ is the number: A. $3-6\\sqrt3$ B. $1-6\\sqrt3$ C. $2\\sqrt3-1$ D. $2\\sqrt3-\\frac13$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -157,11 +171,13 @@
    "topic_pl": "Funkcja kwadratowa - wykres",
    "topic_en": "Quadratic function graph",
    "difficulty": 2,
-   "summary_pl": "Parabola (jak wyżej). Najw. wartość $f$ na $[1,4]$?",
-   "summary_en": "Same parabola. Greatest value of $f$ on $[1,4]$?",
-   "statement_en": "For the parabola described above (vertex $W=(2,-4)$, zeros at $0$ and $4$), the greatest value of function $f$ on the interval $\\langle1,4\\rangle$ is equal to: A. $-3$ B. $-4$ C. $4$ D. $0$",
+   "summary_pl": "Parabola, =(2,-4)$, zera 0 i 4. Najw. wartość $ na 40",
+   "summary_en": "Parabola, =(2,-4)$, zeros 0 and 4. Max of $ on 40",
+   "statement_en": "The figure shows a fragment of the parabola that is the graph of the quadratic function $f$. The vertex of this parabola is the point $W=(2,-4)$. The numbers $0$ and $4$ are the zeros of $f$. The greatest value of the function $f$ on the interval $\\langle 1,4\\rangle$ is equal to: A. $-3$ B. $-4$ C. $4$ D. $0$",
    "confidence": "high",
-   "notes": " [verified: ok: f=x(x-4): f(1)=-3, f(2)=-4, f(4)=0; max on <1,4> is 0, option D, key D (Wersja I).]"
+   "notes": " [verified: ok: f=x(x-4): f(1)=-3, f(2)=-4, f(4)=0; max on <1,4> is 0, option D, key D (Wersja I).]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "10",
@@ -179,7 +195,9 @@
    "summary_en": "Same parabola. Axis of symmetry?",
    "statement_en": "For the parabola described above (vertex $W=(2,-4)$, zeros at $0$ and $4$), the axis of symmetry of the graph of $f$ is the line with equation: A. $y=-4$ B. $x=-4$ C. $y=2$ D. $x=2$",
    "confidence": "high",
-   "notes": " [verified: ok: Vertex (2,-4) -> axis x=2, option D, key D (Wersja I).]"
+   "notes": " [verified: ok: Vertex (2,-4) -> axis x=2, option D, key D (Wersja I).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -197,7 +215,9 @@
    "summary_en": "Arithmetic sequence: $a_1=7,a_8=-49$. Sum of first 8 terms?",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for $n\\ge1$, two terms are given: $a_1=7$ and $a_8=-49$. The sum of the first eight terms of this sequence is equal to: A. $-168$ B. $-189$ C. $-21$ D. $-42$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -215,7 +235,9 @@
    "summary_en": "Geometric sequence, positive terms: $a_5/a_3=1/9$. Ratio?",
    "statement_en": "A geometric sequence $(a_n)$, defined for $n\\ge1$, has all positive terms and satisfies $\\frac{a_5}{a_3}=\\frac19$. The common ratio of this sequence is equal to: A. $\\frac13$ B. $\\frac{1}{\\sqrt3}$ C. $3$ D. $\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -233,7 +255,9 @@
    "summary_en": "$\\sin\\alpha=4/5$. Find $\\cos\\alpha$",
    "statement_en": "The sine of the acute angle $\\alpha$ is equal to $\\frac45$. Then: A. $\\cos\\alpha=\\frac54$ B. $\\cos\\alpha=\\frac15$ C. $\\cos\\alpha=\\frac{9}{25}$ D. $\\cos\\alpha=\\frac35$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -251,7 +275,9 @@
    "summary_en": "Circle around equilateral $ABC$, $CD$ diameter. Angle $DEB$?",
    "statement_en": "Points $D$ and $E$ lie on the circle circumscribed about equilateral triangle $ABC$ (see figure). Segment $CD$ is a diameter of this circle. The inscribed angle $DEB$ has measure $\\alpha$. Then: A. $\\alpha=30°$ B. $\\alpha<30°$ C. $\\alpha>45°$ D. $\\alpha=45°$ [Figure: circle circumscribed about equilateral triangle ABC; D is diametrically opposite C, on the arc AB; E lies on the arc between C and B; angle DEB is marked at E]",
    "confidence": "high",
-   "notes": "D is the midpoint of arc AB not containing C, so arc DB = 60°; since E lies on the major arc (not between D and B), inscribed angle DEB = 30° exactly."
+   "notes": "D is the midpoint of arc AB not containing C, so arc DB = 60°; since E lies on the major arc (not between D and B), inscribed angle DEB = 30° exactly.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "15",
@@ -269,7 +295,9 @@
    "summary_en": "Circles r=5, r=3, OP=16, tangent AB meets OP at K. Find OK",
    "statement_en": "Two circles are given: a circle with center $O$ and radius $5$, and a circle with center $P$ and radius $3$. Segment $OP$ has length $16$. Line $AB$ is tangent to both circles at points $A$ and $B$. Moreover, line $AB$ intersects segment $OP$ at point $K$ (see figure). Then: A. $|OK|=6$ B. $|OK|=8$ C. $|OK|=10$ D. $|OK|=12$ [Figure: two circles with centers O (larger, radius 5) and P (smaller, radius 3), OP=16; a common internal tangent line touches the circles at A and B and crosses segment OP at K, between O and P]",
    "confidence": "high",
-   "notes": "Internal tangent divides OP in ratio of radii: OK/KP=5/3, OP=16, so OK=10."
+   "notes": "Internal tangent divides OP in ratio of radii: OK/KP=5/3, OP=16, so OK=10.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -287,7 +315,9 @@
    "summary_en": "Rhombus, side 4, obtuse angle $150°$. Area?",
    "statement_en": "Given is a rhombus with side length $4$ and obtuse angle $150°$. The area of this rhombus is equal to: A. $8$ B. $12$ C. $8\\sqrt3$ D. $16$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -305,7 +335,9 @@
    "summary_en": "For which $m$ are the two lines parallel?",
    "statement_en": "The lines with equations $y=(2m+2)x-2019$ and $y=(3m-3)x+2019$ are parallel when: A. $m=-1$ B. $m=0$ C. $m=1$ D. $m=5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -323,7 +355,9 @@
    "summary_en": "$y=ax+b\\perp y=-4x+1$, through $P=(1/2,0)$. $a,b$ (sum)",
    "statement_en": "The line with equation $y=ax+b$ is perpendicular to the line with equation $y=-4x+1$ and passes through point $P=(\\frac12,0)$, when: A. $a=-4$ and $b=-2$ B. $a=\\frac14$ and $b=-\\frac18$ C. $a=-4$ and $b=2$ D. $a=\\frac14$ and $b=\\frac12$",
    "confidence": "high",
-   "notes": "Sum = a + b = 1/4 + (-1/8) = 1/8."
+   "notes": "Sum = a + b = 1/4 + (-1/8) = 1/8.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -337,11 +371,13 @@
    "topic_pl": "Symetria środkowa",
    "topic_en": "Point symmetry",
    "difficulty": 2,
-   "summary_pl": "$A=(0,4),B=(2,2)$. Obraz prostej $AB$ w symetrii środkowej?",
-   "summary_en": "$A=(0,4), B=(2,2)$. Image of line AB under point symmetry?",
+   "summary_pl": "Prosta przez $(0,4),(2,2)$, symetria wzgl. $(0,0)$. Wyraz wolny obrazu",
+   "summary_en": "Line through $(0,4),(2,2)$, reflect in origin. Image's constant term?",
    "statement_en": "A fragment of the graph of linear function $f$ is shown. Points $A=(0,4)$ and $B=(2,2)$ lie on this graph. The image of line $AB$ under symmetry with respect to the origin of the coordinate system is the graph of function $g$ given by: A. $g(x)=x+4$ B. $g(x)=x-4$ C. $g(x)=-x-4$ D. $g(x)=-x+4$ [Figure: line through A=(0,4) and B=(2,2), sloping downward, crossing the x-axis near x=4]",
    "confidence": "high",
-   "notes": "Value is the constant term -4 of g(x)=-x-4, the number identifying the correct option."
+   "notes": "Value is the constant term -4 of g(x)=-x-4, the number identifying the correct option.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -359,7 +395,9 @@
    "summary_en": "$A=(-2,5),B=(4,-1)$. Diameter of circle inscribed in square with side AB?",
    "statement_en": "Points with coordinates $A=(-2,5)$ and $B=(4,-1)$ are given. The diameter of the circle inscribed in the square with side $AB$ is equal to: A. $12$ B. $6$ C. $6\\sqrt2$ D. $2\\sqrt6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -377,7 +415,9 @@
    "summary_en": "Cuboid $5\\times3\\times2$. Length of diagonal $KL$?",
    "statement_en": "A box in the shape of a cuboid has dimensions $5\\text{ dm}\\times3\\text{ dm}\\times2\\text{ dm}$ (see figure). The diagonal $KL$ of this cuboid is - to an accuracy of $0.01$ dm - equal to: A. $5.83$ dm B. $6.16$ dm C. $3.61$ dm D. $5.39$ dm [Figure: cuboid with edges 5 dm, 3 dm, 2 dm; K at one bottom vertex, L at the opposite top vertex; KL is the space diagonal]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "22",
@@ -395,7 +435,9 @@
    "summary_en": "Sphere and cone, r=4, equal surface areas. Slant height of cone?",
    "statement_en": "The radius of a sphere and the radius of the base of a cone are both equal to $4$. The surface area of the sphere equals the total surface area of the cone. The slant height of the cone is equal to: A. $8$ B. $4$ C. $16$ D. $12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -413,7 +455,9 @@
    "summary_en": "Median of $4,8,21,a,16,25$ is 14. Find $a$",
    "statement_en": "The median of the set of six numbers: $4, 8, 21, a, 16, 25$, is equal to $14$. Then: A. $a=7$ B. $a=12$ C. $a=14$ D. $a=20$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -431,7 +475,9 @@
    "summary_en": "How many 5-digit numbers use only digits 0, 2, 5?",
    "statement_en": "The total number of five-digit numbers in which only the digits $0$, $2$, $5$ occur is: A. $12$ B. $36$ C. $162$ D. $243$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -449,7 +495,9 @@
    "summary_en": "40 balls, 35 white. Probability of drawing a red one?",
    "statement_en": "There are 40 balls in a box. Among them are 35 white balls, and the rest are red. The probability of drawing each ball is the same. One ball is drawn from the box. The probability of the event of drawing a red ball is equal to: A. $\\frac18$ B. $\\frac15$ C. $\\frac{1}{40}$ D. $\\frac{1}{35}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -467,7 +515,9 @@
    "summary_en": "Solve $(x^3-8)(x^2-4x-5)=0$ (sum of solutions)",
    "statement_en": "Solve the equation $(x^3-8)(x^2-4x-5)=0$.",
    "confidence": "high",
-   "notes": "Solutions: x=2 (from x^3=8), x=5 and x=-1 (from x^2-4x-5=0). Sum = 2+5-1 = 6."
+   "notes": "Solutions: x=2 (from x^3=8), x=5 and x=-1 (from x^2-4x-5=0). Sum = 2+5-1 = 6.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -509,7 +559,9 @@
    "summary_en": "Draw twice from $\\{1,...,5\\}$ with replacement. P(odd product)",
    "statement_en": "From the set of numbers $\\{1,2,3,4,5\\}$ we draw twice, one number at a time, with replacement. Calculate the probability of event $A$, consisting of drawing numbers whose product is an odd number.",
    "confidence": "high",
-   "notes": "Product is odd iff both draws are odd (3 of 5 numbers); P = (3/5)*(3/5) = 9/25."
+   "notes": "Product is odd iff both draws are odd (3 of 5 numbers); P = (3/5)*(3/5) = 9/25.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -527,7 +579,9 @@
    "summary_en": "Right trapezoid, AB=8, AC=4, angle 30°. Find BD",
    "statement_en": "In right trapezoid $ABCD$ the longer base $AB$ has length $8$. Diagonal $AC$ of this trapezoid has length $4$ and forms an angle of measure $30°$ with the shorter base of the trapezoid (see figure). Calculate the length of diagonal $BD$ of this trapezoid. [Figure: right trapezoid with right angles at A and D; AB=8 is the bottom (longer) base; DC is the shorter base at top; diagonal AC=4 is drawn, forming a 30° angle with DC at vertex C]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "32",
@@ -545,7 +599,9 @@
    "summary_en": "Arithmetic seq. r=-4, mean of first 6 terms=16. Find $a_1$, $k$ (sum)",
    "statement_en": "An arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$. The common difference of this sequence is $r=-4$, and the arithmetic mean of the first six terms of this sequence, $a_1, a_2, a_3, a_4, a_5, a_6$, is equal to $16$. a) Calculate the first term of this sequence. b) Calculate the number $k$ for which $a_k=-78$.",
    "confidence": "high",
-   "notes": "a1=26, k=27. Sum = 26+27 = 53."
+   "notes": "a1=26, k=27. Sum = 26+27 = 53.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -563,7 +619,9 @@
    "summary_en": "$A=(-18,10)$, perpendicular bisector of AB: $y=3x$. Find $B$ (sum of coords)",
    "statement_en": "Point $A=(-18,10)$ is given. The line with equation $y=3x$ is the perpendicular bisector of segment $AB$. Find the coordinates of point $B$.",
    "confidence": "high",
-   "notes": "B = (102/5, -14/5). Sum of coordinates = 102/5 - 14/5 = 88/5 = 17.6."
+   "notes": "B = (102/5, -14/5). Sum of coordinates = 102/5 - 14/5 = 88/5 = 17.6.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -581,7 +639,9 @@
    "summary_en": "Regular pyramid, base edge 6, $P_{total}=4P_{base}$. Find $\\cos\\alpha$",
    "statement_en": "The length of the base edge of a regular quadrilateral pyramid is $6$. The total surface area of this pyramid is four times greater than the area of its base. Angle $\\alpha$ is the angle of inclination of the lateral edge of this pyramid to the plane of the base (see figure). Calculate the cosine of angle $\\alpha$. [Figure: regular quadrilateral pyramid with apex S, square base ABCD with side 6, angle alpha marked at vertex A between lateral edge AS and the base plane]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

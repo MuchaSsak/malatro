@@ -17,7 +17,9 @@
    "summary_en": "Compute $(\\sqrt{2-\\sqrt3}-\\sqrt{2+\\sqrt3})^2$",
    "statement_en": "The number $\\left(\\sqrt{2-\\sqrt3}-\\sqrt{2+\\sqrt3}\\right)^2$ is equal to: A) 2 B) 4 C) $\\sqrt3$ D) $2\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\lim_{n\\to\\infty}\\frac{(n^2-10n)(2-3n)}{2n^3+n^2+3}$",
    "statement_en": "An infinite numerical sequence is defined by the formula $a_n=\\frac{(n^2-10n)(2-3n)}{2n^3+n^2+3}$ for $n\\ge1$. Then: A) $\\lim_{n\\to\\infty}a_n=\\frac12$ B) $\\lim_{n\\to\\infty}a_n=0$ C) $\\lim_{n\\to\\infty}a_n=-\\infty$ D) $\\lim_{n\\to\\infty}a_n=-\\frac32$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Triangle with circle tangent to $AB$: find inscribed angle $\\alpha$",
    "statement_en": "Segment CD is the altitude of triangle ABC, in which $|AD|=|CD|=\\frac12|BC|$ (see figure). A circle with centre C and radius CD is tangent to line AB. This circle intersects sides AC and BC of the triangle at points K and L, respectively. The angle $\\alpha$ inscribed in the circle, marked in the figure, is equal to: A) $37.5°$ B) $45°$ C) $52.5°$ D) $60°$",
    "confidence": "high",
-   "notes": " [verified: ok: Angle A=45, B=30 so ACB=105 (central angle KCL); inscribed alpha=52.5; key C.]"
+   "notes": " [verified: ok: Angle A=45, B=30 so ACB=105 (central angle KCL); inscribed alpha=52.5; key C.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "$B=(-4,7)$, $\\vec u=[-3,5]$, $\\vec{AB}=-3\\vec u$. Find $A$ (sum of coords)",
    "statement_en": "Given are point $B=(-4,7)$ and vector $\\vec u=[-3,5]$. Point A, such that $\\vec{AB}=-3\\vec u$, has coordinates: A) $A=(5,-8)$ B) $A=(-13,22)$ C) $A=(9,-15)$ D) $A=(12,24)$",
    "confidence": "high",
-   "notes": "Sum of A's coordinates: -13+22=9."
+   "notes": "Sum of A's coordinates: -13+22=9.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Remainder of $W(x)=x^3-2x^2+ax+\\frac34$ by $(x-2)$ is 1. Find $a$",
    "statement_en": "The remainder of the division of the polynomial $W(x)=x^3-2x^2+ax+\\frac34$ by the binomial $x-2$ is equal to 1. Compute the value of coefficient $a$.",
    "confidence": "high",
-   "notes": "Coded-answer task: a = 0.125."
+   "notes": "Coded-answer task: a = 0.125.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -131,7 +141,9 @@
    "summary_en": "Regular tetrahedron, inscribed sphere, plane $\\pi$: find distance $d$",
    "statement_en": "A sphere is placed inside a tetrahedron all of whose edges have the same length 6, touching each face at exactly one point. A plane $\\pi$, parallel to the base of this tetrahedron, divides it into two solids: a pyramid whose volume equals $\\frac{8}{27}$ of the volume of the whole tetrahedron, and a frustum. Compute the distance from the centre S of the sphere to the plane $\\pi$, i.e. the length of the shortest of the segments SP, where P is a point of the plane $\\pi$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -149,7 +161,9 @@
    "summary_en": "Solve $\\cos2x+3\\cos x=-2$ on $[0,2\\pi]$ (sum of solutions)",
    "statement_en": "Solve the equation $\\cos2x+3\\cos x=-2$ in the interval $[0,2\\pi]$.",
    "confidence": "high",
-   "notes": "Sum of the three solutions: 2*pi/3 + pi + 4*pi/3 = 3*pi."
+   "notes": "Sum of the three solutions: 2*pi/3 + pi + 4*pi/3 = 3*pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +181,9 @@
    "summary_en": "Draw 3x with replacement from $\\{1,...,8\\}$: product divisible by 4",
    "statement_en": "A box contains 8 balls numbered with consecutive natural numbers from 1 to 8. We draw one ball, record its number, and return it to the box. We repeat this procedure two more times, obtaining three recorded numbers. Compute the probability of drawing such balls that the product of the three recorded numbers is divisible by 4. Give the result as a common fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",

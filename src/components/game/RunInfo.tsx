@@ -40,7 +40,15 @@ export default function RunInfo({ onClose }: { onClose: () => void }) {
   );
 }
 
-function TabButton({ isActive, onClick, children }: { isActive: boolean; onClick: () => void; children: React.ReactNode }) {
+function TabButton({
+  isActive,
+  onClick,
+  children,
+}: {
+  isActive: boolean;
+  onClick: () => void;
+  children: React.ReactNode;
+}) {
   return (
     <PixelButton tone={isActive ? "red" : "panel"} size="sm" className="px-8" onClick={onClick}>
       {children}
@@ -70,9 +78,13 @@ function HandsTable() {
               <div className="tx font-pixel text-[32px] leading-none text-white">{l(h.name)}</div>
               <div className="font-pixel text-xl text-white/60">{l(h.rule)}</div>
             </div>
-            <span className="tx w-[110px] rounded-lg bg-blue py-1 text-center font-pixel text-3xl text-white">{base.chips}</span>
+            <span className="tx w-[110px] rounded-lg bg-blue py-1 text-center font-pixel text-3xl text-white">
+              {base.chips}
+            </span>
             <span className="tx font-pixel text-3xl text-red">×</span>
-            <span className="tx w-[90px] rounded-lg bg-red py-1 text-center font-pixel text-3xl text-white">{base.mult}</span>
+            <span className="tx w-[90px] rounded-lg bg-red py-1 text-center font-pixel text-3xl text-white">
+              {base.mult}
+            </span>
             <span className="tx w-[80px] text-right font-pixel text-2xl text-important">#{plays}</span>
           </div>
         );
@@ -127,7 +139,10 @@ function VouchersTab() {
           <Trans>Ante {run.ante} Boss</Trans>
         </div>
         <div className="flex items-center gap-4">
-          <span className="grid h-16 w-16 place-items-center rounded-full font-pixel text-3xl" style={{ backgroundColor: boss.color }}>
+          <span
+            className="grid h-16 w-16 place-items-center rounded-full font-pixel text-3xl"
+            style={{ backgroundColor: boss.color }}
+          >
             {boss.glyph}
           </span>
           <div>

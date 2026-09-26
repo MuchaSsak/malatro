@@ -23,9 +23,11 @@
    "difficulty": 4,
    "summary_pl": "Rozwiąż $2\\cos^2x-5\\sin x-4=0$ w $[0,2\\pi)$ (suma rozw.)",
    "summary_en": "Solve $2\\cos^2x-5\\sin x-4=0$ in $[0,2\\pi)$ (sum of solutions)",
-   "statement_en": "Find all solutions of the equation 2*cos^2(x) - 5*sin(x) - 4 = 0 belonging to the interval [0, 2*pi). [Card value is the sum of all solutions, in radians.]",
+   "statement_en": "Find all solutions of the equation $2\\cos^2x-5\\sin x-4=0$ belonging to the interval $\\langle 0,2\\pi\\rangle$. [Card value is the sum of all solutions, in radians.]",
    "confidence": "high",
-   "notes": "Solutions are 7pi/6 and 11pi/6; their sum is 3pi."
+   "notes": "Solutions are 7pi/6 and 11pi/6; their sum is 3pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -43,7 +45,9 @@
    "summary_en": "Unit square; $CE=2DF=2x$. Which $x$ minimises area $AEF$?",
    "statement_en": "Square ABCD has side length 1. Points E and F are chosen on sides BC and CD respectively so that |CE| = 2|DF|. Let x = |DF|. Find the value of x for which the area of triangle AEF is smallest.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "$W(x)=x^3+ax^2+bx+1$; $W(2)=7$, $W(3)=10$. Find $a+b$",
    "statement_en": "Find the values of coefficients a and b of the polynomial W(x) = x^3 + a*x^2 + b*x + 1, given that W(2) = 7 and that the remainder from dividing W(x) by (x-3) equals 10. [Card value is a + b.]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -139,7 +145,9 @@
    "summary_en": "3 dice rolls. $P$(sum of squares $\\equiv0\\ (\\mathrm{mod}\\,3)$)?",
    "statement_en": "We roll a symmetric six-sided die three times. Compute the probability that the sum of the squares of the three rolled numbers is divisible by 3.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",

@@ -17,7 +17,9 @@
    "summary_en": "Solve $|x-6|=4$: find $x_1\\cdot x_2$",
    "statement_en": "The numbers $x_1$ and $x_2$ are the different solutions of the equation $|x-6|=4$. Complete the sentence. Choose the correct answer from the options given. The product $x_1\\cdot x_2$ is equal to: A. 4 B. 20 C. 24 D. 100",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $256\\cdot\\sqrt[3]{8^2}$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $256\\cdot\\sqrt[3]{8^2}$ is equal to: A. $2^8$ B. $2^{10}$ C. $2^{16}$ D. $2^{36}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -61,7 +65,9 @@
    "summary_en": "Compute $(\\sqrt3+1)^2-\\sqrt{12}$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $(\\sqrt3+1)^2-\\sqrt{12}$ is equal to: A. $4-4\\sqrt3$ B. $4-2\\sqrt3$ C. 2 D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -87,7 +93,9 @@
    "summary_en": "Largest integer solving $8-\\frac{1-2x}{2}\\ge3x$",
    "statement_en": "Given the inequality $8-\\dfrac{1-2x}{2}\\ge 3x$. Complete the sentence. Choose the correct answer from the options given. The largest integer satisfying this inequality is: A. 1 B. 2 C. 3 D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -105,7 +113,9 @@
    "summary_en": "How many solutions does $4(x-1)^2(x^2-25)=0$ have?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The equation $4(x-1)^2(x^2-25)=0$ has, in the set of real numbers, exactly: A. two solutions. B. three solutions. C. four solutions. D. five solutions.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -116,14 +126,16 @@
    "value_tex": "850",
    "answer_tex": "x=850",
    "category": "rownania",
-   "topic_pl": "Zadanie tekstowe - uklad rownan",
+   "topic_pl": "Zadanie tekstowe - układ równań",
    "topic_en": "Word problem - system of equations",
    "difficulty": 3,
    "summary_pl": "Sady: 1410 drzew, uschło 20% i 15%. Ile w I sadzie?",
    "summary_en": "Orchards: 1410 trees, 20% and 15% died. Trees in orchard 1?",
    "statement_en": "In May 2024 two orchards were established, with a total of 1410 trees planted in them. After a year it turned out that 20% of the trees in the first orchard and 15% of the trees in the second orchard had died. The dead trees were removed, and no new ones were planted. The number of trees remaining in the second orchard amounted to 70% of the number of trees remaining in the first orchard. Calculate how many trees were planted in the first orchard in May 2024. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -174,14 +186,16 @@
    "value_tex": "24",
    "answer_tex": "S_3=24",
    "category": "ciagi",
-   "topic_pl": "Wzor ogolny ciagu",
+   "topic_pl": "Wzór ogólny ciągu",
    "topic_en": "General term of a sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg $a_n=3n^2-3n$: oblicz $S_3$",
    "summary_en": "Sequence $a_n=3n^2-3n$: find $S_3$",
    "statement_en": "The sequence $(a_n)$ is defined by $a_n = 3n^2-3n$ for every natural number $n\\ge1$. Complete the sentence. Choose the correct answer from the options given. The sum $S_3$ of the first three consecutive terms of the sequence $(a_n)$ is equal to: A. 18 B. 24 C. 60 D. 90",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14.2",
@@ -200,14 +214,16 @@
    "value_tex": "-\\frac{25}{12}",
    "answer_tex": "r=-\\frac{25}{12}",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny - roznica",
+   "topic_pl": "Ciąg arytmetyczny - różnica",
    "topic_en": "Arithmetic sequence - common difference",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $a_1=52$, $a_{25}=2$. Oblicz różnicę",
    "summary_en": "Arithmetic seq.: $a_1=52$, $a_{25}=2$. Find the common difference",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for every natural number $n\\ge1$, the terms $a_1=52$ and $a_{25}=2$ are given. Complete the sentence. Choose the correct answer from the options given. The common difference of the sequence $(a_n)$ is equal to: A. $-\\frac{25}{12}$ B. $-2$ C. $2$ D. $\\frac{25}{12}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15.2",
@@ -218,14 +234,16 @@
    "value_tex": "675",
    "answer_tex": "S_{25}=675",
    "category": "ciagi",
-   "topic_pl": "Suma ciagu arytmetycznego",
+   "topic_pl": "Suma ciągu arytmetycznego",
    "topic_en": "Sum of arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $a_1=52$, $a_{25}=2$. Oblicz $S_{25}$",
    "summary_en": "Arithmetic seq.: $a_1=52$, $a_{25}=2$. Find $S_{25}$",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for every natural number $n\\ge1$, the terms $a_1=52$ and $a_{25}=2$ are given. Complete the sentence. Choose the correct answer from the options given. The sum $S_{25}$ of the first twenty-five consecutive terms of the sequence $(a_n)$ is equal to: A. 675 B. 700 C. 1300 D. 1325",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -236,14 +254,16 @@
    "value_tex": "2",
    "answer_tex": "m=2",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg $(4,m,m-1)$ geometryczny. Oblicz $m$",
    "summary_en": "Sequence $(4,m,m-1)$ is geometric. Find $m$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The three-term sequence $(4, m, m-1)$ is geometric when the number $m$ is equal to: A. $-3$ B. $-2$ C. 2 D. 3",
    "confidence": "high",
-   "notes": " [verified: ok: m^2=4(m-1) gives (m-2)^2=0, m=2 (sequence 4,2,1); option C, matches key.]"
+   "notes": " [verified: ok: m^2=4(m-1) gives (m-2)^2=0, m=2 (sequence 4,2,1); option C, matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -254,14 +274,16 @@
    "value_tex": "\\tan 25^\\circ",
    "answer_tex": "\\tan 25^\\circ",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 3,
    "summary_pl": "Oblicz $\\frac{\\sin^3 25°+\\sin25°\\cos^2 25°}{\\cos 25°}$",
    "summary_en": "Compute $\\frac{\\sin^3 25°+\\sin25°\\cos^2 25°}{\\cos 25°}$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $\\dfrac{\\sin^3 25°+\\sin 25°\\cos^2 25°}{\\cos 25°}$ is equal to: A. $\\sin 25°$ B. $\\cos 25°$ C. $\\tan 25°$ D. 1",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -280,14 +302,16 @@
    "value_tex": "4",
    "answer_tex": "r=4",
    "category": "planimetria",
-   "topic_pl": "Okrag wpisany w trojkat",
+   "topic_pl": "Okrąg wpisany w trójkąt",
    "topic_en": "Incircle of a triangle",
    "difficulty": 2,
    "summary_pl": "Trójkąt $10,24,26$: promień okręgu wpisanego",
    "summary_en": "Triangle $10,24,26$: inradius",
    "statement_en": "A right triangle with side lengths 10, 24, 26 is given (see figure, right angle between sides 10 and 24). Complete the sentence. Choose the correct answer from the options given. The radius of the circle inscribed in this triangle is equal to: A. $\\frac{10}{3}$ B. 4 C. 5 D. $\\frac{80}{13}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19.2",
@@ -298,14 +322,16 @@
    "value_tex": "13",
    "answer_tex": "R=13",
    "category": "planimetria",
-   "topic_pl": "Okrag opisany na trojkacie",
+   "topic_pl": "Okrąg opisany na trójkącie",
    "topic_en": "Circumcircle of a triangle",
    "difficulty": 2,
    "summary_pl": "Trójkąt $10,24,26$: promień okręgu opisanego",
    "summary_en": "Triangle $10,24,26$: circumradius",
    "statement_en": "A right triangle with side lengths 10, 24, 26 is given (see figure). Complete the sentence. Choose the correct answer from the options given. The radius of the circle circumscribed on this triangle is equal to: A. $\\frac{80}{13}$ B. $\\frac{20}{3}$ C. 12 D. 13",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -316,14 +342,16 @@
    "value_tex": "54",
    "answer_tex": "54^\\circ",
    "category": "planimetria",
-   "topic_pl": "Kat wpisany",
+   "topic_pl": "Kąt wpisany",
    "topic_en": "Inscribed angle",
    "difficulty": 3,
    "summary_pl": "10-kąt foremny: oblicz kąt wpisany $\\angle AGD$",
    "summary_en": "Regular decagon: find inscribed angle $\\angle AGD$",
    "statement_en": "A regular decagon $ABCDEFGHIJ$ is inscribed in a circle with center $S$ (see figure). Complete the sentence. Choose the correct answer from the options given. The measure of the inscribed angle $AGD$ is equal to: A. 18° B. 36° C. 54° D. 60°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21",
@@ -341,7 +369,9 @@
    "summary_en": "Squares similar in scale 5, sum of areas 78: side of $K_1$",
    "statement_en": "Square $K_2$ is similar to square $K_1$ in scale 5 (see figure). The sum of the areas of these squares is equal to 78. Complete the sentence. Choose the correct answer from the options given. The side length of square $K_1$ is equal to: A. $\\sqrt3$ B. 3 C. $\\sqrt{13}$ D. 13",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -352,14 +382,16 @@
    "value_tex": "\\frac{6}{5}",
    "answer_tex": "p=\\frac{6}{5}",
    "category": "analityczna",
-   "topic_pl": "Proste rownolegle",
+   "topic_pl": "Proste równoległe",
    "topic_en": "Parallel lines",
    "difficulty": 2,
    "summary_pl": "Prosta $l\\parallel k: y=5x+7$, przez $(0,-4)$. Oblicz $p$ z $(p,2)$",
    "summary_en": "Line $l\\parallel k: y=5x+7$ through $(0,-4)$. Find $p$ where $(p,2)\\in l$",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, a line $k$ is given with equation $y=5x+7$. Line $l$ is parallel to line $k$ and intersects the $Oy$ axis at the point $(0,-4)$. The point with coordinates $(p,2)$ belongs to line $l$. Calculate $p$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -378,14 +410,16 @@
    "value_tex": "27",
    "answer_tex": "V=27",
    "category": "stereometria",
-   "topic_pl": "Prostopadloscian",
+   "topic_pl": "Prostopadłościan",
    "topic_en": "Cuboid",
    "difficulty": 3,
    "summary_pl": "Prostopadłościan: pole $94{,}5$, krawędzie w ciągu geom. o ilorazie $4$",
    "summary_en": "Cuboid: surface area 94.5, edges in geometric sequence with ratio 4",
    "statement_en": "The total surface area of a cuboid is equal to 94.5. The lengths of the three edges meeting at one vertex of the cuboid form a geometric sequence with common ratio equal to 4. Calculate the volume of this cuboid. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -396,14 +430,16 @@
    "value_tex": "2",
    "answer_tex": "a=2",
    "category": "stereometria",
-   "topic_pl": "Ostroslup prawidlowy czworokatny",
+   "topic_pl": "Ostrosłup prawidłowy czworokątny",
    "topic_en": "Regular quadrilateral pyramid",
    "difficulty": 2,
    "summary_pl": "Ostrosłup: pole całk. $20$, boczne $4\\times$ podstawy. Oblicz krawędź",
    "summary_en": "Pyramid: total area 20, lateral $=4\\times$ base. Find base edge",
    "statement_en": "The total surface area of a regular quadrilateral pyramid is equal to 20. The lateral surface area of this pyramid is four times greater than the area of its base. Complete the sentence. Choose the correct answer from the options given. The length of the base edge of this pyramid is equal to: A. 2 B. $\\sqrt5$ C. $\\sqrt{10}$ D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -414,14 +450,16 @@
    "value_tex": "3\\sqrt{3}",
    "answer_tex": "h=3\\sqrt3",
    "category": "stereometria",
-   "topic_pl": "Stozek",
+   "topic_pl": "Stożek",
    "topic_en": "Cone",
    "difficulty": 2,
    "summary_pl": "Stożek: tworząca $6$, kąt rozwarcia $60°$. Oblicz wysokość",
    "summary_en": "Cone: slant height 6, apex angle 60°. Find the height",
    "statement_en": "The slant height of a cone has length 6. The apex angle of this cone measures 60°. Complete the sentence. Choose the correct answer from the options given. The height of this cone is equal to: A. 3 B. $2\\sqrt3$ C. $3\\sqrt3$ D. $3\\sqrt5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -432,14 +470,16 @@
    "value_tex": "\\frac{17}{24}",
    "answer_tex": "P(A)=\\frac{17}{24}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 3,
    "summary_pl": "Losowanie z $X,Y$: oblicz $P(xy\\ge0)$",
    "summary_en": "Draw from $X,Y$: find $P(xy\\ge0)$",
    "statement_en": "Two sets are given: $X=\\{-3,-2,-1,0,1,2\\}$ and $Y=\\{-2,-1,0,1\\}$. We draw one number from set $X$, then one number from set $Y$, and form an ordered pair $(x,y)$, where $x$ is the number drawn from $X$ and $y$ is the number drawn from $Y$. Calculate the probability of event $A$ that the drawn pair of numbers $(x,y)$ satisfies the condition $x\\cdot y\\ge0$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -457,7 +497,9 @@
    "summary_en": "How many 3-digit even numbers have exactly one digit 0?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of all three-digit even natural numbers whose decimal representation contains the digit 0 exactly once is: A. 108 B. 117 C. 126 D. 162",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -468,14 +510,16 @@
    "value_tex": "30",
    "answer_tex": "30",
    "category": "statystyka",
-   "topic_pl": "Srednia arytmetyczna",
+   "topic_pl": "Średnia arytmetyczna",
    "topic_en": "Arithmetic mean",
    "difficulty": 2,
    "summary_pl": "Śr. arytm. $a,b,c$ to $12$. Oblicz śr. $2a,3a,2b,3b,2c,3c$",
    "summary_en": "Mean of $a,b,c$ is 12. Find mean of $2a,3a,2b,3b,2c,3c$",
    "statement_en": "The arithmetic mean of three numbers $a$, $b$, $c$ is equal to 12. Complete the sentence. Choose the correct answer from the options given. The arithmetic mean of the six numbers $2a$, $3a$, $2b$, $3b$, $2c$, $3c$ is equal to: A. 10 B. 12 C. 30 D. 60",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -489,11 +533,13 @@
    "topic_pl": "Mediana i dominanta",
    "topic_en": "Median and mode",
    "difficulty": 3,
-   "summary_pl": "Wyniki 32 uczniów (tabela): licz.+mediana+dominanta (suma)",
-   "summary_en": "32 students' scores (table): count+median+mode (sum)",
+   "summary_pl": "Tabela: suma (liczba uczniów poniżej średniej + mediana + dominanta)",
+   "summary_en": "Table: sum of (students below mean + median + mode)",
    "statement_en": "The table shows the number of points scored by 32 students of a certain class for solving one task in a mathematics test. Points: 0, 1, 2, 3, 4, 5. Number of students who received that number of points: 4, 2, 5, 5, 11, 5. Complete the sentences. Insert the appropriate numbers in the blanks so that the statements are true. 1. Exactly ...... students of this class obtained a result lower than the arithmetic mean of the points scored by these students for solving this task. 2. The median of the points scored by these students for solving this task is equal to ...... . 3. The mode of the points scored by these students for solving this task is equal to ...... .",
    "confidence": "high",
-   "notes": "sum of the three numeric blanks (count below mean + median + mode)"
+   "notes": "sum of the three numeric blanks (count below mean + median + mode)",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "31",
@@ -511,7 +557,9 @@
    "summary_en": "Profit $Z(x)=(500+50x)(16-x)$: which $x$ maximises it?",
    "statement_en": "A flashlight manufacturer analyzed the impact of a price change of the L25 flashlight on the number of buyers of this product. The analysis shows that the annual profit $\\mathcal{Z}$ from selling L25 flashlights is expressed by the formula $\\mathcal{Z}(x)=(500+50x)(16-x)$, where: $x$ - the amount of the price reduction of the L25 flashlight (in whole zlotys), satisfying $x\\ge1$ and $x\\le14$; $\\mathcal{Z}$ - the annual profit from selling L25 flashlights (in zlotys), counted from the moment of the price reduction. Complete the sentence. Choose the correct answer from the options given. The annual profit $\\mathcal{Z}$ from selling L25 flashlights will be greatest for $x$ equal to: A. 3 B. 4 C. 7 D. 14",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

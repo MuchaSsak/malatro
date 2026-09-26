@@ -37,7 +37,9 @@
    "summary_en": "How many 6-digit numbers: digit $0$ thrice, digit $5$ once?",
    "statement_en": "Calculate how many six-digit natural numbers have, in their decimal representation, the digit 0 appearing exactly three times and the digit 5 appearing exactly once.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -55,12 +57,14 @@
    "summary_en": "Solve $\\cos2x+\\cos x+1=0$ on $[0,2\\pi]$ (sum of solutions)",
    "statement_en": "Solve the equation cos(2x) + cos(x) + 1 = 0 for x in [0, 2*pi].",
    "confidence": "high",
-   "notes": "2cos^2x+cosx=0 => cosx=0 (x=pi/2,3pi/2) or cosx=-1/2 (x=2pi/3,4pi/3); sum=4*pi."
+   "notes": "2cos^2x+cosx=0 => cosx=0 (x=pi/2,3pi/2) or cosx=-1/2 (x=2pi/3,4pi/3); sum=4*pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "sum",
    "value": 66,
    "value_tex": "66",
@@ -73,7 +77,7 @@
    "summary_en": "Arithmetic $a,b,c$ ($a{+}b{+}c=33$); $a{-}1,b{+}5,c{+}19$ geometric",
    "statement_en": "The numbers a, b, c form an arithmetic sequence with a + b + c = 33, while the numbers a-1, b+5, c+19 form a geometric sequence. Find a, b, c.",
    "confidence": "high",
-   "notes": "Two solution triples: (a,b,c)=(33,11,-11) or (9,11,13); value is the sum of all six numbers = 66."
+   "notes": "Two solution triples: (a,b,c)=(33,11,-11) or (9,11,13); value is the sum of all six numbers = 66. [full-verify] Two triples (9,11,13),(33,11,-11); each sums to the given 33, so any sum value is trivial/guessable and one-triple solvers type 33. No meaningful single number."
   },
   {
    "task": "6",
@@ -111,7 +115,9 @@
    "summary_en": "Polynomial $W(x)=4x^3-5x^2-23x+m$: $m$ and roots (sum)",
    "statement_en": "The remainder from dividing the polynomial W(x) = 4x^3 - 5x^2 - 23x + m by the binomial x+1 is equal to 20. Calculate the value of the coefficient m and the roots of this polynomial.",
    "confidence": "high",
-   "notes": "m=6 (from W(-1)=20); roots -2, 1/4, 3. Sum = m + sum of roots = 6 + 1.25 = 7.25."
+   "notes": "m=6 (from W(-1)=20); roots -2, 1/4, 3. Sum = m + sum of roots = 6 + 1.25 = 7.25.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -129,7 +135,9 @@
    "summary_en": "Triangle $ABC$: $AC=17$, $BC=10$, $D$ on $AB$, $DC=10$: area",
    "statement_en": "In triangle ABC, AC = 17 and BC = 10. Point D lies on side AB such that AD:DB = 3:4 and DC = 10. Calculate the area of triangle ABC.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -157,7 +165,9 @@
    "summary_en": "4 dice rolls: $P$(product of results $=60$)",
    "statement_en": "A fair six-sided die is rolled four times. Calculate the probability of the event that the product of the four results obtained equals 60.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -175,7 +185,9 @@
    "summary_en": "Graph of $f(x)=\\log_2(x-p)$: find $p$",
    "statement_en": "The figure shows part of the graph of a logarithmic function f given by f(x) = log_2(x - p) (vertical asymptote near x=-4, crossing the x-axis near x=-3, passing through (0,2)). a) State the value of p. b) Sketch the graph of the function given by y = |f(x)|. c) State all values of the parameter m for which the equation |f(x)| = m has two solutions of opposite signs.",
    "confidence": "high",
-   "notes": "Only part a) is numeric (p=-4); b) is a sketch and c) gives an interval m>-2 (not a single number), so only part (a) contributes to value. [verified: ok: Asymptote x=-4, f(-3)=0 -> p=-4 (key). b) drawing, c) interval m>2 are non-numeric; summary asks only for p.]"
+   "notes": "Only part a) is numeric (p=-4); b) is a sketch and c) gives an interval m>-2 (not a single number), so only part (a) contributes to value. [verified: ok: Asymptote x=-4, f(-3)=0 -> p=-4 (key). b) drawing, c) interval m>2 are non-numeric; summary asks only for p.]",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

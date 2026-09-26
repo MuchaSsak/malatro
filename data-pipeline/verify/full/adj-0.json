@@ -1,0 +1,63 @@
+[
+ {
+  "exam": "f2015-R-2013-grudzien-pokazowa",
+  "task": "6",
+  "verdict": "fix",
+  "solved_value": 153,
+  "value": 153,
+  "answer_tex": "|n|=153",
+  "value_tex": "153",
+  "answer_kind": "single",
+  "exclude_reason": null,
+  "summary_fix": {
+   "pl": "$|n|$, gdzie $n$ – najmniejsza całk. liczba spełn. $2|x+57|=|x-39|$",
+   "en": "$|n|$ where $n$ is the smallest integer solving $2|x+57|=|x-39|$"
+  },
+  "reason": "Roots -153 and -25, n=-153; crop asks to code digits of |n|, key codes 1,5,3 -> 153. Stored -153 answers n, not |n|."
+ },
+ {
+  "exam": "f2015-R-2025-czerwiec",
+  "task": "5",
+  "verdict": "fix",
+  "solved_value": 0.6060606060606061,
+  "value": 0.6060606060606061,
+  "answer_tex": "P=\\frac{20}{33}",
+  "value_tex": "\\frac{20}{33}",
+  "answer_kind": "single",
+  "exclude_reason": null,
+  "summary_fix": {
+   "pl": "Kostka: 5 lub 6 → pud. I (4b, 7cz), inaczej II (8b, 3cz). $P$(biała)?",
+   "en": "Die: 5 or 6 → box I (4W, 7B), else box II (8W, 3B). $P$(white)?"
+  },
+  "reason": "P=2/6*4/11+4/6*8/11=20/33=0.606..., key digits 6,0,6. Stored 2/7 belongs to a different task (polynomial root)."
+ },
+ {
+  "exam": "f2005-P-2015-czerwiec",
+  "task": "27",
+  "verdict": "fix",
+  "solved_value": -1,
+  "value": -1,
+  "answer_tex": "x=-3 \\lor x=2",
+  "value_tex": "-1",
+  "answer_kind": "sum",
+  "exclude_reason": null,
+  "summary_fix": {
+   "pl": "Rozwiąż $x^4-2x^3+27x-54=0$ (suma rozwiązań rzecz.)",
+   "en": "Solve $x^4-2x^3+27x-54=0$ (sum of real solutions)"
+  },
+  "reason": "x^3(x-2)+27(x-2)=(x-2)(x^3+27): roots 2, -3 (key agrees), sum -1. Stored 5 came from sign error (-27x+54)."
+ },
+ {
+  "exam": "f2015-P-2014-grudzien-probna",
+  "task": "1",
+  "verdict": "ok",
+  "solved_value": 4,
+  "value": 4,
+  "answer_tex": "4\\%",
+  "value_tex": "4",
+  "answer_kind": "single",
+  "exclude_reason": null,
+  "summary_fix": null,
+  "reason": "|0.6-0.625|/0.625=0.04=4%, option D, key D. Stored 4 (percent; both forms accepted)."
+ }
+]

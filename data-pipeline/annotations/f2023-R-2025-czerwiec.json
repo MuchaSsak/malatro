@@ -13,11 +13,13 @@
    "topic_pl": "Schemat Bernoulliego",
    "topic_en": "Bernoulli trials",
    "difficulty": 4,
-   "summary_pl": "Schemat Bernoulliego: P(co najwyzej 1 z 10 uszkodzona)",
+   "summary_pl": "Schemat Bernoulliego: P(co najwyżej 1 z 10 uszkodzona)",
    "summary_en": "Bernoulli scheme: P(at most 1 of 10 damaged)",
    "statement_en": "An appliance store sells washing machines by mail order. The probability that a washing machine sent by this store to a customer is damaged during transport equals $0.02$. Calculate the probability of event A: among 10 washing machines sent to ten customers by this store, at most one is damaged during transport. Give the result as a decimal rounded to the nearest thousandth. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -36,14 +38,16 @@
    "value_tex": "368586",
    "answer_tex": "368586",
    "category": "kombinatoryka",
-   "topic_pl": "Zliczanie liczb szesciocyfrowych",
+   "topic_pl": "Zliczanie liczb sześciocyfrowych",
    "topic_en": "Counting six-digit numbers",
    "difficulty": 4,
    "summary_pl": "Ile 6-cyfrowych liczb ma iloczyn cyfr parzysty $<5$?",
    "summary_en": "How many 6-digit numbers have digit product even and $<5$?",
    "statement_en": "Consider all six-digit natural numbers in whose decimal representation the product of the digits is an even number less than 5. Calculate how many such six-digit numbers there are. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -62,14 +66,16 @@
    "value_tex": "2",
    "answer_tex": "m=2",
    "category": "rownania",
-   "topic_pl": "Rownanie kwadratowe z parametrem",
+   "topic_pl": "Równanie kwadratowe z parametrem",
    "topic_en": "Quadratic equation with a parameter",
    "difficulty": 5,
    "summary_pl": "Parametr $m$: $x^2+2mx+2m-1=0$, warunek na $x_1,x_2$",
    "summary_en": "Parameter $m$: $x^2+2mx+2m-1=0$, condition on $x_1,x_2$",
    "statement_en": "Find all values of the parameter m for which the equation $x^2+2mx+2m-1=0$ has two distinct real solutions $x_1, x_2$ satisfying the condition $m(x_1^2+x_2^2)=3m\\cdot x_1\\cdot x_2+2$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -80,14 +86,16 @@
    "value_tex": "\\frac{5\\pi}{2}",
    "answer_tex": "x=\\frac{\\pi}{6}\\lor x=\\frac{\\pi}{4}\\lor x=\\frac{\\pi}{2}\\lor x=\\frac{3\\pi}{4}\\lor x=\\frac{5\\pi}{6}",
    "category": "trygonometria",
-   "topic_pl": "Rownania trygonometryczne",
+   "topic_pl": "Równania trygonometryczne",
    "topic_en": "Trigonometric equations",
    "difficulty": 5,
    "summary_pl": "Rozwiąż $\\cos2x+2\\cos^23x+\\cos4x=0$ (suma rozwiązań)",
    "summary_en": "Solve $\\cos2x+2\\cos^23x+\\cos4x=0$ (sum of solutions)",
    "statement_en": "Solve the equation $\\cos(2x)+2\\cos^2(3x)+\\cos(4x)=0$ in the interval $[0,\\pi]$. Show your working.",
    "confidence": "high",
-   "notes": "sum of all 5 solutions in [0,pi]: pi/6+pi/4+pi/2+3pi/4+5pi/6 = 5pi/2"
+   "notes": "sum of all 5 solutions in [0,pi]: pi/6+pi/4+pi/2+3pi/4+5pi/6 = 5pi/2",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -98,14 +106,16 @@
    "value_tex": "\\frac{7\\sqrt{3}}{3}",
    "answer_tex": "\\frac{7\\sqrt{3}}{3}",
    "category": "planimetria",
-   "topic_pl": "Okrag opisany na czworokacie",
+   "topic_pl": "Okrąg opisany na czworokącie",
    "topic_en": "Circle circumscribed on a quadrilateral",
    "difficulty": 5,
-   "summary_pl": "Czworokat $3,3,5,8$ wpisany w okrag. Oblicz promien",
+   "summary_pl": "Czworokąt $3,3,5,8$ wpisany w okrąg. Oblicz promień",
    "summary_en": "Quadrilateral with sides $3,3,5,8$ inscribed in circle. Find radius",
    "statement_en": "A circle is circumscribed on a convex quadrilateral ABCD with side lengths $|AB|=3$, $|BC|=3$, $|CD|=5$ and $|DA|=8$. Calculate the radius of this circle. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -131,7 +141,9 @@
    "summary_en": "Linked arithmetic and geometric sequences: sum of $(b_n)$",
    "statement_en": "Sequence $(a_n)$, defined for every natural number $n\\ge1$, is arithmetic and increasing. In this sequence $a_6=15$ and $a_{15}=a_3\\cdot(a_8-6)$. Sequence $(b_n)$, defined for every natural number $n\\ge1$, is geometric with $b_1=a_{11}$ and $b_2=a_6$. Calculate the sum of all terms of the sequence $(b_n)$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -142,14 +154,16 @@
    "value_tex": "6",
    "answer_tex": "6",
    "category": "stereometria",
-   "topic_pl": "Ostroslup prawidlowy trojkatny",
+   "topic_pl": "Ostrosłup prawidłowy trójkątny",
    "topic_en": "Regular triangular pyramid",
    "difficulty": 5,
    "summary_pl": "Ostrosłup: stosunek pola całk. do pola podstawy",
    "summary_en": "Pyramid: ratio of total surface area to base area",
    "statement_en": "A regular triangular pyramid ABCD with base ABC is given. The plane containing edge AB of the base and perpendicular to the lateral edge CD intersects that edge at point E, where $\\frac{|CE|}{|DE|}=\\frac{3}{11}$. Calculate the ratio of the total surface area of this pyramid to the area of the base ABC. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -176,14 +190,16 @@
    "value_tex": "20",
    "answer_tex": "a=4, V=16",
    "category": "analiza",
-   "topic_pl": "Optymalizacja z pochodna",
+   "topic_pl": "Optymalizacja z pochodną",
    "topic_en": "Optimization using derivatives",
    "difficulty": 4,
    "summary_pl": "Graniastosłup: krawędź i najw. objętość ($a+V$)",
    "summary_en": "Prism: edge length and max volume ($a+V$)",
    "statement_en": "Consider all regular triangular prisms with total surface area equal to $24\\sqrt3$. The volume V of the prism, as a function of the base edge length $a$, is given by $V(a)=6a-\\frac18a^3$ for $a\\in(0,4\\sqrt3)$. Determine the base edge length of the prism among those considered whose volume is the greatest. Calculate this greatest volume. Show your working.",
    "confidence": "high",
-   "notes": "sum of the two requested numbers: a=4, V=16 [verified: ok: V'=6-3a^2/8=0 gives a=4, V(4)=16; a+V=20 matches key. Summary lacks Polish diacritics (cosmetic).]"
+   "notes": "sum of the two requested numbers: a=4, V=16 [verified: ok: V'=6-3a^2/8=0 gives a=4, V(4)=16; a+V=20 matches key. Summary lacks Polish diacritics (cosmetic).]",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

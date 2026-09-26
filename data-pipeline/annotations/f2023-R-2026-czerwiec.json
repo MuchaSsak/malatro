@@ -10,14 +10,16 @@
    "value_tex": "3^{-3}",
    "answer_tex": "\\frac{a}{2b}=3^{-3}",
    "category": "liczby",
-   "topic_pl": "Wlasnosci logarytmow",
+   "topic_pl": "Własności logarytmów",
    "topic_en": "Logarithm properties",
    "difficulty": 3,
-   "summary_pl": "Wyznacz $\\dfrac{a}{2b}$ w postaci $3^k$ (logarytmy)",
-   "summary_en": "Find $\\dfrac{a}{2b}$ in the form $3^k$ (logarithms)",
+   "summary_pl": "Oblicz $\\frac{a}{2b}$ (wpisz wartość ilorazu, nie $k$)",
+   "summary_en": "Compute $\\frac{a}{2b}$ (type the quotient's value, not $k$)",
    "statement_en": "Real numbers $a$ and $b$ are given: $a = 16^{\\frac12\\log_4 36 - 2\\log_4 3}$, $b = \\log_2 9 \\cdot \\log_3 5 \\cdot \\log_5 8$. Calculate the value of the quotient $\\frac{a}{2b}$. Write the result in the form $3^k$, where $k \\in \\mathbb{Z}$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "33600",
    "answer_tex": "33\\,600",
    "category": "kombinatoryka",
-   "topic_pl": "Liczenie kodow",
+   "topic_pl": "Liczenie kodów",
    "topic_en": "Counting codes",
    "difficulty": 4,
-   "summary_pl": "Ile jest kodow 9-cyfrowych spelniajacych warunki?",
+   "summary_pl": "Ile jest kodów 9-cyfrowych spełniających warunki?",
    "summary_en": "How many 9-digit codes satisfy the given digit conditions?",
    "statement_en": "We consider all nine-digit codes that simultaneously satisfy the following conditions: the first digit of the code is $2$; the digit $4$ occurs in the code exactly three times; the digit $8$ occurs exactly two times; the remaining digits of the code are pairwise different odd numbers. Calculate the number of all such codes. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -49,11 +53,13 @@
    "topic_pl": "Pochodna funkcji wymiernej",
    "topic_en": "Derivative of a rational function",
    "difficulty": 4,
-   "summary_pl": "Funkcja wymierna: wyznacz $a$ z warunku na pochodna",
+   "summary_pl": "Funkcja wymierna: wyznacz $a$ z warunku na pochodną",
    "summary_en": "Rational function: find $a$ from a derivative condition",
    "statement_en": "The function $f$ is given by the formula $f(x) = \\dfrac{ax^2+x}{x-1}$ for every real number $x \\neq 1$. Determine all values of $a$ for which the derivative of the function $f$ at the point $x = a$ equals $-\\frac12 a$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -80,14 +86,16 @@
    "value_tex": "\\frac{5}{29}",
    "answer_tex": "P(A_1|B)=\\frac{5}{29}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo warunkowe (Bayes)",
+   "topic_pl": "Prawdopodobieństwo warunkowe (Bayes)",
    "topic_en": "Conditional probability (Bayes)",
    "difficulty": 4,
    "summary_pl": "Prawdop. warunkowe: chleb razowy z piekarni $P_1$?",
    "summary_en": "Conditional probability wholemeal bread is from bakery $P_1$",
    "statement_en": "Bread sold in a certain supermarket comes from three bakeries: $P_1$, $P_2$, $P_3$. The ratio of the number of loaves delivered by bakeries $P_1$, $P_2$ and $P_3$ to this supermarket is, respectively, $2:3:4$. The number of wholemeal loaves delivered to this supermarket from bakery $P_1$ is $10\\%$ of the number of all loaves delivered from that bakery; from $P_2$ it is $12\\%$; from $P_3$ it is $15\\%$. Calculate the probability that a loaf of bread chosen at random in this supermarket comes from bakery $P_1$, given that this loaf is wholemeal. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -106,14 +114,16 @@
    "value_tex": "\\frac{58}{3}",
    "answer_tex": "(x,y,z)=(1,3,9) \\lor (x,y,z)=\\left(\\frac19,\\frac79,\\frac{49}{9}\\right)",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny i arytmetyczny",
+   "topic_pl": "Ciąg geometryczny i arytmetyczny",
    "topic_en": "Geometric and arithmetic sequence",
    "difficulty": 5,
    "summary_pl": "Ciąg $(x,y,z)$: geom.->arytm.->geom. (suma x+y+z obu rozw.)",
    "summary_en": "Sequence $(x,y,z)$: geom.->arith.->geom. (sum x+y+z, both solutions)",
    "statement_en": "The three-term sequence $(x, y, z)$ is geometric. If in this sequence the third term is decreased by $4$, with the other terms unchanged, an arithmetic sequence is obtained. If the second and third terms of the arithmetic sequence so obtained are decreased by $1$, a new geometric sequence is obtained. Calculate $x$, $y$ and $z$. Show your working.",
    "confidence": "high",
-   "notes": "Two valid solution triples exist: (1,3,9) and (1/9,7/9,49/9); value is the sum of all six numbers (58/3) since both satisfy all conditions. [verified: ok: 9x^2-10x+1=0: (1,3,9) and (1/9,7/9,49/9), both valid, key lists both; sum of all six = 58/3. Summary states both solutions are summed.]"
+   "notes": "Two valid solution triples exist: (1,3,9) and (1/9,7/9,49/9); value is the sum of all six numbers (58/3) since both satisfy all conditions. [verified: ok: 9x^2-10x+1=0: (1,3,9) and (1/9,7/9,49/9), both valid, key lists both; sum of all six = 58/3. Summary states both solutions are summed.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -124,14 +134,16 @@
    "value_tex": "20",
    "answer_tex": "L=20",
    "category": "planimetria",
-   "topic_pl": "Czworokat wpisany w okrag",
+   "topic_pl": "Czworokąt wpisany w okrąg",
    "topic_en": "Cyclic quadrilateral",
    "difficulty": 4,
-   "summary_pl": "Czworokat wpisany w okrag: oblicz obwod ($AB\\perp BC$)",
+   "summary_pl": "Czworokąt wpisany w okrąg: oblicz obwód ($AB\\perp BC$)",
    "summary_en": "Cyclic quadrilateral: find the perimeter ($AB\\perp BC$)",
    "statement_en": "The area of quadrilateral $ABCD$ inscribed in a circle equals $18$. Sides $AB$ and $BC$ are perpendicular, and moreover $|AB| = 4$ and $|BC| = 7$. Calculate the perimeter of this quadrilateral. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -158,14 +170,16 @@
    "value_tex": "\\frac{63\\sqrt3}{8}",
    "answer_tex": "P_{KLMN}=\\frac{63\\sqrt3}{8}",
    "category": "stereometria",
-   "topic_pl": "Przekroj ostroslupa",
+   "topic_pl": "Przekrój ostrosłupa",
    "topic_en": "Cross-section of a pyramid",
    "difficulty": 5,
    "summary_pl": "Ostrosłup: pole przekroju $KLMN$ (trapez)",
    "summary_en": "Pyramid: find the area of cross-section $KLMN$ (trapezoid)",
    "statement_en": "The regular quadrilateral pyramid $ABCDS$ with base $ABCD$ has volume equal to $36\\sqrt3$. This pyramid is cut by a plane $\\gamma$ that: is perpendicular to the lateral face $CDS$ of the pyramid; passes through the midpoint $K$ of edge $AD$ and the midpoint $L$ of edge $BC$; intersects the lateral edge $CS$ at point $M$ and the lateral edge $DS$ at point $N$; forms an angle of $30°$ with the plane of the base $ABCD$. [Figure: pyramid $ABCDS$ with apex $S$ above square base $ABCD$; the cross-section $KLMN$ is a shaded isosceles trapezoid inside the pyramid, with $K$ on $AD$, $L$ on $BC$, $M$ on $CS$, $N$ on $DS$.] The cross-section $KLMN$ determined by plane $\\gamma$ is an isosceles trapezoid. Calculate the area of trapezoid $KLMN$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "13.1",

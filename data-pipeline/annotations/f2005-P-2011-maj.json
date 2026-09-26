@@ -25,7 +25,9 @@
    "summary_en": "1st installment is $9\\%$ of a bike's price, equals $189$ zl. Price?",
    "statement_en": "The first installment, which constitutes $9\\%$ of the price of a bicycle, is equal to $189$ zl. The bicycle costs\nA. $1701$ zl.\nB. $2100$ zl.\nC. $1890$ zl.\nD. $2091$ zl.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -51,7 +53,9 @@
    "summary_en": "System $4x+2y=10,\\ 6x+ay=15$ has $\\infty$ many solutions. Find $a$",
    "statement_en": "The system of equations $\\begin{cases}4x+2y=10\\\\6x+ay=15\\end{cases}$ has infinitely many solutions if\nA. $a=-1$\nB. $a=0$\nC. $a=2$\nD. $a=3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -77,7 +81,9 @@
    "summary_en": "Smallest integer solving $\\frac38+\\frac{x}{6}<\\frac{5x}{12}$?",
    "statement_en": "The smallest integer belonging to the solution set of the inequality $\\dfrac38+\\dfrac{x}{6}<\\dfrac{5x}{12}$ is\nA. $1$\nB. $2$\nC. $-1$\nD. $-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -119,7 +125,9 @@
    "summary_en": "$f(x)=-\\sqrt2x+4$. Find the zero",
    "statement_en": "The linear function is given by the formula $f(x)=-\\sqrt2\\,x+4$. The zero of this function is the number\nA. $-2\\sqrt2$\nB. $\\frac{\\sqrt2}{2}$\nC. $-\\frac{\\sqrt2}{2}$\nD. $2\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -137,7 +145,9 @@
    "summary_en": "Geometric seq.: $a_3=1$, $a_4=\\frac23$. Find $a_1$",
    "statement_en": "An infinite geometric sequence $(a_n)$ is given, in which $a_3=1$ and $a_4=\\frac23$. Then\nA. $a_1=\\frac23$\nB. $a_1=\\frac49$\nC. $a_1=\\frac32$\nD. $a_1=\\frac94$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -163,7 +173,9 @@
    "summary_en": "Acute angle: $\\cos\\alpha=\\frac{5}{13}$. Find $\\sin\\alpha$ and $\\tan\\alpha$ (sum)",
    "statement_en": "The angle $\\alpha$ is acute and $\\cos\\alpha=\\frac{5}{13}$. Then\nA. $\\sin\\alpha=\\frac{12}{13}$ and $\\operatorname{tg}\\alpha=\\frac{12}{5}$\nB. $\\sin\\alpha=\\frac{12}{13}$ and $\\operatorname{tg}\\alpha=\\frac{5}{12}$\nC. $\\sin\\alpha=\\frac{12}{5}$ and $\\operatorname{tg}\\alpha=\\frac{12}{13}$\nD. $\\sin\\alpha=\\frac{5}{12}$ and $\\operatorname{tg}\\alpha=\\frac{12}{13}$",
    "confidence": "high",
-   "notes": "The correct option bundles two plain numbers (sinα and tgα); summed per the multi-number rule since the task's implicit final answer is this pair of values, not a single quantity [verified: ok: sin=12/13, tg=12/5 (key A). Sum 216/65; stored float differs from 216/65 only in last ulp (4e-16), acceptable.]"
+   "notes": "The correct option bundles two plain numbers (sinα and tgα); summed per the multi-number rule since the task's implicit final answer is this pair of values, not a single quantity [verified: ok: sin=12/13, tg=12/5 (key A). Sum 216/65; stored float differs from 216/65 only in last ulp (4e-16), acceptable.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -181,7 +193,9 @@
    "summary_en": "Compute $\\frac{\\sin^238°+\\cos^238°-1}{\\sin^252°+\\cos^252°+1}$",
    "statement_en": "The value of the expression $\\dfrac{\\sin^2 38°+\\cos^2 38°-1}{\\sin^2 52°+\\cos^2 52°+1}$ is equal to\nA. $\\frac12$\nB. $0$\nC. $-\\frac12$\nD. $1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -203,11 +217,13 @@
    "topic_pl": "Kąt wpisany i środkowy",
    "topic_en": "Inscribed and central angles",
    "difficulty": 2,
-   "summary_pl": "Okrąg, $O$-środek, $\\angle AOC=160°$. Oblicz kąt wpisany $\\alpha$",
-   "summary_en": "Circle, center $O$, $\\angle AOC=160°$. Find inscribed angle $\\alpha$",
-   "statement_en": "Point $O$ is the center of a circle, with points $A$, $B$, $C$ on the circle. The central angle $\\angle AOC=160°$ is marked on the side of chord $AC$ not containing $B$ (see figure). The inscribed angle $\\alpha=\\angle ABC$ has measure\nA. $80°$\nB. $100°$\nC. $110°$\nD. $120°$",
+   "summary_pl": "Okrąg, śr. $O$, $\\angle AOC=160°$ (łuk $AC$ z $B$). Oblicz $\\alpha$",
+   "summary_en": "Circle center $O$, $\\angle AOC=160°$ (arc $AC$ via $B$). Find $\\alpha$",
+   "statement_en": "Point $O$ is the center of the circle; points $A$, $B$, $C$ lie on the circle. The central angle $\\angle AOC=160°$ is the angle whose arc $AC$ contains point $B$ (see figure). The inscribed angle $\\alpha=\\angle ABC$ has measure\nA. $80°$\nB. $100°$\nC. $110°$\nD. $120°$",
    "confidence": "high",
-   "notes": "The marked 160° central angle is on the side away from B; the inscribed angle subtends the other arc, giving alpha=(360-160)/2=100, matching the key [verified: ok: 160 deg central angle is on B's side, so alpha subtends the other arc: (360-160)/2=100. Key B.]"
+   "notes": "The marked 160° central angle is on the side away from B; the inscribed angle subtends the other arc, giving alpha=(360-160)/2=100, matching the key [verified: ok: 160 deg central angle is on B's side, so alpha subtends the other arc: (360-160)/2=100. Key B.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -225,7 +241,9 @@
    "summary_en": "Rhombus: side $6$, acute angle $60°$. Find the height",
    "statement_en": "The height of a rhombus with side length $6$ and acute angle $60°$ is equal to\nA. $3\\sqrt3$\nB. $3$\nC. $6\\sqrt3$\nD. $6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -259,7 +277,9 @@
    "summary_en": "Cube total surface area $=54$. Find the space diagonal",
    "statement_en": "The total surface area of a cube is equal to $54$. The length of the diagonal of this cube is equal to\nA. $\\sqrt6$\nB. $3$\nC. $9$\nD. $3\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -277,7 +297,9 @@
    "summary_en": "Cone: height$=8$, base diameter$=12$. Find the volume",
    "statement_en": "The volume of a cone with height $8$ and base diameter $12$ is equal to\nA. $124\\pi$\nB. $96\\pi$\nC. $64\\pi$\nD. $32\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -295,7 +317,9 @@
    "summary_en": "Roll 2 dice. $P$(sum of pips $=3$)?",
    "statement_en": "We roll a fair six-sided die twice. The probability of obtaining a sum of pips equal to three is\nA. $\\frac16$\nB. $\\frac19$\nC. $\\frac{1}{12}$\nD. $\\frac{1}{18}$",
    "confidence": "high",
-   "notes": " [verified: ok: Sum 3: (1,2),(2,1) -> 2/36=1/18. Key D.]"
+   "notes": " [verified: ok: Sum 3: (1,2),(2,1) -> 2/36=1/18. Key D.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -313,7 +337,9 @@
    "summary_en": "Family-size frequency table, mean$=4$. Find $x$",
    "statement_en": "Students of a certain class were asked: \"How many people are in your family?\" The results are shown in a table: family size $3$ - $6$ students; family size $4$ - $12$ students; family size $x$ - $2$ students. The mean family size for the students of this class is equal to $4$. Then the number $x$ is equal to\nA. $3$\nB. $4$\nC. $5$\nD. $7$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "24",
@@ -341,8 +367,8 @@
   },
   {
    "task": "27",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "sum",
    "value": 8,
    "value_tex": "8",
@@ -355,7 +381,9 @@
    "summary_en": "$(x,y,19)$ arithmetic seq., $x+y=8$. Find $x$ and $y$ (sum)",
    "statement_en": "The numbers $x$, $y$, $19$, in this order, form an arithmetic sequence, and $x+y=8$. Compute $x$ and $y$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[manual-exclude] value 8 = x+y given in the task",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -373,7 +401,9 @@
    "summary_en": "Acute $\\alpha$: $\\tan\\alpha+\\cot\\alpha=2$. Find $\\sin\\alpha\\cos\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\dfrac{\\sin\\alpha}{\\cos\\alpha}+\\dfrac{\\cos\\alpha}{\\sin\\alpha}=2$. Compute the value of the expression $\\sin\\alpha\\cdot\\cos\\alpha$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -399,7 +429,9 @@
    "summary_en": "Draw twice w/ replacement from $\\{1,...,7\\}$. $P$(sum div. by 3)?",
    "statement_en": "From the set of numbers $\\{1,2,3,\\ldots,7\\}$ we draw, with replacement, two numbers one at a time. Compute the probability of drawing numbers whose sum is divisible by $3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -413,11 +445,13 @@
    "topic_pl": "Styczna do okręgu",
    "topic_en": "Tangent to a circle",
    "difficulty": 3,
-   "summary_pl": "Okrąg $S=(7,3)$ styczny do $y=2x-3$. Pkt styczności (suma wsp.)",
-   "summary_en": "Circle $S=(7,3)$ tangent to $y=2x-3$. Point of tangency (sum of coords)",
-   "statement_en": "A circle centered at point $S=(7,3)$ is tangent to the line with equation $y=2x-3$. Compute the coordinates of the point of tangency.",
+   "summary_pl": "Okrąg $S=(3,7)$ styczny do $y=2x-3$. Pkt styczności (suma wsp.)",
+   "summary_en": "Circle $S=(3,7)$ tangent to $y=2x-3$. Tangency point (sum of coords)",
+   "statement_en": "A circle centered at point $S=(3,7)$ is tangent to the line with equation $y=2x-3$. Compute the coordinates of the point of tangency.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -435,7 +469,9 @@
    "summary_en": "Hiker: $112$ km; $3$ more days $\\to$ $12$ km/day less. Find km/day",
    "statement_en": "A certain tourist covered a route of $112$ km, walking the same number of kilometers each day. If he could have spent $3$ more days on this hike, he could have walked $12$ km less each day. Compute how many kilometers per day this tourist walked.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -453,7 +489,9 @@
    "summary_en": "Cube, edge$=1$; $K,L,M$ midpoints of edges. Area of $\\triangle KLM$?",
    "statement_en": "Points $K$, $L$ and $M$ are the midpoints of edges $BC$, $GH$, and $AE$ of cube $ABCDEFGH$ with edge length $1$ (see figure). Compute the area of triangle $KLM$.",
    "confidence": "high",
-   "notes": " [verified: ok: K=(1,1/2,0), L=(1/2,1,1), M=(0,0,1/2): all sides sqrt(3/2), equilateral, area 3sqrt3/8; matches key.]"
+   "notes": " [verified: ok: K=(1,1/2,0), L=(1/2,1,1), M=(0,0,1/2): all sides sqrt(3/2), equilateral, area 3sqrt3/8; matches key.]",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

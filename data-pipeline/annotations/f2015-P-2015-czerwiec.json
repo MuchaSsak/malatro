@@ -17,7 +17,9 @@
    "summary_en": "Compute $2\\sqrt{18}-\\sqrt{32}$",
    "statement_en": "The number $2\\sqrt{18}-\\sqrt{32}$ equals: A. $2^{-3/2}$ B. $2^{-1/2}$ C. $2^{1/2}$ D. $2^{3/2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\frac{\\sqrt[5]{-32}\\cdot 2^{-1}}{4}\\cdot 2^2$",
    "statement_en": "The value of the expression $\\dfrac{\\sqrt[5]{-32}\\cdot 2^{-1}}{4}\\cdot 2^2$ is: A. $-\\frac12$ B. $\\frac12$ C. $1$ D. $-1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "23% VAT, gross price 45018 PLN. Find the net price",
    "statement_en": "At a 23% VAT rate, the gross price of a car is 45,018 PLN. What is the net price of the car? A. 34,663.86 PLN B. 36,600 PLN C. 44,995 PLN D. 55,372.14 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -79,7 +85,9 @@
    "summary_en": "System $x+ay=5$, $2x-y=3$ has solution $x=2,y=1$. Find $a$",
    "statement_en": "The pair of numbers $x=2$ and $y=1$ is a solution of the system $\\begin{cases}x+ay=5\\\\2x-y=3\\end{cases}$ when: A. $a=-3$ B. $a=-2$ C. $a=2$ D. $a=3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -105,7 +113,9 @@
    "summary_en": "Compute $\\sin120^\\circ-\\cos30^\\circ$",
    "statement_en": "The value of the expression $\\sin120^\\circ-\\cos30^\\circ$ equals: A. $\\sin90^\\circ$ B. $\\sin150^\\circ$ C. $\\sin0^\\circ$ D. $\\sin60^\\circ$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -131,7 +141,9 @@
    "summary_en": "Line through $(0,-2)$ and $(6,2)$: $y=ax+b$. Find $a+b$",
    "statement_en": "The figure shows part of the line $y=ax+b$ passing through the points $(0,-2)$ and $(6,2)$. Then: A. $a=\\frac23, b=-2$ B. $a=3, b=-2$ C. $a=\\frac32, b=2$ D. $a=-3, b=2$ [Figure: a rising line through (0,-2) and (6,2)]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -145,11 +157,13 @@
    "topic_pl": "Prosta na płaszczyźnie",
    "topic_en": "Line in the plane",
    "difficulty": 2,
-   "summary_pl": "Prosta $k$ przez $(0,6)$ równoległa do $y=-3x$. Punkt na $Ox$",
-   "summary_en": "Line $k$ through $(0,6)$ parallel to $y=-3x$. Point on $Ox$",
+   "summary_pl": "Prosta $\\parallel y=-3x$ przez $(0,6)$. Suma współrz. punktu na $Ox$",
+   "summary_en": "Line $\\parallel y=-3x$ via $(0,6)$. Sum of coords of its $Ox$ point",
    "statement_en": "Line $k$ crosses the $Oy$ axis at the point $(0,6)$ and is parallel to the line $y=-3x$. The line $k$ crosses the $Ox$ axis at the point: A. $(-12,0)$ B. $(-2,0)$ C. $(2,0)$ D. $(6,0)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +181,9 @@
    "summary_en": "How many irrational solutions does $x^2(x+5)(2x-3)(x^2-7)=0$ have?",
    "statement_en": "The number of irrational solutions of the equation $x^2(x+5)(2x-3)(x^2-7)=0$ equals: A. 0 B. 1 C. 5 D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -193,12 +209,14 @@
    "summary_en": "$a_n=2^n$. Find the sum of the first 10 terms",
    "statement_en": "The geometric sequence $(a_n)$ is given by $a_n=2^n$ for $n\\ge1$. The sum of the first ten consecutive terms of this sequence is: A. $2(1-2^{10})$ B. $-2(1-2^{10})$ C. $2(1+2^{10})$ D. $-2(1+2^{10})$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 13,
    "value_tex": "13",
@@ -211,7 +229,7 @@
    "summary_en": "Arithmetic sequence: $a_1+a_6=13$. Find $a_3+a_4$",
    "statement_en": "The sum of the first and sixth terms of some arithmetic sequence equals 13. It follows that the sum of the third and fourth terms of this sequence equals: A. 13 B. 12 C. 7 D. 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] a3+a4=a1+a6=13; key A. Answer equals the only number given in task/summary: typeable without solving"
   },
   {
    "task": "15",
@@ -229,7 +247,9 @@
    "summary_en": "Triangle angles in ratio $3:4:5$. Find the smallest angle",
    "statement_en": "The measures of the interior angles of a certain triangle are in the ratio $3:4:5$. The smallest interior angle of this triangle has measure: A. 45° B. 90° C. 75° D. 60°",
    "confidence": "high",
-   "notes": " [verified: ok: 3x+4x+5x=180 -> x=15, smallest 45 deg; key A=45.]"
+   "notes": " [verified: ok: 3x+4x+5x=180 -> x=15, smallest 45 deg; key A=45.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +267,9 @@
    "summary_en": "Triangle $ABC$: $AC=BC$, $BD=CD$, $\\angle ACD=21^\\circ$. Find $\\angle BCD$",
    "statement_en": "In triangle $ABC$, where $|AC|=|BC|$, point $D$ is chosen on side $AB$ such that $|BD|=|CD|$ and $\\angle ACD=21^\\circ$ (see figure). It follows that angle $BCD$ has measure: A. 57° B. 53° C. 51° D. 55° [Figure: triangle ABC with apex C, D on AB, angle ACD=21 degrees marked]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -261,11 +283,13 @@
    "topic_pl": "Nierówność trójkąta",
    "topic_en": "Triangle inequality",
    "difficulty": 2,
-   "summary_pl": "Boki trójkąta: 7 cm, 2 cm. Możliwa długość 3. boku?",
-   "summary_en": "Triangle sides 7 cm, 2 cm. Possible length of the third side?",
+   "summary_pl": "Boki 7 cm i 2 cm (całkowite). Który z: 12, 9, 6, 3 cm to 3. bok?",
+   "summary_en": "Sides 7 cm, 2 cm (integers). Which of 12, 9, 6, 3 cm is the 3rd side?",
    "statement_en": "The side lengths of a triangle are integers. One side is 7 cm and another is 2 cm. The third side of this triangle could have length: A. 12 cm B. 9 cm C. 6 cm D. 3 cm",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +307,9 @@
    "summary_en": "Triangle sides 20 and 12, included angle $120^\\circ$. Find the area",
    "statement_en": "The sides of a triangle have lengths 20 and 12, and the angle between these sides has measure 120°. The area of this triangle equals: A. 60 B. 120 C. $60\\sqrt3$ D. $120\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +327,9 @@
    "summary_en": "Cone slant height 6, base radius 3. Find the apex angle $\\alpha$",
    "statement_en": "The slant height of a cone with base radius 3 is 6 (see figure). The apex angle $\\alpha$ of this cone equals: A. 30° B. 45° C. 60° D. 90° [Figure: cone with apex angle alpha marked at the top]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -319,7 +347,9 @@
    "summary_en": "Prism with an octagonal base - how many vertices?",
    "statement_en": "A prism with an octagonal base has exactly: A. 16 vertices. B. 9 vertices. C. 16 edges. D. 8 edges.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -337,7 +367,9 @@
    "summary_en": "Square pyramid with all edges equal - angle of inclination",
    "statement_en": "In a quadrilateral pyramid in which all edges have the same length, the angle of inclination of a lateral edge to the base plane has measure: A. 30° B. 45° C. 60° D. 75°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -355,7 +387,9 @@
    "summary_en": "$0.3$ approximates $\\frac{5}{16}$. Find the relative error in %",
    "statement_en": "The number 0.3 is one of the approximations of the number $\\frac{5}{16}$. The relative error of this approximation, expressed as a percentage, equals: A. 4% B. 0.04% C. 2.5% D. 0.025%",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -373,7 +407,9 @@
    "summary_en": "Mean of $\\{2,4,7,8,x\\}=n$; with $2x$ added it's $2n$. Find $x$",
    "statement_en": "The arithmetic mean of the data set: 2, 4, 7, 8, $x$ equals $n$, while the arithmetic mean of the data set: 2, 4, 7, 8, $x$, $2x$ equals $2n$. It follows that: A. $x=49$ B. $x=21$ C. $x=14$ D. $x=7$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -391,7 +427,9 @@
    "summary_en": "How many two-digit numbers are divisible by 6 but not by 9?",
    "statement_en": "How many two-digit natural numbers are there that are divisible by 6 and not divisible by 9? A. 6 B. 10 C. 12 D. 15",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -409,7 +447,9 @@
    "summary_en": "Lottery: 100 tickets, 4 winning. How many tickets were drawn?",
    "statement_en": "A pool of 100 lottery tickets was prepared, including 4 winning ones. After drawing a certain number of tickets, among which there was exactly one winning ticket, the chance of winning was the same as before the lottery began. It follows that the number of tickets drawn was: A. 4 tickets. B. 20 tickets. C. 50 tickets. D. 25 tickets.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -435,7 +475,9 @@
    "summary_en": "Solve $x(x^2-2x+3)=0$",
    "statement_en": "Solve the equation $x(x^2-2x+3)=0$.",
    "confidence": "high",
-   "notes": "The quadratic factor has negative discriminant (-8), so x=0 is the only real solution."
+   "notes": "The quadratic factor has negative discriminant (-8), so x=0 is the only real solution.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -477,7 +519,9 @@
    "summary_en": "Draw a two-digit number. $P$(divisible by 8 or 12)",
    "statement_en": "We randomly draw one number from the set of two-digit natural numbers. Calculate the probability of event $A$, that we obtain a number divisible by 8 or a number divisible by 12.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -503,7 +547,9 @@
    "summary_en": "Triangle $ABC$: $AC=BC$, $A=(-2,4)$, $B=(6,-2)$, $C\\in Oy$. Coordinates of $C$ (sum)",
    "statement_en": "Given is an isosceles triangle $ABC$, in which $|AC|=|BC|$. It is also known that $A=(-2,4)$ and $B=(6,-2)$. Vertex $C$ belongs to the $Oy$ axis. Calculate the coordinates of vertex $C$.",
    "confidence": "high",
-   "notes": "Solved independently via both the perpendicular-bisector equation and the distance equation; both give C=(0,-5/3), confirming the sign despite a garbled key excerpt. [verified: ok: C=(0,y): 4+(y-4)^2=36+(y+2)^2 -> y=-5/3; key C=(0,-5/3); sum -5/3.]"
+   "notes": "Solved independently via both the perpendicular-bisector equation and the distance equation; both give C=(0,-5/3), confirming the sign despite a garbled key excerpt. [verified: ok: C=(0,y): 4+(y-4)^2=36+(y+2)^2 -> y=-5/3; key C=(0,-5/3); sum -5/3.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -521,7 +567,9 @@
    "summary_en": "Pyramid: $V=27\\sqrt3$, $AB=6$. Find the total surface area",
    "statement_en": "The volume of a regular triangular pyramid $ABCS$ equals $27\\sqrt3$. The length of edge $AB$ of the pyramid's base equals 6 (see figure). Calculate the total surface area of this pyramid. [Figure: regular triangular pyramid with apex S, base ABC, center O]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

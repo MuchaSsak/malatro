@@ -25,7 +25,9 @@
    "summary_en": "Sequence $a_n=\\frac{3n^2+7n-5}{11-5n+5n^2}$. Find the limit",
    "statement_en": "The sequence $(a_n)$ is defined by the formula $a_n=\\dfrac{3n^2+7n-5}{11-5n+5n^2}$ for every natural number $n\\ge1$. The limit of this sequence equals\n\nA. $3$\nB. $\\dfrac{1}{5}$\nC. $\\dfrac{3}{5}$\nD. $-\\dfrac{5}{11}$",
    "confidence": "high",
-   "notes": "Ratio of leading coefficients 3/5. Matches key (C)."
+   "notes": "Ratio of leading coefficients 3/5. Matches key (C).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -43,7 +45,9 @@
    "summary_en": "2 urns (3w/7b and 1w/9b), die roll selects urn. Find P(white ball)",
    "statement_en": "We have two urns. The first contains 3 white balls and 7 black balls; the second contains 1 white ball and 9 black balls. We roll a fair six-sided die with faces numbered 1 to 6. If the result is a 1, we draw one ball from the first urn; otherwise we draw one ball from the second urn. Then the probability of drawing a white ball equals\n\nA. $\\dfrac{2}{15}$\nB. $\\dfrac{1}{5}$\nC. $\\dfrac{4}{5}$\nD. $\\dfrac{13}{15}$",
    "confidence": "high",
-   "notes": "P = 1/6*3/10 + 5/6*1/10 = 2/15. Matches key (A)."
+   "notes": "P = 1/6*3/10 + 5/6*1/10 = 2/15. Matches key (A).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "$(x\\sqrt2+y\\sqrt3)^4$: find coefficient $c$ of $x^2y^2$",
    "statement_en": "After transforming the algebraic expression $(x\\sqrt{2}+y\\sqrt{3})^4$ into the form $ax^4+bx^3y+cx^2y^2+dxy^3+ey^4$, the coefficient $c$ equals\n\nA. $6$\nB. $36$\nC. $8\\sqrt{6}$\nD. $12\\sqrt{6}$",
    "confidence": "high",
-   "notes": "Binomial coefficient C(4,2)*(sqrt2)^2*(sqrt3)^2 = 6*2*3=36. Matches key (B)."
+   "notes": "Binomial coefficient C(4,2)*(sqrt2)^2*(sqrt3)^2 = 6*2*3=36. Matches key (B).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -79,7 +85,9 @@
    "summary_en": "Triangle $ABC$: $AB=3AC$, $BC=\\frac{4}{5}AB$. Find cosine of smallest angle",
    "statement_en": "In triangle $ABC$, side $AB$ is 3 times longer than side $AC$, and the length of side $BC$ equals $\\frac{4}{5}$ of the length of side $AB$. Find the cosine of the smallest angle of triangle $ABC$. In the boxes below, enter in order - from left to right - the first, second and third decimal digit of the infinite decimal expansion of the result.",
    "confidence": "high",
-   "notes": "Setting AC=1,AB=3,BC=12/5: smallest side AC opposite angle B; law of cosines gives cos B = 43/45 = 0.9(5) -> digits 9,5,5. Matches key."
+   "notes": "Setting AC=1,AB=3,BC=12/5: smallest side AC opposite angle B; law of cosines gives cos B = 43/45 = 0.9(5) -> digits 9,5,5. Matches key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -117,11 +125,13 @@
    "topic_pl": "Równanie trygonometryczne",
    "topic_en": "Trigonometric equation",
    "difficulty": 4,
-   "summary_pl": "Rozwiąż $3\\cos2x+10\\cos^2x=24\\sin x-3$ dla $x\\in[0,2\\pi)$ (suma rozwiązań)",
-   "summary_en": "Solve $3\\cos2x+10\\cos^2x=24\\sin x-3$ for $x\\in[0,2\\pi)$ (sum of solutions)",
-   "statement_en": "Solve the equation $3\\cos2x+10\\cos^2x=24\\sin x-3$ for $x\\in[0,2\\pi)$.",
+   "summary_pl": "Rozw. $3\\cos2x+10\\cos^2x=24\\sin x-3$, $x\\in[0,2\\pi]$ (suma rozwiązań)",
+   "summary_en": "Solve $3\\cos2x+10\\cos^2x=24\\sin x-3$, $x\\in[0,2\\pi]$ (sum of roots)",
+   "statement_en": "Solve the equation $3\\cos 2x+10\\cos^2x=24\\sin x-3$ for $x\\in[0,2\\pi]$.",
    "confidence": "high",
-   "notes": "Reduces to 2sin^2x+3sinx-2=0, sinx=1/2 (sinx=-2 rejected); x=pi/6 or 5pi/6 in [0,2pi). Sum = pi. Matches key."
+   "notes": "Reduces to 2sin^2x+3sinx-2=0, sinx=1/2 (sinx=-2 rejected); x=pi/6 or 5pi/6 in [0,2pi). Sum = pi. Matches key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -139,7 +149,9 @@
    "summary_en": "Geom. seq. $(a_1,a_2,a_3)$: $a_1+a_2+a_3=\\frac{21}{4}$, terms of arith. seq. Find $a_1$",
    "statement_en": "In the three-term geometric sequence $(a_1,a_2,a_3)$ the equality $a_1+a_2+a_3=\\dfrac{21}{4}$ holds. The terms $a_1$, $a_2$, $a_3$ are, respectively, the fourth, second and first term of an increasing arithmetic sequence. Find $a_1$.",
    "confidence": "high",
-   "notes": "q=1 rejected (constant sequence, not increasing); q=1/2 gives a1*(7/4)=21/4, a1=3. Matches key."
+   "notes": "q=1 rejected (constant sequence, not increasing); q=1/2 gives a1*(7/4)=21/4, a1=3. Matches key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -157,7 +169,9 @@
    "summary_en": "$x^2-(3m+2)x+2m^2+7m-15=0$, $2x_1^2+5x_1x_2+2x_2^2=2$. Find $m$ (sum of values)",
    "statement_en": "Given is the quadratic equation $x^2-(3m+2)x+2m^2+7m-15=0$ with unknown $x$. Find all values of the parameter $m$ for which the equation has two distinct roots $x_1$ and $x_2$ that exist and satisfy the condition $2x_1^2+5x_1x_2+2x_2^2=2$.",
    "confidence": "high",
-   "notes": "Key excerpt is OCR-garbled with an apparent sign error (states 20m^2-31m+9=0, non-square discriminant). Independently re-derived via Vieta: 2(x1+x2)^2+x1x2=2 gives 20m^2+31m-9=0 (discriminant 1681=41^2), roots m=1/4 and m=-9/5; both verified by direct substitution into the original condition (each gives exactly 2). Discriminant of original quadratic = (m-8)^2 >=0 always, both roots != 8, so both valid. Sum = 1/4 + (-9/5) = -31/20. [verified: ok: Delta=(m-8)^2, m!=8; 2(x1+x2)^2+x1x2=2 -> 20m^2+31m-9=0, m=1/4, -9/5. Key p.20 confirms (no sign error, the note is wrong). Sum -31/20.]"
+   "notes": "Key excerpt is OCR-garbled with an apparent sign error (states 20m^2-31m+9=0, non-square discriminant). Independently re-derived via Vieta: 2(x1+x2)^2+x1x2=2 gives 20m^2+31m-9=0 (discriminant 1681=41^2), roots m=1/4 and m=-9/5; both verified by direct substitution into the original condition (each gives exactly 2). Discriminant of original quadratic = (m-8)^2 >=0 always, both roots != 8, so both valid. Sum = 1/4 + (-9/5) = -31/20. [verified: ok: Delta=(m-8)^2, m!=8; 2(x1+x2)^2+x1x2=2 -> 20m^2+31m-9=0, m=1/4, -9/5. Key p.20 confirms (no sign error, the note is wrong). Sum -31/20.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -183,7 +197,9 @@
    "summary_en": "How many 7-digit numbers have exactly three digits 1 and two digits 2?",
    "statement_en": "Find how many seven-digit natural numbers there are whose decimal representation contains exactly three digits 1 and exactly two digits 2.",
    "confidence": "high",
-   "notes": "Matches key answer 12960 (three cases by first digit, computed via permutations)."
+   "notes": "Matches key answer 12960 (three cases by first digit, computed via permutations).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -201,7 +217,9 @@
    "summary_en": "Pyramid: trapezoid $AD=10,BC=16$, $\\angle ABC=30°$, $\\tan\\alpha=\\frac{9}{2}$. Find volume",
    "statement_en": "The base of pyramid $ABCDS$ is trapezoid $ABCD$ ($AB\\parallel CD$). The legs of this trapezoid have lengths $|AD|=10$ and $|BC|=16$, and the measure of angle $ABC$ equals $30°$. Every lateral face of this pyramid forms with the base plane an angle $\\alpha$ such that $\\tan\\alpha=\\dfrac{9}{2}$. Find the volume of this pyramid.",
    "confidence": "high",
-   "notes": "Trapezoid height h=8, AB+CD=26, base area=104, apex height H=18, V=(1/3)*104*18=624. Matches key."
+   "notes": "Trapezoid height h=8, AB+CD=26, base area=104, apex height H=18, V=(1/3)*104*18=624. Matches key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -215,11 +233,13 @@
    "topic_pl": "Optymalizacja pola powierzchni",
    "topic_en": "Optimization of surface area",
    "difficulty": 5,
-   "summary_pl": "Ekran smartfona: pole $60\\text{cm}^2$, ramka $0{,}5$/$0{,}3$cm. Wymiary (suma $x+y$)",
-   "summary_en": "Smartphone screen: area $60\\text{cm}^2$, border $0.5$/$0.3$cm. Dimensions (sum $x+y$)",
+   "summary_pl": "Ekran $60\\text{ cm}^2$, ramka 0,5/0,3 cm. Suma boków ekranu w cm",
+   "summary_en": "Screen $60\\text{ cm}^2$, border 0.5/0.3 cm. Sum of screen sides in cm",
    "statement_en": "A rectangular smartphone screen is to be designed so that the distances of the screen from the shorter edges of the phone are each 0.5 cm, and the distances of the screen from the longer edges of the phone are each 0.3 cm (see figure - the screen is shown in gray). The screen itself is to have an area of $60\\text{ cm}^2$. Find the dimensions of the screen for which the total area of the screen together with its border is smallest. [Figure: a phone outline with a gray rectangular screen inset, showing gaps of 0.5 cm at the top and bottom edges and 0.3 cm at the left and right edges.]",
    "confidence": "high",
-   "notes": "With screen sides x,y (cm), xy=60, full area P(x)=(x+0.6)(60/x+1); P'(x)=0 at x=6, y=10 (i.e. 60mm x 100mm as stated in key). Sum of dimensions = 16 cm."
+   "notes": "With screen sides x,y (cm), xy=60, full area P(x)=(x+0.6)(60/x+1); P'(x)=0 at x=6, y=10 (i.e. 60mm x 100mm as stated in key). Sum of dimensions = 16 cm.",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

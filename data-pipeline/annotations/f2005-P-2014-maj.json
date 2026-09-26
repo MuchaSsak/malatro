@@ -21,11 +21,13 @@
    "topic_pl": "Procenty",
    "topic_en": "Percentages",
    "difficulty": 1,
-   "summary_pl": "Liczba 78 jest o 50% wieksza od $c$. Oblicz $c$",
+   "summary_pl": "Liczba 78 jest o 50% większa od $c$. Oblicz $c$",
    "summary_en": "78 is 50% greater than $c$. Find $c$",
    "statement_en": "If the number 78 is 50% greater than the number c, then: A. c=60 B. c=52 C. c=48 D. c=39",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -36,14 +38,16 @@
    "value_tex": "2",
    "answer_tex": "2",
    "category": "liczby",
-   "topic_pl": "Wyrazenia z pierwiastkami",
+   "topic_pl": "Wyrażenia z pierwiastkami",
    "topic_en": "Expressions with roots",
    "difficulty": 2,
    "summary_pl": "Oblicz $\\frac{2}{\\sqrt3-1}-\\frac{2}{\\sqrt3+1}$",
    "summary_en": "Compute $\\frac{2}{\\sqrt3-1}-\\frac{2}{\\sqrt3+1}$",
    "statement_en": "The value of the expression $\\frac{2}{\\sqrt3-1}-\\frac{2}{\\sqrt3+1}$ equals: A. -2 B. $-2\\sqrt3$ C. 2 D. $2\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "Compute the sum $\\log_8 16 + 1$",
    "statement_en": "The sum $\\log_8 16 + 1$ equals: A. 3 B. $\\frac32$ C. $\\log_8 17$ D. $\\frac73$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -72,14 +78,16 @@
    "value_tex": "5",
    "answer_tex": "x=5",
    "category": "rownania",
-   "topic_pl": "Wspolny pierwiastek rownan",
+   "topic_pl": "Wspólny pierwiastek równań",
    "topic_en": "Common root of equations",
    "difficulty": 2,
-   "summary_pl": "Wspolny pierwiastek $(x^2-1)(x-10)(x-5)=0$ i $\\frac{2x-10}{x-1}=0$",
+   "summary_pl": "Wspólny pierwiastek $(x^2-1)(x-10)(x-5)=0$ i $\\frac{2x-10}{x-1}=0$",
    "summary_en": "Common root of $(x^2-1)(x-10)(x-5)=0$ and $\\frac{2x-10}{x-1}=0$",
    "statement_en": "The common root of the equations $(x^2-1)(x-10)(x-5)=0$ and $\\frac{2x-10}{x-1}=0$ is the number: A. -1 B. 1 C. 5 D. 10",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -129,7 +137,9 @@
    "summary_en": "Roots of $2(x+2)(x-2)=0$: find $\\frac{1}{x_1}+\\frac{1}{x_2}$",
    "statement_en": "The roots $x_1$, $x_2$ of the equation $2(x+2)(x-2)=0$ satisfy: A. $\\frac{1}{x_1}+\\frac{1}{x_2}=-1$ B. $\\frac{1}{x_1}+\\frac{1}{x_2}=0$ C. $\\frac{1}{x_1}+\\frac{1}{x_2}=\\frac14$ D. $\\frac{1}{x_1}+\\frac{1}{x_2}=\\frac12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -148,14 +158,16 @@
    "value_tex": "\\sqrt{2}",
    "answer_tex": "\\sqrt{2}",
    "category": "planimetria",
-   "topic_pl": "Trojkaty podobne",
+   "topic_pl": "Trójkąty podobne",
    "topic_en": "Similar triangles",
    "difficulty": 1,
-   "summary_pl": "Trójkąty podobne o polach $25\\,cm^2$ i $50\\,cm^2$: skala podobieństwa",
-   "summary_en": "Similar triangles with areas $25\\,cm^2$ and $50\\,cm^2$: find the scale",
+   "summary_pl": "Pola $ABC$ i $A'B'C'$: $25$ i $50\\,cm^2$. Oblicz $\\frac{A'B'}{AB}$",
+   "summary_en": "Areas of $ABC$, $A'B'C'$: $25$, $50\\,cm^2$. Find $\\frac{A'B'}{AB}$",
    "statement_en": "If triangles ABC and A'B'C' are similar, and their areas equal $25\\text{ cm}^2$ and $50\\text{ cm}^2$ respectively, then the similarity scale $\\frac{A'B'}{AB}$ equals: A. 2 B. $\\frac12$ C. $\\sqrt2$ D. $\\frac{\\sqrt2}{2}$",
    "confidence": "high",
-   "notes": " [verified: ok: Area ratio 50/25=2, scale A'B'/AB=sqrt2; option C in crop, key C.]"
+   "notes": " [verified: ok: Area ratio 50/25=2, scale A'B'/AB=sqrt2; option C in crop, key C.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -166,14 +178,16 @@
    "value_tex": "5",
    "answer_tex": "x=5",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 1,
    "summary_pl": "$x-2, 6, 12$ to ciąg geometryczny. Oblicz $x$",
    "summary_en": "$x-2, 6, 12$ form a geometric sequence. Find $x$",
    "statement_en": "The numbers $x-2$, 6, 12, in this order, are three consecutive terms of a geometric sequence. The number x equals: A. 0 B. 2 C. 3 D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -184,14 +198,16 @@
    "value_tex": "-\\frac{11}{23}",
    "answer_tex": "-\\frac{11}{23}",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 2,
    "summary_pl": "$tg\\,\\alpha=\\frac25$. Oblicz $\\frac{3\\cos\\alpha-2\\sin\\alpha}{\\sin\\alpha-5\\cos\\alpha}$",
    "summary_en": "$\\tan\\alpha=\\frac25$. Compute $\\frac{3\\cos\\alpha-2\\sin\\alpha}{\\sin\\alpha-5\\cos\\alpha}$",
    "statement_en": "If $\\alpha$ is an acute angle and $\\tan\\alpha=\\frac25$, then the value of the expression $\\frac{3\\cos\\alpha-2\\sin\\alpha}{\\sin\\alpha-5\\cos\\alpha}$ equals: A. $-\\frac{11}{23}$ B. $\\frac{24}{5}$ C. $-\\frac{23}{11}$ D. $\\frac{5}{24}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -202,14 +218,16 @@
    "value_tex": "1",
    "answer_tex": "1",
    "category": "analityczna",
-   "topic_pl": "Okrag a osie ukladu",
+   "topic_pl": "Okrąg a osie układu",
    "topic_en": "Circle and coordinate axes",
    "difficulty": 2,
-   "summary_pl": "Ile punktow wspolnych ma okrag $(x+2)^2+(y-3)^2=4$ z osiami?",
+   "summary_pl": "Ile punktów wspólnych ma okrąg $(x+2)^2+(y-3)^2=4$ z osiami?",
    "summary_en": "How many common points does $(x+2)^2+(y-3)^2=4$ have with the axes?",
    "statement_en": "The number of common points of the circle with equation $(x+2)^2+(y-3)^2=4$ with the coordinate axes equals: A. 0 B. 1 C. 2 D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -220,14 +238,16 @@
    "value_tex": "3",
    "answer_tex": "3",
    "category": "planimetria",
-   "topic_pl": "Trapez rownoramienny",
+   "topic_pl": "Trapez równoramienny",
    "topic_en": "Isosceles trapezoid",
    "difficulty": 2,
    "summary_pl": "Trapez równoramienny, kąt ostry $60°$, ramię $2\\sqrt3$. Wysokość?",
    "summary_en": "Isosceles trapezoid, acute angle $60°$, leg $2\\sqrt3$. Find the height",
    "statement_en": "The height of an isosceles trapezoid with an acute angle of $60°$ and a leg of length $2\\sqrt3$ equals: A. $\\sqrt3$ B. 3 C. $2\\sqrt3$ D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -238,14 +258,16 @@
    "value_tex": "160",
    "answer_tex": "160^\\circ",
    "category": "planimetria",
-   "topic_pl": "Kat srodkowy",
+   "topic_pl": "Kąt środkowy",
    "topic_en": "Central angle",
    "difficulty": 1,
    "summary_pl": "Kąt środkowy oparty na łuku o długości $\\frac49$ okręgu",
    "summary_en": "Central angle on an arc of length $\\frac49$ of the circle",
    "statement_en": "A central angle subtended by an arc whose length equals $\\frac49$ of the circumference has a measure of: A. $160°$ B. $80°$ C. $40°$ D. $20°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -264,14 +286,16 @@
    "value_tex": "5",
    "answer_tex": "5",
    "category": "stereometria",
-   "topic_pl": "Ostroslup",
+   "topic_pl": "Ostrosłup",
    "topic_en": "Pyramid",
    "difficulty": 2,
    "summary_pl": "Ostrosłup ma 10 krawędzi. Ile ścian bocznych?",
    "summary_en": "A pyramid has 10 edges. How many side faces?",
    "statement_en": "If a pyramid has 10 edges, then the number of its side (lateral) faces equals: A. 5 B. 7 C. 8 D. 10",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -282,14 +306,16 @@
    "value_tex": "2",
    "answer_tex": "l=2h",
    "category": "stereometria",
-   "topic_pl": "Stozek i walec",
+   "topic_pl": "Stożek i walec",
    "topic_en": "Cone and cylinder",
    "difficulty": 2,
    "summary_pl": "Stożek i walec: równe pola boczne. Stosunek tworzącej do wysokości walca",
    "summary_en": "Cone and cylinder with equal lateral areas: ratio of slant height to cylinder height",
    "statement_en": "A cone and a cylinder have the same base and equal lateral surface areas. Then the slant height of the cone is: A. six times longer than the height of the cylinder. B. three times longer than the height of the cylinder. C. two times longer than the height of the cylinder. D. equal to the height of the cylinder.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -300,14 +326,16 @@
    "value_tex": "1",
    "answer_tex": "1",
    "category": "liczby",
-   "topic_pl": "Potegi",
+   "topic_pl": "Potęgi",
    "topic_en": "Powers",
    "difficulty": 2,
    "summary_pl": "Oblicz $\\left(\\dfrac{1}{(\\sqrt[3]{729}+\\sqrt[4]{256}+2)^0}\\right)^{-2}$",
    "summary_en": "Compute $\\left(\\dfrac{1}{(\\sqrt[3]{729}+\\sqrt[4]{256}+2)^0}\\right)^{-2}$",
    "statement_en": "The number $\\left(\\dfrac{1}{(\\sqrt[3]{729}+\\sqrt[4]{256}+2)^0}\\right)^{-2}$ equals: A. $\\frac{1}{225}$ B. $\\frac{1}{15}$ C. 1 D. 15",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -318,14 +346,16 @@
    "value_tex": "1",
    "answer_tex": "(2,-1)",
    "category": "funkcje",
-   "topic_pl": "Funkcja wykladnicza",
+   "topic_pl": "Funkcja wykładnicza",
    "topic_en": "Exponential function",
    "difficulty": 2,
-   "summary_pl": "Ktory punkt nalezy do wykresu $y=-2^{x-2}$? (suma wspolrzednych)",
+   "summary_pl": "Który punkt należy do wykresu $y=-2^{x-2}$? (suma współrzędnych)",
    "summary_en": "Which point lies on the graph of $y=-2^{x-2}$? (sum of coordinates)",
    "statement_en": "Which of the following points lies on the graph of the function $y=-2^{x-2}$, defined for all real numbers: A. $A=(1,-2)$ B. $B=(2,-1)$ C. $C=(1,\\frac12)$ D. $D=(4,4)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -343,7 +373,9 @@
    "summary_en": "$P(A)=2P(A')$. Find $P(A)$",
    "statement_en": "If A is a random event, A' is the event complementary to A, and $P(A)=2\\cdot P(A')$, then: A. $P(A)=\\frac23$ B. $P(A)=\\frac12$ C. $P(A)=\\frac13$ D. $P(A)=\\frac16$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -357,11 +389,13 @@
    "topic_pl": "Kombinacje",
    "topic_en": "Combinations",
    "difficulty": 1,
-   "summary_pl": "Ile sposobow wyboru 2 graczy sposrod 10?",
+   "summary_pl": "Ile jest sposobów wyboru 2 graczy spośród 10?",
    "summary_en": "Number of ways to choose 2 players out of 10",
    "statement_en": "In how many ways can two players be chosen from among 10 competitors? A. 100 B. 90 C. 45 D. 20",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -379,7 +413,9 @@
    "summary_en": "Median of $2,12,a,10,5,3$ is 7. Find $a$",
    "statement_en": "The median of the data set 2, 12, a, 10, 5, 3 equals 7. Then: A. a=4 B. a=6 C. a=7 D. a=9",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -390,32 +426,36 @@
    "value_tex": "16",
    "answer_tex": "b=-16,\\ c=32",
    "category": "funkcje",
-   "topic_pl": "Funkcja kwadratowa - wspolczynniki",
+   "topic_pl": "Funkcja kwadratowa – współczynniki",
    "topic_en": "Quadratic function coefficients",
    "difficulty": 2,
-   "summary_pl": "Parabola $f(x)=2x^2+bx+c$, wierzcholek $W=(4,0)$. Oblicz $b+c$",
+   "summary_pl": "Parabola $f(x)=2x^2+bx+c$, wierzchołek $W=(4,0)$. Oblicz $b+c$",
    "summary_en": "Parabola $f(x)=2x^2+bx+c$, vertex $W=(4,0)$. Find $b+c$",
    "statement_en": "The graph of the quadratic function $f(x)=2x^2+bx+c$ is a parabola whose vertex is the point $W=(4,0)$. Compute the values of the coefficients b and c. (b + c)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
    "include": true,
    "exclude_reason": null,
    "answer_kind": "sum",
-   "value": 2,
-   "value_tex": "2",
-   "answer_tex": "x=2 \\lor x=\\frac{2}{3} \\lor x=-\\frac{2}{3}",
+   "value": -2,
+   "value_tex": "-2",
+   "answer_tex": "x=-2 \\lor x=-\\frac{2}{3} \\lor x=\\frac{2}{3}",
    "category": "rownania",
-   "topic_pl": "Rownanie wielomianowe",
+   "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 3,
-   "summary_pl": "Rozwiąż $9x^3-18x^2-4x+8=0$ (suma rozwiązań)",
-   "summary_en": "Solve $9x^3-18x^2-4x+8=0$ (sum of solutions)",
-   "statement_en": "Solve the equation $9x^3-18x^2-4x+8=0$.",
+   "summary_pl": "Rozwiąż $9x^3+18x^2-4x-8=0$ (suma rozwiązań)",
+   "summary_en": "Solve $9x^3+18x^2-4x-8=0$ (sum of solutions)",
+   "statement_en": "Solve the equation $9x^3+18x^2-4x-8=0$.",
    "confidence": "high",
-   "notes": "Factors as (x-2)(9x^2-4)=0, roots 2, 2/3, -2/3; sum of all solutions = 2."
+   "notes": "Factors as (x-2)(9x^2-4)=0, roots 2, 2/3, -2/3; sum of all solutions = 2. [full-verify fix] Crop has +18x^2: (x+2)(9x^2-4)=0, roots -2, -2/3, 2/3 (key agrees), sum -2. Stored used -18x^2 (roots 2, +-2/3).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -434,14 +474,16 @@
    "value_tex": "6",
    "answer_tex": "6",
    "category": "funkcje",
-   "topic_pl": "Przeksztalcenia wykresow",
+   "topic_pl": "Przekształcenia wykresów",
    "topic_en": "Function transformations",
    "difficulty": 3,
-   "summary_pl": "Wykres przesunietego $y=1/x$: miejsce zerowe $g(x)=f(x-3)$ (b)",
-   "summary_en": "Shifted graph of $y=1/x$: zero of $g(x)=f(x-3)$ (b)",
-   "statement_en": "The figure shows part of the graph of a function f, obtained by shifting the graph of $y=\\frac1x$ (for every real $x\\neq0$) so that it has vertical asymptote $x=2$ and horizontal asymptote $y=-1$, i.e. $f(x)=\\frac{1}{x-2}-1$, crossing the x-axis at $x=3$. a) Read from the graph and write the set of all arguments for which the values of f are greater than 0. b) Give the zero of the function g defined by $g(x)=f(x-3)$.",
+   "summary_pl": "Przesunięty wykres $y=1/x$: miejsce zerowe $g(x)=f(x-3)$ (część b)",
+   "summary_en": "Shifted graph of $y=1/x$: zero of $g(x)=f(x-3)$ (part b)",
+   "statement_en": "The figure shows part of the graph of a function $f$ obtained by shifting the graph of the function $y=\\frac{1}{x}$, defined for every real number $x\\neq0$. a) Read from the graph and write the set of all arguments for which the values of $f$ are greater than 0. b) Give the zero of the function $g$ defined by $g(x)=f(x-3)$.",
    "confidence": "high",
-   "notes": "Part a) answer is the set (2,3), non-numeric; only part b) (the zero of g, =6) is numeric and summed, per multi-part mixing rule."
+   "notes": "Part a) answer is the set (2,3), non-numeric; only part b) (the zero of g, =6) is numeric and summed, per multi-part mixing rule.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "30",
@@ -452,14 +494,16 @@
    "value_tex": "\\frac{3}{32}",
    "answer_tex": "P(A)=\\frac{3}{32}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 3,
-   "summary_pl": "Losowanie 2x ze zwracaniem z $\\{1,...,8\\}$: $P$(pierwsza wieksza o 4 lub 6)",
-   "summary_en": "Draw twice with replacement from $\\{1,...,8\\}$: $P$(first exceeds second by 4 or 6)",
+   "summary_pl": "2 losy ze zwracaniem z $\\{1,..,8\\}$: $P$(pierwsza większa o 4 lub 6)",
+   "summary_en": "2 draws w/ replacement from $\\{1,..,8\\}$: $P$(1st - 2nd = 4 or 6)",
    "statement_en": "From the set of numbers $\\{1,2,3,4,5,6,7,8\\}$ two numbers are drawn, one at a time, with replacement. Compute the probability of event A, that the first number drawn is greater than the second by 4 or by 6.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -478,14 +522,16 @@
    "value_tex": "3\\sqrt{14}",
    "answer_tex": "d=3\\sqrt{14}",
    "category": "stereometria",
-   "topic_pl": "Przekatna prostopadloscianu",
+   "topic_pl": "Przekątna prostopadłościanu",
    "topic_en": "Diagonal of a cuboid",
    "difficulty": 3,
    "summary_pl": "Prostopadłościan: pole całk. 198, krawędzie w stosunku $1:2:3$. Przekątna?",
    "summary_en": "Cuboid: total surface area 198, edges in ratio $1:2:3$. Find the diagonal",
    "statement_en": "The total surface area of a cuboid is 198. The lengths of the edges of the cuboid meeting at one vertex are in the ratio 1:2:3. Compute the length of the diagonal of this cuboid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -499,11 +545,13 @@
    "topic_pl": "Zadanie tekstowe",
    "topic_en": "Word problem",
    "difficulty": 3,
-   "summary_pl": "Turysta: 2,1 km, czas 1h4min, w gore o 1km/h wolniej. Oblicz predkosc w gore",
+   "summary_pl": "Turysta: 2,1 km, razem 1h4min, pod górę o 1 km/h wolniej. v pod górę?",
    "summary_en": "Hiker: 2.1 km, 1h4min total, uphill 1 km/h slower. Find uphill speed",
    "statement_en": "A tourist visited a castle standing on a hill. The path connecting the parking lot with the castle is 2.1 km long. The total time of the tourist's walk from the parking lot to the castle and back, not counting sightseeing time, was 1 hour and 4 minutes. Compute the average speed at which the tourist walked uphill, given that this speed was 1 km/h less than the average speed at which he walked downhill.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -514,14 +562,16 @@
    "value_tex": "4+\\frac{19\\sqrt{3}}{6}",
    "answer_tex": "P_{ACB}=4+\\frac{19\\sqrt{3}}{6}",
    "category": "planimetria",
-   "topic_pl": "Kwadrat wpisany w trojkat",
+   "topic_pl": "Kwadrat wpisany w trójkąt",
    "topic_en": "Square inscribed in a triangle",
    "difficulty": 3,
-   "summary_pl": "Kat $CAB=30°$, kwadrat wpisany w trojkat ma pole 4. Pole $\\triangle ACB$?",
-   "summary_en": "Angle $CAB=30°$, inscribed square has area 4. Find area of $\\triangle ACB$",
-   "statement_en": "The angle $CAB$ of right triangle $ACB$ (right angle at C) has a measure of $30°$. The area of square DEFG inscribed in this triangle (see figure) equals 4. Compute the area of triangle ACB. [Figure: right triangle ACB with the right angle at C and angle A=30 degrees; square DEFG inscribed so that side FG lies along leg CB, vertex D lies on leg CA, and vertex E lies on hypotenuse AB]",
+   "summary_pl": "$\\angle CAB=30°$, pole kwadratu wpisanego 4. Pole $\\triangle ACB$?",
+   "summary_en": "$\\angle CAB=30°$, inscribed square area 4. Area of $\\triangle ACB$?",
+   "statement_en": "Angle $CAB$ of the right triangle $ACB$ measures $30°$. The area of the square $DEFG$ inscribed in this triangle (see figure) equals 4. Compute the area of triangle $ACB$. [Figure: right angle at $C$; side $EF$ of the square lies on the hypotenuse $AB$, vertex $D$ lies on leg $AC$ and vertex $G$ on leg $BC$.]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

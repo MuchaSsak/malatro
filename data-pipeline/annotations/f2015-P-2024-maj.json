@@ -17,7 +17,9 @@
    "summary_en": "Price +20% then -10% gives 81 zł. Find initial price",
    "statement_en": "At the start of the summer season, the price x of a pair of sandals was increased by 20%. After a month, the new price was decreased by 10%. After both changes the sandals cost 81 zł. Options: A. 45 zł B. 73.63 zł C. 75 zł D. 87.48 zł. Find the initial price x of the pair of sandals.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $(\\frac{1}{16})^8\\cdot 8^{16}$",
    "statement_en": "The number $\\left(\\frac{1}{16}\\right)^8 \\cdot 8^{16}$ equals: A. $2^{24}$ B. $2^{16}$ C. $2^{12}$ D. $2^8$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_{\\sqrt3}9$",
    "statement_en": "The number $\\log_{\\sqrt3}9$ equals: A. 2 B. 3 C. 4 D. 9.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -87,7 +93,9 @@
    "summary_en": "Largest root of $x(x+2)(x^2+9)=0$",
    "statement_en": "The largest real solution of the equation $x(x+2)(x^2+9)=0$ is: A. -2 B. 0 C. 2 D. 3.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -102,10 +110,12 @@
    "topic_en": "Rational equations",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $\\frac{x+1}{(x+2)(x-3)}=0$",
-   "summary_en": "Solve $\frac{x+1}{(x+2)(x-3)}=0$",
+   "summary_en": "Solve $\\frac{x+1}{(x+2)(x-3)}=0$",
    "statement_en": "In the set of real numbers, the equation $\\frac{x+1}{(x+2)(x-3)}=0$: A. has no solution. B. has exactly one solution: -1. C. has exactly two solutions: -2 and 3. D. has exactly three solutions: -1, -2 and 3.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -131,7 +141,9 @@
    "summary_en": "Mean of $a,b,c$ is 9. Mean of $a,a,b,b,c,c$?",
    "statement_en": "The arithmetic mean of three numbers a, b, c equals 9. The arithmetic mean of the six numbers a, a, b, b, c, c equals: A. 9 B. 6 C. 4.5 D. 18.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -173,7 +185,9 @@
    "summary_en": "$f(x)=3x+6$, $g(x)=ax+7$ share a zero. Find $a$",
    "statement_en": "The linear functions f and g, given by f(x) = 3x + 6 and g(x) = ax + 7, have the same zero. The coefficient a in the formula of g equals: A. -7/2 B. -2/7 C. 2/7 D. 7/2.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -207,7 +221,9 @@
    "summary_en": "Arithmetic seq.: $a_4=-2$, $a_6=16$. Find $a_5$",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for every natural number $n\\ge1$, $a_4=-2$ and $a_6=16$. The fifth term of this sequence equals: A. 7/2 B. 9/2 C. 7 D. 9.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -225,7 +241,9 @@
    "summary_en": "Geometric seq. $a_n=2^{n-1}$. Find the ratio",
    "statement_en": "The geometric sequence $(a_n)$ is given by $a_n = 2^{n-1}$ for every natural number $n \\ge 1$. The common ratio of this sequence equals: A. 1/2 B. -2 C. 2 D. 1.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -243,12 +261,14 @@
    "summary_en": "$b_n=(n+2)(7-n)$. How many positive terms?",
    "statement_en": "The sequence $(b_n)$ is given by $b_n = (n+2)(7-n)$ for every natural number $n \\ge 1$. The number of positive terms of this sequence equals: A. 6 B. 7 C. 8 D. 9.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 0.3420201433256687,
    "value_tex": "\\sin 20^\\circ",
@@ -261,7 +281,7 @@
    "summary_en": "Simplify $\\sin^3 20°+\\cos^2 20°\\sin20°$",
    "statement_en": "The number $\\sin^3 20° + \\cos^2 20° \\cdot \\sin 20°$ equals: A. $\\cos 20°$ B. $\\sin 20°$ C. $\\tan 20°$ D. $\\sin 20° \\cdot \\cos 20°$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] Identity: sin20(sin^2+cos^2)=sin20, key B. Stored 0.342 is an irrational decimal read from option, rounding unfixed; no natural number to type."
   },
   {
    "task": "20",
@@ -279,7 +299,9 @@
    "summary_en": "Acute angle: $\\cos\\alpha=\\frac{5}{13}$. Find $\\tan\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\cos\\alpha = 5/13$. Then: A. $\\tan\\alpha=12/13$ B. $\\tan\\alpha=12/5$ C. $\\tan\\alpha=5/12$ D. $\\tan\\alpha=13/12$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -297,7 +319,9 @@
    "summary_en": "Parallelogram: sides $3,4$, angle $120°$. Area?",
    "statement_en": "A parallelogram has sides of length 3 and 4, with the angle between them measuring 120°. The area of this parallelogram equals: A. 6 B. $6\\sqrt3$ C. 12 D. $12\\sqrt3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -315,7 +339,9 @@
    "summary_en": "Triangle $MKC$: $MK=24$, $AB=6$, $AC=3$. Find $MA$",
    "statement_en": "In triangle MKC, side MK has length 24. A line parallel to MK intersects sides MC and KC at points A and B respectively, such that |AB| = 6 and |AC| = 3 [Figure: triangle MKC with segment AB parallel to MK, near vertex C, forming a smaller similar triangle ABC]. The length of segment MA equals: A. 18 B. 15 C. 9 D. 12.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -333,7 +359,9 @@
    "summary_en": "Triangle in circle: $\\angle ACB=42°$. Find $\\angle BAS$",
    "statement_en": "In triangle ABC, inscribed in a circle with center S, angle ACB measures 42° [Figure: circle with inscribed triangle ABC and center S, segment AS drawn]. The measure of the acute angle BAS equals: A. 42° B. 45° C. 48° D. 69°.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "24",
@@ -347,11 +375,13 @@
    "topic_pl": "Prostopadłość prostych",
    "topic_en": "Perpendicular lines",
    "difficulty": 2,
-   "summary_pl": "Proste $k,l$ prostopadłe: $k:y=(m+1)x+7$. $m=?$",
-   "summary_en": "Perpendicular lines $k,l$: $k:y=(m+1)x+7$. Find $m$",
+   "summary_pl": "$k:y=(m+1)x+7$ i $l:y=-2x+7$ prostopadłe. Oblicz $m$",
+   "summary_en": "$k:y=(m+1)x+7$ and $l:y=-2x+7$ are perpendicular. Find $m$",
    "statement_en": "Lines k and l are given by k: y = (m+1)x + 7 and l: y = -2x + 7. Lines k and l are perpendicular when the number m equals: A. -1/2 B. 1/2 C. -3 D. 1.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -369,7 +399,9 @@
    "summary_en": "Line $l$: slope $\\frac12$, $A=(2,-4)$, $B=(0,b)$. Find $b$",
    "statement_en": "On line l, which has slope 1/2, lie points A = (2, -4) and B = (0, b). Then the number b equals: A. -5 B. 10 C. -2 D. 0.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -387,7 +419,9 @@
    "summary_en": "Hexagonal prism: $h=6$, base area $15\\sqrt3$. Face area?",
    "statement_en": "The height of a regular hexagonal prism equals 6 [Figure: hexagonal prism with height 6 marked]. The base area of this prism equals $15\\sqrt3$. The area of one lateral face of this prism equals: A. $36\\sqrt{10}$ B. 60 C. $6\\sqrt{10}$ D. 360.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -413,7 +447,9 @@
    "summary_en": "Pyramid: $V=64$, $h=12$. Find base edge length",
    "statement_en": "The volume of a regular quadrilateral pyramid equals 64. The height of this pyramid equals 12. The length of the base edge of this pyramid equals: A. 2 B. 4 C. 6 D. 8.",
    "confidence": "high",
-   "notes": " [verified: ok: V=a^2*12/3=4a^2=64 -> a=4. Key B (both versions).]"
+   "notes": " [verified: ok: V=a^2*12/3=4a^2=64 -> a=4. Key B (both versions).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -431,7 +467,9 @@
    "summary_en": "How many codes from digits $1,3,6,8$ (each once)?",
    "statement_en": "We consider all four-digit codes formed only from the digits 1, 3, 6, 8, where each of these digits appears exactly once in each code. The number of all such codes equals: A. 4 B. 10 C. 24 D. 16.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -465,7 +503,9 @@
    "summary_en": "Parabola $f(x)=x^2+bx+c$: axis $x=-2$, zero $1$. Find $b,c$ (b + c)",
    "statement_en": "The axis of symmetry of the graph of the quadratic function $f(x) = x^2 + bx + c$ is the line $x = -2$. One of the zeros of f is the number 1. Compute the coefficients b and c.",
    "confidence": "high",
-   "notes": "sum = b + c"
+   "notes": "sum = b + c",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -483,7 +523,9 @@
    "summary_en": "Arithmetic seq.: $a_3=-1$, $S_{15}=-165$. Find difference $r$",
    "statement_en": "The arithmetic sequence $(a_n)$ is defined for every natural number $n \\ge 1$. The third term of this sequence equals -1, and the sum of the first fifteen consecutive terms of this sequence equals -165. Compute the common difference of this sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -501,7 +543,9 @@
    "summary_en": "Parallelogram $ABCD$: $A=(-2,6)$, $B=(10,2)$, $P=(6,7)$. Find $|BC|$",
    "statement_en": "In parallelogram ABCD, A = (-2, 6) and B = (10, 2). The diagonals AC and BD of this parallelogram intersect at point P = (6, 7). Compute the length of side BC of this parallelogram.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "35",
@@ -519,7 +563,9 @@
    "summary_en": "Draw twice w/ replacement from $\\{5,...,9\\}$. P(even sum)?",
    "statement_en": "Given is the five-element set $K = \\{5, 6, 7, 8, 9\\}$. Drawing each number from this set is equally likely. From set K we draw, with replacement, one number at a time, twice in a row, and record them in the order drawn. Compute the probability of event A, that the sum of the drawn numbers is an even number.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "36",
@@ -533,11 +579,13 @@
    "topic_pl": "Graniastosłup - kąt i pole",
    "topic_en": "Prism - angle and surface area",
    "difficulty": 3,
-   "summary_pl": "Graniastosłup 4-kątny: $V=108$, kraw.:wys.$=1:4$. $\\cos\\alpha$, pole? (suma)",
-   "summary_en": "Quadrilateral prism: $V=108$, edge:height$=1:4$. $\\cos\\alpha$, area? (sum)",
+   "summary_pl": "Graniastosłup 4-kątny: $V=108$, $a:h=1:4$. Podaj $\\cos\\alpha+P_c$",
+   "summary_en": "Square prism: $V=108$, $a:h=1:4$. Type $\\cos\\alpha$ + total area",
    "statement_en": "In a regular quadrilateral prism with volume equal to 108, the ratio of the base edge length to the height of the prism equals 1/4. The diagonal of this prism is inclined to the base plane at angle $\\alpha$ [Figure: prism with the angle $\\alpha$ between its space diagonal and the base plane marked]. Compute the cosine of angle $\\alpha$ and the total surface area of this prism.",
    "confidence": "high",
-   "notes": "sum = cos(alpha) + total surface area = 1/3 + 162"
+   "notes": "sum = cos(alpha) + total surface area = 1/3 + 162",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

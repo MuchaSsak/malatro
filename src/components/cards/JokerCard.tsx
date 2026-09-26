@@ -18,7 +18,10 @@ export default function JokerCard({ joker, scale = 1, isFaceDown, className }: J
     return (
       <div
         style={{ width: w, height: h }}
-        className={cn("grid place-items-center rounded-[10px] border-4 border-white bg-panel-light shadow-card", className)}
+        className={cn(
+          "grid place-items-center rounded-[10px] border-4 border-white bg-panel-light shadow-card",
+          className,
+        )}
       >
         <span className="font-pixel text-6xl text-white/60">?</span>
       </div>
@@ -45,10 +48,19 @@ export default function JokerCard({ joker, scale = 1, isFaceDown, className }: J
             : `radial-gradient(circle at 50% 38%, #ffffff 0%, ${color}33 55%, ${color}88 100%)`,
         }}
       >
-        <PixelArt glyph={def?.art ?? "?"} size={92 * scale} res={30} color="#2c383c" className={isLegend ? "animate-bob" : undefined} />
+        <PixelArt
+          glyph={def?.art ?? "?"}
+          size={92 * scale}
+          res={30}
+          color="#2c383c"
+          className={isLegend ? "animate-bob" : undefined}
+        />
       </div>
       <div className="absolute inset-x-[1.6em] bottom-[1.2em] text-center">
-        <span className="tx line-clamp-2 font-pixel text-[0.95em] leading-[1] text-white" style={{ WebkitTextStroke: "0" }}>
+        <span
+          className="tx line-clamp-2 font-pixel text-[0.95em] leading-[1] text-white"
+          style={{ WebkitTextStroke: "0" }}
+        >
           <span className="rounded bg-panel/80 px-1">{l(def?.name)}</span>
         </span>
       </div>

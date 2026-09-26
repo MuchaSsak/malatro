@@ -17,7 +17,9 @@
    "summary_en": "Simplify $\\frac{\\sqrt5+2}{\\sqrt5-2}$",
    "statement_en": "The fraction $\\frac{\\sqrt5+2}{\\sqrt5-2}$ equals: A. 1 B. $-1$ C. $7+4\\sqrt5$ D. $9+4\\sqrt5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Solve $|2x+3|=5$ (sum of solutions)",
    "statement_en": "The numbers satisfying the equation $|2x+3|=5$ are: A. 1 and $-4$ B. 1 and 2 C. $-1$ and 4 D. $-2$ and 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Solve $(x+5)(x-3)(x^2+1)=0$ (sum of solutions)",
    "statement_en": "The equation $(x+5)(x-3)(x^2+1)=0$ has: A. two solutions: $x=-5$, $x=3$ B. two solutions: $x=-3$, $x=5$ C. four solutions: $x=-5$, $x=-1$, $x=1$, $x=3$ D. four solutions: $x=-3$, $x=-1$, $x=1$, $x=5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "1.5% margin = 3000 PLN. Loan amount?",
    "statement_en": "A margin equal to 1.5% of the borrowed capital was 3000 PLN. It follows that the loan was: A. 45 PLN B. 2000 PLN C. 200 000 PLN D. 450 000 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -97,7 +105,9 @@
    "summary_en": "Vertex of $f(x)=x^2-4x+4$ (sum of coords)",
    "statement_en": "The vertex of the parabola that is the graph of the function $f(x)=x^2-4x+4$ is the point with coordinates: A. $(0,2)$ B. $(0,-2)$ C. $(-2,0)$ D. $(2,0)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -111,11 +121,13 @@
    "topic_pl": "Kąty w trójkącie",
    "topic_en": "Angles in a triangle",
    "difficulty": 2,
-   "summary_pl": "Kąt trójkąta $54°$, inne w stos. 1:6 (suma kątów)",
-   "summary_en": "Triangle angle $54°$, others ratio 1:6 (sum)",
+   "summary_pl": "Kąt trójkąta 4°$, pozostałe w stos. 1:6 (suma tych dwóch)",
+   "summary_en": "Triangle angle 4°$, other two ratio 1:6 (sum of those two)",
    "statement_en": "One angle of a triangle measures $54°$. Of the remaining two angles, one is 6 times as large as the other. The remaining angles equal: A. $21°$ and $105°$ B. $11°$ and $66°$ C. $18°$ and $108°$ D. $16°$ and $96°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -133,7 +145,9 @@
    "summary_en": "Rectangle: side 6, diagonal angle $30°$. Longer side?",
    "statement_en": "The shorter side of a rectangle has length 6. The angle between the rectangle's diagonal and the longer side measures $30°$. The longer side of the rectangle has length: A. $2\\sqrt3$ B. $4\\sqrt3$ C. $6\\sqrt3$ D. 12",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -151,7 +165,9 @@
    "summary_en": "Chord 8 cm, distance from center 3 cm. Radius?",
    "statement_en": "A chord of a circle has length 8 cm and is at a distance of 3 cm from its center. The radius of this circle is: A. 3 cm B. 4 cm C. 5 cm D. 8 cm",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -169,7 +185,9 @@
    "summary_en": "Inscribed angle BAD (central angles 130°, 60°)",
    "statement_en": "Point O is the center of the circle. [Figure: circle with center O; points A, B, C, D on the circle; central angles at O of $130°$ (between OD and OA) and $60°$ (between OA and OB)] The inscribed angle BAD measures: A. $150°$ B. $120°$ C. $115°$ D. $85°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "11",
@@ -211,7 +229,9 @@
    "summary_en": "Sequence $a_n=\\sqrt{2n+4}$. Find $a_8$",
    "statement_en": "The sequence $(a_n)$ is defined by $a_n=\\sqrt{2n+4}$ for $n\\ge1$. Then: A. $a_8=2\\sqrt5$ B. $a_8=8$ C. $a_8=5\\sqrt2$ D. $a_8=\\sqrt{12}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +249,9 @@
    "summary_en": "Geometric sequence $2\\sqrt2, 4, a$. Find $a$",
    "statement_en": "The sequence $(2\\sqrt2, 4, a)$ is geometric. Then: A. $a=8\\sqrt2$ B. $a=4\\sqrt2$ C. $a=8-2\\sqrt2$ D. $a=8+2\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +269,9 @@
    "summary_en": "Acute angle $\\alpha$, $\\tan\\alpha=1$. Find $\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\tan\\alpha=1$. Then: A. $\\alpha<30°$ B. $\\alpha=30°$ C. $\\alpha=45°$ D. $\\alpha>45°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -261,11 +285,13 @@
    "topic_pl": "Dziedzina funkcji",
    "topic_en": "Domain of a function",
    "difficulty": 2,
-   "summary_pl": "Dziedzina $f(x)=\\frac{x-7}{2x+a}$. Oblicz $a$",
-   "summary_en": "Domain of $f(x)=\\frac{x-7}{2x+a}$. Find $a$",
+   "summary_pl": "$f(x)=\\frac{x-7}{2x+a}$, dziedz. $\\mathbb{R}\\setminus\\{2\\}$. Ile $a$?",
+   "summary_en": "$f(x)=\\frac{x-7}{2x+a}$, domain $\\mathbb{R}\\setminus\\{2\\}$. Find $a$",
    "statement_en": "It is known that the domain of the function $f$ defined by $f(x)=\\frac{x-7}{2x+a}$ is the set $(-\\infty,2)\\cup(2,+\\infty)$. Then: A. $a=2$ B. $a=-2$ C. $a=4$ D. $a=-4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -291,7 +317,9 @@
    "summary_en": "Midpoint $S=(2,7)$, $A=(-1,3)$. Find $B$ (sum of coords)",
    "statement_en": "The point $S=(2,7)$ is the midpoint of segment AB, in which $A=(-1,3)$. Point B has coordinates: A. $B=(5,11)$ B. $B=(\\frac12,2)$ C. $B=(-\\frac32,-5)$ D. $B=(3,11)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -309,7 +337,9 @@
    "summary_en": "Dice rolls: 6,3,1,2,5,5. Find the median",
    "statement_en": "In six consecutive rolls of a die the following results were obtained: 6, 3, 1, 2, 5, 5. The median of these results equals: A. 3 B. 3.5 C. 4 D. 5",
    "confidence": "high",
-   "notes": " [verified: ok: Sorted 1,2,3,5,5,6; median (3+5)/2=4; key C.]"
+   "notes": " [verified: ok: Sorted 1,2,3,5,5,6; median (3+5)/2=4; key C.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -327,7 +357,9 @@
    "summary_en": "Equality $(a+2\\sqrt2)^2=a^2+28\\sqrt2+8$ holds for?",
    "statement_en": "The equality $(a+2\\sqrt2)^2=a^2+28\\sqrt2+8$ holds for: A. $a=14$ B. $a=7\\sqrt2$ C. $a=7$ D. $a=2\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -341,11 +373,13 @@
    "topic_pl": "Stożek z obrotu trójkąta",
    "topic_en": "Cone from a rotated triangle",
    "difficulty": 2,
-   "summary_pl": "Trójkąt prost. 4,6 obrócony - objętość stożka?",
-   "summary_en": "Right triangle 4,6 rotated - cone's volume?",
+   "summary_pl": "Trójkąt prost. 4,6 obrócony wokół dłuższej przyprost. - V stożka?",
+   "summary_en": "Right triangle 4,6 rotated about the longer leg - cone volume?",
    "statement_en": "A right triangle with legs 4 and 6 is rotated about the longer leg. The volume of the resulting cone equals: A. $96\\pi$ B. $48\\pi$ C. $32\\pi$ D. $8\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -363,7 +397,9 @@
    "summary_en": "$P(A)=0.3$, $P(B')=0.4$, disjoint. Find $P(A\\cup B)$",
    "statement_en": "If A and B are random events, B' is the event complementary to B, $P(A)=0.3$, $P(B')=0.4$, and $A\\cap B=\\emptyset$, then $P(A\\cup B)$ equals: A. 0.12 B. 0.18 C. 0.6 D. 0.9",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -397,7 +433,9 @@
    "summary_en": "Group avg age 23, with tutor (39) avg 24. Group size?",
    "statement_en": "The average age in a certain group of students is 23 years. The average age of these students together with their tutor is 24 years. The tutor is 39 years old. Calculate how many students are in the group.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -415,7 +453,9 @@
    "summary_en": "Right trapezoid: bases 6,10, tan of acute angle=3. Area?",
    "statement_en": "The bases of a right trapezoid have lengths 6 and 10, and the tangent of its acute angle is 3. Calculate the area of this trapezoid.",
    "confidence": "high",
-   "notes": " [verified: ok: h=3*(10-6)=12, P=(6+10)/2*12=96; matches key.]"
+   "notes": " [verified: ok: h=3*(10-6)=12, P=(6+10)/2*12=96; matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -457,7 +497,9 @@
    "summary_en": "Rhombus: acute angle $45°$, area $50\\sqrt2$. Find height",
    "statement_en": "A rhombus has an acute angle of $45°$, and its area is $50\\sqrt2$. Calculate the height of this rhombus.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -475,7 +517,9 @@
    "summary_en": "A=(2,11), B=(8,23), C=(6,14). Altitude from C - D? (sum)",
    "statement_en": "Points $A=(2,11)$, $B=(8,23)$, $C=(6,14)$ are the vertices of a triangle. The altitude of the triangle from vertex C intersects line AB at point D. Calculate the coordinates of point D.",
    "confidence": "high",
-   "notes": " [verified: ok: AB: y=2x+7, CD: y=-x/2+17, D=(4,15), sum 19; matches key.]"
+   "notes": " [verified: ok: AB: y=2x+7, CD: y=-x/2+17, D=(4,15), sum 19; matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -493,7 +537,9 @@
    "summary_en": "5-digit numbers, no zero, one 7 and one even digit?",
    "statement_en": "Calculate how many five-digit natural numbers there are, in whose notation there is no zero, there is exactly one digit 7, and exactly one even digit.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -511,7 +557,9 @@
    "summary_en": "Prism: AB=8, area of ABF=52. Find the volume",
    "statement_en": "Given is a regular triangular prism $ABCDEF$ with bases $ABC$ and $DEF$ and lateral edges $AD$, $BE$, $CF$ (see figure). The length of the base edge $AB$ is 8, and the area of triangle $ABF$ is 52. Calculate the volume of this prism. [Figure: triangular prism with labeled vertices A, B, C on bottom base, D, E, F on top base]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

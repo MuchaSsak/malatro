@@ -125,7 +125,10 @@ export const BOSSES: BossDef[] = [
   {
     id: "zaokraglenie",
     name: { pl: "Zaokrąglenie w dół", en: "Round Down" },
-    desc: { pl: "Wartości kart są zaokrąglane w dół do liczb całkowitych", en: "Card values are rounded down to integers" },
+    desc: {
+      pl: "Wartości kart są zaokrąglane w dół do liczb całkowitych",
+      en: "Card values are rounded down to integers",
+    },
     minAnte: 1,
     color: "#5c6e91",
     targetMult: 2,

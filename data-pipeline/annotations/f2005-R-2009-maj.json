@@ -25,7 +25,9 @@
    "summary_en": "$W(x):(x-1)$ gives quotient $8x^2+4x-14$, rem.$-5$. Roots (sum)",
    "statement_en": "The polynomial $W(x)$ divided by the binomial $(x-1)$ gives quotient $Q(x)=8x^2+4x-14$ and remainder $R(x)=-5$. Find the roots of the polynomial $W(x)$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -43,7 +45,9 @@
    "summary_en": "Graph of $f(x)=a^x$ through $(2,3)$. Find $a$ (part a)",
    "statement_en": "The figure shows the graph of the exponential function $f(x)=a^x$ for $x\\in\\mathbb{R}$, passing through the point $(2,3)$. a) Compute $a$. b) Sketch the graph of the function $g(x)=|f(x)-2|$ and give all values of the parameter $m\\in\\mathbb{R}$ for which the equation $g(x)=m$ has exactly one solution.",
    "confidence": "high",
-   "notes": "Only part (a) is a plain number; part (b) needs a sketch plus an infinite set of m (m=0 or m>=2), not summed. The official key PDF (pages 13-14, verified via pdftotext) literally prints 'Poprawna odpowiedź: a = 3', but the graph clearly marks the point (2,3) on f(x)=a^x, which forces a=sqrt(3), not 3. Treated as a lost square-root symbol in the key's text extraction (a known MathType/PDF issue) rather than a genuine key error; used a=sqrt(3) per the unambiguous graph, per ANNOTATE.md's transcription-problem rule. [verified: ok: Graph through (2,3): a^2=3, a=sqrt3. Rendered key p.14 prints a=sqrt3 (text extraction lost the root). Part b is a set, not summed.]"
+   "notes": "Only part (a) is a plain number; part (b) needs a sketch plus an infinite set of m (m=0 or m>=2), not summed. The official key PDF (pages 13-14, verified via pdftotext) literally prints 'Poprawna odpowiedź: a = 3', but the graph clearly marks the point (2,3) on f(x)=a^x, which forces a=sqrt(3), not 3. Treated as a lost square-root symbol in the key's text extraction (a known MathType/PDF issue) rather than a genuine key error; used a=sqrt(3) per the unambiguous graph, per ANNOTATE.md's transcription-problem rule. [verified: ok: Graph through (2,3): a^2=3, a=sqrt3. Rendered key p.14 prints a=sqrt3 (text extraction lost the root). Part b is a set, not summed.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "Vault coin sequence. Smallest $k$ and day of min coins (sum)",
    "statement_en": "There were $k$ coins in the royal treasury. On the morning of the first day the treasurer added 25 coins, and each following morning he added 2 more coins than the previous day. At the same time, each day at noon the king took 50 coins out of the treasury. Compute the smallest number $k$ for which there was at least one coin in the treasury on every day, and then, for that value of $k$, find on which day the treasury held the fewest coins.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -93,9 +99,11 @@
    "difficulty": 4,
    "summary_pl": "Ciąg geom. $(x-3,x+3,6x+2)$ o wyr. dodatnich. Oblicz iloraz",
    "summary_en": "Geometric seq. $(x-3,x+3,6x+2)$, positive terms. Find ratio",
-   "statement_en": "The sequence $(x-3,\\ x+3,\\ 6x+2,\\ \\ldots)$ is an infinite geometric sequence with positive terms. Compute the common ratio of this sequence, and show that $\\dfrac{S_{19}}{S_{20}}<\\dfrac{19}{20}$, where $S_n$ denotes the sum of the first $n$ terms of this sequence.",
+   "statement_en": "The sequence $(x-3,\\ x+3,\\ 6x+2,\\ \\ldots)$ is an infinite geometric sequence with positive terms. Compute the common ratio of this sequence and justify that $\\dfrac{S_{19}}{S_{20}}<\\dfrac{1}{4}$, where $S_n$ denotes the sum of the first $n$ terms of this sequence.",
    "confidence": "high",
-   "notes": "Only the ratio is a plain number; the S_19/S_20 inequality is a proof, not summed"
+   "notes": "Only the ratio is a plain number; the S_19/S_20 inequality is a proof, not summed",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -129,7 +137,9 @@
    "summary_en": "White:black $=3:1$, $P$(different colors)$>\\frac{9}{22}$. How many balls in the urn? (sum)",
    "statement_en": "An urn contains only white and black balls. There are three times as many white balls as black balls. Compute how many balls are in the urn, given that when two balls are drawn simultaneously, the probability of drawing balls of different colors is greater than $\\frac{9}{22}$.",
    "confidence": "high",
-   "notes": "Two integer values of n (black balls) satisfy the inequality, giving 4 or 8 balls total; sum of both valid answers [verified: ok: P=3n/(2(4n-1))>9/22 gives n<3, n=1,2 -> 4 or 8 balls (key). Plain numbers, sum 12 unambiguous. Summary fix: diacritics only.]"
+   "notes": "Two integer values of n (black balls) satisfy the inequality, giving 4 or 8 balls total; sum of both valid answers [verified: ok: P=3n/(2(4n-1))>9/22 gives n<3, n=1,2 -> 4 or 8 balls (key). Plain numbers, sum 12 unambiguous. Summary fix: diacritics only.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -143,11 +153,13 @@
    "topic_pl": "Kąt w ostrosłupie",
    "topic_en": "Angle in a pyramid",
    "difficulty": 5,
-   "summary_pl": "Ostrosłup: krawędź boczna $=2a$. Oblicz $\\cos$ kąta (cz. a)",
-   "summary_en": "Pyramid: lateral edge $=2a$. Find $\\cos$ of the angle (part a)",
+   "summary_pl": "Ostrosłup prawidł. trójkątny, boczna $2a$: cos kąta boczna-podstawa",
+   "summary_en": "Regular triangular pyramid, lateral edge $2a$: cos(lateral, base edge)",
    "statement_en": "A regular triangular pyramid is given in which the base edge has length $a$ and the lateral edge is twice as long. Compute the cosine of the angle between a lateral edge and a base edge of the pyramid. Sketch the cross-section of the pyramid by the plane passing through a base edge and the midpoint of the opposite lateral edge, and compute the area of this cross-section.",
    "confidence": "high",
-   "notes": "Only the cosine (part a) is a plain number; the cross-section area (part b) is symbolic in a (P=a^2*sqrt5/4), not summed"
+   "notes": "Only the cosine (part a) is a plain number; the cross-section area (part b) is symbolic in a (P=a^2*sqrt5/4), not summed",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

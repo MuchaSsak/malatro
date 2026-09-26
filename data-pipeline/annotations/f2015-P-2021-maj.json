@@ -17,7 +17,9 @@
    "summary_en": "Compute $100^5\\cdot(0.1)^{-6}$",
    "statement_en": "The number $100^5 \\cdot (0.1)^{-6}$ is equal to: A) $10^{13}$ B) $10^{16}$ C) $10^{-1}$ D) $10^{-30}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "78 is 150% of $c$. Find $c$",
    "statement_en": "The number 78 is 150% of a number $c$. Then the number $c$ equals: A) 60 B) 52 C) 48 D) 39.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "How many integers in $(-\\infty,5)\\cap[-1,\\infty)$?",
    "statement_en": "We consider the number intervals $(-\\infty, 5)$ and $[-1, +\\infty)$. How many integers belong to both intervals simultaneously? A) 6 B) 5 C) 4 D) 7.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Compute $2\\log\\sqrt{10}+\\log10^3$",
    "statement_en": "The sum $2\\log\\sqrt{10} + \\log 10^3$ equals: A) 2 B) 3 C) 4 D) 5.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Compute $0.(3)-\\frac{23}{33}$",
    "statement_en": "The difference $0.(3) - \\frac{23}{33}$ equals: A) $-0.(39)$ B) $-\\frac{39}{100}$ C) $-0.36$ D) $-\\frac{4}{11}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -131,7 +141,9 @@
    "summary_en": "For which $m$ are the lines parallel?",
    "statement_en": "The lines with equations $y=3x-5$ and $y=\\frac{m-3}{2}x+\\frac{9}{2}$ are parallel when: A) $m=1$ B) $m=3$ C) $m=6$ D) $m=9$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -147,9 +159,11 @@
    "difficulty": 2,
    "summary_pl": "$f(x)=\\frac{x^2}{2x-2}$. Oblicz $f(\\sqrt3-1)$",
    "summary_en": "$f(x)=\\frac{x^2}{2x-2}$. Find $f(\\sqrt3-1)$",
-   "statement_en": "The function $f$ is defined by $f(x)=\\frac{x^2}{2x-2}$ for every real number $x\\neq 1$. Then for the argument $x=\\sqrt3-1$, the value of $f$ equals: A) $\\frac{1}{\\sqrt3-2}$ B) $-1$ C) $1$ D) $\\frac{1}{\\sqrt3-1}$.",
+   "statement_en": "The function $f$ is defined by $f(x)=\\frac{x^2}{2x-2}$ for every real number $x\\neq 1$. Then for the argument $x=\\sqrt3-1$, the value of $f$ equals: A) $\\frac{1}{\\sqrt3-1}$ B) $-1$ C) $1$ D) $\\frac{1}{\\sqrt3-2}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +181,9 @@
    "summary_en": "Point on graph of $f(x)=3^x-2$ (sum of coords)",
    "statement_en": "The graph of the function $f$, defined for every real number $x$ by $f(x)=3^x-2$, contains the point with coordinates: A) $(-1,-5)$ B) $(0,-2)$ C) $(0,-1)$ D) $(2,4)$. (sum of the coordinates of the correct point)",
    "confidence": "high",
-   "notes": "Closed task; value is x+y of the correct point (0,-1)."
+   "notes": "Closed task; value is x+y of the correct point (0,-1).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -193,7 +209,9 @@
    "summary_en": "Geometric seq. $(15,3x,5/3)$, positive. Find $x$",
    "statement_en": "The three-term sequence $\\left(15, 3x, \\frac{5}{3}\\right)$ is geometric and all its terms are positive. It follows that: A) $x=\\frac{3}{5}$ B) $x=\\frac{4}{5}$ C) $x=1$ D) $x=\\frac{5}{3}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -211,7 +229,9 @@
    "summary_en": "$b_n=3n^2-25n$. How many terms are $\\le 0$?",
    "statement_en": "The sequence $(b_n)$ is given by $b_n=3n^2-25n$ for every natural number $n\\ge 1$. The number of non-positive terms of the sequence $(b_n)$ equals: A) 14 B) 13 C) 9 D) 8.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +249,9 @@
    "summary_en": "Arithmetic seq.: $a_3+a_5=58$. Find $a_4$",
    "statement_en": "The arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$. Its third and fifth terms satisfy $a_3+a_5=58$. Then the fourth term of this sequence equals: A) 28 B) 29 C) 33 D) 40.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -255,7 +277,9 @@
    "summary_en": "Tangent to circle, $\\angle AOB=80°$. Find $\\angle BAC$",
    "statement_en": "Line $k$ is tangent at point $A$ to a circle with center $O$. Point $B$ lies on this circle and the measure of angle $AOB$ is $80°$. The line through points $O$ and $B$ intersects line $k$ at point $C$ [Figure: circle with center O, tangent line k at A, point B on the circle with angle AOB=80 degrees marked, ray OB extended to meet k at C outside the circle]. The measure of angle $BAC$ equals: A) $10°$ B) $30°$ C) $40°$ D) $50°$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -273,7 +297,9 @@
    "summary_en": "Right triangle: $AC=8$, $\\tan\\alpha=2/5$. Find area",
    "statement_en": "The leg $AC$ of the right triangle $ABC$ has length $8$ and $\\tan\\alpha=\\frac{2}{5}$ [Figure: right triangle ABC with the right angle at C, angle alpha at vertex A, leg AC=8 horizontal]. The area of this triangle equals: A) $12$ B) $\\frac{37}{3}$ C) $\\frac{62}{5}$ D) $\\frac{64}{5}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -291,7 +317,9 @@
    "summary_en": "Equilateral triangle area $4\\sqrt3/9$. Find perimeter",
    "statement_en": "The area of a certain equilateral triangle equals $\\frac{4\\sqrt3}{9}$. The perimeter of this triangle equals: A) $4$ B) $2$ C) $\\frac{4}{3}$ D) $\\frac{2}{3}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -309,7 +337,9 @@
    "summary_en": "$BC=13$, $AD=3$, $BD=12$ (altitude). Find $AC$",
    "statement_en": "In triangle $ABC$, side $BC$ has length $13$, and the altitude $CD$ of this triangle divides side $AB$ into segments of lengths $|AD|=3$ and $|BD|=12$ [Figure: triangle ABC with altitude CD from C perpendicular to AB, A-D-B collinear, AD=3, DB=12, BC=13]. The length of side $AC$ equals: A) $\\sqrt{34}$ B) $\\frac{13}{4}$ C) $2\\sqrt{14}$ D) $3\\sqrt{45}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21",
@@ -325,9 +355,11 @@
    "difficulty": 3,
    "summary_pl": "Kąty wpisane w okręgu: oblicz $\\angle DAS=\\alpha$",
    "summary_en": "Inscribed angles in a circle: find $\\angle DAS=\\alpha$",
-   "statement_en": "Points $A$, $B$, $C$, $D$ lie on a circle with center $S$. The measures of angles $SBC$, $BCD$, $CDA$ are respectively $|\\angle SBC|=60°$, $|\\angle BCD|=110°$, $|\\angle CDA|=90°$ [Figure: circle with center S; points A (bottom), B (right), C (top), D (left) on the circle, with segments SA, SB, AB(implicit via S), BC, CD, DA drawn; angle SBC=60 at B, angle BCD=110 at C, angle CDA=90 at D, angle alpha=angle DAS at A]. It follows that the measure $\\alpha$ of angle $DAS$ equals: A) $25°$ B) $30°$ C) $35°$ D) $40°$.",
+   "statement_en": "Points $A$, $B$, $C$, $D$ lie on a circle with center $S$. The measures of angles $SBC$, $BCD$, $CDA$ are respectively $|\\angle SBC|=60°$, $|\\angle BCD|=110°$, $|\\angle CDA|=90°$ [Figure: circle with center S; points A (bottom), B (right), C (top), D (left) on the circle; segments AD, DC, CB, SB and SA drawn; angle SBC=60° at B, angle BCD=110° at C, right angle CDA at D, angle alpha=angle DAS at A]. It follows that the measure $\\alpha$ of angle $DAS$ equals: A) $25°$ B) $30°$ C) $35°$ D) $40°$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "22",
@@ -341,11 +373,13 @@
    "topic_pl": "Równoległobok",
    "topic_en": "Parallelogram",
    "difficulty": 3,
-   "summary_pl": "Równoległobok, $\\alpha=70°$. Oblicz kąt $\\beta$",
-   "summary_en": "Parallelogram, $\\alpha=70°$. Find angle $\\beta$",
-   "statement_en": "In parallelogram $ABCD$, shown in the figure, angle $\\alpha$ (at vertex A) has measure $70°$ [Figure: parallelogram ABCD with diagonal BD drawn; angle alpha at A between sides AB and AD; angle beta at B between diagonal BD and side BC; matching congruence marks on angle ADB (at D) and angle BCD (at C)]. Then angle $\\beta$ has measure: A) $80°$ B) $70°$ C) $60°$ D) $50°$.",
+   "summary_pl": "Równoległobok, $\\alpha=70°$. Kąt $\\beta$ między wysokościami z $B$",
+   "summary_en": "Parallelogram, $\\alpha=70°$. Angle $\\beta$ between altitudes from $B$",
+   "statement_en": "In parallelogram $ABCD$, shown in the figure, angle $\\alpha$ (at vertex $A$, between sides $AB$ and $AD$) has measure $70°$ [Figure: parallelogram ABCD; from vertex B two altitudes are drawn: one perpendicular to side AD, one perpendicular to side DC (both feet marked with right angles); angle beta at B is the angle between these two altitudes]. Then angle $\\beta$ has measure: A) $80°$ B) $70°$ C) $60°$ D) $50°$.",
    "confidence": "high",
-   "notes": "Requires reading the figure's angle marks (matching arcs at D and C) to pin down the otherwise underdetermined angle; matches key. [verified: ok: beta is angle between altitudes from B to AD and DC; quadrilateral with two right angles and 110 deg at D gives 70 deg. Key version A: B=70.]"
+   "notes": "Requires reading the figure's angle marks (matching arcs at D and C) to pin down the otherwise underdetermined angle; matches key. [verified: ok: beta is angle between altitudes from B to AD and DC; quadrilateral with two right angles and 110 deg at D gives 70 deg. Key version A: B=70.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -363,7 +397,9 @@
    "summary_en": "Polygon: 25 more diagonals than sides. How many sides?",
    "statement_en": "In every convex $n$-gon ($n\\ge3$) the number of diagonals equals $\\frac{n(n-3)}{2}$. The convex polygon in which the number of diagonals is 25 greater than the number of sides is: A) a heptagon (7 sides) B) a decagon (10 sides) C) a dodecagon (12 sides) D) a pentadecagon (15 sides).",
    "confidence": "high",
-   "notes": "Value is the number of sides n of the correct polygon."
+   "notes": "Value is the number of sides n of the correct polygon.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -377,11 +413,13 @@
    "topic_pl": "Pole koła",
    "topic_en": "Area of a circle",
    "difficulty": 2,
-   "summary_pl": "Dwa okręgi $r=1,3$ = dwa okręgi $r=r$ (pola). Oblicz $r$",
-   "summary_en": "Circles $r=1,3$ vs two circles $r=r$ (areas). Find $r$",
+   "summary_pl": "Pola: koła $r=1$ i $r=3$ = dwa koła o promieniu $r$. Oblicz $r$",
+   "summary_en": "Areas: discs $r=1$ and $r=3$ = two discs of radius $r$. Find $r$",
    "statement_en": "The area of figure $F_1$, formed by two externally tangent circles of radii $1$ and $3$, equals the area of figure $F_2$, formed by two externally tangent circles of equal radius $r$ [Figure: F1 shows a small circle radius 1 tangent to a larger circle radius 3; F2 shows two equal tangent circles of radius r]. The length $r$ of the radius equals: A) $\\sqrt3$ B) $2$ C) $\\sqrt5$ D) $3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -399,7 +437,9 @@
    "summary_en": "$A=(3,-5)$, diagonal center $M=(1,3)$. Square's area?",
    "statement_en": "Point $A=(3,-5)$ is a vertex of square $ABCD$, and point $M=(1,3)$ is the intersection point of the diagonals of this square. It follows that the area of square $ABCD$ equals: A) $68$ B) $136$ C) $2\\sqrt{34}$ D) $8\\sqrt{34}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -413,11 +453,13 @@
    "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
-   "summary_pl": "Losujemy 2 wierzchołki sześcianu. P(przekątna)?",
-   "summary_en": "Pick 2 cube vertices. P(space diagonal)?",
+   "summary_pl": "Losujemy 2 wierzchołki sześcianu. P(końce przekątnej sześcianu)?",
+   "summary_en": "Pick 2 cube vertices. P(ends of a space diagonal)?",
    "statement_en": "From the vertices of cube $ABCDEFGH$ we simultaneously draw two different vertices. The probability that these vertices will be the endpoints of a space diagonal of cube $ABCDEFGH$ equals: A) $\\frac{1}{7}$ B) $\\frac{4}{7}$ C) $\\frac{1}{14}$ D) $\\frac{3}{7}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -435,7 +477,9 @@
    "summary_en": "3-digit numbers $>700$ from $\\{1,2,3,7,8,9\\}$, no repeats?",
    "statement_en": "The number of all three-digit natural numbers greater than $700$, in which each digit belongs to the set $\\{1, 2, 3, 7, 8, 9\\}$ and no digit repeats, is: A) 108 B) 60 C) 40 D) 299.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -451,9 +495,11 @@
    "difficulty": 2,
    "summary_pl": "Ciąg $(1,2,2x,x+2,5,6)$ niemalejący, mediana $=4$. Oblicz $x$",
    "summary_en": "Seq. $(1,2,2x,x+2,5,6)$ non-decr., median $=4$. Find $x$",
-   "statement_en": "The six-term numerical sequence $(1, 2, 2x, x+2, 5, 6)$ is non-decreasing. The median of the terms of this sequence equals $4$. It follows that: A) $x=1$ B) $x=\\frac{3}{5}$ C) $x=2$ D) $x=\\frac{8}{3}$.",
+   "statement_en": "The six-term numerical sequence $(1, 2, 2x, x+2, 5, 6)$ is non-decreasing. The median of the terms of this sequence equals $4$. It follows that: A) $x=1$ B) $x=\\frac{3}{2}$ C) $x=2$ D) $x=\\frac{8}{3}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -495,7 +541,9 @@
    "summary_en": "Solve $\\frac{3x+2}{3x-2}=4-x$ (sum of solutions)",
    "statement_en": "Solve the equation $\\frac{3x+2}{3x-2}=4-x$. (sum of the two solutions requested for the card)",
    "confidence": "high",
-   "notes": "Sum of the two roots x=5/3 and x=2."
+   "notes": "Sum of the two roots x=5/3 and x=2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -513,7 +561,9 @@
    "summary_en": "Equilateral triangle, area $9\\sqrt3$, scale $3:2$. Side $AKL$?",
    "statement_en": "Equilateral triangle $ABC$ has area equal to $9\\sqrt3$. A line parallel to side $BC$ intersects sides $AB$ and $AC$ at points $K$ and $L$ respectively. Triangles $ABC$ and $AKL$ are similar, and the ratio of the side lengths of these triangles is $\\frac{3}{2}$. Compute the length of side of triangle $AKL$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -531,7 +581,9 @@
    "summary_en": "Two dice: $P(\\text{sum}=4,5,\\text{or }6)$?",
    "statement_en": "A player rolls a symmetric six-sided die twice and computes the sum of the numbers rolled. Compute the probability of event $A$, that the sum of the numbers rolled equals $4$ or $5$ or $6$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "35",
@@ -545,11 +597,13 @@
    "topic_pl": "Trójkąt w układzie współrzędnych",
    "topic_en": "Triangle in the coordinate plane",
    "difficulty": 3,
-   "summary_pl": "$A=(-20,12)$, $B=(7,3)$, $C\\in Oy$, $|AC|=|BC|$. $C$, obwód?",
-   "summary_en": "$A=(-20,12)$, $B=(7,3)$, $C\\in Oy$, $|AC|=|BC|$. Find $C$, perimeter",
+   "summary_pl": "$A(-20,12)$, $B(7,3)$, $C\\in Oy$, $|AC|=|BC|$. Suma wsp. $C$ i obwodu",
+   "summary_en": "$A(-20,12)$, $B(7,3)$, $C\\in Oy$, $|AC|=|BC|$. Sum: $C$ coords+perim.",
    "statement_en": "Points $A=(-20,12)$ and $B=(7,3)$ are vertices of an isosceles triangle $ABC$ in which $|AC|=|BC|$. Vertex $C$ lies on the $Oy$ axis of the coordinate system. Compute the coordinates of vertex $C$ and the perimeter of this triangle.",
    "confidence": "high",
-   "notes": "Value is the sum of the coordinates of C (0+27) and the perimeter (50+9*sqrt(10))."
+   "notes": "Value is the sum of the coordinates of C (0+27) and the perimeter (50+9*sqrt(10)).",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

@@ -50,6 +50,8 @@ export type TaskRecord = {
   formula: string; // 2005 | 2015 | 2023
   conf?: "high" | "medium"; // annotation confidence (low ones are dropped by build_dataset.py)
   fig?: boolean; // solving needs the sheet's figure: the English sheet shows the original crop too
+  /** closed task: options A-D as [display LaTeX, answer to type]; exactly one matches `value` */
+  opts?: [string, string][];
 };
 
 export type HandTypeId =
@@ -152,6 +154,8 @@ export type ScoringResult = {
   total: number;
   moneyGained: number;
   correctNotes: number;
+  /** per answered (face-up) card: was the player's answer right */
+  noteResults: { taskId: string; isCorrect: boolean }[];
   /** cards actually scored (after debuffs), left to right */
   scoredUids: string[];
 };
@@ -193,6 +197,8 @@ export type RunStats = {
   handsPlayed: number;
   cardsPlayed: number;
   correctNotes: number;
+  /** face-up cards played (each needed an answer); older saves lack it */
+  answeredNotes?: number;
   bestHand: number;
   totalScore: number;
   rerolls: number;
@@ -245,5 +251,15 @@ export type RunState = {
   updatedAt: number;
   isSubmitted?: boolean;
   endless?: boolean;
+  /**
+   * tasks already met in earlier runs (bitset over the pool, see `encodeTaskSet`) when the run was
+   * started with "prefer new tasks": fresh ones are dealt more often. Kept in the run (and the run
+   * history) so replaying the seed deals the same cards.
+   */
+  avoid?: string;
+  /** a testing cheat was used: the run never goes to the leaderboard */
+  isCheated?: boolean;
+  /** cheat: ×mult applied to the next played hand, then cleared */
+  cheatMult?: number;
   lostTo?: { ante: number; blind: BlindKind; bossId: string | null; score: number; target: number } | null;
 };

@@ -48,7 +48,9 @@ export default function ConsumableCard({ item, scale = 1, className }: Consumabl
         </div>
         <div className="absolute inset-x-[0.5em] bottom-[0.5em] rounded-[0.4em] bg-[#0b2230]/85 px-1 py-[0.25em] text-center">
           <div className="tx font-pixel text-[0.9em] leading-[1] text-white">{l(def?.name)}</div>
-          <div className="font-pixel text-[0.75em] leading-[1.1] text-planet">{l(HAND_BY_ID[def?.hand ?? "high"].name)}</div>
+          <div className="font-pixel text-[0.75em] leading-[1.1] text-planet">
+            {l(HAND_BY_ID[def?.hand ?? "high"].name)}
+          </div>
         </div>
       </div>
     );

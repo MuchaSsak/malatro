@@ -14,7 +14,10 @@ export default function CardBack({ difficulty = "ciekawe", className, style }: C
   const [a, b] = BACK_COLORS[difficulty];
   return (
     <div
-      className={cn("relative h-full w-full overflow-hidden rounded-[10px] border-[5px] border-white bg-white", className)}
+      className={cn(
+        "relative h-full w-full overflow-hidden rounded-[10px] border-[5px] border-white bg-white",
+        className,
+      )}
       style={style}
     >
       <div

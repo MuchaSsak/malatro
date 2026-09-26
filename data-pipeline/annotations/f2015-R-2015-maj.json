@@ -10,14 +10,16 @@
    "value_tex": "9",
    "answer_tex": "k=9",
    "category": "rownania",
-   "topic_pl": "Nierownosc z wartoscia bezwzgledna",
+   "topic_pl": "Nierówność z wartością bezwzględną",
    "topic_en": "Absolute value inequality",
    "difficulty": 3,
-   "summary_pl": "Zbior $|2x-8|\\le10$ to $[-1,k]$. Wyznacz $k$",
+   "summary_pl": "Zbiór $|2x-8|\\le10$ to $[-1,k]$. Wyznacz $k$",
    "summary_en": "Set $|2x-8|\\le10$ is $[-1,k]$. Find $k$",
    "statement_en": "The figure shows the set of all real numbers satisfying the inequality $|2x-8|\\le10$, marked on the number line from $-1$ to $k$. It follows that: A. $k=2$  B. $k=4$  C. $k=5$  D. $k=9$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,32 +30,36 @@
    "value_tex": "1",
    "answer_tex": "1",
    "category": "rownania",
-   "topic_pl": "Rownanie z wartoscia bezwzgledna",
+   "topic_pl": "Równanie z wartością bezwzględną",
    "topic_en": "Absolute value equation",
    "difficulty": 3,
    "summary_pl": "Ile rozwiązań ma równanie $f(x)=1$ dla danej funkcji $f$?",
    "summary_en": "How many solutions does $f(x)=1$ have for the given piecewise $f$?",
    "statement_en": "The function $f$ is given by $f(x)=x-2$ for $x\\le0$, and $f(x)=\\big||x+3|-4\\big|$ for $x>0$. The equation $f(x)=1$ has exactly: A. one solution.  B. two solutions.  C. four solutions.  D. five solutions.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
    "include": true,
    "exclude_reason": null,
    "answer_kind": "single",
-   "value": -0.09996219037242483,
+   "value": -0.09996299037243261,
    "value_tex": "135-78\\sqrt{3}",
    "answer_tex": "135-78\\sqrt3",
    "category": "liczby",
-   "topic_pl": "Wzory skroconego mnozenia",
+   "topic_pl": "Wzory skróconego mnożenia",
    "topic_en": "Binomial expansion",
    "difficulty": 3,
    "summary_pl": "Oblicz $(3-2\\sqrt3)^3$",
    "summary_en": "Compute $(3-2\\sqrt3)^3$",
    "statement_en": "The number $(3-2\\sqrt3)^3$ equals: A. $27-24\\sqrt3$  B. $27-30\\sqrt3$  C. $135-78\\sqrt3$  D. $135-30\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] 27-54r3+108-24r3=135-78r3, key C. Stored decimal off at 7th digit (-0.0999622 vs -0.0999630); corrected.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -82,14 +88,16 @@
    "value_tex": "\\frac{4\\sqrt5}{5}",
    "answer_tex": "\\frac{4\\sqrt5}{5}",
    "category": "analityczna",
-   "topic_pl": "Odleglosc punktu od prostej",
+   "topic_pl": "Odległość punktu od prostej",
    "topic_en": "Distance from a point to a line",
    "difficulty": 3,
-   "summary_pl": "Odleglosc poczatku ukladu od prostej $y=2x+4$",
+   "summary_pl": "Odległość początku układu od prostej $y=2x+4$",
    "summary_en": "Distance from the origin to the line $y=2x+4$",
    "statement_en": "The distance of the origin of the coordinate system from the line with equation $y=2x+4$ equals: A. $\\frac{\\sqrt5}{5}$  B. $\\frac{4\\sqrt5}{5}$  C. $\\frac{4}{5}$  D. $4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -100,14 +108,16 @@
    "value_tex": "\\frac{43}{30}",
    "answer_tex": "\\frac{43}{30}",
    "category": "ciagi",
-   "topic_pl": "Granica ciagu",
+   "topic_pl": "Granica ciągu",
    "topic_en": "Sequence limit",
    "difficulty": 3,
-   "summary_pl": "Oblicz granicę ciągu (różnica dwóch ułamków wymiernych)",
-   "summary_en": "Compute the limit of a sequence (difference of two rational expressions)",
+   "summary_pl": "Oblicz dokładną wartość granicy (różnica dwóch ułamków)",
+   "summary_en": "Compute the exact value of the limit (difference of two fractions)",
    "statement_en": "Compute the limit $\\lim_{n\\to\\infty}\\left(\\dfrac{11n^3+6n+5}{6n^3+1}-\\dfrac{2n^2+2n+1}{5n^2-4}\\right)$. In the boxes enter, in order, the units digit and the first two decimal digits of the decimal expansion of the result obtained.",
    "confidence": "high",
-   "notes": "11/6 - 2/5 = 43/30 = 1.4(3), matching the key's stated digits 1,4,3."
+   "notes": "11/6 - 2/5 = 43/30 = 1.4(3), matching the key's stated digits 1,4,3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -125,7 +135,9 @@
    "summary_en": "Zeros of $f$: $-1$ and $3$. Find $f(6)/f(12)$",
    "statement_en": "The numbers $-1$ and $3$ are the zeros of the quadratic function $f$. Compute $\\dfrac{f(6)}{f(12)}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -148,18 +160,20 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "single",
-   "value": 4.411523312825238,
+   "value": 4.411523371981436,
    "value_tex": "\\sqrt{\\frac{253}{13}}",
    "answer_tex": "AC=\\sqrt{\\frac{253}{13}}",
    "category": "planimetria",
-   "topic_pl": "Czworokat wpisany w okrag",
+   "topic_pl": "Czworokąt wpisany w okrąg",
    "topic_en": "Cyclic quadrilateral",
    "difficulty": 4,
-   "summary_pl": "Czworokat $AB=2,BC=3,CD=4,DA=5$ wpisany w okrag. Oblicz $AC$",
+   "summary_pl": "Czworokąt $AB=2,BC=3,CD=4,DA=5$ wpisany w okrąg. Oblicz $AC$",
    "summary_en": "Cyclic quadrilateral $AB=2,BC=3,CD=4,DA=5$. Find diagonal $AC$",
    "statement_en": "The side lengths of quadrilateral $ABCD$ are: $AB=2$, $BC=3$, $CD=4$, $DA=5$. A circle is circumscribed on quadrilateral $ABCD$. Compute the length of the diagonal $AC$ of this quadrilateral.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] Cosine law both sides, cos B=-7/13, AC^2=253/13, key same. Stored decimal off at 8th digit; corrected. Diacritics fixed.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -170,14 +184,16 @@
    "value_tex": "\\frac{5}{11}",
    "answer_tex": "P(A)=\\frac{5}{11}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo calkowite",
+   "topic_pl": "Prawdopodobieństwo całkowite",
    "topic_en": "Total probability",
    "difficulty": 4,
-   "summary_pl": "Losowanie kul z dwoch urn (z dokladaniem). $P$(obie biale)",
+   "summary_pl": "Losowanie kul z dwóch urn (z dokładaniem). $P$(obie białe)",
    "summary_en": "Drawing balls from two urns (with adding). $P$(both white)",
    "statement_en": "The first urn contains 3 white balls and 5 black balls, and the second urn contains 7 white balls and 2 black balls. One ball is drawn from the first urn, moved to the second urn, and two more balls of the same color as the drawn ball are added to the second urn. Then two balls are drawn from the second urn. Compute the probability of the event that both balls drawn from the second urn are white.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -196,14 +212,16 @@
    "value_tex": "\\frac{12+\\sqrt{109}}{5}",
    "answer_tex": "m=\\frac{12+\\sqrt{109}}{5}",
    "category": "rownania",
-   "topic_pl": "Parametr trojmianu kwadratowego",
+   "topic_pl": "Parametr trójmianu kwadratowego",
    "topic_en": "Quadratic trinomial parameter",
    "difficulty": 4,
-   "summary_pl": "$f(x)=(m+1)x^2+2(m-2)x+m-4$: znajdz $m$ dla $x_1^2-x_2^2=x_1^4-x_2^4$",
-   "summary_en": "$f(x)=(m+1)x^2+2(m-2)x+m-4$: find $m$ for $x_1^2-x_2^2=x_1^4-x_2^4$",
+   "summary_pl": "$f(x)=(m+1)x^2+2(m-2)x+m-4$: znajdź $m$, gdy $x_1^2-x_2^2=x_1^4-x_2^4$",
+   "summary_en": "$f(x)=(m+1)x^2+2(m-2)x+m-4$: find $m$ with $x_1^2-x_2^2=x_1^4-x_2^4$",
    "statement_en": "Given is the quadratic trinomial $f(x)=(m+1)x^2+2(m-2)x+m-4$. Determine all values of the parameter $m$ for which the trinomial $f$ has two distinct real roots $x_1$, $x_2$ satisfying the condition $x_1^2-x_2^2=x_1^4-x_2^4$.",
    "confidence": "high",
-   "notes": "Unique valid m = (12+sqrt(109))/5; the other root of the auxiliary equation is outside the domain where f is a genuine quadratic with two distinct real roots."
+   "notes": "Unique valid m = (12+sqrt(109))/5; the other root of the auxiliary equation is outside the domain where f is a genuine quadratic with two distinct real roots.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -214,14 +232,16 @@
    "value_tex": "\\frac{2\\sqrt6}{5}",
    "answer_tex": "\\sin\\alpha=\\frac{2\\sqrt6}{5}",
    "category": "stereometria",
-   "topic_pl": "Kat miedzy scianami ostroslupa",
+   "topic_pl": "Kąt między ścianami ostrosłupa",
    "topic_en": "Dihedral angle in a pyramid",
    "difficulty": 4,
    "summary_pl": "Ostrosłup: podstawa kwadrat, $SD$ wysokością $=2\\times$ bok. Sinus kąta między ścianami",
    "summary_en": "Pyramid: square base, $SD$ height $=2\\times$ side. Sine of angle between faces",
    "statement_en": "The base of the pyramid $ABCDS$ is a square $ABCD$. The lateral edge $SD$ is the height of the pyramid, and its length is twice the length of a base edge. Compute the sine of the angle between the lateral faces $ABS$ and $CBS$ of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -236,18 +256,20 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "sum",
-   "value": 83.40349316833291,
+   "value": 83.40349308610067,
    "value_tex": "2\\sqrt{5}+4+\\frac{32\\sqrt{5}\\pi}{3}",
    "answer_tex": "h=2\\sqrt5, r=4, V=\\frac{32\\sqrt5\\pi}{3}",
    "category": "analiza",
-   "topic_pl": "Optymalizacja (stozek)",
+   "topic_pl": "Optymalizacja (stożek)",
    "topic_en": "Optimization (cone)",
    "difficulty": 5,
    "summary_pl": "Stożki: przekrój osiowy - trójkąt o obwodzie 20. h,r,V największego (suma)",
    "summary_en": "Cones: axial cross-section perimeter 20. h,r,V of the largest (sum)",
    "statement_en": "Consider all cones whose axial cross-section is a triangle with perimeter 20. Compute the height and base radius of the cone among those considered whose volume is greatest. Compute that volume.",
    "confidence": "high",
-   "notes": "Sums the three requested numeric quantities: height 2*sqrt(5), radius 4, and volume 32*sqrt(5)*pi/3."
+   "notes": "Sums the three requested numeric quantities: height 2*sqrt(5), radius 4, and volume 32*sqrt(5)*pi/3. [full-verify fix] l=10-r, V~r^4(100-20r) max r=4, h=2sqrt5, V=32sqrt5pi/3 (key). Sum stored 83.4034932 vs true 83.4034931; corrected.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

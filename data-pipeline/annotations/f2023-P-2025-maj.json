@@ -10,14 +10,16 @@
    "value_tex": "18",
    "answer_tex": "(\\sqrt{32}-\\sqrt2)^2=18",
    "category": "liczby",
-   "topic_pl": "Dzialania na pierwiastkach",
+   "topic_pl": "Działania na pierwiastkach",
    "topic_en": "Operations on roots",
    "difficulty": 2,
    "summary_pl": "Oblicz $(\\sqrt{32}-\\sqrt2)^2$",
    "summary_en": "Compute $(\\sqrt{32}-\\sqrt2)^2$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $(\\sqrt{32}-\\sqrt2)^2$ is equal to: A. 16 B. 18 C. 30 D. 34",
    "confidence": "high",
-   "notes": "wersja A used (per exam notes); Wersja B key answer differs (C)"
+   "notes": "wersja A used (per exam notes); Wersja B key answer differs (C)",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "31",
    "answer_tex": "31",
    "category": "liczby",
-   "topic_pl": "Potegi",
+   "topic_pl": "Potęgi",
    "topic_en": "Powers",
    "difficulty": 2,
    "summary_pl": "Oblicz $\\frac{5^{12}+5^{13}+5^{14}}{5^{12}}$",
    "summary_en": "Compute $\\frac{5^{12}+5^{13}+5^{14}}{5^{12}}$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $\\dfrac{5^{12}+5^{13}+5^{14}}{5^{12}}$ is equal to: A. 30 B. 31 C. $5^{12}$ D. $5^{27}$",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -46,14 +50,16 @@
    "value_tex": "3",
    "answer_tex": "3",
    "category": "liczby",
-   "topic_pl": "Wlasnosci logarytmow",
+   "topic_pl": "Własności logarytmów",
    "topic_en": "Logarithm properties",
    "difficulty": 2,
    "summary_pl": "Oblicz $\\log_3 108 - 2\\log_3 2$",
    "summary_en": "Compute $\\log_3 108 - 2\\log_3 2$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $\\log_3 108 - 2\\log_3 2$ is equal to: A. 3 B. 9 C. $\\log_3 104$ D. $2\\log_3 54$",
    "confidence": "high",
-   "notes": "wersja A used [verified: ok: log3(108/4)=log3 27=3; option A, key version A = A.]"
+   "notes": "wersja A used [verified: ok: log3(108/4)=log3 27=3; option A, key version A = A.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -88,14 +94,16 @@
    "value_tex": "-3",
    "answer_tex": "x=-3 \\lor x=0",
    "category": "rownania",
-   "topic_pl": "Rownanie wielomianowe",
+   "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $2x(x+3)(x^2+25)=0$ (suma rozwiązań)",
    "summary_en": "Solve $2x(x+3)(x^2+25)=0$ (sum of solutions)",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The equation $2x(x+3)(x^2+25)=0$ has, in the set of real numbers, exactly: A. two solutions: -3 and 0. B. two solutions: -3 and 2. C. three solutions: -5, -3 and 0. D. four solutions: -5, -3, 0 and 5.",
    "confidence": "high",
-   "notes": "wersja A = A (-3 and 0, since x^2+25 has no real roots); sum of the two real roots"
+   "notes": "wersja A = A (-3 and 0, since x^2+25 has no real roots); sum of the two real roots",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -114,14 +122,16 @@
    "value_tex": "735000",
    "answer_tex": "x=735000",
    "category": "rownania",
-   "topic_pl": "Zadanie tekstowe - uklad rownan",
+   "topic_pl": "Zadanie tekstowe - układ równań",
    "topic_en": "Word problem - system of equations",
    "difficulty": 3,
    "summary_pl": "Zespoły A,B: 1 200 000 zł, wykorzystano 13% i 11% = 146 700 zł. Kwota A?",
    "summary_en": "Teams A,B: 1,200,000 zl, used 13% and 11% = 146,700 zl. Amount for A?",
    "statement_en": "The company's management allocated a total of 1,200,000 zlotys from the budget for research projects for two teams: A and B. In the first half-year of implementing these projects, both teams used a total of 146,700 zlotys - team A used 13% of the funds allocated to it, and team B used 11% of the funds allocated to it. Calculate the amount allocated to team A for the implementation of the research project. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -156,14 +166,16 @@
    "value_tex": "3",
    "answer_tex": "x=3",
    "category": "funkcje",
-   "topic_pl": "Os symetrii paraboli",
+   "topic_pl": "Oś symetrii paraboli",
    "topic_en": "Axis of symmetry of a parabola",
    "difficulty": 2,
-   "summary_pl": "Parabola: wierzchołek $(3,6)$, przez $(0,3)$. Oś symetrii?",
-   "summary_en": "Parabola: vertex $(3,6)$, through $(0,3)$. Axis of symmetry?",
+   "summary_pl": "Parabola: wierzchołek $(3,6)$, przez $(0,3)$. Oś symetrii: $x=?$",
+   "summary_en": "Parabola: vertex $(3,6)$, through $(0,3)$. Symmetry axis: $x=?$",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, a fragment of a parabola which is the graph of a quadratic function $f$ is shown (see figure). The vertex of this parabola has coordinates $(3,6)$. This parabola intersects the $Oy$ axis at the point with coordinates $(0,3)$. Complete the sentence. Choose the correct answer from the options given. The axis of symmetry of the graph of function $f$ is the line with equation: A. $x=3$ B. $x=-3$ C. $y=6$ D. $y=-6$",
    "confidence": "high",
-   "notes": "wersja A used; answer reduces to the x-coordinate of the axis"
+   "notes": "wersja A used; answer reduces to the x-coordinate of the axis",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12.3",
@@ -174,14 +186,16 @@
    "value_tex": "6",
    "answer_tex": "x_1+x_2=6",
    "category": "funkcje",
-   "topic_pl": "Miejsca zerowe funkcji przesunietej",
+   "topic_pl": "Miejsca zerowe funkcji przesuniętej",
    "topic_en": "Zeros of a shifted function",
    "difficulty": 3,
    "summary_pl": "$g(x)=f(x)-3$, miejsca zerowe $x_1,x_2$. Oblicz $x_1+x_2$",
    "summary_en": "$g(x)=f(x)-3$, zeros $x_1,x_2$. Find $x_1+x_2$",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, a fragment of a parabola which is the graph of a quadratic function $f$ is shown (see figure): its vertex has coordinates $(3,6)$ and it intersects the $Oy$ axis at $(0,3)$. The function $g$ is defined for every real number $x$ by the formula $g(x) = f(x) - 3$. The numbers $x_1$ and $x_2$ are the different zeros of the function $g$. Complete the sentence. Insert the appropriate number in the blank so that the statement is true. The sum $x_1+x_2$ is equal to ...... .",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "13",
@@ -199,7 +213,9 @@
    "summary_en": "$f(x)=(3-m)x-4$: for which $m$ has no zero?",
    "statement_en": "The linear function $f$ is given by the formula $f(x) = (3-m)x-4$. Complete the sentence. Choose the correct answer from the options given. The function $f$ has no zero for $m$ equal to: A. -3 B. 0 C. 3 D. 4",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14.1",
@@ -210,14 +226,16 @@
    "value_tex": "11",
    "answer_tex": "a_3=11",
    "category": "ciagi",
-   "topic_pl": "Ciag rekurencyjny",
+   "topic_pl": "Ciąg rekurencyjny",
    "topic_en": "Recursive sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg: $a_1=2$, $a_{n+1}=2a_n+1$. Oblicz $a_3$",
    "summary_en": "Sequence: $a_1=2$, $a_{n+1}=2a_n+1$. Find $a_3$",
    "statement_en": "The sequence $(a_n)$ is defined as follows: $a_1=2$, $a_{n+1}=2a_n+1$ for every natural number $n\\ge1$. Complete the sentence. Choose the correct answer from the options given. The third term of the sequence $(a_n)$ is equal to: A. 4 B. 5 C. 7 D. 11",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14.2",
@@ -236,14 +254,16 @@
    "value_tex": "\\frac{5}{2}",
    "answer_tex": "m=\\frac{5}{2}",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny - parametr",
+   "topic_pl": "Ciąg arytmetyczny - parametr",
    "topic_en": "Arithmetic sequence - parameter",
    "difficulty": 4,
    "summary_pl": "Ciąg arytm. malejący $(2m+11, m^2+3, 5-m)$: oblicz $m$",
    "summary_en": "Decreasing arithmetic seq. $(2m+11, m^2+3, 5-m)$: find $m$",
    "statement_en": "Determine the value of $m$ for which the three-term sequence $(2m+11,\\ m^2+3,\\ 5-m)$ is arithmetic and decreasing. Show your working.",
    "confidence": "high",
-   "notes": "two candidate m values solve the arithmetic condition (m=-2, m=5/2); only m=5/2 gives a decreasing sequence"
+   "notes": "two candidate m values solve the arithmetic condition (m=-2, m=5/2); only m=5/2 gives a decreasing sequence",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -254,14 +274,16 @@
    "value_tex": "1",
    "answer_tex": "a_4=1",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg geom.: $a_1=27$, $a_2=9$. Oblicz $a_4$",
    "summary_en": "Geometric seq.: $a_1=27$, $a_2=9$. Find $a_4$",
    "statement_en": "A geometric sequence $(a_n)$ is defined for every natural number $n\\ge1$, in which $a_1=27$ and $a_2=9$. Complete the sentence. Choose the correct answer from the options given. The fourth term of the sequence $(a_n)$ is equal to: A. $\\frac13$ B. 1 C. 3 D. 729",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -272,14 +294,16 @@
    "value_tex": "\\frac{\\sqrt3}{2}",
    "answer_tex": "\\cos\\alpha=\\frac{\\sqrt3}{2}",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 3,
    "summary_pl": "$\\sqrt3\\tan\\alpha=2\\sin\\alpha$, $\\alpha$ ostry. Oblicz $\\cos\\alpha$",
    "summary_en": "$\\sqrt3\\tan\\alpha=2\\sin\\alpha$, $\\alpha$ acute. Find $\\cos\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and satisfies the condition $\\sqrt3\\tan\\alpha=2\\sin\\alpha$. Complete the sentence. Choose the correct answer from the options given. The cosine of angle $\\alpha$ is equal to: A. $\\frac12$ B. $\\frac{\\sqrt2}{2}$ C. $\\frac{\\sqrt3}{2}$ D. $\\frac{\\sqrt3}{3}$",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18.1",
@@ -290,14 +314,16 @@
    "value_tex": "\\frac{4}{3}",
    "answer_tex": "\\tan\\alpha=\\frac{4}{3}",
    "category": "trygonometria",
-   "topic_pl": "Tangens kata w trojkacie",
+   "topic_pl": "Tangens kąta w trójkącie",
    "topic_en": "Tangent of an angle in a triangle",
    "difficulty": 3,
    "summary_pl": "Trójkąt prostokątny: $AB=6$, środkowa $CD=5$. Oblicz $\\tan\\alpha$",
    "summary_en": "Right triangle: $AB=6$, median $CD=5$. Find $\\tan\\alpha$",
    "statement_en": "A right triangle $ABC$ is given, in which side $BC$ is the hypotenuse, leg $AB$ has length 6, and the median $CD$ has length 5. Let angle $ADC$ be denoted by $\\alpha$, and angle $ABC$ by $\\beta$ (see figure). Complete the sentence. Choose the correct answer from the options given. The tangent of angle $\\alpha$ is equal to: A. $\\frac23$ B. $\\frac34$ C. $\\frac45$ D. $\\frac43$",
    "confidence": "high",
-   "notes": "wersja A used; D midpoint of AB (median from C), AC=4 via Pythagoras"
+   "notes": "wersja A used; D midpoint of AB (median from C), AC=4 via Pythagoras",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18.2",
@@ -308,14 +334,16 @@
    "value_tex": "\\frac{2}{\\sqrt{13}}",
    "answer_tex": "\\sin\\beta=\\frac{2}{\\sqrt{13}}",
    "category": "trygonometria",
-   "topic_pl": "Sinus kata w trojkacie",
+   "topic_pl": "Sinus kąta w trójkącie",
    "topic_en": "Sine of an angle in a triangle",
    "difficulty": 3,
    "summary_pl": "Trójkąt prostokątny: $AB=6$, środkowa $CD=5$. Oblicz $\\sin\\beta$",
    "summary_en": "Right triangle: $AB=6$, median $CD=5$. Find $\\sin\\beta$",
    "statement_en": "A right triangle $ABC$ is given, in which side $BC$ is the hypotenuse, leg $AB$ has length 6, and the median $CD$ has length 5. Let angle $ADC$ be denoted by $\\alpha$, and angle $ABC$ by $\\beta$ (see figure). Complete the sentence. Choose the correct answer from the options given. The sine of angle $\\beta$ is equal to: A. $\\frac{2}{\\sqrt{13}}$ B. $\\frac{3}{\\sqrt{13}}$ C. $\\frac{5}{2\\sqrt{13}}$ D. $\\frac45$",
    "confidence": "high",
-   "notes": "wersja A used; BC=sqrt(AC^2+AB^2)=2*sqrt(13), AC=4"
+   "notes": "wersja A used; BC=sqrt(AC^2+AB^2)=2*sqrt(13), AC=4",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -326,14 +354,16 @@
    "value_tex": "40",
    "answer_tex": "40^\\circ",
    "category": "planimetria",
-   "topic_pl": "Kat wpisany i srodkowy",
+   "topic_pl": "Kąt wpisany i środkowy",
    "topic_en": "Inscribed and central angle",
    "difficulty": 3,
    "summary_pl": "Kąty wpisane w okrąg: $\\angle BCA=50°$. Oblicz $\\angle ABO$",
    "summary_en": "Angles inscribed in a circle: $\\angle BCA=50°$. Find $\\angle ABO$",
    "statement_en": "Points $A$, $B$ and $C$ lie on a circle with center $O$. The measure of angle $BCA$ is equal to 50° (see figure). Complete the sentence. Choose the correct answer from the options given. The measure of the acute angle $ABO$ is equal to: A. 20° B. 35° C. 40° D. 50°",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -344,14 +374,16 @@
    "value_tex": "2.25",
    "answer_tex": "BD=2{,}25",
    "category": "planimetria",
-   "topic_pl": "Trojkaty podobne",
+   "topic_pl": "Trójkąty podobne",
    "topic_en": "Similar triangles",
    "difficulty": 3,
    "summary_pl": "Trójkąt równoram. $AC=BC=4$, $AB=3$; podobne $ABC,BDA$. Oblicz $BD$",
    "summary_en": "Isosceles triangle $AC=BC=4$, $AB=3$; similar $ABC,BDA$. Find $BD$",
    "statement_en": "In the isosceles triangle $ABC$ the following are given: $|AC|=|BC|=4$ and $|AB|=3$. On side $BC$, between points $B$ and $C$, a point $D$ was chosen such that triangles $ABC$ and $BDA$ are similar (see figure). Complete the sentence. Choose the correct answer from the options given. Segment $BD$ has length: A. 2 B. 2.25 C. 2.5 D. 3",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21",
@@ -370,14 +402,16 @@
    "value_tex": "10",
    "answer_tex": "10",
    "category": "analityczna",
-   "topic_pl": "Przekatna kwadratu",
+   "topic_pl": "Przekątna kwadratu",
    "topic_en": "Diagonal of a square",
    "difficulty": 2,
    "summary_pl": "Kwadrat $ABCD$: $A=(4,-1)$, przekątne przecinają się w $(1,3)$. Oblicz przekątną",
    "summary_en": "Square $ABCD$: $A=(4,-1)$, diagonals meet at $(1,3)$. Find the diagonal",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, a square $ABCD$ is given, in which $A=(4,-1)$. The diagonals of this square intersect at the point $S=(1,3)$. Complete the sentence. Choose the correct answer from the options given. The diagonal of square $ABCD$ has length: A. 5 B. 7 C. 10 D. 14",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -388,14 +422,16 @@
    "value_tex": "-2",
    "answer_tex": "m=-2",
    "category": "analityczna",
-   "topic_pl": "Proste rownolegle",
+   "topic_pl": "Proste równoległe",
    "topic_en": "Parallel lines",
    "difficulty": 2,
    "summary_pl": "Proste $k,l$ równoległe: $k:y=(m-2)x+5$, $l:y=-4x+(m+3)$. Oblicz $m$",
    "summary_en": "Lines $k,l$ parallel: $k:y=(m-2)x+5$, $l:y=-4x+(m+3)$. Find $m$",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, lines $k$ and $l$ are given by the equations $k: y=(m-2)x+5$ and $l: y=-4x+(m+3)$. Complete the sentence. Choose the correct answer from the options given. Lines $k$ and $l$ are parallel when the number $m$ is equal to: A. -4 B. -2 C. 2 D. 5",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -414,14 +450,16 @@
    "value_tex": "64\\pi",
    "answer_tex": "V=64\\pi",
    "category": "stereometria",
-   "topic_pl": "Stozek",
+   "topic_pl": "Stożek",
    "topic_en": "Cone",
    "difficulty": 3,
    "summary_pl": "Stożek: tworząca $8$, kąt rozwarcia $120°$. Oblicz objętość",
    "summary_en": "Cone: slant height 8, apex angle 120°. Find the volume",
    "statement_en": "The slant height of a cone has length 8. The apex angle of this cone measures 120°. Calculate the volume of this cone. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -432,14 +470,16 @@
    "value_tex": "9\\sqrt3",
    "answer_tex": "9\\sqrt3",
    "category": "stereometria",
-   "topic_pl": "Szescian - przekatna",
+   "topic_pl": "Sześcian - przekątna",
    "topic_en": "Cube - diagonal",
    "difficulty": 2,
    "summary_pl": "Sześcian o objętości $729$: oblicz przekątną",
    "summary_en": "Cube with volume 729: find the space diagonal",
    "statement_en": "The volume of a cube is equal to 729. Complete the sentence. Choose the correct answer from the options given. The length of the diagonal of this cube is equal to: A. $9\\sqrt3$ B. $9\\sqrt2$ C. $3\\sqrt3$ D. $3\\sqrt2$",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -457,7 +497,9 @@
    "summary_en": "How many 3-digit odd numbers have exactly one digit 0?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of all three-digit odd natural numbers whose decimal representation contains the digit 0 exactly once is: A. 45 B. 50 C. 54 D. 81",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -468,14 +510,16 @@
    "value_tex": "\\frac{1}{18}",
    "answer_tex": "P(A)=\\frac{2}{36}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
    "summary_pl": "Rzut 2 kostkami: oblicz $P(\\text{suma}=11)$",
    "summary_en": "Rolling 2 dice: find $P(\\text{sum}=11)$",
    "statement_en": "A random experiment consists of rolling a symmetric six-sided die twice, with faces showing a different number of pips - from one to six. Event $A$ occurs when the sum of the rolled numbers of pips equals 11. Complete the sentence. Choose the correct answer from the options given. The probability of event $A$ is equal to: A. $\\frac{1}{36}$ B. $\\frac{6}{36}$ C. $\\frac{11}{36}$ D. $\\frac{2}{36}$",
    "confidence": "high",
-   "notes": "wersja A used"
+   "notes": "wersja A used",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -486,14 +530,16 @@
    "value_tex": "6",
    "answer_tex": "x+y=6",
    "category": "statystyka",
-   "topic_pl": "Srednia arytmetyczna",
+   "topic_pl": "Średnia arytmetyczna",
    "topic_en": "Arithmetic mean",
    "difficulty": 2,
    "summary_pl": "Śr. arytm. $1,2,3,4,5,x,y$ to $3$. Oblicz $x+y$",
    "summary_en": "Mean of $1,2,3,4,5,x,y$ is 3. Find $x+y$",
    "statement_en": "The arithmetic mean of seven numbers: 1, 2, 3, 4, 5, $x$, $y$, is equal to 3. Complete the sentence. Choose the correct answer from the options given. The sum $x+y$ is equal to: A. 4 B. 5 C. 6 D. 7",
    "confidence": "high",
-   "notes": "wersja A used [verified: ok: 15+x+y=21 so x+y=6; option C, key version A = C.]"
+   "notes": "wersja A used [verified: ok: 15+x+y=21 so x+y=6; option C, key version A = C.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -511,7 +557,9 @@
    "summary_en": "Grade diagram of 24 students: median + mode (sum)",
    "statement_en": "The diagram shows the results of a mathematics test in a certain matura class of 24 students. The horizontal axis shows the grades obtained by the students of this class, and the vertical axis shows the number of students who received a given grade. Complete the sentences. Insert the appropriate numbers in the blanks so that the statements are true. 1. The median of the grades obtained from this test by the students of this class is equal to ...... . 2. The mode of the grades obtained from this test by the students of this class is equal to ...... .",
    "confidence": "high",
-   "notes": "sum of median and mode"
+   "notes": "sum of median and mode",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "31",
@@ -522,14 +570,16 @@
    "value_tex": "\\frac{11}{2}",
    "answer_tex": "x=\\frac{11}{2}",
    "category": "funkcje",
-   "topic_pl": "Optymalizacja - prostopadloscian",
+   "topic_pl": "Optymalizacja - prostopadłościan",
    "topic_en": "Optimisation - cuboid",
    "difficulty": 4,
-   "summary_pl": "Prostopadłościan: $BC=4$, suma krawędzi z $B$ = $15$. Oblicz max $x=AB$",
-   "summary_en": "Cuboid: $BC=4$, sum of edges from $B$ = 15. Find max $x=AB$",
+   "summary_pl": "Prostopadłościan: $BC=4$, suma krawędzi z $B$ $=15$. Max pole: $AB$?",
+   "summary_en": "Cuboid: $BC=4$, edges at $B$ sum to 15. $AB$ giving max surface area?",
    "statement_en": "Consider all cuboids $ABCDEFGH$ in which edge $BC$ has length 4 and the sum of the lengths of all edges meeting at vertex $B$ is equal to 15 (see figure). Let $P(x)$ denote the total surface area function of such a cuboid depending on the length $x$ of edge $AB$. Determine the formula and the domain of the function $P$. Calculate the length $x$ of edge $AB$ of the cuboid among those considered whose total surface area is the greatest. Show your working.",
    "confidence": "high",
-   "notes": "task mixes symbolic parts (formula of P, domain) with one numeric part (the optimal x); only the numeric x=11/2 is used as the card value"
+   "notes": "task mixes symbolic parts (formula of P, domain) with one numeric part (the optimal x); only the numeric x=11/2 is used as the card value",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

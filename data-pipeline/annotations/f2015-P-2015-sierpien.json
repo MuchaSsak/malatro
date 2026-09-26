@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\frac{ab}{a+b}$ for $a=\\frac{3}{2}, b=2$",
    "statement_en": "If $a=\\frac{3}{2}$ and $b=2$, the value of the expression $\\frac{a\\cdot b}{a+b}$ equals: A. $\\frac{2}{3}$  B. $1$  C. $\\frac{6}{7}$  D. $\\frac{27}{6}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -46,14 +48,16 @@
    "value_tex": "5^4",
    "answer_tex": "5^4",
    "category": "liczby",
-   "topic_pl": "Potegi",
+   "topic_pl": "Potęgi",
    "topic_en": "Powers",
    "difficulty": 1,
    "summary_pl": "Oblicz $\\frac{9^5\\cdot5^9}{45^5}$",
    "summary_en": "Compute $\\frac{9^5\\cdot5^9}{45^5}$",
    "statement_en": "The number $\\frac{9^5\\cdot5^9}{45^5}$ equals: A. $45^{40}$  B. $45^9$  C. $9^4$  D. $5^4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +75,9 @@
    "summary_en": "Compute $\\sqrt{9/7}+\\sqrt{7/9}$",
    "statement_en": "The number $\\sqrt{\\frac{9}{7}}+\\sqrt{\\frac{7}{9}}$ equals: A. $\\sqrt{\\frac{16}{63}}$  B. $\\frac{16}{3\\sqrt7}$  C. $1$  D. $\\frac{3+\\sqrt7}{3\\sqrt7}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +95,9 @@
    "summary_en": "Compute $\\log_5 0.04-\\tfrac12\\log_{25}5\\log_{25}1$",
    "statement_en": "The value of the expression $\\log_5 0.04-\\frac{1}{2}\\log_{25}5\\cdot\\log_{25}1$ equals: A. $-3$  B. $-2\\frac14$  C. $-2$  D. $0$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -100,14 +108,16 @@
    "value_tex": "25",
    "answer_tex": "25",
    "category": "wyrazenia",
-   "topic_pl": "Wzory skroconego mnozenia",
+   "topic_pl": "Wzory skróconego mnożenia",
    "topic_en": "Short multiplication formulas",
    "difficulty": 1,
-   "summary_pl": "O ile $(a+5)^2$ przewyzsza $a^2+10a$?",
+   "summary_pl": "O ile $(a+5)^2$ przewyższa $a^2+10a$?",
    "summary_en": "By how much does $(a+5)^2$ exceed $a^2+10a$?",
    "statement_en": "The value of the expression $(a+5)^2$ is greater than the value of the expression $(a^2+10a)$ by: A. $50$  B. $10$  C. $5$  D. $25$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -126,14 +136,16 @@
    "value_tex": "0",
    "answer_tex": "x=0",
    "category": "rownania",
-   "topic_pl": "Nierownosci liniowe",
+   "topic_pl": "Nierówności liniowe",
    "topic_en": "Linear inequalities",
    "difficulty": 2,
    "summary_pl": "Najmniejsza liczba całkowita: $2(x-2)\\le4(x-1)+1$",
    "summary_en": "Smallest integer solving $2(x-2)\\le4(x-1)+1$",
    "statement_en": "The smallest integer satisfying the inequality $2(x-2)\\le4(x-1)+1$ is: A. $-2$  B. $-1$  C. $0$  D. $1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -144,14 +156,16 @@
    "value_tex": "-2",
    "answer_tex": "x=-2",
    "category": "rownania",
-   "topic_pl": "Rownania wielomianowe",
+   "topic_pl": "Równania wielomianowe",
    "topic_en": "Polynomial equations",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $x^2(x+1)=x^2-8$",
    "summary_en": "Solve $x^2(x+1)=x^2-8$",
    "statement_en": "The solution of the equation $x^2(x+1)=x^2-8$ is: A. $-9$  B. $-2$  C. $2$  D. $7$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -162,14 +176,16 @@
    "value_tex": "2-4\\sqrt{2}",
    "answer_tex": "f(\\sqrt2)=2-4\\sqrt2",
    "category": "funkcje",
-   "topic_pl": "Wartosc funkcji",
+   "topic_pl": "Wartość funkcji",
    "topic_en": "Function value",
    "difficulty": 2,
    "summary_pl": "$f(x)=\\frac{2x-8}{x}$. Oblicz $f(\\sqrt2)$",
    "summary_en": "$f(x)=\\frac{2x-8}{x}$. Find $f(\\sqrt2)$",
    "statement_en": "The function $f$ is defined by $f(x)=\\frac{2x-8}{x}$ for every real number $x\\ne0$. Then the value of $f(\\sqrt2)$ equals: A. $2-4\\sqrt2$  B. $1-2\\sqrt2$  C. $1+2\\sqrt2$  D. $2+4\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -191,11 +207,13 @@
    "topic_pl": "Funkcja liniowa",
    "topic_en": "Linear function",
    "difficulty": 1,
-   "summary_pl": "Punkt przeciecia $y=2x-3$ z osia $Oy$ (suma wspolrzednych)",
+   "summary_pl": "Punkt przecięcia $y=2x-3$ z osią $Oy$ (suma współrzędnych)",
    "summary_en": "Intersection of $y=2x-3$ with $Oy$ (sum of coordinates)",
    "statement_en": "The graph of the linear function $y=2x-3$ intersects the $Oy$ axis at the point with coordinates: A. $(0,-3)$  B. $(-3,0)$  C. $(0,2)$  D. $(0,3)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -206,14 +224,16 @@
    "value_tex": "2",
    "answer_tex": "(0,2)",
    "category": "funkcje",
-   "topic_pl": "Przesuniecie wykresu",
+   "topic_pl": "Przesunięcie wykresu",
    "topic_en": "Graph translation",
    "difficulty": 2,
-   "summary_pl": "Wierzcholek f=(2,2); wierzcholek g(x)=f(x+2)? (x+y)",
-   "summary_en": "Vertex of f is (2,2); vertex of g(x)=f(x+2)? (x+y)",
+   "summary_pl": "Wierzchołek $f$: $(2,2)$; wierzchołek $g(x)=f(x+2)$? (suma $x+y$)",
+   "summary_en": "Vertex of $f$ is $(2,2)$; vertex of $g(x)=f(x+2)$? (sum $x+y$)",
    "statement_en": "The vertex of the parabola that is the graph of the quadratic function $y=f(x)$ has coordinates $(2,2)$. Then the vertex of the parabola that is the graph of the function $g(x)=f(x+2)$ has coordinates: A. $(4,2)$  B. $(0,2)$  C. $(2,0)$  D. $(2,4)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -224,14 +244,16 @@
    "value_tex": "91",
    "answer_tex": "91",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "12. wyraz ciągu dwucyfrowych liczb podzielnych przez 7",
    "summary_en": "12th term: two-digit numbers divisible by 7",
    "statement_en": "All two-digit natural numbers divisible by 7 form an increasing arithmetic sequence. The twelfth term of this sequence is the number: A. $77$  B. $84$  C. $91$  D. $98$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -242,14 +264,16 @@
    "value_tex": "\\frac{31}{33}",
    "answer_tex": "\\frac{31}{33}",
    "category": "ciagi",
-   "topic_pl": "Wyraz ciagu",
+   "topic_pl": "Wyraz ciągu",
    "topic_en": "Sequence term",
    "difficulty": 1,
    "summary_pl": "Ciąg $a_n=\\frac{2^n-1}{2^n+1}$. Oblicz $a_5$",
    "summary_en": "Sequence $a_n=\\frac{2^n-1}{2^n+1}$. Find $a_5$",
    "statement_en": "A numerical sequence is defined by the formula $a_n=\\frac{2^n-1}{2^n+1}$, for $n\\ge1$. The fifth term of this sequence equals: A. $-1$  B. $\\frac{31}{33}$  C. $\\frac{9}{11}$  D. $1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -267,7 +291,9 @@
    "summary_en": "$\\sin\\alpha=\\frac34$, $\\alpha$ acute. Find $\\cos\\alpha$",
    "statement_en": "The sine of the acute angle $\\alpha$ equals $\\frac34$. Then: A. $\\cos\\alpha=\\frac14$  B. $\\cos\\alpha=\\frac{\\sqrt7}{4}$  C. $\\cos\\alpha=\\frac{7}{16}$  D. $\\cos\\alpha=\\frac{\\sqrt{13}}{16}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -278,14 +304,16 @@
    "value_tex": "\\frac{2}{\\sqrt{29}}",
    "answer_tex": "\\frac{2}{\\sqrt{29}}",
    "category": "trygonometria",
-   "topic_pl": "Trygonometria trojkata prostokatnego",
+   "topic_pl": "Trygonometria trójkąta prostokątnego",
    "topic_en": "Right-triangle trigonometry",
    "difficulty": 2,
    "summary_pl": "Trójkąt prostokątny $2,5$: cosinus większego kąta ostrego",
    "summary_en": "Right triangle 2,5: cosine of larger acute angle",
    "statement_en": "In a right triangle with leg lengths 2 and 5, the cosine of the larger acute angle equals: A. $\\frac{5}{2}$  B. $\\frac{2}{5}$  C. $\\frac{2}{\\sqrt{29}}$  D. $\\frac{5}{\\sqrt{29}}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -299,11 +327,13 @@
    "topic_pl": "Pole rombu",
    "topic_en": "Area of a rhombus",
    "difficulty": 2,
-   "summary_pl": "Pole rombu o boku $6$ i kacie $150^\\circ$",
+   "summary_pl": "Pole rombu o boku $6$ i kącie $150^\\circ$",
    "summary_en": "Area of rhombus, side $6$, angle $150^\\circ$",
    "statement_en": "The area of a rhombus with side 6 and obtuse angle $150°$ equals: A. $18\\sqrt2$  B. $18$  C. $36\\sqrt2$  D. $36$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -314,14 +344,16 @@
    "value_tex": "40",
    "answer_tex": "\\alpha=40^\\circ",
    "category": "planimetria",
-   "topic_pl": "Katy w okregu",
+   "topic_pl": "Kąty w okręgu",
    "topic_en": "Angles in a circle",
    "difficulty": 3,
    "summary_pl": "Kąt wpisany $\\alpha$ przy kącie 50 stopni w okręgu",
    "summary_en": "Inscribed angle $\\alpha$ with a $50°$ angle in a circle",
-   "statement_en": "In a circle with center $O$, an angle of measure $50°$ is marked, as shown in the figure [Figure: circle with center O; a diameter and a second chord through O together with two more chords form a rectangle inscribed in the circle; at one vertex the angle between a chord and the diameter is $50°$; the angle marked $\\alpha$ is at the opposite vertex, between the other diameter and the chord to that same vertex]. The measure of the angle marked in the figure with the letter $\\alpha$ equals: A. $40°$  B. $50°$  C. $20°$  D. $25°$",
+   "statement_en": "In a circle with center $O$, an angle of measure $50^\\circ$ is marked, as shown in the figure. [Figure: four points on the circle; a diameter through $O$ joins the left point and the right point; the top point is joined to the left, right and bottom points; the bottom point is joined to the right point. The $50^\\circ$ angle is at the right point, between the diameter and the chord to the top point; $\\alpha$ is at the bottom point, between the chords to the top point and to the right point.] The measure of the angle marked in the figure with the letter $\\alpha$ equals: A. $40^\\circ$  B. $50^\\circ$  C. $20^\\circ$  D. $25^\\circ$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -332,14 +364,16 @@
    "value_tex": "\\frac{1}{3}",
    "answer_tex": "a=\\frac{1}{3}",
    "category": "analityczna",
-   "topic_pl": "Wspolczynnik kierunkowy",
+   "topic_pl": "Współczynnik kierunkowy",
    "topic_en": "Slope of a line",
    "difficulty": 1,
    "summary_pl": "Współczynnik kierunkowy prostej $AB$, $A=(-4,3)$, $B=(8,7)$",
    "summary_en": "Slope of line $AB$, $A=(-4,3)$, $B=(8,7)$",
    "statement_en": "The slope of the line on which the points $A=(-4,3)$ and $B=(8,7)$ lie equals: A. $a=3$  B. $a=-1$  C. $a=\\frac{5}{6}$  D. $a=\\frac{1}{3}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -350,14 +384,16 @@
    "value_tex": "-13",
    "answer_tex": "b=-13",
    "category": "analityczna",
-   "topic_pl": "Srodek odcinka",
+   "topic_pl": "Środek odcinka",
    "topic_en": "Midpoint of a segment",
    "difficulty": 2,
    "summary_pl": "$S=(2,-5)$ środkiem $AB$: $A=(-4,3)$, $B=(8,b)$. Oblicz $b$",
    "summary_en": "$S=(2,-5)$ midpoint of $AB$: $A=(-4,3)$, $B=(8,b)$. Find $b$",
    "statement_en": "The point $S=(2,-5)$ is the midpoint of segment $AB$, where $A=(-4,3)$ and $B=(8,b)$. Then: A. $b=-13$  B. $b=-2$  C. $b=-1$  D. $b=6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -383,7 +419,9 @@
    "summary_en": "Diagonal of cylinder's axial cross-section: $r=4$, $h=6$",
    "statement_en": "The diagonal of the axial cross-section of a cylinder whose base radius equals 4 and height equals 6 has length: A. $\\sqrt{10}$  B. $\\sqrt{20}$  C. $\\sqrt{52}$  D. $10$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -394,14 +432,16 @@
    "value_tex": "\\frac{15}{33}",
    "answer_tex": "\\frac{15}{33}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 1,
-   "summary_pl": "Grupa: 15 kobiet, 18 mezczyzn. $P$(losowo kobieta)",
+   "summary_pl": "Grupa: 15 kobiet, 18 mężczyzn. $P$(losowo kobieta)",
    "summary_en": "Group: 15 women, 18 men. $P$(drawn person is a woman)",
    "statement_en": "A group consists of 15 women and 18 men. One person is drawn from this group. The probability that it will be a woman equals: A. $\\frac{1}{15}$  B. $\\frac{1}{33}$  C. $\\frac{15}{33}$  D. $\\frac{15}{18}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -412,14 +452,16 @@
    "value_tex": "27",
    "answer_tex": "27",
    "category": "kombinatoryka",
-   "topic_pl": "Regula mnozenia",
+   "topic_pl": "Reguła mnożenia",
    "topic_en": "Counting rule",
    "difficulty": 2,
    "summary_pl": "Ile liczb 4-cyfrowych $>3000$ z cyfr $1,2,3$?",
    "summary_en": "How many 4-digit numbers $>3000$ from digits $1,2,3$?",
    "statement_en": "How many four-digit numbers greater than 3000, formed exclusively from the digits 1, 2, 3, are there, given that digits may repeat but not all of these digits must be used? A. $3$  B. $6$  C. $9$  D. $27$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -430,14 +472,16 @@
    "value_tex": "\\frac{16}{3}",
    "answer_tex": "x=\\frac{4}{3} \\lor x=4",
    "category": "rownania",
-   "topic_pl": "Rownania wymierne",
+   "topic_pl": "Równania wymierne",
    "topic_en": "Rational equations",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $\\frac{2x-4}{x}=\\frac{x}{2x-4}$ (suma rozwiązań)",
    "summary_en": "Solve $\\frac{2x-4}{x}=\\frac{x}{2x-4}$ (sum of solutions)",
    "statement_en": "Solve the equation $\\frac{2x-4}{x}=\\frac{x}{2x-4}$, where $x\\ne0$ and $x\\ne2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -448,14 +492,16 @@
    "value_tex": "\\frac{1}{8}",
    "answer_tex": "P(A)=\\frac{1}{8}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
-   "summary_pl": "Losowanie kul: $P$(liczba dwucyfrowa dzieli sie przez 11)",
+   "summary_pl": "Losowanie kul: $P$(liczba dwucyfrowa dzieli się przez 11)",
    "summary_en": "Drawing balls: $P$(two-digit number divisible by 11)",
    "statement_en": "We have two boxes: the first contains 6 balls numbered with consecutive numbers from 1 to 6, and the second contains 8 balls numbered with consecutive numbers from 1 to 8. We draw one ball from each box and form a two-digit number so that the number of the ball drawn from the first box is the tens digit, and the number of the ball drawn from the second box is the units digit of that number. Compute the probability that the formed number is divisible by 11.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -474,14 +520,16 @@
    "value_tex": "\\frac{2}{7}",
    "answer_tex": "\\sin\\alpha\\cos\\alpha=\\frac{2}{7}",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 3,
    "summary_pl": "$\\tan\\alpha+\\frac{1}{\\tan\\alpha}=\\frac72$. Oblicz $\\sin\\alpha\\cos\\alpha$",
    "summary_en": "$\\tan\\alpha+\\frac{1}{\\tan\\alpha}=\\frac72$. Find $\\sin\\alpha\\cos\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and satisfies the equality $\\tan\\alpha+\\frac{1}{\\tan\\alpha}=\\frac{7}{2}$. Compute the value of the expression $\\sin\\alpha\\cdot\\cos\\alpha$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -516,14 +564,16 @@
    "value_tex": "\\frac{640\\sqrt{3}}{3}",
    "answer_tex": "V=\\frac{640\\sqrt{3}}{3}",
    "category": "stereometria",
-   "topic_pl": "Objetosc ostroslupa",
+   "topic_pl": "Objętość ostrosłupa",
    "topic_en": "Pyramid volume",
    "difficulty": 3,
    "summary_pl": "Ostrosłup: pole podstawy $192$, krawędzie boczne pod $30^\\circ$. Objętość?",
    "summary_en": "Pyramid: base area $192$, lateral edges at $30^\\circ$. Volume?",
    "statement_en": "The base of the pyramid $ABCDS$ is a rectangle whose sides are in ratio $3:4$, with area equal to 192 (see figure [Figure: pyramid ABCDS with rectangular base ABCD, apex S above E, the intersection point of the diagonals of the base]). Point $E$ is determined by the intersecting diagonals of the base, and segment $SE$ is the height of the pyramid. Each lateral edge of this pyramid is inclined to the plane of the base at an angle of $30°$. Compute the volume of the pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",
@@ -541,7 +591,9 @@
    "summary_en": "$f(x)=ax^2+bx+c$: $f>0$ on $(0,12)$, max $=9$. Find $a,b,c$ (sum)",
    "statement_en": "The quadratic function $f$ is defined by the formula $f(x)=ax^2+bx+c$. The solution set of the inequality $f(x)>0$ is the interval $(0,12)$. The greatest value of the function $f$ is 9. Compute the coefficients $a$, $b$, and $c$ of the function $f$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

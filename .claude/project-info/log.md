@@ -15,9 +15,10 @@ background shader component, saved verbatim for adaptation).
 Built the CKE exam manifest (`data-pipeline/manifest.json`), wrote `extract.py` (PyMuPDF-based PDF
 cropping: task-header detection, raster content-bottom trim, stem+subtask stitching) and
 `build_dataset.py` (merge annotations onto extracted crops, clean copy, write `public/data/tasks.json`
-+ `statements/` + `tasks/*.webp` + `dataset-report.json`). Ran annotation agents over all 150 exams
-per `ANNOTATE.md`'s include/exclude and value rules, producing 3,626 annotated tasks -> 2,520 shipped
-cards. Findings and edge cases tracked in `audit-notes.md` as they came up.
+
+- `statements/` + `tasks/*.webp` + `dataset-report.json`). Ran annotation agents over all 150 exams
+  per `ANNOTATE.md`'s include/exclude and value rules, producing 3,626 annotated tasks -> 2,520 shipped
+  cards. Findings and edge cases tracked in `audit-notes.md` as they came up.
 
 ## [2026-09-26] engine + UI | Built the game engine and UI
 
@@ -72,6 +73,7 @@ cross-reference in `conventions.md`. No other cross-file contradictions, leftove
 missing files found.
 
 ## [2026-09-26] gameplay | answers required, no answer money [user]
+
 Playing a face-up card now requires a typed answer; wrong = 0 chips, no card effects, not counted in
 the hand type. Base $1 per correct note removed; note jokers/vouchers retuned (see game-design.md).
 Viewer: English runs show the translated statement (original figure appended when referenced), no
@@ -79,12 +81,14 @@ translation toggle; drawing covers the whole board incl. the dark margin (drawin
 buttons under the answer input. Language chosen on the New Run panel.
 
 ## [2026-09-26] data | second-opinion verification
+
 172 doubtful/random answers re-solved by agents (`data-pipeline/VERIFY.md`, results in
 `data-pipeline/verify/`): 146 ok, 10 fixed, 16 excluded as ambiguous; random sample of 60
 "high-confidence" answers had 4 problems (~6%). `data-pipeline/consistency.py` added (automated
 cross-checks); shared-figure regex extended to "10. i 11." and 2005-style "W zadaniach 8. i 9.".
 
 ## [2026-09-26] perf | code splitting
+
 GameScreen and TaskViewer lazy-loaded (prefetched on idle), vendor chunks (react, motion, katex,
 supabase, vendor): startup ~295 KB gzip vs ~416 KB single bundle.
 
@@ -118,3 +122,12 @@ with two playlists (`main` 6 tracks, `shop` 4 tracks, all Kevin MacLeod CC BY 4.
 `end`; also fixed a stale fade-out `pause()` timer that could kill a track switched back to within
 850 ms. Esc in a run now opens Options when nothing else is open. Credits + `ATTRIBUTION.txt`
 list every track (`assets.md`).
+
+## 2026-09-26 — soundtrack expanded to 20 tracks
+
+Added 10 more Kevin MacLeod CC BY 4.0 tracks: `main` playlist now 11, `shop` 9. Credits,
+`ATTRIBUTION.txt` and `assets.md` updated.
+
+## [2026-09-26] features | full answer verification (2,462 verified cards, 33 fixes), Collection (tasks / matura readiness / runs + seed replay), progress store + card stickers, A-D option picker (`opts`), chips hint, "don't know" mark, drawing Ctrl+Z/Y, prefer-new-tasks weighting, knowledge bonus per correct answer, cheat panel (10 taps on a blind chip), GameOver centring fix, blind-select skip buttons visible; open question #5 resolved
+
+## [2026-09-26] menu | GitHub link + "Suggest an update" form (Supabase `suggestions`, insert-only, migration 20260926200000), logo-card TRYWIALNE easter egg (`public/easter/trywialne.jpg`, text fallback), default locale now English (Polish choice persisted in settings)

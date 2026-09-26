@@ -17,7 +17,9 @@
    "summary_en": "How many solutions does $||x-4|-2|=2$ have?",
    "statement_en": "The equation $||x-4|-2|=2$ has exactly: A) two real solutions. B) one real solution. C) four real solutions. D) three real solutions.",
    "confidence": "high",
-   "notes": "The requested quantity is the count of real solutions (3), which is a number."
+   "notes": "The requested quantity is the count of real solutions (3), which is a number.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\log_4 25+\\log_2 10$",
    "statement_en": "The number $\\log_4 25 + \\log_2 10$ is equal to: A) $\\log_2 15$ B) $\\log_2 50$ C) $\\log_2 210$ D) $\\log_2 635$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Homothety: $P'=(3,-3)$ image of $P=(1,3)$, $S=(-2,12)$. Scale?",
    "statement_en": "Point $P'=(3,-3)$ is the image of point $P=(1,3)$ under a homothety centred at point $S=(-2,12)$. The scale of this homothety is equal to: A) $\\frac{3}{5}$ B) $\\frac{5}{3}$ C) 2 D) 3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "$f(x)=\\frac{x}{2x-8}$. Find $f'(\\sqrt2+4)$",
    "statement_en": "Function $f$ is defined by $f(x)=\\frac{x}{2x-8}$ for every real number $x\\ne4$. Then the derivative of this function at the argument $x=\\sqrt2+4$ is equal to: A) $-\\frac16$ B) $\\frac{\\sqrt2+2}{\\sqrt2}$ C) $-1$ D) $2\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Infinite geom. seq.: ratio $=3a_1$, sum $=\\frac14$. Find $a_1$",
    "statement_en": "An infinite geometric sequence is given, in which the common ratio is three times greater than the first term, and the sum of all terms of this sequence is equal to $\\frac14$. The first term of this sequence is equal to: A) $\\frac37$ B) $\\frac17$ C) $\\frac73$ D) 7",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -107,7 +117,9 @@
    "summary_en": "$f(x)=-x^2+bx+c$, zeros $-1,12$. Find the maximum value",
    "statement_en": "A quadratic function $f(x)=-x^2+bx+c$ has two zeros: $x_1=-1$ and $x_2=12$. Compute the greatest value of this function.",
    "confidence": "high",
-   "notes": "Coded-answer task: max value is 42.25."
+   "notes": "Coded-answer task: max value is 42.25.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -141,7 +153,9 @@
    "summary_en": "How many 5-digit numbers from digits $0,1,2$ are divisible by 15?",
    "statement_en": "From the digits 0, 1, 2 we form five-digit positive integers divisible by 15. Compute how many such numbers can be formed.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -165,9 +179,11 @@
    "difficulty": 4,
    "summary_pl": "Rozwiąż równanie trygonom. w $[0,2\\pi]$ (suma rozwiązań)",
    "summary_en": "Solve the trig. equation on $[0,2\\pi]$ (sum of solutions)",
-   "statement_en": "Solve the equation $\\sqrt3\\sin\\left(x-\\frac{\\pi}{4}\\right)+\\cos\\left(x+\\frac{\\pi}{4}\\right)=1$ in the interval $[0,2\\pi]$.",
+   "statement_en": "Solve the equation $3\\sin\\left(x-\\frac{\\pi}{4}\\right)+\\cos\\left(x+\\frac{\\pi}{4}\\right)=1$ in the interval $[0,2\\pi]$.",
    "confidence": "high",
-   "notes": "Sum of the two solutions in [0,2pi]: 5pi/12 + 13pi/12 = 3pi/2."
+   "notes": "Sum of the two solutions in [0,2pi]: 5pi/12 + 13pi/12 = 3pi/2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -190,7 +206,7 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "single",
-   "value": 8.120023355897636,
+   "value": 8.120023355445852,
    "value_tex": "\\left(252-144\\sqrt3\\right)\\pi",
    "answer_tex": "P=(252-144\\sqrt3)\\pi",
    "category": "planimetria",
@@ -201,7 +217,9 @@
    "summary_en": "Trapezoid in circle: leg 6, longer base 12=diameter. Incircle area of $ABP$",
    "statement_en": "An isosceles trapezoid ABCD with leg length 6 is inscribed in a circle, where the longer base AB of the trapezoid, of length 12, is a diameter of this circle. The diagonals AC and BD of the trapezoid intersect at point P. Compute the area of the circle inscribed in triangle ABP.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] Height 3sqrt3, P at 2sqrt3, area ABP 12sqrt3, r=12-6sqrt3, area (252-144sqrt3)pi (key). Stored float off by 4.5e-10; recomputed.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +237,9 @@
    "summary_en": "Cuboid: $V=8$, edges ratio $1:2$, edge sum $<28$, min. area: dimensions (sum)",
    "statement_en": "Consider all cuboids with volume 8, in which the ratio of the lengths of two edges meeting at the same vertex is $1:2$, and the sum of the lengths of all twelve edges is less than 28. Express the total surface area of the cuboid as a function of the length of one of its edges, and determine the domain of this function. Compute the dimensions of the cuboid, among those considered, that has the smallest total surface area.",
    "confidence": "high",
-   "notes": "Symbolic surface-area formula and its domain are excluded; value is the sum of the three edge lengths (x + 2x + h) of the minimal-surface cuboid: cube-root(3) + 2*cube-root(3) + (4/3)*cube-root(3) = 13*cube-root(3)/3. [verified: fix: P=4x^2+24/x on (1,2), min at x=cbrt3; dims cbrt3, 2cbrt3, 4cbrt3/3 (key). Sum 13cbrt3/3 right but stored float off ~7e-11; summary omitted min-area condition.]"
+   "notes": "Symbolic surface-area formula and its domain are excluded; value is the sum of the three edge lengths (x + 2x + h) of the minimal-surface cuboid: cube-root(3) + 2*cube-root(3) + (4/3)*cube-root(3) = 13*cube-root(3)/3. [verified: fix: P=4x^2+24/x on (1,2), min at x=cbrt3; dims cbrt3, 2cbrt3, 4cbrt3/3 (key). Sum 13cbrt3/3 right but stored float off ~7e-11; summary omitted min-area condition.]",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

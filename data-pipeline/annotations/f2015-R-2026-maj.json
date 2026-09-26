@@ -17,7 +17,9 @@
    "summary_en": "Tangent to $f(x)=x^2+4$ at $(2,8)$: where does it cross Ox?",
    "statement_en": "The quadratic function f is given by $f(x)=x^2+4$. In the coordinate system (x,y), the tangent line to the graph of this function at the point (2,8) crosses the Ox axis at the point\nA. (-1,0)  B. (0,0)  C. (1,0)  D. (2,0)",
    "confidence": "high",
-   "notes": "all options have y=0, so only the x-coordinate is informative; value taken as that x-coordinate (0)"
+   "notes": "all options have y=0, so only the x-coordinate is informative; value taken as that x-coordinate (0)",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Geometric sequence: $q=\\frac23$, sum $=\\frac94$. Find $a_1$",
    "statement_en": "The geometric sequence $(a_n)$ is defined for every natural number $n\\ge1$. Its common ratio equals $\\frac23$, and the sum of all its terms equals $\\frac94$. The first term of this sequence equals\nA. $\\frac34$  B. $\\frac43$  C. $\\frac32$  D. $\\frac{27}{4}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,12 +57,14 @@
    "summary_en": "Smallest n: $|\\frac{2n-5}{3n+2}-\\frac23|<\\frac{1}{20}$",
    "statement_en": "The smallest natural number n satisfying the inequality $\\left|\\frac{2n-5}{3n+2}-\\frac23\\right|<\\frac{1}{20}$ is\nA. 41  B. 42  C. 82  D. 84",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": -0.0004938271604938272,
    "value_tex": "-\\frac{1}{2025}",
@@ -71,7 +77,9 @@
    "summary_en": "$\\log_{xy}x=2026$. Find $\\log_y(xy)$",
    "statement_en": "Numbers x and y are positive real numbers such that $x\\cdot y\\ne1$ and $y\\ne1$, and $\\log_{xy}x=2026$. The number $\\log_y(xy)$ equals\nA. $-\\frac{1}{2025}$  B. $-2025$  C. $\\frac{1}{2025}$  D. 2025",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] |value| within the 0.011 tolerance of 0",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Sequence $a_1=\\sqrt2$, $a_{n+1}=\\frac4{a_n}$. Find $a_{10}$",
    "statement_en": "The sequence $(a_n)$ is given by the recursive formula $a_1=\\sqrt2$, $a_{n+1}=\\frac{4}{a_n}$ for every natural number $n\\ge1$. Calculate the tenth term of this sequence. In the boxes below enter, from left to right, the first, second and third digit after the decimal point of the infinite decimal expansion of the result obtained.",
    "confidence": "high",
-   "notes": "sequence alternates sqrt2, 2sqrt2,...; a10 (even index) = 2sqrt2, matching key digits 8,2,8 [verified: ok: Sequence alternates sqrt2, 2sqrt2; a10=2sqrt2=2.828..., key digits 8,2,8 match.]"
+   "notes": "sequence alternates sqrt2, 2sqrt2,...; a10 (even index) = 2sqrt2, matching key digits 8,2,8 [verified: ok: Sequence alternates sqrt2, 2sqrt2; a10=2sqrt2=2.828..., key digits 8,2,8 match.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -107,7 +117,9 @@
    "summary_en": "Drawing 8 numbers: P(every 3 consecutive terms' product divisible by 3)",
    "statement_en": "From the set of eight numbers $\\{1,2,3,4,5,6,7,8\\}$ all eight numbers are drawn without replacement, one at a time, and arranged into a sequence in the order drawn. Calculate the probability of event A: the drawn numbers form a sequence in which the product of every three consecutive terms is divisible by 3. Give the result as an irreducible common fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -141,7 +153,9 @@
    "summary_en": "Arithmetic seq.: $a_1=1$, last term $-2025$; $a_2,a_3,a_6$ geometric. Sum?",
    "statement_en": "Given is a finite arithmetic sequence $(a_n)$ with more than 6 terms. Its first term equals 1 and its last term equals $(-2025)$. The second, third and sixth terms of this sequence form - in that order - a geometric sequence. Calculate the sum of all terms of the sequence $(a_n)$.",
    "confidence": "high",
-   "notes": "verified: r=-2, n=1014, sum = 1014/2*(1-2025) = -1026168"
+   "notes": "verified: r=-2, n=1014, sum = 1014/2*(1-2025) = -1026168",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -156,7 +170,7 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "sum",
-   "value": 7.704612085492391,
+   "value": 7.70561208549239,
    "value_tex": "3\\sqrt{6}+\\frac{5}{14}",
    "answer_tex": "a=3\\sqrt6,\\ \\cos\\beta=\\frac{5}{14}",
    "category": "stereometria",
@@ -167,7 +181,9 @@
    "summary_en": "Pyramid: circumcircle $6\\sqrt2\\pi$, $\\cos$ of edge angle $=\\frac59$ (a + cos beta)",
    "statement_en": "In the regular triangular pyramid ABCS the base ABC is an equilateral triangle. The circumference of the circle circumscribed on the base ABC equals $6\\sqrt2\\pi$, and the cosine of the angle between the lateral edges SB and SC equals $\\frac59$. Calculate the length of the base edge ABC and the cosine of the angle between the lateral faces SAC and SBC of this pyramid.",
    "confidence": "high",
-   "notes": "value is the sum of the base edge length (3sqrt6) and cos(beta) (5/14)"
+   "notes": "value is the sum of the base edge length (3sqrt6) and cos(beta) (5/14) [full-verify fix] R=3sqrt2, a=3sqrt6; dihedral cos=5/14 checked with 3D coordinates; key same. Stored float 7.704612 off by 0.001; correct 7.705612.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -201,7 +217,9 @@
    "summary_en": "Quadrilateral: AB=9, AD=10, angle 60°; has incircle & circumcircle (BC+CD+P)",
    "statement_en": "In quadrilateral ABCD it is given that |AB|=9, |AD|=10, and angle BAD=60°. A circle is inscribed in this quadrilateral and a circle is circumscribed on it. Calculate the lengths of sides BC and CD, and the area of quadrilateral ABCD.",
    "confidence": "high",
-   "notes": "value is the sum of |BC|, |CD| and the area P"
+   "notes": "value is the sum of |BC|, |CD| and the area P",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +237,9 @@
    "summary_en": "Flowerbed with a d=4 fountain: minimal area (x + P min)",
    "statement_en": "A garden design includes a triangular flowerbed - an isosceles triangle with base length x meters, not exceeding 10 meters. On this flowerbed there is to be a circular fountain of diameter 4 meters, tangent to each side of the triangular flowerbed. The designer wants the area of this flowerbed to be smallest for this fountain size.\na) Show that the area P (in square meters) of the triangular flowerbed with base length x meters is given by the formula $P(x)=\\frac{2x^3}{x^2-16}$.\nb) The area P of the triangular flowerbed with base length x meters is given by the formula $P(x)=\\frac{2x^3}{x^2-16}$ for every $x\\in(4,10\\rangle$. Determine the base length x of the triangular flowerbed for which the area of the flowerbed is smallest. Calculate this smallest area.",
    "confidence": "high",
-   "notes": "part a) is a formula-derivation proof (symbolic, excluded from value); value sums part b)'s two numeric results x=4sqrt3 and P_min=12sqrt3"
+   "notes": "part a) is a formula-derivation proof (symbolic, excluded from value); value sums part b)'s two numeric results x=4sqrt3 and P_min=12sqrt3",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

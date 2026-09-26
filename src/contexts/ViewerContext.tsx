@@ -2,7 +2,7 @@ import { createContext, type ReactNode, useContext, useState } from "react";
 
 /** Types */
 
-export type ViewerSource = "hand" | "shop" | "pack" | "played" | "deck";
+export type ViewerSource = "hand" | "shop" | "pack" | "played" | "deck" | "collection";
 export type ViewerTarget = { taskId: string; cardUid?: string; source: ViewerSource; price?: number };
 
 type ViewerContextValue = {

@@ -17,7 +17,9 @@
    "summary_en": "Compute $a^b-b^a$ for $a=-2$, $b=3$",
    "statement_en": "Let $a=-2$ and $b=3$. The value of the expression $a^b-b^a$ is equal to: A) $\\frac{73}{9}$ B) $\\frac{71}{9}$ C) $-\\frac{73}{9}$ D) $-\\frac{71}{9}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "The number $9^9\\cdot 81^2$ equals...",
    "statement_en": "The number $9^9 \\cdot 81^2$ is equal to: A) $81^4$ B) $81$ C) $9^{13}$ D) $9^{36}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_4 8+5\\log_4 2$",
    "statement_en": "The value of the expression $\\log_4 8 + 5\\log_4 2$ is equal to: A) 2 B) 4 C) $2+\\log_4 5$ D) $1+\\log_4 10$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -79,7 +85,9 @@
    "summary_en": "Compute $(2\\sqrt7-5)^2(2\\sqrt7+5)^2$",
    "statement_en": "The number $(2\\sqrt7-5)^2 \\cdot (2\\sqrt7+5)^2$ is equal to: A) 9 B) 3 C) 2809 D) $28-20\\sqrt7$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -117,11 +125,13 @@
    "topic_pl": "Podział w danym stosunku",
    "topic_en": "Dividing in a given ratio",
    "difficulty": 1,
-   "summary_pl": "Podział liny 100 m w stosunku $3:4:5$",
-   "summary_en": "Splitting a 100 m rope in ratio $3:4:5$",
+   "summary_pl": "Lina 100 m w stosunku $3:4:5$: długość najdłuższej części (m)",
+   "summary_en": "100 m rope cut in ratio $3:4:5$: length of the longest part (m)",
    "statement_en": "A 100-metre rope is cut into three parts whose lengths are in the ratio $3:4:5$. The longest of these parts has length: A) $41\\frac{2}{3}$ metres B) $33\\frac{1}{3}$ metres C) 60 metres D) 25 metres",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -147,7 +157,9 @@
    "summary_en": "Arithmetic seq.: $a_1=2$, $a_2=9$. Find $n$ with $a_n=79$",
    "statement_en": "An arithmetic sequence $(a_n)$, defined for $n\\ge1$, satisfies $a_1=2$ and $a_2=9$. Then $a_n=79$ for: A) $n=10$ B) $n=11$ C) $n=12$ D) $n=13$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -165,7 +177,9 @@
    "summary_en": "Geometric seq. $(81,3x,4)$, positive terms. Find $x$",
    "statement_en": "A three-term geometric sequence with positive terms is given: $(81, 3x, 4)$. It follows that: A) $x=18$ B) $x=6$ C) $x=\\frac{85}{6}$ D) $x=\\frac{6}{85}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -183,7 +197,9 @@
    "summary_en": "Acute angle $\\alpha$: $\\sin\\alpha=\\frac{2\\sqrt6}{7}$. Find $\\cos\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and satisfies $\\sin\\alpha=\\frac{2\\sqrt6}{7}$. It follows that: A) $\\cos\\alpha=\\frac{24}{49}$ B) $\\cos\\alpha=\\frac{5}{7}$ C) $\\cos\\alpha=\\frac{25}{49}$ D) $\\cos\\alpha=\\frac{5\\sqrt6}{7}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -201,7 +217,9 @@
    "summary_en": "Circle: $\\angle ABC=121°$, $\\angle BOC=40°$. Find $\\angle AOB$",
    "statement_en": "Points A, B, C lie on a circle with centre O (see figure). Angle ABC measures $121°$ and angle BOC measures $40°$. Angle AOB measures: A) $59°$ B) $50°$ C) $81°$ D) $78°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +237,9 @@
    "summary_en": "Triangle $ABC$: $DE\\parallel AB$, $AE=DE=4$, $AB=6$. Find $CE$",
    "statement_en": "In triangle ABC, point D lies on side BC and point E lies on side AC. Segment DE is parallel to side AB, and $|AE|=|DE|=4$, $|AB|=6$ (see figure). Segment CE has length: A) $\\frac{16}{3}$ B) $\\frac{8}{3}$ C) 8 D) 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "16",
@@ -237,7 +257,9 @@
    "summary_en": "Equilateral triangle with area $6\\sqrt3$. Find the side",
    "statement_en": "An equilateral triangle has area $6\\sqrt3$. The side of this triangle has length: A) $3\\sqrt2$ B) $2\\sqrt3$ C) $2\\sqrt6$ D) $6\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -255,7 +277,9 @@
    "summary_en": "Square $ABCD$: $B=(-2,4)$, $C=(5,1)$. Find the area",
    "statement_en": "Points $B=(-2,4)$ and $C=(5,1)$ are adjacent vertices of square ABCD. The area of this square is equal to: A) 29 B) 40 C) 58 D) 74",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -281,7 +305,9 @@
    "summary_en": "A prism has 14 vertices. How many edges does it have?",
    "statement_en": "A prism has 14 vertices. The number of all edges of this prism is equal to: A) 14 B) 21 C) 28 D) 26",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -315,7 +341,9 @@
    "summary_en": "Cone: height $6$, slant height $3\\sqrt5$. Find the volume",
    "statement_en": "A cone has height 6 and slant height $3\\sqrt5$. The volume of this cone is equal to: A) $36\\pi$ B) $18\\pi$ C) $108\\pi$ D) $54\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -333,7 +361,9 @@
    "summary_en": "Mean of $x,2,4,\\dots,14$ is 9. Find the median",
    "statement_en": "The arithmetic mean of the data set: $x, 2, 4, 6, 8, 10, 12, 14$ is equal to 9. Then the median of this data set is equal to: A) 8 B) 9 C) 10 D) 16",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -351,7 +381,9 @@
    "summary_en": "How many 4-digit natural numbers are $<2017$?",
    "statement_en": "How many four-digit natural numbers less than 2017 are there? A) 2016 B) 2017 C) 1016 D) 1017",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -369,7 +401,9 @@
    "summary_en": "6 white balls, $n$ black, $P(\\text{white})=\\frac13$. Find $n$",
    "statement_en": "A box contains only 6 white balls and $n$ black balls; one ball is drawn. The probability of drawing a white ball is equal to $\\frac{1}{3}$. The number of black balls is equal to: A) $n=9$ B) $n=2$ C) $n=18$ D) $n=12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -395,7 +429,9 @@
    "summary_en": "Solve $(x^2-6)(3x+2)=0$ (sum of solutions)",
    "statement_en": "Solve the equation $(x^2-6)(3x+2)=0$.",
    "confidence": "high",
-   "notes": "Sum of all three real roots."
+   "notes": "Sum of all three real roots.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -429,7 +465,9 @@
    "summary_en": "Draw twice with replacement from $\\{1,2,4,5,10\\}$: integer quotient",
    "statement_en": "From the set of numbers $\\{1,2,4,5,10\\}$ we draw twice, one number at a time, with replacement. Compute the probability of event A, that the quotient of the first drawn number by the second drawn number is an integer.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -447,7 +485,9 @@
    "summary_en": "Arithmetic seq.: $a_{21}+a_{24}+a_{27}+a_{30}=100$. Find $a_{25}+a_{26}$",
    "statement_en": "An arithmetic sequence $(a_n)$, defined for $n\\ge1$, satisfies the equality $a_{21}+a_{24}+a_{27}+a_{30}=100$. Compute the sum $a_{25}+a_{26}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -465,7 +505,9 @@
    "summary_en": "Quadratic $f$: zeros $-2,6$, $f(1)=-5$. Find the minimum value",
    "statement_en": "A quadratic function $f(x)=ax^2+bx+c$ has two zeros $x_1=-2$ and $x_2=6$. The graph of $f$ passes through the point $A=(1,-5)$. Compute the smallest value of $f$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -483,7 +525,9 @@
    "summary_en": "Right triangle $ABC$: $C=(0,0)$, altitude from C hits $D=(3,4)$ ($x_A+y_B+|AB|$)",
    "statement_en": "Point $C=(0,0)$ is a vertex of right triangle ABC, whose vertex A lies on the Ox axis and vertex B lies on the Oy axis of the coordinate system. The line containing the altitude of this triangle dropped from vertex C intersects the hypotenuse AB at point $D=(3,4)$. Compute the coordinates of vertices A and B of this triangle, and the length of the hypotenuse AB.",
    "confidence": "high",
-   "notes": "Sum = x-coordinate of A (25/3) + y-coordinate of B (25/4) + length AB (125/12) = 25. [verified: ok: AB perpendicular to CD through D: A=(25/3,0), B=(0,25/4), |AB|=125/12; sum 25 (zeros add nothing). Matches key; summary names summed parts.]"
+   "notes": "Sum = x-coordinate of A (25/3) + y-coordinate of B (25/4) + length AB (125/12) = 25. [verified: ok: AB perpendicular to CD through D: A=(25/3,0), B=(0,25/4), |AB|=125/12; sum 25 (zeros add nothing). Matches key; summary names summed parts.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",
@@ -497,11 +541,13 @@
    "topic_pl": "Graniastosłup prosty",
    "topic_en": "Right prism",
    "difficulty": 3,
-   "summary_pl": "Graniastosłup: podstawa prost. $4:3$, $SC=5$, pole $BEFC=48$",
-   "summary_en": "Prism: base ratio $4:3$, $SC=5$, lateral face area $BEFC=48$",
+   "summary_pl": "Graniastosłup: podst. prost. $4:3$, $SC=5$, $P_{BEFC}=48$. Oblicz $V$",
+   "summary_en": "Prism: right base, legs $4:3$, $SC=5$, $P_{BEFC}=48$. Find volume",
    "statement_en": "The base of a right prism ABCDEF is a right triangle ABC with the right angle at C (see figure). The ratio of the length of leg AC to the length of leg BC is $4:3$. Point S is the centre of the circle circumscribed on triangle ABC, and the length of segment SC is 5. The area of the lateral face BEFC of the prism is equal to 48. Compute the volume of this prism.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

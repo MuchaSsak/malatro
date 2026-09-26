@@ -10,14 +10,16 @@
    "value_tex": "2",
    "answer_tex": "2",
    "category": "liczby",
-   "topic_pl": "Wartosc bezwzgledna",
+   "topic_pl": "Wartość bezwzględna",
    "topic_en": "Absolute value",
    "difficulty": 2,
    "summary_pl": "Oblicz $|\\sqrt5-3|+|\\sqrt5-1|$",
    "summary_en": "Compute $|\\sqrt5-3|+|\\sqrt5-1|$",
    "statement_en": "Finish the sentence. Choose the correct answer from the options given. The number $|\\sqrt5-3|+|\\sqrt5-1|$ equals\nA. $2\\sqrt5-4$\nB. $2\\sqrt5+4$\nC. $2$\nD. $4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "5^8",
    "answer_tex": "5^8",
    "category": "liczby",
-   "topic_pl": "Potegi",
+   "topic_pl": "Potęgi",
    "topic_en": "Powers",
    "difficulty": 2,
    "summary_pl": "Oblicz $25^{-2}/125^{-4}$",
    "summary_en": "Compute $25^{-2}/125^{-4}$",
    "statement_en": "Finish the sentence. Choose the correct answer from the options given. The number $\\dfrac{25^{-2}}{125^{-4}}$ equals\nA. $5^{-16}$\nB. $5^{-2}$\nC. $5^{4}$\nD. $5^{8}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\sqrt[3]{24}+\\sqrt[3]{192}$",
    "statement_en": "Finish the sentence. Choose the correct answer from the options given. The number $\\sqrt[3]{24}+\\sqrt[3]{192}$ equals\nA. $6$\nB. $3\\sqrt[3]{6}$\nC. $6\\sqrt[3]{3}$\nD. $6\\sqrt[3]{6}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Compute $\\log_3 2-\\log_3 18$",
    "statement_en": "Finish the sentence. Choose the correct answer from the options given. The number $\\log_3 2-\\log_3 18$ equals\nA. $-2$\nB. $-\\frac12$\nC. $\\frac12$\nD. $2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -106,14 +114,16 @@
    "value_tex": "\\frac{4}{3}",
    "answer_tex": "x=\\frac{4}{3}",
    "category": "rownania",
-   "topic_pl": "Rownanie wymierne",
+   "topic_pl": "Równanie wymierne",
    "topic_en": "Rational equation",
    "difficulty": 3,
-   "summary_pl": "Rozwiąż $\\frac{x-8}{3x-7}=\\frac{5x}{3}$ dla $x\\in(\\frac54,\\infty)$",
-   "summary_en": "Solve $\\frac{x-8}{3x-7}=\\frac{5x}{3}$ for $x\\in(\\frac54,\\infty)$",
-   "statement_en": "Given the equation $\\dfrac{x-8}{3x-7}=\\dfrac{5x}{3}$, where $x\\neq\\frac73$ and $x\\neq8$. Find all solutions of this equation belonging to the interval $(\\frac54,+\\infty)$. Show your working.",
+   "summary_pl": "Rozwiąż $\\frac{3}{3x-7}=\\frac{5x}{x-8}$ dla $x\\in(\\frac54,+\\infty)$",
+   "summary_en": "Solve $\\frac{3}{3x-7}=\\frac{5x}{x-8}$ for $x\\in(\\frac54,+\\infty)$",
+   "statement_en": "Given the equation $\\dfrac{3}{3x-7}=\\dfrac{5x}{x-8}$, where $x\\neq\\frac73$ and $x\\neq8$. Find all solutions of this equation belonging to the interval $\\left(\\frac54,+\\infty\\right)$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -139,7 +149,9 @@
    "summary_en": "Sum of solutions of $(3x-12)(10+5x)(x-3)=0$",
    "statement_en": "Finish the sentence. Choose the correct answer from the options given. The sum of all solutions of the equation $(3x-12)(10+5x)(x-3)=0$ equals\nA. $-5$\nB. $-1$\nC. $5$\nD. $9$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -150,14 +162,16 @@
    "value_tex": "51",
    "answer_tex": "x=51",
    "category": "rownania",
-   "topic_pl": "Zadanie tekstowe - uklad rownan",
+   "topic_pl": "Zadanie tekstowe – układ równań",
    "topic_en": "Word problem - system of equations",
    "difficulty": 3,
-   "summary_pl": "Zakup pomidorow: ile kg odmiany malinowej?",
-   "summary_en": "Tomato purchase: how many kg of one variety?",
+   "summary_pl": "Pomidory: 75 kg za 752,52 zł; ile kg malinowych (11 zł/kg)?",
+   "summary_en": "Tomatoes: 75 kg for 752.52 zł; kg of beefsteak (11 zł/kg)?",
    "statement_en": "A restaurant owner bought 75 kg of tomatoes: $x$ kg of beefsteak tomatoes at 11 zl per kg and $y$ kg of cherry tomatoes at 7.98 zl per kg. He paid 752.52 zl in total. Calculate how many kilograms of beefsteak tomatoes the restaurant owner bought. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12.1",
@@ -168,14 +182,16 @@
    "value_tex": "1",
    "answer_tex": "miejsce zerowe: x=1; f(-2)+3f(2)=0",
    "category": "funkcje",
-   "topic_pl": "Funkcja okreslona przedzialami",
+   "topic_pl": "Funkcja określona przedziałami",
    "topic_en": "Piecewise function",
    "difficulty": 3,
    "summary_pl": "Funkcja odcinkami: zero i $f(-2)+3f(2)$ (suma odp.)",
    "summary_en": "Piecewise function: zero and $f(-2)+3f(2)$ (sum)",
    "statement_en": "Function f is defined by: $f(x)=-2x-10$ for $x\\in(-5,-3]$, $f(x)=x-1$ for $x\\in(-3,4]$. The graph of $y=f(x)$ is shown (a V-shaped piecewise linear graph with an open circle at $(-5,0)$, vertex at $(-3,-4)$, and a closed endpoint at $(4,3)$). Complete the sentences with the correct numbers: 1. The zero of function f is the number ... . 2. The value of the expression $f(-2)+3\\cdot f(2)$ equals ... .",
    "confidence": "high",
-   "notes": "sum of the two requested numbers: zero=1, f(-2)+3f(2)=0"
+   "notes": "sum of the two requested numbers: zero=1, f(-2)+3f(2)=0",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12.2",
@@ -218,14 +234,16 @@
    "value_tex": "4",
    "answer_tex": "x=4",
    "category": "funkcje",
-   "topic_pl": "Przesuniecie wykresu paraboli",
+   "topic_pl": "Przesunięcie wykresu paraboli",
    "topic_en": "Translation of a parabola's graph",
    "difficulty": 3,
-   "summary_pl": "Os symetrii $g(x)=f(x-3)$, gdy os $f$ to $x=1$",
-   "summary_en": "Axis of symmetry of $g(x)=f(x-3)$ given f's axis $x=1$",
+   "summary_pl": "Oś symetrii $x=?$ wykresu $g(x)=f(x-3)$; oś $f$: $x=1$. Podaj $x$",
+   "summary_en": "Axis $x=?$ of the graph of $g(x)=f(x-3)$; f's axis: $x=1$. Give $x$",
    "statement_en": "Quadratic function f is given by $f(x)=\\frac12x^2+bx+c$, where b and c are real numbers. One of the zeros of f is 6. In the Cartesian coordinate system, the line $x=1$ is the axis of symmetry of the graph of f. Function g is defined for every real x by $g(x)=f(x-3)$. Finish the sentence. Choose the correct answer from the options given. The axis of symmetry of the graph of g is the line with equation\nA. $x=-2$\nB. $x=1$\nC. $x=3$\nD. $x=4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -236,14 +254,16 @@
    "value_tex": "1",
    "answer_tex": "1",
    "category": "ciagi",
-   "topic_pl": "Wyraz ciagu",
+   "topic_pl": "Wyraz ciągu",
    "topic_en": "Sequence term",
    "difficulty": 2,
    "summary_pl": "Ciąg $a_n=32\\cdot(-1)^n/2^{n-1}$. Oblicz $a_6$",
    "summary_en": "Sequence $a_n=32\\cdot(-1)^n/2^{n-1}$. Find $a_6$",
    "statement_en": "Sequence $(a_n)$ is defined by $a_n=\\dfrac{32\\cdot(-1)^n}{2^{n-1}}$ for every natural number $n\\ge1$. Finish the sentence. Choose the correct answer from the options given. The sixth term of the sequence $(a_n)$ equals\nA. $-2$\nB. $-1$\nC. $1$\nD. $2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -254,14 +274,16 @@
    "value_tex": "-8",
    "answer_tex": "-8",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $r=-4$, $a_{10}=-24$. Oblicz $a_6$",
    "summary_en": "Arithmetic seq.: $r=-4$, $a_{10}=-24$. Find $a_6$",
    "statement_en": "Arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$. Its common difference equals $-4$ and $a_{10}=-24$. Finish the sentence. Choose the correct answer from the options given. The sixth term of the sequence $(a_n)$ equals\nA. $-12$\nB. $-8$\nC. $-4$\nD. $0$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -272,14 +294,16 @@
    "value_tex": "-\\frac{1}{2}",
    "answer_tex": "-\\frac{1}{2}",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg geom.: $a_3=-8a_6$. Oblicz iloraz",
    "summary_en": "Geometric seq.: $a_3=-8a_6$. Find the ratio",
    "statement_en": "Geometric sequence $(a_n)$, with all real terms different from 0, is defined for every natural number $n\\ge1$. The terms of this sequence satisfy $a_3=-8\\cdot a_6$. Finish the sentence. Choose the correct answer from the options given. The ratio of the sequence $(a_n)$ equals\nA. $-2$\nB. $-\\frac12$\nC. $\\frac12$\nD. $2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -305,7 +329,9 @@
    "summary_en": "$\\cos\\alpha=5/13$, $\\alpha$ acute. Find $\\tan\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $\\cos\\alpha=\\frac{5}{13}$. Finish the sentence. Choose the correct answer from the options given. The tangent of angle $\\alpha$ equals\nA. $\\frac{5}{12}$\nB. $\\frac{12}{13}$\nC. $\\frac{13}{12}$\nD. $\\frac{12}{5}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -316,14 +342,16 @@
    "value_tex": "1",
    "answer_tex": "1",
    "category": "trygonometria",
-   "topic_pl": "Wartosci funkcji trygonometrycznych",
+   "topic_pl": "Wartości funkcji trygonometrycznych",
    "topic_en": "Trigonometric values",
    "difficulty": 2,
    "summary_pl": "Oblicz $\\sin30^\\circ\\cos60^\\circ+\\sin60^\\circ\\cos30^\\circ$",
    "summary_en": "Compute $\\sin30^\\circ\\cos60^\\circ+\\sin60^\\circ\\cos30^\\circ$",
    "statement_en": "Finish the sentence. Choose the correct answer from the options given. The number $\\sin30^\\circ\\cos60^\\circ+\\sin60^\\circ\\cos30^\\circ$ equals\nA. $\\frac12$\nB. $\\frac{\\sqrt2}{2}$\nC. $\\frac{\\sqrt3}{2}$\nD. $1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21.1",
@@ -334,14 +362,16 @@
    "value_tex": "80",
    "answer_tex": "80^\\circ",
    "category": "planimetria",
-   "topic_pl": "Katy w okregu",
+   "topic_pl": "Kąty w okręgu",
    "topic_en": "Angles in a circle",
    "difficulty": 3,
    "summary_pl": "Okrąg, $\\angle BDA=40^\\circ$, $\\angle DBC=65^\\circ$. Kąt ostry $BSA$?",
    "summary_en": "Circle, $\\angle BDA=40^\\circ$, $\\angle DBC=65^\\circ$. Acute angle $BSA$?",
    "statement_en": "Points A, B, C and D lie on a circle with center S and radius 36. Point S lies on segment BD. Angle BDA has measure $40^\\circ$, and angle DBC has measure $65^\\circ$ (see figure). Finish the sentence. Choose the correct answer from the options given. The measure of the acute angle BSA equals\nA. $20^\\circ$\nB. $40^\\circ$\nC. $50^\\circ$\nD. $80^\\circ$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21.2",
@@ -352,14 +382,16 @@
    "value_tex": "10\\pi",
    "answer_tex": "10\\pi",
    "category": "planimetria",
-   "topic_pl": "Dlugosc luku okregu",
+   "topic_pl": "Długość łuku okręgu",
    "topic_en": "Arc length",
    "difficulty": 3,
    "summary_pl": "Okrąg jak w zad. 21: długość łuku $BC$ pod kątem $CDB$",
    "summary_en": "Same circle: length of arc BC subtending angle CDB",
    "statement_en": "Points A, B, C and D lie on a circle with center S and radius 36. Point S lies on segment BD. Angle BDA has measure $40^\\circ$, and angle DBC has measure $65^\\circ$ (see figure). Finish the sentence. Choose the correct answer from the options given. The length of the arc BC, on which the inscribed angle CDB is based, equals\nA. $8\\pi$\nB. $10\\pi$\nC. $13\\pi$\nD. $20\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "22.1",
@@ -370,14 +402,16 @@
    "value_tex": "6\\sqrt{3}",
    "answer_tex": "6\\sqrt{3}",
    "category": "trygonometria",
-   "topic_pl": "Pole trojkata (wzor trygonometryczny)",
+   "topic_pl": "Pole trójkąta (wzór trygonometryczny)",
    "topic_en": "Triangle area (trig formula)",
    "difficulty": 2,
    "summary_pl": "Trójkąt: $AB=6$, $AC=4$, $\\angle CAB=60^\\circ$. Pole?",
    "summary_en": "Triangle: $AB=6$, $AC=4$, $\\angle CAB=60^\\circ$. Area?",
    "statement_en": "Triangle ABC is given, with $|AB|=6$, $|AC|=4$ and $|\\angle CAB|=60^\\circ$ (see figure). Finish the sentence. Choose the correct answer from the options given. The area of triangle ABC equals\nA. $6$\nB. $6\\sqrt3$\nC. $12$\nD. $12\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "22.2",
@@ -388,14 +422,16 @@
    "value_tex": "2\\sqrt{7}",
    "answer_tex": "2\\sqrt{7}",
    "category": "trygonometria",
-   "topic_pl": "Twierdzenie cosinusow",
+   "topic_pl": "Twierdzenie cosinusów",
    "topic_en": "Law of cosines",
    "difficulty": 2,
    "summary_pl": "Ten sam trójkąt: długość boku $BC$?",
    "summary_en": "Same triangle: length of side BC?",
    "statement_en": "Triangle ABC is given, with $|AB|=6$, $|AC|=4$ and $|\\angle CAB|=60^\\circ$ (see figure). Finish the sentence. Choose the correct answer from the options given. The length of side BC of triangle ABC equals\nA. $\\sqrt{28}$\nB. $\\sqrt{40}$\nC. $8$\nD. $\\sqrt{76}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -414,14 +450,16 @@
    "value_tex": "0",
    "answer_tex": "m=0",
    "category": "analityczna",
-   "topic_pl": "Proste rownolegle",
+   "topic_pl": "Proste równoległe",
    "topic_en": "Parallel lines",
    "difficulty": 1,
    "summary_pl": "Dla jakiego $m$ proste $k$ i $l$ są równoległe?",
    "summary_en": "For what $m$ are lines k and l parallel?",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, lines k and l are given by the equations: $k: y=(3-m)x+5$ and $l: y=(m+3)x-4$. Complete the sentence with the correct number. Lines k and l are parallel when the number m equals ... .",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -440,14 +478,16 @@
    "value_tex": "48+56\\sqrt{3}",
    "answer_tex": "V=48, P_c=56\\sqrt{3}",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup prawidlowy trojkatny",
+   "topic_pl": "Graniastosłup prawidłowy trójkątny",
    "topic_en": "Regular triangular prism",
    "difficulty": 3,
-   "summary_pl": "Graniastosłup: oblicz objętość i pole całk. (V+P_c)",
-   "summary_en": "Prism: find volume and total surface area (V+P_c)",
+   "summary_pl": "Graniastosłup: podaj sumę objętości i pola całkowitego",
+   "summary_en": "Prism: give the sum of volume and total surface area",
    "statement_en": "A regular triangular prism ABCDEF is given. The height of the base ABC (an equilateral triangle) equals $2\\sqrt3$. The diagonal AE of the lateral face ABED forms an angle of $60^\\circ$ with edge AB (see figure). Calculate the volume and the total surface area of this prism. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "27",
@@ -458,14 +498,16 @@
    "value_tex": "4\\pi",
    "answer_tex": "4\\pi",
    "category": "stereometria",
-   "topic_pl": "Objetosc walca",
+   "topic_pl": "Objętość walca",
    "topic_en": "Cylinder volume",
    "difficulty": 2,
    "summary_pl": "Walec: $r=2$, $V=16\\pi^2$. Oblicz wysokość",
    "summary_en": "Cylinder: $r=2$, $V=16\\pi^2$. Find the height",
    "statement_en": "The volume of a cylinder with base radius 2 equals $16\\pi^2$. Finish the sentence. Choose the correct answer from the options given. The height of this cylinder equals\nA. $2$\nB. $4$\nC. $2\\pi$\nD. $4\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -483,7 +525,9 @@
    "summary_en": "How many 3-digit numbers $>500$ have only odd digits?",
    "statement_en": "Finish the sentence. Choose the correct answer from the options given. The number of all three-digit natural numbers greater than 500, in whose decimal representation only odd digits occur, equals\nA. $13$\nB. $50$\nC. $75$\nD. $107$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -494,14 +538,16 @@
    "value_tex": "\\frac{1}{6}",
    "answer_tex": "P(A)=\\frac{1}{6}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
    "summary_pl": "Rzuty kostką: P(liczba nieparzysta i podzielna przez 3)",
    "summary_en": "Two dice rolls: P(number odd and divisible by 3)",
    "statement_en": "A random experiment consists of rolling a fair six-sided die twice, with faces numbered from one to six pips. The numbers of pips rolled are written down in order, forming a two-digit number, where the first roll is the tens digit and the second roll is the units digit. Calculate the probability of event A: the two-digit number obtained this way is odd and divisible by 3. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -512,14 +558,16 @@
    "value_tex": "128",
    "answer_tex": "dominanta=1, srednia=2, procent=125",
    "category": "statystyka",
-   "topic_pl": "Dominanta, srednia, procent",
+   "topic_pl": "Dominanta, średnia, procent",
    "topic_en": "Mode, mean, percentage",
    "difficulty": 3,
-   "summary_pl": "Diagram usterek: dominanta, średnia, procent (suma)",
-   "summary_en": "Fault chart: mode, mean, percentage (sum)",
+   "summary_pl": "Diagram usterek: suma dominanty, średniej i liczby procent",
+   "summary_en": "Fault chart: sum of the mode, the mean and the percent number",
    "statement_en": "A diagnostic station recorded the numbers of faults found during technical inspections of five-year-old cars in July 2025. The results are shown on a bar chart: number of faults (1 to 5) on the horizontal axis, and number of cars in which that number of faults was found on the vertical axis (1->16, 2->10, 3->6, 4->2, 5->2 cars). Complete the sentences with the correct numbers: 1. The mode of the number of faults found at this station during these inspections equals ... . 2. The arithmetic mean of the number of faults found at this station during these inspections equals ... . 3. The number of cars in which at least two faults were found during these inspections is ... percent of the number of cars in which exactly one fault was found.",
    "confidence": "high",
-   "notes": "sum of the three requested numbers: mode=1, mean=2, percentage=125"
+   "notes": "sum of the three requested numbers: mode=1, mean=2, percentage=125",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "31",
@@ -537,7 +585,9 @@
    "summary_en": "Hotel: room price giving the maximum revenue",
    "statement_en": "A hotel has 80 single rooms available to guests. The owner analyzed the effect of the price per night on the number of rooms rented and found that: at the base price of 120 zl per night all rooms are rented; each increase of the price per night by 5 zl results in a decrease of the number of rented rooms by 1. Assume the daily revenue P of the hotel from renting rooms, depending on the increase of the base price by $5x$ zloty, is described by the function $P(x)=(80-x)(120+5x)$, where x is an integer satisfying $x\\ge0$ and $x\\le80$. Calculate what the price for renting a single room (per night) should be so that the hotel's daily revenue from renting rooms is the greatest. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

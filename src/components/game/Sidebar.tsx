@@ -113,7 +113,7 @@ function ShopMarquee() {
   return (
     <div className="flex h-[290px] flex-col items-center justify-center rounded-panel border-4 border-red bg-inset-deep shadow-hard">
       <div className="relative rounded-[22px] bg-red px-8 py-3 shadow-hard">
-        <div className="pointer-events-none absolute inset-1 rounded-[18px] border-[6px] border-dotted border-[#fff3c4] animate-blink" />
+        <div className="pointer-events-none absolute inset-1 animate-blink rounded-[18px] border-[6px] border-dotted border-[#fff3c4]" />
         <span
           className="font-pixel text-[96px] leading-none text-gold"
           style={{ textShadow: "0 6px 0 #9a5a10, 0 0 18px rgba(255,210,120,.5)" }}

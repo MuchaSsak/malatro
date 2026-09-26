@@ -5,6 +5,7 @@ import { formatValue } from "~/lib/game/answer";
 import { CATEGORIES, SUITS } from "~/lib/game/categories";
 import { valueRangeLabel } from "~/lib/game/run";
 import type { CardInstance, DifficultyMode, TaskRecord } from "~/lib/game/types";
+import { useTaskProgress } from "~/lib/progress";
 import { cn } from "~/lib/utils";
 
 export const CARD_W = 168;
@@ -55,7 +56,7 @@ export default function TaskCard({
 
   if (isFaceDown) {
     return (
-      <div style={{ width: w, height: h }} className={cn("shadow-card rounded-[10px]", className)}>
+      <div style={{ width: w, height: h }} className={cn("rounded-[10px] shadow-card", className)}>
         <CardBack difficulty={difficulty} />
       </div>
     );
@@ -78,7 +79,10 @@ export default function TaskCard({
       )}
     >
       {/* corner index: suit + category glyph */}
-      <div className="absolute left-[0.4em] top-[0.3em] flex flex-col items-center leading-none" style={{ color: suit.color }}>
+      <div
+        className="absolute left-[0.4em] top-[0.3em] flex flex-col items-center leading-none"
+        style={{ color: suit.color }}
+      >
         <span className="font-pixel text-[1.9em] leading-[0.9]">{cat.glyph}</span>
         <span className="text-[1.05em] leading-none">{suit.symbol}</span>
       </div>
@@ -94,12 +98,14 @@ export default function TaskCard({
         </span>
         <span className="font-pixel text-[0.85em] leading-none text-ink/70">{task.pts} pkt</span>
         {task.sum && (
-          <span className="rounded-[0.3em] bg-important px-[0.3em] font-pixel text-[0.95em] leading-[1.1] text-white">Σ</span>
+          <span className="rounded-[0.3em] bg-important px-[0.3em] font-pixel text-[0.95em] leading-[1.1] text-white">
+            Σ
+          </span>
         )}
       </div>
 
       {/* summary */}
-      <div className="card-tex absolute inset-x-[0.45em] top-[3.2em] bottom-[2.3em] flex items-center justify-center overflow-hidden text-center text-[0.9em] leading-[1.2] text-[#2c383c]">
+      <div className="card-tex absolute inset-x-[0.45em] bottom-[2.3em] top-[3.2em] flex items-center justify-center overflow-hidden text-center text-[0.9em] leading-[1.2] text-[#2c383c]">
         <MathText text={l(task.s)} className="line-clamp-6 [overflow-wrap:anywhere]" />
       </div>
 
@@ -136,7 +142,10 @@ export default function TaskCard({
           ≈ {note}
         </div>
       )}
-      {hasDrawing && <span className="absolute bottom-[2.1em] left-[0.4em] text-[0.8em] opacity-60">✏️</span>}
+      <div className="absolute bottom-[2.1em] left-[0.35em] flex items-center gap-[0.2em]">
+        <ProgressStickers taskId={task.id} />
+        {hasDrawing && <span className="text-[0.8em] opacity-60">✏️</span>}
+      </div>
 
       {/* what the player knows about the value */}
       {insight && shownValue !== null && shownValue !== undefined && (
@@ -149,6 +158,20 @@ export default function TaskCard({
         </div>
       )}
     </div>
+  );
+}
+
+/** Balatro-style stickers: how often this task was answered right / wrong across all runs. */
+function ProgressStickers({ taskId }: { taskId: string }) {
+  const p = useTaskProgress(taskId);
+  if (!p) return null;
+  const sticker = "tx rounded-[0.3em] px-[0.25em] font-pixel text-[0.8em] leading-[1.15] text-white shadow-hard-sm";
+  return (
+    <>
+      {p.ok > 0 && <span className={cn(sticker, "bg-green")}>✓{p.ok}</span>}
+      {p.miss > 0 && <span className={cn(sticker, "bg-red")}>✗{p.miss}</span>}
+      {p.isMarked && <span className={cn(sticker, "bg-purple")}>?</span>}
+    </>
   );
 }
 

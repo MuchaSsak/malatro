@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\sqrt[3]{-27}+\\sqrt[5]{-1}$",
    "statement_en": "The number $\\sqrt[3]{-27}+\\sqrt[5]{-1}$ is equal to: A. $-4$; B. $-2$; C. $2$; D. $4$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "12",
    "answer_tex": "12",
    "category": "liczby",
-   "topic_pl": "Potegi",
+   "topic_pl": "Potęgi",
    "topic_en": "Powers",
    "difficulty": 1,
    "summary_pl": "Oblicz $\\frac{3^{-1}\\cdot 4^{0.5}}{3^{-2}\\cdot 2^{-1}}$",
    "summary_en": "Compute $\\frac{3^{-1}\\cdot 4^{0.5}}{3^{-2}\\cdot 2^{-1}}$",
    "statement_en": "The number $\\dfrac{3^{-1}\\cdot 4^{0.5}}{3^{-2}\\cdot 2^{-1}}$ is equal to: A. $\\frac{1}{12}$; B. $12$; C. $\\frac{1}{18}$; D. $18$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_8 4+\\log_8 32-\\log_8 2$",
    "statement_en": "The number $\\log_8 4+\\log_8 32-\\log_8 2$ is equal to: A. $\\log_8 34$; B. $2$; C. $3$; D. $8$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -64,14 +70,16 @@
    "value_tex": "4\\pi",
    "answer_tex": "4\\pi",
    "category": "wyrazenia",
-   "topic_pl": "Wzory skroconego mnozenia",
+   "topic_pl": "Wzory skróconego mnożenia",
    "topic_en": "Short multiplication formulas",
    "difficulty": 1,
    "summary_pl": "Oblicz $(\\pi+1)^2-(\\pi-1)^2$",
    "summary_en": "Compute $(\\pi+1)^2-(\\pi-1)^2$",
    "statement_en": "The number $(\\pi+1)^2-(\\pi-1)^2$ is equal to: A. $0$; B. $2$; C. $4\\pi$; D. $4\\pi+2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -82,14 +90,16 @@
    "value_tex": "-2",
    "answer_tex": "-2",
    "category": "rownania",
-   "topic_pl": "Nierownosc liniowa",
+   "topic_pl": "Nierówność liniowa",
    "topic_en": "Linear inequality",
    "difficulty": 1,
    "summary_pl": "Najmniejsza całk.: $\\frac{7+2x}{5}\\ge\\frac{4}{15}$",
    "summary_en": "Smallest integer: $\\frac{7+2x}{5}\\ge\\frac{4}{15}$",
    "statement_en": "Given the inequality $\\frac{7+2x}{5}\\ge\\frac{4}{15}$. The smallest integer satisfying this inequality is: A. $-4$; B. $-3$; C. $-2$; D. $-1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -100,14 +110,16 @@
    "value_tex": "0",
    "answer_tex": "0",
    "category": "rownania",
-   "topic_pl": "Rownanie iloczynowe",
+   "topic_pl": "Równanie iloczynowe",
    "topic_en": "Product equation",
    "difficulty": 2,
    "summary_pl": "Suma rozwiązań $(x^2-4)(x^2-9)=0$",
    "summary_en": "Sum of solutions of $(x^2-4)(x^2-9)=0$",
    "statement_en": "The sum of all solutions of the equation $(x^2-4)(x^2-9)=0$ is equal to: A. $-13$; B. $0$; C. $5$; D. $13$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -151,14 +163,16 @@
    "value_tex": "2",
    "answer_tex": "x=2",
    "category": "funkcje",
-   "topic_pl": "Os symetrii paraboli",
+   "topic_pl": "Oś symetrii paraboli",
    "topic_en": "Axis of symmetry",
    "difficulty": 2,
    "summary_pl": "Oś symetrii paraboli $f(x)=2(x-2)^2+4$",
    "summary_en": "Axis of symmetry of the parabola $f(x)=2(x-2)^2+4$",
-   "statement_en": "In the coordinate system $(x,y)$, the axis of symmetry of the graph of function $f$ (shown in the figure for tasks 7-9) is the line with equation: A. $x=-2$; B. $x=2$; C. $x=-4$; D. $x=4$.",
+   "statement_en": "The quadratic function $f$ is defined by $f(x)=2(x-2)^2+4$. In the coordinate system $(x,y)$, the axis of symmetry of the graph of $f$ is the line with equation: A. $x=-2$; B. $x=2$; C. $x=-4$; D. $x=4$.",
    "confidence": "high",
-   "notes": "Treated as a single x-coordinate value per the include rules. [verified: ok: Vertex (2,4) -> axis x=2, key B. Summary wrongly says 'z wykresu' (task gives a formula) and lacks diacritics.]"
+   "notes": "Treated as a single x-coordinate value per the include rules. [verified: ok: Vertex (2,4) -> axis x=2, key B. Summary wrongly says 'z wykresu' (task gives a formula) and lacks diacritics.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -180,14 +194,16 @@
    "value_tex": "128",
    "answer_tex": "a_3=128",
    "category": "ciagi",
-   "topic_pl": "Wyraz ciagu",
+   "topic_pl": "Wyraz ciągu",
    "topic_en": "Term of a sequence",
    "difficulty": 1,
    "summary_pl": "Trzeci wyraz ciągu $a_n=32\\cdot(1/2)^{n-5}$",
    "summary_en": "Third term of $a_n=32\\cdot(1/2)^{n-5}$",
    "statement_en": "The sequence $(a_n)$ is defined by $a_n=32\\cdot\\left(\\frac12\\right)^{n-5}$ for every natural number $n\\ge1$. The third term of this sequence equals: A. $8$; B. $64$; C. $128$; D. $256$.",
    "confidence": "high",
-   "notes": " [verified: ok: a3=32*(1/2)^(-2)=128. Key C matches.]"
+   "notes": " [verified: ok: a3=32*(1/2)^(-2)=128. Key C matches.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -198,14 +214,16 @@
    "value_tex": "\\frac{1}{2}",
    "answer_tex": "q=\\frac{1}{2}",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 2,
-   "summary_pl": "Ciąg $a_n=32\\cdot(1/2)^{n-5}$: typ ciągu i jego różnica/iloraz",
-   "summary_en": "Sequence $a_n=32\\cdot(1/2)^{n-5}$: identify its type and common difference/ratio",
+   "summary_pl": "Ciąg $a_n=32\\cdot(1/2)^{n-5}$: wpisz jego różnicę lub iloraz",
+   "summary_en": "Sequence $a_n=32\\cdot(1/2)^{n-5}$: type its difference or ratio",
    "statement_en": "For the same sequence $a_n=32\\cdot(1/2)^{n-5}$, the sequence $(a_n)$ is: A. arithmetic with common difference $\\frac12$; B. arithmetic with common difference $2$; C. geometric with ratio $\\frac12$; D. geometric with ratio $2$.",
    "confidence": "high",
-   "notes": " [verified: ok: a_{n+1}/a_n=1/2 -> geometric, q=1/2 (key C). Summary 'zbadaj typ' hides that the number (q) is the answer.]"
+   "notes": " [verified: ok: a_{n+1}/a_n=1/2 -> geometric, q=1/2 (key C). Summary 'zbadaj typ' hides that the number (q) is the answer.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -216,14 +234,16 @@
    "value_tex": "2",
    "answer_tex": "q=2",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 2,
    "summary_pl": "Iloraz ciągu geom. $(x,x+4,2x+8)$",
    "summary_en": "Ratio of geometric seq. $(x,x+4,2x+8)$",
    "statement_en": "The three-term sequence $(x,\\ x+4,\\ 2x+8)$, with all terms positive, is geometric. Its ratio is equal to: A. $-4$; B. $-1$; C. $2$; D. $4$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -234,14 +254,16 @@
    "value_tex": "1",
    "answer_tex": "\\tan\\alpha=1",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 2,
    "summary_pl": "$\\sin\\alpha+\\sin^2\\alpha=\\cos\\alpha-\\cos^2\\alpha+1$: $\\tan\\alpha$",
    "summary_en": "$\\sin\\alpha+\\sin^2\\alpha=\\cos\\alpha-\\cos^2\\alpha+1$: find $\\tan\\alpha$",
-   "statement_en": "Angle $\\alpha$ is acute and satisfies $\\sin\\alpha+\\sin^2\\alpha=\\cos\\alpha-\\cos^2\\alpha+1$. The tangent of $\\alpha$ is equal to: A. $\\frac{1}{\\sqrt2}$; B. $\\frac{\\sqrt2}{2}$; C. $1$; D. $2$.",
+   "statement_en": "Angle $\\alpha$ is acute and satisfies $\\sin\\alpha+\\sin^2\\alpha=\\cos\\alpha-\\cos^2\\alpha+1$. The tangent of $\\alpha$ is equal to: A. $\\frac{1}{2}$; B. $\\frac{\\sqrt2}{2}$; C. $1$; D. $2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -252,14 +274,16 @@
    "value_tex": "90",
    "answer_tex": "\\beta+\\gamma=90^\\circ",
    "category": "planimetria",
-   "topic_pl": "Kat wpisany i srodkowy",
+   "topic_pl": "Kąt wpisany i środkowy",
    "topic_en": "Inscribed and central angle",
    "difficulty": 3,
    "summary_pl": "Kąty wpisane w okręgu: oblicz $\\beta+\\gamma$",
    "summary_en": "Inscribed angles in a circle: find $\\beta+\\gamma$",
    "statement_en": "Four distinct points $A$, $B$, $C$, $D$ lie on a circle with center $S$. Segment $AC$ is a diameter. Chord $BD$ intersects this diameter. Let $\\beta$ be the measure of inscribed angle $DBC$ and $\\gamma$ the measure of inscribed angle $ACD$ [figure: circle with diameter $AC$ through center $S$, $D$ above and $B$ below, chord $BD$ crossing $AC$]. The sum $\\beta+\\gamma$ equals: A. $60°$; B. $90°$; C. $120°$; D. $135°$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -270,14 +294,16 @@
    "value_tex": "8(\\sqrt2+1)",
    "answer_tex": "8(\\sqrt2+1)",
    "category": "planimetria",
-   "topic_pl": "Trojkat prostokatny",
+   "topic_pl": "Trójkąt prostokątny",
    "topic_en": "Right triangle",
    "difficulty": 2,
    "summary_pl": "Obwód trójkąta prost. równoram. (przec. $8$)",
    "summary_en": "Perimeter of right isosceles triangle, hyp. $8$",
    "statement_en": "In a right isosceles triangle the hypotenuse has length $8$. The perimeter of this triangle equals: A. $4(\\sqrt2+2)$; B. $4(\\sqrt2+4)$; C. $8(\\sqrt2+1)$; D. $8(\\sqrt2+2)$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -288,14 +314,16 @@
    "value_tex": "8",
    "answer_tex": "8",
    "category": "planimetria",
-   "topic_pl": "Trojkaty podobne",
+   "topic_pl": "Trójkąty podobne",
    "topic_en": "Similar triangles",
    "difficulty": 2,
-   "summary_pl": "Trójkąty podobne: bok trójkąta $KLM$",
-   "summary_en": "Similar triangles: side of triangle $KLM$",
+   "summary_pl": "Trójkąty podobne: najkrótszy bok trójkąta $KLM$",
+   "summary_en": "Similar triangles: shortest side of triangle $KLM$",
    "statement_en": "Triangle $ABC$ with sides $|AB|=6$, $|AC|=9$, $|BC|=12$ is similar to triangle $KLM$ with perimeter $36$. The shortest side of $KLM$ has length: A. $4$; B. $4.5$; C. $8$; D. $8.5$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -306,14 +334,16 @@
    "value_tex": "3",
    "answer_tex": "y_B=3",
    "category": "analityczna",
-   "topic_pl": "Okrag - rownanie",
+   "topic_pl": "Okrąg - równanie",
    "topic_en": "Circle equation",
    "difficulty": 2,
    "summary_pl": "Okrąg o środku $S=(-8,-6)$: średnica $AB$, $y_B$",
    "summary_en": "Circle centered at $S=(-8,-6)$: diameter $AB$, find $y_B$",
    "statement_en": "In the coordinate system $(x,y)$, a circle $\\mathcal{O}$ has center $S=(-8,-6)$. Segment $AB$, with $A=(4,-15)$ and $B=(-20,y_B)$, is a diameter of $\\mathcal{O}$. The coordinate $y_B$ is equal to: A. $3$; B. $8$; C. $-\\frac12$; D. $-\\frac92$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -335,14 +365,16 @@
    "value_tex": "\\frac{1}{2}",
    "answer_tex": "\\tan(\\angle CAB)=\\frac{1}{2}",
    "category": "trygonometria",
-   "topic_pl": "Tangens kata",
+   "topic_pl": "Tangens kąta",
    "topic_en": "Tangent of an angle",
    "difficulty": 2,
    "summary_pl": "Tangens kąta ostrego $CAB$, $A=(0,-6)$, $B=(4,2)$, $C=(0,4)$",
    "summary_en": "Tangent of the acute angle $CAB$: $A=(0,-6)$, $B=(4,2)$, $C=(0,4)$",
    "statement_en": "Given points $A=(0,-6)$, $B=(4,2)$, $C=(0,4)$ forming a right triangle, the tangent of the acute angle $CAB$ equals: A. $\\frac12$; B. $2$; C. $\\frac{\\sqrt5}{5}$; D. $\\frac{2\\sqrt5}{5}$.",
    "confidence": "high",
-   "notes": " [verified: ok: Right angle at B (AB.BC=0); tan A=|BC|/|AB|=sqrt20/sqrt80=1/2; key A. Summary lacked diacritics/data.]"
+   "notes": " [verified: ok: Right angle at B (AB.BC=0); tan A=|BC|/|AB|=sqrt20/sqrt80=1/2; key A. Summary lacked diacritics/data.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -353,14 +385,16 @@
    "value_tex": "-2",
    "answer_tex": "m=-2",
    "category": "funkcje",
-   "topic_pl": "Proste rownolegle",
+   "topic_pl": "Proste równoległe",
    "topic_en": "Parallel lines",
    "difficulty": 2,
    "summary_pl": "Parametr $m$: proste równoległe",
    "summary_en": "Parameter $m$: parallel lines",
    "statement_en": "Lines $k:\\ y=(m-3)x+(m+4)$ and $l:\\ y=-5x+1$ are parallel when $m$ is equal to: A. $-5$; B. $-3$; C. $-2$; D. $1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -371,14 +405,16 @@
    "value_tex": "\\frac{81\\sqrt3}{2}",
    "answer_tex": "V=\\frac{81\\sqrt3}{2}",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup szesciokatny",
+   "topic_pl": "Graniastosłup sześciokątny",
    "topic_en": "Hexagonal prism",
    "difficulty": 2,
    "summary_pl": "Objętość graniastosłupa sześciokątnego (kraw. $3$)",
    "summary_en": "Volume of a hexagonal prism (edge $3$)",
-   "statement_en": "Every edge of a regular hexagonal prism has length $3$. The volume of this prism equals: A. $27$; B. $81$; C. $\\frac{27\\sqrt3}{2}$; D. $\\frac{81\\sqrt3}{2}$.",
+   "statement_en": "Every edge of a regular hexagonal prism has length $3$. The volume of this prism equals: A. $27$; B. $81$; C. $\\frac{27\\sqrt3}{4}$; D. $\\frac{81\\sqrt3}{2}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -389,14 +425,16 @@
    "value_tex": "6\\sqrt3",
    "answer_tex": "H=6\\sqrt3",
    "category": "stereometria",
-   "topic_pl": "Stozek",
+   "topic_pl": "Stożek",
    "topic_en": "Cone",
    "difficulty": 2,
    "summary_pl": "Wysokość stożka: tworząca $12$, kąt $60°$",
    "summary_en": "Cone height: slant $12$, angle $60°$",
    "statement_en": "The slant height of a cone is $12$ and is inclined to the base plane at $60°$. The height of the cone equals: A. $6$; B. $3\\sqrt6$; C. $6\\sqrt2$; D. $6\\sqrt3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -440,14 +478,16 @@
    "value_tex": "8.3",
    "answer_tex": "x=8.3",
    "category": "rownania",
-   "topic_pl": "Uklad rownan",
+   "topic_pl": "Układ równań",
    "topic_en": "System of equations",
    "difficulty": 2,
    "summary_pl": "Cena czekolady: układ równań o zakupach",
    "summary_en": "Price of a chocolate bar: system of equations",
    "statement_en": "In a shop, chocolate bar $\\mathcal{C}$ costs $x$ zloty and candy bar $\\mathcal{B}$ costs $y$ zloty. Piotr bought $8$ bars $\\mathcal{C}$ and $4$ bars $\\mathcal{B}$ for $82$ zloty. Natalia bought $3$ bars $\\mathcal{C}$ and $9$ bars $\\mathcal{B}$ for $60$ zloty. Find the price $x$ of chocolate bar $\\mathcal{C}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -465,7 +505,9 @@
    "summary_en": "Linear function $f(x)=5x+m^2+6m$: find $m$",
    "statement_en": "The linear function $f$ is given by $f(x)=5x+m^2+6m$, where $m$ is a real number. Its graph crosses the $Oy$ axis at $(0,-9)$. Find $m$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -476,14 +518,16 @@
    "value_tex": "7.4+7.5",
    "answer_tex": "\\bar{x}=7.4,\\ Me=7.5",
    "category": "statystyka",
-   "topic_pl": "Srednia i mediana",
+   "topic_pl": "Średnia i mediana",
    "topic_en": "Mean and median",
    "difficulty": 2,
    "summary_pl": "Średnia i mediana godzin snu (tabela) (x̄+Me)",
    "summary_en": "Mean and median of sleep hours (table) (mean+median)",
    "statement_en": "A survey of $100$ people asked how many hours of sleep they need to feel rested (each gave one answer). Results: 5 h - 4 people, 6 h - 14 people, 7 h - 32 people, 8 h - 38 people, 9 h - 12 people. Find the arithmetic mean and the median of the declared number of hours of sleep.",
    "confidence": "high",
-   "notes": "Sum = mean + median (7.4 + 7.5)."
+   "notes": "Sum = mean + median (7.4 + 7.5).",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "31",
@@ -494,14 +538,16 @@
    "value_tex": "\\frac{1}{4}",
    "answer_tex": "P(A)=\\frac{1}{4}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
-   "summary_pl": "Dwa rzuty kostka: suma parzysta $>7$",
+   "summary_pl": "Dwa rzuty kostką: suma parzysta $>7$",
    "summary_en": "Two dice rolls: even sum $>7$",
    "statement_en": "A symmetric six-sided die (faces $1$-$6$) is rolled twice. Event $A$: the sum of the rolled pips is an even number greater than $7$. Find $P(A)$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -512,14 +558,16 @@
    "value_tex": "25",
    "answer_tex": "|AD|=25",
    "category": "planimetria",
-   "topic_pl": "Trapez rownoramienny",
+   "topic_pl": "Trapez równoramienny",
    "topic_en": "Isosceles trapezoid",
    "difficulty": 3,
    "summary_pl": "Trapez: przekątna $39$, $\\cos\\alpha=12/13$ (ramię)",
    "summary_en": "Trapezoid: diagonal $39$, $\\cos\\alpha=12/13$ (leg)",
    "statement_en": "In isosceles trapezoid $ABCD$, diagonal $BD$ has length $39$ and forms an acute angle $\\alpha$ with the longer base $AB$ such that $\\cos\\alpha=\\frac{12}{13}$. The bases $AB$ and $CD$ differ in length by $40$. Find the length of leg $AD$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -530,14 +578,16 @@
    "value_tex": "2\\sqrt{15}",
    "answer_tex": "H=2\\sqrt{15}",
    "category": "stereometria",
-   "topic_pl": "Ostroslup czworokatny",
+   "topic_pl": "Ostrosłup czworokątny",
    "topic_en": "Quadrilateral pyramid",
    "difficulty": 3,
    "summary_pl": "Ostrosłup: pole całk. $80$, $5\\times$ pole podstawy",
    "summary_en": "Pyramid: total area $80$, $5\\times$ base area",
    "statement_en": "A regular quadrilateral pyramid $ABCDS$ has total surface area $80$, which is $5$ times the area of its base. Find the height of the pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -548,14 +598,16 @@
    "value_tex": "287",
    "answer_tex": "a_1=36,\\ r=-6,\\ k=257",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 3,
    "summary_pl": "Ciąg arytm.: $S_{10}=90$. a) $a_1,r$ b) $k$ ($a_1{+}r{+}k$)",
    "summary_en": "Arithmetic seq.: $S_{10}=90$. a) $a_1,r$ b) $k$ ($a_1{+}r{+}k$)",
    "statement_en": "An arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$. The sum $S_{10}$ of the first ten terms equals $90$. The arithmetic mean of the first, seventh and eighth terms equals $10$. a) Find the first term and common difference of $(a_n)$. b) Find $k$ for which $a_k=-1500$.",
    "confidence": "high",
-   "notes": "Sum = a1 + r + k (36 + (-6) + 257 = 287)."
+   "notes": "Sum = a1 + r + k (36 + (-6) + 257 = 287).",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

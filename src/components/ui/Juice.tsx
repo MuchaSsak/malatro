@@ -22,7 +22,10 @@ export default function Juice({ target, children, className, popupSide = "top" }
     const s = 0.12 * jiggle.strength;
     void animate(
       scope.current,
-      { scale: [1, 1 + s, 1 - s * 0.5, 1 + s * 0.25, 1], rotate: [0, -5 * jiggle.strength, 4 * jiggle.strength, -1.5, 0] },
+      {
+        scale: [1, 1 + s, 1 - s * 0.5, 1 + s * 0.25, 1],
+        rotate: [0, -5 * jiggle.strength, 4 * jiggle.strength, -1.5, 0],
+      },
       { duration: 0.4, ease: "easeOut" },
     );
   }, [jiggle, animate, scope]);

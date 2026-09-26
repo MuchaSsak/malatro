@@ -1,65 +1,125 @@
 {
-  "exam": "f2005-R-2005-maj",
-  "tasks": [
-    {
-      "task": "11", "include": false, "exclude_reason": "interval_or_set",
-      "category": "funkcje", "difficulty": 4, "notes": "Wyznacz dziedzine funkcji f(x)=log z zawartym ulamkiem wielomianowym; dziedzina to suma przedzialow liczbowych."
-    },
-    {
-      "task": "12", "include": false, "exclude_reason": "interval_or_set",
-      "category": "trygonometria", "difficulty": 4, "notes": "f(x)=cos x - sqrt(3) sin x; a) szkic wykresu (brak liczby) b) rozwiaz f(x)=1 - nieskonczony zbior rozwiazan z parametrem calkowitym k."
-    },
-    {
-      "task": "13", "include": true, "exclude_reason": null,
-      "answer_kind": "sum", "value": 6, "value_tex": "1+2+3", "answer_tex": "n\\in\\{1,2,3\\}",
-      "category": "prawdopodobienstwo", "topic_pl": "Schemat Bernoulliego", "topic_en": "Bernoulli scheme",
-      "difficulty": 4,
-      "summary_pl": "Dla jakich $n$: $P(\\ge1\\text{ para})<\\frac{671}{1296}$? (suma $n$)",
-      "summary_en": "For which $n$: $P(\\ge1\\text{ match})<\\frac{671}{1296}$? (sum of $n$)",
-      "statement_en": "We roll two symmetric six-sided dice n times. Find all n for which the probability of getting the same number on both dice at least once is less than 671/1296. [Card value is the sum of all valid n.]",
-      "confidence": "high", "notes": ""
-    },
-    {
-      "task": "14", "include": true, "exclude_reason": null,
-      "answer_kind": "single", "value": 1.5, "value_tex": "\\frac{3}{2}", "answer_tex": "\\frac{3}{2}",
-      "category": "ciagi", "topic_pl": "Granica ciągu - sumy szeregów", "topic_en": "Sequence limit - sums of series",
-      "difficulty": 4,
-      "summary_pl": "Oblicz $\\lim_{n\\to\\infty}\\frac{1+4+7+\\dots+(3n-2)}{5+7+\\dots+(2n+3)}$",
-      "summary_en": "Find $\\lim_{n\\to\\infty}\\frac{1+4+7+\\dots+(3n-2)}{5+7+\\dots+(2n+3)}$",
-      "statement_en": "Compute the limit, as n tends to infinity, of [1+4+7+...+(3n-2)] divided by [5+7+9+...+(2n+3)].",
-      "confidence": "high", "notes": ""
-    },
-    {
-      "task": "15", "include": false, "exclude_reason": "expression",
-      "category": "analityczna", "difficulty": 3, "notes": "Wyprowadz zwiazek wektorowy MN=1/2(AB+DC) w trapezie i podaj interpretacje (symbolic vector identity, not a number)."
-    },
-    {
-      "task": "16", "include": false, "exclude_reason": "expression",
-      "category": "stereometria", "difficulty": 5, "notes": "Oblicz pole przekroju szescianu o krawedzi a (kat nachylenia pi/3); wynik jest wzorem symbolicznym w zaleznosci od a."
-    },
-    {
-      "task": "17", "include": false, "exclude_reason": "proof",
-      "category": "liczby", "difficulty": 5, "notes": "Wykaz, ze cbrt(5sqrt2+7)-cbrt(5sqrt2-7) jest liczba calkowita (proof; underlying value is 2)."
-    },
-    {
-      "task": "18", "include": true, "exclude_reason": null,
-      "answer_kind": "sum", "value": 4, "value_tex": "-1-3+1-3+3+5-3+5", "answer_tex": "A=(-1,-3),\\ B=(1,-3),\\ C=(3,5),\\ D=(-3,5)",
-      "category": "analityczna", "topic_pl": "Czworokąt z układu równań", "topic_en": "Quadrilateral from a system of equations",
-      "difficulty": 5,
-      "summary_pl": "Układ równań daje wierzchołki $ABCD$. Oblicz współrzędne (suma)",
-      "summary_en": "System of equations gives vertices $ABCD$. Find coordinates (sum)",
-      "statement_en": "The pairs (x,y) satisfying the system of equations {-4x^2+y^2+2y+1=0; -x^2+y+4=0} are the coordinates of the vertices of a convex quadrilateral ABCD. a) Find the coordinates of points A, B, C, D. b) Show that ABCD is an isosceles trapezoid. c) Find the equation of the circle circumscribed on ABCD. [Card value sums only the numeric part a: x_A+y_A+x_B+y_B+x_C+y_C+x_D+y_D; parts b and c are excluded as proof/expression.]",
-      "confidence": "high", "notes": "Only part a) (coordinates) is summed; b) is a proof and c) is a circle equation, both non-numeric."
-    },
-    {
-      "task": "19", "include": true, "exclude_reason": null,
-      "answer_kind": "sum", "value": -5.636363636363636, "value_tex": "-6+\\frac{4}{11}", "answer_tex": "m=-6,\\ f(-6)=\\frac{4}{11}",
-      "category": "analiza", "topic_pl": "Optymalizacja funkcji parametru (pochodna)", "topic_en": "Optimisation of a parameter function (derivative)",
-      "difficulty": 5,
-      "summary_pl": "Min. $\\frac{x_1+x_2}{x_1x_2}(m)$: znajdź $m$ i wartość (suma)",
-      "summary_en": "Minimise $\\frac{x_1+x_2}{x_1x_2}(m)$: find $m$ and value (sum)",
-      "statement_en": "Given the equation x^2 + (m-5)x + m^2 + (1/4)m = 0. Investigate for which values of the parameter m the ratio of the sum of the real roots of this equation to their product attains its smallest value, and find that smallest value. [Card value is m + minimum value.]",
-      "confidence": "high", "notes": "Minimum of f(m)=(x1+x2)/(x1x2) over the domain occurs at m=-6, with f(-6)=4/11; card value is -6+4/11=-62/11."
-    }
-  ]
+ "exam": "f2005-R-2005-maj",
+ "tasks": [
+  {
+   "task": "11",
+   "include": false,
+   "exclude_reason": "interval_or_set",
+   "category": "funkcje",
+   "difficulty": 4,
+   "notes": "Wyznacz dziedzine funkcji f(x)=log z zawartym ulamkiem wielomianowym; dziedzina to suma przedzialow liczbowych."
+  },
+  {
+   "task": "12",
+   "include": false,
+   "exclude_reason": "interval_or_set",
+   "category": "trygonometria",
+   "difficulty": 4,
+   "notes": "f(x)=cos x - sqrt(3) sin x; a) szkic wykresu (brak liczby) b) rozwiaz f(x)=1 - nieskonczony zbior rozwiazan z parametrem calkowitym k."
+  },
+  {
+   "task": "13",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 6,
+   "value_tex": "1+2+3",
+   "answer_tex": "n\\in\\{1,2,3\\}",
+   "category": "prawdopodobienstwo",
+   "topic_pl": "Schemat Bernoulliego",
+   "topic_en": "Bernoulli scheme",
+   "difficulty": 4,
+   "summary_pl": "Dla jakich $n$: $P(\\ge1\\text{ para})<\\frac{671}{1296}$? (suma $n$)",
+   "summary_en": "For which $n$: $P(\\ge1\\text{ match})<\\frac{671}{1296}$? (sum of $n$)",
+   "statement_en": "We roll two symmetric six-sided dice n times. Find all n for which the probability of getting the same number on both dice at least once is less than 671/1296. [Card value is the sum of all valid n.]",
+   "confidence": "high",
+   "notes": "",
+   "has_figure": false,
+   "verified": true
+  },
+  {
+   "task": "14",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "single",
+   "value": 1.5,
+   "value_tex": "\\frac{3}{2}",
+   "answer_tex": "\\frac{3}{2}",
+   "category": "ciagi",
+   "topic_pl": "Granica ciągu - sumy szeregów",
+   "topic_en": "Sequence limit - sums of series",
+   "difficulty": 4,
+   "summary_pl": "Oblicz $\\lim_{n\\to\\infty}\\frac{1+4+7+\\dots+(3n-2)}{5+7+\\dots+(2n+3)}$",
+   "summary_en": "Find $\\lim_{n\\to\\infty}\\frac{1+4+7+\\dots+(3n-2)}{5+7+\\dots+(2n+3)}$",
+   "statement_en": "Compute the limit, as n tends to infinity, of [1+4+7+...+(3n-2)] divided by [5+7+9+...+(2n+3)].",
+   "confidence": "high",
+   "notes": "",
+   "has_figure": false,
+   "verified": true
+  },
+  {
+   "task": "15",
+   "include": false,
+   "exclude_reason": "expression",
+   "category": "analityczna",
+   "difficulty": 3,
+   "notes": "Wyprowadz zwiazek wektorowy MN=1/2(AB+DC) w trapezie i podaj interpretacje (symbolic vector identity, not a number)."
+  },
+  {
+   "task": "16",
+   "include": false,
+   "exclude_reason": "expression",
+   "category": "stereometria",
+   "difficulty": 5,
+   "notes": "Oblicz pole przekroju szescianu o krawedzi a (kat nachylenia pi/3); wynik jest wzorem symbolicznym w zaleznosci od a."
+  },
+  {
+   "task": "17",
+   "include": false,
+   "exclude_reason": "proof",
+   "category": "liczby",
+   "difficulty": 5,
+   "notes": "Wykaz, ze cbrt(5sqrt2+7)-cbrt(5sqrt2-7) jest liczba calkowita (proof; underlying value is 2)."
+  },
+  {
+   "task": "18",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": 4,
+   "value_tex": "-1-3+1-3+3+5-3+5",
+   "answer_tex": "A=(-1,-3),\\ B=(1,-3),\\ C=(3,5),\\ D=(-3,5)",
+   "category": "analityczna",
+   "topic_pl": "Czworokąt z układu równań",
+   "topic_en": "Quadrilateral from a system of equations",
+   "difficulty": 5,
+   "summary_pl": "Układ równań daje wierzchołki $ABCD$. Oblicz współrzędne (suma)",
+   "summary_en": "System of equations gives vertices $ABCD$. Find coordinates (sum)",
+   "statement_en": "The pairs (x,y) satisfying the system of equations {-4x^2+y^2+2y+1=0; -x^2+y+4=0} are the coordinates of the vertices of a convex quadrilateral ABCD. a) Find the coordinates of points A, B, C, D. b) Show that ABCD is an isosceles trapezoid. c) Find the equation of the circle circumscribed on ABCD. [Card value sums only the numeric part a: x_A+y_A+x_B+y_B+x_C+y_C+x_D+y_D; parts b and c are excluded as proof/expression.]",
+   "confidence": "high",
+   "notes": "Only part a) (coordinates) is summed; b) is a proof and c) is a circle equation, both non-numeric.",
+   "has_figure": false,
+   "verified": true
+  },
+  {
+   "task": "19",
+   "include": true,
+   "exclude_reason": null,
+   "answer_kind": "sum",
+   "value": -5.636363636363636,
+   "value_tex": "-6+\\frac{4}{11}",
+   "answer_tex": "m=-6,\\ f(-6)=\\frac{4}{11}",
+   "category": "analiza",
+   "topic_pl": "Optymalizacja funkcji parametru (pochodna)",
+   "topic_en": "Optimisation of a parameter function (derivative)",
+   "difficulty": 5,
+   "summary_pl": "Min. $\\frac{x_1+x_2}{x_1x_2}(m)$: znajdź $m$ i wartość (suma)",
+   "summary_en": "Minimise $\\frac{x_1+x_2}{x_1x_2}(m)$: find $m$ and value (sum)",
+   "statement_en": "Given the equation $x^2+(m-5)x+m^2+m+\frac{1}{4}=0$. Investigate for which values of the parameter $m$ the ratio of the sum of the real roots of the equation to their product attains its smallest value. Find this value. [Card value is $m$ + the smallest value.]",
+   "confidence": "high",
+   "notes": "Minimum of f(m)=(x1+x2)/(x1x2) over the domain occurs at m=-6, with f(-6)=4/11; card value is -6+4/11=-62/11.",
+   "has_figure": false,
+   "verified": true
+  }
+ ]
 }

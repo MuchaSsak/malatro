@@ -17,7 +17,9 @@
    "summary_en": "Compute $(\\sqrt6-\\sqrt2)^2-2\\sqrt3$",
    "statement_en": "The number $(\\sqrt6-\\sqrt2)^2-2\\sqrt3$ is equal to: A) $8-6\\sqrt3$ B) $8-2\\sqrt3$ C) $4-2\\sqrt3$ D) $8-4\\sqrt3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $2\\log_5 4-3\\log_5\\frac12$",
    "statement_en": "The number $2\\log_5 4 - 3\\log_5\\frac{1}{2}$ is equal to: A) $-\\log_5\\frac{7}{2}$ B) $7\\log_5 2$ C) $-\\log_5 2$ D) $\\log_5 2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Mask price rose 40% to 106.40 zł. Price before?",
    "statement_en": "A reusable protective face mask with replaceable filters became more expensive due to a price increase of $40\\%$ and now costs $106.40$ zł. The price of the mask before the increase was: A) $63.84$ zł B) $65.40$ zł C) $76.00$ zł D) $66.40$ zł.",
    "confidence": "high",
-   "notes": " [verified: ok: 106.40/1.4=76.00 zl (option C). Key C.]"
+   "notes": " [verified: ok: 106.40/1.4=76.00 zl (option C). Key C.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -79,7 +85,9 @@
    "summary_en": "$x=1,y=-3$ solves system with $a$. Find $a$",
    "statement_en": "The pair of numbers $x=1$, $y=-3$ satisfies the system of equations $\\begin{cases}x-y=a^2\\\\(1+a)x-3y=-4a\\end{cases}$. Then $a$ is equal to: A) $2$ B) $-2$ C) $\\sqrt2$ D) $-\\sqrt2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -97,7 +105,9 @@
    "summary_en": "Product of solutions of $2(x-4)(x^2-1)=0$",
    "statement_en": "The product of all solutions of the equation $2(x-4)(x^2-1)=0$ is equal to: A) $-8$ B) $-4$ C) $4$ D) $8$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -123,7 +133,9 @@
    "summary_en": "$f(x)=(a-1)x+3$ has min $=3$. Find $a$",
    "statement_en": "The linear function $f(x)=(a-1)x+3$ attains a smallest value equal to $3$. Then: A) $a=-1$ B) $a=0$ C) $a=1$ D) $a=3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -149,7 +161,9 @@
    "summary_en": "$f(x)=\\frac{8x-7}{2x^2+1}$. Find $f(1)$",
    "statement_en": "The function $f$ is defined by $f(x)=\\frac{8x-7}{2x^2+1}$ for every real number $x$. The value of the function $f$ for the argument $1$ is equal to: A) $\\frac{1}{5}$ B) $\\frac{1}{3}$ C) $1$ D) $2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +181,9 @@
    "summary_en": "Geometric seq. $(x,y,z)$, product $=64$. Find $y$",
    "statement_en": "The sequence $(x,y,z)$ is geometric. The product of all terms of this sequence is equal to $64$. It follows that $y$ is equal to: A) $3\\cdot64$ B) $\\frac{64}{3}$ C) $4$ D) $3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -185,7 +201,9 @@
    "summary_en": "Arithmetic seq.: $r=5$, $a_1=-3$. Find $a_4/a_2$",
    "statement_en": "The sequence $(a_n)$, defined for every natural number $n\\ge1$, is arithmetic. The common difference of this sequence is equal to $5$, and the first term of this sequence is equal to $-3$. Then the ratio $\\frac{a_4}{a_2}$ is equal to: A) $\\frac{5}{3}$ B) $2$ C) $6$ D) $25$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -203,7 +221,9 @@
    "summary_en": "Triangle inscribed in circle, $\\angle CAO=70°$. Find $\\angle ABC$",
    "statement_en": "Triangle $ABC$ is inscribed in a circle with center $O$. The measure of angle $CAO$ is equal to $70°$ [Figure: circle with center O; triangle ABC inscribed, with A and C near the top-left of the circle and angle CAO=70 degrees marked at vertex A between sides AC and AO, vertex B at the bottom of the circle]. Then the measure of angle $ABC$ is equal to: A) $20°$ B) $25°$ C) $30°$ D) $35°$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "14",
@@ -229,7 +249,9 @@
    "summary_en": "$a_n=(-2)^n\\cdot n+1$. Find $a_3$",
    "statement_en": "The sequence $(a_n)$ is defined by the formula $a_n=(-2)^n\\cdot n+1$ for every natural number $n\\ge1$. Then the third term of this sequence is equal to: A) $-24$ B) $-17$ C) $-32$ D) $-23$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +269,9 @@
    "summary_en": "Rhombus: side $2\\sqrt3$, angle $60°$. Inscribed circle radius?",
    "statement_en": "A circle is inscribed in a rhombus with side $2\\sqrt3$ and angle $60°$. The radius of this circle is equal to: A) $3$ B) $\\frac{1}{2}$ C) $\\frac{3}{4}$ D) $\\frac{3}{2}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -261,11 +285,13 @@
    "topic_pl": "Trójkąty podobne",
    "topic_en": "Similar triangles",
    "difficulty": 3,
-   "summary_pl": "Trójkąt równobocz., $DE$ przez środek wys. Stosunek pól?",
-   "summary_en": "Equilateral triangle, $DE$ through centroid. Area ratio?",
+   "summary_pl": "Tr. równobocz., $DE\\parallel AB$ przez ortocentrum. $P_{ABC}:P_{CDE}$?",
+   "summary_en": "Equilateral tri., $DE\\parallel AB$ via orthocenter. $P_{ABC}:P_{CDE}$?",
    "statement_en": "Through the intersection point of the altitudes of equilateral triangle $ABC$, a line $DE$ parallel to the base $AB$ was drawn [Figure: equilateral triangle ABC with its three altitudes (dashed) meeting at the centroid; horizontal line DE through the centroid, parallel to base AB, intersecting sides AC and BC at points D and E]. The ratio of the area of triangle $ABC$ to the area of triangle $CDE$ is equal to: A) $9:4$ B) $4:1$ C) $4:9$ D) $3:2$.",
    "confidence": "high",
-   "notes": "Value is the ratio 9/4 expressed as a number."
+   "notes": "Value is the ratio 9/4 expressed as a number.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +309,9 @@
    "summary_en": "$P=(4,7)$, $R=(-2,-3)$, $T=(3,-1)$. Distance $T$ to midpoint $PR$?",
    "statement_en": "The endpoints of segment $PR$ are the points $P=(4,7)$ and $R=(-2,-3)$. The distance of point $T=(3,-1)$ from the midpoint of segment $PR$ is equal to: A) $\\sqrt3$ B) $\\sqrt{13}$ C) $\\sqrt{17}$ D) $6\\sqrt2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +329,9 @@
    "summary_en": "$\\sin\\alpha=4/5$, $\\alpha$ acute. Find $\\cos\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $\\sin\\alpha=\\frac{4}{5}$. Then: A) $\\cos\\alpha=\\frac{1}{5}$ B) $\\cos\\alpha=-\\frac{1}{5}$ C) $\\cos\\alpha=-\\frac{3}{5}$ D) $\\cos\\alpha=\\frac{3}{5}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -319,7 +349,9 @@
    "summary_en": "$M=(6,0)$, $N=(6,8)$, $O=(0,0)$. Find $\\tan\\angle MON$",
    "statement_en": "The points $M=(6,0)$, $N=(6,8)$ and $O=(0,0)$ are given. The tangent of the acute angle $MON$ is equal to: A) $\\frac{4}{3}$ B) $\\frac{6}{10}$ C) $\\frac{3}{4}$ D) $\\frac{8}{10}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -337,7 +369,9 @@
    "summary_en": "$y=3ax-2$ and $y=2x+3a$ perpendicular. Find $a$",
    "statement_en": "The lines with equations $y=3ax-2$ and $y=2x+3a$ are perpendicular. Then $a$ is equal to: A) $\\frac{2}{3}$ B) $-\\frac{1}{6}$ C) $\\frac{3}{2}$ D) $-5$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -371,7 +405,9 @@
    "summary_en": "Cube's diagonal $=5\\sqrt3$. Find volume",
    "statement_en": "The space diagonal of a cube has length $5\\sqrt3$. Then the volume of this cube is equal to: A) $125$ B) $75$ C) $375\\sqrt3$ D) $125\\sqrt3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -389,7 +425,9 @@
    "summary_en": "Pyramids: same height, edges $3:1$. Volume ratio?",
    "statement_en": "Regular triangular pyramids $O_1$ and $O_2$ have equal heights. The length of the base edge of pyramid $O_1$ is three times the length of the base edge of pyramid $O_2$. The ratio of the volume of pyramid $O_1$ to the volume of pyramid $O_2$ is equal to: A) $3:1$ B) $1:3$ C) $9:1$ D) $1:9$.",
    "confidence": "high",
-   "notes": "Value is the ratio 9/1 expressed as a number."
+   "notes": "Value is the ratio 9/1 expressed as a number.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -407,7 +445,9 @@
    "summary_en": "How many 3-digit even numbers have exactly one digit 7?",
    "statement_en": "The number of all three-digit even natural numbers, in which the digit $7$ occurs exactly once, is: A) $85$ B) $90$ C) $100$ D) $150$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -425,7 +465,9 @@
    "summary_en": "Pick a 2-digit number. $P(\\text{divisible by }5)$?",
    "statement_en": "From the set of two-digit natural numbers we draw one number. The probability of the event that the drawn number is divisible by $5$ is equal to: A) $\\frac{2}{5}$ B) $\\frac{5}{100}$ C) $\\frac{5}{90}$ D) $\\frac{18}{90}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -443,7 +485,9 @@
    "summary_en": "Median of $(1+x,1+2x,4+3x,1)=10$, $x>0$. Find $x$",
    "statement_en": "The number $x$ is positive. The median of the four numbers $1+x$, $1+2x$, $4+3x$, $1$ is equal to $10$. Then: A) $x=6$ B) $x=5.5$ C) $x=2.5$ D) $x=1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -469,7 +513,9 @@
    "summary_en": "Solve $\\frac{6x-1}{3x-2}=3x+2$ (sum of solutions)",
    "statement_en": "Solve the equation $\\frac{6x-1}{3x-2}=3x+2$. (sum of the two solutions requested for the card)",
    "confidence": "high",
-   "notes": "Sum of the two roots x=-1/3 and x=1."
+   "notes": "Sum of the two roots x=-1/3 and x=1.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -495,7 +541,9 @@
    "summary_en": "$\\sin\\alpha+\\cos\\alpha=7/5$. Find $2\\sin\\alpha\\cos\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $\\sin\\alpha+\\cos\\alpha=\\frac{7}{5}$. Compute the value of the expression $2\\sin\\alpha\\cos\\alpha$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -511,9 +559,11 @@
    "difficulty": 3,
    "summary_pl": "Czworokąt: $BC=CD=AD=13$, $BD=10\\perp AD$. Pole?",
    "summary_en": "Quadrilateral: $BC=CD=AD=13$, $BD=10\\perp AD$. Area?",
-   "statement_en": "A quadrilateral $ABCD$ is given, in which $|BC|=|CD|=|AD|=13$ [Figure: quadrilateral ABCD with D and A at the top, C at the bottom right, B at the bottom left; sides BC, CD and AD all of length 13]. The diagonal $BD$ of this quadrilateral has length $10$ and is perpendicular to side $AD$. Compute the area of quadrilateral $ABCD$.",
+   "statement_en": "A quadrilateral $ABCD$ is given, in which $|BC|=|CD|=|AD|=13$ (see figure: $A$ top left, $D$ top middle, $C$ on the right, $B$ at the bottom; sides $AD$, $CD$, $BC$ labelled $13$). The diagonal $BD$ of this quadrilateral has length $10$ and is perpendicular to side $AD$. Compute the area of quadrilateral $ABCD$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",

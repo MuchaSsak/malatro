@@ -25,7 +25,9 @@
    "summary_en": "Compute $\\log_{\\sqrt2}(2\\sqrt2)$",
    "statement_en": "The number $\\log_{\\sqrt2}(2\\sqrt2)$ equals: A. $\\frac32$ B. $2$ C. $\\frac52$ D. $3$",
    "confidence": "high",
-   "notes": "key has two versions with different letters; verified by direct computation"
+   "notes": "key has two versions with different letters; verified by direct computation",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -51,7 +53,9 @@
    "summary_en": "For which $a$ is $(2\\sqrt2-a)^2=17-12\\sqrt2$?",
    "statement_en": "The equality $(2\\sqrt{2}-a)^2=17-12\\sqrt{2}$ is true for: A. $a=3$ B. $a=1$ C. $a=-2$ D. $a=-3$",
    "confidence": "high",
-   "notes": "verified by expansion"
+   "notes": "verified by expansion",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -69,7 +73,9 @@
    "summary_en": "Which number satisfies $-x^5+x^3-x<-2$?",
    "statement_en": "One of the numbers that satisfy the inequality $-x^5+x^3-x<-2$ is: A. $1$ B. $-1$ C. $2$ D. $-2$",
    "confidence": "high",
-   "notes": "verified by substitution"
+   "notes": "verified by substitution",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -87,7 +93,9 @@
    "summary_en": "Intersection of $2x-3y=4$ and $5x-6y=7$ (sum of coords)",
    "statement_en": "The lines given by the equations $2x-3y=4$ and $5x-6y=7$ intersect at point $P$. It follows that: A. $P=(1,2)$ B. $P=(-1,2)$ C. $P=(-1,-2)$ D. $P=(1,-2)$",
    "confidence": "high",
-   "notes": "verified by solving the system"
+   "notes": "verified by solving the system",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -103,9 +111,11 @@
    "difficulty": 4,
    "summary_pl": "Okrąg, punkty $ABCD$, $S$ środek. Oblicz miarę kąta $BDC$",
    "summary_en": "Circle, points $ABCD$, center $S$. Find the measure of $\\angle BDC$",
-   "statement_en": "Points $A$, $B$, $C$, $D$ lie on a circle with center $S$ (see figure: $DA$ is a diameter through $S$, $\\angle ADC=27^\\circ$, and the central angle $\\angle ASB=118^\\circ$). The measure of angle $BDC$ equals: A. $91^\\circ$ B. $72.5^\\circ$ C. $18^\\circ$ D. $32^\\circ$",
+   "statement_en": "Points $A$, $B$, $C$, $D$ lie on a circle with center $S$ (see figure: chords $DA$, $DB$, $DC$ and radii $SA$, $SC$ are drawn; $\\angle ADB=27^\\circ$ and the central angle $\\angle ASC=118^\\circ$). The measure of angle $BDC$ equals: A. $91^\\circ$ B. $72.5^\\circ$ C. $18^\\circ$ D. $32^\\circ$",
    "confidence": "high",
-   "notes": "point A cut off at the bottom of the crop; reconstructed as diameter endpoint from the visible D-S line and verified geometrically (angle ADB=59 deg via central angle ASB=118, minus angle ADC=27, gives 32 deg matching option D) [verified: ok: Central ASC=118 -> ADC=59; ADB=27 -> BDC=32; key D. A label cut at bottom edge but all needed angles visible.]"
+   "notes": "point A cut off at the bottom of the crop; reconstructed as diameter endpoint from the visible D-S line and verified geometrically (angle ADB=59 deg via central angle ASB=118, minus angle ADC=27, gives 32 deg matching option D) [verified: ok: Central ASC=118 -> ADC=59; ADB=27 -> BDC=32; key D. A label cut at bottom edge but all needed angles visible.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "8",
@@ -123,7 +133,9 @@
    "summary_en": "Zero of the function $f(x)=\\frac34x+6$",
    "statement_en": "The linear function $f(x)=\\frac{3}{4}x+6$ is given. The zero of this function is the number: A. $8$ B. $6$ C. $-6$ D. $-8$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -141,7 +153,9 @@
    "summary_en": "How many solutions does $\\frac{3x-1}{x+5}=3$ have?",
    "statement_en": "The rational equation $\\frac{3x-1}{x+5}=3$, where $x\\neq -5$: A. has no real solutions. B. has exactly one real solution. C. has exactly two real solutions. D. has exactly three real solutions.",
    "confidence": "high",
-   "notes": "cross-multiplying gives -1=15, a contradiction, so the equation has 0 solutions; treated the count of solutions as the numeric answer"
+   "notes": "cross-multiplying gives -1=15, a contradiction, so the equation has 0 solutions; treated the count of solutions as the numeric answer",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -167,7 +181,9 @@
    "summary_en": "Parabola, vertex $(1,9)$, zeros $-2,4$. Min of $f$ on $[-1,2]$",
    "statement_en": "The figure shows part of a parabola which is the graph of a quadratic function $f$. The vertex of the parabola is the point $W=(1,9)$. The numbers $-2$ and $4$ are the zeros of $f$. The smallest value of function $f$ in the interval $\\langle-1,2\\rangle$ equals: A. $2$ B. $5$ C. $8$ D. $9$",
    "confidence": "high",
-   "notes": "reconstructed f(x)=-(x+2)(x-4) from vertex and zeros, evaluated endpoints [verified: ok: f=-(x+2)(x-4): f(-1)=5, f(2)=8, vertex max 9; min on [-1,2] is 5; key B.]"
+   "notes": "reconstructed f(x)=-(x+2)(x-4) from vertex and zeros, evaluated endpoints [verified: ok: f=-(x+2)(x-4): f(-1)=5, f(2)=8, vertex max 9; min on [-1,2] is 5; key B.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12",
@@ -185,7 +201,9 @@
    "summary_en": "For $f(x)=\\frac{2x^3}{x^6+1}$ compute $f(-\\sqrt[3]{3})$",
    "statement_en": "The function $f$ is defined by $f(x)=\\frac{2x^3}{x^6+1}$ for every real number $x$. Then $f(-\\sqrt[3]{3})$ equals: A. $-\\frac{\\sqrt[3]{9}}{2}$ B. $-\\frac{3}{5}$ C. $\\frac{3}{5}$ D. $\\frac{\\sqrt[3]{3}}{2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -211,7 +229,9 @@
    "summary_en": "$a_{14}=8$, $r=-\\frac32$. Find $a_7$",
    "statement_en": "The fourteenth term of an arithmetic sequence equals 8, and the common difference of this sequence equals $-\\frac{3}{2}$. The seventh term of this sequence equals: A. $\\frac{37}{2}$ B. $-\\frac{37}{2}$ C. $-\\frac{5}{2}$ D. $\\frac{5}{2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +249,9 @@
    "summary_en": "Sequence $(x,2x+3,4x+3)$ is geometric. First term?",
    "statement_en": "The sequence $(x, 2x+3, 4x+3)$ is geometric. The first term of this sequence equals: A. $-4$ B. $1$ C. $0$ D. $-1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +269,9 @@
    "summary_en": "Triangles $ABC$ and $PQR$ are similar. Length of side $AB$?",
    "statement_en": "Triangles $ABC$ and $PQR$ shown in the figure are similar (in triangle $ABC$: $\\angle A=70^\\circ$, $\\angle B=48^\\circ$, side $BC=9$; in triangle $PQR$: $\\angle P=70^\\circ$, $\\angle R=62^\\circ$, side $QR=18$, side $QP=17$). The side $AB$ of triangle $ABC$ has length: A. $8$ B. $8.5$ C. $9.5$ D. $10$",
    "confidence": "high",
-   "notes": "matched angles by measure (A-P 70 deg, B-R via remaining angle) rather than trusting letter order; result 8.5 matches key's Wersja I=B [verified: ok: C=62, Q=48: A-P, B-Q, C-R; BC/QR=9/18 -> AB=PQ/2=8.5; key B.]"
+   "notes": "matched angles by measure (A-P 70 deg, B-R via remaining angle) rather than trusting letter order; result 8.5 matches key's Wersja I=B [verified: ok: C=62, Q=48: A-P, B-Q, C-R; BC/QR=9/18 -> AB=PQ/2=8.5; key B.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -265,7 +289,9 @@
    "summary_en": "Acute angle $\\alpha$, $\\tan\\alpha=\\frac23$. Find $\\sin\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\tan\\alpha=\\frac{2}{3}$. Then: A. $\\sin\\alpha=\\frac{3\\sqrt{13}}{26}$ B. $\\sin\\alpha=\\frac{\\sqrt{13}}{13}$ C. $\\sin\\alpha=\\frac{2\\sqrt{13}}{13}$ D. $\\sin\\alpha=\\frac{3\\sqrt{13}}{13}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +309,9 @@
    "summary_en": "Segments $5,2a+1,a-1$ form an isosceles triangle. Find $a$",
    "statement_en": "From segments of lengths $5$, $2a+1$, $a-1$ an isosceles triangle can be built. It follows that: A. $a=6$ B. $a=4$ C. $a=3$ D. $a=2$",
    "confidence": "high",
-   "notes": "verified: a=2 gives sides 5,5,1 which satisfy the triangle inequality; other options fail"
+   "notes": "verified: a=2 gives sides 5,5,1 which satisfy the triangle inequality; other options fail",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +329,9 @@
    "summary_en": "Circles $r=3,4$ externally tangent. Area of triangle $O_1O_2P$",
    "statement_en": "Circles with radii 3 and 4 are externally tangent. The line tangent to the circle of radius 4 at point $P$ passes through the center of the circle of radius 3 (see figure). The area of the triangle whose vertices are the centers of the circles and the point of tangency $P$ equals: A. $14$ B. $2\\sqrt{33}$ C. $4\\sqrt{33}$ D. $12$",
    "confidence": "high",
-   "notes": " [verified: ok: Right angle at P, O1O2=7, O2P=4 -> O1P=sqrt33; area=2sqrt33; key B.]"
+   "notes": " [verified: ok: Right angle at P, O1O2=7, O2P=4 -> O1P=sqrt33; area=2sqrt33; key B.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -319,7 +349,9 @@
    "summary_en": "Lines $y=\\frac{2}{m-1}x+m-2$, $y=mx+\\frac{1}{m+1}$ perpendicular when?",
    "statement_en": "The lines given by the equations $y=\\frac{2}{m-1}x+m-2$ and $y=mx+\\frac{1}{m+1}$ are perpendicular when: A. $m=2$ B. $m=\\frac12$ C. $m=\\frac13$ D. $m=-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -337,7 +369,9 @@
    "summary_en": "$A=(a,6)$, $B=(7,b)$, midpoint $M=(3,4)$. Find $a$, $b$ (sum)",
    "statement_en": "In the coordinate system, points $A=(a,6)$ and $B=(7,b)$ are given. The midpoint of segment $AB$ is the point $M=(3,4)$. It follows that: A. $a=5$ and $b=5$ B. $a=-1$ and $b=2$ C. $a=4$ and $b=10$ D. $a=-4$ and $b=-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -363,7 +397,9 @@
    "summary_en": "Cone: apex angle $120^\\circ$, slant height 4. Find volume",
    "statement_en": "The apex angle of a cone measures $120^\\circ$, and the slant height of this cone equals 4. The volume of this cone equals: A. $36\\pi$ B. $18\\pi$ C. $24\\pi$ D. $8\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -381,7 +417,9 @@
    "summary_en": "Prism, base diagonal = 2×height. Cross-section angle $\\alpha$?",
    "statement_en": "The diagonal of the base of a regular quadrilateral prism is twice as long as the height of the prism. The prism is cut by a plane passing through the diagonal of the base and one vertex of the other base (see figure). The cross-section plane forms with the base of the prism an angle $\\alpha$ of measure: A. $30^\\circ$ B. $45^\\circ$ C. $60^\\circ$ D. $75^\\circ$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "25",
@@ -399,12 +437,14 @@
    "summary_en": "Mean of 6 numbers $31,16,25,29,27,x$ is $\\frac{x}{2}$. Median?",
    "statement_en": "The arithmetic mean of the six natural numbers $31$, $16$, $25$, $29$, $27$, $x$ equals $\\frac{x}{2}$. The median of these numbers equals: A. $26$ B. $27$ C. $28$ D. $29$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "ambiguous",
    "answer_kind": "sum",
    "value": 12,
    "value_tex": "8+4",
@@ -417,7 +457,7 @@
    "summary_en": "Pine growths: 10,10,7,8,8,7. Rounded mean + relative error % (sum)",
    "statement_en": "The table shows the annual height growth of a certain pine tree over six consecutive years: 10, 10, 7, 8, 8, 7 (cm). Compute the average annual height growth of this pine over the studied six-year period. Round the obtained result to the nearest 1 cm. Compute the relative error of the obtained approximation. State this error as a percentage.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] Mean 50/6 -> 8 cm, rel. error 4% (key agrees). Sum mixes cm with a percent: 8+4=12 vs 8+0.04=8.04 both defensible; percent-form acceptance does not cover sums."
   },
   {
    "task": "27",
@@ -439,11 +479,13 @@
    "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 2,
-   "summary_pl": "Rozwiąż $(x-4)(x^2+2x-15)=0$ (suma rozwiązań)",
-   "summary_en": "Solve $(x-4)(x^2+2x-15)=0$ (sum of solutions)",
-   "statement_en": "Solve the equation $(x-4)(x^2+2x-15)=0$.",
+   "summary_pl": "Rozwiąż $(4-x)(x^2+2x-15)=0$ (suma rozwiązań)",
+   "summary_en": "Solve $(4-x)(x^2+2x-15)=0$ (sum of solutions)",
+   "statement_en": "Solve the equation $(4-x)(x^2+2x-15)=0$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -477,7 +519,9 @@
    "summary_en": "Richter scale: $R=6.2$. Find the earthquake's amplitude",
    "statement_en": "The Richter scale is used to describe the strength of earthquakes. This strength is described by the formula $R=\\log\\frac{A}{A_0}$, where $A$ is the amplitude of the earthquake expressed in centimeters, and $A_0=10^{-4}\\text{ cm}$ is a constant called the reference amplitude. On May 5, 2014, an earthquake of strength 6.2 on the Richter scale occurred in Thailand. Compute the amplitude of the earthquake in Thailand and determine whether it is greater or smaller than 100 cm.",
    "confidence": "high",
-   "notes": "the greater/smaller comparison is a qualitative conclusion, not summed; only the computed amplitude is used as value"
+   "notes": "the greater/smaller comparison is a qualitative conclusion, not summed; only the computed amplitude is used as value",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -513,12 +557,14 @@
    "summary_en": "Pyramid ABCS, $V=27$, height=base height. Lateral area + cosine (sum)",
    "statement_en": "The base of the regular triangular pyramid $ABCS$ is the equilateral triangle $ABC$. The height $SO$ of this pyramid equals the height of its base. The volume of this pyramid equals 27. Compute the lateral surface area of pyramid $ABCS$ and the cosine of the angle formed by the height of a lateral face and the base plane of the pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 0.0012484394506866417,
    "value_tex": "\\frac{1}{801}",
@@ -531,7 +577,9 @@
    "summary_en": "Draw 2 two-digit numbers without replacement. $P(\\text{sum}=30)$?",
    "statement_en": "From the set of all two-digit natural numbers, two numbers are drawn successively without replacement. Compute the probability of the event that the sum of the drawn numbers equals 30. Give the answer as an irreducible fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] |value| within the 0.011 tolerance of 0",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

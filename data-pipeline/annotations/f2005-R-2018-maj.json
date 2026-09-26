@@ -10,14 +10,16 @@
    "value_tex": "-8",
    "answer_tex": "x=-10 \\lor x=2",
    "category": "rownania",
-   "topic_pl": "Rownania z wartoscia bezwzgledna",
+   "topic_pl": "Równania z wartością bezwzględną",
    "topic_en": "Equations with absolute value",
    "difficulty": 4,
    "summary_pl": "Rozwiąż $3|x+2|-|x-3|=11$ (suma rozw.)",
    "summary_en": "Solve $3|x+2|-|x-3|=11$ (sum of solutions)",
-   "statement_en": "Solve the equation $3|x+2|-|x-3|=11$.",
+   "statement_en": "Solve the equation $3|x+2|=|x-3|+11$.",
    "confidence": "high",
-   "notes": "Two solutions x=-10 and x=2 (a third candidate x=1 from the third interval is rejected); sum=-8."
+   "notes": "Two solutions x=-10 and x=2 (a third candidate x=1 from the third interval is rejected); sum=-8.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -54,14 +56,16 @@
    "value_tex": "\\frac{5}{14}",
    "answer_tex": "\\frac{5}{14}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 4,
    "summary_pl": "Ciąg 8 liczb z $\\{1..7,9\\}$ bez powtórzeń. $P$(parzyste niesąsiadujące)?",
    "summary_en": "Sequence of 8 numbers from $\\{1..7,9\\}$, no repeats. $P$(evens not adjacent)?",
    "statement_en": "From the numbers of the eight-element set $Z=\\{1,2,3,4,5,6,7,9\\}$ we form an eight-term sequence whose terms do not repeat. Calculate the probability of the event that no two even numbers are adjacent terms of the formed sequence. Give the result as an irreducible fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -88,14 +92,16 @@
    "value_tex": "\\pi",
    "answer_tex": "x=-\\frac{\\pi}{6} \\lor x=\\frac{7\\pi}{6}",
    "category": "trygonometria",
-   "topic_pl": "Rownania trygonometryczne",
+   "topic_pl": "Równania trygonometryczne",
    "topic_en": "Trigonometric equations",
    "difficulty": 4,
    "summary_pl": "Rozwiąż $2\\cos^2x+3\\sin x=0$ w $[-\\pi/2,3\\pi/2]$ (suma rozw.)",
    "summary_en": "Solve $2\\cos^2x+3\\sin x=0$ on $[-\\pi/2,3\\pi/2]$ (sum of solutions)",
    "statement_en": "Solve the equation $2\\cos^2x+3\\sin x=0$ in the interval $\\langle-\\frac{\\pi}{2},\\frac{3\\pi}{2}\\rangle$.",
    "confidence": "high",
-   "notes": "Sum of the two solutions -pi/6 + 7pi/6 = pi."
+   "notes": "Sum of the two solutions -pi/6 + 7pi/6 = pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -113,7 +119,9 @@
    "summary_en": "$W(x){=}5x^3{-}7x^2{-}3x{+}p$, root $\\frac25$. Other roots? (sum)",
    "statement_en": "The number $\\frac{2}{5}$ is a root of the polynomial $W(x)=5x^3-7x^2-3x+p$. Determine the remaining roots of this polynomial and solve the inequality $W(x)>0$.",
    "confidence": "high",
-   "notes": "Only the remaining two roots are numeric and summed (=1); the inequality solution (a union of intervals) is not numeric."
+   "notes": "Only the remaining two roots are numeric and summed (=1); the inequality solution (a union of intervals) is not numeric.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -132,14 +140,16 @@
    "value_tex": "-\\frac{68}{15}",
    "answer_tex": "B=\\left(-\\frac{17}{5},\\frac{31}{5}\\right),\\ C=\\left(-3,-\\frac{13}{3}\\right)",
    "category": "analityczna",
-   "topic_pl": "Okrag wpisany w trojkat",
+   "topic_pl": "Okrąg wpisany w trójkąt",
    "topic_en": "Incircle of a triangle",
    "difficulty": 5,
    "summary_pl": "Trójkąt równoram. z $A=(7,-1)$, okrąg wpisany $x^2{+}y^2{=}10$. $B,C$? (suma)",
    "summary_en": "Isosceles triangle from $A=(7,-1)$, incircle $x^2{+}y^2{=}10$. Find $B,C$ (sum)",
    "statement_en": "Point $A=(7,-1)$ is a vertex of isosceles triangle $ABC$, in which $AC=BC$. Both coordinates of vertex $C$ are negative numbers. The circle inscribed in triangle $ABC$ has equation $x^2+y^2=10$. Calculate the coordinates of vertices $B$ and $C$ of this triangle.",
    "confidence": "high",
-   "notes": "Sum of all four coordinates: -17/5+31/5-3-13/3 = -68/15."
+   "notes": "Sum of all four coordinates: -17/5+31/5-3-13/3 = -68/15.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -150,14 +160,16 @@
    "value_tex": "\\frac{32\\sqrt3}{27}",
    "answer_tex": "\\frac{32\\sqrt3}{27}",
    "category": "stereometria",
-   "topic_pl": "Ostroslup - przekroj",
+   "topic_pl": "Ostrosłup - przekrój",
    "topic_en": "Pyramid cross-section",
    "difficulty": 4,
    "summary_pl": "Ostrosłup: przekrój równoboczny, kraw. boczna $\\frac{4\\sqrt3}{3}$. Objętość?",
    "summary_en": "Pyramid: equilateral cross-section, lateral edge $\\frac{4\\sqrt3}{3}$. Volume?",
    "statement_en": "The cross-section of a regular triangular pyramid $ABCS$ by the plane passing through vertex $S$ and the altitudes of two lateral faces is an equilateral triangle. The lateral edge of this pyramid has length $\\frac{4\\sqrt{3}}{3}$. Calculate the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

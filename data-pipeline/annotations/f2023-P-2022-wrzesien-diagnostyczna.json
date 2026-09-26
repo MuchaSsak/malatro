@@ -15,9 +15,11 @@
    "difficulty": 2,
    "summary_pl": "Oblicz $(1+3\\cdot2^{-1})^{-2}$",
    "summary_en": "Evaluate $(1+3\\cdot2^{-1})^{-2}$",
-   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The value of the expression $(1+3\\cdot 2^{-1})^{-2}$ is equal to A. $\\frac{25}{9}$ B. $\\frac{4}{25}$ C. $\\frac{36}{25}$ D. $\\frac{40}{49}$",
+   "statement_en": "Complete the sentence. Choose the correct answer from the options given. The value of the expression $(1+3\\cdot 2^{-1})^{-2}$ is equal to A. $\\frac{25}{4}$ B. $\\frac{4}{25}$ C. $\\frac{36}{49}$ D. $\\frac{40}{9}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Evaluate $2\\log_5 5+1-\\frac12\\log_5 625$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The value of the expression $2\\log_5 5+1-\\frac12\\log_5 625$ is equal to A. $1$ B. $5$ C. $10$ D. $25$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "How many 4-digit odd multiples of 25?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of all distinct 4-digit natural numbers that are odd and divisible by 25 equals A. $9\\cdot9\\cdot2$ B. $9\\cdot10\\cdot2$ C. $9\\cdot9\\cdot4$ D. $9\\cdot10\\cdot4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -93,7 +99,9 @@
    "summary_en": "Solve $3x^3-6x^2-27x+54=0$ (sum of solutions)",
    "statement_en": "Solve the equation $3x^3-6x^2-27x+54=0$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -111,7 +119,9 @@
    "summary_en": "Solve $\\frac{(x^2+x)(x+3)(x-1)}{x^2-1}=0$ (sum of solutions)",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The equation $\\dfrac{(x^2+x)(x+3)(x-1)}{x^2-1}=0$ has, in the set of real numbers, exactly A. one solution: $x=-3$. B. two solutions: $x=-3$, $x=0$. C. three solutions: $x=-3$, $x=-1$, $x=0$. D. four solutions: $x=-3$, $x=-1$, $x=0$, $x=1$.",
    "confidence": "high",
-   "notes": "Value is the sum of the two valid solutions from correct option B (domain excludes x=+-1). [verified: ok: Domain excludes +-1; roots of numerator 0,-1,-3,1 -> valid x=-3, x=0 (option B, key B). Summary asks sum of solutions: -3.]"
+   "notes": "Value is the sum of the two valid solutions from correct option B (domain excludes x=+-1). [verified: ok: Domain excludes +-1; roots of numerator 0,-1,-3,1 -> valid x=-3, x=0 (option B, key B). Summary asks sum of solutions: -3.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -173,7 +183,9 @@
    "summary_en": "Graph of $f$: minimum value on $[-4,0]$",
    "statement_en": "[Figure: piecewise linear graph of $y=f(x)$ for $x\\in[-5,4)$, with marked integer points (-5,2), (-4,0), (-3,-2), (-2,1), (-1,4), (0,0), (1,-4), and an open point at (4,0)] Complete the sentence. Choose the correct answer from the options given. The smallest value of the function $f$ on the interval $[-4,0]$ is equal to A. $-4$ B. $-3$ C. $-2$ D. $0$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "11",
@@ -191,7 +203,9 @@
    "summary_en": "Find the distance from $A=(8,11)$ to the circle's center",
    "statement_en": "In the Cartesian coordinate system $(x,y)$ we have point $A=(8,11)$ and a circle with equation $(x-3)^2+(y+1)^2=25$. Complete the sentence. Choose the correct answer from the options given. The distance from point $A$ to the center of this circle is equal to A. $25$ B. $13$ C. $\\sqrt{125}$ D. $\\sqrt{265}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12.1",
@@ -209,7 +223,9 @@
    "summary_en": "Pool depth at $x=25$ from the piecewise formula",
    "statement_en": "[Figure: side cross-section of a pool, sloping from depth 1.2 m at the shallow end down to a deeper end over a length of 25 m, with x measured along the water surface and y the depth] A pool is 25 m long. At its shallowest point its depth equals 1.2 m. The longitudinal cross-section of this pool is shown schematically in the figure. The depth $y$ of the pool changes with the distance $x$ from the shallow edge according to the function: $y=ax+b$ for $0\\le x\\le 15$ m, and $y=0.18x-0.9$ for $15\\text{ m}\\le x\\le25$ m. The distance $x$ is measured from the shallow edge, horizontally along the water surface (see figure). Both $x$ and $y$ are expressed in metres. Complete the sentence. Choose the correct answer from the options given. The greatest depth of the pool is equal to A. $5.4$ m B. $3.6$ m C. $2.2$ m D. $1.8$ m",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12.2",
@@ -225,9 +241,11 @@
    "difficulty": 3,
    "summary_pl": "Basen: oblicz współczynniki $a$ i $b$ (suma $a+b$)",
    "summary_en": "Pool: find coefficients $a$ and $b$ (sum $a+b$)",
-   "statement_en": "[Same pool figure and piecewise depth function as in the previous part] Calculate the value of coefficient $a$ and the value of coefficient $b$. Show your working.",
+   "statement_en": "[Figure: side cross-section of a pool, 25 m long, depth 1.2 m at the shallow edge ($x=0$), bottom sloping down, with a bend at $x=15$ m and the deepest point at the far end] A pool is 25 m long. At its shallowest point its depth equals 1.2 m. The longitudinal cross-section of this pool is shown schematically in the figure. The depth $y$ of the pool changes with the distance $x$ from the edge according to the function: $y=ax+b$ for $0\\le x\\le 15$ m, and $y=0.18x-0.9$ for $15\\text{ m}\\le x\\le 25$ m. The distance $x$ is measured from the shallower edge, horizontally along the water surface (see figure). Both $x$ and $y$ are expressed in metres. Calculate the value of coefficient $a$ and the value of coefficient $b$. Show your working.",
    "confidence": "high",
-   "notes": "Value is the sum a+b = 0.04+1.2 = 1.24, per the sum rule for multi-part numeric answers."
+   "notes": "Value is the sum a+b = 0.04+1.2 = 1.24, per the sum rule for multi-part numeric answers.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "13.1",
@@ -245,7 +263,9 @@
    "summary_en": "Vertex of $f(x)=-(x-1)^2+2$ (sum of coordinates)",
    "statement_en": "The quadratic function $f$ is given by the formula $f(x)=-(x-1)^2+2$. Complete the sentence. Choose the correct answer from the options given. The graph of the function $f$ is a parabola whose vertex has coordinates A. $(1,2)$ B. $(-1,2)$ C. $(1,-2)$ D. $(-1,-2)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13.2",
@@ -260,8 +280,8 @@
   },
   {
    "task": "14.1",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 8.564119250701962e+40,
    "value_tex": "\\frac{7^{49}}{3}",
@@ -274,7 +294,7 @@
    "summary_en": "Sequence $a_n=\\frac{7^n}{21}$: find $a_{50}$",
    "statement_en": "The sequence $(a_n)$ is given by the formula $a_n=\\dfrac{7^n}{21}$ for every natural number $n\\ge1$. Complete the sentence. Choose the correct answer from the options given. The 50th term of the sequence $(a_n)$ is A. $\\frac{7^{49}}{3}$ B. $\\frac{7^{50}}{3}$ C. $\\frac{7^{51}}{3}$ D. $\\frac{7^{52}}{3}$",
    "confidence": "high",
-   "notes": "Value stored as the JS double approximation of 7^49/3 (~8.564e40); the exact symbolic form is kept in value_tex."
+   "notes": "Value stored as the JS double approximation of 7^49/3 (~8.564e40); the exact symbolic form is kept in value_tex. [full-verify] 7^50/21=7^49/3 (key A) is correct, but ~8.56e40 is not a typeable numeric answer; the player cannot enter it."
   },
   {
    "task": "14.2",
@@ -303,7 +323,9 @@
    "summary_en": "Line $y=3x+b$ through $A=(-1,3)$: find $b$",
    "statement_en": "In the plane, in the Cartesian coordinate system $(x,y)$, there is a line $k$ with equation $y=3x+b$, passing through the point $A=(-1,3)$. Complete the sentence. Choose the correct answer from the options given. The coefficient $b$ in the equation of this line is equal to A. $0$ B. $6$ C. $-10$ D. $8$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16.1",
@@ -332,7 +354,9 @@
    "summary_en": "Sequence $a_n=3n-1$: smallest $n$ with $a_n>25$",
    "statement_en": "The sequence $(a_n)$ is given by the formula $a_n=3n-1$ for every natural number $n\\ge1$. Complete the sentence. Choose the correct answer from the options given. The smallest value of $n$ for which the term $a_n$ is greater than $25$ is A. $8$ B. $9$ C. $7$ D. $26$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16.3",
@@ -350,7 +374,9 @@
    "summary_en": "Sequence $a_n=3n-1$: sum of $n$ terms $=57$, find $n$",
    "statement_en": "The sequence $(a_n)$ is given by the formula $a_n=3n-1$ for every natural number $n\\ge1$. Complete the sentence. Choose the correct answer from the options given. The sum of the first $n$ terms of the sequence $(a_n)$ equals $57$ for $n$ equal to A. $6$ B. $23$ C. $5$ D. $11$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -379,7 +405,9 @@
    "summary_en": "Evaluate $(1-\\cos20^\\circ)(1+\\cos20^\\circ)-\\sin^2 20^\\circ$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The value of the expression $(1-\\cos 20^\\circ)\\cdot(1+\\cos 20^\\circ)-\\sin^2 20^\\circ$ is equal to A. $-1$ B. $0$ C. $1$ D. $20$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -397,7 +425,9 @@
    "summary_en": "White/red balls in ratio $4{:}5$: $P$(white)?",
    "statement_en": "A container holds only white and red balls. The ratio of the number of white balls to the number of red balls is $4:5$. One ball is drawn from the container. Complete the sentence. Choose the correct answer from the options given. The probability of drawing a white ball is equal to A. $\\frac{4}{9}$ B. $\\frac{4}{5}$ C. $\\frac{1}{9}$ D. $\\frac{1}{4}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -415,7 +445,9 @@
    "summary_en": "Circle: $\\angle ABO=40^\\circ$, $\\angle OBC=10^\\circ$. Find $\\angle ACO$",
    "statement_en": "[Figure: circle with center $O$; points $A$, $B$, $C$ on the circle with radii $OA$, $OB$, $OC$ drawn, forming triangle $ABC$; angle $ABO=40^\\circ$ and angle $OBC=10^\\circ$ marked at vertex $B$] Points $A$, $B$ and $C$ lie on a circle with center at point $O$. Angle $ABO$ has measure $40^\\circ$, and angle $OBC$ has measure $10^\\circ$ (see figure). Complete the sentence. Choose the correct answer from the options given. The measure of angle $ACO$ is equal to A. $30^\\circ$ B. $40^\\circ$ C. $50^\\circ$ D. $60^\\circ$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21",
@@ -433,7 +465,9 @@
    "summary_en": "Triangle with sides $6,7,8$: cosine of the largest angle",
    "statement_en": "Triangle $ABC$ has side lengths $6$, $7$ and $8$. Calculate the cosine of the largest angle of this triangle. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -451,7 +485,9 @@
    "summary_en": "Angle bisector: $AB{=}4$, $BC{=}4.6$, $AD{=}3.2$, find $CD$",
    "statement_en": "[Figure: triangle $ABC$ with the bisector of angle $ABC$ meeting side $AC$ at point $D$; $AB=4$, $BC=4.6$, $AD=3.2$] In triangle $ABC$ side $AB$ has length $4$, and side $BC$ has length $4.6$. The bisector of angle $ABC$ intersects side $AC$ at a point $D$ such that $|AD|=3.2$ (see figure). Complete the sentence. Choose the correct answer from the options given. Segment $CD$ has length A. $\\frac{64}{23}$ B. $\\frac{16}{5}$ C. $\\frac{23}{4}$ D. $\\frac{92}{25}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -469,7 +505,9 @@
    "summary_en": "Profit $Z(x)=-x^2+230x-170$: optimal sales & profit (sum)",
    "statement_en": "A family carpentry firm produces small garden pinwheels. Based on an analysis of actual revenues and expenses it was found that: the weekly revenue $P$ (in zloty) from selling $x$ pinwheels can be described by the function $P(x)=251x$; the cost $K$ (in zloty) of producing $x$ pinwheels in one week can be described by the function $K(x)=x^2+21x+170$. At most $150$ pinwheels can be produced weekly at the plant. Calculate how many pinwheels should be sold weekly so that the plant's weekly profit is greatest. Calculate this greatest profit. (Hint: assume the profit is the difference between revenue and costs.) Show your working.",
    "confidence": "high",
-   "notes": "Value is the sum of the two required numeric answers: x=115 and the max profit 13055 zl (115+13055=13170), per the sum rule for mixed multi-part numeric answers."
+   "notes": "Value is the sum of the two required numeric answers: x=115 and the max profit 13055 zl (115+13055=13170), per the sum rule for mixed multi-part numeric answers.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24.1",
@@ -487,7 +525,9 @@
    "summary_en": "Wage distribution: find the average monthly wage",
    "statement_en": "[Figure: bar chart titled 'Number of employees' vs 'Monthly gross wage (in zloty)', showing 75 employees at 4000 zl, 50 at 4800 zl, 20 at 5000 zl, 10 at 6000 zl, and 5 at 7000 zl] Firm $\\mathcal F$ employs $160$ people. The distribution of the gross wages of this firm's employees is shown in the diagram below. The horizontal axis shows the monthly gross wage (in zloty), and the vertical axis shows the number of employees of firm $\\mathcal F$ who receive a given monthly wage. Complete the sentence. Choose the correct answer from the options given. The average monthly gross wage at firm $\\mathcal F$ is equal to A. 4593.75 zl B. 4800.00 zl C. 5360.00 zl D. 2399.33 zl",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "24.2",
@@ -505,7 +545,9 @@
    "summary_en": "Wage distribution: find the median monthly wage",
    "statement_en": "[Same wage-distribution bar chart as in the previous part: 75 employees at 4000 zl, 50 at 4800 zl, 20 at 5000 zl, 10 at 6000 zl, 5 at 7000 zl, total 160 employees] Complete the sentence. Choose the correct answer from the options given. The median monthly wage of the employees of firm $\\mathcal F$ is equal to A. 4000 zl B. 4800 zl C. 5000 zl D. 5500 zl",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "24.3",
@@ -523,7 +565,9 @@
    "summary_en": "Wage distribution: what % earn at most 5000 zl?",
    "statement_en": "[Same wage-distribution bar chart: 75 employees at 4000 zl, 50 at 4800 zl, 20 at 5000 zl, 10 at 6000 zl, 5 at 7000 zl, total 160 employees] Complete the sentence. Choose the correct answer from the options given. The number of employees of firm $\\mathcal F$ whose monthly gross wage does not exceed $5000$ zl amounts (rounded to $1\\%$) to A. $91\\%$ of all the firm's employees. B. $78\\%$ of all the firm's employees. C. $53\\%$ of all the firm's employees. D. $22\\%$ of all the firm's employees.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "25",
@@ -541,7 +585,9 @@
    "summary_en": "Pyramid: base edge $10\\sqrt3$, lateral edge $15$. Height?",
    "statement_en": "Every edge of the base of a triangular pyramid has length $10\\sqrt3$, and every one of its lateral edges has length $15$. Calculate the height of this pyramid. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",

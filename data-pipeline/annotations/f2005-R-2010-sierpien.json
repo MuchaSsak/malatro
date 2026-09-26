@@ -10,14 +10,16 @@
    "value_tex": "2\\pi",
    "answer_tex": "x=\\frac{2\\pi}{3}\\ \\lor\\ x=\\frac{4\\pi}{3}",
    "category": "trygonometria",
-   "topic_pl": "Rownanie trygonometryczne",
+   "topic_pl": "Równanie trygonometryczne",
    "topic_en": "Trigonometric equation",
    "difficulty": 4,
    "summary_pl": "Rozwiąż $2\\sin^2x-7\\cos x-5=0$, $x\\in[0,2\\pi)$ (suma)",
    "summary_en": "Solve $2\\sin^2x-7\\cos x-5=0$, $x\\in[0,2\\pi)$ (sum)",
-   "statement_en": "Find all solutions of the equation $2\\sin^2x-7\\cos x-5=0$ belonging to the interval $[0,2\\pi)$ (report the sum of the solutions).",
+   "statement_en": "Find all solutions of the equation $2\\sin^2x-7\\cos x-5=0$ belonging to the interval $\\langle 0,2\\pi\\rangle$ (report the sum of the solutions, in radians).",
    "confidence": "high",
-   "notes": "Reduces to 2cos^2x+7cosx+3=0, cosx=-1/2 (cosx=-3 rejected); solutions x=2pi/3, x=4pi/3."
+   "notes": "Reduces to 2cos^2x+7cosx+3=0, cosx=-1/2 (cosx=-3 rejected); solutions x=2pi/3, x=4pi/3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -39,14 +41,16 @@
    "value_tex": "4+5",
    "answer_tex": "C=(4,5)",
    "category": "analityczna",
-   "topic_pl": "Optymalizacja - suma kwadratow odleglosci",
+   "topic_pl": "Optymalizacja - suma kwadratów odległości",
    "topic_en": "Optimization - sum of squared distances",
    "difficulty": 4,
    "summary_pl": "Punkt $C$ na $y=x+1$ minim. $AC^2+BC^2$ (suma wsp.)",
    "summary_en": "Point $C$ on $y=x+1$ minimizing $AC^2+BC^2$ (sum of coords)",
    "statement_en": "Given points $A=(1,5)$, $B=(9,3)$, and line $k:\\ y=x+1$. Find the coordinates of point $C$ on line $k$ for which the sum $AC^2+BC^2$ is smallest (report $C_x+C_y$).",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -90,14 +94,16 @@
    "value_tex": "\\frac{2\\sqrt3}{5}",
    "answer_tex": "\\sin\\alpha=\\frac{2\\sqrt3}{5}",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup trojkatny - kat miedzy scianami",
+   "topic_pl": "Graniastosłup trójkątny - kąt prostej z płaszczyzną",
    "topic_en": "Triangular prism - angle between faces",
    "difficulty": 4,
-   "summary_pl": "Graniastosłup: $V=12\\sqrt3$, $P_b=36$. Sinus kąta ścian",
-   "summary_en": "Prism: $V=12\\sqrt3$, lateral area $36$. Sine of face angle",
+   "summary_pl": "$V=12\\sqrt3$, $P_b=36$: sin kąta przekątnej ściany z sąsiednią ścianą",
+   "summary_en": "$V=12\\sqrt3$, lateral $36$: sine, face diagonal vs adjacent face",
    "statement_en": "The volume of a regular triangular prism equals $12\\sqrt3$, and its lateral surface area equals $36$. Find the sine of the angle formed by the diagonal of a lateral face with the adjacent lateral face.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -126,14 +132,16 @@
    "value_tex": "\\frac{1}{35}",
    "answer_tex": "P(A)=\\frac{1}{35}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo - permutacje",
+   "topic_pl": "Prawdopodobieństwo - permutacje",
    "topic_en": "Probability - permutations",
    "difficulty": 4,
    "summary_pl": "Losowa permutacja $1..8$: sumy sąsiadów nieparzyste",
    "summary_en": "Random permutation of $1..8$: neighbor sums odd",
    "statement_en": "The numbers $1,2,3,4,5,6,7,8$ are arranged in a random order in a row. Find the probability that in this arrangement the sum of every two neighboring numbers is odd. Give the answer as a reduced fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -144,14 +152,16 @@
    "value_tex": "24+1+4+11-18+7",
    "answer_tex": "B=(24,1),\\ C=(4,11),\\ D=(-18,7)",
    "category": "analityczna",
-   "topic_pl": "Romb we wspolrzednych",
+   "topic_pl": "Romb we współrzędnych",
    "topic_en": "Rhombus in coordinates",
    "difficulty": 5,
-   "summary_pl": "Romb: $A{=}(-2,3)$, środek $S{=}(3,4)$, pole $300$ (suma wsp.)",
-   "summary_en": "Rhombus: $A=(-2,3)$, center $S=(3,4)$, area $300$ (sum of coords)",
-   "statement_en": "Point $A=(-2,3)$ is a vertex of rhombus $ABCD$ with area $300$. Point $S=(3,4)$ is the center of symmetry of this rhombus. Find the coordinates of the remaining vertices $B$, $C$, $D$ (report the sum of all their coordinates).",
+   "summary_pl": "Romb: $A=(2,-3)$, środek $S=(3,4)$, pole $300$ (suma wsp. $B,C,D$)",
+   "summary_en": "Rhombus: $A=(2,-3)$, centre $S=(3,4)$, area $300$ (sum coords $B,C,D$)",
+   "statement_en": "Point $A=(2,-3)$ is a vertex of rhombus $ABCD$ with area $300$. Point $S=(3,4)$ is the center of symmetry of this rhombus. Find the coordinates of the remaining vertices $B$, $C$, $D$ (report the sum of all their coordinates).",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",

@@ -3,8 +3,8 @@
  "tasks": [
   {
    "task": "1",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 3.169925001442312,
    "value_tex": "2\\log_2 3",
@@ -17,7 +17,7 @@
    "summary_en": "Compute the value of $\\log_2 9$",
    "statement_en": "The number $\\log_2 9$ is equal to\nA. $\\frac{1}{\\log_3 4}$\nB. $\\log_3 4$\nC. $\\frac{1}{\\log_3\\sqrt2}$\nD. $\\log_3\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] log2 9=1/log3 sqrt2 (C, key C). Stored value 3.17 is log2 9 itself, given in task and summary: typeable without solving."
   },
   {
    "task": "2",
@@ -35,7 +35,9 @@
    "summary_en": "Urns with balls, black ball drawn. $P$(from urn I)?",
    "statement_en": "Two urns with balls are given. The first urn contains $10$ balls: $8$ white and $2$ black; the second contains $8$ balls: $5$ white and $3$ black. Choosing each urn is equally likely. One urn is chosen at random and one ball is drawn from it at random. The drawn ball was black. The probability that the drawn ball came from the first urn is equal to\nA. $\\frac{2}{18}$\nB. $\\frac{15}{23}$\nC. $\\frac{8}{23}$\nD. $\\frac{5}{18}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +55,9 @@
    "summary_en": "Tangent to $f(x)=x^4-3x^3+x^2+x+5$ perp. to $y=\\frac12x+\\frac32$. Point (sum)",
    "statement_en": "The line given by the equation $y=\\frac12x+\\frac32$ is perpendicular to the tangent to the graph of the function $f(x)=x^4-3x^3+x^2+x+5$ at the point\nA. $(-1,6)$\nB. $(0,5)$\nC. $(1,5)$\nD. $(2,3)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +75,9 @@
    "summary_en": "Sums of geometric series ($q=\\pm\\frac{1}{\\sqrt3}$). Find $x-y$",
    "statement_en": "The number $x$ is the sum of all terms of an infinite geometric sequence with first term $1$ and ratio $\\frac{1}{\\sqrt3}$. The number $y$ is the sum of all terms of an infinite geometric sequence with first term $1$ and ratio $-\\frac{1}{\\sqrt3}$. It follows that the number $x-y$ is equal to\nA. $0$\nB. $\\sqrt3$\nC. $\\frac{2}{\\sqrt3-1}$\nD. $3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +95,9 @@
    "summary_en": "How many 10-digit numbers (no zeros) have digit sum $13$?",
    "statement_en": "Compute how many ten-digit numbers there are such that the sum of the digits in each of these numbers is $13$ and no digit is zero.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -117,8 +125,8 @@
   },
   {
    "task": "9",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "sum",
    "value": 360,
    "value_tex": "360",
@@ -131,7 +139,7 @@
    "summary_en": "Cyclic quadrilateral, $R=5\\sqrt2$, $BD=10$, product of angle sines $=\\frac38$. Angles (sum)",
    "statement_en": "Quadrilateral $ABCD$ is inscribed in a circle of radius $R=5\\sqrt2$. Diagonal $BD$ of this quadrilateral has length $10$. The interior angles $BAD$ and $ADC$ of quadrilateral $ABCD$ are acute, and the product of the sines of all its interior angles is equal to $\\frac38$. Find the measures of the interior angles of this quadrilateral.",
    "confidence": "high",
-   "notes": "Sum of the four angles always equals 360 by the quadrilateral angle-sum property"
+   "notes": "Sum of the four angles always equals 360 by the quadrilateral angle-sum property [full-verify] Angles 45,120,135,60 match key, but stored sum 360 is the quadrilateral angle sum: typeable without solving."
   },
   {
    "task": "10",
@@ -149,7 +157,9 @@
    "summary_en": "Remainders of $W(x)=x^4+bx^3+cx^2$ by $(x-2)$, $(x-3)$: $-8$, $-18$. Remainder by $(x-4)$?",
    "statement_en": "The remainders of dividing the polynomial $W(x)=x^4+bx^3+cx^2$ by the binomials $(x-2)$ and $(x-3)$ are equal to $(-8)$ and $(-18)$, respectively. Find the remainder of dividing polynomial $W$ by the binomial $(x-4)$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +177,9 @@
    "summary_en": "Regular triangular prism, edge $4$, height $6$. Sine of angle $AFB$?",
    "statement_en": "A regular triangular prism $ABCDEF$ is given. The base edge of this prism has length $4$, and the height of the prism is equal to $6$ [Figure: triangular prism with base ABC and top DEF directly above, respectively]. Find the sine of angle $AFB$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12",
@@ -185,7 +197,9 @@
    "summary_en": "Increasing arithmetic seq. $(a,b,c,d)$: $d^2=2(a^2+b^2+c^2)$, $(a+100,b,c)$ geometric. Terms (sum)",
    "statement_en": "A four-term sequence $(a, b, c, d)$ is increasing and arithmetic. The square of the largest term of this sequence is equal to twice the sum of the squares of the remaining terms of this sequence. Moreover, the sequence $(a+100, b, c)$ is geometric. Find the terms of the sequence $(a, b, c, d)$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -203,7 +217,9 @@
    "summary_en": "Parallelogram from lines $y=x+b$ etc., area $=1$. Find $b$ (sum)",
    "statement_en": "A parallelogram is given whose sides lie on the lines with equations $y=x+b$, $y=x+2b$, $y=b$, $y=2$, where the real number $b$ satisfies $b\\ne2$ and $b\\ne0$. Find all values of the parameter $b$ for which the area of this parallelogram is equal to $1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -225,11 +241,13 @@
    "topic_pl": "Optymalizacja z pochodną",
    "topic_en": "Optimization with derivatives",
    "difficulty": 5,
-   "summary_pl": "Trójkąty $ABC$, $A,B$ na $f(x)=9/x^4$, $C=(0,-1/3)$. Wierzch. i min. pole (suma)",
-   "summary_en": "Triangles $ABC$, $A,B$ on $f(x)=9/x^4$, $C=(0,-1/3)$. Vertices and min area (sum)",
+   "summary_pl": "$A,B$ na $y=9/x^4$, $C=(0,-1/3)$, min. pole. Suma wsp. $A,B$ i pola",
+   "summary_en": "$A,B$ on $y=9/x^4$, $C=(0,-1/3)$, min area. Sum coords of $A,B$ + area",
    "statement_en": "We consider all triangles $ABC$ whose vertices $A$ and $B$ lie on the graph of the function $f$ given by the formula $f(x)=\\frac{9}{x^4}$ for $x\\ne0$. Point $C$ has coordinates $(0,-\\frac13)$, and points $A$ and $B$ are positioned symmetrically with respect to the $Oy$ axis [Figure: two symmetric points A and B on the curve y=9/x^4 above the x-axis, and point C below the origin on the y-axis]. Find the coordinates of vertices $A$ and $B$ for which the area of triangle $ABC$ is smallest. Find this smallest area.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

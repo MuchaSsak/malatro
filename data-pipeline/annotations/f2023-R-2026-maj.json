@@ -10,14 +10,16 @@
    "value_tex": "\\frac13",
    "answer_tex": "\\frac13",
    "category": "ciagi",
-   "topic_pl": "Granica ciagu (symbol Newtona)",
+   "topic_pl": "Granica ciągu (symbol Newtona)",
    "topic_en": "Sequence limit (binomial coefficient)",
    "difficulty": 3,
    "summary_pl": "Oblicz granicę ciągu z symbolem Newtona",
    "summary_en": "Find the limit of a sequence with a binomial coefficient",
    "statement_en": "Calculate the limit $\\displaystyle\\lim_{n\\to+\\infty} \\frac{\\binom{n+2}{n-1}}{\\frac12 n^3 - 4n + 7}$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "\\frac{1}{28}",
    "answer_tex": "P(A)=\\frac{1}{28}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 4,
    "summary_pl": "P-stwo ciągu liczb z podzielnością iloczynów przez 3",
    "summary_en": "Probability that products of 3 consecutive draws divide by 3",
    "statement_en": "From the set of eight numbers $\\{1, 2, 3, 4, 5, 6, 7, 8\\}$ we draw, without replacement, one number at a time, eight times. The drawn numbers are arranged into a sequence according to the order of drawing. Calculate the probability of event $A$, that the drawn numbers form a sequence in which the product of every three consecutive terms is a number divisible by $3$. Give the result as an irreducible common fraction. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -70,14 +74,16 @@
    "value_tex": "-1026168",
    "answer_tex": "S=-1\\,026\\,168",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny i geometryczny",
+   "topic_pl": "Ciąg arytmetyczny i geometryczny",
    "topic_en": "Arithmetic and geometric sequence",
    "difficulty": 5,
    "summary_pl": "Ciąg arytm.: oblicz sumę wszystkich wyrazów",
    "summary_en": "Arithmetic sequence: find the sum of all terms",
    "statement_en": "A finite arithmetic sequence $(a_n)$ is given. The number of terms of this sequence is greater than $6$. The first term of this sequence equals $1$, and the last term equals $-2025$. The second, third and sixth terms of this sequence form -- in that order -- a geometric sequence. Calculate the sum of all terms of the sequence $(a_n)$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -96,14 +102,16 @@
    "value_tex": "3\\sqrt{6}+\\frac{5}{14}",
    "answer_tex": "a=3\\sqrt6,\\ \\cos\\beta=\\frac{5}{14}",
    "category": "stereometria",
-   "topic_pl": "Ostroslup prawidlowy trojkatny",
+   "topic_pl": "Ostrosłup prawidłowy trójkątny",
    "topic_en": "Regular triangular pyramid",
    "difficulty": 5,
    "summary_pl": "Ostrosłup trójkątny: krawędź $a$ i $\\cos\\beta$ (suma)",
    "summary_en": "Triangular pyramid: base edge $a$ and $\\cos\\beta$ (sum)",
    "statement_en": "In the regular triangular pyramid $ABCS$ the base $ABC$ is an equilateral triangle. The circumference of the circle circumscribed on the base $ABC$ equals $6\\sqrt2\\pi$, and the cosine of the angle between the lateral edges $SB$ and $SC$ equals $\\frac59$. Calculate the length of the base edge of $ABC$ and the cosine of the angle between the lateral faces $SAC$ and $SBC$ of this pyramid. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -130,14 +138,16 @@
    "value_tex": "11+30\\sqrt{3}",
    "answer_tex": "|BC|=5,\\ |CD|=6,\\ P=30\\sqrt3",
    "category": "planimetria",
-   "topic_pl": "Czworokat wpisany i opisany na okregu",
+   "topic_pl": "Czworokąt wpisany i opisany na okręgu",
    "topic_en": "Bicentric quadrilateral",
    "difficulty": 5,
-   "summary_pl": "Czworokat: dl. bokow $BC$, $CD$ i pole (suma)",
-   "summary_en": "Quadrilateral: sides $BC$, $CD$ and area (sum)",
+   "summary_pl": "Czworokąt: suma dł. $BC$, $CD$ i pola $ABCD$",
+   "summary_en": "Quadrilateral: sum of $|BC|$, $|CD|$ and the area of $ABCD$",
    "statement_en": "In quadrilateral $ABCD$ the following are given: $|AB| = 9$, $|AD| = 10$ and $|\\angle BAD| = 60°$. A circle is inscribed in this quadrilateral, and a circle is circumscribed on this quadrilateral (see figure). [Figure: quadrilateral $ABCD$ with $|AB|=9$, $|AD|=10$, angle $BAD=60°$ at vertex $A$, an incircle and a circumcircle both shown.] Calculate the lengths of sides $BC$ and $CD$, and the area of quadrilateral $ABCD$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12.1",
@@ -156,14 +166,16 @@
    "value_tex": "16\\sqrt{3}",
    "answer_tex": "x=4\\sqrt3,\\ P_{min}=12\\sqrt3",
    "category": "analiza",
-   "topic_pl": "Optymalizacja z pochodna",
+   "topic_pl": "Optymalizacja z pochodną",
    "topic_en": "Optimization with derivatives",
    "difficulty": 4,
    "summary_pl": "Kwietnik: $x$ dla min. pola i to pole (suma)",
    "summary_en": "Garden bed: $x$ for min area and that area (sum)",
-   "statement_en": "The area $P$ of the triangular garden bed with base length $x$ metres is given by the formula $P(x) = \\dfrac{2x^3}{x^2-16}$ for every $x \\in (4, 10]$. Determine the length $x$ of the base of the triangular garden bed for which the area of this garden bed is smallest. Calculate this smallest area. Show your working.",
+   "statement_en": "In a garden design, a flower bed is planned in the shape of an isosceles triangle whose base has length $x$ metres, not exceeding $10$ metres. On this flower bed there is to be a fountain in the shape of a circle of diameter $4$ metres, tangent to each side of the triangular flower bed (see figure). For this fixed size of the fountain, the designer wants the area of the flower bed to be as small as possible. The area $P$ of the triangular flower bed with base length $x$ metres is given by the formula $P(x) = \\dfrac{2x^3}{x^2-16}$ for every $x \\in (4, 10]$. Determine the length $x$ of the base of the triangular flower bed for which its area is smallest. Calculate this smallest area. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

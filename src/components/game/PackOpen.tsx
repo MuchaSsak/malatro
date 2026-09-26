@@ -73,7 +73,11 @@ function Choice({ choice }: { choice: PackChoice }) {
       <Tilt>{card}</Tilt>
       <div className="flex gap-2">
         <PixelButton tone="green" size="sm" disabled={isBlocked} onClick={() => engine.pickFromPack(choice.uid)}>
-          {choice.type === "consumable" && choice.item.kind === "twierdzenie" ? <Trans>Use</Trans> : <Trans>Take</Trans>}
+          {choice.type === "consumable" && choice.item.kind === "twierdzenie" ? (
+            <Trans>Use</Trans>
+          ) : (
+            <Trans>Take</Trans>
+          )}
         </PixelButton>
         {choice.type === "task" && (
           <PixelButton

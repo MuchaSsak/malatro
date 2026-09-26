@@ -17,7 +17,9 @@
    "summary_en": "Trip: $+5\\%$ then $-8\\%$ = 1449 PLN. Original price?",
    "statement_en": "A rise in the euro exchange rate caused the price of a foreign trip to increase by 5%. Since the new price was unattractive, it was decided to reduce it by 8%, setting a promotional price equal to 1449 PLN. Calculate the original price of the trip for one participant.",
    "confidence": "high",
-   "notes": "text/key not extracted by OCR (empty key field); verified against rendered key PDF pages 1-2 [verified: ok: x*1.05*0.92=1449 -> x=1449/0.966=1500 zl. Matches stored value.]"
+   "notes": "text/key not extracted by OCR (empty key field); verified against rendered key PDF pages 1-2 [verified: ok: x*1.05*0.92=1449 -> x=1449/0.966=1500 zl. Matches stored value.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Rectangle: $AB=2a$, $AD=a-2$, area $=a^2+12$. Find $a$",
    "statement_en": "A square with side length a is given. In rectangle ABCD, side AB is twice as long as the side of the square, and side AD is 2 cm shorter than the side of the square. The area of this rectangle is 12 cm^2 greater than the area of the square. Calculate the side length of the square.",
    "confidence": "high",
-   "notes": "verified via key PDF; negative root a=-2 rejected as not meeting the problem's conditions"
+   "notes": "verified via key PDF; negative root a=-2 rejected as not meeting the problem's conditions",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "2 semicircles r=60cm in a rectangle: shortest length (cm)?",
    "statement_en": "From a rectangle of width 60 cm, parts in the shape of a semicircle of radius 60 cm are cut out, as illustrated in a figure. Calculate the smallest length of the rectangle needed to cut out two such parts. Round the result to the nearest whole centimeter.",
    "confidence": "high",
-   "notes": "key gives exact length 60(2+sqrt3) cm, rounded to 224 cm"
+   "notes": "key gives exact length 60(2+sqrt3) cm, rounded to 224 cm",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Roots of $W(x)=-2x^4+5x^3+9x^2-15x-9$ (sum of roots)",
    "statement_en": "The polynomial $W(x)=-2x^4+5x^3+9x^2-15x-9$ is divisible by the binomial $(2x+1)$. Find the roots of this polynomial.",
    "confidence": "high",
-   "notes": "four roots -sqrt3,-1/2,sqrt3,3; the sqrt3 terms cancel in the sum, giving 5/2"
+   "notes": "four roots -sqrt3,-1/2,sqrt3,3; the sqrt3 terms cancel in the sum, giving 5/2",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Lines $2x-y-3=0$, $2x-3y-7=0$: distance from intersection to $(3,-8)$",
    "statement_en": "Lines with equations $2x-y-3=0$ and $2x-3y-7=0$ are given.\na) Mark in the coordinate system the angle described by the system of inequalities $\\{2x-y-3\\le0,\\ 2x-3y-7\\le0\\}$.\nb) Calculate the distance from the intersection point of these lines to the point $S=(3,-8)$.",
    "confidence": "high",
-   "notes": "part a) is a drawing/region task (excluded from value); value is part b)'s distance only"
+   "notes": "part a) is a drawing/region task (excluded from value); value is part b)'s distance only",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -107,7 +117,9 @@
    "summary_en": "Drawing a ball (numbers 10-50, repeated): P(even number)",
    "statement_en": "An urn contains balls with consecutive numbers 10, 11, 12, 13, ..., 50, where there are 10 balls numbered 10, 11 balls numbered 11, and so on up to 50 balls numbered 50. One ball is drawn from the urn. Calculate the probability of drawing a ball with an even number.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -125,7 +137,9 @@
    "summary_en": "Prism: base diagonal 8, $\\cos\\alpha=\\frac23$. Find $V$+total surface area",
    "statement_en": "In a regular quadrilateral prism, the diagonal of the base has length 8 cm and forms, with the diagonal of a lateral face with which it shares a vertex, an angle whose cosine equals $\\frac23$. Calculate the volume and the total surface area of this prism.",
    "confidence": "high",
-   "notes": "value is the sum of volume (64) and total surface area (32(2+sqrt2)); intermediate edge lengths a,b,c are not the requested final answer"
+   "notes": "value is the sum of volume (64) and total surface area (32(2+sqrt2)); intermediate edge lengths a,b,c are not the requested final answer",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -139,16 +153,18 @@
    "topic_pl": "Odczytywanie wykresu funkcji",
    "topic_en": "Reading a function graph",
    "difficulty": 3,
-   "summary_pl": "Z wykresu: (c) max na $[-5,5]$, (d) zera $g(x){=}f(x{-}1)$, (e) min $h{=}f{+}2$ (c+d+e)",
-   "summary_en": "From the graph: (c) max on $[-5,5]$, (d) zeros of $g(x)=f(x-1)$, (e) min of $h=f+2$ (c+d+e)",
+   "summary_pl": "Wykres $f$: max na $[-5,5]$ + suma zer $f(x-1)$ + min $f+2$",
+   "summary_en": "Graph of $f$: max on $[-5,5]$ + sum of zeros of $f(x-1)$ + min $f+2$",
    "statement_en": "A graph of function f, defined for $x\\in\\langle-6,6\\rangle$, is given [figure: piecewise graph of f]. Using the graph, write down:\na) the maximal intervals on which the function is increasing,\nb) the set of arguments for which the function takes positive values,\nc) the greatest value of function f on the interval $\\langle-5,5\\rangle$,\nd) the zeros of the function $g(x)=f(x-1)$,\ne) the smallest value of the function $h(x)=f(x)+2$.",
    "confidence": "high",
-   "notes": "parts a) and b) are intervals/sets (excluded); value sums the numeric parts c) 1, d) sum of 4 zeros = 4, e) -2, giving 3"
+   "notes": "parts a) and b) are intervals/sets (excluded); value sums the numeric parts c) 1, d) sum of 4 zeros = 4, e) -2, giving 3",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "9",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "sum",
    "value": 65.18,
    "value_tex": "65.18",
@@ -161,7 +177,7 @@
    "summary_en": "Class IA/IB test results: means, % above IB mean, IA median",
    "statement_en": "Computer science teachers, wanting to select the school team for a provincial IT competition, gave a test on the covered material to classes IA and IB. Each teacher prepared a summary of their students' results in a different form. Based on the results shown for both classes:\na) calculate the average test result for each class,\nb) calculate what percentage of class IB students scored higher than their class average,\nc) give the median of the results obtained in class IA.",
    "confidence": "high",
-   "notes": "value sums all four numeric results: mean IA (5.6), mean IB (6.08), percent (48), median IA (5.5)"
+   "notes": "value sums all four numeric results: mean IA (5.6), mean IB (6.08), percent (48), median IA (5.5) [full-verify] 5.6+6.08+48+5.5=65.18 matches key, but % inside a sum is ambiguous (48 vs 0.48 -> 17.66) and summary does not say it is a sum"
   },
   {
    "task": "10",
@@ -187,7 +203,9 @@
    "summary_en": "$f$ on $[-4,-2]$: half the square minus 8. Smallest value?",
    "statement_en": "Function f assigns to every real number x from the interval $\\langle-4,-2\\rangle$ half the square of that number decreased by 8.\na) Give the formula for this function.\nb) Determine the smallest value of function f on the given interval.",
    "confidence": "high",
-   "notes": "part a) is the symbolic formula f(x)=x^2/2-8 (excluded from value); value is part b)'s numeric minimum only"
+   "notes": "part a) is the symbolic formula f(x)=x^2/2-8 (excluded from value); value is part b)'s numeric minimum only",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

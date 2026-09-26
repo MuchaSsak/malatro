@@ -63,9 +63,11 @@
    "difficulty": 5,
    "summary_pl": "Tor regatowy: znajdź koniec K i jego maks. długość (x+y+|PK|)",
    "summary_en": "Regatta course: find endpoint K and its max length (x+y+|PK|)",
-   "statement_en": "On the outskirts of a city there is a lake on which a regatta course is to be built. Based on available maps, the shape of the lake's shoreline was modeled, at a certain scale, in a Cartesian coordinate system $(x,y)$ using fragments of the graphs of functions $f$ and $g$ [Figure: shaded shoreline region bounded above by $y=g(x)$ and below by $y=f(x)$, point $P$ marked on the boundary near their left intersection]. The functions $f$ and $g$ are given by $f(x)=\\frac{x^2}{2}$ and $g(x)=-\\frac12\\left(x-\\frac12\\right)^2+4$. The start of the course is located on the shore at the point corresponding to $P=(-1,1)$ in the coordinate system. The end of the regatta course must be placed on the shoreline. Calculate the coordinates of the point $K$ where the end of the course should be located so that the length of the course (i.e. the distance from the end $K$ of the course to the start $P$) is as large as possible. Calculate the length of the longest course. Show your working. Hint: you may use the fact that the distance from any point $R$ lying on the graph of $g$ to point $P$ is given by $|PR|=\\sqrt{\\frac14x^4-\\frac12x^3-\\frac{13}{8}x^2+\\frac{39}{8}x+\\frac{593}{64}}$, where $x$ is the first coordinate of point $R$.",
+   "statement_en": "On the outskirts of a city there is a lake on which a regatta course is to be built. Based on available maps, the shape of the lake's shoreline was modeled, at a certain scale, in a Cartesian coordinate system $(x,y)$ using fragments of the graphs of functions $f$ and $g$ [Figure: shaded shoreline region bounded above by $y=g(x)$ and below by $y=f(x)$, point $P$ marked on the boundary near their left intersection]. The functions $f$ and $g$ are given by $f(x)=x^2$ and $g(x)=-\\frac12\\left(x-\\frac12\\right)^2+4$. The start of the course is located on the shore at the point corresponding to $P=(-1,1)$ in the coordinate system. The end of the regatta course must be placed on the shoreline. Calculate the coordinates of the point $K$ where the end of the course should be located so that the length of the course (i.e. the distance from the end $K$ of the course to the start $P$) is as large as possible. Calculate the length of the longest course. Show your working. Hint: you may use the fact that the distance from any point $R$ lying on the graph of $g$ to point $P$ is given by $|PR|=\\sqrt{\\frac14x^4-\\frac12x^3-\\frac{13}{8}x^2+\\frac{39}{8}x+\\frac{593}{64}}$, where $x$ is the first coordinate of point $R$.",
    "confidence": "high",
-   "notes": "Verified independently: g(3/2)=7/2, |PK|=sqrt((3/2+1)^2+(7/2-1)^2)=5*sqrt(2)/2, matches key. Sum = x_K+y_K+|PK| = 3/2+7/2+5*sqrt(2)/2."
+   "notes": "Verified independently: g(3/2)=7/2, |PK|=sqrt((3/2+1)^2+(7/2-1)^2)=5*sqrt(2)/2, matches key. Sum = x_K+y_K+|PK| = 3/2+7/2+5*sqrt(2)/2.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "7",
@@ -83,7 +85,9 @@
    "summary_en": "Solve $\\sin(3x)=2\\sin x$ on $[0,\\pi]$ (sum of solutions)",
    "statement_en": "Solve the equation $\\sin(3x) = 2\\sin x$ in the set $[0,\\pi]$. Show your working.",
    "confidence": "high",
-   "notes": "Verified: reduces to sin x(1-4sin^2x)=0, giving x=0, pi/6, 5pi/6, pi in [0,pi]; sum=2pi, matches key."
+   "notes": "Verified: reduces to sin x(1-4sin^2x)=0, giving x=0, pi/6, 5pi/6, pi in [0,pi]; sum=2pi, matches key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -109,7 +113,9 @@
    "summary_en": "Find the tangency point of side $BC$ with the inscribed circle (x+y)",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, point $A=(9,12)$ is a vertex of triangle $ABC$. The line $k$ with equation $y=\\frac12x$ contains the bisector of angle $ABC$ of this triangle. The circle $\\mathcal{O}$ with equation $(x-8)^2+(y-4)^2=16$ is inscribed in this triangle. Calculate the coordinates of the point of tangency of the line passing through vertices $B$ and $C$ of this triangle with the circle $\\mathcal{O}$. Show your working.",
    "confidence": "high",
-   "notes": "Verified: line AB is y=(4/3)x (the other tangent candidate y=-12/5 x+168/5 is rejected as it would make angle ABS obtuse), so B=(0,0); circle centered (8,4) r=4 is tangent to the x-axis at (8,0), which is line BC. Sum=8+0=8, matches key."
+   "notes": "Verified: line AB is y=(4/3)x (the other tangent candidate y=-12/5 x+168/5 is rejected as it would make angle ABS obtuse), so B=(0,0); circle centered (8,4) r=4 is tangent to the x-axis at (8,0), which is line BC. Sum=8+0=8, matches key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -127,12 +133,14 @@
    "summary_en": "Pyramid: $V=\\sqrt{kP^3\\sin\\alpha\\cos2\\alpha}$. Find $k$",
    "statement_en": "A regular quadrilateral pyramid $ABCDS$ with base $ABCD$ has lateral surface area $P$. The angle between the altitudes of adjacent lateral faces drawn from vertex $S$ has measure $2\\alpha$. The volume of this pyramid equals $\\sqrt{k\\cdot P^3\\cdot\\sin\\alpha\\cdot\\cos(2\\alpha)}$, where $k$ is a constant numerical coefficient. Calculate the coefficient $k$. Show your working.",
    "confidence": "high",
-   "notes": "Verified using the key's substitution method (P=sqrt2, alpha=30 deg gives a=1, h=sqrt2/2, H=1/2, V=1/6, solving 1/6=sqrt(k)*sqrt2/2 gives k=sqrt2/36), matches key exactly."
+   "notes": "Verified using the key's substitution method (P=sqrt2, alpha=30 deg gives a=1, h=sqrt2/2, H=1/2, V=1/6, solving 1/6=sqrt(k)*sqrt2/2 gives k=sqrt2/36), matches key exactly.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 0.00011533591896295547,
    "value_tex": "\\frac{123841}{4^{15}}",
@@ -145,7 +153,9 @@
    "summary_en": "Exam: 15 questions, pass needs $\\ge11$ correct. Find $P$",
    "statement_en": "An exam consists of 15 closed-ended questions. Each question has four given answers, of which only one is correct. A student passes the exam if they give correct answers to at least 11 questions. A certain student came to the exam unprepared and in each question chose an answer at random. Assume that in each question every answer is equally likely to be chosen by the student. Calculate the probability of the event that this student passed the exam. Show your working.",
    "confidence": "high",
-   "notes": "Verified via Bernoulli scheme, p=0.25, q=0.75, n=15: sum_{k=11}^{15} C(15,k) p^k q^(15-k) = 123841/4^15 = 123841/1073741824, matches key (key's garbled '415' and '10243' denote 4^15 and 1024^3, both equal to 1073741824). [verified: ok: Bernoulli n=15 p=1/4, k>=11: exact 123841/4^15, matches key.]"
+   "notes": "Verified via Bernoulli scheme, p=0.25, q=0.75, n=15: sum_{k=11}^{15} C(15,k) p^k q^(15-k) = 123841/4^15 = 123841/1073741824, matches key (key's garbled '415' and '10243' denote 4^15 and 1024^3, both equal to 1073741824). [verified: ok: Bernoulli n=15 p=1/4, k>=11: exact 123841/4^15, matches key.] [full-verify] |value| within the 0.011 tolerance of 0",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

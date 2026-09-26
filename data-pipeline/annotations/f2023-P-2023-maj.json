@@ -25,7 +25,9 @@
    "summary_en": "Compute $\\sqrt[3]{-\\frac{27}{16}}\\cdot\\sqrt[3]{2}$",
    "statement_en": "Choose the correct answer from the options given. The number $\\sqrt[3]{-\\frac{27}{16}}\\cdot\\sqrt[3]{2}$ is equal to: A. $-\\frac{3}{2}$  B. $\\frac{3}{2}$  C. $\\frac{2}{3}$  D. $-\\frac{2}{3}$",
    "confidence": "high",
-   "notes": "Verified via image (garbled text); $\\sqrt[3]{-27/8}=-3/2$. [verified: ok: cbrt(-27/16*2)=cbrt(-27/8)=-3/2; crop is version A, key A: option A (-3/2).]"
+   "notes": "Verified via image (garbled text); $\\sqrt[3]{-27/8}=-3/2$. [verified: ok: cbrt(-27/16*2)=cbrt(-27/8)=-3/2; crop is version A, key A: option A (-3/2).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -51,7 +53,9 @@
    "summary_en": "Compute $\\log_9 27+\\log_9 3$",
    "statement_en": "Choose the correct answer from the options given. The number $\\log_9 27+\\log_9 3$ is equal to: A. 81  B. 9  C. 4  D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -81,11 +85,13 @@
    "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 2,
-   "summary_pl": "Rozwiąż $\\sqrt3(x^2-2)(x+3)=0$ (jedno rozw.)",
-   "summary_en": "Solve $\\sqrt3(x^2-2)(x+3)=0$ (one solution)",
+   "summary_pl": "Które z A–D jest rozwiązaniem $\\sqrt3(x^2-2)(x+3)=0$?",
+   "summary_en": "Which of A–D solves $\\sqrt3(x^2-2)(x+3)=0$?",
    "statement_en": "Choose the correct answer from the options given. One of the solutions of the equation $\\sqrt{3}(x^2-2)(x+3)=0$ is the number: A. 3  B. 2  C. $\\sqrt3$  D. $\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -97,8 +103,8 @@
   },
   {
    "task": "9",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "sum",
    "value": 0.6666666666666666,
    "value_tex": "\\frac{2}{3}",
@@ -111,7 +117,7 @@
    "summary_en": "Solve $3x^3-2x^2-12x+8=0$ (sum of solutions)",
    "statement_en": "Solve the equation $3x^3-2x^2-12x+8=0$. Show your working.",
    "confidence": "high",
-   "notes": "Roots -2, 2/3, 2 verified by substitution; sum = 2/3."
+   "notes": "Roots -2, 2/3, 2 verified by substitution; sum = 2/3. [full-verify] Roots -2, 2/3, 2 (key agrees), but sum = -b/a = 2/3 by Vieta: typable without solving. Exclude."
   },
   {
    "task": "10",
@@ -151,9 +157,11 @@
    "difficulty": 2,
    "summary_pl": "Wykres $f$: największa wartość na $[-4,1]$",
    "summary_en": "Graph of $f$: greatest value on $[-4,1]$",
-   "statement_en": "Choose the correct answer from the options given. [Figure: piecewise graph of f - a horizontal segment from (-6,2) filled to (-3,2) open; a rising segment reaching (1,1) filled; a segment from (1,5) open down to (5,3) filled.] The greatest value of the function f in the closed interval $[-4,1]$ is equal to: A. 0  B. 1  C. 2  D. 5",
+   "statement_en": "Choose the correct answer from the options given. [Figure: graph of f made of pieces: a horizontal segment from $(-6,2)$ (filled) to $(-3,2)$ (open); a rising segment from $(-3,-3)$ (filled) through $(0,0)$ to $(1,1)$ (filled); a horizontal segment from $(1,5)$ (open) to $(2,5)$, then a segment from $(2,5)$ down to $(5,3)$ (filled).] The greatest value of the function $f$ in the interval $[-4,1]$ is equal to: A. $0$  B. $1$  C. $2$  D. $5$",
    "confidence": "high",
-   "notes": "Verified against image; max on [-4,1] is the plateau value 2."
+   "notes": "Verified against image; max on [-4,1] is the plateau value 2.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12.3",
@@ -187,7 +195,9 @@
    "summary_en": "Zero $x=-5$, vertex $p=3$. Other zero?",
    "statement_en": "One of the zeros of a quadratic function f is the number -5. The first coordinate of the vertex of the parabola which is the graph of f is equal to 3. Choose the correct answer from the options given. The other zero of the function f is the number: A. 11  B. 1  C. -1  D. -13",
    "confidence": "high",
-   "notes": "By symmetry, other zero = 2*3-(-5)=11."
+   "notes": "By symmetry, other zero = 2*3-(-5)=11.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -205,7 +215,9 @@
    "summary_en": "Sequence $a_n=2^n(n+1)$. Find $a_4$",
    "statement_en": "The sequence $(a_n)$ is given by the formula $a_n=2^n\\cdot(n+1)$ for every natural number $n\\ge1$. Choose the correct answer from the options given. The term $a_4$ is equal to: A. 64  B. 40  C. 48  D. 80",
    "confidence": "high",
-   "notes": "a4 = 2^4*5 = 80."
+   "notes": "a4 = 2^4*5 = 80.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -223,7 +235,9 @@
    "summary_en": "Geometric sequence $(27,9,a-1)$. Find $a$",
    "statement_en": "The three-term sequence $(27, 9, a-1)$ is geometric. Choose the correct answer from the options given. The number a is equal to: A. 3  B. 0  C. 4  D. 2",
    "confidence": "high",
-   "notes": "ratio 1/3, next term 3 = a-1 so a=4."
+   "notes": "ratio 1/3, next term 3 = a-1 so a=4.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -241,7 +255,9 @@
    "summary_en": "Loan 8910 zl in 18 decreasing installments. 1st?",
    "statement_en": "Mr. Stanislaw repaid a loan of 8910 zl in eighteen installments. Each successive installment was 30 zl less than the previous one. Calculate the amount of the first installment. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -259,7 +275,9 @@
    "summary_en": "Angle $\\alpha$ through $P=(-3,1)$. Find $\\tan\\alpha$",
    "statement_en": "In the Cartesian coordinate system (x,y) an angle alpha with vertex at O=(0,0) is marked. One arm of this angle coincides with the positive half-axis Ox, and the other passes through the point P=(-3,1) [Figure: ray from O through P=(-3,1) above the x-axis, angle alpha marked at O]. Choose the correct answer from the options given. The tangent of angle alpha is equal to: A. $\\frac{1}{\\sqrt{10}}$  B. $-\\frac{3}{\\sqrt{10}}$  C. -3  D. $-\\frac{1}{3}$",
    "confidence": "high",
-   "notes": "tan = 1/(-3) = -1/3."
+   "notes": "tan = 1/(-3) = -1/3.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -285,7 +303,9 @@
    "summary_en": "Rhombus: side $6\\sqrt2$, angle $150°$. Diagonal product?",
    "statement_en": "In a rhombus with side length $6\\sqrt2$ the obtuse angle measures 150°. Choose the correct answer from the options given. The product of the lengths of the diagonals of this rhombus is equal to: A. 24  B. 72  C. 36  D. $36\\sqrt2$",
    "confidence": "high",
-   "notes": "Area = a^2*sin(150)=36 = d1*d2/2, so d1*d2=72."
+   "notes": "Area = a^2*sin(150)=36 = d1*d2/2, so d1*d2=72.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -303,7 +323,9 @@
    "summary_en": "Circle: angle $ACO=70°$. Find angle $ABC$",
    "statement_en": "Points A, B, C lie on a circle centered at O. Angle ACO measures 70 degrees [Figure: circle with center O; points A, B, C on the circle; segments OA, OC, AB, BC, AC drawn; angle ACO=70 degrees marked at C]. Choose the correct answer from the options given. The measure of the acute angle ABC is equal to: A. 10°  B. 20°  C. 35°  D. 40°",
    "confidence": "high",
-   "notes": "Triangle OAC isosceles (OA=OC): base angles 70 deg each, central angle AOC=40 deg, inscribed angle ABC = 20 deg."
+   "notes": "Triangle OAC isosceles (OA=OC): base angles 70 deg each, central angle AOC=40 deg, inscribed angle ABC = 20 deg.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "22",
@@ -321,7 +343,9 @@
    "summary_en": "Similar right triangles, $T_2$ hypotenuse 26. Area of $T_2$?",
    "statement_en": "Right triangles $T_1$ and $T_2$ are similar. The legs of triangle $T_1$ have lengths 5 and 12. The hypotenuse of triangle $T_2$ has length 26. Calculate the area of triangle $T_2$. Show your working.",
    "confidence": "high",
-   "notes": "Scale k=26/13=2, legs of T2: 10 and 24, area=120."
+   "notes": "Scale k=26/13=2, legs of T2: 10 and 24, area=120.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -339,7 +363,9 @@
    "summary_en": "Lines $k,l$: perpendicular? Point $P$ (sum of coords)",
    "statement_en": "In the Cartesian coordinate system (x,y) lines k and l are given by the equations $k: y=\\frac{2}{3}x$ and $l: y=-\\frac{3}{2}x+13$. Choose answer A or B, and answer 1, 2 or 3. Lines k and l: A. are perpendicular / B. are not perpendicular, and intersect at point P with coordinates: 1. $(-6,-4)$  2. $(6,4)$  3. $(-6,4)$",
    "confidence": "high",
-   "notes": "Slopes' product = -1 (perpendicular, A); intersection at (6,4), sum of coordinates = 10."
+   "notes": "Slopes' product = -1 (perpendicular, A); intersection at (6,4), sum of coordinates = 10.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -357,7 +383,9 @@
    "summary_en": "Line parallel to $k$ through $P=(3,5)$: $y=ax+b$ (a+b)",
    "statement_en": "In the Cartesian coordinate system (x,y) a line k is given by the equation $y=-\\frac{1}{3}x+2$. Choose the correct answer from the options given. The line with equation $y=ax+b$ is parallel to line k and passes through point $P=(3,5)$ when: A. $a=3$ and $b=4$  B. $a=-\\frac{1}{3}$ and $b=4$  C. $a=3$ and $b=-4$  D. $a=-\\frac{1}{3}$ and $b=6$",
    "confidence": "high",
-   "notes": "a=-1/3 (parallel), b solved from point: 5=-1+b, b=6; a+b=17/3."
+   "notes": "a=-1/3 (parallel), b solved from point: 5=-1+b, b=6; a+b=17/3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -375,7 +403,9 @@
    "summary_en": "Prism, base edge 15, $\\cos\\alpha=\\frac{\\sqrt2}{3}$. Diagonal?",
    "statement_en": "A regular quadrilateral prism has a base edge of length 15. The diagonal of the prism is inclined to the base plane at an angle alpha such that $\\cos\\alpha=\\frac{\\sqrt2}{3}$. Choose the correct answer from the options given. The length of the diagonal of this prism is equal to: A. $15\\sqrt2$  B. 45  C. $5\\sqrt2$  D. 10",
    "confidence": "high",
-   "notes": "Base diagonal 15*sqrt2; space diagonal = base diagonal / cos(alpha) = 45."
+   "notes": "Base diagonal 15*sqrt2; space diagonal = base diagonal / cos(alpha) = 45.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -389,11 +419,13 @@
    "topic_pl": "Ostrosłup prawidłowy",
    "topic_en": "Regular pyramid",
    "difficulty": 3,
-   "summary_pl": "Ostrosłup: wys. ściany bocznej $6$ pod $30°$. $V,P_c$?",
-   "summary_en": "Pyramid: lateral face height 6 at $30°$. $V$ and $P_c$?",
+   "summary_pl": "Ostrosłup: wys. ściany bocznej $6$ pod $30°$. Podaj $V+P_c$",
+   "summary_en": "Pyramid: lateral face height 6 at $30°$. Type $V+P_c$",
    "statement_en": "A regular quadrilateral pyramid is given. The height of a lateral face of this pyramid is inclined to the base plane at an angle of 30 degrees and has length 6 [Figure: pyramid with the slant height of a lateral face drawn, labeled 6, inclined at 30 degrees to the base plane]. Calculate the volume and the total surface area of this pyramid. Show your working.",
    "confidence": "high",
-   "notes": "V=108, Pc=108+72sqrt(3); sum of the two requested numeric results = 216+72sqrt(3)."
+   "notes": "V=108, Pc=108+72sqrt(3); sum of the two requested numeric results = 216+72sqrt(3).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -419,7 +451,9 @@
    "summary_en": "5-digit numbers using digits $0,5,7$ - how many?",
    "statement_en": "Choose the correct answer from the options given. The number of all five-digit natural numbers whose decimal representation uses only the digits 0, 5, 7 (e.g. 57075, 55555) is: A. $5^3$  B. $2\\cdot4^3$  C. $2\\cdot3^4$  D. $3^5$",
    "confidence": "high",
-   "notes": "First digit: 2 choices (5 or 7); remaining 4 digits: 3 choices each -> 2*3^4=162."
+   "notes": "First digit: 2 choices (5 or 7); remaining 4 digits: 3 choices each -> 2*3^4=162.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -437,7 +471,9 @@
    "summary_en": "Tomato prices: median and mean (sum)",
    "statement_en": "The diagram shows the prices of tomatoes in sixteen selected shops [Figure: bar chart of number of shops per price: 5.05 zl - 2 shops, 5.60 zl - 4 shops, 5.70 zl - 2 shops, 6.00 zl - 5 shops, 6.30 zl - 3 shops]. Complete the table; for each empty cell choose the correct answer from the options A-E. 29.1. The median price of a kilogram of tomatoes in these shops is equal to. 29.2. The mean price of a kilogram of tomatoes in these shops is equal to. A. 5.80 zl  B. 5.73 zl  C. 5.85 zl  D. 6.00 zl  E. 5.70 zl",
    "confidence": "high",
-   "notes": "Verified from chart: median=5.85 (avg of 8th,9th of 16 values), mean=92.80/16=5.80; sum=11.65."
+   "notes": "Verified from chart: median=5.85 (avg of 8th,9th of 16 values), mean=92.80/16=5.80; sum=11.65.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "30",
@@ -455,7 +491,9 @@
    "summary_en": "Draw 2 numbers from $\\{2,...,9\\}$: $P$(product div. by 15)",
    "statement_en": "From the set of eight numbers {2, 3, 4, 5, 6, 7, 8, 9} we draw, with replacement, two numbers one at a time. Calculate the probability of event A, that the product of the drawn numbers is divisible by 15. Show your working.",
    "confidence": "high",
-   "notes": "6 favorable ordered pairs out of 64; P=6/64=3/32."
+   "notes": "6 favorable ordered pairs out of 64; P=6/64=3/32.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31.1",
@@ -481,7 +519,9 @@
    "summary_en": "Clients $L(n)=-n^2+22n+279$. Day and count (sum)",
    "statement_en": "The owner of a pharmacy analyzed data on the number of customers served over 30 consecutive days. The number L of customers served on day n is described by the function $L(n)=-n^2+22n+279$, where n is a natural number with $n\\ge1$ and $n\\le30$. On which day of the analyzed period were the most customers served? Calculate the number of customers served that day. Show your working.",
    "confidence": "high",
-   "notes": "Vertex at n=11, L(11)=400; sum of the two requested numbers = 411."
+   "notes": "Vertex at n=11, L(11)=400; sum of the two requested numbers = 411.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

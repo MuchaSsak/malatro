@@ -17,7 +17,9 @@
    "summary_en": "Item with 7% VAT costs 34,347 PLN. Price with 23% VAT?",
    "statement_en": "The price of a certain item including 7% VAT equals 34,347 PLN. The price of the same item including 23% VAT will be equal to A. 37,236 PLN B. 39,842.52 PLN C. 39,483 PLN D. 42,246.81 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "2",
    "answer_tex": "x=2",
    "category": "liczby",
-   "topic_pl": "Wartosc bezwzgledna",
+   "topic_pl": "Wartość bezwzględna",
    "topic_en": "Absolute value",
    "difficulty": 1,
    "summary_pl": "Najmniejsza dodatnia liczba całk. spełniająca $|x+4{,}5|\\ge 6$",
    "summary_en": "Smallest positive integer satisfying $|x+4.5|\\ge 6$",
    "statement_en": "The smallest positive integer satisfying the inequality |x+4.5| >= 6 is A. x=1 B. x=2 C. x=3 D. x=6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -46,14 +50,16 @@
    "value_tex": "2^3",
    "answer_tex": "2^3",
    "category": "liczby",
-   "topic_pl": "Potegi o wykladniku wymiernym",
+   "topic_pl": "Potęgi o wykładniku wymiernym",
    "topic_en": "Rational exponents",
    "difficulty": 2,
    "summary_pl": "Oblicz $2^{4/3}\\cdot\\sqrt[3]{2^5}$",
    "summary_en": "Compute $2^{4/3}\\cdot\\sqrt[3]{2^5}$",
    "statement_en": "The number 2^(4/3) * cube_root(2^5) is equal to A. 2^(20/3) B. 2 C. 2^(4/5) D. 2^3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Compute $2\\log_5 10-\\log_5 4$",
    "statement_en": "The number 2 log_5(10) - log_5(4) is equal to A. 2 B. log_5(96) C. 2 log_5(6) D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -105,7 +113,8 @@
    "summary_en": "Solve $\\frac{2x-4}{3-x}=\\frac{4}{3}$",
    "statement_en": "The solution of the equation (2x-4)/(3-x) = 4/3 is the number A. x=0 B. x=12/5 C. x=2 D. x=25/11",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "crop_issue": "6x-12=12-4x, x=12/5 (B); key Wersja I B, value ok. Crop cuts off option denominators (12/5, 25/11)."
   },
   {
    "task": "8",
@@ -123,7 +132,9 @@
    "summary_en": "Zero of $f(x)=-\\frac{2}{3}x+4$",
    "statement_en": "The zero of the linear function given by the formula f(x) = -2/3 x + 4 is A. 0 B. 6 C. 4 D. -6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -141,7 +152,9 @@
    "summary_en": "$M=(\\frac12,3)$ on $f(x)=(3-2a)x+2$. Find $a$",
    "statement_en": "Point M = (1/2, 3) belongs to the graph of the linear function given by f(x) = (3-2a)x + 2. Then A. a=-1/2 B. a=2 C. a=1/2 D. a=-2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -152,14 +165,16 @@
    "value_tex": "-\\frac{2}{3}",
    "answer_tex": "a=-\\frac{2}{3}",
    "category": "funkcje",
-   "topic_pl": "Wspolczynnik kierunkowy",
+   "topic_pl": "Współczynnik kierunkowy",
    "topic_en": "Slope of a line",
    "difficulty": 1,
    "summary_pl": "Prosta przez $P=(2,5)$, $Q=(5,3)$. Oblicz współczynnik kier.",
    "summary_en": "Line through $P=(2,5)$, $Q=(5,3)$. Find the slope",
    "statement_en": "The figure shows part of a line with equation y = ax + b, passing through points P=(2,5) and Q=(5,3). The slope of this line equals A. -3/2 B. -2/3 C. -2/5 D. -3/5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "11",
@@ -170,14 +185,16 @@
    "value_tex": "81",
    "answer_tex": "n=81",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 1,
    "summary_pl": "Ciąg arytm.: $a_1=-4$, $r=2$. Którym wyrazem jest 156?",
    "summary_en": "Arithmetic seq.: $a_1=-4$, $r=2$. Which term equals 156?",
    "statement_en": "In the arithmetic sequence (a_n) defined for n>=1, we have a_1 = -4 and r = 2. The number 156 is which term of this sequence? A. 81 B. 80 C. 76 D. 77",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -195,7 +212,8 @@
    "summary_en": "Increasing geometric seq.: $a_4=3a_1$. Find the ratio",
    "statement_en": "In an increasing geometric sequence (a_n), defined for n>=1, the condition a_4 = 3a_1 holds. The ratio q of this sequence equals A. q=1/3 B. q=1/sqrt(3) C. q=cube_root(3) D. q=3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "crop_issue": "q^3=3 -> cbrt(3) (C); key I C. Value right, but crop cuts off bottom of options A and B (denominators not visible)"
   },
   {
    "task": "13",
@@ -221,7 +239,9 @@
    "summary_en": "$\\sin\\alpha=\\frac{2}{5}$, $\\alpha$ acute. Find $\\cos\\alpha$",
    "statement_en": "Angle alpha is acute and sin alpha = 2/5. Then cos alpha equals A. 5/2 B. sqrt(21)/4 C. 3/5 D. sqrt(21)/5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -232,14 +252,16 @@
    "value_tex": "15",
    "answer_tex": "15^\\circ",
    "category": "planimetria",
-   "topic_pl": "Katy w trojkacie",
+   "topic_pl": "Kąty w trójkącie",
    "topic_en": "Angles in a triangle",
    "difficulty": 3,
    "summary_pl": "Trójkąt ABC, $\\angle CAB=50°$, $BD$ dwusieczna, $BE$ wysokość. $\\angle EBD=?$",
    "summary_en": "Triangle ABC, $\\angle CAB=50°$, $BD$ bisector, $BE$ altitude. Find $\\angle EBD$",
    "statement_en": "In isosceles triangle ABC, |AC|=|BC| and angle CAB = 50 degrees. Segment BD is the bisector of angle ABC, and segment BE is the altitude from vertex B to side AC. The measure of angle EBD equals A. 10 degrees B. 12.5 degrees C. 13.5 degrees D. 15 degrees [Figure: triangle ABC with D and E marked on side AC]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -250,14 +272,16 @@
    "value_tex": "28",
    "answer_tex": "a=10,\\ b=18",
    "category": "planimetria",
-   "topic_pl": "Trojkaty podobne",
+   "topic_pl": "Trójkąty podobne",
    "topic_en": "Similar triangles",
    "difficulty": 2,
    "summary_pl": "Trójkąty podobne: boki $4,12,a$ i $6,b,15$. Oblicz $a+b$",
    "summary_en": "Similar triangles: sides $4,12,a$ and $6,b,15$. Find $a+b$",
-   "statement_en": "The triangles shown in the figure are similar. The smaller triangle has sides 4 and 12 adjacent to angle alpha, with side a opposite angle alpha (between alpha and beta); the larger triangle has side 6 adjacent to alpha, side b between alpha and beta, and side 15 adjacent to beta. Then A. a=13, b=17 B. a=10, b=18 C. a=9, b=19 D. a=11, b=13 (a + b)",
+   "statement_en": "The triangles shown in the figure are similar. In the smaller triangle the side between the angles $\\alpha$ and $\\beta$ has length $12$, the other side at angle $\\alpha$ has length $4$, and the other side at angle $\\beta$ has length $a$. In the larger triangle the side between the angles $\\alpha$ and $\\beta$ has length $b$, the other side at angle $\\alpha$ has length $6$, and the other side at angle $\\beta$ has length $15$. Then A. $a=13,\\ b=17$ B. $a=10,\\ b=18$ C. $a=9,\\ b=19$ D. $a=11,\\ b=13$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -268,14 +292,16 @@
    "value_tex": "-\\frac{1}{2}",
    "answer_tex": "m=-\\frac{1}{2}",
    "category": "analityczna",
-   "topic_pl": "Prostopadlosc prostych",
+   "topic_pl": "Prostopadłość prostych",
    "topic_en": "Perpendicular lines",
    "difficulty": 2,
    "summary_pl": "Proste $y=2mx-m^2-1$ i $y=4m^2x+m^2+1$ prostopadłe. Oblicz $m$",
    "summary_en": "Lines $y=2mx-m^2-1$ and $y=4m^2x+m^2+1$ perpendicular. Find $m$",
    "statement_en": "The lines with equations y = 2mx - m^2 - 1 and y = 4m^2 x + m^2 + 1 are perpendicular for A. m=-1/2 B. m=1/2 C. m=1 D. m=2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -294,14 +320,16 @@
    "value_tex": "5\\sqrt{2}",
    "answer_tex": "|PQ|=5\\sqrt{2}",
    "category": "analityczna",
-   "topic_pl": "Odleglosc punktow",
+   "topic_pl": "Odległość punktów",
    "topic_en": "Distance between points",
    "difficulty": 1,
    "summary_pl": "$P=(-2,-2)$, $Q=(3,3)$. Oblicz $|PQ|$",
    "summary_en": "$P=(-2,-2)$, $Q=(3,3)$. Find $|PQ|$",
    "statement_en": "Points P=(-2,-2) and Q=(3,3) are given. The distance from point P to point Q equals A. 1 B. 5 C. 5*sqrt(2) D. 2*sqrt(5)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -312,14 +340,16 @@
    "value_tex": "2",
    "answer_tex": "S=(0,2)",
    "category": "analityczna",
-   "topic_pl": "Srodek odcinka",
+   "topic_pl": "Środek odcinka",
    "topic_en": "Midpoint of a segment",
    "difficulty": 2,
    "summary_pl": "$K=(-4,4)$, $L$ na $Ox$, środek $S$ na $Oy$. Wyznacz $S$ (suma współrz.)",
    "summary_en": "$K=(-4,4)$, $L$ on $Ox$, midpoint $S$ on $Oy$. Find $S$ (sum of coords.)",
    "statement_en": "Point K=(-4,4) is an endpoint of segment KL, point L lies on the x-axis, and the midpoint S of this segment lies on the y-axis. It follows that A. S=(0,2) B. S=(-2,0) C. S=(4,0) D. S=(0,4)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -338,14 +368,16 @@
    "value_tex": "12",
    "answer_tex": "P=12",
    "category": "stereometria",
-   "topic_pl": "Szescian",
+   "topic_pl": "Sześcian",
    "topic_en": "Cube",
    "difficulty": 2,
    "summary_pl": "Przekątna ściany sześcianu $=2$. Oblicz pole całkowite",
    "summary_en": "Face diagonal of a cube $=2$. Find the total surface area",
    "statement_en": "The diagonal of a face of a cube has length 2. The total surface area of this cube is equal to A. 24 B. 12*sqrt(2) C. 12 D. 16*sqrt(2)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -356,14 +388,16 @@
    "value_tex": "5",
    "answer_tex": "h=5\\text{ cm}",
    "category": "stereometria",
-   "topic_pl": "Kula i stozek",
+   "topic_pl": "Kula i stożek",
    "topic_en": "Sphere and cone",
    "difficulty": 2,
    "summary_pl": "Kula $r=5$, stożek $R=10$, równe objętości. Oblicz wysokość stożka",
    "summary_en": "Sphere $r=5$, cone $R=10$, equal volumes. Find the cone's height",
    "statement_en": "A sphere with radius 5 cm and a cone with base radius 10 cm have equal volumes. The height of the cone equals A. 25/pi cm B. 10 cm C. 10/pi cm D. 5 cm",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -374,14 +408,16 @@
    "value_tex": "6",
    "answer_tex": "x=6",
    "category": "statystyka",
-   "topic_pl": "Srednia arytmetyczna",
+   "topic_pl": "Średnia arytmetyczna",
    "topic_en": "Arithmetic mean",
    "difficulty": 1,
    "summary_pl": "Średnie zestawów $2,4,7,8,9$ i $2,4,7,8,9,x$ równe. Oblicz $x$",
    "summary_en": "Means of $2,4,7,8,9$ and $2,4,7,8,9,x$ equal. Find $x$",
    "statement_en": "The arithmetic mean of the data set 2, 4, 7, 8, 9 is the same as the arithmetic mean of the data set 2, 4, 7, 8, 9, x. It follows that A. x=0 B. x=3 C. x=5 D. x=6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -399,7 +435,8 @@
    "summary_en": "Girls to boys ratio $4:5$. Find $P$(girl)",
    "statement_en": "In a certain class, the ratio of the number of girls to the number of boys is 4:5. One person is drawn at random from this class. The probability that this person is a girl equals A. 4/5 B. 4/9 C. 1/4 D. 1/9",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "crop_issue": "P=4/(4+5)=4/9 (B), key Wersja I B, value ok. Crop cuts off the bottom: option denominators invisible."
   },
   {
    "task": "26",
@@ -426,14 +463,16 @@
    "value_tex": "-1",
    "answer_tex": "x=-1 \\lor x=-\\frac{1}{2} \\lor x=\\frac{1}{2}",
    "category": "rownania",
-   "topic_pl": "Rownanie wielomianowe",
+   "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $4x^3+4x^2-x-1=0$ (suma rozwiązań)",
    "summary_en": "Solve $4x^3+4x^2-x-1=0$ (sum of solutions)",
    "statement_en": "Solve the equation 4x^3 + 4x^2 - x - 1 = 0.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -444,14 +483,16 @@
    "value_tex": "1",
    "answer_tex": "q=-3;\\ x=1,\\ x=3",
    "category": "funkcje",
-   "topic_pl": "Przeksztalcenia wykresu funkcji",
+   "topic_pl": "Przekształcenia wykresu funkcji",
    "topic_en": "Function graph transformations",
    "difficulty": 2,
-   "summary_pl": "$h(x)=f(x)+q$ na $[-3,5]$, $h(-1)=0$. Wyznacz $q$ i pozostałe miejsca zerowe (suma)",
-   "summary_en": "$h(x)=f(x)+q$ on $[-3,5]$, $h(-1)=0$. Find $q$ and the other zeros (sum)",
+   "summary_pl": "$h=f+q$, $h(-1)=0$. Podaj sumę $q$ i pozostałych miejsc zerowych $h$",
+   "summary_en": "$h=f+q$, $h(-1)=0$. Give the sum of $q$ and the other zeros of $h$",
    "statement_en": "The figure shows the graph of function f: a broken line through points (-3,1), (-1,3), (0,2), (2,4), (5,1). The function h is defined for x in [-3,5] by h(x) = f(x) + q, where q is a real number. It is known that one of the zeros of h is x0 = -1. a) Find q. b) Give all the other zeros of h.",
    "confidence": "high",
-   "notes": "Suma = q + pozostale miejsca zerowe = -3+1+3 = 1. [verified: ok: f(-1)=3 so q=-3; f(x)=3 also at x=1, x=3; key agrees. Sum q+1+3=1 per sum rule.]"
+   "notes": "Suma = q + pozostale miejsca zerowe = -3+1+3 = 1. [verified: ok: f(-1)=3 so q=-3; f(x)=3 also at x=1, x=3; key agrees. Sum q+1+3=1 per sum rule.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "30",
@@ -462,14 +503,16 @@
    "value_tex": "10970",
    "answer_tex": "10970",
    "category": "ciagi",
-   "topic_pl": "Suma ciagu arytmetycznego",
+   "topic_pl": "Suma ciągu arytmetycznego",
    "topic_en": "Sum of an arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $a_1=444$, $a_n=653$, $r=11$. Oblicz sumę wyrazów",
    "summary_en": "Arithmetic seq.: $a_1=444$, $a_n=653$, $r=11$. Find the sum of terms",
    "statement_en": "A finite sequence is given, in which the first term equals 444 and the last term equals 653. Each term of this sequence, starting from the second, is 11 greater than the immediately preceding term. Calculate the sum of all terms of this sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -484,18 +527,20 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "single",
-   "value": 687.0581866632579,
+   "value": 687.0580079512686,
    "value_tex": "144+384\\sqrt{2}",
    "answer_tex": "P_c=144+384\\sqrt{2}",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup prawidlowy",
+   "topic_pl": "Graniastosłup prawidłowy",
    "topic_en": "Regular prism",
    "difficulty": 3,
    "summary_pl": "Graniastosłup 4-kątny: $h=16$, $\\cos\\alpha=\\frac35$ (przekątna). Oblicz pole całkowite",
    "summary_en": "Regular 4-gonal prism: $h=16$, $\\cos\\alpha=\\frac35$ (diagonal angle). Find total surface area",
    "statement_en": "The height of a regular quadrilateral prism equals 16. The diagonal of the prism is inclined to the plane of its base at an angle whose cosine equals 3/5. Calculate the total surface area of this prism.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] a=6sqrt2, Pc=144+384sqrt2 (key PDF agrees) = 687.05801; stored float 687.05819 used a wrong sqrt2, corrected.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -506,14 +551,16 @@
    "value_tex": "\\frac{5}{23}",
    "answer_tex": "\\frac{5}{23}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Zasada wlaczen i wylaczen",
+   "topic_pl": "Zasada włączeń i wyłączeń",
    "topic_en": "Inclusion-exclusion principle",
    "difficulty": 3,
    "summary_pl": "115 osób, ulgowe 76, normalne 41, oba 27. Oblicz $P$(brak biletu)",
    "summary_en": "115 people, discounted 76, normal 41, both 27. Find $P$(no ticket)",
    "statement_en": "Among 115 people surveyed about purchases at a certain kiosk, 76 bought discounted tram tickets and 41 bought normal tram tickets; 27 of those surveyed bought both kinds of tickets. Calculate the probability that a randomly chosen person from those surveyed bought no ticket at all. Give the result as an irreducible fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",
@@ -524,14 +571,16 @@
    "value_tex": "50",
    "answer_tex": "t=50\\text{ min}",
    "category": "rownania",
-   "topic_pl": "Zadanie na predkosc",
+   "topic_pl": "Zadanie na prędkość",
    "topic_en": "Speed word problem",
    "difficulty": 4,
-   "summary_pl": "Borys start 10 min później, meta razem, prędkość $+4{,}5$ km/h. Oblicz czas Adama",
-   "summary_en": "Borys starts 10 min later, same finish time, speed +4.5 km/h. Find Adam's time",
+   "summary_pl": "15 km, Borys 10 min później, $v$ o 4,5 km/h większa. Czas Adama w min",
+   "summary_en": "15 km, Borys starts 10 min later, $v$ +4.5 km/h. Adam's time in min",
    "statement_en": "Cross-country skier Borys set off on a race course 10 minutes later than another competitor, Adam. Both competitors reached the finish line, after covering the 15-kilometer course, at the same time. It turned out that Borys's average speed over the whole course was 4.5 km/h greater than Adam's. Calculate the time in which Adam covered the whole course.",
    "confidence": "high",
-   "notes": "Rozwiazanie: t (czas Adama w h) spelnia 15/(t-1/6)-15/t=4.5, stad t=5/6 h = 50 min."
+   "notes": "Rozwiazanie: t (czas Adama w h) spelnia 15/(t-1/6)-15/t=4.5, stad t=5/6 h = 50 min.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

@@ -21,6 +21,8 @@ import sys
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from options import extract_options
+
 ROOT = Path(__file__).parent
 APP = ROOT.parent
 OUT = ROOT / "out"
@@ -145,6 +147,11 @@ def main():
             if "has_figure" in a:
                 # English sheet: show the original crop under the translation (else the client guesses)
                 records[-1]["fig"] = bool(a["has_figure"])
+            opts = extract_options(a.get("statement_en"), float(value), a.get("answer_kind") == "sum")
+            if opts:
+                # closed task: the answer panel offers A-D, each filling in its number
+                records[-1]["opts"] = opts
+                stats["with_options"] += 1
             if a.get("statement_en"):
                 statements[exam_id][key] = a["statement_en"].strip()
             stats["included"] += 1

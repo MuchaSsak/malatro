@@ -43,7 +43,9 @@
    "summary_en": "$\\cos\\alpha+\\sin\\alpha=\\frac43$. Find $|\\cos\\alpha-\\sin\\alpha|$",
    "statement_en": "The angle $\\alpha$ is such that $\\cos\\alpha + \\sin\\alpha = \\frac{4}{3}$. Compute the value of the expression $|\\cos\\alpha - \\sin\\alpha|$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +63,9 @@
    "summary_en": "$2x^2+(3-2m)x-m+1=0$: for which $m$ is $|x_1-x_2|=3$? (sum of solutions)",
    "statement_en": "Determine all values of the parameter m for which the equation $2x^2+(3-2m)x-m+1=0$ has two distinct roots $x_1, x_2$ such that $|x_1-x_2|=3$.",
    "confidence": "high",
-   "notes": "sum of the two valid m values: 7/2 + (-5/2) = 1 [verified: ok: Delta=(2m-1)^2, |x1-x2|=|2m-1|/2=3 -> m=7/2 or -5/2 (both != 1/2); sum 1 matches key.]"
+   "notes": "sum of the two valid m values: 7/2 + (-5/2) = 1 [verified: ok: Delta=(2m-1)^2, |x1-x2|=|2m-1|/2=3 -> m=7/2 or -5/2 (both != 1/2); sum 1 matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -79,7 +83,9 @@
    "summary_en": "Arithmetic seq.: $a_1=-2$, $r=3$. Largest $n$ with $a_1+...+a_n<2012$",
    "statement_en": "In the arithmetic sequence $(a_n)$, for $n \\ge 1$, $a_1=-2$ and the common difference $r=3$. Compute the largest n such that $a_1+a_2+\\dots+a_n < 2012$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -113,7 +119,9 @@
    "summary_en": "Quadrilateral $ABCD$: $AB=24,CD=15,AD=7$, right angles at A,C. Area and diagonals (sum)",
    "statement_en": "In quadrilateral ABCD, the side lengths are: |AB|=24, |CD|=15, |AD|=7. Moreover, angles DAB and BCD are right angles. Compute the area of this quadrilateral and the lengths of its diagonals.",
    "confidence": "high",
-   "notes": "sum = area(234) + diagonal BD(25) + diagonal AC(20)"
+   "notes": "sum = area(234) + diagonal BD(25) + diagonal AC(20)",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -131,7 +139,9 @@
    "summary_en": "How many 3-digit numbers are divisible by 6 or by 15?",
    "statement_en": "Compute how many three-digit natural numbers are divisible by 6 or divisible by 15.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -149,7 +159,9 @@
    "summary_en": "$A=(3,-2)$, $B=(11,4)$, line $y=8x+10$. Min $|AP|^2+|BP|^2$: point $P$ (sum of coords)",
    "statement_en": "On the plane, points A=(3,-2) and B=(11,4) are given. On the line with equation y=8x+10, find the point P for which the sum $|AP|^2+|BP|^2$ is the smallest.",
    "confidence": "high",
-   "notes": "sum = x_P + y_P = -1 + 2 = 1"
+   "notes": "sum = x_P + y_P = -1 + 2 = 1",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +179,9 @@
    "summary_en": "Pyramid ABCS: $AB=30$, $BC=AC=39$, slant height $=26$. Find the volume",
    "statement_en": "The base of pyramid ABCS is the isosceles triangle ABC, in which |AB|=30, |BC|=|AC|=39, and the foot of the pyramid's height lies within its base. Each slant height of a lateral face drawn from vertex S has length 26. Compute the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",

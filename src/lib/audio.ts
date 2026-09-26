@@ -46,8 +46,30 @@ export type SfxName = keyof typeof SFX;
  * stopped; advancing on the native `end` event is reliable.
  */
 const PLAYLISTS = {
-  main: ["hep-cats", "local-forecast-elevator", "cool-vibes", "groove-grove", "funkorama", "backbay-lounge"],
-  shop: ["chill-wave", "bossa-antigua", "lobby-time", "sidewalk-shade"],
+  main: [
+    "hep-cats",
+    "local-forecast-elevator",
+    "cool-vibes",
+    "groove-grove",
+    "funkorama",
+    "backbay-lounge",
+    "airport-lounge",
+    "sneaky-snitch",
+    "investigations",
+    "smooth-lovin",
+    "night-on-the-docks-sax",
+  ],
+  shop: [
+    "chill-wave",
+    "bossa-antigua",
+    "lobby-time",
+    "sidewalk-shade",
+    "casa-bossa-nova",
+    "easy-lemon",
+    "wallpaper",
+    "carefree",
+    "deliberate-thought",
+  ],
 } as const;
 export type MusicName = keyof typeof PLAYLISTS;
 

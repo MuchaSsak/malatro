@@ -17,12 +17,14 @@
    "summary_en": "Evaluate $x^2-6x+9$ for $x=\\sqrt{3}+3$",
    "statement_en": "The value of the expression $x^2-6x+9$ for $x=\\sqrt{3}+3$ is equal to\n\nA. $1$\nB. $3$\nC. $1+2\\sqrt{3}$\nD. $1-2\\sqrt{3}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 3743906242624487424,
    "value_tex": "2^{30}\\cdot3^{20}",
@@ -35,7 +37,7 @@
    "summary_en": "Simplify $\\dfrac{2^{50}\\cdot3^{40}}{36^{10}}$",
    "statement_en": "The number $\\dfrac{2^{50}\\cdot3^{40}}{36^{10}}$ is equal to\n\nA. $6^{70}$\nB. $6^{45}$\nC. $2^{30}\\cdot3^{20}$\nD. $2^{10}\\cdot3^{20}$",
    "confidence": "high",
-   "notes": "Correct option is an enormous exact integer (~3.744e18); value given as exact JS number though double precision beyond 2^53 rounds slightly."
+   "notes": "Correct option is an enormous exact integer (~3.744e18); value given as exact JS number though double precision beyond 2^53 rounds slightly. [full-verify] Answer 2^30*3^20 (C, key X: C) is a 19-digit integer beyond 2^53: not typeable, stored float loses precision."
   },
   {
    "task": "3",
@@ -53,7 +55,9 @@
    "summary_en": "Compute $\\log_5\\sqrt{125}$",
    "statement_en": "The number $\\log_5\\sqrt{125}$ is equal to\n\nA. $\\frac{2}{3}$\nB. $2$\nC. $3$\nD. $\\frac{3}{2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +75,9 @@
    "summary_en": "By what percent raise a price previously cut by 20%?",
    "statement_en": "The price $x$ of a certain good was reduced by 20%, giving price $y$. To restore price $x$, the new price $y$ must be raised by\n\nA. $25\\%$\nB. $20\\%$\nC. $15\\%$\nD. $12\\%$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -97,7 +103,9 @@
    "summary_en": "Solve $x(x-3)(x+2)=0$ (sum of solutions)",
    "statement_en": "The sum of all solutions of the equation $x(x-3)(x+2)=0$ is equal to\n\nA. $0$\nB. $1$\nC. $2$\nD. $3$",
    "confidence": "high",
-   "notes": "Roots 0, 3, -2 sum to 1."
+   "notes": "Roots 0, 3, -2 sum to 1.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -113,9 +121,11 @@
    "difficulty": 2,
    "summary_pl": "Parabola $f$, wierzchołek $(2,1)$, zera $1,3$: $a=?$",
    "summary_en": "Parabola $f$, vertex $(2,1)$, zeros $1,3$: find $a$",
-   "statement_en": "[Figure: graph of quadratic function f, a parabola with x-intercepts at 1 and 3 and vertex W=(2,1); the crop of this task is missing the shared graph shown above tasks 7-9, so f(x)=a(x-1)(x-3) and the vertex ordinate were reconstructed from a verified external solution] The coefficient $a$ in the formula of function $f$ is equal to\n\nA. $1$\nB. $2$\nC. $-2$\nD. $-1$",
+   "statement_en": "Information for tasks 7-9. The quadratic function $f$ is given by $f(x)=a(x-1)(x-3)$. The figure shows a fragment of the parabola that is the graph of this function. The vertex of this parabola is the point $W=(2,1)$.\n\nThe coefficient $a$ in the formula of function $f$ is equal to\n\nA. $1$\nB. $2$\nC. $-2$\nD. $-1$",
    "confidence": "high",
-   "notes": " [verified: ok: f(2)=a(1)(-1)=-a=1 -> a=-1, option D, key D (Wersja X).]"
+   "notes": " [verified: ok: f(2)=a(1)(-1)=-a=1 -> a=-1, option D, key D (Wersja X).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -129,11 +139,13 @@
    "topic_pl": "Funkcja kwadratowa",
    "topic_en": "Quadratic function",
    "difficulty": 2,
-   "summary_pl": "Największa wartość $f$ na $[1,4]$ (parabola z zad. 7)",
-   "summary_en": "Max value of $f$ on $[1,4]$ (parabola from task 7)",
-   "statement_en": "[Figure: same parabola as task 7, f(x)=-(x-1)(x-3), vertex (2,1); figure missing from crop, reconstructed] The largest value of function $f$ on the interval $\\langle1,4\\rangle$ is equal to\n\nA. $-3$\nB. $0$\nC. $1$\nD. $2$",
+   "summary_pl": "$f(x)=a(x-1)(x-3)$, wierzchołek $(2,1)$. Maks. $f$ na $[1,4]$",
+   "summary_en": "$f(x)=a(x-1)(x-3)$, vertex $(2,1)$. Max of $f$ on $[1,4]$",
+   "statement_en": "Information for tasks 7-9. The quadratic function $f$ is given by $f(x)=a(x-1)(x-3)$. The figure shows a fragment of the parabola that is the graph of this function. The vertex of this parabola is the point $W=(2,1)$.\n\nThe largest value of function $f$ on the interval $\\langle1,4\\rangle$ is equal to\n\nA. $-3$\nB. $0$\nC. $1$\nD. $2$",
    "confidence": "high",
-   "notes": " [verified: ok: Downward parabola, vertex x=2 in <1,4>, so max = f(2)=1, option C, key C (Wersja X).]"
+   "notes": " [verified: ok: Downward parabola, vertex x=2 in <1,4>, so max = f(2)=1, option C, key C (Wersja X).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -147,11 +159,13 @@
    "topic_pl": "Funkcja kwadratowa",
    "topic_en": "Quadratic function",
    "difficulty": 2,
-   "summary_pl": "Oś symetrii paraboli $f$ (jak w zad. 7)",
-   "summary_en": "Axis of symmetry of parabola $f$ (as in task 7)",
-   "statement_en": "[Figure: same parabola as task 7, vertex (2,1); figure missing from crop, reconstructed] The axis of symmetry of the parabola which is the graph of function $f$ is the line with equation\n\nA. $x=1$\nB. $x=2$\nC. $y=1$\nD. $y=2$",
+   "summary_pl": "$f(x)=a(x-1)(x-3)$, wierzch. $(2,1)$. Oś symetrii $x=?$",
+   "summary_en": "$f(x)=a(x-1)(x-3)$, vertex $(2,1)$. Symmetry axis $x=?$",
+   "statement_en": "Information for tasks 7-9. The quadratic function $f$ is given by $f(x)=a(x-1)(x-3)$. The figure shows a fragment of the parabola that is the graph of this function. The vertex of this parabola is the point $W=(2,1)$.\n\nThe axis of symmetry of the parabola which is the graph of function $f$ is the line with equation\n\nA. $x=1$\nB. $x=2$\nC. $y=1$\nD. $y=2$",
    "confidence": "high",
-   "notes": " [verified: ok: Vertex (2,1) -> axis x=2, option B, key B (Wersja X).]"
+   "notes": " [verified: ok: Vertex (2,1) -> axis x=2, option B, key B (Wersja X).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -165,11 +179,13 @@
    "topic_pl": "Równania",
    "topic_en": "Equations",
    "difficulty": 1,
-   "summary_pl": "Rozwiąż $x(x-2)=(x-2)^2$: opisz zbiór rozwiązań",
-   "summary_en": "Solve $x(x-2)=(x-2)^2$: describe solution set",
+   "summary_pl": "Rozwiąż równanie $x(x-2)=(x-2)^2$. Podaj rozwiązanie $x$",
+   "summary_en": "Solve $x(x-2)=(x-2)^2$. Give the solution $x$",
    "statement_en": "The equation $x(x-2)=(x-2)^2$ in the set of real numbers\n\nA. has no solutions.\nB. has exactly one solution: $x=2$.\nC. has exactly one solution: $x=0$.\nD. has two different solutions: $x=1$ and $x=2$.",
    "confidence": "high",
-   "notes": "Equation simplifies to 2(x-2)=0, so x=2 is the only solution."
+   "notes": "Equation simplifies to 2(x-2)=0, so x=2 is the only solution.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -195,7 +211,9 @@
    "summary_en": "$f(x)=4^{-x}+1$. Find $f(1/2)$",
    "statement_en": "Function $f$ is defined by the formula $f(x)=4^{-x}+1$ for every real number $x$. The number $f\\left(\\frac12\\right)$ is equal to\n\nA. $\\frac12$\nB. $\\frac32$\nC. $3$\nD. $17$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -213,7 +231,9 @@
    "summary_en": "Lines $y=(m-2)x$, $y=\\frac34x+7$ parallel: find $m$",
    "statement_en": "The lines with equations $y=(m-2)x$ and $y=\\frac34x+7$ are parallel. Then\n\nA. $m=-\\frac54$\nB. $m=\\frac23$\nC. $m=\\frac{11}{4}$\nD. $m=\\frac{10}{3}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -231,7 +251,9 @@
    "summary_en": "Sequence $a_n=2n^2$. Find $a_5-a_4$",
    "statement_en": "The sequence $(a_n)$ is defined by the formula $a_n=2n^2$ for $n\\ge1$. The difference $a_5-a_4$ is equal to\n\nA. $4$\nB. $20$\nC. $36$\nD. $18$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -249,7 +271,9 @@
    "summary_en": "Arithmetic seq.: $a_4=3$, $r=5$. Find $a_1{+}a_2{+}a_3{+}a_4$",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for $n\\ge1$, the fourth term equals $3$, and the common difference of this sequence equals $5$. The sum $a_1+a_2+a_3+a_4$ is equal to\n\nA. $-42$\nB. $-36$\nC. $-18$\nD. $6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -267,7 +291,9 @@
    "summary_en": "Point $(1/3,-1)$ on $f(x)=3x+b$. Find $b$",
    "statement_en": "Point $A=\\left(\\frac13,-1\\right)$ belongs to the graph of linear function $f$ defined by the formula $f(x)=3x+b$. It follows that\n\nA. $b=2$\nB. $b=1$\nC. $b=-1$\nD. $b=-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -283,9 +309,11 @@
    "difficulty": 3,
    "summary_pl": "Kąt środkowy $DOC=118°$. Oblicz kąt wpisany $ABC$",
    "summary_en": "Central angle $DOC=118°$. Find inscribed angle $ABC$",
-   "statement_en": "Points $A$, $B$, $C$, $D$ lie on a circle centered at $O$; $BC$ and $AD$ are diameters crossing at $O$. The central angle $DOC$ has measure $118°$ (see figure). The measure of angle $ABC$ is equal to\n\nA. $59°$\nB. $48°$\nC. $62°$\nD. $31°$",
+   "statement_en": "Points $A$, $B$, $C$, $D$ lie on a circle with center at point $O$. The central angle $DOC$ has measure $118^\\circ$ (see figure).\n\nThe measure of angle $ABC$ is equal to\n\nA. $59^\\circ$\nB. $48^\\circ$\nC. $62^\\circ$\nD. $31^\\circ$",
    "confidence": "high",
-   "notes": "BC and AD are diameters; angle AOC=180-118=62 deg is the central angle for arc AC not containing B, so inscribed angle ABC = 31 deg."
+   "notes": "BC and AD are diameters; angle AOC=180-118=62 deg is the central angle for arc AC not containing B, so inscribed angle ABC = 31 deg.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -315,11 +343,13 @@
    "topic_pl": "Odległość punktów",
    "topic_en": "Distance between points",
    "difficulty": 2,
-   "summary_pl": "$B$ obraz $A=(-3,5)$ w symetrii środk. Oblicz $|AB|$",
-   "summary_en": "$B$ is the image of $A=(-3,5)$ under point symmetry. Find $|AB|$",
+   "summary_pl": "$B$ – obraz $A=(-3,5)$ w symetrii wzgl. $(0,0)$. Oblicz $|AB|$",
+   "summary_en": "$B$ is the image of $A=(-3,5)$ in symmetry about $(0,0)$. Find $|AB|$",
    "statement_en": "Point $B$ is the image of point $A=(-3,5)$ under symmetry about the origin of the coordinate system. The length of segment $AB$ is equal to\n\nA. $2\\sqrt{34}$\nB. $8$\nC. $\\sqrt{34}$\nD. $12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -337,7 +367,9 @@
    "summary_en": "How many 2-digit numbers from digits $1,3,5,7,9$, no repeats?",
    "statement_en": "How many two-digit natural numbers can be formed from the digits $1,3,5,7,9$, in which digits do not repeat?\n\nA. $10$\nB. $15$\nC. $20$\nD. $25$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -355,7 +387,9 @@
    "summary_en": "Rectangle area $90$, $AP{:}PB=CR{:}RD=3{:}2$. Area of $APCR$?",
    "statement_en": "The area of rectangle $ABCD$ is equal to $90$. On sides $AB$ and $CD$, points $P$ and $R$ respectively were chosen such that $\\frac{|AP|}{|PB|}=\\frac{|CR|}{|RD|}=\\frac32$ (see figure). The area of quadrilateral $APCR$ is equal to\n\nA. $36$\nB. $40$\nC. $54$\nD. $60$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -373,7 +407,9 @@
    "summary_en": "Median of $\\{2,3,a,8\\}$ = median of $\\{5,3,6,8,2\\}$. Find $a$",
    "statement_en": "Four numbers: $2,3,a,8$, forming a data set, are arranged in increasing order. The median of this four-element data set equals the median of the five-element data set: $5,3,6,8,2$. Then\n\nA. $a=7$\nB. $a=6$\nC. $a=5$\nD. $a=4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -391,7 +427,9 @@
    "summary_en": "Cube diagonal $4\\sqrt3$. Find surface area",
    "statement_en": "The diagonal of a cube has length $4\\sqrt3$. The surface area of this cube is equal to\n\nA. $96$\nB. $24\\sqrt3$\nC. $192$\nD. $16\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -409,7 +447,9 @@
    "summary_en": "Two cones, height ratio $3{:}2$, smaller $V=12$. Find total $V$",
    "statement_en": "Two cones with equal bases were joined at their bases as shown in the figure. The ratio of the heights of these cones is $3:2$. The volume of the cone with the shorter height is equal to $12\\text{ cm}^3$. The volume of the solid formed by the joined cones is equal to\n\nA. $20\\text{ cm}^3$\nB. $30\\text{ cm}^3$\nC. $39\\text{ cm}^3$\nD. $52.5\\text{ cm}^3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -435,7 +475,9 @@
    "summary_en": "Solve $(x^2-1)(x^2-2x)=0$ (sum of solutions)",
    "statement_en": "Solve the equation $(x^2-1)(x^2-2x)=0$.",
    "confidence": "high",
-   "notes": "Roots: -1, 1 (from x^2-1=0) and 0, 2 (from x^2-2x=0); sum = -1+1+0+2 = 2."
+   "notes": "Roots: -1, 1 (from x^2-1=0) and 0, 2 (from x^2-2x=0); sum = -1+1+0+2 = 2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -469,7 +511,9 @@
    "summary_en": "Roll 2 dice. Find $P(\\text{at least one 5})$",
    "statement_en": "A symmetric six-sided die, whose faces each show a different number of pips from one to six, is rolled twice. Calculate the probability of event $A$: at least one roll shows the face with five pips.",
    "confidence": "high",
-   "notes": "P(A) = 1-(5/6)^2 = 11/36, matches key exactly."
+   "notes": "P(A) = 1-(5/6)^2 = 11/36, matches key exactly.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -487,7 +531,9 @@
    "summary_en": "Acute $\\alpha$: $\\frac{2\\sin\\alpha+3\\cos\\alpha}{\\cos\\alpha}=4$. Find $\\tan\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and satisfies the condition $\\dfrac{2\\sin\\alpha+3\\cos\\alpha}{\\cos\\alpha}=4$. Calculate the tangent of angle $\\alpha$.",
    "confidence": "high",
-   "notes": "Dividing gives 2 tan alpha + 3 = 4, so tan alpha = 1/2."
+   "notes": "Dividing gives 2 tan alpha + 3 = 4, so tan alpha = 1/2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -501,11 +547,13 @@
    "topic_pl": "Kwadrat w układzie współrzędnych",
    "topic_en": "Square in coordinate plane",
    "difficulty": 4,
-   "summary_pl": "Kwadrat, $A=(5,-\\frac53)$, $BD$: $y=\\frac43x$. Środek i pole (suma)",
-   "summary_en": "Square, $A=(5,-\\frac53)$, $BD$: $y=\\frac43x$. Center & area (sum)",
+   "summary_pl": "Kwadrat, $A=(5,-\\frac53)$, $BD$: $y=\\frac43x$. Wsp. środka + pole",
+   "summary_en": "Square, $A=(5,-\\frac53)$, $BD$: $y=\\frac43x$. Center coords + area",
    "statement_en": "Square $ABCD$ is given, in which $A=\\left(5,-\\frac53\\right)$. Diagonal $BD$ of this square is contained in the line with equation $y=\\frac43x$. Calculate the coordinates of the intersection point of diagonals $AC$ and $BD$, and the area of square $ABCD$. (sum of the intersection point's coordinates and the area)",
    "confidence": "high",
-   "notes": "Intersection point O=(1,4/3), area=50 (verified against official key exactly). Value = 1+4/3+50 = 157/3."
+   "notes": "Intersection point O=(1,4/3), area=50 (verified against official key exactly). Value = 1+4/3+50 = 157/3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -523,7 +571,9 @@
    "summary_en": "Positive geom. seq.: $6a_1-5a_2+a_3=0$. Find $q\\in[2\\sqrt2,3\\sqrt2]$",
    "statement_en": "All terms of geometric sequence $(a_n)$, defined for $n\\ge1$, are positive. The terms of this sequence satisfy the condition $6a_1-5a_2+a_3=0$. Calculate the ratio $q$ of this sequence belonging to the interval $\\langle2\\sqrt2,3\\sqrt2\\rangle$.",
    "confidence": "high",
-   "notes": "q^2-5q+6=0 gives q=2 or q=3; only q=3 lies in [2sqrt2,3sqrt2]≈[2.83,4.24]. [verified: ok: q^2-5q+6=0 gives q=2 or q=3; only q=3 lies in <2sqrt2,3sqrt2> (2.83..4.24). Matches key.]"
+   "notes": "q^2-5q+6=0 gives q=2 or q=3; only q=3 lies in [2sqrt2,3sqrt2]≈[2.83,4.24]. [verified: ok: q^2-5q+6=0 gives q=2 or q=3; only q=3 lies in <2sqrt2,3sqrt2> (2.83..4.24). Matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -541,7 +591,9 @@
    "summary_en": "Pyramid, lateral edge $6$, $\\tan\\alpha=\\sqrt7$. Find volume",
    "statement_en": "A right square pyramid $ABCDS$ is given, whose lateral edge has length $6$ (see figure). A lateral face of this pyramid is inclined to the plane of the base at an angle whose tangent is $\\sqrt7$. Calculate the volume of this pyramid.",
    "confidence": "high",
-   "notes": "Base edge a=4, height h=2sqrt7, V=(1/3)*16*2sqrt7=32sqrt7/3; matches official key exactly."
+   "notes": "Base edge a=4, height h=2sqrt7, V=(1/3)*16*2sqrt7=32sqrt7/3; matches official key exactly.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

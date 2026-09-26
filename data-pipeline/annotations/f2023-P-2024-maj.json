@@ -25,7 +25,9 @@
    "summary_en": "Compute $(\\frac{1}{16})^8\\cdot 8^{16}$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number (1/16)^8 * 8^16 is equal to A. 2^24 B. 2^16 C. 2^12 D. 2^8",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -51,7 +53,9 @@
    "summary_en": "Compute $\\log_{\\sqrt3}9$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number log base sqrt(3) of 9 is equal to A. 2 B. 3 C. 4 D. 9",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -82,10 +86,12 @@
    "topic_en": "Rational equation",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $\\frac{x+1}{(x+2)(x-3)}=0$",
-   "summary_en": "Solve $\frac{x+1}{(x+2)(x-3)}=0$",
+   "summary_en": "Solve $\\frac{x+1}{(x+2)(x-3)}=0$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The equation (x+1)/((x+2)(x-3)) = 0 in the set of real numbers A. has no solution. B. has exactly one solution: -1. C. has exactly two solutions: -2 and 3. D. has exactly three solutions: -1, -2 and 3.",
    "confidence": "high",
-   "notes": "Poprawna odpowiedz B podaje wprost jedyne rozwiazanie liczbowe x=-1"
+   "notes": "Poprawna odpowiedz B podaje wprost jedyne rozwiazanie liczbowe x=-1",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -111,7 +117,9 @@
    "summary_en": "Solve $x^3-2x^2-3x+6=0$ (sum of solutions)",
    "statement_en": "Solve the equation x^3 - 2x^2 - 3x + 6 = 0. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -153,7 +161,9 @@
    "summary_en": "$f(x)=3x+6$, $g(x)=ax+7$ share a zero. Find $a$",
    "statement_en": "Linear functions f and g, given by the formulas f(x)=3x+6 and g(x)=ax+7, have the same zero. Complete the sentence. Choose the correct answer from the options given. The coefficient a in the formula of function g is equal to A. -7/2 B. -2/7 C. 2/7 D. 7/2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14.1",
@@ -211,7 +221,9 @@
    "summary_en": "Geometric seq. $(12,6,2m-1)$: increasing/decreasing, $m=?$",
    "statement_en": "The three-term sequence (12, 6, 2m-1) is geometric. Complete the sentence. Choose answer A or B, and answer 1, 2 or 3. This sequence is [A. increasing / B. decreasing] and [1. m=1/2 / 2. m=2 / 3. m=3].",
    "confidence": "high",
-   "notes": "Format laczy wybor jakosciowy (malejacy, nieliczbowy) z liczbowym (m=2); jako value przyjeto tylko czesc liczbowa m=2 [verified: ok: q=1/2, third term 3=2m-1 so m=2, decreasing; key B2. Only numeric part m=2 is a number, unambiguous.]"
+   "notes": "Format laczy wybor jakosciowy (malejacy, nieliczbowy) z liczbowym (m=2); jako value przyjeto tylko czesc liczbowa m=2 [verified: ok: q=1/2, third term 3=2m-1 so m=2, decreasing; key B2. Only numeric part m=2 is a number, unambiguous.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -229,7 +241,9 @@
    "summary_en": "Arithmetic seq.: $a_3=-1$, $S_{15}=-165$. Find $r$",
    "statement_en": "An arithmetic sequence (a_n) is defined for every natural number n>=1. The third term of this sequence is equal to -1, and the sum of the first fifteen consecutive terms of this sequence is equal to -165. Calculate the common difference of this sequence. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -255,7 +269,9 @@
    "summary_en": "Simplify $\\sin^3 20°+\\cos^2 20°\\cdot\\sin 20°$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number sin^3(20 degrees) + cos^2(20 degrees) * sin(20 degrees) is equal to A. cos20 degrees B. sin20 degrees C. tan20 degrees D. sin20 degrees * cos20 degrees",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -281,7 +297,9 @@
    "summary_en": "Parallelogram: sides $3,4$, angle $120°$. Find area",
    "statement_en": "A parallelogram with sides of length 3 and 4 and the angle between them equal to 120 degrees is given. Complete the sentence. Choose the correct answer from the options given. The area of this parallelogram is equal to A. 12 B. 12*sqrt(3) C. 6 D. 6*sqrt(3)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -297,9 +315,11 @@
    "difficulty": 2,
    "summary_pl": "Trójkąt wpisany w okrąg, $\\angle ACB=42°$. Oblicz $\\angle BAS$",
    "summary_en": "Triangle inscribed in circle, $\\angle ACB=42°$. Find $\\angle BAS$",
-   "statement_en": "In triangle ABC, inscribed in a circle with center at point S, angle ACB has measure 42 degrees [Figure: circle with inscribed triangle ABC, center S, line from C through S extended beyond S, angle ACB=42 degrees marked at vertex C]. Complete the sentence. Choose the correct answer from the options given. The measure of the acute angle BAS is equal to A. 42° B. 45° C. 48° D. 69°",
+   "statement_en": "In triangle $ABC$, inscribed in a circle with center at point $S$, angle $ACB$ has measure $42^\\circ$ (see figure) [Figure: circle with inscribed triangle $ABC$, center $S$; a line from $A$ passes through $S$; the acute angle between $AB$ and line $AS$ at $A$ is shaded; angle $42^\\circ$ marked at $C$]. Complete the sentence. Choose the correct answer from the options given. The measure of the acute angle $BAS$ is equal to A. $42^\\circ$ B. $45^\\circ$ C. $48^\\circ$ D. $69^\\circ$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -317,7 +337,9 @@
    "summary_en": "Lines $k{:}y=(m{+}1)x{+}7$, $l{:}y=-2x{+}7$ perpendicular. $m=?$",
    "statement_en": "In the Cartesian coordinate system (x, y) lines k and l are given by the equations k: y=(m+1)x+7 and l: y=-2x+7. Complete the sentence. Choose the correct answer from the options given. Lines k and l are perpendicular when the number m is equal to A. -1/2 B. 1/2 C. -3 D. 1",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -335,7 +357,9 @@
    "summary_en": "Parallelogram $A(-2,6)$, $B(10,2)$, $P(6,7)$. Find $|BC|$",
    "statement_en": "In the Cartesian coordinate system (x, y) a parallelogram ABCD is given, in which A=(-2,6) and B=(10,2). The diagonals AC and BD of this parallelogram intersect at point P=(6,7). Calculate the length of side BC of this parallelogram. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25.1",
@@ -353,7 +377,9 @@
    "summary_en": "Hexagonal prism: $h=6$, base area $15\\sqrt3$. Lateral face area?",
    "statement_en": "The height of a regular hexagonal prism is equal to 6 [Figure: regular hexagonal prism with height 6 marked]. The base area of this prism is equal to 15*sqrt(3). Complete the sentence. Choose the correct answer from the options given. The area of one lateral face of this prism is equal to A. 36*sqrt(10) B. 60 C. 6*sqrt(10) D. 360",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25.2",
@@ -379,7 +405,9 @@
    "summary_en": "Similar pyramids: $V_1=64$, $V_2=512$. Ratio of surface areas?",
    "statement_en": "Pyramid F1 is similar to pyramid F2. The volume of pyramid F1 is equal to 64. The volume of pyramid F2 is equal to 512. Complete the sentence below. Fill in the appropriate number in the blank so that the sentence is true. The ratio of the total surface area of pyramid F2 to the total surface area of pyramid F1 is equal to ... .",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -397,7 +425,9 @@
    "summary_en": "How many 4-digit codes using digits $1,3,6,8$ once each?",
    "statement_en": "Consider all four-digit codes formed only from the digits 1, 3, 6, 8, where each of these digits occurs exactly once in each code. Complete the sentence. Choose the correct answer from the options given. The number of all such codes is equal to A. 4 B. 10 C. 24 D. 16",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -415,7 +445,9 @@
    "summary_en": "Mean of $a,b,c$ is $9$. Find mean of $a,a,b,b,c,c$",
    "statement_en": "The arithmetic mean of three numbers a, b, c is equal to 9. Complete the sentence. Choose the correct answer from the options given. The arithmetic mean of six numbers a, a, b, b, c, c is equal to A. 9 B. 6 C. 4.5 D. 18",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -433,7 +465,9 @@
    "summary_en": "Class grades diagram: find the median",
    "statement_en": "A diagram shows the results of a math test in a certain graduating class. The horizontal axis shows the grades obtained by students in this class, and the vertical axis shows the number of students who received a given grade [Figure: bar chart, grade:count pairs 1:2, 2:7, 3:4, 4:3, 5:6, 6:4]. Complete the sentence. Choose the correct answer from the options given. The median of the grades obtained on this test by students of this class is equal to A. 4.5 B. 4 C. 3.5 D. 3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "30",
@@ -451,7 +485,9 @@
    "summary_en": "Draw with replacement from $\\{5..9\\}$: $P$(sum even)",
    "statement_en": "A five-element set K={5,6,7,8,9} is given. Drawing each number from this set is equally likely. From set K we draw with replacement, one after another, two numbers, and write them down in the order drawn. Calculate the probability of event A, that the sum of the drawn numbers is an even number. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -469,7 +505,9 @@
    "summary_en": "3 enclosures, fencing $36$m. Find $x,y$ for max area (sum)",
    "statement_en": "In an animal shelter, on a flat surface, a mesh fence must be built to separate three identical enclosures with common internal walls. The base of each of these three enclosures is a rectangle (as shown in the figure) [Figure: three adjacent identical rectangular enclosures in a row viewed from above, each of width y and total height x]. 36 running meters of mesh must be used to build this fence. Calculate the dimensions x and y of one enclosure for which the sum of the base areas of these three enclosures will be greatest. In your calculations, ignore the width of the entrance to each enclosure. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

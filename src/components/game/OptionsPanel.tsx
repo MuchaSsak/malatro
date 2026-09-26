@@ -155,8 +155,10 @@ export default function OptionsPanel({ onClose, onMainMenu, onAbandon }: Options
       </PixelButton>
       <p className="text-center font-pixel text-lg leading-tight text-white/45">
         Font m6x11 by Daniel Linssen · Music: Kevin MacLeod (incompetech.com) CC BY 4.0 — "Hep Cats", "Local Forecast -
-        Elevator", "Cool Vibes", "Groove Grove", "Funkorama", "Backbay Lounge", "Chill Wave", "Bossa Antigua", "Lobby
-        Time", "Sidewalk Shade" · SFX Kenney (CC0) · Background: React Bits Balatro · Tasks: CKE
+        Elevator", "Cool Vibes", "Groove Grove", "Funkorama", "Backbay Lounge", "Airport Lounge", "Sneaky Snitch",
+        "Investigations", "Smooth Lovin", "Night on the Docks - Sax", "Chill Wave", "Bossa Antigua", "Lobby Time",
+        "Sidewalk Shade", "Casa Bossa Nova", "Easy Lemon", "Wallpaper", "Carefree", "Deliberate Thought" · SFX Kenney
+        (CC0) · Background: React Bits Balatro · Tasks: CKE
       </p>
     </div>
   );

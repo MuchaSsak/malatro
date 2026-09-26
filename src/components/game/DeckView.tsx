@@ -36,7 +36,11 @@ export default function DeckView({ onClose }: { onClose: () => void }) {
           const suit = SUITS[cat.suit];
           const n = counts.get(id) ?? 0;
           return (
-            <div key={id} className="flex items-center gap-3 rounded-panel bg-inset px-4 py-2" style={{ opacity: n ? 1 : 0.4 }}>
+            <div
+              key={id}
+              className="flex items-center gap-3 rounded-panel bg-inset px-4 py-2"
+              style={{ opacity: n ? 1 : 0.4 }}
+            >
               <span className="w-12 text-center font-pixel text-3xl" style={{ color: suit.color }}>
                 {cat.glyph}
               </span>

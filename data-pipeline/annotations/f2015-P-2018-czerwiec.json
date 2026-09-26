@@ -17,7 +17,9 @@
    "summary_en": "Compute $x^2-2xy+y^2$ for $x=\\frac{2}{\\sqrt2}+1$, $y=\\sqrt2-1$",
    "statement_en": "For $x=\\frac{2}{\\sqrt2}+1$ and $y=\\sqrt2-1$, the value of the expression $x^2-2xy+y^2$ equals: A. 4  B. 1  C. $\\sqrt2$  D. $\\frac{1}{\\sqrt2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -43,7 +45,9 @@
    "summary_en": "Find a number satisfying $(4-x)(x+3)(x+4)>0$",
    "statement_en": "Indicate the number that satisfies the inequality $(4-x)(x+3)(x+4)>0$. A. 5  B. 16  C. $-4$  D. $-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "After two 10% discounts price is 1944 zl. Original price?",
    "statement_en": "After two successive discounts, each of 10% of the price at the time of the discount, a computer costs 1944 zloty. It follows that before these discounts the computer cost: A. 2200 zloty  B. 2300 zloty  C. 2400 zloty  D. 3000 zloty",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -79,7 +85,9 @@
    "summary_en": "Interval $(-10,k]$: sum of integers in it = 21. Find $k$",
    "statement_en": "The figure shows the interval $(-10, k]$, where $k$ is an integer. The sum of all integers belonging to this interval equals 21. It follows that: A. $k=9$  B. $k=11$  C. $k=21$  D. $k=31$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -97,7 +105,9 @@
    "summary_en": "How many solutions does $x-\\frac{1}{2x+1}=0$ have?",
    "statement_en": "The equation $x - \\frac{1}{2x+1} = 0$: A. has exactly two real solutions.  B. has exactly three real solutions.  C. has exactly one real solution.  D. has no solutions.",
    "confidence": "high",
-   "notes": "Correct option (A) states the count of real solutions rather than giving a number directly; treated as a count-type single value (2 solutions: x=1/2, x=-1). [verified: ok: 2x^2+x-1=0 gives x=1/2, x=-1 (both allowed), so exactly two solutions, option A; key table 6=A. Options are pure counts, summary asks count.]"
+   "notes": "Correct option (A) states the count of real solutions rather than giving a number directly; treated as a count-type single value (2 solutions: x=1/2, x=-1). [verified: ok: 2x^2+x-1=0 gives x=1/2, x=-1 (both allowed), so exactly two solutions, option A; key table 6=A. Options are pure counts, summary asks count.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -115,7 +125,9 @@
    "summary_en": "20th decimal digit of the fraction $\\frac{224}{1111}$",
    "statement_en": "The number $\\frac{224}{1111}$ can be written as an infinite repeating decimal. The 20th digit after the decimal point of its expansion is: A. 2  B. 0  C. 1  D. 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -133,7 +145,9 @@
    "summary_en": "Compute $\\frac{8^{20}-2\\cdot4^{20}}{2^{20}\\cdot4^{10}}$",
    "statement_en": "The number $\\frac{8^{20}-2\\cdot 4^{20}}{2^{20}\\cdot 4^{10}}$ equals: A. 0  B. $2^{20}-2$  C. $2^{19}$  D. $4-2^{10}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -151,7 +165,9 @@
    "summary_en": "$f(x)=-2(x+2)^{-1}(x-3)^2$. Find $f(2)$",
    "statement_en": "The function $f$ is given by $f(x) = -2(x+2)^{-1}(x-3)^2$ for every real $x \\neq -2$. The value of $f$ at argument 2 equals: A. $-8$  B. $-\\frac{1}{2}$  C. $\\frac{1}{2}$  D. 8",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -169,7 +185,9 @@
    "summary_en": "Max value of $y=-(x-2)^2+4$ on $[3,5]$",
    "statement_en": "The greatest value of the function $y=-(x-2)^2+4$ on the interval $\\langle 3,5\\rangle$ is: A. 4  B. 3  C. 0  D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -187,7 +205,9 @@
    "summary_en": "$f(x)=(1-m^2)x+m-1$ has no zero for which $m$?",
    "statement_en": "The linear function $f(x) = (1-m^2)x + m - 1$ has no zeros for: A. $m=1$  B. $m=0$  C. $m=-1$  D. $m=-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -213,7 +233,9 @@
    "summary_en": "Positive geometric sequence, $3a_2=2a_3$. Find ratio $q$",
    "statement_en": "All terms of a geometric sequence $(a_n)$ defined for $n \\geq 1$ are positive and $3a_2 = 2a_3$. It follows that the common ratio $q$ of this sequence equals: A. $q=\\frac{2}{3}$  B. $q=\\frac{3}{2}$  C. $q=6$  D. $q=5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -231,7 +253,9 @@
    "summary_en": "Arithmetic sequence $a_n=16-\\frac{1}{2}n$. Find difference $r$",
    "statement_en": "The arithmetic sequence $(a_n)$ is given by the formula $a_n = 16 - \\frac{1}{2}\\cdot n$ for every integer $n \\geq 1$. The common difference $r$ of this sequence equals: A. $r=-16$  B. $r=-\\frac{1}{2}$  C. $r=-\\frac{1}{32}$  D. $r=15\\frac{1}{2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -265,7 +289,9 @@
    "summary_en": "Externally tangent circles, radii $r$ and 4. Find $r$",
    "statement_en": "A circle with center $S_1=(2,1)$ and radius $r$, and a circle with center $S_2=(5,5)$ and radius 4, are externally tangent. Then: A. $r=1$  B. $r=2$  C. $r=3$  D. $r=4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +309,9 @@
    "summary_en": "Isosceles trapezoid with sides $12,13,2,13$. Find height $h$",
    "statement_en": "The sides of an isosceles trapezoid have lengths 12, 13, 2, 13 (bases 12 and 2, legs 13, see figure). The height $h$ of this trapezoid equals: A. 5  B. 8  C. 10  D. 12",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +329,9 @@
    "summary_en": "Quadrilateral angles in ratio $2:3:3:4$. Smallest angle?",
    "statement_en": "The measures of the angles of a certain quadrilateral are in the ratio $2:3:3:4$. It follows that the smallest angle of this quadrilateral measures: A. $60°$  B. $50°$  C. $40°$  D. $30°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -319,7 +349,9 @@
    "summary_en": "Cylinder: $h=r$, $V=27\\pi$. Find base radius",
    "statement_en": "A cylinder is given in which the height equals the base radius. The volume of this cylinder is $27\\pi$. It follows that the base radius of this cylinder equals: A. 9  B. 6  C. 3  D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -333,11 +365,13 @@
    "topic_pl": "Stożek i kula",
    "topic_en": "Cone and sphere",
    "difficulty": 2,
-   "summary_pl": "Stożek i kula o promieniu $r$: równe objętości. Oblicz $\\tan\\alpha$",
-   "summary_en": "Cone and sphere of radius $r$: equal volumes. Find $\\tan\\alpha$",
+   "summary_pl": "Stożek i kula, promień $r$, równe V. Tangens kąta tworzącej z podstawą",
+   "summary_en": "Cone and sphere, same radius $r$, equal V. Tan of slant-to-base angle",
    "statement_en": "A cone with base radius $r$ and a sphere with the same radius have equal volumes. The tangent of the angle between the slant height and the base plane of this cone equals: A. $\\frac{4}{3}$  B. 12  C. $\\sqrt{17}$  D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -355,7 +389,9 @@
    "summary_en": "Survey of 100 people, table of books read. Find the mean",
    "statement_en": "A survey of 100 people asked about the number of books read in the last year. The results (books : people) are 0:23, 1:14, 2:28, 3:17, 4:11, 5:7. The mean number of books read per surveyed person equals: A. 0.5  B. 1  C. 2  D. 2.5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -373,7 +409,9 @@
    "summary_en": "Edges + vertices of a prism = 15. How many edges?",
    "statement_en": "When we add the number of all edges of a certain prism to the number of all its vertices, we get 15. The number of all edges of this prism equals: A. 9  B. 7  C. 6  D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -391,7 +429,9 @@
    "summary_en": "How many even 4-digit numbers without digits 0 and 2?",
    "statement_en": "The number of all positive four-digit even numbers whose decimal representation does not contain the digits 0 and 2 equals: A. $8\\cdot8\\cdot8\\cdot3$  B. $8\\cdot7\\cdot6\\cdot3$  C. $8\\cdot10\\cdot10\\cdot4$  D. $9\\cdot8\\cdot7\\cdot4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -409,7 +449,9 @@
    "summary_en": "4 draws with replacement: P(exactly 3 white balls)",
    "statement_en": "A box contains two balls: black and white. A ball is drawn four times with replacement. The probability of the event that exactly three out of the four draws yield a white ball equals: A. $\\frac{1}{16}$  B. $\\frac{3}{8}$  C. $\\frac{1}{4}$  D. $\\frac{3}{4}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -435,7 +477,9 @@
    "summary_en": "$f(x)=x^2+bx+c$ through $(0,-5)$, axis $x=7$ (b + c)",
    "statement_en": "The graph of the quadratic function $f$ given by $f(x)=x^2+bx+c$ is a parabola on which lies the point $A=(0,-5)$. The axis of symmetry of this parabola is the line $x=7$. Find the values of the coefficients $b$ and $c$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -469,7 +513,9 @@
    "summary_en": "$\\sin\\alpha+\\cos\\alpha=\\sqrt2$. Find $\\tan\\alpha+\\frac{1}{\\tan\\alpha}$",
    "statement_en": "Angle $\\alpha$ is acute and $\\sin\\alpha + \\cos\\alpha = \\sqrt{2}$. Find the value of the expression $\\tan\\alpha + \\frac{1}{\\tan\\alpha}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -487,7 +533,9 @@
    "summary_en": "4 coin tosses: P(more heads than tails)",
    "statement_en": "A symmetric coin is tossed four times. After the experiment we record the number of heads obtained (0 to 4) and the number of tails obtained (also 0 to 4). Find the probability of the event that in these four tosses the number of heads obtained is greater than the number of tails obtained.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -505,7 +553,9 @@
    "summary_en": "Regular pyramid $H=16$, $\\cos\\alpha=\\frac{3}{5}$. Lateral area?",
    "statement_en": "A regular quadrilateral pyramid has height $H=16$. The cosine of the angle of inclination of a lateral edge to the base plane equals $\\frac{3}{5}$. Find the lateral surface area of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -523,7 +573,9 @@
    "summary_en": "Arithmetic seq.: $a_6=2a_5$, $S_{10}=\\frac{15}{4}$ (a1 + r)",
    "statement_en": "In an arithmetic sequence $(a_n)$, defined for natural numbers $n \\geq 1$, the sixth term is twice the fifth term, and the sum of the first ten terms of this sequence equals $S_{10}=\\frac{15}{4}$. Find the first term and the common difference of this sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -541,7 +593,9 @@
    "summary_en": "Isosceles triangle $A(-1,1)$, $C(1,9)$, $AC=BC$ (x + y of B)",
    "statement_en": "Points $A=(-1,1)$ and $C=(1,9)$ are vertices of an isosceles triangle $ABC$, in which $AC=BC$. The base $AB$ of this triangle lies on the line with equation $y=\\frac{1}{2}x+\\frac{3}{2}$. Find the coordinates of vertex $B$ of this triangle.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

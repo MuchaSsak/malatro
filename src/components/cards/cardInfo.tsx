@@ -50,9 +50,7 @@ export function ConsumableInfo({ item, run }: { item: ConsumableInstance; run: R
         <div className="text-important">
           {handName} (lvl.{level})
         </div>
-        <RichText
-          text={t`Level up: [c:+${hand.lvlChips}] Chips and [m:+${hand.lvlMult}] Mult`}
-        />
+        <RichText text={t`Level up: [c:+${hand.lvlChips}] Chips and [m:+${hand.lvlMult}] Mult`} />
         <div className="mt-1 text-ink/70">
           → {next.chips} × {next.mult}
         </div>

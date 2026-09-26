@@ -269,7 +269,10 @@ export const SCIAGI: SciagaDef[] = [
   {
     id: "sad",
     name: { pl: "Sąd", en: "Judgement" },
-    desc: { pl: "Tworzy losowego [a:Jokera] (potrzebne miejsce)", en: "Creates a random [a:Joker] card (must have room)" },
+    desc: {
+      pl: "Tworzy losowego [a:Jokera] (potrzebne miejsce)",
+      en: "Creates a random [a:Joker] card (must have room)",
+    },
     art: "⚖️",
     target: null,
     weight: 2,
@@ -327,7 +330,10 @@ export const TWIERDZENIA: TwierdzenieDef[] = [
   { id: "riemann", hand: "five", name: { pl: "Hipoteza Riemanna", en: "Riemann Hypothesis" }, art: "ζ" },
 ];
 
-export const TWIERDZENIE_BY_ID = Object.fromEntries(TWIERDZENIA.map((t) => [t.id, t])) as Record<string, TwierdzenieDef>;
+export const TWIERDZENIE_BY_ID = Object.fromEntries(TWIERDZENIA.map((t) => [t.id, t])) as Record<
+  string,
+  TwierdzenieDef
+>;
 export const TWIERDZENIE_BY_HAND = Object.fromEntries(TWIERDZENIA.map((t) => [t.hand, t])) as Record<
   HandTypeId,
   TwierdzenieDef

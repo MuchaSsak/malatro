@@ -17,7 +17,9 @@
    "summary_en": "Sum of roots of $W(x)=x^3+5x^2-7x-11$",
    "statement_en": "The sum of all roots of the polynomial $W(x)=x^3+5x^2-7x-11$ is equal to A. $-5$ B. $-3$ C. $3$ D. $5$",
    "confidence": "high",
-   "notes": "By Viete's formulas, sum of roots = -5"
+   "notes": "By Viete's formulas, sum of roots = -5",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -53,7 +55,9 @@
    "summary_en": "Compute $\\cos\\frac{7\\pi}{6}\\cdot\\tan\\frac{4\\pi}{3}$",
    "statement_en": "The value of the expression $\\cos\\frac{7\\pi}{6}\\cdot\\tan\\frac{4\\pi}{3}$ is equal to A. $-\\frac32$ B. $-\\frac{\\sqrt3}{2}$ C. $\\frac12$ D. $\\frac32$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,25 +75,29 @@
    "summary_en": "Compute $\\lim\\limits_{x\\to2}\\frac{x^3-8}{2x^2+2x-12}$",
    "statement_en": "The limit $\\lim_{x\\to2}\\frac{x^3-8}{2x^2+2x-12}$ is equal to A. $\\frac25$ B. $\\frac45$ C. $\\frac65$ D. $\\frac{12}{5}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
    "include": true,
    "exclude_reason": null,
    "answer_kind": "single",
-   "value": 14.792679783,
+   "value": 14.792679827903491,
    "value_tex": "\\sqrt{117+72\\sqrt2}",
    "answer_tex": "\\sqrt{117+72\\sqrt2}\\approx14{,}7",
    "category": "planimetria",
    "topic_pl": "Przekątne równoległoboku",
    "topic_en": "Diagonals of a parallelogram",
    "difficulty": 3,
-   "summary_pl": "Równolegobok: boki $6,9$, pole $18$. Dłuższa przekątna?",
-   "summary_en": "Parallelogram: sides 6, 9, area 18. Longer diagonal?",
+   "summary_pl": "Równoległobok: boki $6,9$, pole $18$. Dłuższa przekątna?",
+   "summary_en": "Parallelogram: sides $6, 9$, area $18$. Longer diagonal?",
    "statement_en": "Adjacent sides of a parallelogram have lengths 6 and 9. The area of this parallelogram is equal to 18. Calculate the length of the longer diagonal of this parallelogram. In the boxes, enter, from left to right, the tens digit, the units digit, and the first decimal digit of the decimal expansion of the result obtained.",
    "confidence": "high",
-   "notes": "Coded-answer task; key gives digits 1,4,7 i.e. 14.7..., exact value sqrt(117+72*sqrt2)"
+   "notes": "Coded-answer task; key gives digits 1,4,7 i.e. 14.7..., exact value sqrt(117+72*sqrt2) [full-verify fix] sin=1/3, cos=2sqrt2/3, d^2=117+72sqrt2, d=14.79268 (key digits 1,4,7). Stored 14.792679783 had a digit typo; set exact. Summary typo.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -143,7 +151,9 @@
    "summary_en": "4 dice rolls. Find P(>=1 six | exactly 2 fives)",
    "statement_en": "A random experiment consists of rolling a fair six-sided die (with faces numbered one to six) four times. Calculate the probability of the event that a six appeared at least once, given that a five appeared exactly twice.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -179,7 +189,9 @@
    "summary_en": "Convergent geometric seq.: $a_1+a_3=20$, $a_1^2+a_3^2=328$. Find $S$ (sum of both values)",
    "statement_en": "The sequence $(a_n)$, defined for every natural number $n\\ge1$, is geometric and convergent. In this sequence $a_1+a_3=20$ and $a_1^2+a_3^2=328$. Calculate the sum of all terms of this sequence. Consider all cases.",
    "confidence": "high",
-   "notes": "Two valid cases (q=1/3 giving S=27, q=-1/3 giving S=27/2); summed [verified: ok: a1*a3=36 -> {2,18}; convergent needs a1=18, q=+-1/3: S=27 or 27/2 (key). Sum 81/2. Stored hint 'Suma (oba przyp.)' is vague.]"
+   "notes": "Two valid cases (q=1/3 giving S=27, q=-1/3 giving S=27/2); summed [verified: ok: a1*a3=36 -> {2,18}; convergent needs a1=18, q=+-1/3: S=27 or 27/2 (key). Sum 81/2. Stored hint 'Suma (oba przyp.)' is vague.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -193,11 +205,13 @@
    "topic_pl": "Przecięcie okręgów i wektory",
    "topic_en": "Intersection of circles and vectors",
    "difficulty": 5,
-   "summary_pl": "Okręgi się przecinają w $A,B$; $\\vec{AM}=-2\\vec{BM}$. Wsp. $A,B,M$",
-   "summary_en": "Circles meet at A, B; $\\vec{AM}=-2\\vec{BM}$. Find A, B, M",
+   "summary_pl": "Okręgi tną się w $A,B$; $\\vec{AM}=-2\\vec{BM}$. Suma wsp. $A,B,M$",
+   "summary_en": "Circles meet at $A,B$; $\\vec{AM}=-2\\vec{BM}$. Sum of coords of $A,B,M$",
    "statement_en": "In the coordinate system (x, y) two circles are given by the equations $\\mathcal{O}_1: (x-1)^2+(y+3)^2=5$ and $\\mathcal{O}_2: (x-2)^2+(y-4)^2=45$. These circles intersect at points A and B. Point A has a positive first coordinate. Point M satisfies the condition $\\vec{AM}=-2\\vec{BM}$. Calculate the coordinates of points A, B and M.",
    "confidence": "high",
-   "notes": "sum of all six coordinates of A, B, M"
+   "notes": "sum of all six coordinates of A, B, M",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -215,7 +229,9 @@
    "summary_en": "Solve $3\\cos^2x+\\sqrt3\\sin2x-3\\sin^2x=0$ on $[-\\pi,\\pi]$ (sum of solutions)",
    "statement_en": "Solve the equation $3\\cos^2x+\\sqrt3\\sin(2x)-3\\sin^2x=0$ in the interval $\\langle-\\pi,\\pi\\rangle$.",
    "confidence": "high",
-   "notes": "Solution restricted to a closed interval gives a finite set: -2pi/3, -pi/6, pi/3, 5pi/6; sum = pi/3"
+   "notes": "Solution restricted to a closed interval gives a finite set: -2pi/3, -pi/6, pi/3, 5pi/6; sum = pi/3",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -233,7 +249,9 @@
    "summary_en": "Pyramid: base edge $3\\sqrt{34}$, $\\cos\\beta=-\\frac{9}{25}$. Lateral surface area?",
    "statement_en": "The base of pyramid ABCDS is square ABCD. The lateral edge SA is the height of the pyramid, and the base edge has length $3\\sqrt{34}$. The cosine of the angle $\\beta$ between the lateral faces CDS and BCS of this pyramid is equal to $-\\frac{9}{25}$. Calculate the lateral surface area of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -265,11 +283,13 @@
    "topic_pl": "Optymalizacja objętości stożka",
    "topic_en": "Optimization of cone volume",
    "difficulty": 5,
-   "summary_pl": "Stożek: $h>5$, odl. środka podst. od tworzącej $=5$. Min. objętość (b)",
-   "summary_en": "Cone: h>5, distance from base center to slant height=5. Min volume (part b)",
-   "statement_en": "Consider all cones whose height is greater than 5, and for which the distance from the center of the base to the slant height is equal to 5. a) Show that the volume V of the cone, as a function of the height h, is given by the formula $V(h)=\\pi\\cdot\\frac{25h^3}{h^2-25}$. b) The volume V of the cone, as a function of the height h, is given by the formula $V(h)=\\pi\\cdot\\frac{25h^3}{h^2-25}$ for $h\\in(5,+\\infty)$. Determine the height of the cone, among those considered, whose volume is smallest. Calculate this smallest volume.",
+   "summary_pl": "Stożek: $h>5$, odl. środka podst. od tworzącej $=5$. Podaj $h+V_{min}$",
+   "summary_en": "Cone: $h>5$, base centre to slant line distance $5$. Give $h+V_{min}$",
+   "statement_en": "Consider all cones whose height is greater than $5$ and in which the distance from the centre of the base to a slant height (generatrix) is equal to $5$. a) Show that the volume $V$ of the cone, as a function of its height $h$, is given by $V(h)=\\frac{\\pi}{3}\\cdot\\frac{25h^3}{h^2-25}$. b) The volume $V$ of the cone, as a function of its height $h$, is given by $V(h)=\\frac{\\pi}{3}\\cdot\\frac{25h^3}{h^2-25}$ for $h\\in(5,+\\infty)$. Determine the height of the cone, among those considered, whose volume is the smallest. Calculate this smallest volume.",
    "confidence": "high",
-   "notes": "Part a) is a proof (non-numeric); only part b) gives numbers, summed: h + V_min = 5*sqrt3 + 125*sqrt3*pi/2"
+   "notes": "Part a) is a proof (non-numeric); only part b) gives numbers, summed: h + V_min = 5*sqrt3 + 125*sqrt3*pi/2",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

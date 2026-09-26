@@ -17,7 +17,9 @@
    "summary_en": "Mass $4$g decays $19\\%$/day. After how many days $<1.5$g?",
    "statement_en": "At the initial moment ($t=0$) the mass of a substance equals $4$ grams. Due to decay of its particles, the mass decreases: after each successive day, $19\\%$ of the mass present at the end of the previous day is lost. For every non-negative integer $t$, the function $m(t)$ gives the mass of the substance, in grams, after $t$ full days (time counted from the initial moment). Find the formula for the function $m(t)$. Compute after how many full days the mass of the substance will, for the first time, be less than $1.5$ grams. Show your working.",
    "confidence": "high",
-   "notes": "only the numeric part (number of days = 5) is counted; the formula m(t)=4*0.81^t is symbolic"
+   "notes": "only the numeric part (number of days = 5) is counted; the formula m(t)=4*0.81^t is symbolic",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Chess: $P(\\text{win})=\\frac14$. Find $P$(at least 4 of 5 wins)",
    "statement_en": "Tomek and Romek decided to play five games of chess against each other. The probability that Tomek wins a single game equals $\\dfrac14$. Compute the probability that Tomek wins at least four of the five games. Give the result as an irreducible common fraction. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Tangent to $f(x)=\\frac{3x^2-2x}{x^2+2x+8}$ at $P=(x_0,3)$. Find $x_0$",
    "statement_en": "The function $f$ is defined by $f(x)=\\dfrac{3x^2-2x}{x^2+2x+8}$ for every real number $x$. The point $P=(x_0,3)$ belongs to the graph of $f$. Compute $x_0$ and find the equation of the tangent line to the graph of $f$ at point $P$. Show your working.",
    "confidence": "high",
-   "notes": "only x_0 is numeric; the tangent-line equation is symbolic and not counted in value"
+   "notes": "only x_0 is numeric; the tangent-line equation is symbolic and not counted in value",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -101,7 +107,9 @@
    "summary_en": "Cube $a=6$, $S$ = diagonals of face $ADHE$ meet. Altitude of $\\triangle SBH$?",
    "statement_en": "Given is a cube $ABCDEFGH$ with edge length $6$. Point $S$ is the intersection point of diagonals $AH$ and $DE$ of the lateral face $ADHE$ (see figure). Compute the altitude of triangle $SBH$ drawn from point $S$ to side $BH$ of this triangle. Show your working. [Figure: cube ABCDEFGH, with S at the intersection of diagonals AH and DE on face ADHE]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "8",
@@ -119,7 +127,9 @@
    "summary_en": "Tangential quadrilateral, $BC=4$, $CD=5$, angle $60°$. Find the perimeter",
    "statement_en": "Quadrilateral $ABCD$, in which $|BC|=4$ and $|CD|=5$, is circumscribed about a circle. The diagonal $AC$ of this quadrilateral makes a $60°$ angle with side $BC$, and makes an acute angle with side $AB$ whose sine equals $\\dfrac14$. Compute the perimeter of quadrilateral $ABCD$. Show your working.",
    "confidence": "high",
-   "notes": " [verified: ok: Sine law: AB=4*sin60/(1/4)=8sqrt3; tangential quad: Ob=2(AB+CD)=16sqrt3+10, matches key. Unique.]"
+   "notes": " [verified: ok: Sine law: AB=4*sin60/(1/4)=8sqrt3; tangential quad: Ob=2(AB+CD)=16sqrt3+10, matches key. Unique.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -177,7 +187,9 @@
    "summary_en": "$f(x)=x^4+x^2-6x$, $x>0$. Find the minimum value of $f$",
    "statement_en": "The function $f$ is defined by $f(x)=81^{\\log_3 x}+\\dfrac{2\\cdot\\log_2\\sqrt{27}\\cdot\\log_3 2}{3}\\cdot x^2-6x$ for every positive number $x$ (this expression can be shown to equal $x^4+x^2-6x$). Compute the smallest value of the function $f$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -195,7 +207,9 @@
    "summary_en": "Line $x-y-2=0$ meets parabola $y=4x^2-7x+1$ at $A,B$. Find $C$ (sum of coords)",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, the line $l$ with equation $x-y-2=0$ intersects the parabola with equation $y=4x^2-7x+1$ at points $A$ and $B$. Segment $AB$ is a diameter of circle $\\mathcal{O}$. Point $C$ lies on circle $\\mathcal{O}$ above line $l$, and angle $BAC$ is acute with measure $\\alpha$ such that $\\tan\\alpha=\\dfrac13$ (see figure). Compute the coordinates of point $C$. Show your working. [Figure: parabola y=4x^2-7x+1, line l, circle O with diameter AB, point C above l with angle BAC=alpha]",
    "confidence": "high",
-   "notes": "sum of the coordinates of C: 11/10 + (-3/10) = 4/5"
+   "notes": "sum of the coordinates of C: 11/10 + (-3/10) = 4/5",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

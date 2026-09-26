@@ -17,7 +17,9 @@
    "summary_en": "Compute $|5-7|-|-3+4|$",
    "statement_en": "The number $|5-7|-|-3+4|$ equals: A. -3 B. -5 C. 1 D. 3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -43,7 +45,9 @@
    "summary_en": "Price 30000 PLN after two 10% discounts",
    "statement_en": "A car cost 30000 PLN. Its price was reduced by 10%, and then the reduced price was reduced by another 10%. After these reductions the car cost: A. 24400 PLN B. 24700 PLN C. 24000 PLN D. 24300 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "Compute $x=63^2\\cdot\\left(\\tfrac13\\right)^4$",
    "statement_en": "Given the number $x=63^2\\cdot\\left(\\frac{1}{3}\\right)^4$. Then: A. $x=7^2$ B. $x=7^{-2}$ C. $x=3^8\\cdot7^2$ D. $x=3\\cdot7$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -79,7 +85,9 @@
    "summary_en": "Compute the square of $5+2\\sqrt3$",
    "statement_en": "The square of the number $x=5+2\\sqrt3$ equals: A. 37 B. $25+4\\sqrt3$ C. $37+20\\sqrt3$ D. 147",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -97,7 +105,9 @@
    "summary_en": "Compute $\\log_5 5-\\log_5 125$",
    "statement_en": "The number $\\log_5 5-\\log_5 125$ equals: A. -2 B. -1 C. $\\frac{1}{25}$ D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -139,7 +149,9 @@
    "summary_en": "Roots of $x^2+10x-24=0$: find $2x_1+x_2$",
    "statement_en": "Numbers $x_1$, $x_2$ are the roots of the equation $x^2+10x-24=0$, with $x_1<x_2$. Compute $2x_1+x_2$. A. -22 B. -17 C. 8 D. 13",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -157,7 +169,9 @@
    "summary_en": "2 is a root of $W(x)=x^3+ax^2+6x-4$. Find $a$",
    "statement_en": "The number 2 is a root of the polynomial $W(x)=x^3+ax^2+6x-4$. The coefficient $a$ equals: A. 2 B. -2 C. 4 D. -4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -175,7 +189,9 @@
    "summary_en": "For which $m$ is $f(x)=(m-1)x+3$ constant?",
    "statement_en": "Indicate $m$ for which the linear function $f(x)=(m-1)x+3$ is constant. A. $m=1$ B. $m=2$ C. $m=3$ D. $m=-1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -201,7 +217,9 @@
    "summary_en": "Geometric sequence: $a_1=2$, $a_2=12$. Find $a_4$",
    "statement_en": "In a geometric sequence $(a_n)$, $a_1=2$ and $a_2=12$. Then $a_4$ equals: A. 26 B. 432 C. 32 D. 2592",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +237,9 @@
    "summary_en": "Arithmetic sequence: $a_1=3$, $a_{20}=7$. Find $S_{20}$",
    "statement_en": "In an arithmetic sequence, $a_1=3$ and $a_{20}=7$. Then the sum $S_{20}=a_1+a_2+\\dots+a_{19}+a_{20}$ equals: A. 95 B. 200 C. 230 D. 100",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -233,11 +253,13 @@
    "topic_pl": "Trygonometria w trójkącie",
    "topic_en": "Right triangle trigonometry",
    "difficulty": 2,
-   "summary_pl": "Trójkąt prostokątny (boki 5,12,13): wybierz wzór na kąt α",
-   "summary_en": "Right triangle (sides 5,12,13): pick the formula for angle α",
+   "summary_pl": "Trójkąt prostokątny o bokach 5, 12, 13: oblicz $\\cos\\alpha$",
+   "summary_en": "Right triangle with sides 5, 12, 13: find $\\cos\\alpha$",
    "statement_en": "The figure shows a right triangle with marked side lengths and angle α (legs 5 and 12, hypotenuse 13; α is at the vertex between the leg of length 12 and the hypotenuse). Then: A. $\\cos\\alpha=\\frac{5}{13}$ B. $\\tan\\alpha=\\frac{13}{12}$ C. $\\cos\\alpha=\\frac{12}{13}$ D. $\\tan\\alpha=\\frac{12}{5}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -263,7 +285,9 @@
    "summary_en": "Pole 90cm/shadow 60cm, tower/shadow 12m. Find tower height",
    "statement_en": "A vertical pole of height 90 cm casts a shadow 60 cm long. At the same moment a nearby tower casts a shadow 12 m long. What is the height of the tower? A. 18 m B. 8 m C. 9 m D. 16 m",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -281,7 +305,9 @@
    "summary_en": "Inscribed angle ACB with central angle 230°. Find its measure",
    "statement_en": "Points A, B and C lie on a circle with center S (see figure). The marked central (reflex) angle, on the side of AB not containing C, is 230°. The measure of the marked inscribed angle ACB is: A. 65° B. 100° C. 115° D. 130°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -315,7 +341,9 @@
    "summary_en": "Axis of symmetry of $y=x^2-4x+2010$",
    "statement_en": "Indicate the equation of the axis of symmetry of the parabola $y=x^2-4x+2010$. A. $x=4$ B. $x=-4$ C. $x=2$ D. $x=-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -331,9 +359,11 @@
    "difficulty": 2,
    "summary_pl": "Kąt ostry: $\\cos\\alpha=\\frac37$. Oblicz $\\sin\\alpha$",
    "summary_en": "Acute angle: $\\cos\\alpha=\\frac37$. Find $\\sin\\alpha$",
-   "statement_en": "Angle α is acute and $\\cos\\alpha=\\frac{3}{7}$. Then: A. $\\sin\\alpha=\\frac{2\\sqrt{10}}{7}$ B. $\\sin\\alpha=\\frac{10}{7}$ C. $\\sin\\alpha=\\frac{4}{7}$ D. $\\sin\\alpha=\\frac{3}{4}$",
+   "statement_en": "Angle $\\alpha$ is acute and $\\cos\\alpha=\\frac{3}{7}$. Then: A. $\\sin\\alpha=\\frac{2\\sqrt{10}}{7}$ B. $\\sin\\alpha=\\frac{\\sqrt{10}}{7}$ C. $\\sin\\alpha=\\frac{4}{7}$ D. $\\sin\\alpha=\\frac{3}{4}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -351,7 +381,9 @@
    "summary_en": "Ways to choose 1 soup of 5 and 1 main of 4?",
    "statement_en": "The menu has 5 soups and 4 main courses. In how many ways can a meal consisting of one soup and one main course be ordered? A. 25 B. 20 C. 16 D. 9",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -369,7 +401,9 @@
    "summary_en": "Median of dice rolls: 6, 3, 1, 4",
    "statement_en": "In four rolls of a six-sided die the following numbers of points were obtained: 6, 3, 1, 4. The median of this data equals: A. 2 B. 2.5 C. 5 D. 3.5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -395,7 +429,9 @@
    "summary_en": "Solve $x^3+2x^2-5x-10=0$ (sum of solutions)",
    "statement_en": "Solve the equation $x^3+2x^2-5x-10=0$.",
    "confidence": "high",
-   "notes": "Sum of all three real solutions: -2+sqrt(5)-sqrt(5)=-2."
+   "notes": "Sum of all three real solutions: -2+sqrt(5)-sqrt(5)=-2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -413,7 +449,9 @@
    "summary_en": "Right triangle, hypotenuse +1 and +32 cm longer (sum of sides)",
    "statement_en": "The hypotenuse of a right triangle is longer than one leg by 1 cm and longer than the other leg by 32 cm. Compute the lengths of the sides of this triangle.",
    "confidence": "high",
-   "notes": "Sum of the three side lengths 9+40+41=90."
+   "notes": "Sum of the three side lengths 9+40+41=90.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -447,7 +485,9 @@
    "summary_en": "How many 4-digit numbers: first digit even, rest odd?",
    "statement_en": "Compute how many four-digit natural numbers there are in which the first digit is even and the remaining digits are odd.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -465,7 +505,9 @@
    "summary_en": "Arithmetic $(1,x,y-1)$, geometric $(x,y,12)$. Find $x+y$",
    "statement_en": "The sequence $(1, x, y-1)$ is arithmetic, while the sequence $(x, y, 12)$ is geometric. Compute $x$ and $y$, and give this geometric sequence.",
    "confidence": "high",
-   "notes": "Sum of the two requested numeric parts x+y=3+6=9."
+   "notes": "Sum of the two requested numeric parts x+y=3+6=9.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -483,7 +525,9 @@
    "summary_en": "Triangle ABC, altitude from C meets AB at D. Find BD",
    "statement_en": "Points $A=(1,5)$, $B=(14,31)$, $C=(4,31)$ are the vertices of a triangle. The line containing the altitude of this triangle drawn from vertex C intersects line AB at point D. Compute the length of segment BD.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",

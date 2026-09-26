@@ -1,4 +1,5 @@
 import { Trans, useLingui } from "@lingui/react/macro";
+import { AnimatePresence, motion } from "motion/react";
 import { useState } from "react";
 
 import CardBack from "~/components/cards/CardBack";
@@ -10,15 +11,19 @@ import PixelButton from "~/components/ui/PixelButton";
 import { useAuth } from "~/contexts/AuthContext";
 import { useGame } from "~/contexts/GameContext";
 import { useSettings } from "~/contexts/SettingsContext";
+import { useViewer } from "~/contexts/ViewerContext";
 import useSignOut from "~/hooks/auth/useSignOut";
 import useGetLeaderboard from "~/hooks/runs/useGetLeaderboard";
 import useGetMyStats from "~/hooks/runs/useGetMyStats";
+import useSubmitSuggestion from "~/hooks/suggestions/useSubmitSuggestion";
 import { audio } from "~/lib/audio";
 import { DIFFICULTIES } from "~/lib/game/constants";
-import { eligible } from "~/lib/game/deck";
+import { eligible, encodeTaskSet } from "~/lib/game/deck";
 import { randomSeed } from "~/lib/game/rng";
 import type { DifficultyMode } from "~/lib/game/types";
+import { encounteredIds } from "~/lib/progress";
 import { cn, formatDuration, formatNumber } from "~/lib/utils";
+import Collection from "~/screens/Collection";
 import HowToPlay from "~/screens/HowToPlay";
 
 type MainMenuProps = { onPlay: () => void };
@@ -30,29 +35,40 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
   const signOut = useSignOut();
   const myStats = useGetMyStats(session?.user.id);
   const playTime = myStats.data ? formatDuration(myStats.data.total_play_time_ms) : null;
-  const [modal, setModal] = useState<"play" | "options" | "leaderboard" | "howto" | null>(() =>
-    settings.hasSeenTutorial ? null : "howto",
+  const { target: viewerTarget } = useViewer();
+  const [isTrywialne, setIsTrywialne] = useState(false);
+  const [modal, setModal] = useState<"play" | "options" | "leaderboard" | "howto" | "collection" | "suggest" | null>(
+    () => (settings.hasSeenTutorial ? null : "howto"),
   );
 
   return (
     <div className="absolute inset-0" onPointerDown={() => audio.unlock()}>
       <div className="absolute inset-x-0 top-[170px]">
-        <Logo size={210} />
+        <Logo
+          size={210}
+          onCardClick={() => {
+            audio.play("levelup");
+            setIsTrywialne(true);
+          }}
+        />
         <div className="tx mt-8 text-center font-pixel text-4xl text-white/85">
           <Trans>A matura roguelike deckbuilder</Trans>
         </div>
       </div>
       <div className="absolute bottom-[70px] left-1/2 flex -translate-x-1/2 gap-4 rounded-[22px] bg-panel-light/90 p-4 shadow-hard">
-        <PixelButton tone="blue" size="xl" className="w-[360px]" onClick={() => setModal("play")}>
+        <PixelButton tone="blue" size="xl" className="w-[320px]" onClick={() => setModal("play")}>
           <Trans>PLAY</Trans>
         </PixelButton>
-        <PixelButton tone="orange" size="xl" className="w-[260px] text-5xl" onClick={() => setModal("options")}>
+        <PixelButton tone="orange" size="xl" className="w-[250px] px-6 text-5xl" onClick={() => setModal("options")}>
           <Trans>OPTIONS</Trans>
         </PixelButton>
-        <PixelButton tone="green" size="xl" className="w-[300px] text-5xl" onClick={() => setModal("leaderboard")}>
+        <PixelButton tone="money" size="xl" className="w-[300px] px-6 text-5xl" onClick={() => setModal("collection")}>
+          <Trans>COLLECTION</Trans>
+        </PixelButton>
+        <PixelButton tone="green" size="xl" className="w-[250px] px-6 text-5xl" onClick={() => setModal("leaderboard")}>
           <Trans>RANKING</Trans>
         </PixelButton>
-        <PixelButton tone="purple" size="xl" className="w-[260px] text-5xl" onClick={() => setModal("howto")}>
+        <PixelButton tone="purple" size="xl" className="w-[230px] px-6 text-5xl" onClick={() => setModal("howto")}>
           <Trans>HOW TO</Trans>
         </PixelButton>
       </div>
@@ -76,6 +92,22 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
           {session ? <Trans>Log out</Trans> : <Trans>Log in</Trans>}
         </PixelButton>
       </div>
+      <div className="absolute right-[40px] top-[36px] flex items-center gap-3">
+        <PixelButton tone="panel" size="sm" onClick={() => setModal("suggest")}>
+          <Trans>Suggest an update</Trans>
+        </PixelButton>
+        <a
+          href={REPO_URL}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="GitHub"
+          title="GitHub"
+          className="grid h-12 w-12 place-items-center rounded-panel bg-panel-light text-white shadow-hard hover:brightness-110 active:translate-y-[4px] active:shadow-hard-sm"
+        >
+          <GithubIcon />
+        </a>
+      </div>
+      <AnimatePresence>{isTrywialne && <TrywialneEgg onClose={() => setIsTrywialne(false)} />}</AnimatePresence>
       <div className="absolute bottom-[70px] right-[40px] flex gap-2">
         <PixelButton size="md" tone="panel" className="px-4" onClick={toggleFullscreen} aria-label="Fullscreen">
           <FullscreenIcon isIn={isFullscreen} />
@@ -108,6 +140,19 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
       <Modal isOpen={modal === "options"} onClose={() => setModal(null)}>
         <OptionsPanel onClose={() => setModal(null)} />
       </Modal>
+      <Modal isOpen={modal === "suggest"} onClose={() => setModal(null)}>
+        <SuggestPanel onClose={() => setModal(null)} />
+      </Modal>
+      {/* Escape closes the task viewer first; the Collection stays open behind it */}
+      <Modal isOpen={modal === "collection"} onClose={() => !viewerTarget && setModal(null)}>
+        <Collection
+          onClose={() => setModal(null)}
+          onPlay={() => {
+            setModal(null);
+            onPlay();
+          }}
+        />
+      </Modal>
       <Modal isOpen={modal === "leaderboard"} onClose={() => setModal(null)}>
         <Leaderboard onClose={() => setModal(null)} />
       </Modal>
@@ -129,6 +174,110 @@ export default function MainMenu({ onPlay }: MainMenuProps) {
   );
 }
 
+const REPO_URL = "https://github.com/MuchaSsak/malatro";
+
+/** GitHub mark (simple-icons, CC0). */
+function GithubIcon() {
+  return (
+    <svg viewBox="0 0 24 24" width={28} height={28} fill="currentColor" aria-hidden>
+      <path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12" />
+    </svg>
+  );
+}
+
+/** Easter egg: poking the card in the logo summons the TRYWIALNE deck's patron. */
+function TrywialneEgg({ onClose }: { onClose: () => void }) {
+  const [hasImage, setHasImage] = useState(true);
+  return (
+    <motion.button
+      type="button"
+      onClick={onClose}
+      className="absolute inset-0 z-[300] grid place-items-center bg-black/70"
+      initial={{ opacity: 0 }}
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+    >
+      <motion.div
+        initial={{ scale: 0.2, rotate: -25 }}
+        animate={{ scale: 1, rotate: [-25, 6, -3, 0] }}
+        exit={{ scale: 0.4, opacity: 0 }}
+        transition={{ type: "spring", stiffness: 260, damping: 14 }}
+      >
+        {hasImage ? (
+          <img
+            src="/easter/trywialne.jpg"
+            alt="TRYWIALNE"
+            onError={() => setHasImage(false)}
+            className="max-h-[820px] max-w-[1100px] rounded-[18px] border-8 border-[#009dff] shadow-[0_0_80px_#009dff]"
+          />
+        ) : (
+          <span className="tx font-pixel text-[180px] leading-none text-[#7fd4ff] [text-shadow:0_0_40px_#009dff]">
+            TRYWIALNE
+          </span>
+        )}
+      </motion.div>
+    </motion.button>
+  );
+}
+
+/** "Suggest an update": one textarea, stored in Supabase `suggestions` (insert-only). */
+function SuggestPanel({ onClose }: { onClose: () => void }) {
+  const { isOnlineAvailable } = useAuth();
+  const { locale } = useSettings();
+  const { t } = useLingui();
+  const submit = useSubmitSuggestion();
+  const [body, setBody] = useState("");
+  const isValid = body.trim().length >= 3;
+  return (
+    <div className="flex w-[820px] flex-col gap-4 p-7">
+      <div className="tx font-pixel text-5xl text-white">
+        <Trans>Suggest an update</Trans>
+      </div>
+      <div className="font-pixel text-2xl text-white/70">
+        <Trans>A wrong answer, an idea, a bug? Tell us.</Trans>
+      </div>
+      <textarea
+        value={body}
+        onChange={(e) => setBody(e.target.value.slice(0, 2000))}
+        placeholder={t`Your suggestion...`}
+        rows={7}
+        autoFocus
+        className="scroll-thin resize-none rounded-panel border-4 border-panel-light bg-inset px-4 py-3 font-pixel text-2xl leading-snug text-white outline-none placeholder:text-white/25 focus:border-blue"
+      />
+      <div className="text-right font-pixel text-lg text-white/45">{body.length} / 2000</div>
+      {!isOnlineAvailable && (
+        <div className="font-pixel text-xl text-red">
+          <Trans>Sending needs Supabase (see README).</Trans>
+        </div>
+      )}
+      <div className="flex gap-3">
+        <PixelButton tone="orange" size="md" className="flex-1" onClick={onClose}>
+          <Trans>Back</Trans>
+        </PixelButton>
+        <PixelButton
+          tone="blue"
+          size="md"
+          className="flex-1"
+          disabled={!isValid || submit.isPending || !isOnlineAvailable}
+          onClick={() =>
+            submit.mutate(
+              { body, locale },
+              {
+                onSuccess: () => {
+                  setBody("");
+                  onClose();
+                },
+              },
+            )
+          }
+        >
+          {submit.isPending ? <Trans>Sending...</Trans> : <Trans>Send</Trans>}
+        </PixelButton>
+      </div>
+    </div>
+  );
+}
+
 function NewRunPanel({
   hasRun,
   onContinue,
@@ -141,7 +290,7 @@ function NewRunPanel({
   onClose: () => void;
 }) {
   const { engine, pool, run } = useGame();
-  const { l, locale, update } = useSettings();
+  const { l, locale, settings, update } = useSettings();
   const { t } = useLingui();
   const [tab, setTab] = useState<"new" | "continue">(hasRun ? "continue" : "new");
   const [index, setIndex] = useState(0);
@@ -224,13 +373,26 @@ function NewRunPanel({
               className="w-[220px] rounded-lg border-4 border-panel-light bg-inset px-3 py-1 font-pixel text-3xl text-white outline-none placeholder:text-white/25"
             />
           </label>
+          <label className="flex cursor-pointer items-center justify-center gap-3">
+            <input
+              type="checkbox"
+              checked={settings.isPreferNew}
+              onChange={(e) => update({ isPreferNew: e.target.checked })}
+              className="h-6 w-6 accent-[#009dff]"
+            />
+            <span className="tx font-pixel text-2xl text-white/80">
+              <Trans>Prefer tasks I haven't met yet</Trans>
+            </span>
+          </label>
           <PixelButton
             tone="blue"
             size="xl"
             disabled={poolSize < 50}
             onClick={() => {
               if (hasRun && !window.confirm(t`Start a new run? The current run will be lost.`)) return;
-              engine.newRun(diff.id as DifficultyMode, seed || randomSeed());
+              const met = encounteredIds();
+              const avoid = settings.isPreferNew && met.size ? encodeTaskSet(pool, met) : undefined;
+              engine.newRun(diff.id as DifficultyMode, seed || randomSeed(), avoid);
               audio.play("shuffle");
               onStart();
             }}

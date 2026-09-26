@@ -10,14 +10,16 @@
    "value_tex": "\\frac{7}{2}",
    "answer_tex": "\\frac{7}{2}",
    "category": "liczby",
-   "topic_pl": "Dzialania na ulamkach",
+   "topic_pl": "Działania na ułamkach",
    "topic_en": "Fraction arithmetic",
    "difficulty": 1,
    "summary_pl": "Oblicz $\\frac{a+b}{ab}$ dla $a=\\frac23,b=\\frac12$",
    "summary_en": "Compute $\\frac{a+b}{ab}$ for $a=\\frac23,b=\\frac12$",
    "statement_en": "Let $a=\\frac23$, $b=\\frac12$. The value of $\\frac{a+b}{a\\cdot b}$ is equal to: A. $\\frac{7}{2}$; B. $\\frac{9}{5}$; C. $\\frac{7}{18}$; D. $\\frac{3}{2}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "36",
    "answer_tex": "36\\%",
    "category": "liczby",
-   "topic_pl": "Obnizki procentowe",
+   "topic_pl": "Obniżki procentowe",
    "topic_en": "Percentage discounts",
    "difficulty": 2,
-   "summary_pl": "Dwie obnizki po $20\\%$: rownowazna jedna obnizka",
-   "summary_en": "Two 20% discounts: equivalent single discount",
+   "summary_pl": "Dwie obniżki po $20\\%$: równoważna jedna obniżka (w %)",
+   "summary_en": "Two $20\\%$ discounts: equivalent single discount (in %)",
    "statement_en": "The price of a product was reduced twice, each time by 20%. These two reductions can be replaced by a single equivalent reduction of: A. 40%; B. 36%; C. 32%; D. 28%.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -46,14 +50,16 @@
    "value_tex": "25",
    "answer_tex": "25",
    "category": "liczby",
-   "topic_pl": "Potegi",
+   "topic_pl": "Potęgi",
    "topic_en": "Powers",
    "difficulty": 1,
    "summary_pl": "Oblicz $\\frac{5^{12}\\cdot9^5}{15^{10}}$",
    "summary_en": "Compute $\\frac{5^{12}\\cdot9^5}{15^{10}}$",
    "statement_en": "The number $\\frac{5^{12}\\cdot 9^5}{15^{10}}$ is equal to: A. $25$; B. $3^7$; C. $3^3$; D. $\\frac{25}{27}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -64,14 +70,16 @@
    "value_tex": "4",
    "answer_tex": "4",
    "category": "liczby",
-   "topic_pl": "Rozwiniecie dziesietne",
+   "topic_pl": "Rozwinięcie dziesiętne",
    "topic_en": "Decimal expansion",
    "difficulty": 2,
-   "summary_pl": "30. cyfra po przecinku w rozwinieciu $2/7$",
+   "summary_pl": "30. cyfra po przecinku w rozwinięciu $2/7$",
    "summary_en": "30th decimal digit of $2/7$",
    "statement_en": "In the decimal expansion of $\\frac{2}{7}$, the digit in the thirtieth place after the decimal point is: A. $7$; B. $1$; C. $2$; D. $4$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -82,14 +90,16 @@
    "value_tex": "6",
    "answer_tex": "6",
    "category": "rownania",
-   "topic_pl": "Nierownosc liniowa",
+   "topic_pl": "Nierówność liniowa",
    "topic_en": "Linear inequality",
    "difficulty": 1,
    "summary_pl": "Największa całk.: $\\frac{x}{4}-\\sqrt3<0$",
    "summary_en": "Largest integer: $\\frac{x}{4}-\\sqrt3<0$",
    "statement_en": "Indicate the largest integer satisfying the inequality $\\frac{x}{4}-\\sqrt3<0$: A. $5$; B. $6$; C. $7$; D. $8$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -111,14 +121,16 @@
    "value_tex": "-6",
    "answer_tex": "-6",
    "category": "rownania",
-   "topic_pl": "Rownanie kwadratowe",
+   "topic_pl": "Równanie kwadratowe",
    "topic_en": "Quadratic equation",
    "difficulty": 2,
    "summary_pl": "Iloczyn rozwiązań $(x-\\frac12)^2-\\frac{25}{4}=0$",
    "summary_en": "Product of solutions of $(x-\\frac12)^2-\\frac{25}{4}=0$",
    "statement_en": "The product of the numbers satisfying the equation $\\left(x-\\frac12\\right)^2-\\frac{25}{4}=0$ is equal to: A. $6$; B. $-5$; C. $5$; D. $-6$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -129,14 +141,16 @@
    "value_tex": "0+2",
    "answer_tex": "(0,2)",
    "category": "funkcje",
-   "topic_pl": "Przesuniecie wykresu",
+   "topic_pl": "Przesunięcie wykresu",
    "topic_en": "Graph translation",
    "difficulty": 2,
    "summary_pl": "Wierzch. $f$ w $(2,2)$: wierzch. $g(x){=}f(x{+}2)$ (x+y)",
    "summary_en": "Vertex of $f$ at $(2,2)$: vertex of $g(x)=f(x+2)$ (x+y)",
    "statement_en": "The vertex of the parabola that is the graph of quadratic function $y=f(x)$ has coordinates $(2,2)$. Then the vertex of the parabola that is the graph of $g(x)=f(x+2)$ has coordinates: A. $(0,2)$; B. $(4,2)$; C. $(2,0)$; D. $(2,4)$.",
    "confidence": "high",
-   "notes": "Sum = x + y of the vertex coordinates."
+   "notes": "Sum = x + y of the vertex coordinates.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -169,14 +183,16 @@
    "value_tex": "-2",
    "answer_tex": "x=-2",
    "category": "funkcje",
-   "topic_pl": "Os symetrii paraboli",
+   "topic_pl": "Oś symetrii paraboli",
    "topic_en": "Axis of symmetry",
    "difficulty": 1,
-   "summary_pl": "Os symetrii wykresu $f(x)=-2x^2-8x+6$",
-   "summary_en": "Axis of symmetry of $f(x)=-2x^2-8x+6$",
+   "summary_pl": "Oś symetrii $x=c$ wykresu $f(x)=-2x^2-8x+6$: podaj $c$",
+   "summary_en": "Axis of symmetry $x=c$ of $f(x)=-2x^2-8x+6$: find $c$",
    "statement_en": "The axis of symmetry of the graph of the quadratic function $f(x)=-2x^2-8x+6$ is the line with equation: A. $y=2$; B. $y=-2$; C. $x=2$; D. $x=-2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -187,14 +203,16 @@
    "value_tex": "121",
    "answer_tex": "121",
    "category": "ciagi",
-   "topic_pl": "Suma ciagu arytmetycznego",
+   "topic_pl": "Suma ciągu arytmetycznego",
    "topic_en": "Sum of arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Suma 11 wyrazów ciągu $a_n=2n-1$",
    "summary_en": "Sum of 11 terms of $a_n=2n-1$",
    "statement_en": "The sequence $(a_n)$ is defined for $n\\ge1$ by $a_n=2n-1$. The sum of the first eleven terms of this sequence equals: A. $101$; B. $121$; C. $99$; D. $81$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -205,14 +223,16 @@
    "value_tex": "\\frac{10}{9}",
    "answer_tex": "r=\\frac{10}{9}",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $a_{10}=11$, $a_{100}=111$. Oblicz $r$",
    "summary_en": "Arithmetic seq.: $a_{10}=11$, $a_{100}=111$. Find $r$",
    "statement_en": "In an arithmetic sequence $(a_n)$ for $n\\ge1$, $a_{10}=11$ and $a_{100}=111$. The common difference $r$ equals: A. $\\frac{9}{10}$; B. $-100$; C. $\\frac{10}{9}$; D. $100$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -223,14 +243,16 @@
    "value_tex": "\\frac{2}{\\sqrt{29}}",
    "answer_tex": "\\frac{2}{\\sqrt{29}}",
    "category": "trygonometria",
-   "topic_pl": "Trygonometria trojkata prostokatnego",
+   "topic_pl": "Trygonometria trójkąta prostokątnego",
    "topic_en": "Right-triangle trigonometry",
    "difficulty": 2,
    "summary_pl": "Trójkąt prost. o przypr. $2,5$: cosinus więk. kąta",
    "summary_en": "Right triangle, legs $2,5$: cosine of larger acute angle",
    "statement_en": "In a right triangle with legs of length $2$ and $5$, the cosine of the larger acute angle equals: A. $\\frac52$; B. $\\frac25$; C. $\\frac{2}{\\sqrt{29}}$; D. $\\frac{5}{\\sqrt{29}}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -241,14 +263,16 @@
    "value_tex": "\\frac{\\sqrt3}{3}",
    "answer_tex": "\\tan\\alpha=\\frac{\\sqrt3}{3}",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 2,
    "summary_pl": "$3\\sin\\alpha-\\sqrt3\\cos\\alpha=0$: oblicz $\\tan\\alpha$",
    "summary_en": "$3\\sin\\alpha-\\sqrt3\\cos\\alpha=0$: find $\\tan\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $3\\sin\\alpha-\\sqrt3\\cos\\alpha=0$. Then: A. $\\tan\\alpha=\\frac13$; B. $\\tan\\alpha=3$; C. $\\tan\\alpha=\\sqrt3$; D. $\\tan\\alpha=\\frac{\\sqrt3}{3}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -259,14 +283,16 @@
    "value_tex": "3\\sqrt3",
    "answer_tex": "3\\sqrt3",
    "category": "planimetria",
-   "topic_pl": "Szesciokat foremny",
+   "topic_pl": "Sześciokąt foremny",
    "topic_en": "Regular hexagon",
    "difficulty": 2,
-   "summary_pl": "Sześciokąt foremny: przekątna $2\\sqrt2$, pole?",
-   "summary_en": "Regular hexagon: diagonal $2\\sqrt2$, find area",
+   "summary_pl": "Sześciokąt foremny: dłuższa przekątna $2\\sqrt2$, oblicz pole",
+   "summary_en": "Regular hexagon: longer diagonal $2\\sqrt2$, find its area",
    "statement_en": "The longer diagonal of a regular hexagon has length $2\\sqrt2$. The area of this hexagon equals: A. $12\\sqrt3$; B. $6\\sqrt3$; C. $2\\sqrt3$; D. $3\\sqrt3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -277,14 +303,16 @@
    "value_tex": "18+36",
    "answer_tex": "18\\ \\text{i}\\ 36",
    "category": "planimetria",
-   "topic_pl": "Trojkaty podobne",
+   "topic_pl": "Trójkąty podobne",
    "topic_en": "Similar triangles",
    "difficulty": 2,
    "summary_pl": "Trójkąty podobne, pola $1{:}4$: możliwe obwody (suma)",
    "summary_en": "Similar triangles, areas $1{:}4$: possible perimeters (sum)",
    "statement_en": "The perimeters of two similar triangles whose areas are in ratio $1:4$ could be equal to: A. $9$ and $36$; B. $18$ and $36$; C. $9$ and $144$; D. $18$ and $144$.",
    "confidence": "high",
-   "notes": "Sum of the two perimeters in the correct option (18+36)."
+   "notes": "Sum of the two perimeters in the correct option (18+36).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -295,14 +323,16 @@
    "value_tex": "9+8",
    "answer_tex": "C=(9,8)",
    "category": "analityczna",
-   "topic_pl": "Kwadrat we wspolrzednych",
+   "topic_pl": "Kwadrat we współrzędnych",
    "topic_en": "Square in coordinates",
    "difficulty": 3,
    "summary_pl": "Kwadrat $ABCD$: $A{=}(3,2)$, $O{=}(6,5)$. Wsp. $C$ (suma)",
    "summary_en": "Square $ABCD$: $A=(3,2)$, $O=(6,5)$. Coordinates of $C$ (sum)",
-   "statement_en": "Points $A=(3,2)$ and $C$ are opposite vertices of square $ABCD$, and point $O=(6,5)$ is the center of the circle circumscribed on this square. The coordinates of point $C$ are: A. $(9,8)$; B. $(15,12)$; C. $\\left(4\\frac13,3\\right)$; D. $(3,3)$.",
+   "statement_en": "Points $A=(3,2)$ and $C$ are opposite vertices of square $ABCD$, and point $O=(6,5)$ is the center of the circle circumscribed on this square. The coordinates of point $C$ are: A. $(9,8)$; B. $(15,12)$; C. $\\left(4\\frac12,3\\frac12\\right)$; D. $(3,3)$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -313,14 +343,16 @@
    "value_tex": "3",
    "answer_tex": "r=3",
    "category": "analityczna",
-   "topic_pl": "Okrag styczny do osi",
+   "topic_pl": "Okrąg styczny do osi",
    "topic_en": "Circle tangent to an axis",
    "difficulty": 2,
-   "summary_pl": "Okrag $(x-3)^2+(y+2)^2=r^2$ styczny do $Oy$",
-   "summary_en": "Circle $(x-3)^2+(y+2)^2=r^2$ tangent to $Oy$",
+   "summary_pl": "Okrąg $(x-3)^2+(y+2)^2=r^2$ styczny do $Oy$: oblicz $r$",
+   "summary_en": "Circle $(x-3)^2+(y+2)^2=r^2$ tangent to $Oy$: find $r$",
    "statement_en": "The circle described by the equation $(x-3)^2+(y+2)^2=r^2$ is tangent to the $Oy$ axis. The radius $r$ of this circle equals: A. $\\sqrt{13}$; B. $\\sqrt5$; C. $3$; D. $2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -331,14 +363,16 @@
    "value_tex": "3\\sqrt6",
    "answer_tex": "3\\sqrt6",
    "category": "stereometria",
-   "topic_pl": "Czworoscian foremny",
+   "topic_pl": "Czworościan foremny",
    "topic_en": "Regular tetrahedron",
    "difficulty": 2,
    "summary_pl": "Czworościan foremny o kraw. $9$: wysokość",
    "summary_en": "Regular tetrahedron, edge $9$: height",
    "statement_en": "Every edge of a regular triangular pyramid (a regular tetrahedron) has length $9$. The height of this pyramid equals: A. $3\\sqrt6$; B. $3\\sqrt3$; C. $2\\sqrt6$; D. $3\\sqrt2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -349,14 +383,16 @@
    "value_tex": "\\frac{5\\sqrt3}{3}",
    "answer_tex": "\\frac{5\\sqrt3}{3}",
    "category": "analityczna",
-   "topic_pl": "Trojkat rownoboczny we wspolrzednych",
+   "topic_pl": "Trójkąt równoboczny we współrzędnych",
    "topic_en": "Equilateral triangle in coordinates",
    "difficulty": 3,
-   "summary_pl": "$A{=}(2,3)$, $B{=}(-6,-3)$: promien okr. wpis. w $ABC$",
+   "summary_pl": "Równoboczny $ABC$, $A{=}(2,3)$, $B{=}(-6,-3)$: promień okr. wpis.",
    "summary_en": "$A=(2,3)$, $B=(-6,-3)$: inradius of equilateral $ABC$",
    "statement_en": "Given points $A=(2,3)$ and $B=(-6,-3)$. The radius of the circle inscribed in equilateral triangle $ABC$ equals: A. $\\frac{20\\sqrt3}{3}$; B. $\\frac{40\\sqrt3}{3}$; C. $\\frac{5\\sqrt3}{3}$; D. $\\frac{10\\sqrt3}{3}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -367,14 +403,16 @@
    "value_tex": "2\\sqrt6",
    "answer_tex": "2\\sqrt6",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup czworokatny",
+   "topic_pl": "Graniastosłup czworokątny",
    "topic_en": "Quadrilateral prism",
    "difficulty": 3,
-   "summary_pl": "Graniastosłup: pole podst. $36$, kąt przek. $30°$",
-   "summary_en": "Prism: base area $36$, diagonal angle $30°$",
+   "summary_pl": "Graniast. prawidł. czworok.: $P_p=36$, kąt przek. $30°$: wysokość",
+   "summary_en": "Regular square prism: base area $36$, diagonal angle $30°$: height",
    "statement_en": "The base of a regular quadrilateral prism has area $36$, and the angle between the prism's diagonal and the base plane is $30°$. The height of this prism equals: A. $3\\sqrt2$; B. $6\\sqrt2$; C. $2\\sqrt6$; D. $3\\sqrt6$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -385,14 +423,16 @@
    "value_tex": "\\frac{3}{8}",
    "answer_tex": "\\frac{3}{8}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
    "summary_pl": "Losowanie z $\\{0,...,15\\}$: prawd. liczby pierwszej",
    "summary_en": "Draw from $\\{0,...,15\\}$: probability of a prime",
    "statement_en": "One number is randomly drawn from the set $\\{0,1,2,\\dots,15\\}$. The probability of drawing a prime number equals: A. $\\frac{7}{16}$; B. $\\frac{3}{8}$; C. $\\frac{6}{15}$; D. $\\frac{7}{15}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -406,11 +446,13 @@
    "topic_pl": "Mediana",
    "topic_en": "Median",
    "difficulty": 2,
-   "summary_pl": "Mediana $9,1,4,x,7,9$ to $8$: znajdz $x$",
+   "summary_pl": "Mediana $9,1,4,x,7,9$ to $8$: znajdź $x$",
    "summary_en": "Median of $9,1,4,x,7,9$ is $8$: find $x$",
    "statement_en": "The median of the data set $9,\\ 1,\\ 4,\\ x,\\ 7,\\ 9$ is the number $8$. Then $x$ could be equal to: A. $8$; B. $4$; C. $7$; D. $9$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -428,7 +470,9 @@
    "summary_en": "4-digit numbers $>3000$ from digits $1,2,3$ (repeats ok)",
    "statement_en": "How many four-digit numbers greater than $3000$ can be formed using only the digits $1,2,3$ (repetitions allowed, not all digits need be used)? A. $3$; B. $27$; C. $9$; D. $6$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -439,14 +483,16 @@
    "value_tex": "-1",
    "answer_tex": "x=-1\\ \\lor\\ x=\\frac{\\sqrt6}{4}\\ \\lor\\ x=-\\frac{\\sqrt6}{4}",
    "category": "rownania",
-   "topic_pl": "Rownanie wielomianowe",
+   "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $8x^3+8x^2-3x-3=0$ (suma rozwiązań)",
    "summary_en": "Solve $8x^3+8x^2-3x-3=0$ (sum of solutions)",
    "statement_en": "Solve the equation $8x^3+8x^2-3x-3=0$.",
    "confidence": "high",
-   "notes": "Factoring gives (x+1)(8x^2-3)=0; sum of the three roots is -1."
+   "notes": "Factoring gives (x+1)(8x^2-3)=0; sum of the three roots is -1.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -468,14 +514,16 @@
    "value_tex": "\\frac{8}{45}",
    "answer_tex": "P(A)=\\frac{8}{45}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
    "summary_pl": "2-cyfrowa liczba: podzielna przez $9$ lub $12$",
    "summary_en": "2-digit number: divisible by $9$ or $12$",
    "statement_en": "A number is randomly chosen from the set of two-digit natural numbers. Find the probability of event $A$: the chosen number is divisible by $9$ or by $12$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -486,14 +534,16 @@
    "value_tex": "\\frac{2}{7}",
    "answer_tex": "\\sin\\alpha\\cos\\alpha=\\frac{2}{7}",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 2,
    "summary_pl": "$\\tan\\alpha+\\frac{1}{\\tan\\alpha}=\\frac72$: oblicz $\\sin\\alpha\\cos\\alpha$",
    "summary_en": "$\\tan\\alpha+\\frac{1}{\\tan\\alpha}=\\frac72$: find $\\sin\\alpha\\cos\\alpha$",
    "statement_en": "Acute angle $\\alpha$ satisfies $\\tan\\alpha+\\frac{1}{\\tan\\alpha}=\\frac72$. Find the value of $\\sin\\alpha\\cdot\\cos\\alpha$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -526,14 +576,16 @@
    "value_tex": "2",
    "answer_tex": "q=2",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny i geometryczny",
+   "topic_pl": "Ciąg arytmetyczny i geometryczny",
    "topic_en": "Arithmetic and geometric sequence",
    "difficulty": 3,
    "summary_pl": "Ciąg arytm. $a_1{=}2$: $a_1,a_2,a_4$ tworzą geom. (iloraz)",
    "summary_en": "Arithmetic seq. $a_1=2$: $a_1,a_2,a_4$ form geometric (ratio)",
    "statement_en": "An arithmetic sequence $(a_n)$ has common difference $r\\ne0$ and first term $a_1=2$. Its first, second and fourth terms are, respectively, the first, second and third terms of a geometric sequence. Find the ratio of this geometric sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -555,14 +607,16 @@
    "value_tex": "\\frac{20\\sqrt{15}}{3}",
    "answer_tex": "V=\\frac{20\\sqrt{15}}{3}",
    "category": "stereometria",
-   "topic_pl": "Ostroslup czworokatny",
+   "topic_pl": "Ostrosłup czworokątny",
    "topic_en": "Quadrilateral pyramid",
    "difficulty": 3,
    "summary_pl": "Ostrosłup: ściana boczna pole $10$, kąt $60°$. Objętość",
    "summary_en": "Pyramid: lateral face area $10$, angle $60°$. Volume",
    "statement_en": "In a regular quadrilateral pyramid, a lateral face has area $10$ and is inclined to the base plane at an angle of $60°$. Find the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

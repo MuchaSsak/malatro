@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\log_3\\sqrt{27}-\\log_{27}\\sqrt3$",
    "statement_en": "The number log_3(sqrt(27)) - log_27(sqrt(3)) is equal to: A. 4/3  B. 1/2  C. 11/12  D. 3. Choose the correct answer from the options given.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "$f(x)=\\frac{x^3-8}{x-2}$: compute $f'(1/2)$",
    "statement_en": "The function f is given by f(x) = (x^3-8)/(x-2) for every real x != 2. The value of the derivative of this function at the argument x=1/2 is equal to: A. 3/4  B. 9/4  C. 3  D. 54/8. Choose the correct answer from the options given.",
    "confidence": "high",
-   "notes": "f(x)=x^2+2x+4 for x!=2; f'(x)=2x+2; f'(1/2)=3."
+   "notes": "f(x)=x^2+2x+4 for x!=2; f'(x)=2x+2; f'(1/2)=3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "$\\cos\\beta=-\\frac13$, $\\beta\\in(\\pi,\\frac32\\pi)$: compute $\\sin(\\beta-\\frac13\\pi)$",
    "statement_en": "If cos(beta) = -1/3 and beta is in (pi, 3*pi/2), then the value of the expression sin(beta - pi/3) is equal to: A. (-2*sqrt(2)+sqrt(3))/6  B. (2*sqrt(6)+1)/6  C. (2*sqrt(2)+sqrt(3))/6  D. (1-2*sqrt(6))/6. Choose the correct answer from the options given.",
    "confidence": "high",
-   "notes": "sin(beta)=-2*sqrt2/3 (third quadrant); expansion gives option A."
+   "notes": "sin(beta)=-2*sqrt2/3 (third quadrant); expansion gives option A.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "2 urns, coin flip: $P$(white ball)",
    "statement_en": "There are two urns with balls, each containing seven balls. The first urn has 1 white ball and 6 black balls; the second urn has 4 white balls and 3 black balls. A fair coin is tossed once. If it comes up tails, a ball is drawn from the first urn; otherwise, a ball is drawn from the second urn. The probability of drawing a white ball in this experiment is equal to: A. 5/14  B. 9/14  C. 5/7  D. 6/7. Choose the correct answer from the options given.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Sequence $a_n$ with parameter $p$: limit $=4/3$. Find $p$",
    "statement_en": "The sequence (a_n) is defined for every natural number n>=1 by a_n = [(7p-1)n^3+5pn-3] / [(p+1)n^3+n^2+p], where p is a positive real number. Calculate the value of p for which the limit of the sequence (a_n) equals 4/3. (In the exam, the answer is coded as the first three digits after the decimal point of the infinite decimal expansion of p.)",
    "confidence": "high",
-   "notes": "p=7/17=0.41176...; the exam's coded boxes hold digits 4,1,1, matching this value."
+   "notes": "p=7/17=0.41176...; the exam's coded boxes hold digits 4,1,1, matching this value.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -117,7 +127,9 @@
    "summary_en": "Solve the equation $|x-3|=2x+11$",
    "statement_en": "Solve the equation |x-3| = 2x+11.",
    "confidence": "high",
-   "notes": "Only x=-8/3 works (the x>=3 case gives x=-14, rejected). [verified: ok: x>=3 gives x=-14 (rejected); x<3 gives 3-x=2x+11, x=-8/3 (check 17/3=17/3). Unique solution, matches key.]"
+   "notes": "Only x=-8/3 works (the x>=3 case gives x=-14, rejected). [verified: ok: x>=3 gives x=-14 (rejected); x<3 gives 3-x=2x+11, x=-8/3 (check 17/3=17/3). Unique solution, matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -145,7 +157,9 @@
    "summary_en": "Polynomial $W(x)=4x^3-6x^2-(5m+1)x-2m$, $W(-2)=-30$: find $m$",
    "statement_en": "The remainder from dividing the polynomial W(x) = 4x^3 - 6x^2 - (5m+1)x - 2m by the binomial x+2 is equal to -30. Calculate m, and for the value of m found, solve the inequality W(x) >= 0.",
    "confidence": "high",
-   "notes": "Only m=3 is numeric; the inequality's solution set [-1,-1/2] u [3,+inf) is an interval, not summed."
+   "notes": "Only m=3 is numeric; the inequality's solution set [-1,-1/2] u [3,+inf) is an interval, not summed.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -163,7 +177,9 @@
    "summary_en": "Geometric $a_n$ and arithmetic $b_n$ linked: find $b_1$",
    "statement_en": "The sequence (a_n), defined for every natural number n>=1, is geometric with all terms positive. Also a_1=675 and a_22 = (5/4)a_23 + (1/5)a_21. The sequence (b_n), defined for every natural number n>=1, is arithmetic. The sum of all terms of the (infinite) sequence (a_n) equals the sum of the first twenty-five terms of the sequence (b_n). Also a_3 = b_4. Calculate b_1.",
    "confidence": "high",
-   "notes": "q=2/5; sum of a_n=1125; a_3=108=b_4; solving b_1+12d=45 and b_1+3d=108 gives d=-7, b_1=129."
+   "notes": "q=2/5; sum of a_n=1125; a_3=108=b_4; solving b_1+12d=45 and b_1+3d=108 gives d=-7, b_1=129.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -181,7 +197,9 @@
    "summary_en": "Solve $\\sin x+\\sin2x+\\sin3x=0$ on $[0,\\pi]$ (sum of solutions)",
    "statement_en": "Solve the equation sin(x) + sin(2x) + sin(3x) = 0 in the interval [0, pi].",
    "confidence": "high",
-   "notes": "sin2x(2cosx+1)=0 => x=0,pi/2,pi or x=2pi/3; sum=13*pi/6."
+   "notes": "sin2x(2cosx+1)=0 => x=0,pi/2,pi or x=2pi/3; sum=13*pi/6.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -199,7 +217,9 @@
    "summary_en": "$x^2-(m+1)x+m=0$: condition on $x_1,x_2$ (sum of $m$ values)",
    "statement_en": "Find all values of the parameter m for which the equation x^2 - (m+1)x + m = 0 has two distinct real solutions x1 and x2, satisfying x1 != 0, x2 != 0, and 1/x1 + 1/x2 + 2 = 1/x1^2 + 1/x2^2.",
    "confidence": "high",
-   "notes": "Vieta gives 2m^2+m-1=0 => m=-1 or m=1/2; both give distinct nonzero roots; sum=-0.5."
+   "notes": "Vieta gives 2m^2+m-1=0 => m=-1 or m=1/2; both give distinct nonzero roots; sum=-0.5.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -217,7 +237,9 @@
    "summary_en": "Prism: $\\sin\\alpha=12/13$, area $AFH=26.4$: find $h$",
    "statement_en": "A right prism ABCDEFGH has rectangular base ABCD. The face diagonals AH and AF form an acute angle of measure alpha, with sin(alpha)=12/13 (see figure). The area of triangle AFH is 26.4. Calculate the height h of this prism.",
    "confidence": "high",
-   "notes": "|AF|*|AH|=57.2 from area formula; h^2=cos(alpha)*57.2=22; h=sqrt(22)."
+   "notes": "|AF|*|AH|=57.2 from area formula; h^2=cos(alpha)*57.2=22; h=sqrt(22).",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "14",

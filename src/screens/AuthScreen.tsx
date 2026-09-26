@@ -65,7 +65,12 @@ export default function AuthScreen() {
                   className="rounded-panel border-4 border-panel-light bg-inset px-4 py-3 font-pixel text-4xl tracking-widest text-white outline-none placeholder:text-white/25 focus:border-blue"
                 />
               </label>
-              <PixelButton tone="blue" size="lg" type="submit" disabled={signIn.isPending || slug.length < 3 || pin.length < 4}>
+              <PixelButton
+                tone="blue"
+                size="lg"
+                type="submit"
+                disabled={signIn.isPending || slug.length < 3 || pin.length < 4}
+              >
                 {signIn.isPending ? <Trans>Entering...</Trans> : <Trans>Enter</Trans>}
               </PixelButton>
               <p className="text-center font-pixel text-xl leading-tight text-white/55">

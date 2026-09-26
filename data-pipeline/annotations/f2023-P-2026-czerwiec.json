@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\frac{\\sqrt[3]{-64}+\\sqrt[3]{27}}{\\sqrt[5]{-32}}$",
    "statement_en": "Number $\\dfrac{\\sqrt[3]{-64}+\\sqrt[3]{27}}{\\sqrt[5]{-32}}$ is equal to\n\nA. $(-2)$\nB. $-\\dfrac{1}{2}$\nC. $\\dfrac{1}{2}$\nD. $2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $9^4:3^{-20}$",
    "statement_en": "Number $9^4 : 3^{-20}$ is equal to\n\nA. $9^{-24}$\nB. $9^{-6}$\nC. $9^{14}$\nD. $9^{56}$",
    "confidence": "high",
-   "notes": " [verified: ok: 9^4/3^-20=3^28=9^14; option C matches key.]"
+   "notes": " [verified: ok: 9^4/3^-20=3^28=9^14; option C matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_5\\sqrt[3]{25}$",
    "statement_en": "Number $\\log_5\\sqrt[3]{25}$ is equal to\n\nA. $\\dfrac{1}{6}$\nB. $\\dfrac{2}{3}$\nC. $\\dfrac{3}{2}$\nD. $6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -105,9 +111,11 @@
    "difficulty": 3,
    "summary_pl": "Rozwiąż $\\frac{3x+4}{x-1}=\\frac{x+3}{3x}$ w $(-\\infty,-\\frac{2}{3})$",
    "summary_en": "Solve $\\frac{3x+4}{x-1}=\\frac{x+3}{3x}$ in $(-\\infty,-\\frac{2}{3})$",
-   "statement_en": "Given the equation $\\dfrac{3x+4}{x-1}=\\dfrac{x+3}{3x}$, where $x\\neq 0$ and $x\\neq 1$.\n\nFind all solutions of this equation belonging to the interval $\\left(-\\infty,-\\dfrac{2}{3}\right)$. Show your working.",
+   "statement_en": "Given the equation $\\dfrac{3x+4}{x-1}=\\dfrac{x+3}{3x}$, where $x\\neq 0$ and $x\\neq 1$.\n\nFind all solutions of this equation belonging to the interval $\\left(-\\infty,-\\dfrac{2}{3}\\right)$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -143,7 +151,9 @@
    "summary_en": "$f(x)=2x^2-kx+6$, $f(2)=0$. Find $k$",
    "statement_en": "The quadratic function $f$ is given by the formula $f(x)=2x^2-kx+6$, where $k$ is some real number. The number $2$ is a zero of the function $f$.\n\nNumber $k$ is equal to\n\nA. $(-11)$\nB. $(-7)$\nC. $7$\nD. $11$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12.1",
@@ -161,7 +171,9 @@
    "summary_en": "Read from the graph: number of zeros and the argument of the maximum (sum)",
    "statement_en": "The function $f$ is defined as follows: $f(x)=\\dfrac{4}{3}x+\\dfrac{14}{3}$ for $x\\in[-5,-2)$; $f(x)=\\dfrac{3}{4}x+\\dfrac{3}{2}$ for $x\\in[-2,2]$; $f(x)=-3x+9$ for $x\\in(2,4)$. The graph of $y=f(x)$ is shown in the Cartesian coordinate system $(x,y)$ below. [Figure: piecewise-linear graph rising from a filled point $(-5,-2)$ to an open point $(-2,2)$, then from a filled point $(-2,0)$ rising to a filled point $(2,3)$, then falling to an open point $(4,-3)$.]\n\nComplete the sentences with the correct numbers so that they are true.\n1. The function $f$ has exactly ……… zeros.\n2. The function $f$ attains its greatest value for the argument ……… .",
    "confidence": "high",
-   "notes": "verified via image and the piecewise formula: zeros at x=-3.5,-2,3 (3 zeros); max value 3 at x=2 (sum=5)"
+   "notes": "verified via image and the piecewise formula: zeros at x=-3.5,-2,3 (3 zeros); max value 3 at x=2 (sum=5)",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "12.2",
@@ -188,7 +200,9 @@
    "summary_en": "Parabola vertex $W=(-3,7)$, $f(t)=f(-9)$, $t\\neq-9$. Find $t$",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, the graph of the quadratic function $f$ is a parabola with vertex $W=(-3,7)$.\n\nThe number $t$ satisfies the conditions: $f(t)=f(-9)$ and $t\\neq -9$.\n\nNumber $t$ is equal to\n\nA. $3$\nB. $9$\nC. $15$\nD. $21$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13.2",
@@ -206,7 +220,9 @@
    "summary_en": "$g(x)=f(x-5)$. Vertex of $g$ (sum of coordinates)",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, the graph of the quadratic function $f$ is a parabola with vertex $W=(-3,7)$.\n\nThe quadratic function $g$ is defined using function $f$ by the formula $g(x)=f(x-5)$.\n\nThe vertex of the parabola which is the graph of function $g$ has coordinates\n\nA. $(-8,7)$\nB. $(-3,2)$\nC. $(-3,12)$\nD. $(2,7)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14.1",
@@ -224,7 +240,9 @@
    "summary_en": "$a_1=2$, $a_{n+1}=a_n-6$. Find $a_5$",
    "statement_en": "The sequence $(a_n)$ is defined as follows: $a_1=2$, $a_{n+1}=a_n-6$ for every natural number $n\\ge 1$.\n\nThe fifth term of the sequence $(a_n)$ is equal to\n\nA. $(-4)$\nB. $(-16)$\nC. $(-22)$\nD. $(-28)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14.2",
@@ -251,7 +269,9 @@
    "summary_en": "Arithmetic seq. $(7,a_2,a_3,a_4)$, sum$=54$. Find $a_2$",
    "statement_en": "The four-term sequence $(7,a_2,a_3,a_4)$ is arithmetic. The sum of all terms of this sequence is equal to $54$.\n\nFind the second term of this sequence. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -269,7 +289,9 @@
    "summary_en": "Geometric seq. $(a_1,a_2,2,a_4,a_5)$. Find the product of the terms",
    "statement_en": "The five-term sequence $(a_1,a_2,2,a_4,a_5)$ is geometric.\n\nThe product $a_1\\cdot a_2\\cdot 2\\cdot a_4\\cdot a_5$ is equal to\n\nA. $2$\nB. $16$\nC. $32$\nD. $64$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -287,7 +309,9 @@
    "summary_en": "Right triangle, $\\sin\\alpha=\\frac{1}{4}$, hypotenuse $8$. Shorter leg",
    "statement_en": "A right triangle has an angle $\\alpha$ such that $\\sin\\alpha=\\dfrac{1}{4}$. The hypotenuse of this triangle has length $8$.\n\nThe shorter leg of this triangle has length\n\nA. $1$\nB. $2$\nC. $4$\nD. $2\\sqrt{15}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -305,7 +329,9 @@
    "summary_en": "$BD$ is a diameter, $|\\angle ABD|=18°$. Find $|\\angle BCA|$",
    "statement_en": "Points $A$, $B$, $C$ and $D$ lie on a circle with center $S$. Segment $BD$ is a diameter of this circle, and $|\\angle ABD|=18°$. Point $D$ lies on the shorter arc $CA$ (see figure). [Figure: circle with center $S$; diameter $BD$; point $A$ and $C$ on the circle with $D$ on the shorter arc $CA$; angle $ABD=18°$ marked at vertex $B$.]\n\nThe measure of the acute angle $BCA$ is equal to\n\nA. $36°$\nB. $60°$\nC. $72°$\nD. $81°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -321,9 +347,11 @@
    "difficulty": 2,
    "summary_pl": "$k\\parallel l$, $|AB|=6,|BC|=4,|BD|=2$. Oblicz $|DE|$",
    "summary_en": "$k\\parallel l$, $|AB|=6,|BC|=4,|BD|=2$. Find $|DE|$",
-   "statement_en": "The sides of an angle with vertex at point $A$ are cut by two parallel lines $k$ and $l$. Line $k$ intersects the sides of this angle at points $B$ and $C$. Line $l$ intersects the sides of this angle at points $D$ and $E$. Points $B$ and $D$ lie on one side of the angle, and points $C$ and $E$ lie on the other side. Moreover, $|AB|=6$, $|BC|=4$, and $|BD|=2$ (see figure). [Figure: angle at $A$ with lines $k$ (through $B$, $C$) and $l$ (through $D$, $E$), $k\\\\parallel l$.]\n\nSegment $DE$ has length\n\nA. $8$\nB. $\\dfrac{16}{3}$\nC. $6$\nD. $\\dfrac{8}{3}$",
+   "statement_en": "The sides of an angle with vertex at point $A$ are cut by two parallel lines $k$ and $l$. Line $k$ intersects the sides of this angle at points $B$ and $C$. Line $l$ intersects the sides of this angle at points $D$ and $E$. Points $B$ and $D$ lie on one side of the angle, and points $C$ and $E$ lie on the other side. Moreover, $|AB|=6$, $|BC|=4$, and $|BD|=2$ (see figure). [Figure: angle at $A$; $B$ lies between $A$ and $D$, $C$ lies between $A$ and $E$; lines $k$ (through $B$, $C$) and $l$ (through $D$, $E$), $k\\parallel l$.]\n\nSegment $DE$ has length\n\nA. $\\dfrac{8}{3}$\nB. $\\dfrac{16}{3}$\nC. $6$\nD. $8$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -350,7 +378,9 @@
    "summary_en": "Obtuse angle, $\\sin\\alpha=\\frac{3}{5}$. Find $\\cos\\alpha$",
    "statement_en": "Angle $\\alpha$ is obtuse and $\\sin\\alpha=\\dfrac{3}{5}$.\n\nThe cosine of angle $\\alpha$ is equal to\n\nA. $-\\dfrac{4}{5}$\nB. $-\\dfrac{3}{4}$\nC. $\\dfrac{3}{4}$\nD. $\\dfrac{4}{5}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -368,7 +398,9 @@
    "summary_en": "Parallelogram $ABCD$. Find the coordinates of point $S$ (sum)",
    "statement_en": "In the Cartesian coordinate system $(x,y)$ a parallelogram $ABCD$ is given, where $D=(6,19)$. Side $AB$ of this parallelogram lies on the line $y=\\dfrac{1}{2}x+9$, and side $AD$ lies on the line $y=4x-5$. Point $K=(10,14)$ is the midpoint of segment $AB$. The diagonals of parallelogram $ABCD$ intersect at point $S$.\n\nFind the coordinates of point $S$. Show your working.",
    "confidence": "high",
-   "notes": " [verified: ok: A=(4,11), B=(16,17), S=mid BD=(11,18); sum 29, matches key.]"
+   "notes": " [verified: ok: A=(4,11), B=(16,17), S=mid BD=(11,18); sum 29, matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -386,7 +418,9 @@
    "summary_en": "$A=(-3,1)$, $B=(1,-3)$ are square vertices. Find the perimeter",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, points $A=(-3,1)$ and $B=(1,-3)$ are consecutive vertices of square $ABCD$.\n\nThe perimeter of square $ABCD$ is equal to\n\nA. $4\\sqrt{2}$\nB. $16\\sqrt{2}$\nC. $16$\nD. $32$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -413,7 +447,9 @@
    "summary_en": "Pyramid with all edges $=12$. Find the height",
    "statement_en": "Every edge of a regular quadrilateral pyramid has length $12$.\n\nThe height of this pyramid is equal to\n\nA. $2\\sqrt{3}$\nB. $3\\sqrt{2}$\nC. $2\\sqrt{6}$\nD. $6\\sqrt{2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -438,9 +474,11 @@
    "difficulty": 3,
    "summary_pl": "Walec: $|BD|=4\\sqrt3$, $|\\angle ABD|=30°$. Objętość + pole całk. (suma)",
    "summary_en": "Cylinder: $|BD|=4\\sqrt3$, $|\\angle ABD|=30°$. Volume + total surface area (sum)",
-   "statement_en": "Segment $AD$ is the height of a cylinder, and segment $AB$ is a diameter of the base of the cylinder. Segment $BD$ has length $4\\sqrt{3}$. The measure of angle $ABD$ is equal to $30°$ (see figure). [Figure: right triangle $ABD$ with the right angle at $A$; hypotenuse $BD=4\\\\sqrt3$; angle at $B$ equal to $30°$; $AD$ vertical (the cylinder's height), $AB$ horizontal (the base diameter).]\n\nFind the volume and the total surface area of this cylinder. Show your working.",
+   "statement_en": "Segment $AD$ is the height of a cylinder, and segment $AB$ is a diameter of the base of the cylinder. Segment $BD$ has length $4\\sqrt{3}$. The measure of angle $ABD$ is equal to $30°$ (see figure). [Figure: right triangle $ABD$ with the right angle at $A$; hypotenuse $BD=4\\sqrt3$; angle at $B$ equal to $30°$; $AD$ vertical (the cylinder's height), $AB$ horizontal (the base diameter).]\n\nFind the volume and the total surface area of this cylinder. Show your working.",
    "confidence": "high",
-   "notes": "answer_kind sum combines the volume and the total surface area, both explicitly requested"
+   "notes": "answer_kind sum combines the volume and the total surface area, both explicitly requested",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -458,7 +496,9 @@
    "summary_en": "How many 4-digit even numbers have equal thousands and units digits?",
    "statement_en": "How many natural four-digit even numbers are there in which the thousands digit and the units digit (in decimal notation) are equal?\n\nA. $400$\nB. $500$\nC. $900$\nD. $1600$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -476,7 +516,9 @@
    "summary_en": "School 1: mean age 9, 3x students. School 2: mean age 13. Find the combined mean",
    "statement_en": "In a certain town there are two schools. The first one has three times as many students as the second one. The mean age of students in the first school is $9$ years, and the mean age of students in the second school is $13$ years.\n\nThe mean age of all students of both schools, expressed in years, is equal to\n\nA. $10$\nB. $10.5$\nC. $11$\nD. $11.5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -494,7 +536,9 @@
    "summary_en": "Grade diagram from a test. Find the median",
    "statement_en": "The diagram shows the results of a mathematics test in a certain graduating class. The horizontal axis shows the grades obtained by the students of this class, and the vertical axis shows the number of students who received a given grade. [Figure: bar chart with grades $1$-$6$ on the horizontal axis and number of students on the vertical axis: grade $1$: $2$ students, grade $2$: $1$ student, grade $3$: $6$ students, grade $4$: $5$ students, grade $5$: $7$ students, grade $6$: $5$ students.]\n\nThe median of the grades obtained on this test by the students of this class is equal to\n\nA. $3$\nB. $3.5$\nC. $4$\nD. $5$",
    "confidence": "high",
-   "notes": "bar heights read from the image: 2,1,6,5,7,5 for grades 1-6 (n=26, median = avg of 13th & 14th value = 4)"
+   "notes": "bar heights read from the image: 2,1,6,5,7,5 for grades 1-6 (n=26, median = avg of 13th & 14th value = 4)",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "31",
@@ -512,7 +556,9 @@
    "summary_en": "Draw 2 numbers from $\\{2,...,7\\}$ without replacement. Find $P(A)$",
    "statement_en": "Given is the six-element set $K=\\{2,3,4,5,6,7\\}$. From set $K$ we draw without replacement, in sequence, two numbers, one at a time, and write them down in the order drawn.\n\nFind the probability of event $A$: the number drawn first is even and, at the same time, the product of the two drawn numbers is greater than $16$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -530,7 +576,9 @@
    "summary_en": "Square $ABCD$, side $4$. Find $x=|CF|$ minimizing the area of $DEF$",
    "statement_en": "Square $ABCD$ has side length $4$. We consider all triangles $DEF$ satisfying simultaneously the following conditions: point $E$ lies on side $AB$ of square $ABCD$; point $F$ lies on side $BC$ of square $ABCD$; $|CF|=x$ and $|EB|=2x$, where $x\\in(0,2)$ (see figure). [Figure: square $ABCD$ with $E$ on $AB$, $F$ on $BC$, $|CF|=x$, $|EB|=2x$.] Let $P(x)$ denote the area of triangle $DEF$ as a function of the length $x$ of segment $CF$.\n\nFind the formula for function $P$ of variable $x$, where $x\\in(0,2)$. Find the length $x$ of segment $CF$ for which the area of triangle $DEF$ is smallest. Show your working.",
    "confidence": "high",
-   "notes": "task also asks to find the formula P(x) (symbolic, excluded from value); value is only the numeric x that minimizes the area"
+   "notes": "task also asks to find the formula P(x) (symbolic, excluded from value); value is only the numeric x that minimizes the area",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

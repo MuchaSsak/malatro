@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\frac{25^{-2}}{125^{-4}}$",
    "statement_en": "The number $\\dfrac{25^{-2}}{125^{-4}}$ is equal to: A. $5^{-16}$ B. $5^{-2}$ C. $5^{4}$ D. $5^{8}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\sqrt[3]{24}+\\sqrt[3]{192}$",
    "statement_en": "The number $\\sqrt[3]{24}+\\sqrt[3]{192}$ is equal to: A. $6$ B. $3\\sqrt[3]{6}$ C. $6\\sqrt[3]{3}$ D. $6\\sqrt[3]{6}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_3 2-\\log_3 18$",
    "statement_en": "The number $\\log_3 2-\\log_3 18$ is equal to: A. $-2$ B. $-\\frac12$ C. $\\frac12$ D. $2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -87,7 +93,9 @@
    "summary_en": "Sum of solutions of $(3x-12)(10+5x)(x-3)=0$",
    "statement_en": "The sum of all solutions of the equation $(3x-12)(10+5x)(x-3)=0$ is equal to: A. $-5$ B. $-1$ C. $5$ D. $9$",
    "confidence": "high",
-   "notes": "Closed task; correct option already gives the sum directly."
+   "notes": "Closed task; correct option already gives the sum directly.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -111,9 +119,11 @@
    "difficulty": 2,
    "summary_pl": "Z wykresu: oblicz $f(-2)+3f(2)$",
    "summary_en": "From the graph: compute $f(-2)+3f(2)$",
-   "statement_en": "Information for tasks 8-9: the graph of function $f$ is shown in the $(x,y)$ coordinate system [Figure: piecewise linear graph - a ray from an open circle at $(-5,0)$ down to $(-3,-4)$, then a segment rising through $(0,-1)$ and $(1,0)$ to a closed dot at $(4,3)$]. Task 8: the value of the expression $f(-2)+3\\cdot f(2)$ is equal to: A. $-3$ B. $0$ C. $3$ D. $4$",
+   "statement_en": "Information for tasks 8-9: the graph of function $f$ is shown in the $(x,y)$ coordinate system [Figure: piecewise linear graph - a segment from an open circle at $(-5,0)$ down to $(-3,-4)$, then a segment rising through $(0,-1)$ and $(1,0)$ to a closed dot at $(4,3)$]. Task 8: the value of the expression $f(-2)+3\\cdot f(2)$ is equal to: A. $-3$ B. $0$ C. $3$ D. $4$",
    "confidence": "high",
-   "notes": "Crop for task 8 does not include the shared graph (Informacja do zadan 8-9); verified value by rendering the exam PDF page directly: f(-2)=-3, f(2)=1, so f(-2)+3f(2)=0. [verified: ok: Crop includes graph; f(x)=x-1 on [-3,4]: f(-2)=-3, f(2)=1, sum 0, option B, key B.]"
+   "notes": "Crop for task 8 does not include the shared graph (Informacja do zadan 8-9); verified value by rendering the exam PDF page directly: f(-2)=-3, f(2)=1, so f(-2)+3f(2)=0. [verified: ok: Crop includes graph; f(x)=x-1 on [-3,4]: f(-2)=-3, f(2)=1, sum 0, option B, key B.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "9",
@@ -139,7 +149,9 @@
    "summary_en": "Quadratic fn: zero $6$, axis $x=1$. Find $b$",
    "statement_en": "Information for tasks 10-12: the quadratic function $f$ is given by $f(x)=\\frac12x^2+bx+c$, where $b$ and $c$ are real numbers. One of the zeros of $f$ is the number $6$. In the $(x,y)$ coordinate system, the line $x=1$ is the axis of symmetry of the graph of $f$. Task 10: the coefficient $b$ is equal to: A. $-2$ B. $-1$ C. $-\\frac12$ D. $2$",
    "confidence": "high",
-   "notes": "Verified: other zero is 2*1-6=-4; sum of roots -2b=6-4=2 so b=-1. [verified: ok: Axis x=-b/(2*1/2)=-b=1 so b=-1, option B, key B.]"
+   "notes": "Verified: other zero is 2*1-6=-4; sum of roots -2b=6-4=2 so b=-1. [verified: ok: Axis x=-b/(2*1/2)=-b=1 so b=-1, option B, key B.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -161,11 +173,13 @@
    "topic_pl": "Symetria wykresu funkcji",
    "topic_en": "Symmetry axis of a function",
    "difficulty": 2,
-   "summary_pl": "$g(x)=f(x-3)$, oś symetrii $f$: $x=1$. Oś $g$?",
-   "summary_en": "$g(x)=f(x-3)$, axis of $f$: $x=1$. Axis of $g$?",
-   "statement_en": "Information for tasks 10-12 [same as task 10]. Task 12: the function $g$ is defined for every real number $x$ by $g(x)=f(x-3)$. The axis of symmetry of the graph of $g$ is the line with equation: A. $x=-2$ B. $x=1$ C. $x=3$ D. $x=4$",
+   "summary_pl": "$g(x)=f(x-3)$, oś $f$: $x=1$. Oś $g$ to $x=a$; podaj $a$",
+   "summary_en": "$g(x)=f(x-3)$, axis of $f$: $x=1$. Axis of $g$ is $x=a$; find $a$",
+   "statement_en": "Information for tasks 10-12: the quadratic function $f$ is given by $f(x)=\\frac12x^2+bx+c$, where $b$ and $c$ are real numbers. One of the zeros of $f$ is the number $6$. In the $(x,y)$ coordinate system, the line $x=1$ is the axis of symmetry of the graph of $f$. Task 12: the function $g$ is defined for every real number $x$ by $g(x)=f(x-3)$. The axis of symmetry of the graph of $g$ is the line with equation: A. $x=-2$ B. $x=1$ C. $x=3$ D. $x=4$",
    "confidence": "high",
-   "notes": "Shift right by 3: axis moves from x=1 to x=4. [verified: ok: g is f shifted right by 3; axis x=4, option D, key D.]"
+   "notes": "Shift right by 3: axis moves from x=1 to x=4. [verified: ok: g is f shifted right by 3; axis x=4, option D, key D.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -183,7 +197,9 @@
    "summary_en": "Arithmetic seq.: $r=-4$, $a_{10}=-24$. Find $a_6$",
    "statement_en": "The arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$. Its common difference is $-4$ and $a_{10}=-24$. The sixth term of the sequence $(a_n)$ is equal to: A. $-12$ B. $-8$ C. $-4$ D. $0$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -201,7 +217,9 @@
    "summary_en": "Geometric seq.: $a_3=-8a_6$. Find ratio $q$",
    "statement_en": "The geometric sequence $(a_n)$, all of whose terms are real and nonzero, is defined for every natural number $n\\ge1$. Its terms satisfy $a_3=-8\\cdot a_6$. The common ratio of $(a_n)$ is equal to: A. $-2$ B. $-\\frac12$ C. $\\frac12$ D. $2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +237,9 @@
    "summary_en": "Acute angle: $\\cos\\alpha=\\frac{5}{13}$. Find $\\tan\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\cos\\alpha=\\frac{5}{13}$. The tangent of angle $\\alpha$ is equal to: A. $\\frac{5}{12}$ B. $\\frac{12}{13}$ C. $\\frac{13}{12}$ D. $\\frac{12}{5}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -237,7 +257,9 @@
    "summary_en": "Compute $\\sin30^\\circ\\cos60^\\circ+\\sin60^\\circ\\cos30^\\circ$",
    "statement_en": "The number $\\sin30^\\circ\\cdot\\cos60^\\circ+\\sin60^\\circ\\cdot\\cos30^\\circ$ is equal to: A. $\\frac12$ B. $\\frac{\\sqrt2}{2}$ C. $\\frac{\\sqrt3}{2}$ D. $1$",
    "confidence": "high",
-   "notes": "Equals sin(30+60)=sin90=1."
+   "notes": "Equals sin(30+60)=sin90=1.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -253,9 +275,11 @@
    "difficulty": 2,
    "summary_pl": "Okrąg, $\\angle BDA=40°$, $\\angle DBC=65°$. Kąt $BSA$?",
    "summary_en": "Circle, $\\angle BDA=40°$, $\\angle DBC=65°$. Find $\\angle BSA$",
-   "statement_en": "Information for tasks 17-18: points $A$, $B$, $C$, $D$ lie on a circle with center $S$ and radius $36$. Point $S$ lies on segment $BD$. Angle $BDA$ has measure $40°$ and angle $DBC$ has measure $65°$ [Figure: circle with center S on diameter BD, points A and C on the circle, with chords AB, AS, AD, SC, DC drawn]. Task 17: the measure of the acute angle $BSA$ is equal to: A. $20°$ B. $40°$ C. $50°$ D. $80°$",
+   "statement_en": "Information for tasks 17-18: points $A$, $B$, $C$, $D$ lie on a circle with center $S$ and radius $36$. Point $S$ lies on segment $BD$. Angle $BDA$ has measure $40°$ and angle $DBC$ has measure $65°$ [Figure: circle with center S on diameter BD (D at top, B at bottom), A on the left arc, C on the lower right arc; segments AD, AS, AB, DC, BC drawn; angle BSA shaded]. Task 17: the measure of the acute angle $BSA$ is equal to: A. $20°$ B. $40°$ C. $50°$ D. $80°$",
    "confidence": "high",
-   "notes": "BD is a diameter; in triangle ABD, angle BAD=90 (Thales), so angle ABD=50. Triangle ABS is isosceles (SA=SB=radius), so angle SAB=angle SBA=50, giving angle ASB=80. [verified: ok: Central angle BSA = 2*inscribed BDA = 80 deg, option D, key D.]"
+   "notes": "BD is a diameter; in triangle ABD, angle BAD=90 (Thales), so angle ABD=50. Triangle ABS is isosceles (SA=SB=radius), so angle SAB=angle SBA=50, giving angle ASB=80. [verified: ok: Central angle BSA = 2*inscribed BDA = 80 deg, option D, key D.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -269,11 +293,13 @@
    "topic_pl": "Długość łuku okręgu",
    "topic_en": "Arc length",
    "difficulty": 2,
-   "summary_pl": "Okrąg (zad. 17): długość łuku $BC$?",
-   "summary_en": "Circle (task 17 setup): length of arc $BC$?",
-   "statement_en": "Information for tasks 17-18 [same as task 17]. Task 18: the length of arc $BC$, on which the inscribed angle $CDB$ is based, is equal to: A. $8\\pi$ B. $10\\pi$ C. $13\\pi$ D. $20\\pi$",
+   "summary_pl": "Okrąg $r=36$, $BD$ średnica, $\\angle DBC=65°$. Długość łuku $BC$?",
+   "summary_en": "Circle $r=36$, $BD$ diameter, $\\angle DBC=65°$. Length of arc $BC$?",
+   "statement_en": "Information for tasks 17-18: points $A$, $B$, $C$, $D$ lie on a circle with center $S$ and radius $36$. Point $S$ lies on segment $BD$. Angle $BDA$ has measure $40°$ and angle $DBC$ has measure $65°$ [Figure: circle with center S on diameter BD (D at top, B at bottom), A on the left arc, C on the lower right arc; segments AD, AS, AB, DC, BC drawn; angle BSA shaded]. Task 18: the length of arc $BC$, on which the inscribed angle $CDB$ is based, is equal to: A. $8\\pi$ B. $10\\pi$ C. $13\\pi$ D. $20\\pi$",
    "confidence": "high",
-   "notes": "Triangle BCD has a right angle at C (BD diameter), angle DBC=65, so angle CDB=25; central angle for arc BC = 50; arc length = 50/360*2*pi*36 = 10*pi. [verified: ok: Angle BCD=90 (BD diameter), CDB=25, central 50; arc=50/360*72pi=10pi. Key B matches.]"
+   "notes": "Triangle BCD has a right angle at C (BD diameter), angle DBC=65, so angle CDB=25; central angle for arc BC = 50; arc length = 50/360*2*pi*36 = 10*pi. [verified: ok: Angle BCD=90 (BD diameter), CDB=25, central 50; arc=50/360*72pi=10pi. Key B matches.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -291,7 +317,9 @@
    "summary_en": "Trapezoid $ABCD$, $|AB|=2|CD|$. Area $CDE=2$, $BCE=4$. Find area $AED$",
    "statement_en": "Information for tasks 19-20: trapezoid $ABCD$ has bases $AB$ and $CD$ such that $|AB|=2\\cdot|CD|$. Diagonals $AC$ and $BD$ intersect at point $E$ [Figure: trapezoid with D, C on the top base and A, B on the bottom base, diagonals AC and BD crossing at E]. The area of triangle $CDE$ is $2$, and the area of triangle $BCE$ is $4$. Task 19: the area of triangle $AED$ is equal to: A. $2$ B. $3$ C. $4$ D. $8$",
    "confidence": "high",
-   "notes": "AE:EC=BE:ED=AB:CD=2:1 (similar triangles ABE~CDE). Area(AED)/Area(CED)=AE/EC=2, so Area(AED)=2*2=4. [verified: ok: AE:EC=2, so [AED]=2*[CDE]=4 (also [AED]=[BCE]). Key C=4 matches.]"
+   "notes": "AE:EC=BE:ED=AB:CD=2:1 (similar triangles ABE~CDE). Area(AED)/Area(CED)=AE/EC=2, so Area(AED)=2*2=4. [verified: ok: AE:EC=2, so [AED]=2*[CDE]=4 (also [AED]=[BCE]). Key C=4 matches.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -305,11 +333,13 @@
    "topic_pl": "Pole trójkąta w trapezie",
    "topic_en": "Triangle area in a trapezoid",
    "difficulty": 2,
-   "summary_pl": "Trapez (zad. 19): pole trójkąta $ABE$?",
-   "summary_en": "Trapezoid (task 19 setup): area of triangle $ABE$?",
-   "statement_en": "Information for tasks 19-20 [same as task 19]. Task 20: the area of triangle $ABE$ is equal to: A. $4$ B. $6$ C. $8$ D. $10$",
+   "summary_pl": "Trapez, $|AB|=2|CD|$, pole $CDE=2$. Pole trójkąta $ABE$?",
+   "summary_en": "Trapezoid, $|AB|=2|CD|$, area $CDE=2$. Area of triangle $ABE$?",
+   "statement_en": "Information for tasks 19-20: trapezoid $ABCD$ has bases $AB$ and $CD$ such that $|AB|=2\\cdot|CD|$. Diagonals $AC$ and $BD$ intersect at point $E$ [Figure: trapezoid with D, C on the top base and A, B on the bottom base, diagonals AC and BD crossing at E]. The area of triangle $CDE$ is $2$, and the area of triangle $BCE$ is $4$. Task 20: the area of triangle $ABE$ is equal to: A. $4$ B. $6$ C. $8$ D. $10$",
    "confidence": "high",
-   "notes": "Triangles ABE~CDE with ratio AB:CD=2, so Area(ABE)=4*Area(CDE)=4*2=8. [verified: ok: ABE~CDE with ratio 2, area ratio 4: [ABE]=8. Key C=8 matches.]"
+   "notes": "Triangles ABE~CDE with ratio AB:CD=2, so Area(ABE)=4*Area(CDE)=4*2=8. [verified: ok: ABE~CDE with ratio 2, area ratio 4: [ABE]=8. Key C=8 matches.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21",
@@ -327,7 +357,9 @@
    "summary_en": "Triangle area: sides $6,4$, included angle $60°$",
    "statement_en": "Triangle $ABC$ is given, with $|AB|=6$, $|AC|=4$ and $|\\angle CAB|=60°$ [Figure: triangle ABC with sides AB=6, AC=4 and the 60-degree angle at A marked]. The area of triangle $ABC$ is equal to: A. $6$ B. $6\\sqrt3$ C. $12$ D. $12\\sqrt3$",
    "confidence": "high",
-   "notes": "Area = 1/2*6*4*sin60 = 12*(sqrt3/2) = 6*sqrt3."
+   "notes": "Area = 1/2*6*4*sin60 = 12*(sqrt3/2) = 6*sqrt3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -345,7 +377,9 @@
    "summary_en": "Lines $k,l$ parallel: find $m$",
    "statement_en": "In the $(x,y)$ coordinate system, lines $k$ and $l$ are given by the equations $k: y=(3-m)x+5$ and $l: y=(m+3)x-4$. Lines $k$ and $l$ are parallel when the number $m$ is equal to: A. $-3$ B. $0$ C. $\\sqrt{10}$ D. $3$",
    "confidence": "high",
-   "notes": "3-m=m+3 => m=0."
+   "notes": "3-m=m+3 => m=0.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -363,7 +397,9 @@
    "summary_en": "Pyramid: lateral faces are equilateral triangles, side $8$",
    "statement_en": "Every lateral face of a regular quadrilateral pyramid is an equilateral triangle with side length $8$. The height of this pyramid is equal to: A. $4$ B. $4\\sqrt2$ C. $4\\sqrt3$ D. $6$",
    "confidence": "high",
-   "notes": "Base edge=lateral edge=8; half-diagonal=4*sqrt2; height=sqrt(64-32)=sqrt32=4*sqrt2."
+   "notes": "Base edge=lateral edge=8; half-diagonal=4*sqrt2; height=sqrt(64-32)=sqrt32=4*sqrt2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -381,7 +417,9 @@
    "summary_en": "Cylinder: radius $2$, volume $16\\pi^2$. Find height",
    "statement_en": "The volume of a cylinder with base radius $2$ is equal to $16\\pi^2$. The height of this cylinder is equal to: A. $2$ B. $4$ C. $2\\pi$ D. $4\\pi$",
    "confidence": "high",
-   "notes": "V=pi*r^2*h => 16*pi^2=4*pi*h => h=4*pi."
+   "notes": "V=pi*r^2*h => 16*pi^2=4*pi*h => h=4*pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -399,7 +437,9 @@
    "summary_en": "How many 3-digit numbers $>500$ with all odd digits?",
    "statement_en": "How many 3-digit natural numbers greater than $500$ have only odd digits in their decimal representation? A. $13$ B. $50$ C. $75$ D. $107$",
    "confidence": "high",
-   "notes": "Hundreds digit in {5,7,9} (3), tens digit odd (5), units digit odd (5): 3*5*5=75."
+   "notes": "Hundreds digit in {5,7,9} (3), tens digit odd (5), units digit odd (5): 3*5*5=75.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -433,7 +473,9 @@
    "summary_en": "Solve $\\frac{3}{3x-7}=\\frac{5x}{x-8}$ (sum of solutions)",
    "statement_en": "Solve the equation $\\frac{3}{3x-7}=\\frac{5x}{x-8}$, where $x\\neq\\frac{7}{3}$ and $x\\neq8$.",
    "confidence": "high",
-   "notes": "Leads to 15x^2-38x+24=0, roots x=6/5 and x=4/3; sum=38/15."
+   "notes": "Leads to 15x^2-38x+24=0, roots x=6/5 and x=4/3; sum=38/15.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -451,7 +493,9 @@
    "summary_en": "Tomato purchase: how many kg of heirloom tomatoes?",
    "statement_en": "The owner of a restaurant bought $75$ kilograms of tomatoes: $x$ kg of heirloom tomatoes at $11$ PLN per kilogram and $y$ kg of cherry tomatoes at $7.98$ PLN per kilogram. In total he paid $752.52$ PLN for the tomatoes. Compute how many kilograms of heirloom tomatoes the restaurant owner bought.",
    "confidence": "high",
-   "notes": "x+y=75, 11x+7.98(75-x)=752.52 => x=51."
+   "notes": "x+y=75, 11x+7.98(75-x)=752.52 => x=51.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -465,11 +509,13 @@
    "topic_pl": "Średnia i mediana",
    "topic_en": "Mean and median",
    "difficulty": 2,
-   "summary_pl": "Diagram usterek: oblicz średnią i medianę",
-   "summary_en": "Defects histogram: compute mean and median",
+   "summary_pl": "Diagram usterek: suma średniej i mediany liczby usterek",
+   "summary_en": "Defects chart: sum of the mean and the median",
    "statement_en": "At a diagnostic station, the numbers of defects detected during technical inspections of five-year-old cars in July 2025 were recorded. All the recorded results are presented in the diagram below [Figure: bar chart, horizontal axis = number of defects detected (1 to 5), vertical axis = number of cars, with bar heights 16, 10, 2, 2, 2 for 1, 2, 3, 4, 5 defects respectively]. Compute the arithmetic mean and the median of the number of defects detected at this station during these inspections.",
    "confidence": "high",
-   "notes": "From the key's worked solution: 32 cars total, mean=1.875, median=1.5; sum=3.375."
+   "notes": "From the key's worked solution: 32 cars total, mean=1.875, median=1.5; sum=3.375.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "31",
@@ -487,7 +533,9 @@
    "summary_en": "Roll die twice: $P$(number odd and divisible by 3)",
    "statement_en": "A random experiment consists of rolling a symmetric six-sided die twice, with faces showing from one to six pips. The numbers of pips rolled are written down in order, forming a two-digit number, where the first roll gives the tens digit and the second the units digit. Compute the probability of event $A$: that the two-digit number obtained this way is odd and divisible by $3$.",
    "confidence": "high",
-   "notes": "6 favorable outcomes out of 36: P=6/36=1/6."
+   "notes": "6 favorable outcomes out of 36: P=6/36=1/6.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -505,7 +553,9 @@
    "summary_en": "Seq. $a_n=\\frac{32(-1)^n}{2^{n-1}}$; $(x,a_6,2x+10)$ arithmetic (x + r)",
    "statement_en": "The sequence $(a_n)$ is defined by $a_n=\\frac{32\\cdot(-1)^n}{2^{n-1}}$ for every natural number $n\\ge1$. The three-term sequence $(x,\\,a_6,\\,2x+10)$, where $x$ is a real number, is arithmetic. Compute $x$ and the common difference of this arithmetic sequence.",
    "confidence": "high",
-   "notes": "a_6=1; (x+2x+10)/2=1 => x=-8/3; r=1-(-8/3)=11/3; sum x+r=1."
+   "notes": "a_6=1; (x+2x+10)/2=1 => x=-8/3; r=1-(-8/3)=11/3; sum x+r=1.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -519,11 +569,13 @@
    "topic_pl": "Graniastosłup prawidłowy trójkątny",
    "topic_en": "Regular triangular prism",
    "difficulty": 3,
-   "summary_pl": "Graniastosłup: wysokość podstawy $2\\sqrt3$, kąt $60°$. Obj. i pole",
-   "summary_en": "Prism: base height $2\\sqrt3$, angle $60°$. Volume and total area",
+   "summary_pl": "Graniastosłup: wys. podstawy $2\\sqrt3$, kąt $60°$. Suma $V+P_c$",
+   "summary_en": "Prism: base height $2\\sqrt3$, angle $60°$. Sum volume + total area",
    "statement_en": "A regular triangular prism $ABCDEF$ is given. The height of the base triangle $ABC$ is equal to $2\\sqrt3$. The diagonal $AE$ of the lateral face $ABED$ forms a $60°$ angle with edge $AB$ [Figure: triangular prism with base vertices A, B, C and top vertices D, E, F, the base height 2*sqrt3 and the 60-degree angle at A marked]. Compute the volume and the total surface area of this prism.",
    "confidence": "high",
-   "notes": "Base edge a=4 (from height 2sqrt3=a*sqrt3/2), H=a*tan60=4sqrt3; V=48; total surface area=56*sqrt3; sum=48+56*sqrt3."
+   "notes": "Base edge a=4 (from height 2sqrt3=a*sqrt3/2), H=a*tan60=4sqrt3; V=48; total surface area=56*sqrt3; sum=48+56*sqrt3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -537,11 +589,13 @@
    "topic_pl": "Symetralna odcinka - geometria analityczna",
    "topic_en": "Perpendicular bisector - coordinate geometry",
    "difficulty": 3,
-   "summary_pl": "Punkty $A(-4,7)$, $B(12,3)$: $C$, $D$ na $Ox$ i pole $ACD$",
-   "summary_en": "Points $A(-4,7)$, $B(12,3)$: find $C$, $D$ on $Ox$ and area $ACD$",
+   "summary_pl": "$A(-4,7)$, $B(12,3)$: suma współrzędnych $C$, $D$ i pola $ACD$",
+   "summary_en": "$A(-4,7)$, $B(12,3)$: sum of coords of $C$, $D$ and area $ACD$",
    "statement_en": "In the $(x,y)$ coordinate system, points $A=(-4,7)$ and $B=(12,3)$ are given. Line $AB$ intersects the $Ox$ axis at point $C$. The perpendicular bisector of segment $AB$ intersects the $Ox$ axis at point $D$. Compute the coordinates of points $C$ and $D$, and the area of triangle $ACD$.",
    "confidence": "high",
-   "notes": "C=(24,0), D=(11/4,0), area=595/8; sum of all numbers in the final answer (24+0+11/4+0+595/8)=809/8=101.125."
+   "notes": "C=(24,0), D=(11/4,0), area=595/8; sum of all numbers in the final answer (24+0+11/4+0+595/8)=809/8=101.125.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

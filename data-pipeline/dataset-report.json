@@ -1,86 +1,138 @@
 {
  "stats": {
   "annotated": 3626,
-  "excluded:statement": 75,
-  "included": 2505,
-  "excluded:no_numeric": 60,
+  "excluded:statement": 77,
+  "included": 2462,
+  "excluded:no_numeric": 93,
   "excluded:interval_or_set": 300,
   "excluded:expression": 311,
   "excluded:true_false": 44,
   "excluded:proof": 269,
+  "with_options": 1095,
   "excluded:graph_or_drawing": 41,
-  "duplicates": 6,
+  "crop_issue_dropped": 3,
+  "excluded:ambiguous": 5,
+  "unverified_dropped": 6,
   "excluded:matching": 6,
   "excluded:multi_choice_letters": 9
  },
- "records": 2505,
+ "records": 2462,
  "byLevel": {
-  "P": 1992,
-  "R": 513
+  "P": 1965,
+  "R": 497
  },
  "byCategory": {
-  "ciagi": 293,
-  "funkcje": 236,
-  "statystyka": 84,
-  "planimetria": 309,
-  "liczby": 305,
-  "rownania": 243,
+  "ciagi": 282,
+  "funkcje": 234,
+  "statystyka": 82,
+  "planimetria": 308,
+  "liczby": 294,
+  "rownania": 241,
   "analityczna": 235,
-  "prawdopodobienstwo": 167,
-  "stereometria": 254,
-  "trygonometria": 196,
+  "prawdopodobienstwo": 158,
+  "stereometria": 253,
+  "trygonometria": 192,
   "wyrazenia": 37,
   "kombinatoryka": 83,
   "analiza": 63
  },
  "byLevelCategory": {
   "P:analityczna": 183,
-  "P:ciagi": 224,
-  "P:funkcje": 215,
+  "P:ciagi": 217,
+  "P:funkcje": 213,
   "P:kombinatoryka": 58,
-  "P:liczby": 282,
+  "P:liczby": 275,
   "P:planimetria": 262,
-  "P:prawdopodobienstwo": 114,
-  "P:rownania": 206,
-  "P:statystyka": 84,
-  "P:stereometria": 209,
-  "P:trygonometria": 138,
+  "P:prawdopodobienstwo": 111,
+  "P:rownania": 204,
+  "P:statystyka": 82,
+  "P:stereometria": 208,
+  "P:trygonometria": 135,
   "P:wyrazenia": 17,
   "R:analityczna": 52,
   "R:analiza": 63,
-  "R:ciagi": 69,
+  "R:ciagi": 65,
   "R:funkcje": 21,
   "R:kombinatoryka": 25,
-  "R:liczby": 23,
-  "R:planimetria": 47,
-  "R:prawdopodobienstwo": 53,
+  "R:liczby": 19,
+  "R:planimetria": 46,
+  "R:prawdopodobienstwo": 47,
   "R:rownania": 37,
   "R:stereometria": 45,
-  "R:trygonometria": 58,
+  "R:trygonometria": 57,
   "R:wyrazenia": 20
  },
  "byDifficulty": {
-  "P3": 396,
-  "P2": 1250,
-  "P1": 317,
-  "P4": 25,
-  "R4": 225,
-  "R5": 131,
-  "R3": 138,
+  "P3": 391,
+  "P2": 1235,
+  "P1": 311,
+  "P4": 24,
+  "R4": 216,
+  "R5": 128,
+  "R3": 135,
   "P5": 4,
-  "R2": 19
+  "R2": 18
  },
  "valuePercentiles": {
   "1": -19,
   "5": -3,
-  "10": -0.6666666666666666,
-  "25": 0.6928203230275509,
-  "50": 4.041451884327381,
+  "10": -0.8,
+  "25": 0.7083333333333334,
+  "50": 4.146824378088206,
   "75": 25,
   "90": 128,
-  "95": 918,
-  "99": 250500
+  "95": 850,
+  "99": 192080
  },
- "negativeShare": 0.118,
- "problems": []
+ "negativeShare": 0.12,
+ "problems": [
+  {
+   "exam": "f2005-P-2015-maj",
+   "task": "7",
+   "problem": "crop issue",
+   "notes": "6x-12=12-4x, x=12/5 (B); key Wersja I B, value ok. Crop cuts off option denominators (12/5, 25/11)."
+  },
+  {
+   "exam": "f2005-P-2015-maj",
+   "task": "12",
+   "problem": "crop issue",
+   "notes": "q^3=3 -> cbrt(3) (C); key I C. Value right, but crop cuts off bottom of options A and B (denominators not visible)"
+  },
+  {
+   "exam": "f2005-P-2015-maj",
+   "task": "25",
+   "problem": "crop issue",
+   "notes": "P=4/(4+5)=4/9 (B), key Wersja I B, value ok. Crop cuts off the bottom: option denominators invisible."
+  },
+  {
+   "exam": "f2015-P-2020-kwiecien-probna",
+   "task": "9",
+   "problem": "not verified"
+  },
+  {
+   "exam": "f2015-P-2020-kwiecien-probna",
+   "task": "19",
+   "problem": "not verified"
+  },
+  {
+   "exam": "f2015-P-2020-kwiecien-probna",
+   "task": "22",
+   "problem": "not verified"
+  },
+  {
+   "exam": "f2015-P-2020-kwiecien-probna",
+   "task": "24",
+   "problem": "not verified"
+  },
+  {
+   "exam": "f2015-R-2020-kwiecien-probna",
+   "task": "12",
+   "problem": "not verified"
+  },
+  {
+   "exam": "f2015-R-2020-kwiecien-probna",
+   "task": "15",
+   "problem": "not verified"
+  }
+ ]
 }

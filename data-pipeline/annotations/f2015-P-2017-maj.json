@@ -17,7 +17,9 @@
    "summary_en": "Compute $5^8\\cdot16^{-2}$",
    "statement_en": "The number $5^8\\cdot16^{-2}$ is equal to: A. $\\left(\\frac{5}{2}\\right)^8$  B. $\\frac{5}{2}$  C. $10^8$  D. 10",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\sqrt[3]{54}-\\sqrt[3]{2}$",
    "statement_en": "The number $\\sqrt[3]{54}-\\sqrt[3]{2}$ is equal to: A. $\\sqrt[3]{52}$  B. 3  C. $2\\sqrt[3]{2}$  D. 2",
    "confidence": "high",
-   "notes": " [verified: ok: cbrt54=3cbrt2, so 3cbrt2-cbrt2=2cbrt2; key C.]"
+   "notes": " [verified: ok: cbrt54=3cbrt2, so 3cbrt2-cbrt2=2cbrt2; key C.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $2\\log_2 3-2\\log_2 5$",
    "statement_en": "The number $2\\log_2 3-2\\log_2 5$ is equal to: A. $\\log_2\\frac{9}{25}$  B. $\\log_2\\frac{3}{5}$  C. $\\log_2\\frac{9}{5}$  D. $\\log_2\\frac{6}{25}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Population grew by 120% to 8910. How many in 2011?",
    "statement_en": "The number of individuals of an endangered animal species increased relative to their number on 31 December 2011 by 120%, and is currently equal to 8910. How many animals were in the population on the last day of 2011? A. 4050  B. 1782  C. 7425  D. 7128",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -85,11 +93,13 @@
    "topic_pl": "Równania z pierwiastkami",
    "topic_en": "Equations with roots",
    "difficulty": 2,
-   "summary_pl": "$(x\\sqrt2-2)^2=(2+\\sqrt2)^2$. Dla jakiego $x$?",
-   "summary_en": "$(x\\sqrt2-2)^2=(2+\\sqrt2)^2$. For which x?",
+   "summary_pl": "$(x\\sqrt2-2)^2=(2+\\sqrt2)^2$. Podaj ujemne rozwiązanie $x$",
+   "summary_en": "$(x\\sqrt2-2)^2=(2+\\sqrt2)^2$. Give the negative solution $x$",
    "statement_en": "The equality $(x\\sqrt2-2)^2=(2+\\sqrt2)^2$ is: A. true for $x=-\\sqrt2$  B. true for $x=\\sqrt2$  C. true for $x=-1$  D. false for every number x",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -107,7 +117,9 @@
    "summary_en": "Which number is not a solution of $(x^4{+}1)(2-x)>0$?",
    "statement_en": "The number that does NOT belong to the solution set of the inequality $(x^4+1)(2-x)>0$ is: A. -3  B. -1  C. 1  D. 3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -133,7 +145,9 @@
    "summary_en": "How many solutions does $x(x^2-4)(x^2+4)=0$ have?",
    "statement_en": "The equation $x(x^2-4)(x^2+4)=0$ with unknown x: A. has no solutions in the real numbers  B. has exactly two solutions in the real numbers  C. has exactly three solutions in the real numbers  D. has exactly five solutions in the real numbers",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -151,7 +165,9 @@
    "summary_en": "Zero of $f(x)=\\sqrt3(x+1)-12$",
    "statement_en": "The zero of the linear function $f(x)=\\sqrt3(x+1)-12$ is the number: A. $\\sqrt3-4$  B. $-2\\sqrt3+1$  C. $4\\sqrt3-1$  D. $-\\sqrt3+12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -167,9 +183,11 @@
    "difficulty": 2,
    "summary_pl": "Wykres paraboli, m. zerowe $-3,1$. Oblicz $c$",
    "summary_en": "Parabola graph, zeros -3, 1. Find coefficient c",
-   "statement_en": "The figure shows part of the graph of the quadratic function $f(x)=ax^2+bx+c$, whose zeros are -3 and 1 [figure shows vertex W=(-1,4) and y-intercept at (0,3)]. The coefficient c in the formula for f equals: A. 1  B. 2  C. 3  D. 4",
+   "statement_en": "The figure shows part of the graph of the quadratic function $f(x)=ax^2+bx+c$, whose zeros are $-3$ and $1$ (the vertex $W=(-1,4)$ is marked). The coefficient $c$ in the formula for $f$ equals: A. $1$  B. $2$  C. $3$  D. $4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "11",
@@ -187,7 +205,9 @@
    "summary_en": "Graph of $f(x)=a^x$ through A(1,2). Find base a",
    "statement_en": "The figure shows part of the graph of the exponential function f given by $f(x)=a^x$. Point A=(1,2) belongs to this graph. The base a of the power equals: A. $-\\frac12$  B. $\\frac12$  C. -2  D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -205,7 +225,9 @@
    "summary_en": "Arithmetic seq.: $a_1{=}5,a_2{=}11$. Find n with $a_n=71$",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for $n\\ge1$, we have $a_1=5$, $a_2=11$. Then: A. $a_{14}=71$  B. $a_{12}=71$  C. $a_{11}=71$  D. $a_{10}=71$",
    "confidence": "high",
-   "notes": " [verified: ok: r=6, 5+6(n-1)=71 -> n=12 (option B, key B). 71 is common to all options, so index 12 is the distinguishing answer.]"
+   "notes": " [verified: ok: r=6, 5+6(n-1)=71 -> n=12 (option B, key B). 71 is common to all options, so index 12 is the distinguishing answer.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -223,12 +245,14 @@
    "summary_en": "Geometric seq. $(24,6,a-1)$. Find a",
    "statement_en": "The three-term geometric sequence $(24, 6, a-1)$ is given. It follows that: A. $a=\\frac52$  B. $a=\\frac25$  C. $a=\\frac32$  D. $a=\\frac23$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "statement",
    "answer_kind": "single",
    "value": 0.766044443118978,
    "value_tex": "\\cos40^\\circ",
@@ -241,7 +265,7 @@
    "summary_en": "If $m=\\sin50°$, express m with another function",
    "statement_en": "If $m=\\sin50°$, then: A. $m=\\sin40°$  B. $m=\\cos40°$  C. $m=\\cos50°$  D. $m=\\tan50°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] Answer is identity m=cos40 (key B). Stored value 0.766 = sin50, which is given in the task: typeable without solving; player may type 40."
   },
   {
    "task": "15",
@@ -259,7 +283,9 @@
    "summary_en": "Angle ACO=56° with a diameter. Find central angle α",
    "statement_en": "On a circle with center O lies point C (see figure). Segment AB is a diameter of this circle, and angle ACO=56°. The central angle α marked in the figure (angle BOC) has measure: A. 116°  B. 114°  C. 112°  D. 110°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "16",
@@ -277,7 +303,9 @@
    "summary_en": "$DE\\parallel AC$, $BD{=}10,BC{=}12,AC{=}24$. Find DE",
    "statement_en": "In triangle ABC, point D lies on side BC and point E lies on side AB. Segment DE is parallel to side AC, and $|BD|=10$, $|BC|=12$, $|AC|=24$. The length of segment DE equals: A. 22  B. 20  C. 12  D. 11",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -303,7 +331,9 @@
    "summary_en": "Line through A(2,-3) and origin. Find tan α",
    "statement_en": "The figure shows line k passing through point A=(2,-3) and the origin, and the angle α of inclination of this line to the Ox axis. Then: A. $\\tan\\alpha=-\\frac23$  B. $\\tan\\alpha=-\\frac32$  C. $\\tan\\alpha=\\frac23$  D. $\\tan\\alpha=\\frac32$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -329,7 +359,9 @@
    "summary_en": "Circle S(2,3), r=5. Which point lies on it? (sum of coords)",
    "statement_en": "A circle is given with center S=(2,3) and radius r=5. Which of the given points lies on this circle? A. A=(-1,7)  B. B=(2,-3)  C. C=(3,2)  D. D=(5,3)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -347,7 +379,9 @@
    "summary_en": "Prism: h=3a, total surface area 140. Find edge a",
    "statement_en": "The total surface area of a regular quadrilateral prism, in which the height is 3 times the base edge, equals 140. The base edge of this prism equals: A. $\\sqrt{10}$  B. $3\\sqrt{10}$  C. $\\sqrt{42}$  D. $3\\sqrt{42}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -365,7 +399,9 @@
    "summary_en": "Cylinder: radius = height. Find sin(OAS)",
    "statement_en": "The radius AS of the base of a cylinder is equal to the height OS of this cylinder. The sine of angle OAS (see figure) equals: A. $\\frac{\\sqrt3}{2}$  B. $\\frac{\\sqrt2}{2}$  C. $\\frac12$  D. 1",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -383,7 +419,9 @@
    "summary_en": "Cone: height 4, diameter 12. Find the volume",
    "statement_en": "A cone has height 4 and base diameter 12. The volume of this cone equals: A. $576\\pi$  B. $192\\pi$  C. $144\\pi$  D. $48\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -401,7 +439,9 @@
    "summary_en": "Mean of 8 numbers =11: 3,5,7,9,x,15,17,19. Find x",
    "statement_en": "The arithmetic mean of eight numbers: 3, 5, 7, 9, x, 15, 17, 19 equals 11. Then: A. x=1  B. x=2  C. x=11  D. x=13",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -419,7 +459,9 @@
    "summary_en": "Draw from 1-24: $P(\\text{divisor of }24)$",
    "statement_en": "From the set of twenty-four consecutive natural numbers from 1 to 24 we draw one number. Let A denote the event that the drawn number is a divisor of 24. The probability of event A equals: A. $\\frac14$  B. $\\frac13$  C. $\\frac18$  D. $\\frac16$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -461,7 +503,9 @@
    "summary_en": "$f(x)=ax^2+bx+c$, max=6, $f(-6)=f(0)=\\frac32$. Find a",
    "statement_en": "The quadratic function f is defined for all real x by $f(x)=ax^2+bx+c$. The greatest value of f equals 6, and $f(-6)=f(0)=\\frac32$. Compute the value of coefficient a.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -479,7 +523,9 @@
    "summary_en": "Hypotenuse 26, legs differ by 14. Find the perimeter",
    "statement_en": "The hypotenuse of a right triangle has length 26 cm, and one of the legs is 14 cm longer than the other. Compute the perimeter of this triangle.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -497,7 +543,9 @@
    "summary_en": "$a_1{=}8$, $S_3{=}33$. Find $a_{16}-a_{13}$",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for $n\\ge1$, we have $a_1=8$ and the sum of the first three terms $S_3=33$. Compute the difference $a_{16}-a_{13}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -515,7 +563,9 @@
    "summary_en": "$A(-4,0)$, $M(2,9)$, line $k{:}y{=}-2x{+}10$. Area of triangle ABC",
    "statement_en": "Points A=(-4,0) and M=(2,9) and line k with equation $y=-2x+10$ are given. Vertex B of triangle ABC is the intersection point of line k with the Ox axis, and vertex C is the intersection point of line k with line AM. Compute the area of triangle ABC.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -533,7 +583,9 @@
    "summary_en": "Draw a two-digit number: $P({<}40$ and divisible by 3$)$",
    "statement_en": "From the set of all two-digit natural numbers we draw one number. Compute the probability of the event that the drawn number is simultaneously less than 40 and divisible by 3. Give the answer as an irreducible common fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -551,7 +603,9 @@
    "summary_en": "Pyramid: slant height $\\frac{5\\sqrt3}{4}$, lateral area $\\frac{15\\sqrt3}{4}$. Find the volume",
    "statement_en": "In a regular triangular pyramid, the height of a lateral face (measured perpendicular to a base edge) equals $\\frac{5\\sqrt3}{4}$, and the lateral surface area of this pyramid equals $\\frac{15\\sqrt3}{4}$. Compute the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

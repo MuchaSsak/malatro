@@ -25,7 +25,9 @@
    "summary_en": "Tangential quadrilateral: $AD=5\\sqrt3$, $CD=6$. Find $AB+BC+BD$",
    "statement_en": "In quadrilateral ABCD, where $|AD|=5\\sqrt3$ and $|CD|=6$, a circle can be inscribed. Diagonal BD forms an angle of measure 60° with side AB, and forms an angle whose sine equals $\\frac34$ with side AD. Determine the lengths of sides AB and BC, and the length of diagonal BD of this quadrilateral.",
    "confidence": "high",
-   "notes": "Sum of the three requested lengths AB+BC+BD (AB=7.5 by the law of sines, BC by the tangential-quadrilateral side relation, BD by the law of cosines)."
+   "notes": "Sum of the three requested lengths AB+BC+BD (AB=7.5 by the law of sines, BC by the tangential-quadrilateral side relation, BD by the law of cosines).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -64,18 +66,20 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "sum",
-   "value": 5.6,
-   "value_tex": "\\frac{28}{5}",
-   "answer_tex": "A=(-2,0),\\ B=\\left(\\frac{26}{5},\\frac{12}{5}\\right)",
+   "value": 9.6,
+   "value_tex": "\\frac{48}{5}",
+   "answer_tex": "A=(2,0),\\ B=\\left(\\frac{26}{5},\\frac{12}{5}\\right)",
    "category": "analityczna",
    "topic_pl": "Symetralna odcinka",
    "topic_en": "Perpendicular bisector",
    "difficulty": 5,
-   "summary_pl": "Odcinek $AB=4$ na prostej $y=\\frac34x-\\frac32$; symetralna przez $(0,6)$. Oblicz $A,B$",
-   "summary_en": "Segment $AB=4$ on line $y=\\frac34x-\\frac32$; perpendicular bisector through $(0,6)$. Find $A,B$",
+   "summary_pl": "$AB=4$ na $y=\\frac34x-\\frac32$, symetralna przez $(0,6)$: suma wsp.",
+   "summary_en": "$AB=4$ on $y=\\frac34x-\\frac32$, bisector via $(0,6)$: sum of coords",
    "statement_en": "Segment AB of length 4 lies on the line with equation $y=\\frac34x-\\frac32$. The perpendicular bisector of segment AB intersects the y-axis at point $P=(0,6)$. Compute the coordinates of the endpoints of segment AB.",
    "confidence": "high",
-   "notes": "Sum of all four coordinates of A=(-2,0) and B=(26/5,12/5): -2+0+26/5+12/5=28/5."
+   "notes": "Sum of all four coordinates of A=(-2,0) and B=(26/5,12/5): -2+0+26/5+12/5=28/5. [full-verify fix] S=(18/5,6/5), x=2 or 26/5 -> (2,0),(26/5,12/5), key same. Stored (-2,0) not on line. Sum of 4 coords=48/5; summary must say sum.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -107,11 +111,13 @@
    "topic_pl": "Twierdzenie o reszcie z dzielenia",
    "topic_en": "Remainder theorem",
    "difficulty": 4,
-   "summary_pl": "Reszta z dziel. $6x^3+(m+4)x^2-2x-1$ przez $x-m$ to 8 (suma $m$ i pierw.)",
-   "summary_en": "Remainder of $6x^3+(m+4)x^2-2x-1$ divided by $x-m$ is 8 (sum of $m$ and root)",
+   "summary_pl": "Reszta z $6x^3+(m+4)x^2-2x-1$ przez $x-m$ to 8: suma $m$ i pierw.",
+   "summary_en": "Remainder of $6x^3+(m+4)x^2-2x-1$ by $x-m$ is 8: sum of $m$ and roots",
    "statement_en": "The remainder of dividing the polynomial $W(x)=6x^3+(m+4)x^2-2x-1$ by the binomial $x-m$ equals 8. Compute the value of $m$ and the roots of this polynomial.",
    "confidence": "high",
-   "notes": "m=1 gives W(x)=6x^3+5x^2-2x-1 with roots -1, -1/3, 1/2. Sum of m and all roots: 1-1-1/3+1/2=1/6. [verified: ok: W(m)=8 -> 7m^3+4m^2-2m-9=0 -> m=1 only; roots -1,-1/3,1/2; m+roots=1/6. Summary >70 chars and lacks sum hint; fix proposed.]"
+   "notes": "m=1 gives W(x)=6x^3+5x^2-2x-1 with roots -1, -1/3, 1/2. Sum of m and all roots: 1-1-1/3+1/2=1/6. [verified: ok: W(m)=8 -> 7m^3+4m^2-2m-9=0 -> m=1 only; roots -1,-1/3,1/2; m+roots=1/6. Summary >70 chars and lacks sum hint; fix proposed.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -129,7 +135,9 @@
    "summary_en": "Pyramid, square base 25, lateral face areas 250,250,187.5,187.5. Find the volume",
    "statement_en": "The base of a pyramid is a square ABCD with side length 25. The lateral faces ABS and BCS have equal areas, each equal to 250. The lateral faces ADS and CDS also have equal areas, each equal to 187.5. The lateral edges AS and CS have equal lengths. Compute the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -147,7 +155,9 @@
    "summary_en": "Urn: 4 white, 3 black, 2 green, 1 blue. Draw 3 - probability all different colors",
    "statement_en": "An urn contains ten balls: 4 white, 3 black, 2 green and 1 blue. Three balls are drawn simultaneously from the urn. Compute the probability of the event that among the drawn balls there are no two balls of the same color. Give the result as an irreducible common fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

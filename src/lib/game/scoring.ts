@@ -5,7 +5,7 @@
  */
 import { isAnswerCorrect } from "~/lib/game/answer";
 import { CATEGORIES } from "~/lib/game/categories";
-import { VALUE_CAP } from "~/lib/game/constants";
+import { KNOWLEDGE_MULT, knowledgeChips, VALUE_CAP } from "~/lib/game/constants";
 import { BOSS_BY_ID, type BossEffect } from "~/lib/game/content/bosses";
 import { TWIERDZENIE_BY_ID } from "~/lib/game/content/consumables";
 import { type CardCtx, type Effect, type HandCtx, JOKER_BY_ID, type JokerDef } from "~/lib/game/content/jokers";
@@ -129,6 +129,9 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
     return note ? isAnswerCorrect(note, tasks[i].value, `${tasks[i].tex} ${tasks[i].ans ?? ""}`) : false;
   });
   const correctNotes = noteCorrect.filter((ok, i) => ok && !isFaceDown[i]).length;
+  const noteResults = played
+    .map((c, i) => ({ taskId: c.taskId, isCorrect: noteCorrect[i] }))
+    .filter((_, i) => !isFaceDown[i]);
 
   const handType: HandTypeId = detectHand(
     tasks.filter((_, i) => noteCorrect[i]).map((t) => t.cat),
@@ -248,6 +251,7 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
       events.push({ kind: "card", cardUid: card.uid, chips: cv, value, isRetrigger: r > 0 });
       if (r === 0 && !isFaceDown[index]) {
         events.push({ kind: "card-note", cardUid: card.uid, isCorrect: true });
+        apply({ chips: knowledgeChips(task.diff), mult: KNOWLEDGE_MULT }, { cardUid: card.uid });
         if (noteVoucher.chips) apply({ chips: noteVoucher.chips }, { cardUid: card.uid });
         if (noteVoucher.mult) apply({ mult: noteVoucher.mult }, { cardUid: card.uid });
       }
@@ -289,6 +293,13 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
     }
   }
 
+  // testing cheat: one-shot multiplier for this hand
+  if (run.cheatMult && run.cheatMult !== 1) {
+    mult *= run.cheatMult;
+    events.push({ kind: "boss", text: { pl: `Cheat ×${run.cheatMult}`, en: `Cheat ×${run.cheatMult}` } });
+    run.cheatMult = undefined;
+  }
+
   chips = round2(chips);
   mult = round2(mult);
   let total = Math.round(chips * mult);
@@ -311,6 +322,7 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
     total,
     moneyGained: money,
     correctNotes,
+    noteResults,
     scoredUids,
   };
 }

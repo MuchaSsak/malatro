@@ -10,14 +10,16 @@
    "value_tex": "25",
    "answer_tex": "25\\%",
    "category": "funkcje",
-   "topic_pl": "Wzrost wykladniczy",
+   "topic_pl": "Wzrost wykładniczy",
    "topic_en": "Exponential growth",
    "difficulty": 3,
-   "summary_pl": "Bakterie: $N(0)=10000$, $N(2)=15625$. O ile % rosnie/h?",
+   "summary_pl": "Bakterie: $N(0)=10000$, $N(2)=15625$. O ile % rośnie/h?",
    "summary_en": "Bacteria: $N(0)=10000$, $N(2)=15625$. Hourly % growth?",
    "statement_en": "The dynamics of the growth of a bacterial population were observed under laboratory conditions. The population size N changes over time according to the exponential relationship $N(t)=N_0\\cdot k^t$ for $t\\ge0$, where: $N_0$ is the population size at the start of observation ($t=0$), k is a positive constant characteristic of the bacterial species and observation conditions, and t is time in hours from the start of observation. At the start of observation the population size was 10000, and after two hours it was 15625. Calculate by what percentage the bacterial population size increased during each hour. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -36,14 +38,16 @@
    "value_tex": "45",
    "answer_tex": "45^\\circ",
    "category": "trygonometria",
-   "topic_pl": "Katy w trojkacie",
+   "topic_pl": "Kąty w trójkącie",
    "topic_en": "Triangle angles (law of sines/cosines)",
    "difficulty": 4,
    "summary_pl": "Trójkąt równoboczny $ABC$, $D$ na $BC$: oblicz kąt $DAC$",
    "summary_en": "Equilateral triangle $ABC$, $D$ on $BC$: find angle $DAC$",
    "statement_en": "In equilateral triangle ABC, point D lies on side BC. The ratio of the area of triangle ABD to the area of triangle ADC equals $\\frac{\\sqrt3-1}{2}$. Calculate the measure of angle DAC. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -54,14 +58,16 @@
    "value_tex": "\\frac{9}{25}",
    "answer_tex": "\\frac{9}{25}",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo warunkowe",
+   "topic_pl": "Prawdopodobieństwo warunkowe",
    "topic_en": "Conditional probability",
    "difficulty": 4,
-   "summary_pl": "4 rzuty kostka: P(min. 1 szostka | dokladnie 2 piatki)",
+   "summary_pl": "4 rzuty kostką: P(min. 1 szóstka | dokładnie 2 piątki)",
    "summary_en": "4 dice rolls: P(at least one 6 | exactly two 5s)",
    "statement_en": "A random experiment consists of rolling a fair six-sided die four times, with faces numbered from one to six pips. Calculate the probability of the event that we get at least one six, given that we get exactly two fives. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -83,11 +89,13 @@
    "topic_pl": "Szereg geometryczny",
    "topic_en": "Geometric series",
    "difficulty": 5,
-   "summary_pl": "Ciąg geom. zbieżny: $a_1+a_3=20$, $a_1^2+a_3^2=328$. $S$ (suma obu)",
-   "summary_en": "Convergent geometric seq.: $a_1+a_3=20$, $a_1^2+a_3^2=328$. Find $S$ (sum of both cases)",
+   "summary_pl": "Zbieżny ciąg geom., $a_1+a_3=20$, $a_1^2+a_3^2=328$: suma obu $S$",
+   "summary_en": "Convergent geom. seq., $a_1+a_3=20$, $a_1^2+a_3^2=328$: sum both $S$",
    "statement_en": "Sequence $(a_n)$, defined for every natural number $n\\ge1$, is geometric and convergent. In this sequence $a_1+a_3=20$ and $a_1^2+a_3^2=328$. Calculate the sum of all terms of this sequence. Consider all cases. Show your working.",
    "confidence": "high",
-   "notes": "task requires considering all cases; both valid sums (27 and 27/2) are correct answers, value is their sum 27+27/2=81/2 [verified: ok: q^2=1/9, a1=18: S=27 (q=1/3) or 27/2 (q=-1/3); key gives both, sum 81/2. Summary omits 'zbieżny' and the sum hint is vague.]"
+   "notes": "task requires considering all cases; both valid sums (27 and 27/2) are correct answers, value is their sum 27+27/2=81/2 [verified: ok: q^2=1/9, a1=18: S=27 (q=1/3) or 27/2 (q=-1/3); key gives both, sum 81/2. Summary omits 'zbieżny' and the sum hint is vague.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -106,14 +114,16 @@
    "value_tex": "-\\frac{21}{5}",
    "answer_tex": "A=(\\frac{16}{5},-\\frac{13}{5}), B=(-1,-2), M=(\\frac{2}{5},-\\frac{11}{5})",
    "category": "analityczna",
-   "topic_pl": "Wspolrzedne punktow przeciecia okregow",
+   "topic_pl": "Współrzędne punktów przecięcia okręgów",
    "topic_en": "Coordinates of circle intersection points",
    "difficulty": 5,
    "summary_pl": "Przecięcie okręgów $O_1,O_2$: współrzędne $A,B,M$ (suma)",
    "summary_en": "Intersection of circles $O_1,O_2$: coordinates of $A,B,M$ (sum)",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, circles $O_1$ and $O_2$ are given by the equations: $O_1: (x-1)^2+(y+3)^2=5$ and $O_2: (x-2)^2+(y-4)^2=45$. These circles intersect at points A and B. Point A has a positive first coordinate. Point M satisfies the condition $\\vec{AM}=-2\\cdot\\vec{BM}$. Calculate the coordinates of points A, B and M. Show your working.",
    "confidence": "high",
-   "notes": "sum of all 6 coordinates of A, B and M"
+   "notes": "sum of all 6 coordinates of A, B and M",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -124,14 +134,16 @@
    "value_tex": "\\frac{\\pi}{3}",
    "answer_tex": "x=-\\frac{2\\pi}{3}\\lor x=-\\frac{\\pi}{6}\\lor x=\\frac{\\pi}{3}\\lor x=\\frac{5\\pi}{6}",
    "category": "trygonometria",
-   "topic_pl": "Rownania trygonometryczne",
+   "topic_pl": "Równania trygonometryczne",
    "topic_en": "Trigonometric equations",
    "difficulty": 5,
    "summary_pl": "Rozwiąż $3\\cos^2x+\\sqrt3\\sin2x-3\\sin^2x=0$ (suma rozw.)",
    "summary_en": "Solve $3\\cos^2x+\\sqrt3\\sin2x-3\\sin^2x=0$ (sum of solutions)",
    "statement_en": "Solve the equation $3\\cos^2x+\\sqrt3\\sin(2x)-3\\sin^2x=0$ in the interval $[-\\pi,\\pi]$. Show your working.",
    "confidence": "high",
-   "notes": "sum of all 4 solutions in [-pi,pi]: -2pi/3-pi/6+pi/3+5pi/6 = pi/3"
+   "notes": "sum of all 4 solutions in [-pi,pi]: -2pi/3-pi/6+pi/3+5pi/6 = pi/3",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -142,14 +154,16 @@
    "value_tex": "918",
    "answer_tex": "918",
    "category": "stereometria",
-   "topic_pl": "Ostroslup - kat dwuscienny",
+   "topic_pl": "Ostrosłup - kąt dwuścienny",
    "topic_en": "Pyramid - dihedral angle",
    "difficulty": 5,
    "summary_pl": "Ostrosłup $ABCDS$: oblicz pole powierzchni bocznej",
    "summary_en": "Pyramid $ABCDS$: find the lateral surface area",
    "statement_en": "The base of pyramid ABCDS is square ABCD. The lateral edge SA is the height of the pyramid, and the base edge has length $3\\sqrt{34}$. The cosine of the angle $\\beta$ between the lateral faces CDS and BCS equals $-\\frac{9}{25}$. Calculate the lateral surface area of this pyramid. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -176,14 +190,16 @@
    "value_tex": "5\\sqrt{3}+\\frac{125\\sqrt{3}\\pi}{2}",
    "answer_tex": "h=5\\sqrt{3}, V=\\frac{125\\sqrt{3}\\pi}{2}",
    "category": "analiza",
-   "topic_pl": "Optymalizacja objetosci stozka",
+   "topic_pl": "Optymalizacja objętości stożka",
    "topic_en": "Cone volume optimization",
    "difficulty": 4,
    "summary_pl": "Stożek: wysokość i najm. objętość ($h+V$)",
    "summary_en": "Cone: height and minimum volume ($h+V$)",
-   "statement_en": "Consider all cones whose height is greater than 5, and whose distance from the center of the base to the slant edge equals 5. The volume V of the cone, as a function of the height h, is given by $V(h)=\\pi\\cdot\\frac{25h^3}{3\\cdot(h^2-25)}$ for $h\\in(5,+\\infty)$. Determine the height of the cone among those considered whose volume is the smallest. Calculate this smallest volume. Show your working.",
+   "statement_en": "Consider all cones whose height is greater than 5 and in which the distance from the center of the base to a slant line (generatrix) equals 5. The volume V of the cone, as a function of the height h, is given by $V(h)=\\frac{\\pi}{3}\\cdot\\frac{25h^3}{h^2-25}$ for $h\\in(5,+\\infty)$. Determine the height of the cone among those considered whose volume is the smallest. Calculate this smallest volume. Show your working.",
    "confidence": "high",
-   "notes": "sum of the two requested numbers: h=5*sqrt(3), V=125*sqrt(3)*pi/2"
+   "notes": "sum of the two requested numbers: h=5*sqrt(3), V=125*sqrt(3)*pi/2",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

@@ -13,61 +13,120 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
+#: src/components/viewer/TaskViewer.tsx:387
+msgid "(capped)"
+msgstr "(capped)"
+
+#. placeholder {0}: formatNumber(stats.attempts)
+#. placeholder {1}: formatNumber(stats.met)
+#. placeholder {2}: formatNumber(stats.total)
+#: src/screens/Collection.tsx:323
+msgid "{0} answers · {1}/{2} tasks met"
+msgstr "{0} answers · {1}/{2} tasks met"
+
 #. placeholder {0}: l(HAND_BY_ID[fx.hand].name)
 #. placeholder {1}: fx.level
-#: src/screens/GameScreen.tsx:75
+#: src/screens/GameScreen.tsx:83
 msgid "{0} leveled up to lvl.{1}"
 msgstr "{0} leveled up to lvl.{1}"
 
 #. placeholder {0}: formatNumber(poolSize)
-#: src/screens/MainMenu.tsx:186
+#: src/screens/MainMenu.tsx:339
 msgid "{0} tasks in this deck"
 msgstr "{0} tasks in this deck"
 
-#: src/screens/MainMenu.tsx:42
+#: src/screens/MainMenu.tsx:57
 msgid "A matura roguelike deckbuilder"
 msgstr "A matura roguelike deckbuilder"
+
+#: src/screens/GameScreen.tsx:146
+msgid "A testing panel appears on the table (money, mult, win the blind). Runs where you use it are not saved to the leaderboard."
+msgstr "A testing panel appears on the table (money, mult, win the blind). Runs where you use it are not saved to the leaderboard."
+
+#: src/screens/MainMenu.tsx:241
+msgid "A wrong answer, an idea, a bug? Tell us."
+msgstr "A wrong answer, an idea, a bug? Tell us."
 
 #: src/components/game/OptionsPanel.tsx:144
 msgid "Abandon run"
 msgstr "Abandon run"
 
-#: src/screens/GameScreen.tsx:126
+#: src/screens/GameScreen.tsx:183
 msgid "Abandon this run? Progress will be lost."
 msgstr "Abandon this run? Progress will be lost."
+
+#: src/screens/Collection.tsx:502
+msgid "Abandoned"
+msgstr "Abandoned"
 
 #: src/hooks/auth/useSignInWithPin.ts:13
 msgid "Account created - welcome!"
 msgstr "Account created - welcome!"
 
-#: src/components/viewer/TaskViewer.tsx:287
+#: src/screens/Collection.tsx:336
+msgid "Accuracy"
+msgstr "Accuracy"
+
+#: src/screens/GameScreen.tsx:164
+msgid "Activate"
+msgstr "Activate"
+
+#: src/screens/GameScreen.tsx:143
+msgid "Activate cheats?"
+msgstr "Activate cheats?"
+
+#: src/screens/Collection.tsx:134
+#: src/screens/Collection.tsx:140
+msgid "All"
+msgstr "All"
+
+#. placeholder {0}: counts.all
+#: src/screens/Collection.tsx:122
+msgid "All ({0})"
+msgstr "All ({0})"
+
+#: src/screens/Collection.tsx:446
+msgid "Answer accuracy per run"
+msgstr "Answer accuracy per run"
+
+#: src/components/viewer/TaskViewer.tsx:427
 msgid "Answer from the key"
 msgstr "Answer from the key"
 
+#. placeholder {0}: counts.ok
+#: src/screens/Collection.tsx:125
+msgid "Answered correctly ({0})"
+msgstr "Answered correctly ({0})"
+
+#: src/screens/Collection.tsx:539
+msgid "Answers"
+msgstr "Answers"
+
 #: src/components/game/Sidebar.tsx:265
-#: src/screens/MainMenu.tsx:308
+#: src/screens/Collection.tsx:533
+#: src/screens/MainMenu.tsx:474
 msgid "Ante"
 msgstr "Ante"
 
 #. placeholder {0}: run.ante
-#: src/components/game/GameOver.tsx:73
+#: src/components/game/GameOver.tsx:83
 msgid "Ante {0}"
 msgstr "Ante {0}"
 
 #. placeholder {0}: run.ante
 #. placeholder {1}: run.money
 #. placeholder {2}: run.jokers.length
-#: src/screens/MainMenu.tsx:251
+#: src/screens/MainMenu.tsx:417
 msgid "Ante {0} · ${1} · {2} Jokers"
 msgstr "Ante {0} · ${1} · {2} Jokers"
 
 #. placeholder {0}: run.ante
-#: src/components/game/RunInfo.tsx:127
+#: src/components/game/RunInfo.tsx:139
 msgid "Ante {0} Boss"
 msgstr "Ante {0} Boss"
 
 #. placeholder {0}: run.ante
-#: src/components/game/Shop.tsx:63
+#: src/components/game/Shop.tsx:70
 msgid "ANTE {0} VOUCHER"
 msgstr "ANTE {0} VOUCHER"
 
@@ -75,15 +134,18 @@ msgstr "ANTE {0} VOUCHER"
 msgid "Audio"
 msgstr "Audio"
 
-#: src/components/game/DeckView.tsx:50
+#: src/components/game/DeckView.tsx:54
 #: src/components/game/OptionsPanel.tsx:154
 #: src/components/game/RunInfo.tsx:37
-#: src/screens/MainMenu.tsx:262
-#: src/screens/MainMenu.tsx:338
+#: src/components/viewer/TaskViewer.tsx:511
+#: src/screens/Collection.tsx:51
+#: src/screens/MainMenu.tsx:259
+#: src/screens/MainMenu.tsx:428
+#: src/screens/MainMenu.tsx:504
 msgid "Back"
 msgstr "Back"
 
-#: src/components/viewer/TaskViewer.tsx:367
+#: src/components/viewer/TaskViewer.tsx:511
 msgid "Back to the table"
 msgstr "Back to the table"
 
@@ -92,20 +154,25 @@ msgid "Background at 30 fps and lower resolution, no blur"
 msgstr "Background at 30 fps and lower resolution, no blur"
 
 #: src/components/cards/TaskInfo.tsx:28
+#: src/screens/Collection.tsx:134
 msgid "Basic"
 msgstr "Basic"
 
-#: src/components/game/BlindSelect.tsx:104
+#: src/screens/Collection.tsx:320
+msgid "Basic matura"
+msgstr "Basic matura"
+
+#: src/components/game/BlindSelect.tsx:122
 msgid "Beat the Boss to raise the Ante"
 msgstr "Beat the Boss to raise the Ante"
 
 #: src/components/game/GameOver.tsx:47
-#: src/screens/MainMenu.tsx:314
+#: src/screens/MainMenu.tsx:480
 msgid "Best hand"
 msgstr "Best hand"
 
-#: src/components/game/BlindSelect.tsx:40
-#: src/components/game/GameOver.tsx:89
+#: src/components/game/BlindSelect.tsx:53
+#: src/components/game/GameOver.tsx:104
 #: src/components/game/Sidebar.tsx:81
 msgid "Big Blind"
 msgstr "Big Blind"
@@ -114,7 +181,7 @@ msgstr "Big Blind"
 msgid "Blockier background at 20 fps, no shine animations, no idle sway"
 msgstr "Blockier background at 20 fps, no shine animations, no idle sway"
 
-#: src/components/viewer/TaskViewer.tsx:199
+#: src/components/viewer/TaskViewer.tsx:270
 msgid "Boss: no scratch paper!"
 msgstr "Boss: no scratch paper!"
 
@@ -122,34 +189,38 @@ msgstr "Boss: no scratch paper!"
 msgid "Branch"
 msgstr "Branch"
 
-#: src/components/game/Shop.tsx:145
-#: src/components/game/Shop.tsx:168
-#: src/components/game/Shop.tsx:193
+#: src/components/game/Shop.tsx:152
+#: src/components/game/Shop.tsx:175
+#: src/components/game/Shop.tsx:200
 msgid "Buy"
 msgstr "Buy"
 
-#: src/components/game/Shop.tsx:206
+#: src/components/game/Shop.tsx:213
 msgid "Buy & Use"
 msgstr "Buy & Use"
 
-#: src/components/game/Shop.tsx:200
+#: src/components/game/Shop.tsx:207
 msgid "Buy and use immediately"
 msgstr "Buy and use immediately"
 
 #. placeholder {0}: shopItem.price
-#: src/components/viewer/TaskViewer.tsx:351
+#: src/components/viewer/TaskViewer.tsx:495
 msgid "Buy for ${0}"
 msgstr "Buy for ${0}"
 
-#: src/components/viewer/TaskViewer.tsx:236
+#: src/screens/Collection.tsx:382
+msgid "By difficulty"
+msgstr "By difficulty"
+
+#: src/components/viewer/TaskViewer.tsx:307
 msgid "Card value = the <0>sum of all numbers</0> in the final answer"
 msgstr "Card value = the <0>sum of all numbers</0> in the final answer"
 
-#: src/components/viewer/TaskViewer.tsx:240
+#: src/components/viewer/TaskViewer.tsx:311
 msgid "Card value = the final answer (a number)"
 msgstr "Card value = the final answer (a number)"
 
-#: src/components/game/GameOver.tsx:50
+#: src/components/game/GameOver.tsx:54
 msgid "Cards played"
 msgstr "Cards played"
 
@@ -158,7 +229,11 @@ msgstr "Cards played"
 msgid "Cash Out: ${0}"
 msgstr "Cash Out: ${0}"
 
-#: src/components/cards/cardInfo.tsx:64
+#: src/screens/Collection.tsx:138
+msgid "Category"
+msgstr "Category"
+
+#: src/components/cards/cardInfo.tsx:62
 msgid "Cheat Sheet"
 msgstr "Cheat Sheet"
 
@@ -167,7 +242,19 @@ msgstr "Cheat Sheet"
 msgid "Cheat Sheet Pack"
 msgstr "Cheat Sheet Pack"
 
-#: src/components/viewer/TaskViewer.tsx:243
+#: src/components/game/CheatPanel.tsx:36
+msgid "Cheats"
+msgstr "Cheats"
+
+#: src/components/game/GameOver.tsx:111
+msgid "Cheats were used: not saved to the leaderboard"
+msgstr "Cheats were used: not saved to the leaderboard"
+
+#: src/components/viewer/TaskViewer.tsx:400
+msgid "Check answer"
+msgstr "Check answer"
+
+#: src/components/viewer/TaskViewer.tsx:314
 msgid "Chips per card are capped at ±{VALUE_CAP}"
 msgstr "Chips per card are capped at ±{VALUE_CAP}"
 
@@ -180,26 +267,42 @@ msgstr "Choose {0}"
 msgid "Choose your next Blind"
 msgstr "Choose your next Blind"
 
-#: src/components/viewer/TaskViewer.tsx:181
+#: src/components/viewer/TaskViewer.tsx:252
 msgid "Clear"
 msgstr "Clear"
 
-#: src/components/viewer/TaskViewer.tsx:204
+#: src/components/viewer/TaskViewer.tsx:275
 msgid "Close (Esc)"
 msgstr "Close (Esc)"
 
-#: src/screens/MainMenu.tsx:165
-#: src/screens/MainMenu.tsx:256
+#: src/screens/Collection.tsx:38
+msgid "Collection"
+msgstr "Collection"
+
+#: src/screens/MainMenu.tsx:68
+msgid "COLLECTION"
+msgstr "COLLECTION"
+
+#: src/screens/Collection.tsx:337
+msgid "Confidence"
+msgstr "Confidence"
+
+#: src/screens/MainMenu.tsx:318
+#: src/screens/MainMenu.tsx:422
 msgid "Continue"
 msgstr "Continue"
 
-#: src/components/game/GameOver.tsx:51
+#: src/components/game/GameOver.tsx:55
 msgid "Correct notes"
 msgstr "Correct notes"
 
 #: src/hooks/runs/useSubmitRun.ts:17
 msgid "Could not save the result"
 msgstr "Could not save the result"
+
+#: src/hooks/suggestions/useSubmitSuggestion.ts:13
+msgid "Could not send the suggestion"
+msgstr "Could not send the suggestion"
 
 #: src/hooks/auth/useSignInWithPin.ts:26
 msgid "Could not sign in"
@@ -209,15 +312,27 @@ msgstr "Could not sign in"
 msgid "Could not sign out"
 msgstr "Could not sign out"
 
+#: src/screens/Collection.tsx:340
+msgid "Coverage"
+msgstr "Coverage"
+
 #: src/components/game/OptionsPanel.tsx:111
 msgid "CRT effect"
 msgstr "CRT effect"
 
-#: src/components/game/BlindSelect.tsx:60
+#: src/screens/Collection.tsx:524
+msgid "Date"
+msgstr "Date"
+
+#: src/screens/Collection.tsx:527
+msgid "Deck"
+msgstr "Deck"
+
+#: src/components/game/BlindSelect.tsx:78
 msgid "Defeated / Skipped"
 msgstr "Defeated / Skipped"
 
-#: src/components/game/GameOver.tsx:87
+#: src/components/game/GameOver.tsx:102
 msgid "Defeated by"
 msgstr "Defeated by"
 
@@ -225,7 +340,7 @@ msgstr "Defeated by"
 msgid "Deselect"
 msgstr "Deselect"
 
-#: src/components/viewer/TaskViewer.tsx:338
+#: src/components/viewer/TaskViewer.tsx:482
 msgid "Deselect card"
 msgstr "Deselect card"
 
@@ -237,7 +352,12 @@ msgstr "Discard"
 msgid "Discards"
 msgstr "Discards"
 
-#: src/components/viewer/TaskViewer.tsx:257
+#. placeholder {0}: counts.dontknow
+#: src/screens/Collection.tsx:128
+msgid "Don't know ({0})"
+msgstr "Don't know ({0})"
+
+#: src/components/viewer/TaskViewer.tsx:333
 msgid "e.g. 12, -3/2, 2√3"
 msgstr "e.g. 12, -3/2, 2√3"
 
@@ -249,33 +369,46 @@ msgstr "e.g. mateusz"
 msgid "Email confirmation is enabled in Supabase - disable it for PIN login"
 msgstr "Email confirmation is enabled in Supabase - disable it for PIN login"
 
-#: src/components/game/GameOver.tsx:108
+#: src/components/game/GameOver.tsx:125
 msgid "Endless Mode"
 msgstr "Endless Mode"
 
-#: src/screens/AuthScreen.tsx:69
+#: src/screens/AuthScreen.tsx:74
 msgid "Enter"
 msgstr "Enter"
 
-#: src/screens/AuthScreen.tsx:69
+#: src/screens/AuthScreen.tsx:74
 msgid "Entering..."
 msgstr "Entering..."
 
-#: src/components/viewer/TaskViewer.tsx:169
+#: src/components/viewer/TaskViewer.tsx:233
 msgid "Eraser"
 msgstr "Eraser"
+
+#: src/screens/Collection.tsx:332
+msgid "Estimated exam score"
+msgstr "Estimated exam score"
 
 #: src/components/game/OptionsPanel.tsx:22
 msgid "Everything on, background capped at 60 fps"
 msgstr "Everything on, background capped at 60 fps"
 
 #: src/components/cards/TaskInfo.tsx:28
+#: src/screens/Collection.tsx:134
 msgid "Extended"
 msgstr "Extended"
+
+#: src/screens/Collection.tsx:320
+msgid "Extended matura"
+msgstr "Extended matura"
 
 #: src/components/viewer/TaskBoard.tsx:118
 msgid "Figure from the original sheet"
 msgstr "Figure from the original sheet"
+
+#: src/screens/Collection.tsx:344
+msgid "Focus on"
+msgstr "Focus on"
 
 #: src/components/cards/cardInfo.tsx:21
 msgid "Foil: +50 Chips"
@@ -289,7 +422,7 @@ msgstr "Fullscreen (F)"
 msgid "Game"
 msgstr "Game"
 
-#: src/components/game/GameOver.tsx:70
+#: src/components/game/GameOver.tsx:80
 msgid "GAME OVER"
 msgstr "GAME OVER"
 
@@ -301,7 +434,7 @@ msgstr "Game speed"
 msgid "Graphics"
 msgstr "Graphics"
 
-#: src/screens/MainMenu.tsx:61
+#: src/screens/MainMenu.tsx:79
 msgid "Guest"
 msgstr "Guest"
 
@@ -309,6 +442,14 @@ msgstr "Guest"
 #: src/components/game/Sidebar.tsx:255
 msgid "Hands"
 msgstr "Hands"
+
+#: src/screens/Collection.tsx:107
+msgid "Hardest"
+msgstr "Hardest"
+
+#: src/screens/Collection.tsx:311
+msgid "high"
+msgstr "high"
 
 #: src/components/game/OptionsPanel.tsx:16
 msgid "High"
@@ -318,9 +459,18 @@ msgstr "High"
 msgid "Holographic: +10 Mult"
 msgstr "Holographic: +10 Mult"
 
-#: src/screens/MainMenu.tsx:56
+#: src/screens/MainMenu.tsx:74
 msgid "HOW TO"
 msgstr "HOW TO"
+
+#: src/components/viewer/TaskViewer.tsx:419
+msgid "I don't know this"
+msgstr "I don't know this"
+
+#. placeholder {0}: formatValue(chipsIfRight + knowledgeChips(task.diff))
+#: src/components/viewer/TaskViewer.tsx:381
+msgid "If right: {0} chips, +{KNOWLEDGE_MULT} mult"
+msgstr "If right: {0} chips, +{KNOWLEDGE_MULT} mult"
 
 #: src/components/game/Sidebar.tsx:125
 msgid "Improve your run!"
@@ -336,15 +486,15 @@ msgid "JUMBO"
 msgstr "JUMBO"
 
 #: src/components/game/OptionsPanel.tsx:58
-#: src/screens/MainMenu.tsx:202
+#: src/screens/MainMenu.tsx:355
 msgid "Language"
 msgstr "Language"
 
-#: src/screens/MainMenu.tsx:275
+#: src/screens/MainMenu.tsx:441
 msgid "Leaderboard"
 msgstr "Leaderboard"
 
-#: src/screens/MainMenu.tsx:287
+#: src/screens/MainMenu.tsx:453
 msgid "Leaderboard needs Supabase (see README)."
 msgstr "Leaderboard needs Supabase (see README)."
 
@@ -352,26 +502,30 @@ msgstr "Leaderboard needs Supabase (see README)."
 msgid "Let's go!"
 msgstr "Let's go!"
 
+#: src/screens/Collection.tsx:131
+msgid "Level"
+msgstr "Level"
+
 #. placeholder {0}: hand.lvlChips
 #. placeholder {1}: hand.lvlMult
-#: src/components/cards/cardInfo.tsx:54
+#: src/components/cards/cardInfo.tsx:53
 msgid "Level up: [c:+{0}] Chips and [m:+{1}] Mult"
 msgstr "Level up: [c:+{0}] Chips and [m:+{1}] Mult"
 
 #: src/components/viewer/TaskBoard.tsx:112
-#: src/screens/MainMenu.tsx:291
+#: src/screens/MainMenu.tsx:457
 msgid "Loading..."
 msgstr "Loading..."
 
-#: src/screens/MainMenu.tsx:76
+#: src/screens/MainMenu.tsx:94
 msgid "Log in"
 msgstr "Log in"
 
-#: src/components/game/GameOver.tsx:102
+#: src/components/game/GameOver.tsx:119
 msgid "Log in to appear on the leaderboard"
 msgstr "Log in to appear on the leaderboard"
 
-#: src/screens/MainMenu.tsx:76
+#: src/screens/MainMenu.tsx:94
 msgid "Log out"
 msgstr "Log out"
 
@@ -383,6 +537,14 @@ msgstr "Login"
 msgid "Login: 3-20 characters, lowercase letters, digits, - or _"
 msgstr "Login: 3-20 characters, lowercase letters, digits, - or _"
 
+#: src/screens/Collection.tsx:502
+msgid "Lost"
+msgstr "Lost"
+
+#: src/screens/Collection.tsx:311
+msgid "low"
+msgstr "low"
+
 #: src/components/game/OptionsPanel.tsx:14
 msgid "Low"
 msgstr "Low"
@@ -391,9 +553,21 @@ msgstr "Low"
 msgid "Main menu"
 msgstr "Main menu"
 
-#: src/components/game/GameOver.tsx:115
+#: src/components/game/GameOver.tsx:145
 msgid "Main Menu"
 msgstr "Main Menu"
+
+#: src/components/viewer/TaskViewer.tsx:419
+msgid "Marked: don't know"
+msgstr "Marked: don't know"
+
+#: src/screens/Collection.tsx:44
+msgid "Matura readiness"
+msgstr "Matura readiness"
+
+#: src/screens/Collection.tsx:311
+msgid "medium"
+msgstr "medium"
 
 #: src/components/game/OptionsPanel.tsx:15
 msgid "Medium"
@@ -403,11 +577,25 @@ msgstr "Medium"
 msgid "MEGA"
 msgstr "MEGA"
 
-#: src/components/game/GameOver.tsx:53
+#. placeholder {0}: formatNumber(counts.all)
+#. placeholder {1}: formatNumber(pool.all.length)
+#: src/screens/Collection.tsx:116
+msgid "Met {0} of {1}"
+msgstr "Met {0} of {1}"
+
+#: src/components/game/GameOver.tsx:57
 msgid "Money earned"
 msgstr "Money earned"
 
-#: src/components/game/GameOver.tsx:48
+#: src/screens/Collection.tsx:106
+msgid "Most correct"
+msgstr "Most correct"
+
+#: src/screens/Collection.tsx:105
+msgid "Most missed"
+msgstr "Most missed"
+
+#: src/components/game/GameOver.tsx:49
 msgid "Most played hand"
 msgstr "Most played hand"
 
@@ -419,33 +607,50 @@ msgstr "Music"
 msgid "Negative: +1 Joker slot"
 msgstr "Negative: +1 Joker slot"
 
-#: src/screens/AuthScreen.tsx:72
+#: src/screens/AuthScreen.tsx:77
 msgid "New login? We create the account automatically. Same login next time = your results."
 msgstr "New login? We create the account automatically. Same login next time = your results."
 
-#: src/components/game/GameOver.tsx:112
-#: src/screens/MainMenu.tsx:157
+#: src/components/game/GameOver.tsx:130
+#: src/screens/MainMenu.tsx:310
 msgid "New Run"
 msgstr "New Run"
 
-#: src/components/game/Shop.tsx:39
+#: src/screens/Collection.tsx:108
+msgid "Newest exam"
+msgstr "Newest exam"
+
+#: src/components/game/Shop.tsx:44
 msgid "Next Round"
 msgstr "Next Round"
+
+#: src/screens/GameScreen.tsx:153
+msgid "No"
+msgstr "No"
 
 #: src/components/game/HandArea.tsx:148
 #: src/components/game/HandArea.tsx:149
 msgid "No answer"
 msgstr "No answer"
 
-#: src/screens/MainMenu.tsx:297
+#: src/screens/Collection.tsx:450
+#: src/screens/Collection.tsx:515
+msgid "No finished runs yet."
+msgstr "No finished runs yet."
+
+#: src/screens/MainMenu.tsx:463
 msgid "No runs yet. Be the first!"
 msgstr "No runs yet. Be the first!"
 
-#: src/components/game/RunInfo.tsx:145
+#: src/screens/Collection.tsx:170
+msgid "No tasks match these filters."
+msgstr "No tasks match these filters."
+
+#: src/components/game/RunInfo.tsx:160
 msgid "None yet"
 msgstr "None yet"
 
-#: src/components/viewer/TaskViewer.tsx:276
+#: src/components/viewer/TaskViewer.tsx:377
 msgid "Not a number I can read"
 msgstr "Not a number I can read"
 
@@ -453,24 +658,24 @@ msgstr "Not a number I can read"
 msgid "Notes"
 msgstr "Notes"
 
-#: src/components/game/OptionsPanel.tsx:177
+#: src/components/game/OptionsPanel.tsx:180
 msgid "Off"
 msgstr "Off"
 
-#: src/components/game/OptionsPanel.tsx:177
+#: src/components/game/OptionsPanel.tsx:180
 msgid "On"
 msgstr "On"
 
-#: src/screens/AuthScreen.tsx:77
+#: src/screens/AuthScreen.tsx:82
 msgid "Online accounts are not configured (VITE_SUPABASE_URL). You can play as a guest."
 msgstr "Online accounts are not configured (VITE_SUPABASE_URL). You can play as a guest."
 
-#: src/components/game/PackOpen.tsx:84
-#: src/components/game/Shop.tsx:108
+#: src/components/game/PackOpen.tsx:88
+#: src/components/game/Shop.tsx:115
 msgid "Open"
 msgstr "Open"
 
-#: src/components/game/Shop.tsx:252
+#: src/components/game/Shop.tsx:259
 msgid "Open task"
 msgstr "Open task"
 
@@ -479,15 +684,19 @@ msgstr "Open task"
 msgid "Options"
 msgstr "Options"
 
-#: src/screens/MainMenu.tsx:50
+#: src/screens/MainMenu.tsx:65
 msgid "OPTIONS"
 msgstr "OPTIONS"
 
-#: src/components/game/BlindSelect.tsx:87
+#: src/components/game/BlindSelect.tsx:105
 msgid "or"
 msgstr "or"
 
-#: src/components/viewer/TaskViewer.tsx:138
+#: src/components/viewer/TaskViewer.tsx:354
+msgid "Or pick the option"
+msgstr "Or pick the option"
+
+#: src/components/viewer/TaskViewer.tsx:202
 msgid "Pan"
 msgstr "Pan"
 
@@ -503,12 +712,16 @@ msgstr "PIN: at least 4 characters"
 msgid "Pixel cursor"
 msgstr "Pixel cursor"
 
-#: src/screens/MainMenu.tsx:47
-#: src/screens/MainMenu.tsx:238
+#: src/screens/MainMenu.tsx:62
+#: src/screens/MainMenu.tsx:404
 msgid "PLAY"
 msgstr "PLAY"
 
-#: src/screens/AuthScreen.tsx:81
+#: src/screens/Collection.tsx:168
+msgid "Play a run: every task you answer lands here."
+msgstr "Play a run: every task you answer lands here."
+
+#: src/screens/AuthScreen.tsx:86
 msgid "Play as guest"
 msgstr "Play as guest"
 
@@ -516,15 +729,15 @@ msgstr "Play as guest"
 msgid "Play Hand"
 msgstr "Play Hand"
 
-#: src/components/game/GameOver.tsx:54
+#: src/components/game/GameOver.tsx:58
 msgid "Play time"
 msgstr "Play time"
 
-#: src/screens/MainMenu.tsx:64
+#: src/screens/MainMenu.tsx:82
 msgid "Played {playTime}"
 msgstr "Played {playTime}"
 
-#: src/screens/MainMenu.tsx:305
+#: src/screens/MainMenu.tsx:471
 msgid "Player"
 msgstr "Player"
 
@@ -532,21 +745,33 @@ msgstr "Player"
 msgid "Polychrome: x1.5 Mult"
 msgstr "Polychrome: x1.5 Mult"
 
-#: src/screens/MainMenu.tsx:223
+#: src/screens/MainMenu.tsx:388
+msgid "Prefer tasks I haven't met yet"
+msgstr "Prefer tasks I haven't met yet"
+
+#: src/screens/MainMenu.tsx:376
 msgid "random"
 msgstr "random"
 
-#: src/screens/MainMenu.tsx:53
+#: src/screens/MainMenu.tsx:71
 msgid "RANKING"
 msgstr "RANKING"
 
-#: src/components/game/Shop.tsx:81
+#: src/screens/Collection.tsx:104
+msgid "Recent"
+msgstr "Recent"
+
+#: src/components/game/Shop.tsx:88
 msgid "Redeem"
 msgstr "Redeem"
 
-#: src/components/game/RunInfo.tsx:141
+#: src/components/game/RunInfo.tsx:156
 msgid "Redeemed vouchers"
 msgstr "Redeemed vouchers"
+
+#: src/components/viewer/TaskViewer.tsx:247
+msgid "Redo (Ctrl+Y)"
+msgstr "Redo (Ctrl+Y)"
 
 #: src/components/game/OptionsPanel.tsx:118
 msgid "Reduced motion"
@@ -557,29 +782,46 @@ msgstr "Reduced motion"
 msgid "Remaining deck: {0}"
 msgstr "Remaining deck: {0}"
 
-#: src/components/viewer/TaskViewer.tsx:279
+#: src/screens/Collection.tsx:579
+msgid "Replay"
+msgstr "Replay"
+
+#: src/components/game/GameOver.tsx:141
+msgid "Replay seed"
+msgstr "Replay seed"
+
+#: src/components/viewer/TaskViewer.tsx:404
 msgid "Required to play this card. A wrong answer scores 0 chips."
 msgstr "Required to play this card. A wrong answer scores 0 chips."
 
-#: src/components/game/Shop.tsx:49
+#: src/components/game/Shop.tsx:54
 msgid "Reroll"
 msgstr "Reroll"
 
-#: src/components/game/GameOver.tsx:52
+#: src/components/game/GameOver.tsx:56
 msgid "Rerolls"
 msgstr "Rerolls"
+
+#: src/screens/Collection.tsx:530
+msgid "Result"
+msgstr "Result"
 
 #: src/hooks/runs/useSubmitRun.ts:14
 msgid "Result saved to the leaderboard"
 msgstr "Result saved to the leaderboard"
 
-#: src/components/viewer/TaskViewer.tsx:307
+#: src/components/viewer/TaskViewer.tsx:451
 msgid "Revealed value"
 msgstr "Revealed value"
 
-#: src/components/game/BlindSelect.tsx:76
+#: src/components/game/BlindSelect.tsx:94
 msgid "Reward:"
 msgstr "Reward:"
+
+#. placeholder {0}: knowledgeChips(task.diff)
+#: src/components/viewer/TaskViewer.tsx:317
+msgid "Right answer bonus: +{0} chips, +{KNOWLEDGE_MULT} mult"
+msgstr "Right answer bonus: +{0} chips, +{KNOWLEDGE_MULT} mult"
 
 #: src/components/game/Sidebar.tsx:274
 msgid "Round"
@@ -597,37 +839,43 @@ msgstr "Rules"
 msgid "Run Info"
 msgstr "Run Info"
 
-#: src/components/game/GameOver.tsx:99
+#: src/screens/Collection.tsx:47
+msgid "Runs"
+msgstr "Runs"
+
+#: src/components/game/GameOver.tsx:116
 msgid "Saved to the leaderboard"
 msgstr "Saved to the leaderboard"
 
-#: src/components/game/GameOver.tsx:97
+#: src/components/game/GameOver.tsx:114
 msgid "Saving to leaderboard..."
 msgstr "Saving to leaderboard..."
 
-#: src/screens/MainMenu.tsx:311
+#: src/screens/Collection.tsx:536
+#: src/screens/MainMenu.tsx:477
 msgid "Score"
 msgstr "Score"
 
-#: src/components/game/BlindSelect.tsx:72
+#: src/components/game/BlindSelect.tsx:90
 #: src/components/game/Sidebar.tsx:95
 msgid "Score at least"
 msgstr "Score at least"
 
-#: src/components/game/GameOver.tsx:55
+#: src/components/game/GameOver.tsx:59
+#: src/screens/Collection.tsx:545
 msgid "Seed"
 msgstr "Seed"
 
-#: src/screens/MainMenu.tsx:218
+#: src/screens/MainMenu.tsx:371
 msgid "Seed (optional)"
 msgstr "Seed (optional)"
 
-#: src/components/game/BlindSelect.tsx:56
+#: src/components/game/BlindSelect.tsx:74
 #: src/components/game/HandArea.tsx:164
 msgid "Select"
 msgstr "Select"
 
-#: src/components/viewer/TaskViewer.tsx:338
+#: src/components/viewer/TaskViewer.tsx:482
 msgid "Select for play"
 msgstr "Select for play"
 
@@ -636,9 +884,33 @@ msgstr "Select for play"
 msgid "Sell"
 msgstr "Sell"
 
+#: src/screens/MainMenu.tsx:278
+msgid "Send"
+msgstr "Send"
+
+#: src/screens/MainMenu.tsx:254
+msgid "Sending needs Supabase (see README)."
+msgstr "Sending needs Supabase (see README)."
+
+#: src/screens/MainMenu.tsx:278
+msgid "Sending..."
+msgstr "Sending..."
+
+#: src/screens/Collection.tsx:373
+msgid "Share of exam points"
+msgstr "Share of exam points"
+
 #: src/components/game/Sidebar.tsx:121
 msgid "SHOP"
 msgstr "SHOP"
+
+#: src/screens/Collection.tsx:120
+msgid "Show"
+msgstr "Show"
+
+#: src/components/viewer/TaskViewer.tsx:445
+msgid "Show the answer"
+msgstr "Show the answer"
 
 #: src/App.tsx:43
 msgid "Shuffling the exam sheets..."
@@ -652,15 +924,19 @@ msgstr "Sign in or create an account"
 msgid "Skip"
 msgstr "Skip"
 
-#: src/components/game/BlindSelect.tsx:94
+#: src/components/game/BlindSelect.tsx:112
 msgid "Skip Blind"
 msgstr "Skip Blind"
 
-#: src/components/game/BlindSelect.tsx:40
-#: src/components/game/GameOver.tsx:89
+#: src/components/game/BlindSelect.tsx:53
+#: src/components/game/GameOver.tsx:104
 #: src/components/game/Sidebar.tsx:81
 msgid "Small Blind"
 msgstr "Small Blind"
+
+#: src/screens/Collection.tsx:153
+msgid "Sort"
+msgstr "Sort"
 
 #: src/components/game/RoundControls.tsx:39
 msgid "Sort Hand"
@@ -670,19 +946,25 @@ msgstr "Sort Hand"
 msgid "Sound effects"
 msgstr "Sound effects"
 
-#: src/screens/MainMenu.tsx:232
+#: src/screens/Collection.tsx:506
+#: src/screens/MainMenu.tsx:396
 msgid "Start a new run? The current run will be lost."
 msgstr "Start a new run? The current run will be lost."
 
-#: src/components/cards/cardInfo.tsx:87
+#: src/screens/MainMenu.tsx:99
+#: src/screens/MainMenu.tsx:238
+msgid "Suggest an update"
+msgstr "Suggest an update"
+
+#: src/components/cards/cardInfo.tsx:85
 msgid "Tag"
 msgstr "Tag"
 
-#: src/components/game/PackOpen.tsx:76
+#: src/components/game/PackOpen.tsx:79
 msgid "Take"
 msgstr "Take"
 
-#: src/components/viewer/TaskViewer.tsx:363
+#: src/components/viewer/TaskViewer.tsx:507
 msgid "Take this card"
 msgstr "Take this card"
 
@@ -697,6 +979,14 @@ msgstr "Task {0}. (0-{1})"
 msgid "Task Pack"
 msgstr "Task Pack"
 
+#: src/screens/Collection.tsx:41
+msgid "Tasks"
+msgstr "Tasks"
+
+#: src/hooks/suggestions/useSubmitSuggestion.ts:12
+msgid "Thanks! Your suggestion was sent."
+msgstr "Thanks! Your suggestion was sent."
+
 #: src/components/cards/cardInfo.tsx:49
 msgid "Theorem"
 msgstr "Theorem"
@@ -710,32 +1000,40 @@ msgstr "Theorem Pack"
 msgid "This card is face down - play it to reveal it"
 msgstr "This card is face down - play it to reveal it"
 
+#: src/screens/Collection.tsx:542
+msgid "Time"
+msgstr "Time"
+
 #: src/components/game/Sidebar.tsx:99
 msgid "to earn"
 msgstr "to earn"
 
-#: src/components/game/GameOver.tsx:49
+#: src/components/game/GameOver.tsx:53
 msgid "Total score"
 msgstr "Total score"
 
-#: src/components/viewer/TaskViewer.tsx:176
-msgid "Undo"
-msgstr "Undo"
+#: src/components/game/CheatPanel.tsx:45
+msgid "Turn off"
+msgstr "Turn off"
 
-#: src/components/game/BlindSelect.tsx:60
+#: src/components/viewer/TaskViewer.tsx:240
+msgid "Undo (Ctrl+Z)"
+msgstr "Undo (Ctrl+Z)"
+
+#: src/components/game/BlindSelect.tsx:78
 msgid "Upcoming"
 msgstr "Upcoming"
 
 #: src/components/game/ConsumableTray.tsx:64
-#: src/components/game/PackOpen.tsx:76
+#: src/components/game/PackOpen.tsx:77
 msgid "Use"
 msgstr "Use"
 
-#: src/components/viewer/TaskViewer.tsx:309
+#: src/components/viewer/TaskViewer.tsx:453
 msgid "Value range"
 msgstr "Value range"
 
-#: src/components/viewer/TaskViewer.tsx:311
+#: src/components/viewer/TaskViewer.tsx:455
 msgid "Value sign"
 msgstr "Value sign"
 
@@ -743,7 +1041,7 @@ msgstr "Value sign"
 msgid "Video"
 msgstr "Video"
 
-#: src/components/cards/cardInfo.tsx:75
+#: src/components/cards/cardInfo.tsx:73
 msgid "Voucher"
 msgstr "Voucher"
 
@@ -759,23 +1057,27 @@ msgstr "Vouchers & Boss"
 msgid "Welcome back!"
 msgstr "Welcome back!"
 
+#: src/screens/Collection.tsx:502
+msgid "Won"
+msgstr "Won"
+
 #: src/hooks/auth/useSignInWithPin.ts:20
 msgid "Wrong PIN for this login"
 msgstr "Wrong PIN for this login"
 
-#: src/components/game/GameOver.tsx:70
+#: src/components/game/GameOver.tsx:80
 msgid "YOU WIN!"
 msgstr "YOU WIN!"
 
-#: src/components/viewer/TaskViewer.tsx:250
+#: src/components/viewer/TaskViewer.tsx:326
 msgid "Your answer"
 msgstr "Your answer"
 
-#: src/components/viewer/TaskViewer.tsx:296
+#: src/components/viewer/TaskViewer.tsx:436
 msgid "Your answer was right ✓"
 msgstr "Your answer was right ✓"
 
-#: src/components/viewer/TaskViewer.tsx:298
+#: src/components/viewer/TaskViewer.tsx:438
 msgid "Your answer was wrong ✗"
 msgstr "Your answer was wrong ✗"
 
@@ -783,11 +1085,15 @@ msgstr "Your answer was wrong ✗"
 msgid "Your note: {note}"
 msgstr "Your note: {note}"
 
-#: src/components/viewer/TaskViewer.tsx:189
+#: src/screens/MainMenu.tsx:246
+msgid "Your suggestion..."
+msgstr "Your suggestion..."
+
+#: src/components/viewer/TaskViewer.tsx:260
 msgid "Zoom in"
 msgstr "Zoom in"
 
-#: src/components/viewer/TaskViewer.tsx:185
+#: src/components/viewer/TaskViewer.tsx:256
 msgid "Zoom out"
 msgstr "Zoom out"
 

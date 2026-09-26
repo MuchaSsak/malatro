@@ -25,7 +25,9 @@
    "summary_en": "12% of $a$ = 15% of $b$. What % of $b$ is $a$?",
    "statement_en": "Numbers $a$ and $b$ are positive and 12% of $a$ equals 15% of $b$. It follows that $a$ is equal to: A. 103% of $b$ B. 125% of $b$ C. 150% of $b$ D. 153% of $b$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -43,7 +45,9 @@
    "summary_en": "Compute $\\log 100-\\log_2 8$",
    "statement_en": "The number $\\log 100 - \\log_2 8$ is equal to: A. $-2$ B. $-1$ C. 0 D. 1",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "System $5x+3y=3$, $8x-6y=48$ (sum $x+y$)",
    "statement_en": "The solution of the system of equations $\\begin{cases}5x+3y=3\\\\8x-6y=48\\end{cases}$ is the pair of numbers: A. $x=-3$ and $y=4$ B. $x=-3$ and $y=6$ C. $x=3$ and $y=-4$ D. $x=9$ and $y=4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -79,7 +85,9 @@
    "summary_en": "$A=(0,1)$ on $f(x)=(m-2)x+m-3$. Find $m$",
    "statement_en": "The point $A=(0,1)$ lies on the graph of the linear function $f(x)=(m-2)x+m-3$. It follows that: A. $m=1$ B. $m=2$ C. $m=3$ D. $m=4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -97,7 +105,9 @@
    "summary_en": "Parabola $y=-3(x-2)^2+4$. Give the vertex (sum of coords)",
    "statement_en": "The vertex of the parabola with equation $y=-3(x-2)^2+4$ is the point with coordinates: A. $(-2,-4)$ B. $(-2,4)$ C. $(2,-4)$ D. $(2,4)$ (sum of coordinates)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -123,7 +133,9 @@
    "summary_en": "$y=\\frac{2}{m}x+1 \\perp y=-\\frac32x-1$. Find $m$",
    "statement_en": "The line with equation $y=\\frac{2}{m}x+1$ is perpendicular to the line with equation $y=-\\frac{3}{2}x-1$. It follows that: A. $m=-3$ B. $m=\\frac23$ C. $m=\\frac32$ D. $m=3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -149,7 +161,9 @@
    "summary_en": "Smallest integer solving $\\frac{x}{2}\\le\\frac{2x}{3}+\\frac14$",
    "statement_en": "The smallest integer satisfying the inequality $\\dfrac{x}{2}\\le\\dfrac{2x}{3}+\\dfrac{1}{4}$ is: A. $-2$ B. $-1$ C. 0 D. 1",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -175,7 +189,9 @@
    "summary_en": "Geometric sequence $(27,18,x+5)$. Find $x$",
    "statement_en": "The sequence $(27, 18, x+5)$ is geometric. Then: A. $x=4$ B. $x=5$ C. $x=7$ D. $x=9$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -193,7 +209,9 @@
    "summary_en": "Arithmetic sequence: $a_3=10$, $a_4=14$. Find $a_1$",
    "statement_en": "The sequence $(a_n)$, defined for $n\\ge1$, is arithmetic and $a_3=10$, $a_4=14$. The first term of this sequence is equal to: A. $a_1=-2$ B. $a_1=2$ C. $a_1=6$ D. $a_1=12$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -211,7 +229,9 @@
    "summary_en": "$\\sin\\alpha=\\frac{\\sqrt3}{2}$. Find $\\cos^2\\alpha-2$",
    "statement_en": "The angle $\\alpha$ is acute and $\\sin\\alpha=\\frac{\\sqrt3}{2}$. The value of the expression $\\cos^2\\alpha-2$ is equal to: A. $-\\frac74$ B. $-\\frac14$ C. $\\frac12$ D. $\\frac{\\sqrt3}{2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +249,9 @@
    "summary_en": "Diameters AB, CD meet at $50°$. Find angle $\\alpha$",
    "statement_en": "The diameters AB and CD of a circle with center S intersect at an angle of $50°$ (see figure). M is a point on the circle, and $\\alpha$ is the marked inscribed angle at M between chords MB and MD. The measure of angle $\\alpha$ is equal to: A. $25°$ B. $30°$ C. $40°$ D. $50°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +269,9 @@
    "summary_en": "How many real solutions does $(x+1)(x+2)(x^2+3)=0$ have?",
    "statement_en": "The number of real solutions of the equation $(x+1)(x+2)(x^2+3)=0$ is equal to: A. 0 B. 1 C. 2 D. 4",
    "confidence": "high",
-   "notes": " [verified: ok: Real roots -1, -2; x^2+3 has none. Count 2, option C (version A).]"
+   "notes": " [verified: ok: Real roots -1, -2; x^2+3 has none. Count 2, option C (version A).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -265,7 +289,9 @@
    "summary_en": "Rhombus: $A=(-1,2)$, $B=(5,-2)$. Find perimeter",
    "statement_en": "Points $A=(-1,2)$ and $B=(5,-2)$ are two adjacent vertices of rhombus $ABCD$. The perimeter of this rhombus is equal to: A. $\\sqrt{13}$ B. 13 C. 676 D. $8\\sqrt{13}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +309,9 @@
    "summary_en": "$S=(-4,7)$ midpoint of $PQ$, $Q=(17,12)$. Give $P$ (sum of coords)",
    "statement_en": "The point $S=(-4,7)$ is the midpoint of segment $PQ$, where $Q=(17,12)$. Then point $P$ has coordinates: A. $P=(2,-25)$ B. $P=(38,17)$ C. $P=(-25,2)$ D. $P=(-12,4)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +329,9 @@
    "summary_en": "Distance between centers of $(x+1)^2+(y-2)^2=9$ and $x^2+y^2=10$",
    "statement_en": "The distance between the centers of the circles with equations $(x+1)^2+(y-2)^2=9$ and $x^2+y^2=10$ is equal to: A. $\\sqrt5$ B. $\\sqrt{10}-3$ C. 3 D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -310,7 +340,7 @@
    "answer_kind": "single",
    "value": 5,
    "value_tex": "5",
-   "answer_tex": "\\text{pieciokat}",
+   "answer_tex": "\text{pięciokąt}",
    "category": "stereometria",
    "topic_pl": "Graniastosłup - liczba boków podstawy",
    "topic_en": "Prism - number of base sides",
@@ -319,7 +349,9 @@
    "summary_en": "Prism's edges exceed lateral faces by 10. Sides of base?",
    "statement_en": "The total number of edges of a prism is 10 greater than the number of its lateral faces. It follows that the base of this prism is: A. a quadrilateral B. a pentagon C. a hexagon D. a decagon",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] 3n=n+10 => n=5, pentagon; key A: B. answer_tex lacked diacritics: fixed to pięciokąt.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -337,7 +369,9 @@
    "summary_en": "Cone: height 4, radius 3. Find lateral area",
    "statement_en": "The lateral surface area of a cone with height 4 and base radius 3 is equal to: A. $9\\pi$ B. $12\\pi$ C. $15\\pi$ D. $16\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -355,7 +389,9 @@
    "summary_en": "Two dice rolls. $p$(product of pips$=5$)?",
    "statement_en": "We roll a fair six-sided die twice. Let $p$ denote the probability of the event that the product of the numbers rolled is equal to 5. Then: A. $p=\\frac{1}{36}$ B. $p=\\frac{1}{18}$ C. $p=\\frac{1}{12}$ D. $p=\\frac19$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -373,7 +409,9 @@
    "summary_en": "Compute $\\frac{\\sqrt{50}-\\sqrt{18}}{\\sqrt2}$",
    "statement_en": "The number $\\dfrac{\\sqrt{50}-\\sqrt{18}}{\\sqrt2}$ is equal to: A. $2\\sqrt2$ B. 2 C. 4 D. $\\sqrt{10}-\\sqrt6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -391,7 +429,9 @@
    "summary_en": "Median of $1,2,3,x,5,8$ is 4. Find $x$",
    "statement_en": "The median of the non-decreasing ordered set of six numbers $1, 2, 3, x, 5, 8$ is equal to 4. Then: A. $x=2$ B. $x=3$ C. $x=4$ D. $x=5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -409,7 +449,9 @@
    "summary_en": "Prism: height 7, $V=28\\sqrt3$. Find base edge",
    "statement_en": "The volume of a regular triangular prism with height 7 is equal to $28\\sqrt3$. The length of the base edge of this prism is equal to: A. 2 B. 4 C. 8 D. 16",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -427,7 +469,9 @@
    "summary_en": "Solve $x^3+2x^2-8x-16=0$ (sum of solutions)",
    "statement_en": "Solve the equation $x^3+2x^2-8x-16=0$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -445,7 +489,9 @@
    "summary_en": "$\\sin\\alpha=\\frac{\\sqrt3}{2}$. Find $\\sin^2\\alpha-3\\cos^2\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\sin\\alpha=\\frac{\\sqrt3}{2}$. Compute the value of the expression $\\sin^2\\alpha-3\\cos^2\\alpha$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -469,9 +515,11 @@
    "difficulty": 1,
    "summary_pl": "Wykres $f(x)$. Odczytaj największą wartość $f$ (a)",
    "summary_en": "Graph of $f(x)$. Read the greatest value of $f$ (a)",
-   "statement_en": "The graph shows a function $f(x)$ defined for $x\\in\\langle-7,8\\rangle$. Read from the graph and write down: a) the greatest value of $f$, b) the solution set of the inequality $f(x)<0$. [Figure: a curve starting at $(-7,6)$, decreasing to a minimum near $(-1,-6)$, rising gently to about $(5,-3)$, then rising sharply to a peak near $(6,7)$, and decreasing to end at $(8,4)$.] Only part (a) is numeric.",
+   "statement_en": "The figure shows the graph of a function $f(x)$ defined for $x\\in\\langle-7,8\\rangle$. Read from the graph and write down: a) the greatest value of the function $f$, b) the solution set of the inequality $f(x)<0$. (Type the answer to part a).)",
    "confidence": "high",
-   "notes": "Value of part a) read approximately from grid (peak near y=7); part b) is an interval, not summed. [verified: ok: Peak at (6,7); key states max value 7. Part b) is interval (-3,5), not summed; summary marks (a).]"
+   "notes": "Value of part a) read approximately from grid (peak near y=7); part b) is an interval, not summed. [verified: ok: Peak at (6,7); key states max value 7. Part b) is interval (-3,5), not summed; summary marks (a).]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "30",
@@ -523,7 +571,9 @@
    "summary_en": "Pyramid: base $100$cm², lateral $260$cm². Find volume",
    "statement_en": "The base area of a regular quadrilateral pyramid is equal to $100\\text{ cm}^2$, and its lateral surface area is equal to $260\\text{ cm}^2$. Compute the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -541,7 +591,9 @@
    "summary_en": "Trains: 336km, 40min time diff, 9km/h speed diff (sum of speeds)",
    "statement_en": "A railway line of length 336 km connects two cities. The first train covered this route in a time 40 minutes shorter than the second train. The average speed of the first train on this route was 9 km/h greater than the average speed of the second train. Compute the average speed of each of these trains.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

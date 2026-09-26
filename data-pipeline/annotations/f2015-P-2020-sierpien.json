@@ -10,14 +10,16 @@
    "value_tex": "17+4\\sqrt{15}",
    "answer_tex": "17+4\\sqrt{15}",
    "category": "liczby",
-   "topic_pl": "Potegowanie wyrazen z pierwiastkami",
+   "topic_pl": "Potęgowanie wyrażeń z pierwiastkami",
    "topic_en": "Squaring root expressions",
    "difficulty": 2,
    "summary_pl": "Oblicz $(\\sqrt5+2\\sqrt3)^2$",
    "summary_en": "Compute $(\\sqrt5+2\\sqrt3)^2$",
    "statement_en": "Compute the value of (sqrt(5) + 2*sqrt(3))^2. A. 11  B. 17  C. 17+4*sqrt(15)  D. 17+2*sqrt(15)",
    "confidence": "high",
-   "notes": "Verified by expansion: 5+12+4*sqrt(15)=17+4*sqrt(15), matching key option C."
+   "notes": "Verified by expansion: 5+12+4*sqrt(15)=17+4*sqrt(15), matching key option C.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -28,14 +30,16 @@
    "value_tex": "3^{5/8}",
    "answer_tex": "3^{5/8}",
    "category": "liczby",
-   "topic_pl": "Potegi i pierwiastki",
+   "topic_pl": "Potęgi i pierwiastki",
    "topic_en": "Powers and roots",
    "difficulty": 2,
-   "summary_pl": "Zapisz $\\sqrt[4]{9\\cdot\\sqrt3}$ w postaci potegi",
-   "summary_en": "Express $\\sqrt[4]{9\\cdot\\sqrt3}$ as a power",
-   "statement_en": "The number (fourth root of 9) times sqrt(3) can be written in the form: A. 3^(5/8)  B. 3^(11/4)  C. 3^(1/4)  D. 3^(9/8)",
+   "summary_pl": "Zapisz $\\sqrt[4]{9\\cdot\\sqrt3}$ w postaci potęgi liczby 3",
+   "summary_en": "Write $\\sqrt[4]{9\\cdot\\sqrt3}$ as a power of 3",
+   "statement_en": "The number $\\sqrt[4]{9\\cdot\\sqrt{3}}$ can be written in the form: A. $3^{\\frac{5}{8}}$  B. $3^{\\frac{11}{4}}$  C. $3^{\\frac{1}{4}}$  D. $3^{\\frac{9}{8}}$",
    "confidence": "high",
-   "notes": "Verified: 9*sqrt3=3^2*3^0.5=3^2.5, fourth root gives 3^(2.5/4)=3^(5/8), matching key option A."
+   "notes": "Verified: 9*sqrt3=3^2*3^0.5=3^2.5, fourth root gives 3^(2.5/4)=3^(5/8), matching key option A.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -46,14 +50,16 @@
    "value_tex": "\\log 200",
    "answer_tex": "\\log(5^2\\cdot2^3)",
    "category": "liczby",
-   "topic_pl": "Wlasnosci logarytmow",
+   "topic_pl": "Własności logarytmów",
    "topic_en": "Logarithm properties",
    "difficulty": 2,
-   "summary_pl": "Uprosc $2\\log5+3\\log2$",
-   "summary_en": "Simplify $2\\log5+3\\log2$",
+   "summary_pl": "Oblicz $2\\log5+3\\log2$ (logarytm dziesiętny)",
+   "summary_en": "Compute $2\\log5+3\\log2$ (base-10 logarithm)",
    "statement_en": "The number 2*log(5) + 3*log(2) is equal to: A. log(2*5)+log(3*2)  B. log(2^5)+log(3^2)  C. 2*3*log(5*2)  D. log(5^2*2^3)",
    "confidence": "high",
-   "notes": "Verified: 2log5+3log2=log(5^2)+log(2^3)=log(5^2*2^3)=log(200), matching key option D."
+   "notes": "Verified: 2log5+3log2=log(5^2)+log(2^3)=log(5^2*2^3)=log(200), matching key option D.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -64,14 +70,16 @@
    "value_tex": "3",
    "answer_tex": "3",
    "category": "rownania",
-   "topic_pl": "Nierownosc liniowa",
+   "topic_pl": "Nierówność liniowa",
    "topic_en": "Linear inequality",
    "difficulty": 2,
    "summary_pl": "Najmniejsza liczba całk. w $\\frac{5(4-x)}{2}<x$",
    "summary_en": "Least integer solving $\\frac{5(4-x)}{2}<x$",
    "statement_en": "The smallest integer satisfying the inequality 5(4-x)/2 < x is the number: A. 1  B. 2  C. 3  D. 4",
    "confidence": "high",
-   "notes": "Verified: 20-5x<2x gives x>20/7=2.857..., smallest integer is 3, matching key option C."
+   "notes": "Verified: 20-5x<2x gives x>20/7=2.857..., smallest integer is 3, matching key option C.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -82,14 +90,16 @@
    "value_tex": "0.024",
    "answer_tex": "0.024",
    "category": "liczby",
-   "topic_pl": "Blad przyblizenia",
+   "topic_pl": "Błąd przybliżenia",
    "topic_en": "Approximation error",
    "difficulty": 2,
    "summary_pl": "250 liczb: 4 (128x), 2 (122x). Błąd przybliżenia średniej do 3",
    "summary_en": "250 numbers: 4(x128), 2(x122). Error of mean approximated to 3",
    "statement_en": "A data set of 250 numbers contains only the values 4 and 2. The value 4 occurs 128 times, and the value 2 occurs 122 times. The arithmetic mean of this data set is approximated by the number 3. Find the absolute error of this approximation. A. 0.024  B. 0.24  C. 0.0024  D. 0.00024",
    "confidence": "high",
-   "notes": "Verified: mean=(4*128+2*122)/250=3.024, absolute error=0.024, matching key option A."
+   "notes": "Verified: mean=(4*128+2*122)/250=3.024, absolute error=0.024, matching key option A.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -100,14 +110,16 @@
    "value_tex": "2677.5",
    "answer_tex": "2677.50",
    "category": "liczby",
-   "topic_pl": "Obnizki procentowe",
+   "topic_pl": "Obniżki procentowe",
    "topic_en": "Percentage discounts",
    "difficulty": 2,
-   "summary_pl": "Komputer 3500 zl, rabaty 10% i 15%. Cena koncowa?",
+   "summary_pl": "Komputer 3500 zł, obniżki o 10% i o 15%. Cena końcowa?",
    "summary_en": "Computer 3500 zl, discounts 10% and 15%. Final price?",
    "statement_en": "At the start of a month a computer cost 3500 zl. Later that month its price was reduced by 10%, and then reduced again by 15%. There were no other price changes that month. Find the computer's price at the end of the month. A. 3272.50 zl  B. 2625 zl  C. 2677.50 zl  D. 2800 zl",
    "confidence": "high",
-   "notes": "Verified: 3500*0.9*0.85=2677.5, matching key option C."
+   "notes": "Verified: 3500*0.9*0.85=2677.5, matching key option C.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -121,11 +133,13 @@
    "topic_pl": "Miejsce zerowe funkcji liniowej",
    "topic_en": "Zero of a linear function",
    "difficulty": 2,
-   "summary_pl": "$f(x)=-4x+12$, $g(x)=-2x+k+3$ maja wspolne miejsce zerowe. Znajdz $k$",
+   "summary_pl": "$f(x)=-4x+12$, $g(x)=-2x+k+3$ mają wspólne miejsce zerowe. Znajdź $k$",
    "summary_en": "$f(x)=-4x+12$, $g(x)=-2x+k+3$ share a zero. Find $k$",
    "statement_en": "Linear functions f and g are given by f(x)=-4x+12 and g(x)=-2x+k+3 and share a common zero. It follows that: A. k=-6  B. k=-3  C. k=3  D. k=6",
    "confidence": "high",
-   "notes": "Verified: f's zero is x=3; g(3)=0 gives k=3, matching key option C."
+   "notes": "Verified: f's zero is x=3; g(3)=0 gives k=3, matching key option C.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -136,14 +150,16 @@
    "value_tex": "-5",
    "answer_tex": "m=-5",
    "category": "funkcje",
-   "topic_pl": "Zbior wartosci funkcji kwadratowej",
+   "topic_pl": "Zbiór wartości funkcji kwadratowej",
    "topic_en": "Range of a quadratic function",
    "difficulty": 2,
    "summary_pl": "Zbiór wartości $f(x)=-(x+9)^2+m$ to $(-\\infty,-5]$. Znajdź $m$",
    "summary_en": "Range of $f(x)=-(x+9)^2+m$ is $(-\\infty,-5]$. Find $m$",
    "statement_en": "The range of the quadratic function f given by f(x)=-(x+9)^2+m is the interval (-infinity, -5]. Then: A. m=5  B. m=-5  C. m=-9  D. m=9",
    "confidence": "high",
-   "notes": "Verified: max value of f is m (attained at x=-9), so m=-5, matching key option B."
+   "notes": "Verified: max value of f is m (attained at x=-9), so m=-5, matching key option B.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -154,14 +170,16 @@
    "value_tex": "-6",
    "answer_tex": "x=-6",
    "category": "funkcje",
-   "topic_pl": "Os symetrii paraboli",
+   "topic_pl": "Oś symetrii paraboli",
    "topic_en": "Axis of symmetry of a parabola",
    "difficulty": 2,
-   "summary_pl": "Os symetrii $f(x)=\\frac13x^2+4x+7$",
-   "summary_en": "Axis of symmetry of $f(x)=\\frac13x^2+4x+7$",
+   "summary_pl": "Oś symetrii $x=?$ paraboli $f(x)=\\frac13x^2+4x+7$. Podaj $x$",
+   "summary_en": "Axis of symmetry $x=?$ of $f(x)=\\frac13x^2+4x+7$. Give $x$",
    "statement_en": "The axis of symmetry of the graph of the quadratic function f given by f(x)=(1/3)x^2+4x+7 is the line: A. x=-6  B. y=-6  C. x=-2  D. y=-2",
    "confidence": "high",
-   "notes": "Verified: axis x=-b/(2a)=-4/(2/3)=-6, matching key option A."
+   "notes": "Verified: axis x=-b/(2a)=-4/(2/3)=-6, matching key option A.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -180,14 +198,16 @@
    "value_tex": "3",
    "answer_tex": "3",
    "category": "rownania",
-   "topic_pl": "Rownanie wymierne",
+   "topic_pl": "Równanie wymierne",
    "topic_en": "Rational equation",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $\\frac{x^2-3x}{x^2+x}=0$",
    "summary_en": "Solve $\\frac{x^2-3x}{x^2+x}=0$",
    "statement_en": "The solution of the equation (x^2-3x)/(x^2+x) = 0 is the number: A. -3  B. 0  C. 3  D. 9",
    "confidence": "high",
-   "notes": "Verified: numerator zero at x=0 or x=3, but x=0 is excluded (denominator also 0), leaving x=3, matching key option C."
+   "notes": "Verified: numerator zero at x=0 or x=3, but x=0 is excluded (denominator also 0), leaving x=3, matching key option C.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -198,14 +218,16 @@
    "value_tex": "2\\pi\\sqrt2",
    "answer_tex": "2\\pi\\sqrt2",
    "category": "analityczna",
-   "topic_pl": "Dlugosc okregu",
+   "topic_pl": "Długość okręgu",
    "topic_en": "Circumference of a circle",
    "difficulty": 2,
    "summary_pl": "Okrąg o środku $S=(2,4)$ przez $P=(1,3)$. Długość okręgu?",
    "summary_en": "Circle centered $S=(2,4)$ through $P=(1,3)$. Circumference?",
    "statement_en": "Point P=(1,3) lies on a circle centered at S=(2,4). The circumference of this circle is equal to: A. 4*pi*sqrt(2)  B. 3*pi*sqrt(2)  C. 2*pi*sqrt(2)  D. pi*sqrt(2)",
    "confidence": "high",
-   "notes": "Verified: radius=dist(S,P)=sqrt(2), circumference=2*pi*sqrt(2), matching key option C."
+   "notes": "Verified: radius=dist(S,P)=sqrt(2), circumference=2*pi*sqrt(2), matching key option C.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -224,14 +246,16 @@
    "value_tex": "24",
    "answer_tex": "P=(0,16),\\ Q=(8,0)",
    "category": "analityczna",
-   "topic_pl": "Srodek odcinka",
+   "topic_pl": "Środek odcinka",
    "topic_en": "Midpoint of a segment",
    "difficulty": 2,
-   "summary_pl": "$S=(4,8)$ środkiem $PQ$, $P\\in Oy$, $Q\\in Ox$. Współrzędne (suma)",
-   "summary_en": "$S=(4,8)$ midpoint of $PQ$, $P\\in Oy$, $Q\\in Ox$. Coordinates (sum)",
+   "summary_pl": "$S=(4,8)$ środek $PQ$, $P\\in Oy$, $Q\\in Ox$. Suma wsp. $P$ i $Q$",
+   "summary_en": "$S=(4,8)$ mid of $PQ$, $P\\in Oy$, $Q\\in Ox$. Sum of coords of $P,Q$",
    "statement_en": "Point S=(4,8) is the midpoint of segment PQ, whose endpoint P lies on the Oy axis and endpoint Q lies on the Ox axis. It follows that: A. P=(0,16) and Q=(8,0)  B. P=(0,8) and Q=(16,0)  C. P=(0,4) and Q=(4,0)  D. P=(0,8) and Q=(8,0)",
    "confidence": "high",
-   "notes": "Verified: P=(0,p), Q=(q,0), midpoint gives p=16, q=8, matching key option A; sum of all four coordinates = 0+16+8+0=24."
+   "notes": "Verified: P=(0,p), Q=(q,0), midpoint gives p=16, q=8, matching key option A; sum of all four coordinates = 0+16+8+0=24.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -242,14 +266,16 @@
    "value_tex": "3",
    "answer_tex": "BC=3",
    "category": "planimetria",
-   "topic_pl": "Trojkat prostokatny - wysokosc",
+   "topic_pl": "Trójkąt prostokątny - wysokość",
    "topic_en": "Right triangle - altitude",
    "difficulty": 3,
    "summary_pl": "$AC=6$ w trójkącie prost., pola $ADC{:}CDB=4{:}1$. Oblicz $BC$",
    "summary_en": "$AC=6$ in right triangle, areas $ADC{:}CDB=4{:}1$. Find $BC$",
    "statement_en": "In right triangle ABC, leg AC has length 6, and altitude CD divides it into two triangles ADC and CDB such that the area of ADC is 4 times the area of CDB (see figure). Find the length of leg BC. A. 1.5  B. 2  C. 2.5  D. 3",
    "confidence": "high",
-   "notes": "Verified via geometric-mean relations: AC^2/BC^2 = ratio of areas = 4, so BC^2=36/4=9, BC=3, matching key option D."
+   "notes": "Verified via geometric-mean relations: AC^2/BC^2 = ratio of areas = 4, so BC^2=36/4=9, BC=3, matching key option D.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "16",
@@ -260,14 +286,16 @@
    "value_tex": "-\\frac{4}{3}",
    "answer_tex": "\\tan\\alpha=-\\frac{4}{3}",
    "category": "analityczna",
-   "topic_pl": "Kat nachylenia prostej",
+   "topic_pl": "Kąt nachylenia prostej",
    "topic_en": "Angle of inclination of a line",
    "difficulty": 2,
    "summary_pl": "$P=(-3,4)$, $O=(0,0)$. Tangens kąta nachylenia prostej $OP$",
    "summary_en": "$P=(-3,4)$, $O=(0,0)$. Tangent of line $OP$'s inclination angle",
    "statement_en": "Points P=(-3,4) and O=(0,0) lie on one line. Angle alpha is the angle of inclination of this line to the Ox axis (see figure). Find tan(alpha). A. -3/4  B. -4/3  C. 4/3  D. 3/4",
    "confidence": "high",
-   "notes": "Verified: slope of OP = (4-0)/(-3-0)=-4/3, matching key option B."
+   "notes": "Verified: slope of OP = (4-0)/(-3-0)=-4/3, matching key option B.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -278,14 +306,16 @@
    "value_tex": "\\frac{\\sqrt5}{5}",
    "answer_tex": "\\cos\\alpha=\\frac{\\sqrt5}{5}",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosc trygonometryczna",
+   "topic_pl": "Tożsamość trygonometryczna",
    "topic_en": "Trigonometric identity",
    "difficulty": 2,
    "summary_pl": "$\\alpha$ ostry, $\\sin\\alpha=\\frac{2\\sqrt5}{5}$. Oblicz $\\cos\\alpha$",
    "summary_en": "$\\alpha$ acute, $\\sin\\alpha=\\frac{2\\sqrt5}{5}$. Find $\\cos\\alpha$",
    "statement_en": "Angle alpha is acute and sin(alpha) = 2*sqrt(5)/5. Then: A. cos(alpha)=5/(2*sqrt5)  B. cos(alpha)=sqrt5/5  C. cos(alpha)=1/5  D. cos(alpha)=4/5",
    "confidence": "high",
-   "notes": "Verified: sin^2(alpha)=4/5, cos^2(alpha)=1/5, cos(alpha)=sqrt(1/5)=sqrt5/5 (positive, acute angle), matching key option B."
+   "notes": "Verified: sin^2(alpha)=4/5, cos^2(alpha)=1/5, cos(alpha)=sqrt(1/5)=sqrt5/5 (positive, acute angle), matching key option B.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -304,14 +334,16 @@
    "value_tex": "8",
    "answer_tex": "8",
    "category": "funkcje",
-   "topic_pl": "Funkcja wykladnicza",
+   "topic_pl": "Funkcja wykładnicza",
    "topic_en": "Exponential function",
    "difficulty": 2,
    "summary_pl": "$f(x)=(\\frac12)^x$. Oblicz $f(-3)$",
    "summary_en": "$f(x)=(\\frac12)^x$. Find $f(-3)$",
    "statement_en": "A function f is given by f(x)=(1/2)^x for all real x. Find the value of f at x=-3. A. 1/6  B. 1/8  C. 6  D. 8",
    "confidence": "high",
-   "notes": "Verified: (1/2)^(-3)=2^3=8, matching key option D."
+   "notes": "Verified: (1/2)^(-3)=2^3=8, matching key option D.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -322,14 +354,16 @@
    "value_tex": "11",
    "answer_tex": "a=2,\\ b=9",
    "category": "funkcje",
-   "topic_pl": "Proporcjonalnosc odwrotna",
+   "topic_pl": "Proporcjonalność odwrotna",
    "topic_en": "Inverse proportionality",
    "difficulty": 2,
-   "summary_pl": "$x,y$ odwr. proporcjonalne: tabela z $a,b$. Znajdz $a,b$ (suma)",
-   "summary_en": "$x,y$ inversely proportional: table with $a,b$. Find $a,b$ (sum)",
+   "summary_pl": "$x,y$ odwrotnie proporcjonalne (tabela z $a,b$). Podaj $a+b$",
+   "summary_en": "$x,y$ inversely proportional (table with $a,b$). Give $a+b$",
    "statement_en": "Quantities x and y are inversely proportional (table below): x: a, 3, 8; y: 36, 24, b. Find a and b. A. a=6, b=22.5  B. a=4/3, b=6  C. a=3, b=96  D. a=2, b=9",
    "confidence": "high",
-   "notes": "Verified: constant of proportionality k=3*24=72; a=72/36=2, b=72/8=9, matching key option D; sum=2+9=11."
+   "notes": "Verified: constant of proportionality k=3*24=72; a=72/36=2, b=72/8=9, matching key option D; sum=2+9=11.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21",
@@ -348,14 +382,16 @@
    "value_tex": "3",
    "answer_tex": "3",
    "category": "analityczna",
-   "topic_pl": "Pole trojkata na plaszczyznie",
+   "topic_pl": "Pole trójkąta na płaszczyźnie",
    "topic_en": "Area of a triangle in the plane",
    "difficulty": 2,
    "summary_pl": "$A=(4,1)$, $B=(1,3)$, $C=(4,-1)$. Pole trójkąta $ABC$",
    "summary_en": "$A=(4,1)$, $B=(1,3)$, $C=(4,-1)$. Area of triangle $ABC$",
    "statement_en": "Points A=(4,1), B=(1,3), C=(4,-1) are given. Find the area of triangle ABC. A. 3  B. 6  C. 8  D. 16",
    "confidence": "high",
-   "notes": "Verified via the shoelace formula: area=3, matching key option A."
+   "notes": "Verified via the shoelace formula: area=3, matching key option A.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -373,7 +409,9 @@
    "summary_en": "How many 4-digit numbers $<2020$ are divisible by 4?",
    "statement_en": "How many 4-digit natural numbers less than 2020 are divisible by 4? A. 506  B. 505  C. 256  D. 255",
    "confidence": "high",
-   "notes": "Verified: multiples of 4 from 1000 to 2016 inclusive number (2016-1000)/4+1=255, matching key option D."
+   "notes": "Verified: multiples of 4 from 1000 to 2016 inclusive number (2016-1000)/4+1=255, matching key option D.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -384,14 +422,16 @@
    "value_tex": "10",
    "answer_tex": "10",
    "category": "stereometria",
-   "topic_pl": "Wierzcholki bryl",
+   "topic_pl": "Wierzchołki brył",
    "topic_en": "Vertices of solids",
    "difficulty": 2,
    "summary_pl": "Graniastosłup ma o 9 więcej wierzchołków niż ostrosłup. Ile boków podstawy?",
    "summary_en": "Prism has 9 more vertices than pyramid. How many sides has the base?",
    "statement_en": "A prism and a pyramid have congruent bases. The number of all vertices of the prism is 9 greater than the number of all vertices of the pyramid. The base of each of these solids is: A. a nonagon  B. an octagon  C. an octadecagon  D. a decagon",
    "confidence": "high",
-   "notes": "Verified: 2n=(n+1)+9 gives n=10 (a decagon), matching key option D."
+   "notes": "Verified: 2n=(n+1)+9 gives n=10 (a decagon), matching key option D.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -402,14 +442,16 @@
    "value_tex": "12\\sqrt2",
    "answer_tex": "12\\sqrt2",
    "category": "stereometria",
-   "topic_pl": "Pole i krawedzie szescianu",
+   "topic_pl": "Pole i krawędzie sześcianu",
    "topic_en": "Cube surface area and edges",
    "difficulty": 2,
    "summary_pl": "Pole całk. sześcianu = 12. Suma długości krawędzi?",
    "summary_en": "Cube total surface area = 12. Sum of edge lengths?",
    "statement_en": "The total surface area of a cube is 12. Find the sum of the lengths of all edges of this cube. A. 6*sqrt(2)  B. 3*sqrt(2)  C. 12*sqrt(2)  D. 8*sqrt(2)",
    "confidence": "high",
-   "notes": "Verified: 6a^2=12 gives a=sqrt(2), sum of 12 edges=12*sqrt(2), matching key option C."
+   "notes": "Verified: 6a^2=12 gives a=sqrt(2), sum of 12 edges=12*sqrt(2), matching key option C.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -428,14 +470,16 @@
    "value_tex": "-\\frac{1}{5}",
    "answer_tex": "x=1 \\lor x=-\\frac{6}{5}",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 3,
    "summary_pl": "Ciąg $(x+2,4x+2,x+11)$ geometryczny. Oblicz $x$ (suma wartości)",
    "summary_en": "Sequence $(x+2,4x+2,x+11)$ is geometric. Find $x$ (sum of values)",
    "statement_en": "A three-term sequence (x+2, 4x+2, x+11) is given. Find all values of x for which this sequence is geometric.",
    "confidence": "high",
-   "notes": "Verified: (4x+2)^2=(x+2)(x+11) gives 5x^2+x-6=0, x=1 or x=-6/5, matching the key; sum=1+(-6/5)=-1/5."
+   "notes": "Verified: (4x+2)^2=(x+2)(x+11) gives 5x^2+x-6=0, x=1 or x=-6/5, matching the key; sum=1+(-6/5)=-1/5.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -462,14 +506,16 @@
    "value_tex": "-2",
    "answer_tex": "x=-3 \\lor x=-2 \\lor x=3",
    "category": "rownania",
-   "topic_pl": "Rownanie wielomianowe",
+   "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $(x^3+8)(x^2-9)=0$ (suma rozwiązań)",
    "summary_en": "Solve $(x^3+8)(x^2-9)=0$ (sum of solutions)",
    "statement_en": "Solve the equation (x^3+8)(x^2-9) = 0.",
    "confidence": "high",
-   "notes": "Verified: x^3+8=0 gives x=-2; x^2-9=0 gives x=3 or x=-3; sum of the three solutions=-3-2+3=-2, matching the key."
+   "notes": "Verified: x^3+8=0 gives x=-2; x^2-9=0 gives x=3 or x=-3; sum of the three solutions=-3-2+3=-2, matching the key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -480,14 +526,16 @@
    "value_tex": "28",
    "answer_tex": "n=28",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
-   "summary_pl": "Pudelko: 5 bialych, 3 czarne, dolozono $n$ bialych. $P(biala)=\\frac{11}{12}$. Oblicz $n$",
-   "summary_en": "Box: 5 white, 3 black, $n$ white added. $P(white)=\\frac{11}{12}$. Find $n$",
+   "summary_pl": "5 białych, 3 czarne, +$n$ białych. $P(b)=\\frac{11}{12}$. Oblicz $n$",
+   "summary_en": "5 white, 3 black, $n$ white added. $P(w)=\\frac{11}{12}$. Find $n$",
    "statement_en": "A box contains 8 balls: 5 white and 3 black. n white balls are added to the box. An experiment consists of drawing one ball from the box. The probability of drawing a white ball is 11/12. Find n.",
    "confidence": "high",
-   "notes": "Verified: (5+n)/(8+n)=11/12 gives n=28, matching the key."
+   "notes": "Verified: (5+n)/(8+n)=11/12 gives n=28, matching the key.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -498,14 +546,16 @@
    "value_tex": "\\frac{24}{5\\sqrt{97}}",
    "answer_tex": "\\sin\\alpha=\\frac{24}{5\\sqrt{97}}",
    "category": "planimetria",
-   "topic_pl": "Srodkowa trojkata",
+   "topic_pl": "Środkowa trójkąta",
    "topic_en": "Median of a triangle",
    "difficulty": 4,
    "summary_pl": "Trójkąt równoram. $AB=12$, ramiona $10$. $D$-środek $BC$. Sinus kąta $DAC$",
    "summary_en": "Isosceles triangle $AB=12$, legs $10$. $D$=midpoint of $BC$. Sine of angle $DAC$",
    "statement_en": "An isosceles triangle ABC has base AB of length 12, and each leg AC and BC has length 10. Point D is the midpoint of leg BC (see figure). Find the sine of angle alpha formed by median AD with leg AC of triangle ABC.",
    "confidence": "high",
-   "notes": "Verified: height h=8, area ABC=48, AD=sqrt(97) (via Pythagorean theorem on the constructed right triangle), area ADC=24=(1/2)*AD*AC*sin(alpha), giving sin(alpha)=24/(5*sqrt(97)), matching the key."
+   "notes": "Verified: height h=8, area ABC=48, AD=sqrt(97) (via Pythagorean theorem on the constructed right triangle), area ADC=24=(1/2)*AD*AC*sin(alpha), giving sin(alpha)=24/(5*sqrt(97)), matching the key.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "33",
@@ -516,32 +566,36 @@
    "value_tex": "72\\pi",
    "answer_tex": "V=72\\pi",
    "category": "stereometria",
-   "topic_pl": "Objetosc stozka",
+   "topic_pl": "Objętość stożka",
    "topic_en": "Volume of a cone",
    "difficulty": 4,
    "summary_pl": "Pole boczne stożka = 3x pole podstawy, wysokość 12. Objętość?",
    "summary_en": "Cone lateral area = 3x base area, height 12. Volume?",
    "statement_en": "The lateral surface area of a cone is three times the area of its base. The height of the cone is 12. Compute the volume of this cone.",
    "confidence": "high",
-   "notes": "Verified: pi*r*l=3*pi*r^2 gives l=3r; Pythagorean theorem r^2+144=9r^2 gives r^2=18; V=(1/3)*pi*r^2*h=(1/3)*pi*18*12=72*pi, matching the key (key's numeric answer 72 omits the pi factor due to OCR/garbling, but the actual volume is 72*pi). [verified: ok: l=3r, r^2+144=9r^2 so r^2=18, V=(1/3)*pi*18*12=72pi. Key 72pi (pi dropped in text). Summary lacks diacritics but is accurate.]"
+   "notes": "Verified: pi*r*l=3*pi*r^2 gives l=3r; Pythagorean theorem r^2+144=9r^2 gives r^2=18; V=(1/3)*pi*r^2*h=(1/3)*pi*18*12=72*pi, matching the key (key's numeric answer 72 omits the pi factor due to OCR/garbling, but the actual volume is 72*pi). [verified: ok: l=3r, r^2+144=9r^2 so r^2=18, V=(1/3)*pi*18*12=72pi. Key 72pi (pi dropped in text). Summary lacks diacritics but is accurate.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
    "include": true,
    "exclude_reason": null,
    "answer_kind": "sum",
-   "value": 3.4,
-   "value_tex": "\\frac{17}{5}",
-   "answer_tex": "Q=(\\frac{4}{5},\\frac{13}{5})",
+   "value": 1.8,
+   "value_tex": "\\frac{9}{5}",
+   "answer_tex": "Q=\\left(-\\frac{4}{5},\\frac{13}{5}\\right)",
    "category": "analityczna",
    "topic_pl": "Symetralna odcinka",
    "topic_en": "Perpendicular bisector",
    "difficulty": 4,
-   "summary_pl": "$y=-2x+7$ symetralna $PQ$, $P=(4,5)$. Wspolrzedne $Q$ (suma)",
-   "summary_en": "$y=-2x+7$ is perp. bisector of $PQ$, $P=(4,5)$. Coordinates of $Q$ (sum)",
+   "summary_pl": "$y=-2x+7$ symetralna $PQ$, $P=(4,5)$. Współrzędne $Q$ (suma)",
+   "summary_en": "$y=-2x+7$ perp. bisector of $PQ$, $P=(4,5)$. Find $Q$ (sum of coords)",
    "statement_en": "The line with equation y=-2x+7 is the perpendicular bisector of segment PQ, where P=(4,5). Find the coordinates of point Q.",
    "confidence": "high",
-   "notes": "Verified: perpendicular line through P is y=(1/2)x+3; intersecting with y=-2x+7 gives S=(8/5,19/5); since S is the midpoint of PQ, Q=(4/5,13/5), matching the key; sum of coordinates=4/5+13/5=17/5=3.4."
+   "notes": "Verified: perpendicular line through P is y=(1/2)x+3; intersecting with y=-2x+7 gives S=(8/5,19/5); since S is the midpoint of PQ, Q=(4/5,13/5), matching the key; sum of coordinates=4/5+13/5=17/5=3.4. [full-verify fix] S=(8/5,19/5), Q=2S-P=(-4/5,13/5); key Q=(-4/5,13/5) (minus lost in text). Sum 9/5=1.8; stored 3.4 used x=+4/5.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

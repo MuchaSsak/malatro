@@ -23,11 +23,13 @@
    "topic_pl": "Wielomian - współczynniki i pierwiastki",
    "topic_en": "Polynomial - coefficients and roots",
    "difficulty": 4,
-   "summary_pl": "Wielomian $W(x)=2x^3+ax^2-13x+b$: $a,b$ i pierwiastki (suma)",
-   "summary_en": "Polynomial $W(x)=2x^3+ax^2-13x+b$: $a,b$ and roots (sum)",
+   "summary_pl": "$W(x)=2x^3+ax^2-13x+b$: suma $a$, $b$ i pozostałych pierwiastków",
+   "summary_en": "$W(x)=2x^3+ax^2-13x+b$: sum of $a$, $b$ and the other roots",
    "statement_en": "The polynomial W(x) = 2x^3 + ax^2 - 13x + b is given. The number 3 is one of its roots. The remainder from dividing W(x) by (x+2) is 20. Calculate the coefficients a and b, and the remaining roots of W(x).",
    "confidence": "high",
-   "notes": "a=-5, b=30, remaining roots 2 and -5/2; sum = -5+30+2-2.5 = 24.5."
+   "notes": "a=-5, b=30, remaining roots 2 and -5/2; sum = -5+30+2-2.5 = 24.5.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -41,8 +43,8 @@
   },
   {
    "task": "4",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "sum",
    "value": 54,
    "value_tex": "54",
@@ -55,7 +57,7 @@
    "summary_en": "Arithmetic $a,b,c$ ($a{+}b{+}c=27$); $a{-}2,b,2c{+}1$ geometric",
    "statement_en": "The numbers a, b, c are respectively the first, second and third terms of an arithmetic sequence, and their sum is 27. The sequence (a-2, b, 2c+1) is geometric. Find the numbers a, b, c.",
    "confidence": "high",
-   "notes": "Two solution triples (5,9,13) and (31/2,9,5/2), each already summing to 27; total sum of all six numbers = 54."
+   "notes": "Two solution triples (5,9,13) and (31/2,9,5/2), each already summing to 27; total sum of all six numbers = 54. [full-verify] b=9, r=4 or -13/2: (5,9,13),(31/2,9,5/2) = key. Each triple sums to 27 (given), so 54 only counts solution sets; 27 equally defensible"
   },
   {
    "task": "5",
@@ -93,7 +95,9 @@
    "summary_en": "How many 6-digit numbers, no zero, two $9$s, one $6$, digit sum $30$?",
    "statement_en": "Calculate how many six-digit numbers have no digit equal to 0, contain exactly two digits equal to 9, exactly one digit equal to 6, and have the sum of all their digits equal to 30.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -111,7 +115,9 @@
    "summary_en": "Drawing balls from two boxes: $P$(white from second box)",
    "statement_en": "Two boxes each contain 5 balls: the first box has 2 white balls and 3 red balls, the second box has 1 white ball and 4 red balls. One ball is drawn from the first box (without looking at it) and placed into the second box. Then one ball is drawn from the second box. Calculate the probability of drawing a white ball from the second box.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -143,11 +149,13 @@
    "topic_pl": "Kąt między przekątnymi ścian prostopadłościanu",
    "topic_en": "Angle between face diagonals of a cuboid",
    "difficulty": 5,
-   "summary_pl": "Prostopadłościan: przekątne ścian, kąt $\\frac{\\pi}{3}$: kąt $\\alpha$",
-   "summary_en": "Cuboid: face diagonals, angle $\\frac{\\pi}{3}$: angle $\\alpha$",
+   "summary_pl": "Prostopadłościan: przekątne ścian, kąt $\\frac{\\pi}{3}$: kąt $\\alpha$ (w rad)",
+   "summary_en": "Cuboid: face diagonals, angle $\\frac{\\pi}{3}$: angle $\\alpha$ (in rad)",
    "statement_en": "The face diagonals of two adjacent lateral faces of a rectangular cuboid, drawn from the same vertex, make angles of pi/3 and alpha with the base. The cosine of the angle between these two diagonals is sqrt(6)/4. Find the measure of the angle alpha.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",

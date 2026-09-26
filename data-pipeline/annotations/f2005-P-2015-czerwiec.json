@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\frac{(0.2)^3}{\\sqrt[4]{25^{-3}}}$",
    "statement_en": "The number $\\frac{(0.2)^3}{\\sqrt[4]{25^{-3}}}$ equals: A. $\\sqrt{5^3}$ B. $\\frac{1}{\\sqrt{5^3}}$ C. $\\sqrt[3]{5^2}$ D. $\\frac{1}{\\sqrt[3]{5^2}}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Gross price 45018 PLN (23% VAT): find net price",
    "statement_en": "At a 23% VAT rate, the gross price of a car equals 45018 PLN. What is the net price of this car? A. 34663.86 PLN B. 36600 PLN C. 44995 PLN D. 55372.14 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -61,7 +65,9 @@
    "summary_en": "For which $m$ is $17^3+m^3$ divisible by 19?",
    "statement_en": "The number $17^3+m^3$ is divisible by 19 for: A. $m=-8$ B. $m=-2$ C. $m=2$ D. $m=8$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -91,11 +97,13 @@
    "topic_pl": "Dziedzina funkcji",
    "topic_en": "Domain of a function",
    "difficulty": 2,
-   "summary_pl": "Dziedzina $f(x)=\\frac{x+4}{x^2(x-1)}$: wykluczone $x$ (suma)",
-   "summary_en": "Domain of $f(x)=\\frac{x+4}{x^2(x-1)}$: excluded x (sum)",
-   "statement_en": "The domain of the function $f(x)=\\frac{x+4}{x^2(x-1)}$ cannot include the numbers: A. $x=-4$ and $x=0$ B. $x=-4$ and $x=1$ C. $x=0$ and $x=1$ D. $x=-1$ and $x=1$",
+   "summary_pl": "Dziedzina $f(x)=\\frac{x+4}{x(x-1)^2}$: wykluczone $x$ (suma)",
+   "summary_en": "Domain of $f(x)=\\frac{x+4}{x(x-1)^2}$: excluded $x$ (sum)",
+   "statement_en": "The domain of the function $f$ defined by $f(x)=\\frac{x+4}{x(x-1)^2}$ cannot include the numbers: A. $x=-4$ and $x=0$ B. $x=-4$ and $x=1$ C. $x=0$ and $x=1$ D. $x=-1$ and $x=1$",
    "confidence": "high",
-   "notes": "Sum of the two excluded values (denominator zeros): 0+1=1."
+   "notes": "Sum of the two excluded values (denominator zeros): 0+1=1.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -121,7 +129,9 @@
    "summary_en": "Compute $8\\log_4 2+2$",
    "statement_en": "The number $8\\log_4 2+2$ equals: A. 8 B. 6 C. 4 D. 3.5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -139,7 +149,9 @@
    "summary_en": "Minimum value of $f(x)=x^2+4x$",
    "statement_en": "The smallest value of the quadratic function $f(x)=x^2+4x$ is: A. -4 B. -2 C. 0 D. 4",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -161,11 +173,13 @@
    "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 2,
-   "summary_pl": "Ciąg $a_n=2n-1$: oblicz sumę 100 wyrazów",
-   "summary_en": "Sequence $a_n=2n-1$: find the sum of 100 terms",
+   "summary_pl": "Ciąg $a_n=2n-1$: oblicz sumę 100 pierwszych wyrazów",
+   "summary_en": "Sequence $a_n=2n-1$: find the sum of the first 100 terms",
    "statement_en": "The arithmetic sequence $(a_n)$ is given by $a_n=2n-1$ for $n\\ge1$. The sum of the first hundred terms of this sequence equals: A. 9900 B. 9950 C. 10000 D. 10050",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -183,7 +197,9 @@
    "summary_en": "Sequence $x+35,x-10,x+20$ is geometric. Find $x$",
    "statement_en": "The sequence $x+35, x-10, x+20$ is geometric. It follows that: A. $x=-8$ B. $x=-1$ C. $x=5$ D. $x=15$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -201,7 +217,9 @@
    "summary_en": "Right triangle sides $2,\\sqrt3,1$: find $\\cos\\alpha$ (smallest angle)",
    "statement_en": "Angle α is the smallest angle of a right triangle with side lengths $2, \\sqrt3, 1$. Then: A. $\\cos\\alpha=\\frac{\\sqrt3}{2}$ B. $\\cos\\alpha=\\frac12$ C. $\\cos\\alpha=\\frac{2\\sqrt3}{3}$ D. $\\cos\\alpha=\\frac{\\sqrt3}{3}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -227,7 +245,9 @@
    "summary_en": "Rhombus side = square diagonal, equal areas. Find acute angle",
    "statement_en": "The side of a rhombus has the same length as the diagonal of a square. The area of the rhombus equals the area of the square. Therefore the acute angle of this rhombus measures: A. 75° B. 45° C. 60° D. 30°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -241,11 +261,13 @@
    "topic_pl": "Trójkąt równoboczny, okrąg opisany",
    "topic_en": "Equilateral triangle, circumcircle",
    "difficulty": 3,
-   "summary_pl": "$A(-2,5)$, $B(4,-1)$: promień okręgu opisanego na $\\triangle ABC$",
+   "summary_pl": "$A(-2,5)$, $B(4,-1)$: promień okręgu opisanego na równobocznym $ABC$",
    "summary_en": "$A(-2,5)$, $B(4,-1)$: circumradius of equilateral $\\triangle ABC$",
    "statement_en": "Points $A=(-2,5)$ and $B=(4,-1)$ are given. The radius of the circle circumscribed on the equilateral triangle ABC equals: A. $\\sqrt6$ B. $2\\sqrt6$ C. $6\\sqrt3$ D. $3\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -263,7 +285,9 @@
    "summary_en": "Sum of distances from $A(-2,4)$ to lines $x=3$ and $y=-1$",
    "statement_en": "The sum of the distances of the point $A=(-2,4)$ from the lines with equations $x=3$ and $y=-1$ equals: A. 10 B. 9 C. 8 D. 7",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -281,7 +305,9 @@
    "summary_en": "$\\angle ABC=40°$ in a circle: angle between AC and radius CS",
    "statement_en": "Triangle ABC is inscribed in a circle with center S; the measure of angle ABC is 40° (see figure). The measure α of the angle that side AC forms with the radius CS equals: A. 40° B. 45° C. 50° D. 60°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "20",
@@ -295,11 +321,13 @@
    "topic_pl": "Stożek",
    "topic_en": "Cone",
    "difficulty": 3,
-   "summary_pl": "Przekrój osiowy stożka: trójkąt $6,10,10$. Stosunek pól",
-   "summary_en": "Cone's axial cross-section: triangle 6,10,10. Ratio of areas",
+   "summary_pl": "Stożek, przekrój osiowy $6,10,10$: pole boczne / pole podstawy",
+   "summary_en": "Cone, axial section $6,10,10$: lateral area / base area",
    "statement_en": "A cone has an axial cross-section that is a triangle with side lengths 6, 10 and 10. The ratio of the lateral surface area of the cone to the area of its base equals: A. $\\frac{4}{3}$ B. $\\frac{5}{4}$ C. $\\frac{5}{3}$ D. $\\frac{10}{3}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -317,7 +345,9 @@
    "summary_en": "Regular triangular pyramid, all edges = 8. Total surface area",
    "statement_en": "Every edge of a regular triangular pyramid has length 8. The total surface area of this pyramid equals: A. $16\\sqrt3$ B. $32\\sqrt3$ C. $48\\sqrt3$ D. $64\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -335,7 +365,9 @@
    "summary_en": "Sphere with volume $288\\pi$: find the radius",
    "statement_en": "The radius of a sphere with volume $V=288\\pi$ equals: A. 18 B. 9 C. 8 D. 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -349,11 +381,13 @@
    "topic_pl": "Mediana",
    "topic_en": "Median",
    "difficulty": 2,
-   "summary_pl": "Mediana zestawu $2,3,5,x,1,9$ to 4. Oblicz $x$",
-   "summary_en": "Median of $2,3,5,x,1,9$ is 4. Find $x$",
+   "summary_pl": "Mediana $2,3,5,x,1,9$ to 4. Które $x$ z opcji A-D pasuje?",
+   "summary_en": "Median of $2,3,5,x,1,9$ is 4. Which option A-D can $x$ be?",
    "statement_en": "The median of the data set $2, 3, 5, x, 1, 9$ is the number 4. Then $x$ may equal: A. 2 B. 3 C. 4 D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -371,7 +405,9 @@
    "summary_en": "How many 3-digit numbers have digit product 4?",
    "statement_en": "How many three-digit natural numbers are there whose digit product equals 4? A. 3 B. 4 C. 6 D. 8",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -389,7 +425,9 @@
    "summary_en": "Two dice rolls: probability that the product of pips is 4",
    "statement_en": "A symmetric six-sided die is rolled twice. The probability of obtaining a product of pips equal to four is: A. $\\frac{1}{12}$ B. $\\frac{1}{18}$ C. $\\frac{1}{9}$ D. $\\frac{5}{36}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -404,18 +442,20 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "sum",
-   "value": 5,
-   "value_tex": "5",
-   "answer_tex": "x=3 \\lor x=2",
+   "value": -1,
+   "value_tex": "-1",
+   "answer_tex": "x=-3 \\lor x=2",
    "category": "rownania",
    "topic_pl": "Równanie wielomianowe",
    "topic_en": "Polynomial equation",
    "difficulty": 3,
-   "summary_pl": "Rozwiąż $x^4-2x^3-27x+54=0$ (suma rozwiązań rzecz.)",
-   "summary_en": "Solve $x^4-2x^3-27x+54=0$ (sum of real solutions)",
-   "statement_en": "Solve the equation $x^4-2x^3-27x+54=0$.",
+   "summary_pl": "Rozwiąż $x^4-2x^3+27x-54=0$ (suma rozwiązań rzecz.)",
+   "summary_en": "Solve $x^4-2x^3+27x-54=0$ (sum of real solutions)",
+   "statement_en": "Solve the equation $x^4-2x^3+27x-54=0$.",
    "confidence": "high",
-   "notes": "Factors as (x^3-27)(x-2)=0; only real roots are x=3 and x=2 (the quadratic factor of x^3-27 has no real roots). Sum=5."
+   "notes": "Factors as (x^3-27)(x-2)=0; only real roots are x=3 and x=2 (the quadratic factor of x^3-27 has no real roots). Sum=5. [full-verify fix] x^3(x-2)+27(x-2)=(x-2)(x^3+27): roots 2, -3 (key agrees), sum -1. Stored 5 came from sign error (-27x+54).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -457,7 +497,9 @@
    "summary_en": "Draw 2 digits from $\\{1,...,8\\}$: probability number divisible by 4",
    "statement_en": "Two digits are drawn in succession, without replacement, from the set of digits $\\{1,2,3,4,5,6,7,8\\}$, and a two-digit number is formed so that the first drawn digit is the tens digit and the second is the units digit. Compute the probability of forming a number divisible by 4.",
    "confidence": "high",
-   "notes": " [verified: ok: 56 ordered pairs, 14 multiples of 4 with distinct digits 1-8; P=1/4, matches key.]"
+   "notes": " [verified: ok: 56 ordered pairs, 14 multiples of 4 with distinct digits 1-8; P=1/4, matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -475,7 +517,9 @@
    "summary_en": "Rhombus side 35, diagonals differ by 14. Find the area",
    "statement_en": "A rhombus has side length 35. The lengths of its diagonals differ by 14. Compute the area of this rhombus.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -493,7 +537,9 @@
    "summary_en": "Cuboid height 1, $BH=AB+BC$. Find the volume",
    "statement_en": "The height of the cuboid ABCDEFGH equals 1, and the length of the diagonal BH equals the sum of the lengths of edges AB and BC. Compute the volume of this cuboid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",
@@ -511,7 +557,9 @@
    "summary_en": "Decreasing installments: $a_1=775$, $r=-10$, total 30240 (last installment + count)",
    "statement_en": "A developer offers complete furnishing of a kitchen and living room under a \"Decreasing installments\" plan. The first installment is set at 775 PLN. Each subsequent installment is 10 PLN less than the previous one. The total cost of furnishing the kitchen and living room is set at 30240 PLN. Compute the amount of the last installment and the total number of installments.",
    "confidence": "high",
-   "notes": "Sum of the two requested numeric parts (last installment + number of installments): 65+72=137."
+   "notes": "Sum of the two requested numeric parts (last installment + number of installments): 65+72=137.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

@@ -17,7 +17,9 @@
    "summary_en": "Broken line ABCD (graph of $f$): find $f(1-\\sqrt{10})$ and $|BC|$ (sum b+d)",
    "statement_en": "The figure shows a broken line ABCD which is the graph of a function y=f(x), with (approximately) A=(-3,-4), B=(-2,-4), C=(2,3), D=(4,3) [Figure: piecewise linear graph - a horizontal segment AB at y=-4 for x in [-3,-2], a rising segment BC from (-2,-4) to (2,3), and a horizontal segment CD at y=3 for x in [2,4]]. Using this graph: a) write the range of f as an interval. b) give the value of f for the argument x = 1 - sqrt(10). c) find the equation of line BC. d) compute the length of segment BC.",
    "confidence": "high",
-   "notes": "sum = b) f-value + d) length BC; parts a) (range, interval) and c) (line equation) are non-numeric. Verified B=(-2,-4), C=(2,3) against the graph image."
+   "notes": "sum = b) f-value + d) length BC; parts a) (range, interval) and c) (line equation) are non-numeric. Verified B=(-2,-4), C=(2,3) against the graph image.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Formula $P(n)=\\frac{n(n-3)}{2}$: find $P(20)$ and $n$ (sum a+b)",
    "statement_en": "The number of diagonals of a convex polygon with n sides (n >= 3) is given by the formula $P(n) = \\frac{n(n-3)}{2}$. Using this formula: a) compute the number of diagonals in a convex 20-gon. b) compute how many sides a convex polygon has, given that its number of diagonals is five times the number of its sides. c) check whether the following statement is true: every convex polygon with an even number of sides has an even number of diagonals. Justify your answer.",
    "confidence": "high",
-   "notes": "sum = a) + b); part c) is a true/false justification, not numeric"
+   "notes": "sum = a) + b); part c) is a true/false justification, not numeric",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Solve $4^{23}x-32^{9}x=16^4\\cdot(4^4)^4$, express as $2^k$",
    "statement_en": "Solve the equation $4^{23}x - 32^{9}x = 16^4 \\cdot (4^4)^4$. Write the solution of this equation in the form $2^k$, where k is an integer.",
    "confidence": "high",
-   "notes": "Solved directly from the (clean) task image: 4^23=2^46, 32^9=2^45, so LHS=2^45 x; RHS=16^4*(4^4)^4=2^16*2^32=2^48; x=2^3=8. The raw OCR'd key text is heavily garbled/scrambled and appears to show a stray '32' near the answer, which conflicts with this clean derivation and is judged to be an OCR transcription artifact rather than the true answer. [verified: ok: 2^46x-2^45x=2^45x=2^16*2^32=2^48 -> x=2^3=8. Key's garbled '32' is '2^3'. Stored value correct.]"
+   "notes": "Solved directly from the (clean) task image: 4^23=2^46, 32^9=2^45, so LHS=2^45 x; RHS=16^4*(4^4)^4=2^16*2^32=2^48; x=2^3=8. The raw OCR'd key text is heavily garbled/scrambled and appears to show a stray '32' near the answer, which conflicts with this clean derivation and is judged to be an OCR transcription artifact rather than the true answer. [verified: ok: 2^46x-2^45x=2^45x=2^16*2^32=2^48 -> x=2^3=8. Key's garbled '32' is '2^3'. Stored value correct.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Fuel price rose 10% then 5% to 4.62 zł. Initial price?",
    "statement_en": "A fuel company raised the price of petrol twice within one week: first by 10%, then by 5%. After both increases, one litre of petrol produced by this company costs 4.62 zł. Compute the price of one litre of petrol before these increases.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "Seq. $a_n=2-\\frac1n$: terms $<1.975$? and $x$ of arithm. seq (sum a+b)",
    "statement_en": "The infinite numerical sequence $(a_n)$ is defined by the formula $a_n = 2 - \\frac{1}{n}$ for $n = 1, 2, 3, \\dots$. a) Compute how many terms of the sequence $(a_n)$ are less than 1.975. b) For some number x, the three-term sequence $(a_2, a_7, x)$ is arithmetic. Compute x.",
    "confidence": "high",
-   "notes": "sum = a) count of terms + b) value of x"
+   "notes": "sum = a) count of terms + b) value of x",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -103,11 +113,13 @@
    "topic_pl": "Pole trójkąta na płaszczyźnie",
    "topic_en": "Area of a triangle in the plane",
    "difficulty": 3,
-   "summary_pl": "Prosta $5x+4y-10=0$: $A,B$ na osiach. Znajdź $C$ na $Ox$, pole $ABC=35$",
-   "summary_en": "Line $5x+4y-10=0$: A,B on axes. Find C on Ox, area(ABC)=35",
+   "summary_pl": "Prosta $5x+4y-10=0$ tnie osie w A,B. Suma odciętych C∈Ox, pole ABC=35",
+   "summary_en": "Line $5x+4y-10=0$ cuts axes at A,B. Sum of x of all C on Ox, area 35",
    "statement_en": "The line given by the equation 5x + 4y - 10 = 0 intersects the Ox axis of the coordinate system at point A and the Oy axis at point B. Compute the coordinates of all points C lying on the Ox axis such that triangle ABC has area equal to 35.",
    "confidence": "high",
-   "notes": "two solutions, C=(30,0) or C=(-26,0); sum of the x-coordinates (y is 0 in both) = 4"
+   "notes": "two solutions, C=(30,0) or C=(-26,0); sum of the x-coordinates (y is 0 in both) = 4",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -125,7 +137,9 @@
    "summary_en": "Trapezoid: bases $4,10$, angles $30°,45°$. Find height",
    "statement_en": "A trapezoid has bases of length 4 cm and 10 cm, and its legs form angles of 30° and 45° with the longer base. Compute the height of this trapezoid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -151,7 +165,9 @@
    "summary_en": "$f(x)=(2x+1)(x-2)$ on $[-2,2]$: min and max value (sum)",
    "statement_en": "Compute the smallest and the largest value of the quadratic function $f(x) = (2x+1)(x-2)$ in the interval $\\langle -2, 2 \\rangle$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -169,7 +185,9 @@
    "summary_en": "$h(x)=\\frac{a}{x}$, $h(2)=5$. Find $a$",
    "statement_en": "The figure shows part of the graph of a function h, given by the formula $h(x)=\\frac{a}{x}$ for $x \\ne 0$ [Figure: hyperbola in quadrants I and III]. It is known that the point $P=(2,5)$ belongs to the graph of h. a) Compute the value of the coefficient a. b) Determine whether the number $h(\\pi)-h(-\\pi)$ is positive or negative. c) Solve the inequality $h(x)>5$.",
    "confidence": "high",
-   "notes": "only part a) is numeric; b) is a sign judgement, c) gives an interval - both excluded from the value [verified: ok: a/2=5 -> a=10. b) sign judgement, c) interval (0,2) are non-numeric; only a) counted, as summary says.]"
+   "notes": "only part a) is numeric; b) is a sign judgement, c) gives an interval - both excluded from the value [verified: ok: a/2=5 -> a=10. b) sign judgement, c) interval (0,2) are non-numeric; only a) counted, as summary says.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -183,11 +201,13 @@
    "topic_pl": "Ostrosłup - kąt nachylenia ściany",
    "topic_en": "Pyramid - face inclination angle",
    "difficulty": 3,
-   "summary_pl": "Ostrosłup: pole boczne $\\frac{a^2\\sqrt{15}}{4}$. Oblicz $\\cos\\beta$ i $\\beta$ (suma)",
-   "summary_en": "Pyramid: lateral area $\\frac{a^2\\sqrt{15}}{4}$. Find $\\cos\\beta$ and $\\beta$ (sum)",
+   "summary_pl": "Ostrosłup: $P_b=\\frac{a^2\\sqrt{15}}4$, suma $\\cos\\beta+\\beta$ (do 1°)",
+   "summary_en": "Pyramid: $P_b=\\frac{a^2\\sqrt{15}}4$, sum $\\cos\\beta+\\beta$ (to 1°)",
    "statement_en": "The lateral surface area of a regular triangular pyramid equals $\\frac{a^2\\sqrt{15}}{4}$, where a denotes the length of the base edge of this pyramid [Figure: a regular triangular pyramid]. Mark on the figure the angle of inclination of a lateral face of the pyramid to the plane of its base; denote the measure of this angle by $\\beta$. Compute $\\cos\\beta$ and, using trigonometric tables, read off the approximate value of $\\beta$ to the nearest degree.",
    "confidence": "high",
-   "notes": "sum = cos(beta) [exact] + beta in degrees [approx]"
+   "notes": "sum = cos(beta) [exact] + beta in degrees [approx]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -205,7 +225,9 @@
    "summary_en": "Roll a die twice: P(A), P(B), P(C) of three events (sum)",
    "statement_en": "We roll a fair six-sided die twice. Compute the probability of each of the following events: a) A - an odd number of dots comes up in each roll. b) B - the sum of the dots obtained in both rolls is a number greater than 9. c) C - the sum of the dots obtained in both rolls is an odd number greater than 9.",
    "confidence": "high",
-   "notes": "sum = P(A)+P(B)+P(C)"
+   "notes": "sum = P(A)+P(B)+P(C)",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

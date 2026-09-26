@@ -17,7 +17,9 @@
    "difficulty": 4,
    "summary_pl": "Stygnięcie kawy: temperatura po następnych 5 min",
    "summary_en": "Cooling coffee: temperature after 5 more minutes",
-   "statement_en": "At the initial moment ($t=0$) a cup of hot coffee is in a room, and the temperature of this coffee equals $80\\,^\\circ C$. The room (ambient) temperature is constant and equals $20\\,^\\circ C$. The temperature $T$ of the coffee changes over time according to $T(t)=(T_p-T_z)\\cdot k^{-t}+T_z$ for $t\\ge0$, where: $T$ - the coffee's temperature in degrees Celsius, $t$ - time in minutes from the initial moment, $T_p$ - the coffee's initial temperature in degrees Celsius, $T_z$ - the ambient temperature in degrees Celsius, $k$ - a constant characteristic of the given liquid. After $10$ minutes from the initial moment the coffee cooled to $65\\,^\\circ C$. Compute the temperature of this coffee after the next five minutes. Give the result in degrees Celsius, rounded to the nearest integer. Show your working."
+   "statement_en": "At the initial moment ($t=0$) a cup of hot coffee is in a room, and the temperature of this coffee equals $80\\,^\\circ C$. The room (ambient) temperature is constant and equals $20\\,^\\circ C$. The temperature $T$ of the coffee changes over time according to $T(t)=(T_p-T_z)\\cdot k^{-t}+T_z$ for $t\\ge0$, where: $T$ - the coffee's temperature in degrees Celsius, $t$ - time in minutes from the initial moment, $T_p$ - the coffee's initial temperature in degrees Celsius, $T_z$ - the ambient temperature in degrees Celsius, $k$ - a constant characteristic of the given liquid. After $10$ minutes from the initial moment the coffee cooled to $65\\,^\\circ C$. Compute the temperature of this coffee after the next five minutes. Give the result in degrees Celsius, rounded to the nearest integer. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -43,7 +45,9 @@
    "difficulty": 4,
    "summary_pl": "10 opakowań śmietany: $P(\\le1\\ \\text{wadliwe})$, $p=0,01$",
    "summary_en": "10 cream packages: $P(\\le1\\ \\text{defective})$, $p=0.01$",
-   "statement_en": "At a certain dairy plant, cream is produced in 200-gram packages. The probability that a randomly chosen package of cream contains less than $36\\%$ fat equals $0.01$. We inspect $10$ randomly chosen packages of cream. Compute the probability of the event that among the inspected packages there will be at most one package of cream containing less than $36\\%$ fat. Give the result as a decimal rounded to the nearest thousandth. Show your working."
+   "statement_en": "At a certain dairy plant, cream is produced in 200-gram packages. The probability that a randomly chosen package of cream contains less than $36\\%$ fat equals $0.01$. We inspect $10$ randomly chosen packages of cream. Compute the probability of the event that among the inspected packages there will be at most one package of cream containing less than $36\\%$ fat. Give the result as a decimal rounded to the nearest thousandth. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "difficulty": 4,
    "summary_pl": "Styczna do $f(x)=\\frac{x^3-3x+2}{x}$ w $x=2$: $a$ i $b$ (suma)",
    "summary_en": "Tangent to $f(x)=\\frac{x^3-3x+2}{x}$ at $x=2$: $a$ and $b$ (sum)",
-   "statement_en": "The function $f$ is given by the formula $f(x)=\\dfrac{x^3-3x+2}{x}$ for every real number $x\\ne0$. In the Cartesian coordinate system $(x,y)$, point $P$, whose first coordinate equals $2$, belongs to the graph of $f$. The line with equation $y=ax+b$ is tangent to the graph of $f$ at point $P$. Compute the coefficients $a$ and $b$ in the equation of this tangent line. Show your working."
+   "statement_en": "The function $f$ is given by the formula $f(x)=\\dfrac{x^3-3x+2}{x}$ for every real number $x\\ne0$. In the Cartesian coordinate system $(x,y)$, point $P$, whose first coordinate equals $2$, belongs to the graph of $f$. The line with equation $y=ax+b$ is tangent to the graph of $f$ at point $P$. Compute the coefficients $a$ and $b$ in the equation of this tangent line. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -87,7 +93,9 @@
    "difficulty": 4,
    "summary_pl": "Ile 5-cyfr. liczb: różne cyfry, 3 nieparz., 2 parz.?",
    "summary_en": "How many 5-digit numbers: distinct digits, 3 odd, 2 even?",
-   "statement_en": "We consider all natural numbers in whose decimal representation no digit repeats, and exactly three digits are odd and exactly two digits are even. Compute how many such numbers there are. Show your working."
+   "statement_en": "We consider all natural numbers in whose decimal representation no digit repeats, and exactly three digits are odd and exactly two digits are even. Compute how many such numbers there are. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -139,7 +147,9 @@
    "difficulty": 5,
    "summary_pl": "Rozwiąż $\\sin4x-\\sin2x=4\\cos^2x-3$ w $[0,2\\pi]$ (suma rozw.)",
    "summary_en": "Solve $\\sin4x-\\sin2x=4\\cos^2x-3$ on $[0,2\\pi]$ (sum of solutions)",
-   "statement_en": "Solve the equation $\\sin(4x)-\\sin(2x)=4\\cos^2x-3$ in the set $[0,2\\pi]$. Show your working."
+   "statement_en": "Solve the equation $\\sin(4x)-\\sin(2x)=4\\cos^2x-3$ in the set $[0,2\\pi]$. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -157,7 +167,9 @@
    "difficulty": 5,
    "summary_pl": "Okrąg $r=\\sqrt5$, styczne z $A$, pole $15$. Oblicz $S$ (oba przyp.)",
    "summary_en": "Circle $r=\\sqrt5$, tangents from $A$, area $15$. Find $S$ (both)",
-   "statement_en": "In the Cartesian coordinate system $(x,y)$, the center $S$ of a circle with radius $\\sqrt5$ lies on the line with equation $y=x+1$. Through point $A=(1,2)$, whose distance from point $S$ is greater than $\\sqrt5$, two lines tangent to this circle are drawn, touching it at points $B$ and $C$ respectively. The area of quadrilateral $ABSC$ equals $15$. Compute the coordinates of point $S$. Consider all cases. Show your working."
+   "statement_en": "In the Cartesian coordinate system $(x,y)$, the center $S$ of a circle with radius $\\sqrt5$ lies on the line with equation $y=x+1$. Through point $A=(1,2)$, whose distance from point $S$ is greater than $\\sqrt5$, two lines tangent to this circle are drawn, touching it at points $B$ and $C$ respectively. The area of quadrilateral $ABSC$ equals $15$. Compute the coordinates of point $S$. Consider all cases. Show your working.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -191,7 +203,9 @@
    "difficulty": 5,
    "summary_pl": "Graniastosłup $V=3456$: min pole; oblicz $a$ i $P_{min}$ (suma)",
    "summary_en": "Prism $V=3456$: minimum surface area; find $a$ and $P_{min}$ (sum)",
-   "statement_en": "We consider all regular triangular prisms with volume $3456$, whose base edge length does not exceed $8\\sqrt3$. The total surface area $P$ of the prism, as a function of the base edge length $a$, is given by $P(a)=a^2\\cdot\\frac{\\sqrt3}{2}+\\frac{13824\\sqrt3}{a}$ for $a\\in(0,8\\sqrt3]$. Determine the base edge length of the prism (among those considered) whose total surface area is smallest. Compute this smallest area. Show your working."
+   "statement_en": "We consider all regular triangular prisms with volume $3456$, whose base edge length does not exceed $8\\sqrt3$. The total surface area $P$ of the prism, as a function of the base edge length $a$, is given by $P(a)=a^2\\cdot\\frac{\\sqrt3}{2}+\\frac{13824\\sqrt3}{a}$ for $a\\in(0,8\\sqrt3]$. Determine the base edge length of the prism (among those considered) whose total surface area is smallest. Compute this smallest area. Show your working.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

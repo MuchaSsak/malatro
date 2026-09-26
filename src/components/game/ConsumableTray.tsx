@@ -76,7 +76,9 @@ export default function ConsumableTray() {
                       <span className="text-money">${consumableSellValue()}</span>
                     </PixelButton>
                     {err && (
-                      <span className="tx w-[88px] text-center font-pixel text-lg leading-tight text-white/80">{l(err)}</span>
+                      <span className="tx w-[88px] text-center font-pixel text-lg leading-tight text-white/80">
+                        {l(err)}
+                      </span>
                     )}
                   </motion.div>
                 )}

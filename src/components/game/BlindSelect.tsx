@@ -20,15 +20,28 @@ const KINDS: BlindKind[] = ["small", "big", "boss"];
 export default function BlindSelect() {
   const run = useRun();
   return (
-    <div className="absolute bottom-0 left-[560px] flex h-[760px] w-[1080px] items-end justify-center gap-8">
+    <div className="absolute bottom-0 left-[560px] flex h-[780px] w-[1080px] items-end justify-center gap-8">
       {KINDS.map((kind, i) => (
-        <BlindColumn key={kind} kind={kind} index={i} state={i < run.blindIndex ? "done" : i === run.blindIndex ? "current" : "upcoming"} />
+        <BlindColumn
+          key={kind}
+          kind={kind}
+          index={i}
+          state={i < run.blindIndex ? "done" : i === run.blindIndex ? "current" : "upcoming"}
+        />
       ))}
     </div>
   );
 }
 
-function BlindColumn({ kind, index, state }: { kind: BlindKind; index: number; state: "done" | "current" | "upcoming" }) {
+function BlindColumn({
+  kind,
+  index,
+  state,
+}: {
+  kind: BlindKind;
+  index: number;
+  state: "done" | "current" | "upcoming";
+}) {
   const { engine } = useGame();
   const run = useRun();
   const { l } = useSettings();
@@ -45,9 +58,14 @@ function BlindColumn({ kind, index, state }: { kind: BlindKind; index: number; s
   return (
     <motion.div
       initial={{ y: 500 }}
-      animate={{ y: isCurrent ? 0 : 70 }}
+      // lowered columns still keep their Skip button on screen: the content ends well above the
+      // stage edge (pb) and the drop is smaller than that padding
+      animate={{ y: isCurrent ? 0 : 56 }}
       transition={{ type: "spring", stiffness: 200, damping: 24, delay: index * 0.08 }}
-      className={cn("flex h-[700px] w-[320px] flex-col rounded-t-[18px] bg-panel p-3 shadow-hard", !isCurrent && "brightness-75")}
+      className={cn(
+        "flex h-[740px] w-[320px] flex-col rounded-t-[18px] bg-panel p-3 pb-[84px] shadow-hard",
+        !isCurrent && "brightness-75",
+      )}
       style={{ boxShadow: `inset 0 0 0 5px ${color}, 0 6px 0 rgba(0,0,0,.35)` }}
     >
       <div className="mb-3 flex h-[70px] items-center justify-center rounded-panel">

@@ -17,7 +17,9 @@
    "summary_en": "Solve $3(2-3x)=x-4$",
    "statement_en": "The solution of the equation $3(2-3x)=x-4$ is: A. $x=1$ B. $x=2$ C. $x=3$ D. $x=4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -43,7 +45,9 @@
    "summary_en": "System: $x+3y=5$, $2x-y=3$ (x + y)",
    "statement_en": "The solution of the system of equations $\\begin{cases}x+3y=5\\\\2x-y=3\\end{cases}$ is: A. $x=2,y=1$ B. $x=2,y=-1$ C. $x=1,y=2$ D. $x=1,y=-2$",
    "confidence": "high",
-   "notes": "x=2, y=1; sum=3."
+   "notes": "x=2, y=1; sum=3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -85,7 +89,9 @@
    "summary_en": "For $a^2-b^2=200$, $a+b=8$ find $a-b$",
    "statement_en": "For certain numbers $a$ and $b$ the following equalities hold: $a^2-b^2=200$ and $a+b=8$. For these numbers, the value of the expression $a-b$ is equal to: A. $25$ B. $16$ C. $10$ D. $2$",
    "confidence": "high",
-   "notes": "(a-b)(a+b)=200, a+b=8 => a-b=25."
+   "notes": "(a-b)(a+b)=200, a+b=8 => a-b=25.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -103,7 +109,9 @@
    "summary_en": "Compute $|5-2|+|1-6|$",
    "statement_en": "The number $|5-2|+|1-6|$ is equal to: A. $8$ B. $2$ C. $3$ D. $-2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -121,7 +129,9 @@
    "summary_en": "Compute $\\log_2 4+2\\log_3 1$",
    "statement_en": "The number $\\log_2 4+2\\log_3 1$ is equal to: A. $0$ B. $1$ C. $2$ D. $4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -147,7 +157,9 @@
    "summary_en": "Degree of polynomial $W(x)-V(x)$?",
    "statement_en": "The polynomials $W(x)=x^3+3x^2+x-11$ and $V(x)=x^3+3x^2+1$ are given. The degree of the polynomial $W(x)-V(x)$ is equal to: A. $0$ B. $1$ C. $2$ D. $3$",
    "confidence": "high",
-   "notes": "W(x)-V(x)=x-12, degree 1. [verified: ok: W-V = x-12, degree 1; keyHead task 11 = B (1).]"
+   "notes": "W(x)-V(x)=x-12, degree 1. [verified: ok: W-V = x-12, degree 1; keyHead task 11 = B (1).]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -165,7 +177,9 @@
    "summary_en": "Geometric seq.: $a_3=5$, $a_4=15$. Find $a_5$",
    "statement_en": "In the geometric sequence $(a_n)$ we have $a_3=5$ and $a_4=15$. Then the term $a_5$ is equal to: A. $10$ B. $20$ C. $75$ D. $45$",
    "confidence": "high",
-   "notes": "q=3, a5=a4*q=45."
+   "notes": "q=3, a5=a4*q=45.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -183,7 +197,9 @@
    "summary_en": "How many 4-digit numbers with digit sum $2$?",
    "statement_en": "How many 4-digit natural numbers are there whose digits sum to $2$? A. $1$ B. $2$ C. $3$ D. $4$",
    "confidence": "high",
-   "notes": "1100, 1010, 1001, 2000: 4 numbers."
+   "notes": "1100, 1010, 1001, 2000: 4 numbers.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -201,7 +217,9 @@
    "summary_en": "Points $A(1,-4)$, $B(2,3)$: length of $AB$",
    "statement_en": "Points $A=(1,-4)$ and $B=(2,3)$ are given. Segment $AB$ has length: A. $1$ B. $4\\sqrt3$ C. $5\\sqrt2$ D. $7$",
    "confidence": "high",
-   "notes": "sqrt(1^2+7^2)=sqrt50=5*sqrt2."
+   "notes": "sqrt(1^2+7^2)=sqrt50=5*sqrt2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +237,9 @@
    "summary_en": "Acute angle: $\\sin\\alpha=\\cos47°$. Find $\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\sin\\alpha=\\cos47°$. Then the measure of angle $\\alpha$ is equal to: A. $6°$ B. $33°$ C. $47°$ D. $43°$",
    "confidence": "high",
-   "notes": "cos47=sin43, so alpha=43."
+   "notes": "cos47=sin43, so alpha=43.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -237,7 +257,9 @@
    "summary_en": "How many negative terms does $a_n=2n^2-9$ have?",
    "statement_en": "How many negative terms does the sequence $(a_n)$, defined by the formula $a_n=2n^2-9$ for $n\\ge1$, have? A. $0$ B. $1$ C. $2$ D. $3$",
    "confidence": "high",
-   "notes": "n=1: -7, n=2: -1, n=3: 9>0. Two negative terms."
+   "notes": "n=1: -7, n=2: -1, n=3: 9>0. Two negative terms.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -255,7 +277,9 @@
    "summary_en": "Cube with edge $9$: length of the diagonal",
    "statement_en": "The edge of a cube has length $9$ [Figure: cube with the space diagonal drawn]. The length of the diagonal of this cube is equal to: A. $\\sqrt[3]{9}$ B. $9\\sqrt2$ C. $9\\sqrt3$ D. $9+9\\sqrt2$",
    "confidence": "high",
-   "notes": "Space diagonal = edge*sqrt3."
+   "notes": "Space diagonal = edge*sqrt3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -273,7 +297,9 @@
    "summary_en": "Mean of $3,1,1,0,x,2$ is $2$. Find $x$",
    "statement_en": "The arithmetic mean of the six numbers $3,1,1,0,x,2$ is equal to $2$. Then the number $x$ is equal to: A. $3$ B. $4$ C. $5$ D. $6$",
    "confidence": "high",
-   "notes": "Sum must be 12; known numbers sum to 7, so x=5."
+   "notes": "Sum must be 12; known numbers sum to 7, so x=5.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -291,7 +317,9 @@
    "summary_en": "Random 2-digit number: $P$(divisible by 30)",
    "statement_en": "We randomly choose one number from the set of two-digit natural numbers. The probability of getting a number divisible by $30$ is equal to: A. $\\frac{1}{90}$ B. $\\frac{2}{90}$ C. $\\frac{3}{90}$ D. $\\frac{10}{90}$",
    "confidence": "high",
-   "notes": "Multiples of 30 in [10,99]: 30,60,90 -> 3 out of 90."
+   "notes": "Multiples of 30 in [10,99]: 30,60,90 -> 3 out of 90.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -309,7 +337,9 @@
    "summary_en": "Cylinder's axial cross-section is a square, side $6$. Find volume",
    "statement_en": "The axial cross-section of a cylinder is a square with side length $6$ [Figure: cylinder with height 6 and base diameter 6]. The volume of this cylinder is equal to: A. $108\\pi$ B. $54\\pi$ C. $36\\pi$ D. $27\\pi$",
    "confidence": "high",
-   "notes": "r=3, h=6, V=pi*9*6=54*pi."
+   "notes": "r=3, h=6, V=pi*9*6=54*pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -327,7 +357,9 @@
    "summary_en": "Rhombus: side $4$, acute angle $60°$. Find area",
    "statement_en": "A rhombus with side length $4$ and acute angle $60°$ is given. The area of this rhombus is equal to: A. $16\\sqrt3$ B. $16$ C. $8\\sqrt3$ D. $8$",
    "confidence": "high",
-   "notes": "Area=a^2*sin60=16*(sqrt3/2)=8*sqrt3."
+   "notes": "Area=a^2*sin60=16*(sqrt3/2)=8*sqrt3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -345,7 +377,9 @@
    "summary_en": "Sphere with volume $V=288\\pi$: find radius $r$",
    "statement_en": "A sphere has volume $V=288\\pi$. The radius $r$ of this sphere is equal to: A. $6$ B. $8$ C. $9$ D. $12$",
    "confidence": "high",
-   "notes": "r^3=216, r=6."
+   "notes": "r^3=216, r=6.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -363,7 +397,9 @@
    "summary_en": "Prism: sum of edges $90$. Find total surface area",
    "statement_en": "In a regular triangular prism all edges are of the same length. The sum of the lengths of all edges is equal to $90$. Then the total surface area of this prism is equal to: A. $300$ B. $300\\sqrt3$ C. $300+50\\sqrt3$ D. $300+25\\sqrt3$",
    "confidence": "high",
-   "notes": "9 edges of length a: a=10. Surface=2*(a^2*sqrt3/4)+3*a^2=300+50*sqrt3."
+   "notes": "9 edges of length a: a=10. Surface=2*(a^2*sqrt3/4)+3*a^2=300+50*sqrt3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -397,7 +433,9 @@
    "summary_en": "Acute angle: $\\sin\\alpha=\\frac14$. Compute $3+2\\tan^2\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\sin\\alpha=\\frac{1}{4}$. Compute $3+2\\tan^2\\alpha$.",
    "confidence": "high",
-   "notes": "cos^2=15/16, tan^2=1/15, 3+2/15=47/15."
+   "notes": "cos^2=15/16, tan^2=1/15, 3+2/15=47/15.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -415,7 +453,9 @@
    "summary_en": "Arithmetic seq.: $2x+1$, $6$, $16x+2$. Find $x$",
    "statement_en": "The numbers $2x+1$, $6$, $16x+2$ are, in this order, the first, second and third terms of an arithmetic sequence. Compute $x$.",
    "confidence": "high",
-   "notes": "2*6=(2x+1)+(16x+2) => 18x=9 => x=1/2."
+   "notes": "2*6=(2x+1)+(16x+2) => 18x=9 => x=1/2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -441,7 +481,9 @@
    "summary_en": "Points on a circle split it in ratio $7:5$. Central angle?",
    "statement_en": "Points $A$ and $B$ lie on a circle with center $O$ and divide this circle into two arcs whose length ratio is $7:5$ [Figure: circle with center O and points A, B on the circle, along with other points marking equal arc divisions]. Compute the measure of the central angle based on the shorter arc.",
    "confidence": "high",
-   "notes": "Shorter arc is 5/12 of the circle: 5/12*360=150."
+   "notes": "Shorter arc is 5/12 of the circle: 5/12*360=150.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -459,7 +501,9 @@
    "summary_en": "2 boxes of 10 balls: $P$(red $<$ blue)",
    "statement_en": "There are two boxes: red and blue. Each of these boxes contains 10 balls numbered from 1 to 10. One ball is drawn from each box. Compute the probability of the event that the number of the ball drawn from the red box is smaller than the number of the ball drawn from the blue box.",
    "confidence": "high",
-   "notes": "45 favorable pairs out of 100: P=0.45."
+   "notes": "45 favorable pairs out of 100: P=0.45.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -477,7 +521,9 @@
    "summary_en": "2 fields, diagonal $65$: dimensions of both (sum of 4 numbers)",
    "statement_en": "Two schools have rectangular sports fields. The diagonal of each field is equal to $65$ m. The field in the second school is $4$ m longer than the field in the first school, but $8$ m narrower. Compute the length and width of each of these fields.",
    "confidence": "high",
-   "notes": "Field 1: 56x33. Field 2: 60x25. Sum of all four numbers = 174."
+   "notes": "Field 1: 56x33. Field 2: 60x25. Sum of all four numbers = 174.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -495,7 +541,9 @@
    "summary_en": "How many 5-digit numbers satisfy the given digit conditions?",
    "statement_en": "How many 5-digit numbers satisfy all of the following four conditions at once: (1) the hundreds, tens and units digits are even, (2) the hundreds digit is greater than the tens digit, (3) the tens digit is greater than the units digit, (4) the digit 9 does not appear anywhere in the number's decimal representation?",
    "confidence": "high",
-   "notes": "10 ways to choose the last three even, decreasing digits; 8 choices for the first digit, 9 for the second: 10*8*9=720."
+   "notes": "10 ways to choose the last three even, decreasing digits; 8 choices for the first digit, 9 for the second: 10*8*9=720.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -513,7 +561,9 @@
    "summary_en": "Pyramid: $AW=6,BW=9,CW=7$. Find volume",
    "statement_en": "The base of pyramid $ABCDW$ is rectangle $ABCD$. Lateral edge $DW$ is the height of this pyramid. The lateral edges $AW$, $BW$ and $CW$ have the following lengths: $|AW|=6$, $|BW|=9$, $|CW|=7$ [Figure: pyramid with rectangular base ABCD and apex W directly above D]. Compute the volume of this pyramid.",
    "confidence": "high",
-   "notes": "AD=4*sqrt2, AB=3*sqrt5, DW=2*sqrt2 (from right triangles); V=(1/3)*AD*AB*DW=8*sqrt10."
+   "notes": "AD=4*sqrt2, AB=3*sqrt5, DW=2*sqrt2 (from right triangles); V=(1/3)*AD*AB*DW=8*sqrt10.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

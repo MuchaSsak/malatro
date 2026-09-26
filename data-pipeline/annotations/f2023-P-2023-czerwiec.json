@@ -17,7 +17,9 @@
    "summary_en": "How many positive integers satisfy $|x+5|<15$?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of positive integers satisfying the inequality $|x+5| < 15$ is: A. 9 B. 10 C. 20 D. 21",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -47,11 +49,13 @@
    "topic_pl": "Procent składany",
    "topic_en": "Compound interest",
    "difficulty": 2,
-   "summary_pl": "Lokata 2-letnia, 7% rocznie - ile odsetek?",
-   "summary_en": "2-year deposit at 7% annually - total interest?",
+   "summary_pl": "Lokata $30000$ zł, 2 lata, $7\\%$ rocznie. Suma odsetek?",
+   "summary_en": "2-year deposit of $30000$ at $7\\%$ yearly compound. Total interest?",
    "statement_en": "A customer deposited 30,000 PLN into a two-year bank deposit. After each annual period of saving, the bank adds interest of 7% of the current capital in the deposit. Complete the sentence. Choose the correct answer from the options given. After two years of saving, the total interest added to this deposit (not including taxes) equals: A. 2100 PLN B. 2247 PLN C. 4200 PLN D. 4347 PLN",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -69,7 +73,9 @@
    "summary_en": "Compute $\\log_2\\frac{1}{8}+\\log_2 4$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $\\log_2\\frac{1}{8} + \\log_2 4$ equals: A. -1 B. $\\frac{1}{2}$ C. 2 D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -87,7 +93,9 @@
    "summary_en": "Compute $(1+\\sqrt5)^2-(1-\\sqrt5)^2$",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number $(1+\\sqrt5)^2 - (1-\\sqrt5)^2$ equals: A. 0 B. -10 C. $4\\sqrt5$ D. $2+2\\sqrt5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -121,7 +129,9 @@
    "summary_en": "Solve $x^3+4x^2-9x-36=0$ (sum of solutions)",
    "statement_en": "Solve the equation $x^3 + 4x^2 - 9x - 36 = 0$. Show your working.",
    "confidence": "high",
-   "notes": "Sum of the three roots -4, -3, 3."
+   "notes": "Sum of the three roots -4, -3, 3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -139,7 +149,9 @@
    "summary_en": "How many solutions does $\\frac{(x^2-3x)(x+2)}{x^2-4}=0$ have?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. In the set of real numbers, the equation $\\frac{(x^2-3x)(x+2)}{x^2-4} = 0$ has exactly: A. one solution. B. two solutions. C. three solutions. D. four solutions.",
    "confidence": "high",
-   "notes": "Numerator zeros x=0,3,-2; x=-2 excluded since it makes denominator zero; valid solutions x=0,3."
+   "notes": "Numerator zeros x=0,3,-2; x=-2 excluded since it makes denominator zero; valid solutions x=0,3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -157,7 +169,9 @@
    "summary_en": "For which $m$ do lines $f,g$ not intersect?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. In the Cartesian coordinate system $(x,y)$, the graphs of the linear functions $f(x) = (2m+3)x+5$ and $g(x) = -x$ have no common points for: A. $m=-2$ B. $m=-1$ C. $m=1$ D. $m=2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -173,9 +187,11 @@
    "difficulty": 2,
    "summary_pl": "Prosta przez $A=(-3,-1)$, $B=(4,3)$: oblicz $a$",
    "summary_en": "Line through $A=(-3,-1)$, $B=(4,3)$: find $a$",
-   "statement_en": "In the Cartesian coordinate system $(x,y)$ the line with equation $y=ax+b$ passes through the points $A=(-3,-1)$ and $B=(4,3)$. Complete the sentence. Choose the correct answer from the options given. The coefficient $a$ in the equation of this line equals: A. -4 B. $-\\frac{1}{2}$ C. $\\frac{2}{7}$ D. $\\frac{4}{7}$",
+   "statement_en": "In the Cartesian coordinate system $(x,y)$ the line with equation $y=ax+b$ passes through the points $A=(-3,-1)$ and $B=(4,3)$. Complete the sentence. Choose the correct answer from the options given. The coefficient $a$ in the equation of this line equals: A. $(-4)$ B. $\\left(-\\frac{1}{2}\\right)$ C. $2$ D. $\\frac{4}{7}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13.1",
@@ -217,7 +233,9 @@
    "summary_en": "Drug: $m(t)=m_0\\cdot(0.6)^{0.25t}$, 200mg dose, find after 12h",
    "statement_en": "The mass $m$ of drug L taken by a patient changes in the body according to the exponential relationship $m(t) = m_0 \\cdot (0.6)^{0.25t}$, where $m_0$ is the mass (in mg) of the dose taken at time $t=0$, and $t$ is the time (in hours) measured from the moment $t=0$ of taking the drug. The patient took a single dose of drug L of 200 mg. Calculate how many mg of drug L will remain in the patient's body 12 hours after taking the dose. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15.2",
@@ -233,9 +251,11 @@
    "difficulty": 3,
    "summary_pl": "Ciąg $m(2,5), m(4,5), m(6,5)$ - oblicz iloraz",
    "summary_en": "Sequence $m(2.5), m(4.5), m(6.5)$ - find the ratio",
-   "statement_en": "(Same setup as task 15.1: $m(t) = m_0 \\cdot (0.6)^{0.25t}$.) The numbers $m(2.5)$, $m(4.5)$, $m(6.5)$, in that order, form a geometric sequence. Calculate the common ratio of this sequence. Show your working.",
+   "statement_en": "The mass $m$ of drug $\\mathcal{L}$ taken by a patient changes in the body according to the exponential relationship $m(t) = m_0 \\cdot (0.6)^{0.25t}$, where $m_0$ is the mass (in mg) of the dose taken at time $t=0$, and $t$ is the time (in hours) measured from the moment $t=0$ of taking the drug. The numbers $m(2.5)$, $m(4.5)$, $m(6.5)$, in that order, form a geometric sequence. Calculate the common ratio of this sequence. Show your working.",
    "confidence": "high",
-   "notes": "q = (0.6)^0.5 = sqrt(3/5)."
+   "notes": "q = (0.6)^0.5 = sqrt(3/5).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -253,7 +273,9 @@
    "summary_en": "Sequence $a_n=\\frac{n-2}{3}$: how many terms $<10$?",
    "statement_en": "The sequence $(a_n)$ is defined by $a_n = \\frac{n-2}{3}$ for every natural number $n \\ge 1$. Complete the sentence. Choose the correct answer from the options given. The number of terms of this sequence that are less than 10 equals: A. 28 B. 31 C. 32 D. 27",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -271,7 +293,9 @@
    "summary_en": "Arithmetic seq. $(1,4,a+5)$: find $a$",
    "statement_en": "The three-term sequence $(1, 4, a+5)$ is arithmetic. Complete the sentence. Choose the correct answer from the options given. The number $a$ equals: A. 0 B. 7 C. 2 D. 11",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -289,7 +313,9 @@
    "summary_en": "Geometric seq.: $a_1=3.75$, $a_2=-7.5$. Sum of 3 terms?",
    "statement_en": "The geometric sequence $(a_n)$ is defined for every natural number $n \\ge 1$. In this sequence $a_1 = 3.75$ and $a_2 = -7.5$. Complete the sentence. Choose the correct answer from the options given. The sum of the first three terms of the sequence $(a_n)$ equals: A. 11.25 B. -18.75 C. 15 D. -15",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -323,7 +349,9 @@
    "summary_en": "Tangent and secant of a circle: distance from $A$ to $l$",
    "statement_en": "Segment $AB$ is a diameter of a circle with center $S$. Line $k$ is tangent to this circle at point $A$. Line $l$ intersects this circle at points $B$ and $C$. Lines $k$ and $l$ intersect at point $D$, with $|BC|=4$ and $|CD|=3$ [Figure: circle with diameter AB; tangent line k through A; secant line l through C and B meeting k at D above the circle]. Complete the sentence. Choose the correct answer from the options given. The distance from point $A$ to line $l$ equals: A. $\\frac{7}{2}$ B. 5 C. $\\sqrt{12}$ D. $\\sqrt3+2$",
    "confidence": "high",
-   "notes": "AC is perpendicular to l since angle ACB=90 (angle in semicircle); AD^2=DC*DB=21 (power of point), AC^2=AD^2-CD^2=12."
+   "notes": "AC is perpendicular to l since angle ACB=90 (angle in semicircle); AD^2=DC*DB=21 (power of point), AC^2=AD^2-CD^2=12.",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "22",
@@ -349,7 +377,9 @@
    "summary_en": "Inscribed angles $20°,40°$: find angle $DKC$",
    "statement_en": "Inscribed angles $ADB$ and $DBC$ are subtended by arcs $AB$ and $CD$ of a circle, such that $|\\angle ADB| = 20°$ and $|\\angle DBC| = 40°$ [Figure: circle with points A, B, C, D; chords AC and BD intersecting at K]. Chords $AC$ and $BD$ intersect at point $K$. Complete the sentence. Choose the correct answer from the options given. The measure of angle $DKC$ equals: A. 80° B. 60° C. 50° D. 40°",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "24",
@@ -375,7 +405,9 @@
    "summary_en": "Parallelogram: area $40\\sqrt6$, $AD=10$, angle $135°$. Find $AB$",
    "statement_en": "The area of parallelogram $ABCD$ equals $40\\sqrt6$. Side $AD$ of this parallelogram has length 10, and angle $ABC$ of the parallelogram has measure $135°$ [Figure: parallelogram ABCD with AD=10 and angle ABC=135 marked]. Complete the sentence. Choose the correct answer from the options given. The length of side $AB$ equals: A. $8\\sqrt3$ B. $8\\sqrt2$ C. $16\\sqrt2$ D. $16\\sqrt3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -401,7 +433,9 @@
    "summary_en": "Square: diagonal $A=(-1,5)$, $C=(3,-3)$. Find the area",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, points $A=(-1,5)$ and $C=(3,-3)$ are opposite vertices of square $ABCD$. Complete the sentence. Choose the correct answer from the options given. The area of square $ABCD$ equals: A. $8\\sqrt{10}$ B. $16\\sqrt5$ C. 40 D. 80",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -419,7 +453,9 @@
    "summary_en": "$A=(1,7)$, $P=(3,1)$, $AP{:}PB=1{:}3$. Coords of $B$? (x+y)",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, points $A=(1,7)$ and $P=(3,1)$ are given. Point $P$ divides segment $AB$ so that $|AP|:|PB| = 1:3$. Complete the sentence. Choose the correct answer from the options given. Point $B$ has coordinates: A. $(9,-5)$ B. $(9,-17)$ C. $(7,-11)$ D. $(5,-5)$",
    "confidence": "high",
-   "notes": "Sum of B's coordinates: 9+(-17)=-8."
+   "notes": "Sum of B's coordinates: 9+(-17)=-8.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29.1",
@@ -437,7 +473,9 @@
    "summary_en": "Pyramid: square base 6, lateral edge 12 $\\perp$ base. Volume?",
    "statement_en": "A pyramid is given whose base is a square with side 6. One of the lateral edges of this pyramid has length 12 and is perpendicular to the plane of the base. Complete the sentence. Fill in the blank with the appropriate numerical value. The volume of this pyramid equals: .......",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29.2",
@@ -451,11 +489,13 @@
    "topic_pl": "Kąt nachylenia krawędzi",
    "topic_en": "Angle of inclination of an edge",
    "difficulty": 3,
-   "summary_pl": "Ostrosłup: kwadrat $6$, krawędź $12\\perp$. Tangens kąta?",
-   "summary_en": "Pyramid: square base 6, edge 12 $\\perp$. Tangent of angle?",
+   "summary_pl": "Ostrosłup: kwadrat $6$, krawędź $12\\perp$. Tg kąta najdł. krawędzi?",
+   "summary_en": "Pyramid: square 6, edge $12\\perp$ base. Tan of longest edge angle?",
    "statement_en": "(Same pyramid as in task 29.1: square base with side 6, one lateral edge of length 12 perpendicular to the base plane.) Complete the sentence. Choose the correct answer from the options given. The tangent of the angle of inclination of the longest lateral edge of this pyramid to the plane of the base equals: A. $\\sqrt2$ B. $\\frac{\\sqrt6}{3}$ C. $\\frac{\\sqrt2}{2}$ D. $\\frac{\\sqrt3}{3}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -473,7 +513,9 @@
    "summary_en": "Hexagonal prism, edge 5, $AD'$ at $45°$. Lateral face area?",
    "statement_en": "A regular hexagonal prism $ABCDEFA'B'C'D'E'F'$ is given, in which the base edge has length 5. The diagonal $AD'$ of this prism is inclined to the plane of the base at an angle of $45°$ [Figure: hexagonal prism with space diagonal AD' drawn from base vertex A to top vertex D', at 45 degrees to the base]. Complete the sentence. Choose the correct answer from the options given. The area of a lateral face of this prism equals: A. 12.5 B. 25 C. 50 D. 100",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "31",
@@ -491,7 +533,9 @@
    "summary_en": "How many 3-digit numbers have digit sum $3$?",
    "statement_en": "Complete the sentence. Choose the correct answer from the options given. The number of all three-digit natural numbers with digit sum equal to 3 is: A. 8 B. 4 C. 5 D. 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -509,7 +553,9 @@
    "summary_en": "Draw 2 of $1$-$8$ without replacement. $P$(sum divides $8$)?",
    "statement_en": "From the set of eight consecutive natural numbers, from 1 to 8, we draw two numbers one at a time without replacement. Let $A$ denote the event that the sum of the drawn numbers is a divisor of the number 8. Calculate the probability of event $A$. Show your working.",
    "confidence": "high",
-   "notes": "P(A)=8/56=1/7."
+   "notes": "P(A)=8/56=1/7.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -523,11 +569,13 @@
    "topic_pl": "Optymalizacja - funkcja kwadratowa",
    "topic_en": "Optimization - quadratic function",
    "difficulty": 4,
-   "summary_pl": "Trapez $400,100,h{=}75$: max prostokąt wpisany (suma wymiarów i pola)",
-   "summary_en": "Trapezoid $400,100,h{=}75$: max inscribed rectangle (sum of dimensions and area)",
+   "summary_pl": "Trapez $400,100,h{=}75$: max prostokąt; suma 2 boków i pola",
+   "summary_en": "Trapezoid $400,100,h{=}75$: max rectangle; sum of 2 sides + area",
    "statement_en": "A plot of land has the shape of a trapezoid. The bases $AB$ and $CD$ of this trapezoid have lengths $|AB| = 400$ m and $|CD| = 100$ m. The height of the trapezoid is 75 m, and its angles $DAB$ and $ABC$ are acute. From the plot, a rectangular parking area is to be marked out. Two of the vertices of this rectangle are to lie on base $AB$ of the trapezoid, and the other two - $E$ and $F$ - on legs $AD$ and $BC$ of the trapezoid [Figure: trapezoid ABCD with an inscribed rectangle AEFB shaded, E on AD, F on BC]. Determine the side lengths of the rectangle for which the area of the marked-out lot will be greatest. Determine this greatest area. Show your working. Hint: to relate the rectangle's dimensions, use that the area of trapezoid $ABCD$ equals the sum of the areas of trapezoids $ABFE$ and $EFCD$.",
    "confidence": "high",
-   "notes": "Value sums all three requested numbers: rectangle sides 50 and 200 (m) plus the maximal area 10000 (m^2) = 10250. Flag as medium since 'sum' composition across mixed units (length + area) is a judgment call. [verified: ok: Width at height x is 400-4x, P=x(400-4x), max x=50: 50 x 200, P=10000 (key). Sum 10250. Stored summary lacks the sum hint.]"
+   "notes": "Value sums all three requested numbers: rectangle sides 50 and 200 (m) plus the maximal area 10000 (m^2) = 10250. Flag as medium since 'sum' composition across mixed units (length + area) is a judgment call. [verified: ok: Width at height x is 400-4x, P=x(400-4x), max x=50: 50 x 200, P=10000 (key). Sum 10250. Stored summary lacks the sum hint.]",
+   "has_figure": true,
+   "verified": true
   }
  ]
 }

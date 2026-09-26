@@ -25,7 +25,9 @@
    "summary_en": "Sequence $a_n=\\frac{5n+6}{10(n+1)}$: limit and bounds (lim + a + b)",
    "statement_en": "The sequence $(a_n)$ is given by $a_n=\\frac{5n+6}{10(n+1)}$ for every natural number $n\\ge1$.\na) Examine the monotonicity of the sequence $(a_n)$.\nb) Calculate $\\lim_{n\\to\\infty}a_n$.\nc) Give the greatest number a and the smallest number b such that the condition $a\\le a_n\\le b$ holds for every n.",
    "confidence": "high",
-   "notes": "part a) (monotonicity) is qualitative/excluded; value sums part b)'s limit (1/2) and part c)'s a (1/2) and b (11/20); text/key not OCR'd cleanly (garbled 2005-formula PDF), verified by rendering key PDF and by direct computation [verified: ok: Decreasing, lim 1/2, a=inf=1/2, b=a_1=11/20; summary states lim+a+b = 31/20. Matches key.]"
+   "notes": "part a) (monotonicity) is qualitative/excluded; value sums part b)'s limit (1/2) and part c)'s a (1/2) and b (11/20); text/key not OCR'd cleanly (garbled 2005-formula PDF), verified by rendering key PDF and by direct computation [verified: ok: Decreasing, lim 1/2, a=inf=1/2, b=a_1=11/20; summary states lim+a+b = 31/20. Matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -51,7 +53,9 @@
    "summary_en": "Drivers A,B,C: late 5%,20%,50%; drive 2,2,1 times a week. P(late)?",
    "statement_en": "Students commuting to school observed that the bus being late depends on which of three drivers is driving. Statistical research showed that when driver A drives, the bus is late on 5% of trips, when driver B drives on 20% of trips, and when driver C drives on 50% of trips. During a 5-day school week, driver A drives twice, driver B drives twice, and driver C drives once. Calculate the probability that the school bus is late on a randomly chosen school day.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -69,7 +73,9 @@
    "summary_en": "Triangle: $BC=400$m, angles given; find $AB$ (rounded to 1 m)",
    "statement_en": "Objects A and B lie on two sides of a lake. Field measurements of the relevant angles were made: [Figure: triangle ABC with angle ABC = 130 deg at B and angle ACB = 30 deg at C]. The distance between objects B and C equals 400 m. Calculate the straight-line distance between objects A and B, rounding the result to the nearest meter.",
    "confidence": "high",
-   "notes": "verified against the crop image: angle at B = 130 deg, angle at C = 30 deg, so angle at A = 20 deg; AB = 400*sin(30)/sin(20) ~= 585 m"
+   "notes": "verified against the crop image: angle at B = 130 deg, angle at C = 30 deg, so angle at A = 20 deg; AB = 400*sin(30)/sin(20) ~= 585 m",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -83,11 +89,13 @@
    "topic_pl": "Trapez opisany na okręgu",
    "topic_en": "Trapezoid circumscribed on a circle",
    "difficulty": 5,
-   "summary_pl": "Trapez opisany na okręgu, $SB=\\frac25CS$: oblicz $\\cos\\angle CBD$",
-   "summary_en": "Trapezoid circumscribed on a circle, $SB=\\frac25CS$: find $\\cos\\angle CBD$",
-   "statement_en": "An isosceles trapezoid ABCD with longer base AB and shorter base CD is circumscribed on a circle of radius r. The point of tangency S divides leg BC so that $SB=\\frac25CS$.\na) Find the length of the leg of this trapezoid.\nb) Calculate $\\cos\\angle CBD$.",
+   "summary_pl": "Trapez opisany na okręgu, $|CS|:|SB|=2:5$: oblicz $\\cos\\angle CBD$",
+   "summary_en": "Trapezoid circumscribed on a circle, $CS:SB=2:5$: find $\\cos\\angle CBD$",
+   "statement_en": "An isosceles trapezoid $ABCD$ with longer base $AB$ and shorter base $CD$ is circumscribed about a circle of radius $r$. The point of tangency $S$ divides the leg $BC$ so that $\\frac{|CS|}{|SB|}=\\frac{2}{5}$.\na) Find the length of the leg of this trapezoid.\nb) Calculate $\\cos\\angle CBD$.",
    "confidence": "high",
-   "notes": "part a)'s leg length is expressed in terms of the general radius r (symbolic, excluded); part b)'s cosine is r-independent, a genuine number, verified by direct recomputation"
+   "notes": "part a)'s leg length is expressed in terms of the general radius r (symbolic, excluded); part b)'s cosine is r-independent, a genuine number, verified by direct recomputation",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -105,7 +113,9 @@
    "summary_en": "Triangular prism with $V=2\\text{m}^3$: min. surface area - edges a,h (a+h)",
    "statement_en": "Among all regular triangular prisms with volume equal to $2\\,\\text{m}^3$, there is one whose total surface area is smallest. Determine the edge lengths of this prism.",
    "confidence": "high",
-   "notes": "value is the sum of the base edge a=2 and height h=2sqrt3/3; verified by direct optimization (calculus)"
+   "notes": "value is the sum of the base edge a=2 and height h=2sqrt3/3; verified by direct optimization (calculus)",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",

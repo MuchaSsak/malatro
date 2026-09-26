@@ -3,21 +3,23 @@
  "tasks": [
   {
    "task": "1",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "single",
    "value": 0.00390625,
    "value_tex": "4^{-4}",
    "answer_tex": "4^{-4}",
    "category": "liczby",
-   "topic_pl": "Potegi i pierwiastki",
+   "topic_pl": "Potęgi i pierwiastki",
    "topic_en": "Powers and roots",
    "difficulty": 2,
    "summary_pl": "Oblicz $(\\sqrt[3]{16}\\cdot4^{-2})^3$",
    "summary_en": "Compute $(\\sqrt[3]{16}\\cdot4^{-2})^3$",
    "statement_en": "The number $\\left(\\sqrt[3]{16}\\cdot4^{-2}\\right)^3$ equals: A. $4^4$ B. $4^{-4}$ C. $4^{-8}$ D. $4^{-12}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] |value| within the 0.011 tolerance of 0",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -51,7 +53,9 @@
    "summary_en": "Compute $\\log_2 20 - \\log_2 5$",
    "statement_en": "The value of the expression $\\log_2 20 - \\log_2 5$ equals: A. $\\log_2 15$ B. $2$ C. $4$ D. $\\log_2 25$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -69,7 +73,9 @@
    "summary_en": "Zero of $f(x)=(2m-1)x+9$ is $-3$. Find $m$",
    "statement_en": "The number $(-3)$ is the zero of the function $f(x)=(2m-1)x+9$. Then: A. $m=-2$ B. $m=0$ C. $m=2$ D. $m=3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -80,14 +86,16 @@
    "value_tex": "1",
    "answer_tex": "1",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosci trygonometryczne",
+   "topic_pl": "Tożsamości trygonometryczne",
    "topic_en": "Trigonometric identities",
    "difficulty": 2,
-   "summary_pl": "Uprosc $\\sin^2\\alpha+\\sin^2\\alpha\\cos^2\\alpha+\\cos^4\\alpha$",
+   "summary_pl": "Uprość $\\sin^2\\alpha+\\sin^2\\alpha\\cos^2\\alpha+\\cos^4\\alpha$",
    "summary_en": "Simplify $\\sin^2\\alpha+\\sin^2\\alpha\\cos^2\\alpha+\\cos^4\\alpha$",
    "statement_en": "For every acute angle $\\alpha$, the expression $\\sin^2\\alpha+\\sin^2\\alpha\\cdot\\cos^2\\alpha+\\cos^4\\alpha$ equals: A. $2\\sin^2\\alpha$ B. $2\\cos^2\\alpha$ C. $1$ D. $2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -98,14 +106,16 @@
    "value_tex": "\\frac{4}{3}",
    "answer_tex": "\\frac{4}{3}",
    "category": "trygonometria",
-   "topic_pl": "Wartosci funkcji trygonometrycznych",
+   "topic_pl": "Wartości funkcji trygonometrycznych",
    "topic_en": "Trigonometric function values",
    "difficulty": 2,
    "summary_pl": "$\\sin\\alpha=\\frac13$. Oblicz $1+\\text{tg}\\,\\alpha\\cos\\alpha$",
    "summary_en": "$\\sin\\alpha=\\frac13$. Find $1+\\tan\\alpha\\cos\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $\\sin\\alpha=\\frac13$. The value of the expression $1+\\tan\\alpha\\cdot\\cos\\alpha$ equals: A. $\\frac43$ B. $\\frac{11}{9}$ C. $\\frac{17}{9}$ D. $\\frac{11}{3}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -140,14 +150,16 @@
    "value_tex": "25",
    "answer_tex": "\\alpha=25^\\circ",
    "category": "planimetria",
-   "topic_pl": "Kat wpisany i styczna",
+   "topic_pl": "Kąt wpisany i styczna",
    "topic_en": "Inscribed angle and tangent",
    "difficulty": 3,
    "summary_pl": "Styczna do okręgu, kąt $40°$. Oblicz kąt $\\alpha$",
    "summary_en": "Tangent to circle, angle $40°$. Find angle $\\alpha$",
-   "statement_en": "Point $O$ is the center of a circle. Angle $\\alpha$, marked in the figure, has measure: [Figure: a circle with center $O$; a line tangent to the circle at one point (marked with a small right-angle sign against the radius); from another point on the circle a $40°$ angle is marked between the tangent line and a chord to that point; angle $\\alpha$ is marked at a third point on the circle.] A. $50°$ B. $45°$ C. $25°$ D. $20°$.",
+   "statement_en": "Point $O$ is the center of the circle. The angle $\u0007lpha$ marked in the figure has measure: [Figure: a circle with center $O$ and a line tangent to it at point $T$ (radius $OT$ is perpendicular to the tangent). Point $P$ lies on the circle; the line $OP$ extended beyond $P$ meets the tangent line at an angle of $40°$. Point $L$ is another point on the circle; $\u0007lpha$ is the inscribed angle $\u0007ngle PLT$ between chords $LP$ and $LT$.] A. $50°$ B. $45°$ C. $25°$ D. $20°$.",
    "confidence": "high",
-   "notes": "Value taken from the official key letter (C); the exact arc/angle configuration in the crop was not fully re-derivable independently, own geometric reconstruction was inconclusive. [verified: ok: 40 deg is between extended radius OA and tangent at T; triangle OPT gives angle AOT=50, inscribed alpha=25. Key C=25.]"
+   "notes": "Value taken from the official key letter (C); the exact arc/angle configuration in the crop was not fully re-derivable independently, own geometric reconstruction was inconclusive. [verified: ok: 40 deg is between extended radius OA and tangent at T; triangle OPT gives angle AOT=50, inscribed alpha=25. Key C=25.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "13",
@@ -158,14 +170,16 @@
    "value_tex": "20",
    "answer_tex": "Obw=20",
    "category": "planimetria",
-   "topic_pl": "Prostokaty podobne",
+   "topic_pl": "Prostokąty podobne",
    "topic_en": "Similar rectangles",
    "difficulty": 2,
    "summary_pl": "Prostokąt o przekątnej $2\\sqrt{13}$ podobny do $2\\times3$. Obwód?",
    "summary_en": "Rectangle, diagonal $2\\sqrt{13}$, similar to $2\\times3$. Perimeter?",
    "statement_en": "Rectangle $ABCD$ with diagonal length $2\\sqrt{13}$ is similar to a rectangle with side lengths $2$ and $3$. The perimeter of rectangle $ABCD$ equals: A. $10$ B. $20$ C. $5$ D. $24$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -183,7 +197,9 @@
    "summary_en": "Rhombus: side $3$, $\\cos$ of acute angle $\\frac{\\sqrt3}{2}$. Area?",
    "statement_en": "The cosine of the acute angle of a rhombus equals $\\frac{\\sqrt3}{2}$, the side of the rhombus has length $3$. The area of this rhombus equals: A. $\\frac92$ B. $\\frac{9\\sqrt3}{4}$ C. $\\frac{9\\sqrt3}{2}$ D. $6$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -194,14 +210,16 @@
    "value_tex": "12\\sqrt2",
    "answer_tex": "12\\sqrt2",
    "category": "stereometria",
-   "topic_pl": "Pole i krawedzie szescianu",
+   "topic_pl": "Pole i krawędzie sześcianu",
    "topic_en": "Cube surface and edges",
    "difficulty": 2,
    "summary_pl": "Pole sześcianu $12$. Suma długości krawędzi?",
    "summary_en": "Cube surface area $12$. Sum of all edge lengths?",
    "statement_en": "The total surface area of a cube equals $12$. The sum of the lengths of all edges of this cube equals: A. $12\\sqrt2$ B. $8\\sqrt2$ C. $6\\sqrt2$ D. $3\\sqrt2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -212,14 +230,16 @@
    "value_tex": "2",
    "answer_tex": "n=2",
    "category": "ciagi",
-   "topic_pl": "Wyraz ciagu",
+   "topic_pl": "Wyraz ciągu",
    "topic_en": "Sequence term",
    "difficulty": 2,
    "summary_pl": "Ciąg $a_n=-2+\\frac{12}{n}$. Dla jakiego $n$: $a_n=4$?",
    "summary_en": "Sequence $a_n=-2+\\frac{12}{n}$. For which $n$: $a_n=4$?",
    "statement_en": "The sequence $(a_n)$ is given by the formula $a_n=-2+\\frac{12}{n}$ for $n\\ge1$. The equality $a_n=4$ holds for: A. $n=2$ B. $n=3$ C. $n=4$ D. $n=5$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -237,7 +257,9 @@
    "summary_en": "How many zeros does $f(x)=3x(x^2+5)(2-x)(x+1)$ have?",
    "statement_en": "The function $f(x)=3x(x^2+5)(2-x)(x+1)$ has exactly: A. two zeros. B. three zeros. C. four zeros. D. five zeros.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -256,14 +278,16 @@
    "value_tex": "30",
    "answer_tex": "30^\\circ",
    "category": "trygonometria",
-   "topic_pl": "Katy w trojkacie prostokatnym",
+   "topic_pl": "Kąty w trójkącie prostokątnym",
    "topic_en": "Angles in a right triangle",
    "difficulty": 2,
    "summary_pl": "Przyprostokątne $1$ i $\\sqrt3$. Najmniejszy kąt?",
    "summary_en": "Legs $1$ and $\\sqrt3$. Smallest angle?",
    "statement_en": "The legs of a right triangle have lengths $1$ and $\\sqrt3$. The smallest angle in this triangle has measure: A. $60°$ B. $30°$ C. $45°$ D. $15°$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -274,14 +298,16 @@
    "value_tex": "55",
    "answer_tex": "a_1=55",
    "category": "ciagi",
-   "topic_pl": "Ciag arytmetyczny",
+   "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg arytm.: $r=-2$, $a_{20}=17$. Oblicz $a_1$",
    "summary_en": "Arithmetic seq.: $r=-2$, $a_{20}=17$. Find $a_1$",
    "statement_en": "An arithmetic sequence $(a_n)$ is given, in which the common difference $r=-2$ and $a_{20}=17$. Then the first term of this sequence equals: A. $45$ B. $50$ C. $55$ D. $60$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -292,14 +318,16 @@
    "value_tex": "\\frac{2}{3}",
    "answer_tex": "q=\\frac{2}{3}",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 2,
    "summary_pl": "Ciąg geom.: $a_1=\\frac98$, $a_4=\\frac13$. Oblicz $q$",
    "summary_en": "Geometric seq.: $a_1=\\frac98$, $a_4=\\frac13$. Find $q$",
    "statement_en": "In a geometric sequence $(a_n)$ the first term equals $\\frac98$, and the fourth term equals $\\frac13$. Then the ratio $q$ of this sequence equals: A. $q=\\frac13$ B. $q=\\frac12$ C. $q=\\frac23$ D. $q=\\frac32$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -310,14 +338,16 @@
    "value_tex": "\\frac{7}{2}",
    "answer_tex": "\\bar{x}=3.5",
    "category": "statystyka",
-   "topic_pl": "Srednia arytmetyczna",
+   "topic_pl": "Średnia arytmetyczna",
    "topic_en": "Arithmetic mean",
    "difficulty": 2,
    "summary_pl": "Diagram ocen. Oblicz średnią arytmetyczną",
    "summary_en": "Grade diagram. Find the arithmetic mean",
    "statement_en": "The results of a math test are shown in the diagram below [bar chart: grade 1: 1 student, grade 2: 5 students, grade 3: 7 students, grade 4: 8 students, grade 5: 3 students, grade 6: 2 students]. The arithmetic mean of the grades obtained by the students on this test equals: A. $2$ B. $3$ C. $3.5$ D. $4$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "23",
@@ -336,14 +366,16 @@
    "value_tex": "\\frac12",
    "answer_tex": "\\frac12",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 2,
-   "summary_pl": "3 rzuty moneta. $P$(orzel w 3. rzucie)",
+   "summary_pl": "3 rzuty monetą. $P$(orzeł w 3. rzucie)",
    "summary_en": "3 coin tosses. $P$(heads on 3rd toss)",
    "statement_en": "A fair coin is tossed three times. The probability that heads comes up on the third toss equals: A. $\\frac14$ B. $\\frac38$ C. $\\frac12$ D. $\\frac34$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -369,7 +401,9 @@
    "summary_en": "Compute $\\log4+\\log5-\\log2$",
    "statement_en": "The number $\\log4+\\log5-\\log2$ equals: A. $10$ B. $2$ C. $1$ D. $0$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -380,14 +414,16 @@
    "value_tex": "\\frac{4}{3}",
    "answer_tex": "x=1 \\lor x=-1 \\lor x=\\frac43",
    "category": "rownania",
-   "topic_pl": "Rownanie szescienne",
+   "topic_pl": "Równanie sześcienne",
    "topic_en": "Cubic equation",
    "difficulty": 2,
    "summary_pl": "Rozwiąż $3x^3-4x^2-3x+4=0$ (suma rozwiązań)",
    "summary_en": "Solve $3x^3-4x^2-3x+4=0$ (sum of solutions)",
    "statement_en": "Solve the equation $3x^3-4x^2-3x+4=0$.",
    "confidence": "high",
-   "notes": "Sum of the three real roots 1, -1 and 4/3."
+   "notes": "Sum of the three real roots 1, -1 and 4/3.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -398,14 +434,16 @@
    "value_tex": "\\frac{11}{4}",
    "answer_tex": "2+\\sin^3\\alpha+\\sin\\alpha\\cos^2\\alpha=\\frac{11}{4}",
    "category": "trygonometria",
-   "topic_pl": "Tozsamosc trygonometryczna",
+   "topic_pl": "Tożsamość trygonometryczna",
    "topic_en": "Trigonometric identity",
    "difficulty": 2,
    "summary_pl": "$\\cos\\alpha=\\frac{\\sqrt7}{4}$. Oblicz $2+\\sin^3\\alpha+\\sin\\alpha\\cos^2\\alpha$",
    "summary_en": "$\\cos\\alpha=\\frac{\\sqrt7}{4}$. Find $2+\\sin^3\\alpha+\\sin\\alpha\\cos^2\\alpha$",
    "statement_en": "Angle $\\alpha$ is acute and $\\cos\\alpha=\\frac{\\sqrt7}{4}$. Calculate the value of the expression $2+\\sin^3\\alpha+\\sin\\alpha\\cdot\\cos^2\\alpha$.",
    "confidence": "high",
-   "notes": "Simplifies to 2+sin(alpha), with sin(alpha)=3/4 since cos^2+sin^2=1."
+   "notes": "Simplifies to 2+sin(alpha), with sin(alpha)=3/4 since cos^2+sin^2=1.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -419,11 +457,13 @@
    "topic_pl": "Liczby czterocyfrowe",
    "topic_en": "Four-digit numbers",
    "difficulty": 2,
-   "summary_pl": "Ile liczb 4-cyfr., gdzie cyfra jednosci o 3 > cyfry setek?",
+   "summary_pl": "Ile liczb 4-cyfr., gdzie cyfra jedności o 3 > cyfry setek?",
    "summary_en": "How many 4-digit numbers have units digit 3 more than hundreds digit?",
    "statement_en": "Calculate how many four-digit natural numbers there are in which the units digit is 3 greater than the hundreds digit.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -442,14 +482,16 @@
    "value_tex": "3",
    "answer_tex": "q=3",
    "category": "ciagi",
-   "topic_pl": "Ciag geometryczny",
+   "topic_pl": "Ciąg geometryczny",
    "topic_en": "Geometric sequence",
    "difficulty": 2,
-   "summary_pl": "Ciąg geom. $a_n=7\\cdot3^{n-1}$. Oblicz iloraz $q$",
-   "summary_en": "Geometric seq. $a_n=7\\cdot3^{n-1}$. Find ratio $q$",
-   "statement_en": "An infinite geometric sequence $(a_n)$ is given by the formula $a_n=7\\cdot3^{n-1}$ for $n\\ge1$. Calculate the ratio $q$ of this sequence.",
+   "summary_pl": "Ciąg geom. $a_n=7\\cdot3^{n+1}$. Oblicz iloraz $q$",
+   "summary_en": "Geometric seq. $a_n=7\\cdot3^{n+1}$. Find ratio $q$",
+   "statement_en": "An infinite geometric sequence $(a_n)$ is given by the formula $a_n=7\\cdot3^{n+1}$ for $n\\ge1$. Calculate the ratio $q$ of this sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -460,14 +502,16 @@
    "value_tex": "162",
    "answer_tex": "V=162",
    "category": "stereometria",
-   "topic_pl": "Graniastoslup prosty",
+   "topic_pl": "Graniastosłup prosty",
    "topic_en": "Right prism",
    "difficulty": 3,
    "summary_pl": "Graniastosłup: bok $3$, kąty $30°,60°$. Oblicz objętość",
    "summary_en": "Prism: side $3$, angles $30°,60°$. Find the volume",
    "statement_en": "The base of prism $ABCDEFGH$ is rectangle $ABCD$ (see figure), whose shorter side has length $3$. The diagonal of rectangle $ABCD$ makes a $30°$ angle with its longer side. The diagonal $HB$ of the prism makes a $60°$ angle with the plane of its base. Calculate the volume of this prism.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "33",
@@ -478,14 +522,16 @@
    "value_tex": "6",
    "answer_tex": "6",
    "category": "rownania",
-   "topic_pl": "Zadanie tekstowe (uklad rownan)",
+   "topic_pl": "Zadanie tekstowe (układ równań)",
    "topic_en": "Word problem (system of equations)",
    "difficulty": 3,
-   "summary_pl": "Grupa dzieli $120$ zl, +2 osoby $\\Rightarrow$ -5 zl/os. Ile osob?",
-   "summary_en": "Group splits $120$ zl, +2 people $\\Rightarrow$ -5 zl/person. How many people?",
+   "summary_pl": "Grupa dzieli $120$ zł, +2 osoby $\\Rightarrow$ -5 zł/os. Ile osób?",
+   "summary_en": "Group splits $120$ PLN, +2 people $\\Rightarrow$ -5 PLN each. How many?",
    "statement_en": "A group of friends jointly purchased a one-year internet subscription. The monthly fee was 120 zlotys. This amount was divided into equal shares so that each friend paid the same amount. After one month, two more people joined the group, and then the monthly fee per user decreased by 5 zlotys. How many people were in the group in the first month of using the internet?",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",

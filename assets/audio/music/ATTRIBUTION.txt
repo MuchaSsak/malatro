@@ -65,3 +65,53 @@ sidewalk-shade_kevin-macleod.mp3
 Tip for the Balatro feel: Balatro plays its OST at ~70% speed. Try howler `rate(0.85)` or
 WebAudio playbackRate 0.8-0.9 (pitch drops too = woozier, more Balatro-like). On game over,
 ramp playbackRate down toward 0.5 over ~3 s (Balatro does exactly this).
+
+airport-lounge_kevin-macleod.mp3
+  "Airport Lounge" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Airport%20Lounge.mp3
+
+carefree_kevin-macleod.mp3
+  "Carefree" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Carefree.mp3
+
+casa-bossa-nova_kevin-macleod.mp3
+  "Casa Bossa Nova" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Casa%20Bossa%20Nova.mp3
+
+deliberate-thought_kevin-macleod.mp3
+  "Deliberate Thought" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Deliberate%20Thought.mp3
+
+easy-lemon_kevin-macleod.mp3
+  "Easy Lemon" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Easy%20Lemon.mp3
+
+investigations_kevin-macleod.mp3
+  "Investigations" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Investigations.mp3
+
+night-on-the-docks-sax_kevin-macleod.mp3
+  "Night on the Docks - Sax" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Night%20on%20the%20Docks%20-%20Sax.mp3
+
+smooth-lovin_kevin-macleod.mp3
+  "Smooth Lovin" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Smooth%20Lovin.mp3
+
+sneaky-snitch_kevin-macleod.mp3
+  "Sneaky Snitch" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Sneaky%20Snitch.mp3
+
+wallpaper_kevin-macleod.mp3
+  "Wallpaper" Kevin MacLeod (incompetech.com)
+  Licensed under Creative Commons: By Attribution 4.0 License  http://creativecommons.org/licenses/by/4.0/
+  Source: https://incompetech.com/music/royalty-free/mp3-royaltyfree/Wallpaper.mp3

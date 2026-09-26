@@ -1,15 +1,20 @@
 import { cn } from "~/lib/utils";
 
+type LogoProps = { size?: number; className?: string; onCardClick?: () => void };
+
 /** "M[card]LATRO" wordmark: chunky off-white pixel letters, teal outline, a task card as the first A. */
-export default function Logo({ size = 190, className }: { size?: number; className?: string }) {
+export default function Logo({ size = 190, className, onCardClick }: LogoProps) {
   const letters = ["M", "card", "L", "A", "T", "R", "O"];
   return (
     <div className={cn("flex items-end justify-center", className)} style={{ gap: size * 0.02 }}>
       {letters.map((ch, i) =>
         ch === "card" ? (
-          <div
+          <button
             key={i}
-            className="logo-card relative grid place-items-center rounded-[10px] border-4 border-[#1e3b40] bg-paper shadow-hard"
+            type="button"
+            aria-label="Malatro"
+            onClick={onCardClick}
+            className="logo-card relative grid place-items-center rounded-[10px] border-4 border-[#1e3b40] bg-paper shadow-hard active:brightness-90"
             style={{ width: size * 0.62, height: size * 0.86, marginBottom: size * 0.04 }}
           >
             <span className="absolute left-2 top-1 font-pixel text-[#fe5f55]" style={{ fontSize: size * 0.16 }}>
@@ -24,7 +29,7 @@ export default function Logo({ size = 190, className }: { size?: number; classNa
             >
               Σ
             </span>
-          </div>
+          </button>
         ) : (
           <span
             key={i}

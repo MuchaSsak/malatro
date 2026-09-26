@@ -25,7 +25,9 @@
    "summary_en": "Shares 12:8:3:2. Largest investor's part of capital?",
    "statement_en": "Four friends registered a company. The size of the shares of the individual partners in the company's share capital is expressed by the ratio 12:8:3:2. What part of the share capital does the largest investor's share constitute? A. 12% B. 32% C. 48% D. 52%",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -37,8 +39,8 @@
   },
   {
    "task": "4",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "no_numeric",
    "answer_kind": "sum",
    "value": 0,
    "value_tex": "0",
@@ -51,7 +53,9 @@
    "summary_en": "Line $y=ax+b$ through $K=(1,0)$, $L=(0,1)$. Find $a+b$",
    "statement_en": "On the line with equation $y=ax+b$ lie the points $K=(1,0)$ and $L=(0,1)$. It follows that: A. $a=-1$ and $b=1$ B. $a=1$ and $b=-1$ C. $a=-1$ and $b=-1$ D. $a=1$ and $b=1$",
    "confidence": "high",
-   "notes": "sum of the two parameter values a+b"
+   "notes": "sum of the two parameter values a+b [manual-exclude] a+b=f(1)=0 read off the given point K=(1,0) without solving",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -85,7 +89,9 @@
    "summary_en": "Zero of $f(x)=3x^2+7x+c$ is $-7/3$. Find $c$",
    "statement_en": "One of the zeros of the quadratic function $f(x)=3x^2+7x+c$ is the number $-\\frac{7}{3}$. Then $c$ equals: A. 0 B. 1 C. $-98$ D. 98",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -103,7 +109,9 @@
    "summary_en": "Compute $\\frac{3^{27}+3^{26}}{3^{26}+3^{25}}$",
    "statement_en": "The number $\\frac{3^{27}+3^{26}}{3^{26}+3^{25}}$ equals: A. 1 B. 3 C. 6 D. 9",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -121,7 +129,9 @@
    "summary_en": "Degree of the product of degree 2, 3, 2 polynomials",
    "statement_en": "Given are the polynomials $W(x)=2x^2-1$, $P(x)=x^3+x$, and $Q(x)=(1-x)(x+1)$. The degree of the polynomial $W(x)\\cdot P(x)\\cdot Q(x)$ equals: A. 3 B. 6 C. 7 D. 12",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -139,7 +149,9 @@
    "summary_en": "Vertex of $y=(x+2)(x-4)$ - x-coordinate?",
    "statement_en": "The first coordinate of the vertex of the parabola with equation $y=(x+2)(x-4)$ equals: A. $-8$ B. $-4$ C. 1 D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -157,7 +169,9 @@
    "summary_en": "Geometric sequence: $a_1=5$, $q=-2$. Find $S_{10}$",
    "statement_en": "In the geometric sequence $(a_n)$, defined for $n\\ge1$, the term $a_1=5$, and the ratio $q=-2$. The sum of the first ten terms of this sequence equals: A. $-1705$ B. $-1023$ C. 1705 D. 5115",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -175,7 +189,9 @@
    "summary_en": "Arithmetic sequence: $a_2=11$, $a_4=7$. Find $S_4$",
    "statement_en": "In the arithmetic sequence $(a_n)$, defined for $n\\ge1$, two terms are given: $a_2=11$ and $a_4=7$. The sum of the first four terms of this sequence equals: A. 36 B. 40 C. 13 D. 20",
    "confidence": "high",
-   "notes": " [verified: ok: r=-2, terms 13,11,9,7, sum 40; key B=40.]"
+   "notes": " [verified: ok: r=-2, terms 13,11,9,7, sum 40; key B=40.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -193,7 +209,9 @@
    "summary_en": "Simplify $\\frac{\\cos^2\\alpha}{1-\\sin^2\\alpha}+\\frac{1-\\cos^2\\alpha}{\\sin^2\\alpha}$",
    "statement_en": "The measure of angle $\\alpha$ satisfies $0°<\\alpha<90°$. The expression $\\frac{\\cos^2\\alpha}{1-\\sin^2\\alpha}+\\frac{1-\\cos^2\\alpha}{\\sin^2\\alpha}$ equals: A. 1 B. $2\\cos^2\\alpha$ C. 2 D. $2\\sin^2\\alpha$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -211,7 +229,9 @@
    "summary_en": "Trapezoid KLMN: MN=3, KN=$4\\sqrt3$, angle KLM=$60°$. Area?",
    "statement_en": "In trapezoid KLMN, in which $KL\\parallel MN$, angle LKN is right (see figure), and given are: $|MN|=3$, $|KN|=4\\sqrt3$, $\\angle KLM=60°$. The area of this trapezoid equals: A. $4+2\\sqrt3$ B. $10\\sqrt3$ C. $20\\sqrt3$ D. $24+6\\sqrt3$ [Figure: right trapezoid KLMN with the right angle at K]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +249,9 @@
    "summary_en": "40 students avg 30, 20 students sum 1800. Combined avg?",
    "statement_en": "The arithmetic mean of the number of points obtained on the exam by students of group I, consisting of 40 students, is 30. Twenty students forming group II received a total of 1800 points. Therefore the average result of this exam, calculated jointly for all students from both groups, equals: A. 20 pts B. 30 pts C. 50 pts D. 60 pts",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +269,9 @@
    "summary_en": "Cube: angle IFK between face diagonals from F",
    "statement_en": "In cube EFGHIJKL, two diagonals of adjacent faces are drawn from vertex F: FI and FK (see figure). The measure of angle IFK equals: A. $30°$ B. $45°$ C. $60°$ D. $90°$ [Figure: cube with vertices E,F,G,H on the bottom face and I,J,K,L on the top face, diagonals FI and FK drawn on two adjacent side faces]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -265,7 +289,9 @@
    "summary_en": "Inscribed angle LKM (central angles 130°, 110°)",
    "statement_en": "Point O is the center of the circle (see figure). The measure of angle LKM equals: A. $30°$ B. $60°$ C. $90°$ D. $120°$ [Figure: circle with center O and points K, L, M on the circle; at O, angle KOM (upper) is $130°$ and angle KOL (lower) is $110°$]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +309,9 @@
    "summary_en": "Circle circumscribed on right triangle 12,9. Radius?",
    "statement_en": "A circle is circumscribed on a right triangle whose legs have lengths 12 and 9. The radius of this circle equals: A. $\\sqrt{108}$ B. $\\frac{15}{2}$ C. 15 D. $\\frac{\\sqrt{108}}{2}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +329,9 @@
    "summary_en": "Draw from 1..30. P(perfect square)?",
    "statement_en": "From the set of consecutive natural numbers $\\{1,2,3,4,\\ldots,30\\}$ we draw one number. The probability of the event that the drawn number is the square of an integer equals: A. $\\frac{4}{30}$ B. $\\frac{5}{30}$ C. $\\frac{6}{30}$ D. $\\frac{10}{30}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -319,7 +349,9 @@
    "summary_en": "Triangle EFG, EF=21, HI=7, GI=3 (parallel line). Find FI",
    "statement_en": "In triangle EFG, side EF has length 21. A line parallel to side EF intersects sides EG and FG of the triangle at points H and I respectively (see figure), such that $|HI|=7$ and $|GI|=3$. Then the length of segment FI equals: A. 6 B. 9 C. 12 D. 17 [Figure: triangle EFG with segment HI parallel to EF, H on EG, I on FG]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "21",
@@ -333,11 +365,13 @@
    "topic_pl": "Skala planu",
    "topic_en": "Map scale",
    "difficulty": 2,
-   "summary_pl": "Plan 1:20000, park 2cm x 5cm. Powierzchnia?",
-   "summary_en": "Map 1:20000, park 2cm x 5cm. Actual area?",
+   "summary_pl": "Plan 1:20000, park 2cm x 5cm. Powierzchnia w m²?",
+   "summary_en": "Map 1:20000, park 2cm x 5cm. Actual area in m²?",
    "statement_en": "On a city map, drawn to a scale of 1:20000, a park is a rectangle with sides 2 cm and 5 cm. It follows that this park has an area of: A. $20\\,000\\text{ m}^2$ B. $40\\,000\\text{ m}^2$ C. $200\\,000\\text{ m}^2$ D. $400\\,000\\text{ m}^2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -355,7 +389,9 @@
    "summary_en": "Lines $y=mx-5$, $y=(1-2m)x+7$ parallel - find $m$",
    "statement_en": "The lines with equations $y=mx-5$ and $y=(1-2m)x+7$ are parallel when: A. $m=-1$ B. $m=-\\frac13$ C. $m=\\frac13$ D. $m=1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -381,7 +417,9 @@
    "summary_en": "Cylinder: r=4, V=$96\\pi$. Lateral surface area?",
    "statement_en": "The volume of a cylinder with base radius 4 is $96\\pi$. The lateral surface area of this cylinder equals: A. $16\\pi$ B. $24\\pi$ C. $32\\pi$ D. $48\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -399,7 +437,9 @@
    "summary_en": "Pyramid: V=432, base edge=12. Find height",
    "statement_en": "The volume of a regular quadrilateral pyramid is 432, and the base edge of this pyramid has length 12. The height of this pyramid equals: A. 3 B. 9 C. 27 D. 108",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -433,7 +473,9 @@
    "summary_en": "$\\cos\\alpha=\\frac{\\sqrt3}{3}$. Find $\\frac{\\sin\\alpha}{\\cos\\alpha}+\\frac{\\cos\\alpha}{1+\\sin\\alpha}$",
    "statement_en": "The angle $\\alpha$ is acute and $\\cos\\alpha=\\frac{\\sqrt3}{3}$. Calculate the value of the expression $\\frac{\\sin\\alpha}{\\cos\\alpha}+\\frac{\\cos\\alpha}{1+\\sin\\alpha}$.",
    "confidence": "high",
-   "notes": "Key excerpt for this open task was badly garbled (MathType); own solve gives a clean sqrt(3), consistent with the substitution step visible in the key text. [verified: ok: Expression simplifies to 1/cos(alpha)=3/sqrt3=sqrt3; matches key.]"
+   "notes": "Key excerpt for this open task was badly garbled (MathType); own solve gives a clean sqrt(3), consistent with the substitution step visible in the key text. [verified: ok: Expression simplifies to 1/cos(alpha)=3/sqrt3=sqrt3; matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -451,7 +493,9 @@
    "summary_en": "Arithmetic sequence: 6, $2x+4$, $x+26$. Find $r$",
    "statement_en": "The numbers 6, $2x+4$, $x+26$, in the given order, are the first, second, and third terms of a certain arithmetic sequence. Calculate the common difference r of this sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -469,7 +513,9 @@
    "summary_en": "Sets K, L of integers. P(product positive)?",
    "statement_en": "Given are two subsets of the set of integers: $K=\\{-4,-1,1,5,6\\}$ and $L=\\{-3,-2,2,3,4\\}$. One number is drawn from each of them. Calculate the probability of the event that the product of the drawn numbers is positive.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -495,7 +541,9 @@
    "summary_en": "Pyramid: $AC=4\\sqrt2$, angle ASC=$60°$. Find volume",
    "statement_en": "In the regular quadrilateral pyramid ABCDS (see figure), the diagonal AC of the base has length $4\\sqrt2$. The angle ASC between opposite lateral edges of the pyramid measures $60°$. Calculate the volume of this pyramid. [Figure: square pyramid with base ABCD and apex S]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "33",
@@ -513,7 +561,9 @@
    "summary_en": "Race 150km, Nowak 1h50min faster, 11km/h quicker. Speeds? (sum)",
    "statement_en": "Mr. Nowak covered a 150 km stage of a cycling race in a time 1 hour and 50 minutes shorter than his teammate, Mr. Kowalski. The average speed at which Mr. Nowak rode this stage was 11 km/h greater than Mr. Kowalski's average speed on this route. Calculate the average speeds at which both riders covered the entire route.",
    "confidence": "high",
-   "notes": "sum of the two riders' speeds (36 + 25)"
+   "notes": "sum of the two riders' speeds (36 + 25)",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -531,7 +581,9 @@
    "summary_en": "Isosceles triangle: A=(2,1), B=(5,2), leg on $2x-y-3=0$. Find C (sum)",
    "statement_en": "The base of isosceles triangle ABC is side AB, where $A=(2,1)$ and $B=(5,2)$. The leg of this triangle lies on the line with equation $2x-y-3=0$. Calculate the coordinates of vertex C.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

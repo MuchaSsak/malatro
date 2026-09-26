@@ -17,7 +17,9 @@
    "summary_en": "A square's side grows by 10%. By what % does the area grow?",
    "statement_en": "The side of square $k_2$ is 10% longer than the side of square $k_1$. Then the area of square $k_2$ is greater than the area of square $k_1$ by: A. 10% B. 110% C. 21% D. 121%",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $9^{-5}\\cdot 3^{8}$",
    "statement_en": "The product $9^{-5}\\cdot 3^{8}$ is equal to: A. $3^{-4}$ B. $3^{-9}$ C. $9^{-1}$ D. $9^{-9}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_3 27-\\log_3 1$",
    "statement_en": "The number $\\log_3 27 - \\log_3 1$ is equal to: A. 0 B. 1 C. 2 D. 3",
    "confidence": "high",
-   "notes": " [verified: ok: log3 27 - log3 1 = 3-0 = 3; key D.]"
+   "notes": " [verified: ok: log3 27 - log3 1 = 3-0 = 3; key D.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Compute $(2-3\\sqrt2)^2$",
    "statement_en": "The number $(2-3\\sqrt{2})^2$ is equal to: A. $-14$ B. $22$ C. $-14-12\\sqrt2$ D. $22-12\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -89,7 +97,9 @@
    "summary_en": "$f(x)=mx+2$ has a zero at $-2$. Find $m$",
    "statement_en": "The number $-2$ is a zero of the linear function $f(x)=mx+2$. Then: A. $m=3$ B. $m=1$ C. $m=-2$ D. $m=-4$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -115,7 +125,9 @@
    "summary_en": "Parabola $y=x^2+8x-14$. Find the vertex's $x$",
    "statement_en": "The parabola has equation $y=x^2+8x-14$. The first coordinate of its vertex is equal to: A. $x=-8$ B. $x=-4$ C. $x=4$ D. $x=8$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -148,7 +160,7 @@
    "answer_kind": "single",
    "value": 2,
    "value_tex": "2",
-   "answer_tex": "\\text{dokladnie dwa rozwiazania}",
+   "answer_tex": "2",
    "category": "rownania",
    "topic_pl": "Równanie wymierne",
    "topic_en": "Rational equation",
@@ -157,7 +169,9 @@
    "summary_en": "How many solutions does $\\frac{(x+3)(x-2)}{(x-3)(x+2)}=0$ have?",
    "statement_en": "The equation $\\dfrac{(x+3)(x-2)}{(x-3)(x+2)}=0$ has: A. exactly one solution B. exactly two solutions C. exactly three solutions D. exactly four solutions",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] B: zeros x=-3, x=2, both allowed (denominator zeros are 3,-2). answer_tex lacked diacritics -> set to 2.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -175,7 +189,9 @@
    "summary_en": "Sequence $a_n=\\frac{n}{(-2)^n}$. Find $a_3$",
    "statement_en": "The sequence $(a_n)$ is given by $a_n=\\dfrac{n}{(-2)^n}$ for $n\\geq1$. Then: A. $a_3=\\frac12$ B. $a_3=-\\frac12$ C. $a_3=\\frac38$ D. $a_3=-\\frac38$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -193,7 +209,9 @@
    "summary_en": "Geometric sequence: $a_1=36$, $a_2=18$. Find $a_4$",
    "statement_en": "In the geometric sequence $(a_n)$ we have $a_1=36$, $a_2=18$. Then: A. $a_4=-18$ B. $a_4=0$ C. $a_4=4.5$ D. $a_4=144$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -211,7 +229,9 @@
    "summary_en": "$\\sin\\alpha=\\frac{7}{13}$, $\\alpha$ acute. Find $\\tan\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\sin\\alpha=\\frac{7}{13}$. Then $\\tan\\alpha$ is equal to: A. $\\frac{7}{6}$ B. $\\frac{7\\cdot13}{120}$ C. $\\frac{7}{\\sqrt{120}}$ D. $\\frac{7}{13\\sqrt{120}}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -229,7 +249,9 @@
    "summary_en": "Right triangle with sides $9,11,2\\sqrt{10}$. Find $\\cos\\alpha$",
    "statement_en": "In a right triangle the side lengths are given (see figure): legs 9 and $2\\sqrt{10}$, hypotenuse 11, with acute angle $\\alpha$ between the leg of length 9 and the hypotenuse. Then: A. $\\cos\\alpha=\\frac{9}{11}$ B. $\\sin\\alpha=\\frac{9}{11}$ C. $\\sin\\alpha=\\frac{11}{2\\sqrt{10}}$ D. $\\cos\\alpha=\\frac{2\\sqrt{10}}{11}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "16",
@@ -247,7 +269,9 @@
    "summary_en": "Rectangle: $AC=14$, $AB=6$. Find $BC$",
    "statement_en": "The diagonal $AC$ of rectangle $ABCD$ has length 14. Side $AB$ of this rectangle has length 6. The length of side $BC$ is equal to: A. 8 B. $4\\sqrt{10}$ C. $2\\sqrt{58}$ D. 10",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -265,7 +289,9 @@
    "summary_en": "Central angle $230°$. Find inscribed angle $ACB$",
    "statement_en": "Points A, B and C lie on a circle with center S (see figure). The marked reflex central angle ASB (not containing C) is $230°$. The measure of the marked inscribed angle ACB is equal to: A. $65°$ B. $100°$ C. $115°$ D. $130°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -283,7 +309,9 @@
    "summary_en": "Equilateral triangle side $24\\sqrt3$. Find the inradius",
    "statement_en": "The side of an equilateral triangle is equal to $24\\sqrt{3}$. The radius of the circle inscribed in this triangle is equal to: A. 36 B. 18 C. 12 D. 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -309,7 +337,9 @@
    "summary_en": "Square: $B=(-2,4)$, $C=(5,1)$. Find the area",
    "statement_en": "Points $B=(-2,4)$ and $C=(5,1)$ are two adjacent vertices of square $ABCD$. The area of this square is equal to: A. 74 B. 58 C. 40 D. 29",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -327,7 +357,9 @@
    "summary_en": "Circle $(x+4)^2+(y-6)^2=100$. Give the center (sum of coords)",
    "statement_en": "The circle has equation $(x+4)^2+(y-6)^2=100$. The center of this circle has coordinates: A. $(-4,-6)$ B. $(4,6)$ C. $(4,-6)$ D. $(-4,6)$ (sum of coordinates)",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -345,7 +377,9 @@
    "summary_en": "Cube volume $64$. Find surface area",
    "statement_en": "The volume of a cube is equal to 64. The total surface area of this cube is equal to: A. 512 B. 384 C. 96 D. 16",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -371,7 +405,9 @@
    "summary_en": "Salaries of 6 people. Find the median",
    "statement_en": "A certain company employs 6 people. The director earns 8000 zl, and the remaining employees earn: 2000 zl, 2800 zl, 3400 zl, 3600 zl, 4200 zl. The median salary of these 6 people is equal to: A. 3400 zl B. 3500 zl C. 6000 zl D. 7000 zl",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -389,7 +425,9 @@
    "summary_en": "Pick a number from $\\{1,...,15\\}$. Find $p$(divisible by 4)",
    "statement_en": "From the set $\\{1,2,3,4,5,6,7,8,9,10,11,12,13,14,15\\}$ we draw one number at random. Let $p$ denote the probability of drawing a number divisible by 4. Then: A. $p<\\frac15$ B. $p=\\frac15$ C. $p=\\frac14$ D. $p>\\frac14$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -415,7 +453,9 @@
    "summary_en": "Solve $x^3-6x^2-9x+54=0$ (sum of solutions)",
    "statement_en": "Solve the equation $x^3-6x^2-9x+54=0$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -433,7 +473,9 @@
    "summary_en": "Arithmetic sequence: $a_1=3$, $a_4=15$. Find $S_6$",
    "statement_en": "The first term of an arithmetic sequence is equal to 3, and the fourth term of this sequence is equal to 15. Compute the sum of the first six terms of this sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -451,7 +493,9 @@
    "summary_en": "$AC=BC=6$, $\\angle ACB=30°$. Find altitude $AD$",
    "statement_en": "In isosceles triangle $ABC$ we have $|AC|=|BC|=6$ and $|\\angle ACB|=30°$ (see figure). Compute the altitude $AD$ of the triangle dropped from vertex $A$ onto side $BC$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -485,7 +529,9 @@
    "summary_en": "Isosceles triangle: $A=(2,1)$, $C=(1,9)$. Find $B$ (sum of coords)",
    "statement_en": "Triangle $ABC$ is isosceles with $|AC|=|BC|$, where $A=(2,1)$ and $C=(1,9)$. The base $AB$ of this triangle lies on the line $y=\\frac{1}{2}x$. Compute the coordinates of vertex $B$ (sum of its coordinates).",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -503,7 +549,9 @@
    "summary_en": "Pyramid: equilateral $\\triangle ACS$, side $8$. Find $\\sin\\alpha$",
    "statement_en": "In a regular quadrilateral pyramid $ABCDS$ with base $ABCD$ and apex $S$, triangle $ACS$ is equilateral with side length 8. Compute the sine of the angle of inclination of a lateral face to the plane of the base of this pyramid (see figure).",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",
@@ -521,7 +569,9 @@
    "summary_en": "Cyclist: 114 km route, 9.5 km/h slower -> 2h longer. Speed?",
    "statement_en": "A cyclist covered a route of 114 km. If he had ridden at an average speed 9.5 km/h slower, he would have covered this route in a time 2 hours longer. Compute the average speed at which this cyclist rode.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

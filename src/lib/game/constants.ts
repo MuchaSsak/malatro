@@ -17,6 +17,19 @@ export const FINAL_ANTE = 8;
 export const VALUE_CAP = 25;
 
 /**
+ * Knowledge bonus for every correctly answered (face-up) card, on top of its value chips: the
+ * score should mostly reward solving tasks, with poker hands as the multiplier on top. Harder tasks
+ * pay more chips. [user: "reward mostly just having the knowledge to answer"]
+ */
+export const KNOWLEDGE_CHIPS_BASE = 5;
+export const KNOWLEDGE_CHIPS_PER_DIFF = 3;
+export const KNOWLEDGE_MULT = 1;
+
+export function knowledgeChips(diff: number): number {
+  return KNOWLEDGE_CHIPS_BASE + KNOWLEDGE_CHIPS_PER_DIFF * Math.max(1, Math.min(5, diff));
+}
+
+/**
  * Small-blind target per ante (index 0 = ante 1). Big = x1.5, Boss = x BossDef.targetMult.
  * Hand-tuned from the value distribution (mean capped card ~9): an unsolved 5-card pair scores
  * ~110 and a solved, well-picked hand ~200-450, so ante 1 needs 2-3 decent hands and rewards

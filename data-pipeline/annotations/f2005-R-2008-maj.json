@@ -44,14 +44,16 @@
    "value_tex": "\\pi",
    "answer_tex": "x=\\frac{\\pi}{6} \\lor x=\\frac{5\\pi}{6}",
    "category": "trygonometria",
-   "topic_pl": "Rownania trygonometryczne",
+   "topic_pl": "Równania trygonometryczne",
    "topic_en": "Trigonometric equations",
    "difficulty": 4,
    "summary_pl": "Rozwiąż $4\\cos^2x=4\\sin x+1$ w $[0,2\\pi]$ (suma rozw.)",
    "summary_en": "Solve $4\\cos^2x=4\\sin x+1$ on $[0,2\\pi]$ (sum of solutions)",
    "statement_en": "Solve the equation $4\\cos^2x=4\\sin x+1$ in the interval $\\langle 0,2\\pi\\rangle$.",
    "confidence": "high",
-   "notes": "Sum of solutions pi/6 + 5pi/6 = pi."
+   "notes": "Sum of solutions pi/6 + 5pi/6 = pi.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -86,14 +88,16 @@
    "value_tex": "14",
    "answer_tex": "S=\\left(\\frac{38}{3},\\frac{4}{3}\\right)",
    "category": "analityczna",
-   "topic_pl": "Jednokladnosc okregow",
+   "topic_pl": "Jednokładność okręgów",
    "topic_en": "Homothety of circles",
    "difficulty": 4,
    "summary_pl": "Jednokładność ujemna okręgów - środek $S$? (suma współrzędnych)",
    "summary_en": "Negative homothety of two circles - find center $S$ (sum of coords)",
    "statement_en": "Determine the coordinates of the center of a homothety in which the image of the circle with equation $(x-16)^2+y^2=4$ is the circle with equation $(x-6)^2+(y-4)^2=16$, and the scale of this homothety is a negative number.",
    "confidence": "high",
-   "notes": "Sum of coordinates of S = 38/3 + 4/3 = 14."
+   "notes": "Sum of coordinates of S = 38/3 + 4/3 = 14.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -104,14 +108,16 @@
    "value_tex": "-8",
    "answer_tex": "\\text{domain}=(0,8);\\ f_{min}=-8",
    "category": "funkcje",
-   "topic_pl": "Dziedzina i wartosc najmniejsza funkcji logarytmicznej",
+   "topic_pl": "Dziedzina i wartość najmniejsza funkcji logarytmicznej",
    "topic_en": "Domain and minimum of a logarithmic function",
    "difficulty": 4,
-   "summary_pl": "Dziedzina i najmn. wartość $f(x)=\\log_{\\frac{\\sqrt2}{2}}(8x-x^2)$?",
-   "summary_en": "Domain and minimum of $f(x)=\\log_{\\frac{\\sqrt2}{2}}(8x-x^2)$?",
+   "summary_pl": "Najmniejsza wartość $f(x)=\\log_{\\frac{\\sqrt2}{2}}(8x-x^2)$",
+   "summary_en": "Minimum value of $f(x)=\\log_{\\frac{\\sqrt2}{2}}(8x-x^2)$",
    "statement_en": "Determine the domain and the smallest value of the function $f(x)=\\log_{\\frac{\\sqrt{2}}{2}}(8x-x^2)$.",
    "confidence": "high",
-   "notes": "Domain (0,8) is not numeric; only the minimum value -8 is summed."
+   "notes": "Domain (0,8) is not numeric; only the minimum value -8 is summed.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -122,14 +128,16 @@
    "value_tex": "21",
    "answer_tex": "\\text{kobiety}=7,\\ \\text{mezczyzni}=14",
    "category": "prawdopodobienstwo",
-   "topic_pl": "Prawdopodobienstwo klasyczne",
+   "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 4,
-   "summary_pl": "Grupa: mezczyzn $2\\times$ wiecej. $P$(delegacja=kobiety)$=0,1$. Ile? (suma)",
-   "summary_en": "Group: men $2\\times$ women. $P$(delegation=women)$=0.1$. How many? (sum)",
+   "summary_pl": "Mężczyzn $2\\times$ więcej, $P$(2 kobiety)$=0,1$. Kobiety+mężczyźni",
+   "summary_en": "Men $2\\times$ women, $P$(2 women)$=0.1$. Women + men (sum)",
    "statement_en": "From a certain group of people, in which there are twice as many men as women, a two-person delegation is chosen at random. The probability that the delegation consists only of women is equal to $0.1$. Calculate how many women and how many men are in this group.",
    "confidence": "high",
-   "notes": "Sum = 7 women + 14 men = 21."
+   "notes": "Sum = 7 women + 14 men = 21.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -140,14 +148,16 @@
    "value_tex": "69",
    "answer_tex": "\\alpha\\approx69\\text{\\textdegree}",
    "category": "stereometria",
-   "topic_pl": "Ostroslup prawidlowy czworokatny",
+   "topic_pl": "Ostrosłup prawidłowy czworokątny",
    "topic_en": "Regular quadrilateral pyramid",
    "difficulty": 5,
    "summary_pl": "Ostrosłup: $V=\\frac{2}{9}H^3$. Oblicz kąt $\\alpha$ (część b)",
    "summary_en": "Pyramid: $V=\\frac{2}{9}H^3$. Find angle $\\alpha$ (part b)",
    "statement_en": "In a regular quadrilateral pyramid, let $H$ be the height of the pyramid and $\\alpha$ the measure of the angle between a lateral edge and a base edge ($45^\\circ<\\alpha<90^\\circ$). a) Show that the volume $V$ of this pyramid equals $\\frac{4}{3}\\cdot\\frac{H^3}{\\tan^2\\alpha-1}$. b) Calculate the measure of angle $\\alpha$ for which the volume $V$ of the given pyramid is equal to $\\frac{2}{9}H^3$. Give the result rounded to the nearest whole degree.",
    "confidence": "high",
-   "notes": "Part a) is a proof (excluded); part b) gives the single numeric answer alpha=69 (tan alpha = sqrt7)."
+   "notes": "Part a) is a proof (excluded); part b) gives the single numeric answer alpha=69 (tan alpha = sqrt7).",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -158,14 +168,16 @@
    "value_tex": "\\frac{21}{5}",
    "answer_tex": "\\frac{21}{5}",
    "category": "planimetria",
-   "topic_pl": "Trojkat prostokatny i rownoramienny",
+   "topic_pl": "Trójkąt prostokątny i równoramienny",
    "topic_en": "Right and isosceles triangle",
    "difficulty": 4,
    "summary_pl": "Trójkąt prost. $|BC|{=}9$, $|CA|{=}12$, $|BC|{=}|CD|$. $|AD|$?",
    "summary_en": "Right triangle $|BC|{=}9$, $|CA|{=}12$, $|BC|{=}|CD|$. Find $|AD|$",
    "statement_en": "In right triangle $ABC$, the legs have lengths $|BC|=9$ and $|CA|=12$. Point $D$ is chosen on side $AB$ so that segments $BC$ and $CD$ have equal length. Calculate the length of segment $AD$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

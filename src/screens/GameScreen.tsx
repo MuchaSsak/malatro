@@ -1,10 +1,11 @@
-import { useLingui } from "@lingui/react/macro";
+import { Trans, useLingui } from "@lingui/react/macro";
 import { motion, useAnimate } from "motion/react";
 import { useEffect, useState } from "react";
 import { toast } from "sonner";
 
 import BlindSelect from "~/components/game/BlindSelect";
 import CashOut from "~/components/game/CashOut";
+import CheatPanel from "~/components/game/CheatPanel";
 import ConsumableTray from "~/components/game/ConsumableTray";
 import DeckPile from "~/components/game/DeckPile";
 import DeckView from "~/components/game/DeckView";
@@ -18,11 +19,13 @@ import RunInfo from "~/components/game/RunInfo";
 import Shop from "~/components/game/Shop";
 import Sidebar from "~/components/game/Sidebar";
 import Modal from "~/components/ui/Modal";
+import PixelButton from "~/components/ui/PixelButton";
 import { useGame, useRun } from "~/contexts/GameContext";
 import PlaybackProvider, { usePlayback } from "~/contexts/PlaybackContext";
 import { useSettings } from "~/contexts/SettingsContext";
 import { useViewer } from "~/contexts/ViewerContext";
 import { audio } from "~/lib/audio";
+import { onCheatPrompt } from "~/lib/cheats";
 import { emitJiggle, emitPopup } from "~/lib/fx";
 import { HAND_BY_ID } from "~/lib/game/hands";
 
@@ -39,11 +42,14 @@ export default function GameScreen(props: GameScreenProps) {
 function GameTable({ onMainMenu, onNewRun }: GameScreenProps) {
   const { engine } = useGame();
   const run = useRun();
-  const { l } = useSettings();
+  const { l, settings, update } = useSettings();
   const { t } = useLingui();
   const pb = usePlayback();
   const { target: viewerTarget } = useViewer();
-  const [modal, setModal] = useState<"info" | "options" | "deck" | null>(null);
+  const [modal, setModal] = useState<"info" | "options" | "deck" | "cheats" | null>(null);
+
+  // ten quick pokes on a blind chip offer the testing cheats
+  useEffect(() => onCheatPrompt(() => !settings.isCheats && setModal("cheats")), [settings.isCheats]);
   const [scope, animate] = useAnimate();
 
   // engine side effects -> toasts, sounds, juice
@@ -121,6 +127,7 @@ function GameTable({ onMainMenu, onNewRun }: GameScreenProps) {
       {phase === "shop" && <Shop />}
       {phase === "pack" && <PackOpen />}
       <DeckPile onClick={() => setModal("deck")} />
+      {settings.isCheats && <CheatPanel />}
       {(phase === "gameover" || phase === "won") && (
         <>
           <div
@@ -130,6 +137,35 @@ function GameTable({ onMainMenu, onNewRun }: GameScreenProps) {
           <GameOver onNewRun={onNewRun} onMainMenu={onMainMenu} />
         </>
       )}
+      <Modal isOpen={modal === "cheats"} onClose={() => setModal(null)}>
+        <div className="flex w-[640px] flex-col gap-5 p-7 text-center">
+          <div className="tx font-pixel text-5xl text-money">
+            <Trans>Activate cheats?</Trans>
+          </div>
+          <div className="font-pixel text-2xl leading-snug text-white/85">
+            <Trans>
+              A testing panel appears on the table (money, mult, win the blind). Runs where you use it are not saved to
+              the leaderboard.
+            </Trans>
+          </div>
+          <div className="flex gap-3">
+            <PixelButton tone="panel" size="md" className="flex-1" onClick={() => setModal(null)}>
+              <Trans>No</Trans>
+            </PixelButton>
+            <PixelButton
+              tone="red"
+              size="md"
+              className="flex-1"
+              onClick={() => {
+                update({ isCheats: true });
+                setModal(null);
+              }}
+            >
+              <Trans>Activate</Trans>
+            </PixelButton>
+          </div>
+        </div>
+      </Modal>
       <Modal isOpen={modal === "info"} onClose={() => setModal(null)}>
         <RunInfo onClose={() => setModal(null)} />
       </Modal>

@@ -8,6 +8,8 @@ import type { TaskPool } from "~/lib/game/deck";
 import { Rng } from "~/lib/game/rng";
 import * as R from "~/lib/game/run";
 import type { DifficultyMode, RunState } from "~/lib/game/types";
+import { recordAttempts, recordRun } from "~/lib/progress";
+import { loadSettings } from "~/lib/settings";
 
 export const STORAGE_KEY = "malatro_run_v1";
 
@@ -49,10 +51,20 @@ export class GameEngine {
   }
 
   private emit(fx: R.Fx) {
+    if (fx.kind === "attempts") recordAttempts(fx.results);
     for (const fn of this.fxListeners) fn(fx);
   }
 
   private commit(next: RunState | null) {
+    const prev = this.state;
+    // run history: a run is recorded when it ends (an endless run updates its record on the final loss)
+    if (
+      next &&
+      (next.phase === "gameover" || next.phase === "won") &&
+      prev?.id === next.id &&
+      prev.phase !== next.phase
+    )
+      recordRun(next, next.phase === "won" ? "won" : "lost", loadSettings().locale);
     this.state = next;
     saveRun(next);
     for (const fn of this.listeners) fn();
@@ -91,11 +103,19 @@ export class GameEngine {
 
   /** Actions */
 
-  newRun(difficulty: DifficultyMode, seed: string) {
-    this.commit(R.createRun(difficulty, seed, Date.now()));
+  /** `avoid`: tasks met before (encodeTaskSet), dealt less often; a replay passes the original's */
+  newRun(difficulty: DifficultyMode, seed: string, avoid?: string) {
+    // starting over mid-run leaves an unfinished run behind: keep it in the history as abandoned
+    const run = this.state;
+    if (run && run.stats.handsPlayed > 0 && run.phase !== "gameover" && run.phase !== "won")
+      recordRun(run, "abandoned", loadSettings().locale);
+    this.commit(R.createRun(difficulty, seed, Date.now(), avoid));
   }
 
   abandonRun() {
+    const run = this.state;
+    if (run && run.stats.handsPlayed > 0 && run.phase !== "gameover" && run.phase !== "won")
+      recordRun(run, "abandoned", loadSettings().locale);
     this.commit(null);
   }
 
@@ -129,6 +149,7 @@ export class GameEngine {
   activateConsumable = (uid: string) => this.act((r, c) => R.activateConsumable(r, c, uid));
   setNote = (taskId: string, note: string) => this.act((r) => R.setNote(r, taskId, note));
   continueEndless = () => this.act(R.continueEndless);
+  cheat = (kind: R.CheatKind) => this.act((r, c) => R.cheat(r, c, kind));
 }
 
 /** Persistence (versioned envelope; storage may be unavailable) */

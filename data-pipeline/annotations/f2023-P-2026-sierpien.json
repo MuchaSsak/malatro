@@ -17,7 +17,9 @@
    "summary_en": "Compute $\\sqrt[3]{-27}+\\sqrt[5]{-1}$",
    "statement_en": "Compute the value of $\\sqrt[3]{-27}+\\sqrt[5]{-1}$. Choose the correct answer: A) $-4$, B) $-2$, C) $2$, D) $4$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
@@ -35,7 +37,9 @@
    "summary_en": "Compute $\\dfrac{3^{-1}\\cdot4^{0.5}}{3^{-2}\\cdot2^{-1}}$",
    "statement_en": "Compute the value of $\\dfrac{3^{-1}\\cdot4^{0.5}}{3^{-2}\\cdot2^{-1}}$. Choose the correct answer: A) $\\frac{1}{12}$, B) $12$, C) $\\frac{1}{18}$, D) $18$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -53,7 +57,9 @@
    "summary_en": "Compute $\\log_8 4+\\log_8 32-\\log_8 2$",
    "statement_en": "Compute the value of $\\log_8 4+\\log_8 32-\\log_8 2$. Choose the correct answer: A) $\\log_8 34$, B) $2$, C) $3$, D) $8$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -71,7 +77,9 @@
    "summary_en": "Compute $(\\pi+1)^2-(\\pi-1)^2$",
    "statement_en": "Compute the value of $(\\pi+1)^2-(\\pi-1)^2$. Choose the correct answer: A) $0$, B) $2$, C) $4\\pi$, D) $4\\pi+2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -99,7 +107,9 @@
    "summary_en": "Smallest integer: $\\frac{7+2x}{5}\\ge\\frac{4}{15}$",
    "statement_en": "Given the inequality $\\dfrac{7+2x}{5}\\ge\\dfrac{4}{15}$. Choose the smallest integer that satisfies this inequality: A) $-4$, B) $-3$, C) $-2$, D) $-1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -117,7 +127,9 @@
    "summary_en": "Sum of solutions of $(x^2-4)(x^2-9)=0$",
    "statement_en": "The sum of all solutions of the equation $(x^2-4)(x^2-9)=0$ equals: A) $-13$, B) $0$, C) $5$, D) $13$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -151,11 +163,13 @@
    "topic_pl": "Układ równań",
    "topic_en": "System of equations",
    "difficulty": 2,
-   "summary_pl": "Piotr i Natalia: ceny czekolady i batona (uk. równań)",
-   "summary_en": "Piotr and Natalia: prices of a chocolate bar and a candy bar",
+   "summary_pl": "Piotr i Natalia: oblicz cenę $x$ czekolady (układ równań)",
+   "summary_en": "Piotr and Natalia: find the price $x$ of chocolate $\\mathcal{C}$",
    "statement_en": "In a certain shop, chocolate bar $\\mathcal{C}$ costs $x$ zloty and candy bar $\\mathcal{B}$ costs $y$ zloty. Piotr bought $8$ chocolates $\\mathcal{C}$ and $4$ candy bars $\\mathcal{B}$ and paid $82$ zloty for these purchases. Natalia bought $3$ chocolates $\\mathcal{C}$ and $9$ candy bars $\\mathcal{B}$ and paid $60$ zloty for these purchases. Compute the price $x$ of chocolate $\\mathcal{C}$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -183,7 +197,9 @@
    "summary_en": "Function $f(x)=5x+m^2+6m$ crosses $Oy$ at $(0,-9)$. Find $m$",
    "statement_en": "The linear function $f$ is given by $f(x)=5x+m^2+6m$, where $m$ is a real number. In the Cartesian coordinate system $(x,y)$ the graph of $f$ crosses the $Oy$ axis at the point $(0,-9)$. Compute $m$. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13.1",
@@ -221,7 +237,9 @@
    "summary_en": "Sequence $a_n=32\\cdot(\\frac12)^{n-5}$: third term?",
    "statement_en": "The sequence $(a_n)$ is given by $a_n=32\\cdot\\left(\\frac12\\right)^{n-5}$ for every natural number $n\\ge1$. Choose the correct value of the third term of $(a_n)$: A) $8$, B) $64$, C) $128$, D) $256$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14.2",
@@ -245,11 +263,13 @@
    "topic_pl": "Ciąg arytmetyczny",
    "topic_en": "Arithmetic sequence",
    "difficulty": 3,
-   "summary_pl": "Ciąg arytm.: $S_{10}=90$, śr.$(a_1,a_7,a_8)=10$. Oblicz $a_1,r$ (suma)",
-   "summary_en": "Arithmetic sequence: $S_{10}=90$, mean$(a_1,a_7,a_8)=10$. Find $a_1,r$ (sum)",
+   "summary_pl": "Ciąg arytm.: $S_{10}=90$, śr.$(a_1,a_7,a_8)=10$. Podaj $a_1+r$",
+   "summary_en": "Arithmetic seq.: $S_{10}=90$, mean$(a_1,a_7,a_8)=10$. Give $a_1+r$",
    "statement_en": "The arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$. The sum $S_{10}$ of its first ten consecutive terms equals $90$. The arithmetic mean of its first, seventh and eighth terms equals $10$. Compute the first term and the common difference of $(a_n)$. Show your working.",
    "confidence": "high",
-   "notes": "a1=36, r=-6, sum=30."
+   "notes": "a1=36, r=-6, sum=30.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -267,7 +287,9 @@
    "summary_en": "Geometric sequence $(x,x+4,2x+8)$, positive terms: ratio?",
    "statement_en": "The three-term sequence $(x,\\ x+4,\\ 2x+8)$, with all terms positive, is geometric. Choose the correct value of the common ratio of this sequence: A) $-4$, B) $-1$, C) $2$, D) $4$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -285,7 +307,9 @@
    "summary_en": "Acute $\\alpha$: $\\sin\\alpha+\\sin^2\\alpha=\\cos\\alpha-\\cos^2\\alpha+1$. Find $\\tan\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and satisfies $\\sin\\alpha+\\sin^2\\alpha=\\cos\\alpha-\\cos^2\\alpha+1$. Choose the correct value of $\\tan\\alpha$: A) $\\frac{1}{2}$, B) $\\frac{\\sqrt2}{2}$, C) $1$, D) $2$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -303,7 +327,9 @@
    "summary_en": "Circle, $AC$ diameter: sum of inscribed angles $\\beta+\\gamma$",
    "statement_en": "Four distinct points $A$, $B$, $C$, $D$ lie on a circle centered at $S$. Segment $AC$ is a diameter of this circle, and chord $BD$ intersects this diameter. Let $\\beta$ denote the measure of inscribed angle $DBC$, and $\\gamma$ the measure of inscribed angle $ACD$ [Figure: circle with points $A,B,C,D,S$ and angles $\\beta,\\gamma$ marked]. Choose the correct value of $\\beta+\\gamma$: A) $60°$, B) $90°$, C) $120°$, D) $135°$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -321,7 +347,9 @@
    "summary_en": "Isosceles trapezoid: $BD=39$, $\\cos\\alpha=\\frac{12}{13}$, base diff. $40$. Find $AD$",
    "statement_en": "In isosceles trapezoid $ABCD$, diagonal $BD$ has length $39$ and forms an acute angle $\\alpha$ with the longer base $AB$, where $\\cos\\alpha=\\frac{12}{13}$. The difference between the lengths of bases $AB$ and $CD$ of this trapezoid equals $40$. Compute the length of leg $AD$ of this trapezoid. Show your working.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -339,7 +367,9 @@
    "summary_en": "Isosceles right triangle, hypotenuse $8$. Perimeter?",
    "statement_en": "In an isosceles right triangle the hypotenuse has length $8$. Choose the correct perimeter of this triangle: A) $4(\\sqrt2+2)$, B) $4(\\sqrt2+4)$, C) $8(\\sqrt2+1)$, D) $8(\\sqrt2+2)$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -357,7 +387,9 @@
    "summary_en": "Triangle $ABC$ ($6,9,12$) similar to $KLM$ (perimeter $36$): shortest side?",
    "statement_en": "Triangle $ABC$ with sides $|AB|=6$, $|AC|=9$ and $|BC|=12$ is similar to triangle $KLM$ with perimeter $36$. Choose the correct length of the shortest side of triangle $KLM$: A) $4$, B) $4.5$, C) $8$, D) $8.5$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22.1",
@@ -385,7 +417,9 @@
    "summary_en": "Triangle $ABC$ in coordinates: $\\tan(\\angle CAB)$?",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, points $A=(0,-6)$, $B=(4,2)$ and $C=(0,4)$ are the vertices of a right triangle. Choose the correct value of the tangent of the acute angle $CAB$: A) $\\frac12$, B) $2$, C) $\\frac{\\sqrt5}{5}$, D) $\\frac{2\\sqrt5}{5}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23.1",
@@ -403,7 +437,9 @@
    "summary_en": "Circle $S=(-8,-6)$, $AB$ diameter, $A=(4,-15)$. Find $y_B$",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, circle $\\mathcal{O}$ has center $S=(-8,-6)$. Segment $AB$, where $A=(4,-15)$ and $B=(-20,y_B)$, is a diameter of circle $\\mathcal{O}$. Choose the correct value of coordinate $y_B$ of point $B$: A) $3$, B) $8$, C) $-\\frac12$, D) $-\\frac92$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23.2",
@@ -431,7 +467,9 @@
    "summary_en": "Lines $k,l$ parallel: find $m$",
    "statement_en": "In the Cartesian coordinate system $(x,y)$, lines $k$ and $l$ are given by $k: y=(m-3)x+(m+4)$ and $l: y=-5x+1$. Choose the value of $m$ for which lines $k$ and $l$ are parallel: A) $-5$, B) $-3$, C) $-2$, D) $1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -447,9 +485,11 @@
    "difficulty": 2,
    "summary_pl": "Graniastosłup prawidłowy sześciokątny, kraw. $3$. Objętość?",
    "summary_en": "Regular hexagonal prism, edge $3$. Volume?",
-   "statement_en": "Every edge of a regular hexagonal prism has length $3$. Choose the correct volume of this prism: A) $27$, B) $\\frac{81}{4}$, C) $\\frac{27\\sqrt3}{4}$, D) $\\frac{81\\sqrt3}{2}$.",
+   "statement_en": "Every edge of a regular hexagonal prism has length $3$. Choose the correct volume of this prism: A) $27$, B) $81$, C) $\\frac{27\\sqrt3}{4}$, D) $\\frac{81\\sqrt3}{2}$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -467,7 +507,9 @@
    "summary_en": "Regular quadrilateral pyramid: lateral edge $12$, angle $60°$. Height?",
    "statement_en": "The lateral edge of a regular quadrilateral pyramid has length $12$ and is inclined to the base plane at an angle of $60°$. Choose the correct height of this pyramid: A) $6$, B) $3\\sqrt6$, C) $6\\sqrt2$, D) $6\\sqrt3$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -495,7 +537,9 @@
    "summary_en": "Two dice rolls: $P$(sum $>10$)?",
    "statement_en": "A random experiment consists of rolling a fair six-sided die twice, with faces numbered from one to six pips. Event $A$ occurs when the sum of the rolled numbers of pips is greater than $10$. Choose the correct probability of event $A$: A) $\\frac{1}{36}$, B) $\\frac{2}{36}$, C) $\\frac{3}{36}$, D) $\\frac{4}{36}$.",
    "confidence": "high",
-   "notes": " [verified: ok: Sums 11,12: (5,6),(6,5),(6,6) = 3/36; option C matches key.]"
+   "notes": " [verified: ok: Sums 11,12: (5,6),(6,5),(6,6) = 3/36; option C matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "29",
@@ -513,7 +557,9 @@
    "summary_en": "Sleep survey (120 people): median + mode + probability (sum)",
    "statement_en": "Among 120 people surveyed, each gave one answer to the question: how many hours of sleep do you need to feel rested? A table lists, for each declared number of hours ($4,5,6,7,8,9,10$), the number of people who chose it ($6,4,14,36,38,10,12$ respectively). Complete the sentences by filling in the blanks with the correct numbers: 1. The median declared number of hours of sleep among the surveyed people equals .... 2. The mode of the declared number of hours of sleep among the surveyed people equals .... 3. The probability that a person chosen at random from the surveyed people declared $10$ hours of sleep equals ....",
    "confidence": "high",
-   "notes": "Median 7.5 + mode 8 + probability 12/120=0.1, sum=15.6. [verified: ok: Median 7.5 (60th=7, 61st=8), mode 8, P=12/120=0.1; sum 15.6 matches key.]"
+   "notes": "Median 7.5 + mode 8 + probability 12/120=0.1, sum=15.6. [verified: ok: Median 7.5 (60th=7, 61st=8), mode 8, P=12/120=0.1; sum 15.6 matches key.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "30",
@@ -531,7 +577,9 @@
    "summary_en": "Cylinder: $2r+H=10$. Radius maximizing lateral area?",
    "statement_en": "Consider all cylinders in which the sum of the base diameter and the height equals $10$. Let $P(r)$ denote the lateral surface area of such a cylinder as a function of the base radius $r$. Determine the formula and domain of function $P$ of the variable $r$, then compute the radius $r$ of the base of the cylinder, among those considered, for which the lateral surface area is greatest. Show your working.",
    "confidence": "high",
-   "notes": "Only the numeric part (r=5/2) is counted; the formula P(r) and its domain are symbolic/interval and excluded from value."
+   "notes": "Only the numeric part (r=5/2) is counted; the formula P(r) and its domain are symbolic/interval and excluded from value.",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

@@ -59,7 +59,9 @@
    "summary_en": "Two circles share exactly one point: find $a$ (sum)",
    "statement_en": "Given are circles with equations $x^2+y^2-12x-8y+43=0$ and $x^2+y^2-2ax+4y+a^2-77=0$. Find all values of parameter $a$ for which these circles have exactly one common point. Consider all cases.",
    "confidence": "high",
-   "notes": "Three discrete values of a (internal/external tangency); the √3 terms cancel giving sum=18"
+   "notes": "Three discrete values of a (internal/external tangency); the √3 terms cancel giving sum=18",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -73,11 +75,13 @@
    "topic_pl": "Wielomian - dzielenie i pierwiastki",
    "topic_en": "Polynomial - division and roots",
    "difficulty": 5,
-   "summary_pl": "Wielomian podzielny przez $(x-2)$, reszta $6$: $m$ i pierwiastki",
-   "summary_en": "Polynomial divisible by $(x-2)$, remainder 6: find $m$ and roots",
-   "statement_en": "The polynomial given by $W(x)=2x^3+(m-2)x^2-11x+2(2m-1)$ is divisible by the binomial $(x-2)$ and, when divided by the binomial $(x+1)$, gives remainder 6. Compute $m$ and the roots of polynomial $W$ for the determined value of $m$.",
+   "summary_pl": "$(x-2)|W$, reszta z $(x+1)$ to 6. Suma $m$ i wszystkich pierwiastków",
+   "summary_en": "$(x-2)|W$, remainder by $(x+1)$ is 6. Sum of $m$ and all roots",
+   "statement_en": "The polynomial given by $W(x)=2x^3+(m^3+2)x^2-11x-2(2m+1)$ is divisible by the binomial $(x-2)$ and, when divided by the binomial $(x+1)$, gives remainder 6. Compute $m$ and the roots of polynomial $W$ for the determined value of $m$.",
    "confidence": "high",
-   "notes": "m=1 (only valid value); roots of W for m=1 are 2, -3, -1/2. Sum of m and all roots = 1+2-3-0.5 = -0.5"
+   "notes": "m=1 (only valid value); roots of W for m=1 are 2, -3, -1/2. Sum of m and all roots = 1+2-3-0.5 = -0.5",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -93,9 +97,11 @@
    "difficulty": 4,
    "summary_pl": "Rozwiąż $\\cos2x=\\sin x+1$ w $\\langle0,2\\pi\\rangle$ (suma rozwiązań)",
    "summary_en": "Solve $\\cos2x=\\sin x+1$ on $\\langle0,2\\pi\\rangle$ (sum of solutions)",
-   "statement_en": "Solve the equation $\\cos(2x)-\\sin x = 1$ in the interval $\\langle0,2\\pi\\rangle$.",
+   "statement_en": "Solve the equation $\\cos 2x=\\sin x+1$ in the interval $\\langle 0,2\\pi\\rangle$.",
    "confidence": "high",
-   "notes": "Raw PDF text for this equation is garbled; reconstructed as cos2x-sinx=1 from the key's stated roots (0,π,2π,7π/6,11π/6), which are exactly the solutions of that equation. Sum=6π [verified: ok: sinx(2sinx+1)=0 on closed <0,2pi>: 0,pi,2pi,7pi/6,11pi/6, sum 6pi. Stored summary omits the interval (infinite solution set) - fix.]"
+   "notes": "Raw PDF text for this equation is garbled; reconstructed as cos2x-sinx=1 from the key's stated roots (0,π,2π,7π/6,11π/6), which are exactly the solutions of that equation. Sum=6π [verified: ok: sinx(2sinx+1)=0 on closed <0,2pi>: 0,pi,2pi,7pi/6,11pi/6, sum 6pi. Stored summary omits the interval (infinite solution set) - fix.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -113,7 +119,9 @@
    "summary_en": "Point $D$ on $AB$: $AC=16,AD=6,CD=14,BD=BC$. Perimeter?",
    "statement_en": "Point $D$ lies on side $AB$ of triangle $ABC$, and $AC=16$, $AD=6$, $CD=14$, $BD=BC$. Compute the perimeter of triangle $ABC$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "9",
@@ -139,7 +147,9 @@
    "summary_en": "3 numbers with replacement from $\\{1..9\\}$: $P(\\text{exactly two equal})$",
    "statement_en": "From the set $\\{1,2,3,4,5,6,7,8,9\\}$, three numbers are drawn in succession, with replacement. Compute the probability of the event that exactly two of the three drawn numbers are equal. Give the answer as an irreducible fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -157,7 +167,9 @@
    "summary_en": "Pyramid: base $32\\times18$, angles $\\alpha+\\beta=90°$. Surface area?",
    "statement_en": "The base of pyramid $ABCDS$ is rectangle $ABCD$ with sides $AB=32$ and $BC=18$. Lateral faces $ABS$ and $CDS$ are congruent triangles, each inclined to the base plane at angle $\\alpha$. Lateral faces $BCS$ and $ADS$ are congruent triangles, each inclined to the base plane at angle $\\beta$. Angles $\\alpha$ and $\\beta$ satisfy $\\alpha+\\beta=90°$. Compute the total surface area of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

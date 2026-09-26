@@ -41,7 +41,9 @@
    "summary_en": "Evaluate $(\\sqrt5-\\sqrt3)^2+2\\sqrt{15}$",
    "statement_en": "The number $(\\sqrt{5}-\\sqrt{3})^2+2\\sqrt{15}$ is equal to A. $2+2\\sqrt{15}$ B. 8 C. $2+4\\sqrt{15}$ D. 2",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -59,7 +61,9 @@
    "summary_en": "Julia gave away half, then 10% of the rest. Percent remaining?",
    "statement_en": "Julia spent half of her savings on a gift for Maciek. She then spent 10% of what remained on a gift for Dominika. What percentage of her savings does Julia have left? A. 25 B. 40 C. 45 D. 55",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "6",
@@ -77,7 +81,9 @@
    "summary_en": "Solve $\\frac{x-5}{7-x}=\\frac{1}{3}$",
    "statement_en": "The solution of the equation $\\dfrac{x-5}{7-x}=\\dfrac{1}{3}$ is the number A. $-11$ B. $\\dfrac{11}{2}$ C. $\\dfrac{2}{11}$ D. 11",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -109,9 +115,11 @@
    "difficulty": 2,
    "summary_pl": "Z wykresu $f$: jaka jest największa wartość funkcji?",
    "summary_en": "From the graph of $f$: what is the greatest value of the function?",
-   "statement_en": "[Figure: graph of a function f, referenced from a preceding task; the graph itself is not visible in the extracted crop] The greatest value of the function $f$ is A. 3 B. 0 C. $-3$ D. 8",
+   "statement_en": "[Figure: graph of the function $f$ (shared with task 8)] The greatest value of the function $f$ is A. $3$ B. $0$ C. $-3$ D. $8$",
    "confidence": "high",
-   "notes": " [verified: ok: Graph max 3 (plateau on [-1,2] and endpoint (8,3)); key A=3.]"
+   "notes": " [verified: ok: Graph max 3 (plateau on [-1,2] and endpoint (8,3)); key A=3.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "10",
@@ -153,7 +161,9 @@
    "summary_en": "Sum of 10 terms of an arithm. seq. = 35, $a_1=3$. Find $a_{10}$",
    "statement_en": "The sum of the first ten terms of an arithmetic sequence $(a_n)$ equals 35. The first term $a_1$ of this sequence equals 3. Then A. $a_{10}=\\dfrac{7}{2}$ B. $a_{10}=4$ C. $a_{10}=\\dfrac{32}{5}$ D. $a_{10}=32$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -171,7 +181,9 @@
    "summary_en": "$a_n=-\\frac{3^n}{4}$. Find the ratio of the sequence",
    "statement_en": "A geometric sequence $(a_n)$ is given by the formula $a_n=-\\dfrac{3^n}{4}$ for $n\\ge 1$. The ratio of this sequence equals A. $-3$ B. $-\\dfrac{3}{4}$ C. $\\dfrac{3}{4}$ D. 3",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -189,7 +201,9 @@
    "summary_en": "Acute angle, $3\\tan\\alpha=2$. Find $\\sin\\alpha+\\cos\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $3\\tan\\alpha=2$. The value of $\\sin\\alpha+\\cos\\alpha$ equals A. 1 B. $\\dfrac{5\\sqrt{13}}{26}$ C. $\\dfrac{5\\sqrt{13}}{13}$ D. $\\sqrt{5}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -207,7 +221,9 @@
    "summary_en": "Circumradius of an equilateral triangle is 8. Find its height",
    "statement_en": "The radius of the circle circumscribed on an equilateral triangle equals 8. The height of this triangle equals A. $4\\sqrt{3}$ B. $8\\sqrt{3}$ C. 12 D. 6",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -221,11 +237,13 @@
    "topic_pl": "Kąt środkowy i wpisany",
    "topic_en": "Central and inscribed angle",
    "difficulty": 2,
-   "summary_pl": "Okrąg, kąty przy $C$: $40°,20°$. Kąt środkowy $AOB$?",
-   "summary_en": "Circle, angles at $C$: $40°,20°$. Central angle $AOB$?",
+   "summary_pl": "Okrąg o środku $O$, $\\angle OAC=40°$, $\\angle OBC=20°$. Kąt $AOB$?",
+   "summary_en": "Centre $O$; $\\angle OAC=40°$, $\\angle OBC=20°$. Find $\\angle AOB$",
    "statement_en": "Points $A$, $B$ and $C$ lie on a circle with center $O$ [Figure: circle with triangle $ABC$ and segments $OA$, $OB$, $OC$ drawn; the angle between $AC$ and $AO$ at vertex $A$ is 40°, and the angle between $BC$ and $BO$ at vertex $B$ is 20°]. The marked convex central angle $AOB$ has measure A. $60°$ B. $100°$ C. $120°$ D. $140°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "18",
@@ -243,7 +261,9 @@
    "summary_en": "$BC\\parallel DE$, $AE=4,DE=3$, $D$ midpoint of $AB$. Find $BC$",
    "statement_en": "Segments $BC$ and $DE$ are parallel, and $|AE|=4$, $|DE|=3$ [Figure: triangle $ABC$ with $E$ on side $AC$ and $D$ on side $AB$, segment $DE$ drawn parallel to $BC$]. Point $D$ is the midpoint of segment $AB$. The length of segment $BC$ equals A. 4 B. 6 C. 8 D. 16",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -277,7 +297,9 @@
    "summary_en": "$A=(13,-12)$, $C=(15,8)$ opposite square vertices. Center? (sum of coords)",
    "statement_en": "Points $A=(13,-12)$ and $C=(15,8)$ are opposite vertices of a square $ABCD$. The diagonals of this square intersect at the point A. $S=(2,-20)$ B. $S=(14,10)$ C. $S=(14,-2)$ D. $S=(28,-4)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -295,7 +317,9 @@
    "summary_en": "Cylinder: axial section is a square of side 4. Total surface area?",
    "statement_en": "The total surface area of a cylinder whose axial cross-section is a square with side length 4 equals A. $256\\pi$ B. $128\\pi$ C. $48\\pi$ D. $24\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -313,7 +337,9 @@
    "summary_en": "Pyramid & prism: equal bases, heights. $V_{pyr}=81\\sqrt3$. Find $V_{prism}$",
    "statement_en": "A pyramid and a prism have equal base areas and equal heights. The volume of the pyramid equals $81\\sqrt{3}$. The volume of the prism equals A. 27 B. $27\\sqrt{3}$ C. 243 D. $243\\sqrt{3}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -331,7 +357,9 @@
    "summary_en": "3 coin tosses. $P$(at least one tails)?",
    "statement_en": "A symmetric coin is tossed three times. The probability of getting at least one tails equals A. $\\dfrac{7}{8}$ B. $\\dfrac{1}{2}$ C. $\\dfrac{1}{4}$ D. $\\dfrac{1}{8}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -349,7 +377,9 @@
    "summary_en": "Mean of numbers with $x$ equals 7. Find the median",
    "statement_en": "The arithmetic mean of the numbers $x, 13, 7, 5, 5, 3, 2, 11$ equals 7. The median of this set of numbers equals A. 6 B. 7 C. 10 D. 5",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -375,7 +405,9 @@
    "summary_en": "Solve $x^3-6x^2-11x+66=0$ (sum of solutions)",
    "statement_en": "Solve the equation $x^3-6x^2-11x+66=0$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -401,7 +433,9 @@
    "summary_en": "Acute angle: $\\frac{4}{\\sin^2\\alpha}+\\frac{4}{\\cos^2\\alpha}=25$. Find $\\sin\\alpha\\cos\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\dfrac{4}{\\sin^2\\alpha}+\\dfrac{4}{\\cos^2\\alpha}=25$. Compute the value of $\\sin\\alpha\\cdot\\cos\\alpha$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -427,7 +461,9 @@
    "summary_en": "Arithm. seq.: $a_5=22$, $a_{10}=47$. Find $a_1$ and $r$ (sum)",
    "statement_en": "An arithmetic sequence $(a_n)$ defined for $n\\ge1$ satisfies $a_5=22$ and $a_{10}=47$. Compute the first term $a_1$ and the common difference $r$ of this sequence.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -445,7 +481,9 @@
    "summary_en": "450km route: Danuta 75min longer, 18km/h slower. Speeds (sum)",
    "statement_en": "Cities A and B are 450 km apart. Mrs. Danuta covered this route by car in a time 75 minutes longer than Mrs. Lidia. The value of the average speed at which Mrs. Danuta drove over the whole route was 18 km/h less than the value of the average speed at which Mrs. Lidia drove. Compute the average speeds: the speed at which Mrs. Danuta drove from A to B, and the speed at which Mrs. Lidia drove from A to B.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -463,7 +501,9 @@
    "summary_en": "Regular pyramid: slant height=22, $\\tan=\\frac{4\\sqrt6}{5}$. Find volume",
    "statement_en": "The base of a regular pyramid is a square. The height of the lateral face of this pyramid equals 22, and the tangent of the angle of inclination of the lateral face to the base plane equals $\\dfrac{4\\sqrt{6}}{5}$ [Figure: regular quadrilateral pyramid $SABCD$ with base center $O$]. Compute the volume of this pyramid.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "34",
@@ -477,11 +517,13 @@
    "topic_pl": "Prawdopodobieństwo klasyczne",
    "topic_en": "Classical probability",
    "difficulty": 3,
-   "summary_pl": "Losowa liczba 2-cyfr. z cyfr 1-5. $P$($>20$ i cyfra dzies.$<$jednosci)",
+   "summary_pl": "Losowa liczba 2-cyfr. z cyfr 1-5. $P$($>20$ i cyfra dzies.$<$jedności)",
    "summary_en": "Random 2-digit number from digits 1-5. $P$($>20$ & tens digit$<$units)",
    "statement_en": "Set $M$ consists of all two-digit natural numbers whose digits are two different digits chosen from $1, 2, 3, 4, 5$. One number is drawn from $M$, with each number equally likely to be drawn. Compute the probability of drawing a number greater than 20 in which the tens digit is smaller than the units digit.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

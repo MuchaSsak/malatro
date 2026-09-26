@@ -25,7 +25,9 @@
    "summary_en": "Compute $abc$ for $a=-\\frac{1}{27}$, $b=\\log_{1/4}64$, $c=\\log_{1/3}27$",
    "statement_en": "Given are the numbers $a=-\\frac{1}{27}$, $b=\\log_{1/4}64$, $c=\\log_{1/3}27$. The product $abc$ equals: A. $-9$ B. $-\\frac13$ C. $\\frac13$ D. $3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "3",
@@ -43,7 +45,9 @@
    "summary_en": "Deposit 1000 PLN, 4% annual rate, 19% tax on interest. Amount after a year",
    "statement_en": "An amount of 1000 PLN was deposited in a bank for a one-year term with 4% annual interest. After the term ends, a 19% tax is deducted from the accrued interest. The maximum amount that can be withdrawn from the bank after a year equals: A. $1000\\cdot\\left(1-\\frac{81}{100}\\cdot\\frac{4}{100}\\right)$ B. $1000\\cdot\\left(1+\\frac{19}{100}\\cdot\\frac{4}{100}\\right)$ C. $1000\\cdot\\left(1+\\frac{81}{100}\\cdot\\frac{4}{100}\\right)$ D. $1000\\cdot\\left(1-\\frac{19}{100}\\cdot\\frac{4}{100}\\right)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -61,7 +65,9 @@
    "summary_en": "For which $m$ does $\\frac{m}{5-\\sqrt5}=\\frac{5+\\sqrt5}{5}$ hold?",
    "statement_en": "The equality $\\dfrac{m}{5-\\sqrt5}=\\dfrac{5+\\sqrt5}{5}$ holds for: A. $m=5$ B. $m=4$ C. $m=1$ D. $m=-5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "5",
@@ -87,7 +93,9 @@
    "summary_en": "Sum of the roots of $(x+3)(x+7)(x-11)=0$ (sum of solutions)",
    "statement_en": "The sum of all roots of the equation $(x+3)(x+7)(x-11)=0$ equals: A. $-1$ B. $21$ C. $1$ D. $-21$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "7",
@@ -105,7 +113,9 @@
    "summary_en": "Solve $\\frac{x-1}{x+1}=x-1$ (sum of solutions)",
    "statement_en": "The equation $\\dfrac{x-1}{x+1}=x-1$: A. has exactly one solution: $x=1$. B. has exactly one solution: $x=0$. C. has exactly one solution: $x=-1$. D. has exactly two solutions: $x=0$, $x=1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "8",
@@ -131,7 +141,9 @@
    "summary_en": "$f(x)=(m-1)x+3$ passes through $S=(5,-2)$. Find $m$",
    "statement_en": "The graph of the linear function $f(x)=(m-1)x+3$ passes through the point $S=(5,-2)$. Then: A. $m=-1$ B. $m=0$ C. $m=1$ D. $m=2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "10",
@@ -149,7 +161,9 @@
    "summary_en": "$f(x)=2x+b$ and $g(x)=-3x+4$ share the same zero. Find $b$",
    "statement_en": "The linear function $f(x)=2x+b$ has the same zero as the linear function $g(x)=-3x+4$. It follows that: A. $b=4$ B. $b=-\\frac32$ C. $b=-\\frac83$ D. $b=\\frac43$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "11",
@@ -167,7 +181,9 @@
    "summary_en": "$f(x)=x^2+x+c$, $f(3)=4$. Find $f(1)$",
    "statement_en": "The quadratic function is given by $f(x)=x^2+x+c$. If $f(3)=4$, then: A. $f(1)=-6$ B. $f(1)=0$ C. $f(1)=6$ D. $f(1)=18$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -185,7 +201,9 @@
    "summary_en": "How many integers satisfy $\\frac{2}{7}<\\frac{x}{14}<\\frac{4}{3}$?",
    "statement_en": "How many integers $x$ satisfy the inequality $\\dfrac{2}{7}<\\dfrac{x}{14}<\\dfrac{4}{3}$? A. 14 B. 15 C. 16 D. 17",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -203,7 +221,9 @@
    "summary_en": "Increasing geometric sequence: $a_4=3a_1$. Find the ratio $q$",
    "statement_en": "In an increasing geometric sequence $(a_n)$, defined for $n\\ge1$, the condition $a_4=3a_1$ holds. The ratio $q$ of this sequence equals: A. $q=\\frac13$ B. $q=\\frac{1}{\\sqrt[3]{3}}$ C. $q=\\sqrt[3]{3}$ D. $q=3$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -221,7 +241,9 @@
    "summary_en": "Tangent of angle $\\alpha$ of the line through $O$ and $P=(-4,5)$",
    "statement_en": "The figure shows a line through the origin and the point $P=(-4,5)$, forming angle $\\alpha$ with the positive $x$-axis. The tangent of angle $\\alpha$ shown in the figure equals: A. $-\\frac{\\sqrt3}{3}$ B. $-\\frac45$ C. $-1$ D. $-\\frac54$ [Figure: line through the origin and point P=(-4,5), angle alpha marked at the origin between the line and the positive x-axis]",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "15",
@@ -239,7 +261,9 @@
    "summary_en": "$0^\\circ<\\alpha<90^\\circ$, $\\tan\\alpha=2\\sin\\alpha$. Find $\\cos\\alpha$",
    "statement_en": "If $0^\\circ<\\alpha<90^\\circ$ and $\\tan\\alpha=2\\sin\\alpha$, then: A. $\\cos\\alpha=\\frac12$ B. $\\cos\\alpha=\\frac{\\sqrt2}{2}$ C. $\\cos\\alpha=\\frac{\\sqrt3}{2}$ D. $\\cos\\alpha=1$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -257,7 +281,9 @@
    "summary_en": "Inscribed angle is $20^\\circ$ less than the central angle. Find the inscribed angle",
    "statement_en": "The measure of an inscribed angle in a circle is $20^\\circ$ less than the measure of the central angle subtended by the same arc. It follows that the inscribed angle measures: A. $5^\\circ$ B. $10^\\circ$ C. $20^\\circ$ D. $30^\\circ$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "17",
@@ -283,7 +309,9 @@
    "summary_en": "Line $y=m^2x+3$ parallel to $y=(4m-4)x-3$. Find $m$",
    "statement_en": "The line $l$ with equation $y=m^2x+3$ is parallel to the line $k$ with equation $y=(4m-4)x-3$. Then: A. $m=2$ B. $m=-2$ C. $m=-2-2\\sqrt2$ D. $m=2+2\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "19",
@@ -301,7 +329,9 @@
    "summary_en": "Lines $y=2mx-m^2-1$ and $y=4m^2x+m^2+1$ perpendicular. Find $m$",
    "statement_en": "The lines with equations $y=2mx-m^2-1$ and $y=4m^2x+m^2+1$ are perpendicular for: A. $m=-\\frac12$ B. $m=\\frac12$ C. $m=1$ D. $m=2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -315,11 +345,13 @@
    "topic_pl": "Symetria względem punktu",
    "topic_en": "Point symmetry",
    "difficulty": 2,
-   "summary_pl": "$M=(-2,1)$, $N=(-1,3)$, $K$ środek $MN$. Obraz $K$ w symetrii środkowej (suma)",
-   "summary_en": "$M=(-2,1)$, $N=(-1,3)$, $K$ midpoint. Image of $K$ under point symmetry (sum)",
+   "summary_pl": "$K$ środek $M=(-2,1)$, $N=(-1,3)$. Suma współrz. obrazu $K$ wzgl. $O$",
+   "summary_en": "$K$ midpoint of $M=(-2,1)$,$N=(-1,3)$. Coord sum of $K$ mirrored in O",
    "statement_en": "Given are the points $M=(-2,1)$ and $N=(-1,3)$. Point $K$ is the midpoint of segment $MN$. The image of point $K$ under symmetry with respect to the origin of the coordinate system is the point: A. $K'=\\left(2,-\\frac32\\right)$ B. $K'=\\left(2,\\frac32\\right)$ C. $K'=\\left(\\frac32,2\\right)$ D. $K'=\\left(\\frac32,-2\\right)$",
    "confidence": "high",
-   "notes": " [verified: ok: K=(-3/2,2), image (3/2,-2) = option D (key Wersja I D); coordinate sum -1/2.]"
+   "notes": " [verified: ok: K=(-3/2,2), image (3/2,-2) = option D (key Wersja I D); coordinate sum -1/2.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -334,7 +366,7 @@
    "include": true,
    "exclude_reason": null,
    "answer_kind": "single",
-   "value": 48.97258286096142,
+   "value": 48.97258283432388,
    "value_tex": "9\\pi\\sqrt{3}",
    "answer_tex": "9\\pi\\sqrt{3}",
    "category": "stereometria",
@@ -345,7 +377,9 @@
    "summary_en": "Axial cross-section of a cone is an equilateral triangle with side 6. Find the volume",
    "statement_en": "The axial cross-section of a cone is an equilateral triangle with side length 6. The volume of this cone equals: A. $27\\pi\\sqrt3$ B. $9\\pi\\sqrt3$ C. $18\\pi$ D. $6\\pi$",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] B: r=3,h=3sqrt3, V=9pi sqrt3; stored float off by 3e-8, exact value shipped",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -363,7 +397,9 @@
    "summary_en": "Regular triangular prism, every edge $=8$. Find the total surface area",
    "statement_en": "Every edge of a regular triangular prism has length 8. The total surface area of this prism equals: A. $\\frac{8^2}{3}\\left(\\frac{\\sqrt3}{2}+3\\right)$ B. $8^2\\cdot\\sqrt3$ C. $\\frac{8^2\\sqrt6}{3}$ D. $8^2\\left(\\frac{\\sqrt3}{2}+3\\right)$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -381,7 +417,9 @@
    "summary_en": "Mean of $\\{2,4,7,8,9\\}$ equals mean of $\\{2,4,7,8,9,x\\}$. Find $x$",
    "statement_en": "The arithmetic mean of the data set: 2, 4, 7, 8, 9 is the same as the arithmetic mean of the data set: 2, 4, 7, 8, 9, $x$. It follows that: A. $x=0$ B. $x=3$ C. $x=5$ D. $x=6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -399,7 +437,9 @@
    "summary_en": "3 containers with red/blue balls. $P$(exactly 2 red out of 3)",
    "statement_en": "Each of three containers holds a pair of balls, one red and one blue. One ball is drawn from each container. Let $p$ denote the probability that exactly two of the three drawn balls are red. Then: A. $p=\\frac14$ B. $p=\\frac38$ C. $p=\\frac12$ D. $p=\\frac23$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "26",
@@ -441,7 +481,9 @@
    "summary_en": "Find min and max of $f(x)=x^2-6x+3$ on $[0,4]$ (min + max)",
    "statement_en": "Find the smallest and the largest value of the quadratic function $f(x)=x^2-6x+3$ on the interval $[0,4]$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -459,7 +501,9 @@
    "summary_en": "$A=(-43,-12)$, $B=(50,19)$. Line $AB$ crosses $Ox$ at $P$. Find $x_P$",
    "statement_en": "In a coordinate system, points $A=(-43,-12)$ and $B=(50,19)$ are given. Line $AB$ crosses the $Ox$ axis at point $P$. Calculate the first coordinate of point $P$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "31",
@@ -477,14 +521,16 @@
    "summary_en": "Fraction: adding half the numerator gives $4/7$, adding 1 gives $1/2$. Find the fraction",
    "statement_en": "If we add half of the numerator to both the numerator and denominator of an irreducible positive fraction, we get $\\frac47$; and if we add 1 to both the numerator and denominator, we get $\\frac12$. Find this fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
    "include": true,
    "exclude_reason": null,
    "answer_kind": "single",
-   "value": 687.0964079512685,
+   "value": 687.0580079512686,
    "value_tex": "144+384\\sqrt{2}",
    "answer_tex": "P_c=48\\left(3+8\\sqrt2\\right)",
    "category": "stereometria",
@@ -495,7 +541,9 @@
    "summary_en": "Prism: height 16, $\\cos$ of diagonal's angle $=3/5$. Find total surface area",
    "statement_en": "The height of a regular quadrilateral prism equals 16. The diagonal of the prism is inclined to the base plane at an angle whose cosine equals $\\frac35$. Calculate the total surface area of this prism.",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify fix] tan=4/3, base diag 12, a=6sqrt2, Pc=2a^2+4*16a=144+384sqrt2=687.058; key same. Stored decimal 687.0964 wrong.",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -513,7 +561,9 @@
    "summary_en": "115 people, 76 discount, 41 normal, 27 both. $P$(no ticket)",
    "statement_en": "Among 115 people surveyed about purchases at a certain kiosk, 76 bought discounted tram tickets and 41 bought normal tram tickets; 27 people bought both kinds. Calculate the probability that a randomly chosen surveyed person bought no ticket at all. Give the answer as an irreducible fraction.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",
@@ -531,7 +581,9 @@
    "summary_en": "Arithmetic sequence: $S_{11}=187$, mean of $a_1,a_3,a_9=12$; $a_1,a_3,a_k$ geometric. Find $k$",
    "statement_en": "In an infinite arithmetic sequence $(a_n)$, defined for $n\\ge1$, the sum of the first eleven terms equals 187. The arithmetic mean of the first, third, and ninth terms of this sequence equals 12. The terms $a_1$, $a_3$, $a_k$ of the sequence $(a_n)$, in this order, form a new three-term geometric sequence $(b_n)$. Calculate $k$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }

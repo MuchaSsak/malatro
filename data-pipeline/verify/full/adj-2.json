@@ -1,0 +1,17 @@
+[
+ {"exam": "f2015-R-2025-czerwiec", "task": "4", "verdict": "fix", "solved_value": -1, "value": -1,
+  "answer_tex": "-1", "value_tex": "-1", "answer_kind": "single", "exclude_reason": null,
+  "summary_fix": {"pl": "Oblicz $\\lim\\limits_{x\\to-\\infty}\\frac{\\sqrt{x^2+1}}{x}$", "en": "Compute $\\lim\\limits_{x\\to-\\infty}\\frac{\\sqrt{x^2+1}}{x}$"},
+  "reason": "Crop: lim_{x->-inf} sqrt(x^2+1)/x = -1 (sympy), key C = (-1). Stored 57 belongs to a different task (pairs from 1..13)."},
+ {"exam": "f2005-P-2014-maj", "task": "27", "verdict": "fix", "solved_value": -2, "value": -2,
+  "answer_tex": "x=-2 \\lor x=-\\frac{2}{3} \\lor x=\\frac{2}{3}", "value_tex": "-2", "answer_kind": "sum", "exclude_reason": null,
+  "summary_fix": {"pl": "Rozwiąż $9x^3+18x^2-4x-8=0$ (suma rozwiązań)", "en": "Solve $9x^3+18x^2-4x-8=0$ (sum of solutions)"},
+  "reason": "Crop has +18x^2: (x+2)(9x^2-4)=0, roots -2, -2/3, 2/3 (key agrees), sum -2. Stored used -18x^2 (roots 2, +-2/3)."},
+ {"exam": "f2005-R-2020-maj", "task": "5", "verdict": "fix", "solved_value": 3, "value": 3,
+  "answer_tex": "a_1=3", "value_tex": "3", "answer_kind": "single", "exclude_reason": null, "summary_fix": null,
+  "reason": "2q^2-3q+1=0, q=1/2 (q=1 gives constant seq), a1*7/4=21/4 -> a1=3; key a1=3. Stored 3/4 is a3."},
+ {"exam": "f2015-P-2020-sierpien", "task": "34", "verdict": "fix", "solved_value": 1.8, "value": 1.8,
+  "answer_tex": "Q=\\left(-\\frac{4}{5},\\frac{13}{5}\\right)", "value_tex": "\\frac{9}{5}", "answer_kind": "sum", "exclude_reason": null,
+  "summary_fix": {"pl": "$y=-2x+7$ symetralna $PQ$, $P=(4,5)$. Współrzędne $Q$ (suma)", "en": "$y=-2x+7$ perp. bisector of $PQ$, $P=(4,5)$. Find $Q$ (sum of coords)"},
+  "reason": "S=(8/5,19/5), Q=2S-P=(-4/5,13/5); key Q=(-4/5,13/5) (minus lost in text). Sum 9/5=1.8; stored 3.4 used x=+4/5."}
+]

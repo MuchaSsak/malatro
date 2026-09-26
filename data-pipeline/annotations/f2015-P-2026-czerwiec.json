@@ -17,12 +17,14 @@
    "summary_en": "Compute $\\frac{\\sqrt[3]{-64}+\\sqrt[3]{27}}{\\sqrt[5]{-32}}$",
    "statement_en": "The number $\\dfrac{\\sqrt[3]{-64}+\\sqrt[3]{27}}{\\sqrt[5]{-32}}$ is equal to\nA. $-2$\nB. $-\\frac12$\nC. $\\frac12$\nD. $2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "2",
-   "include": true,
-   "exclude_reason": null,
+   "include": false,
+   "exclude_reason": "ambiguous",
    "answer_kind": "single",
    "value": 22876792454961,
    "value_tex": "9^{14}",
@@ -35,7 +37,7 @@
    "summary_en": "The number $\\dfrac{9^4}{3^{-20}}$ written as a power of $9$",
    "statement_en": "The number $\\dfrac{9^4}{3^{-20}}$ is equal to\nA. $9^{-24}$\nB. $9^{-6}$\nC. $9^{14}$\nD. $9^{56}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "[full-verify] C: 3^8*3^20=3^28=9^14; key C. Value 9^14=22876792454961 impractical; player would type exponent 14 -> ambiguous."
   },
   {
    "task": "3",
@@ -53,7 +55,9 @@
    "summary_en": "Compute $\\log_5\\sqrt[3]{25}$",
    "statement_en": "The number $\\log_5\\sqrt[3]{25}$ is equal to\nA. $\\frac16$\nB. $\\frac23$\nC. $\\frac32$\nD. $6$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "4",
@@ -95,7 +99,9 @@
    "summary_en": "How many zeros does the graphed function $f$ have?",
    "statement_en": "The figure shows the graph of a function $f$: a piecewise linear graph with domain $\\langle-5,4)$, going from the point $(-5,-2)$ up to an open endpoint at $(-2,2)$, then from the filled point $(-2,0)$ up to $(2,3)$, then down to an open endpoint at $(4,-3)$. The function $f$ has exactly\nA. one zero.\nB. two zeros.\nC. three zeros.\nD. four zeros.",
    "confidence": "high",
-   "notes": " [verified: ok: Zeros at x=-3.5, x=-2 (filled dot), x=3 -> three. Key C matches.]"
+   "notes": " [verified: ok: Zeros at x=-3.5, x=-2 (filled dot), x=3 -> three. Key C matches.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "8",
@@ -113,7 +119,9 @@
    "summary_en": "At which argument does the graphed $f$ attain its max?",
    "statement_en": "For the piecewise linear function $f$ shown in the figure (see the previous task: from $(-5,-2)$ up to an open point at $(-2,2)$, then from $(-2,0)$ up to $(2,3)$, then down to an open point at $(4,-3)$), function $f$ attains its greatest value for the argument\nA. $-2$\nB. $2$\nC. $3$\nD. $4$",
    "confidence": "high",
-   "notes": " [verified: ok: Max value 3 attained at x=2 (open dot at (-2,2) is lower). Key B matches.]"
+   "notes": " [verified: ok: Max value 3 attained at x=2 (open dot at (-2,2) is lower). Key B matches.]",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "9",
@@ -147,7 +155,9 @@
    "summary_en": "$f(x)=2x^2-kx+6$, $f(2)=0$. Find $k$",
    "statement_en": "The quadratic function $f$ is given by $f(x)=2x^2-kx+6$, where $k$ is a real number. The number $2$ is a zero of function $f$. The number $k$ is equal to\nA. $-11$\nB. $-7$\nC. $7$\nD. $11$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "12",
@@ -165,7 +175,9 @@
    "summary_en": "Arithmetic seq.: $a_1=2$, $a_3-a_2=-6$. Find $a_5$",
    "statement_en": "The arithmetic sequence $(a_n)$ is defined for every natural number $n\\ge1$. In this sequence $a_1=2$ and $a_3-a_2=-6$. The fifth term of the sequence $(a_n)$ is equal to\nA. $-4$\nB. $-16$\nC. $-22$\nD. $-28$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "13",
@@ -183,7 +195,9 @@
    "summary_en": "Geometric seq. $(a_1,a_2,2,a_4,a_5)$. Find the product of terms",
    "statement_en": "The five-term sequence $(a_1,a_2,2,a_4,a_5)$ is geometric. The product $a_1\\cdot a_2\\cdot 2\\cdot a_4\\cdot a_5$ is equal to\nA. $2$\nB. $16$\nC. $32$\nD. $64$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "14",
@@ -201,7 +215,9 @@
    "summary_en": "Right triangle: $\\sin\\alpha=\\frac14$, hypotenuse$=8$. Shorter leg?",
    "statement_en": "A right triangle has an angle $\\alpha$ such that $\\sin\\alpha=\\frac14$. The hypotenuse of this triangle has length $8$. The shorter leg of this triangle has length\nA. $1$\nB. $2$\nC. $4$\nD. $2\\sqrt{15}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "15",
@@ -219,7 +235,9 @@
    "summary_en": "Acute angle $\\alpha$: $\\sin\\alpha=\\frac35$. Find $\\tan\\alpha$",
    "statement_en": "The angle $\\alpha$ is acute and $\\sin\\alpha=\\frac35$. The tangent of angle $\\alpha$ is equal to\nA. $\\frac34$\nB. $\\frac43$\nC. $\\frac45$\nD. $\\frac54$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "16",
@@ -237,7 +255,9 @@
    "summary_en": "Circle, $BD$ diameter, $\\angle ABD=18°$. Find $\\angle BCA$",
    "statement_en": "Points $A$, $B$, $C$ and $D$ lie on a circle centered at $S$. Segment $BD$ is a diameter of this circle, and $|\\angle ABD|=18°$. Point $D$ lies on the shorter arc $CA$ (see figure). The measure of the acute angle $BCA$ is equal to\nA. $36°$\nB. $60°$\nC. $72°$\nD. $81°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "17",
@@ -251,11 +271,13 @@
    "topic_pl": "Trójkąt równoboczny i okrąg opisany",
    "topic_en": "Equilateral triangle and circumscribed circle",
    "difficulty": 2,
-   "summary_pl": "Okrąg opisany na tr. równob. o dł. $16$. Oblicz wysokość",
-   "summary_en": "Circle circumscribed on an equil. triangle, length $16$. Find the height",
+   "summary_pl": "Długość okręgu opisanego na tr. równob. to $16$. Oblicz wysokość",
+   "summary_en": "Circumcircle of an equil. triangle has length $16$. Find the height",
    "statement_en": "The circumference of the circle circumscribed on an equilateral triangle is equal to $16$. The height of this triangle is equal to\nA. $6$\nB. $\\dfrac{6}{\\sqrt{\\pi}}$\nC. $12$\nD. $\\dfrac{12}{\\pi}$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "18",
@@ -273,7 +295,9 @@
    "summary_en": "$k\\parallel l$ cut an angle at $A$; $AB=6,BC=4,BD=2$. Find $DE$",
    "statement_en": "The sides of an angle with vertex at point $A$ are cut by two parallel lines $k$ and $l$. Line $k$ meets the sides of the angle at points $B$ and $C$; line $l$ meets them at points $D$ and $E$. Points $B$ and $D$ lie on one side of the angle, and points $C$ and $E$ lie on the other side. Moreover $|AB|=6$, $|BC|=4$ and $|BD|=2$ (see figure). The length of segment $DE$ is equal to\nA. $\\frac83$\nB. $\\frac{16}{3}$\nC. $6$\nD. $8$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "19",
@@ -291,7 +315,9 @@
    "summary_en": "Square $ABCD$: $A=(-3,1)$, $B=(1,-3)$. Find the perimeter",
    "statement_en": "In the coordinate plane $(x,y)$, points $A=(-3,1)$ and $B=(1,-3)$ are consecutive vertices of square $ABCD$. The perimeter of square $ABCD$ is equal to\nA. $4\\sqrt2$\nB. $16\\sqrt2$\nC. $16$\nD. $32$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "20",
@@ -309,7 +335,9 @@
    "summary_en": "$A=(-1,-4)$, $B=(2,y_B)$ on a line of slope $3$. Find $y_B$",
    "statement_en": "In the coordinate plane $(x,y)$, points $A=(-1,-4)$ and $B=(2,y_B)$ lie on a line $l$. The slope of line $l$ is equal to $3$. The number $y_B$ is equal to\nA. $-3$\nB. $5$\nC. $7$\nD. $-13$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "21",
@@ -327,7 +355,9 @@
    "summary_en": "Regular quadrilateral pyramid, all edges $12$. Find the height",
    "statement_en": "Every edge of a regular quadrilateral pyramid has length $12$. The height of this pyramid is equal to\nA. $2\\sqrt3$\nB. $3\\sqrt2$\nC. $2\\sqrt6$\nD. $6\\sqrt2$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "22",
@@ -345,7 +375,9 @@
    "summary_en": "Cone: $r=1$, slant height$=3$. Central angle when unrolled?",
    "statement_en": "The slant height of a cone with base radius $1$ has length $3$. When the lateral surface of this cone is unrolled onto a plane, it forms a circular sector with a central angle of measure\nA. $60°$\nB. $90°$\nC. $120°$\nD. $150°$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "23",
@@ -363,7 +395,9 @@
    "summary_en": "How many 4-digit even numbers have thousands digit = units digit?",
    "statement_en": "The number of all four-digit even natural numbers in which, in decimal notation, the thousands digit and the units digit are equal, is\nA. $400$\nB. $500$\nC. $900$\nD. $1600$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "24",
@@ -381,7 +415,9 @@
    "summary_en": "School 1: $3\\times$ more students, avg $9$; school 2: avg $13$. Combined avg?",
    "statement_en": "In a certain town there are two schools. The first school has three times as many students as the second. The average age of students in the first school is $9$ years, and the average age of students in the second school is $13$ years. The average age of all students of both schools, expressed in years, is equal to\nA. $10$\nB. $10.5$\nC. $11$\nD. $11.5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "25",
@@ -399,7 +435,9 @@
    "summary_en": "Class grade chart - find the median test result",
    "statement_en": "The chart shows the results of a math test in a certain graduating class: the horizontal axis lists the grades (1 to 6) obtained by the students, and the vertical axis shows the number of students who received each grade (grade 1: 2 students, grade 2: 1, grade 3: 6, grade 4: 5, grade 5: 7, grade 6: 5). The median of the grades obtained on this test by the students of this class is equal to\nA. $3$\nB. $3.5$\nC. $4$\nD. $5$",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "26",
@@ -417,7 +455,9 @@
    "summary_en": "Solve $(27x^3+1)(x^2-4)=0$ (sum of solutions)",
    "statement_en": "Solve the equation $(27x^3+1)(x^2-4)=0$ in the set of real numbers.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "27",
@@ -435,7 +475,9 @@
    "summary_en": "Solve $\\frac{3x+4}{x-1}=\\frac{x+3}{3x}$ (sum of solutions)",
    "statement_en": "Solve the equation $\\dfrac{3x+4}{x-1}=\\dfrac{x+3}{3x}$, where $x\\ne0$ and $x\\ne1$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "28",
@@ -461,7 +503,9 @@
    "summary_en": "Arithmetic seq. $(7,a_2,a_3,a_4)$, sum$=54$. Find $a_2$",
    "statement_en": "The four-term sequence $(7, a_2, a_3, a_4)$ is arithmetic. The sum of all the terms of this sequence is equal to $54$. Compute the second term of this sequence.",
    "confidence": "high",
-   "notes": " [verified: ok: 28+6r=54 -> r=13/3, a2=34/3. Matches key.]"
+   "notes": " [verified: ok: 28+6r=54 -> r=13/3, a2=34/3. Matches key.]",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "30",
@@ -487,7 +531,9 @@
    "summary_en": "Draw 2 from $\\{2,...,7\\}$ w/o replacement. $P$(1st even, product$>16$)",
    "statement_en": "A six-element set $K=\\{2,3,4,5,6,7\\}$ is given. From set $K$ we draw, without replacement, two numbers one at a time, and record them in the order drawn. Compute the probability of event $A$: the number drawn first is even, and at the same time the product of both drawn numbers is greater than $16$.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "32",
@@ -505,7 +551,9 @@
    "summary_en": "Parallelogram $ABCD$: $D=(6,19)$, sides given. Distance of $S$ from origin?",
    "statement_en": "In the coordinate plane $(x,y)$, a parallelogram $ABCD$ is given, with $D=(6,19)$. Side $AB$ of this parallelogram lies on the line $y=\\frac12x+9$, and side $AD$ lies on the line $y=4x-5$. Point $K=(10,14)$ is the midpoint of segment $AB$. The diagonals of parallelogram $ABCD$ intersect at point $S$. Compute the distance of point $S$ from the origin of the coordinate system.",
    "confidence": "high",
-   "notes": ""
+   "notes": "",
+   "has_figure": false,
+   "verified": true
   },
   {
    "task": "33",
@@ -523,7 +571,9 @@
    "summary_en": "Cylinder: $AD$ height, $AB$ diameter, $BD=4\\sqrt3$, $\\angle ABD=30°$. $V+P_c$?",
    "statement_en": "Segment $AD$ is the height of a cylinder, and segment $AB$ is a diameter of the cylinder's base. Segment $BD$ has length $4\\sqrt3$. The measure of angle $ABD$ is equal to $30°$ (see figure). Compute the volume and the total surface area of this cylinder.",
    "confidence": "high",
-   "notes": "Two numeric outputs requested (volume and total surface area); value is their sum"
+   "notes": "Two numeric outputs requested (volume and total surface area); value is their sum",
+   "has_figure": true,
+   "verified": true
   },
   {
    "task": "34",
@@ -541,7 +591,9 @@
    "summary_en": "$f(x)=ax^2+bx+c$, max$=100$, positive on $(-2,8)$. Find $a+b+c$",
    "statement_en": "The quadratic function $f$ is given by the formula $f(x)=ax^2+bx+c$. The greatest value of function $f$ is equal to $100$. The set of all arguments for which function $f$ takes positive values is the interval $(-2,8)$. Compute the values of the coefficients $a$, $b$, and $c$.",
    "confidence": "high",
-   "notes": "Three numeric coefficients requested; value is their sum a+b+c"
+   "notes": "Three numeric coefficients requested; value is their sum a+b+c",
+   "has_figure": false,
+   "verified": true
   }
  ]
 }
