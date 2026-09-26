@@ -141,6 +141,29 @@ export function isAnswerCorrect(input: string, value: number, answerTex = ""): b
   return candidates.some((c) => Math.abs(c - value) <= tol);
 }
 
+export type ChoiceLetter = "A" | "B" | "C" | "D";
+
+/** "c", "C)", " B. " -> the option letter; anything else -> null. */
+export function answerLetter(input: string): ChoiceLetter | null {
+  const m = /^\s*([a-dA-D])\s*[.)]?\s*$/.exec(input);
+  return m ? (m[1].toUpperCase() as ChoiceLetter) : null;
+}
+
+/** A note is playable when it is a number, or an option letter on a closed task. */
+export function isNoteReadable(note: string, task: { key?: ChoiceLetter }): boolean {
+  return evaluateAnswer(note) !== null || (!!task.key && answerLetter(note) !== null);
+}
+
+/** Checks a player's note: an option letter against the key, otherwise the number against the value. */
+export function checkNote(
+  note: string,
+  task: { value: number; tex: string; ans?: string; key?: ChoiceLetter },
+): boolean {
+  const letter = answerLetter(note);
+  if (letter && task.key) return letter === task.key;
+  return isAnswerCorrect(note, task.value, `${task.tex} ${task.ans ?? ""}`);
+}
+
 export function formatValue(v: number): string {
   if (Number.isInteger(v)) return String(v);
   const r = Math.round(v * 100) / 100;

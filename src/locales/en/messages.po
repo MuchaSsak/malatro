@@ -13,10 +13,6 @@ msgstr ""
 "Language-Team: \n"
 "Plural-Forms: \n"
 
-#: src/components/viewer/TaskViewer.tsx:387
-msgid "(capped)"
-msgstr "(capped)"
-
 #. placeholder {0}: formatNumber(stats.attempts)
 #. placeholder {1}: formatNumber(stats.met)
 #. placeholder {2}: formatNumber(stats.total)
@@ -25,7 +21,7 @@ msgid "{0} answers · {1}/{2} tasks met"
 msgstr "{0} answers · {1}/{2} tasks met"
 
 #. placeholder {0}: JOKERS.length
-#: src/screens/Collection.tsx:474
+#: src/screens/Collection.tsx:483
 msgid "{0} jokers"
 msgstr "{0} jokers"
 
@@ -60,7 +56,7 @@ msgstr "Abandon run"
 msgid "Abandon this run? Progress will be lost."
 msgstr "Abandon this run? Progress will be lost."
 
-#: src/screens/Collection.tsx:634
+#: src/screens/Collection.tsx:637
 msgid "Abandoned"
 msgstr "Abandoned"
 
@@ -82,7 +78,7 @@ msgstr "Activate cheats?"
 
 #: src/screens/Collection.tsx:150
 #: src/screens/Collection.tsx:156
-#: src/screens/Collection.tsx:478
+#: src/screens/Collection.tsx:486
 msgid "All"
 msgstr "All"
 
@@ -96,25 +92,33 @@ msgstr "All ({0})"
 msgid "answer {0} more tasks"
 msgstr "answer {0} more tasks"
 
-#: src/screens/Collection.tsx:578
+#: src/screens/Collection.tsx:581
 msgid "Answer accuracy per run"
 msgstr "Answer accuracy per run"
 
-#: src/components/viewer/TaskViewer.tsx:427
+#: src/components/viewer/TaskViewer.tsx:408
 msgid "Answer from the key"
 msgstr "Answer from the key"
+
+#: src/components/viewer/TaskViewer.tsx:434
+msgid "Answer range"
+msgstr "Answer range"
+
+#: src/components/viewer/TaskViewer.tsx:436
+msgid "Answer sign"
+msgstr "Answer sign"
 
 #. placeholder {0}: counts.ok
 #: src/screens/Collection.tsx:141
 msgid "Answered correctly ({0})"
 msgstr "Answered correctly ({0})"
 
-#: src/screens/Collection.tsx:671
+#: src/screens/Collection.tsx:674
 msgid "Answers"
 msgstr "Answers"
 
 #: src/components/game/Sidebar.tsx:265
-#: src/screens/Collection.tsx:665
+#: src/screens/Collection.tsx:668
 #: src/screens/MainMenu.tsx:471
 msgid "Ante"
 msgstr "Ante"
@@ -148,7 +152,7 @@ msgstr "Audio"
 #: src/components/game/DeckView.tsx:54
 #: src/components/game/OptionsPanel.tsx:154
 #: src/components/game/RunInfo.tsx:37
-#: src/components/viewer/TaskViewer.tsx:511
+#: src/components/viewer/TaskViewer.tsx:492
 #: src/screens/Collection.tsx:65
 #: src/screens/MainMenu.tsx:256
 #: src/screens/MainMenu.tsx:425
@@ -156,7 +160,7 @@ msgstr "Audio"
 msgid "Back"
 msgstr "Back"
 
-#: src/components/viewer/TaskViewer.tsx:511
+#: src/components/viewer/TaskViewer.tsx:492
 msgid "Back to the table"
 msgstr "Back to the table"
 
@@ -196,7 +200,7 @@ msgstr "Blockier background at 20 fps, no shine animations, no idle sway"
 msgid "Boss blinds"
 msgstr "Boss blinds"
 
-#: src/components/viewer/TaskViewer.tsx:270
+#: src/components/viewer/TaskViewer.tsx:267
 msgid "Boss: no scratch paper!"
 msgstr "Boss: no scratch paper!"
 
@@ -219,21 +223,13 @@ msgid "Buy and use immediately"
 msgstr "Buy and use immediately"
 
 #. placeholder {0}: shopItem.price
-#: src/components/viewer/TaskViewer.tsx:495
+#: src/components/viewer/TaskViewer.tsx:476
 msgid "Buy for ${0}"
 msgstr "Buy for ${0}"
 
 #: src/screens/Collection.tsx:410
 msgid "By difficulty"
 msgstr "By difficulty"
-
-#: src/components/viewer/TaskViewer.tsx:307
-msgid "Card value = the <0>sum of all numbers</0> in the final answer"
-msgstr "Card value = the <0>sum of all numbers</0> in the final answer"
-
-#: src/components/viewer/TaskViewer.tsx:311
-msgid "Card value = the final answer (a number)"
-msgstr "Card value = the final answer (a number)"
 
 #: src/components/game/GameOver.tsx:54
 msgid "Cards played"
@@ -265,13 +261,9 @@ msgstr "Cheats"
 msgid "Cheats were used: not saved to the leaderboard"
 msgstr "Cheats were used: not saved to the leaderboard"
 
-#: src/components/viewer/TaskViewer.tsx:400
+#: src/components/viewer/TaskViewer.tsx:385
 msgid "Check answer"
 msgstr "Check answer"
-
-#: src/components/viewer/TaskViewer.tsx:314
-msgid "Chips per card are capped at ±{VALUE_CAP}"
-msgstr "Chips per card are capped at ±{VALUE_CAP}"
 
 #. placeholder {0}: run.pack.picksLeft
 #: src/components/game/Sidebar.tsx:65
@@ -282,11 +274,11 @@ msgstr "Choose {0}"
 msgid "Choose your next Blind"
 msgstr "Choose your next Blind"
 
-#: src/components/viewer/TaskViewer.tsx:252
+#: src/components/viewer/TaskViewer.tsx:249
 msgid "Clear"
 msgstr "Clear"
 
-#: src/components/viewer/TaskViewer.tsx:275
+#: src/components/viewer/TaskViewer.tsx:272
 msgid "Close (Esc)"
 msgstr "Close (Esc)"
 
@@ -335,11 +327,11 @@ msgstr "Coverage"
 msgid "CRT effect"
 msgstr "CRT effect"
 
-#: src/screens/Collection.tsx:656
+#: src/screens/Collection.tsx:659
 msgid "Date"
 msgstr "Date"
 
-#: src/screens/Collection.tsx:659
+#: src/screens/Collection.tsx:662
 msgid "Deck"
 msgstr "Deck"
 
@@ -351,11 +343,11 @@ msgstr "Defeated / Skipped"
 msgid "Defeated by"
 msgstr "Defeated by"
 
-#: src/components/game/HandArea.tsx:164
+#: src/components/game/HandArea.tsx:166
 msgid "Deselect"
 msgstr "Deselect"
 
-#: src/components/viewer/TaskViewer.tsx:482
+#: src/components/viewer/TaskViewer.tsx:463
 msgid "Deselect card"
 msgstr "Deselect card"
 
@@ -372,7 +364,7 @@ msgstr "Discards"
 msgid "Don't know ({0})"
 msgstr "Don't know ({0})"
 
-#: src/components/viewer/TaskViewer.tsx:333
+#: src/components/viewer/TaskViewer.tsx:327
 msgid "e.g. 12, -3/2, 2√3"
 msgstr "e.g. 12, -3/2, 2√3"
 
@@ -396,7 +388,7 @@ msgstr "Enter"
 msgid "Entering..."
 msgstr "Entering..."
 
-#: src/components/viewer/TaskViewer.tsx:233
+#: src/components/viewer/TaskViewer.tsx:230
 msgid "Eraser"
 msgstr "Eraser"
 
@@ -422,7 +414,7 @@ msgstr "Extended matura"
 msgid "Figure from the original sheet"
 msgstr "Figure from the original sheet"
 
-#: src/screens/Collection.tsx:550
+#: src/screens/Collection.tsx:553
 msgid "Final boss"
 msgstr "Final boss"
 
@@ -435,7 +427,7 @@ msgid "Foil: +50 Chips"
 msgstr "Foil: +50 Chips"
 
 #. placeholder {0}: boss.minAnte
-#: src/screens/Collection.tsx:540
+#: src/screens/Collection.tsx:543
 msgid "From ante {0}"
 msgstr "From ante {0}"
 
@@ -488,14 +480,13 @@ msgstr "Holographic: +10 Mult"
 msgid "HOW TO"
 msgstr "HOW TO"
 
-#: src/components/viewer/TaskViewer.tsx:419
+#: src/components/viewer/TaskViewer.tsx:400
 msgid "I don't know this"
 msgstr "I don't know this"
 
-#. placeholder {0}: formatValue(chipsIfRight + knowledgeChips(task.diff))
-#: src/components/viewer/TaskViewer.tsx:381
-msgid "If right: {0} chips, +{KNOWLEDGE_MULT} mult"
-msgstr "If right: {0} chips, +{KNOWLEDGE_MULT} mult"
+#: src/components/viewer/TaskViewer.tsx:302
+msgid "If right"
+msgstr "If right"
 
 #: src/components/game/Sidebar.tsx:125
 msgid "Improve your run!"
@@ -527,7 +518,7 @@ msgstr "Leaderboard"
 msgid "Leaderboard needs Supabase (see README)."
 msgstr "Leaderboard needs Supabase (see README)."
 
-#: src/screens/HowToPlay.tsx:107
+#: src/screens/HowToPlay.tsx:89
 msgid "Let's go!"
 msgstr "Let's go!"
 
@@ -566,7 +557,7 @@ msgstr "Login"
 msgid "Login: 3-20 characters, lowercase letters, digits, - or _"
 msgstr "Login: 3-20 characters, lowercase letters, digits, - or _"
 
-#: src/screens/Collection.tsx:634
+#: src/screens/Collection.tsx:637
 msgid "Lost"
 msgstr "Lost"
 
@@ -586,7 +577,7 @@ msgstr "Main menu"
 msgid "Main Menu"
 msgstr "Main Menu"
 
-#: src/components/viewer/TaskViewer.tsx:419
+#: src/components/viewer/TaskViewer.tsx:400
 msgid "Marked: don't know"
 msgstr "Marked: don't know"
 
@@ -657,13 +648,13 @@ msgstr "Next Round"
 msgid "No"
 msgstr "No"
 
-#: src/components/game/HandArea.tsx:148
-#: src/components/game/HandArea.tsx:149
+#: src/components/game/HandArea.tsx:150
+#: src/components/game/HandArea.tsx:151
 msgid "No answer"
 msgstr "No answer"
 
-#: src/screens/Collection.tsx:582
-#: src/screens/Collection.tsx:647
+#: src/screens/Collection.tsx:585
+#: src/screens/Collection.tsx:650
 msgid "No finished runs yet."
 msgstr "No finished runs yet."
 
@@ -679,13 +670,17 @@ msgstr "No tasks match these filters."
 msgid "None yet"
 msgstr "None yet"
 
-#: src/components/viewer/TaskViewer.tsx:377
+#: src/components/viewer/TaskViewer.tsx:374
 msgid "Not a number I can read"
 msgstr "Not a number I can read"
 
 #: src/components/game/RoundControls.tsx:46
 msgid "Notes"
 msgstr "Notes"
+
+#: src/components/viewer/TaskViewer.tsx:327
+msgid "number or A-D"
+msgstr "number or A-D"
 
 #: src/components/game/OptionsPanel.tsx:180
 msgid "Off"
@@ -721,11 +716,7 @@ msgstr "OPTIONS"
 msgid "or"
 msgstr "or"
 
-#: src/components/viewer/TaskViewer.tsx:354
-msgid "Or pick the option"
-msgstr "Or pick the option"
-
-#: src/components/viewer/TaskViewer.tsx:202
+#: src/components/viewer/TaskViewer.tsx:199
 msgid "Pan"
 msgstr "Pan"
 
@@ -798,7 +789,7 @@ msgstr "Redeem"
 msgid "Redeemed vouchers"
 msgstr "Redeemed vouchers"
 
-#: src/components/viewer/TaskViewer.tsx:247
+#: src/components/viewer/TaskViewer.tsx:244
 msgid "Redo (Ctrl+Y)"
 msgstr "Redo (Ctrl+Y)"
 
@@ -811,17 +802,13 @@ msgstr "Reduced motion"
 msgid "Remaining deck: {0}"
 msgstr "Remaining deck: {0}"
 
-#: src/screens/Collection.tsx:711
+#: src/screens/Collection.tsx:714
 msgid "Replay"
 msgstr "Replay"
 
 #: src/components/game/GameOver.tsx:141
 msgid "Replay seed"
 msgstr "Replay seed"
-
-#: src/components/viewer/TaskViewer.tsx:404
-msgid "Required to play this card. A wrong answer scores 0 chips."
-msgstr "Required to play this card. A wrong answer scores 0 chips."
 
 #: src/components/game/Shop.tsx:54
 msgid "Reroll"
@@ -831,7 +818,7 @@ msgstr "Reroll"
 msgid "Rerolls"
 msgstr "Rerolls"
 
-#: src/screens/Collection.tsx:662
+#: src/screens/Collection.tsx:665
 msgid "Result"
 msgstr "Result"
 
@@ -839,23 +826,18 @@ msgstr "Result"
 msgid "Result saved to the leaderboard"
 msgstr "Result saved to the leaderboard"
 
-#: src/components/viewer/TaskViewer.tsx:451
-msgid "Revealed value"
-msgstr "Revealed value"
+#: src/components/viewer/TaskViewer.tsx:432
+msgid "Revealed answer"
+msgstr "Revealed answer"
 
 #. placeholder {0}: boss.reward ?? 5
-#: src/screens/Collection.tsx:546
+#: src/screens/Collection.tsx:549
 msgid "Reward ${0}"
 msgstr "Reward ${0}"
 
 #: src/components/game/BlindSelect.tsx:94
 msgid "Reward:"
 msgstr "Reward:"
-
-#. placeholder {0}: knowledgeChips(task.diff)
-#: src/components/viewer/TaskViewer.tsx:317
-msgid "Right answer bonus: +{0} chips, +{KNOWLEDGE_MULT} mult"
-msgstr "Right answer bonus: +{0} chips, +{KNOWLEDGE_MULT} mult"
 
 #: src/components/game/Sidebar.tsx:274
 msgid "Round"
@@ -885,7 +867,7 @@ msgstr "Saved to the leaderboard"
 msgid "Saving to leaderboard..."
 msgstr "Saving to leaderboard..."
 
-#: src/screens/Collection.tsx:668
+#: src/screens/Collection.tsx:671
 #: src/screens/MainMenu.tsx:474
 msgid "Score"
 msgstr "Score"
@@ -896,7 +878,7 @@ msgid "Score at least"
 msgstr "Score at least"
 
 #: src/components/game/GameOver.tsx:59
-#: src/screens/Collection.tsx:677
+#: src/screens/Collection.tsx:680
 msgid "Seed"
 msgstr "Seed"
 
@@ -905,11 +887,11 @@ msgid "Seed (optional)"
 msgstr "Seed (optional)"
 
 #: src/components/game/BlindSelect.tsx:74
-#: src/components/game/HandArea.tsx:164
+#: src/components/game/HandArea.tsx:166
 msgid "Select"
 msgstr "Select"
 
-#: src/components/viewer/TaskViewer.tsx:482
+#: src/components/viewer/TaskViewer.tsx:463
 msgid "Select for play"
 msgstr "Select for play"
 
@@ -942,7 +924,7 @@ msgstr "SHOP"
 msgid "Show"
 msgstr "Show"
 
-#: src/components/viewer/TaskViewer.tsx:445
+#: src/components/viewer/TaskViewer.tsx:426
 msgid "Show the answer"
 msgstr "Show the answer"
 
@@ -980,7 +962,7 @@ msgstr "Sort Hand"
 msgid "Sound effects"
 msgstr "Sound effects"
 
-#: src/screens/Collection.tsx:638
+#: src/screens/Collection.tsx:641
 #: src/screens/MainMenu.tsx:393
 msgid "Start a new run? The current run will be lost."
 msgstr "Start a new run? The current run will be lost."
@@ -998,12 +980,12 @@ msgstr "Tag"
 msgid "Take"
 msgstr "Take"
 
-#: src/components/viewer/TaskViewer.tsx:507
+#: src/components/viewer/TaskViewer.tsx:488
 msgid "Take this card"
 msgstr "Take this card"
 
 #. placeholder {0}: boss.targetMult
-#: src/screens/Collection.tsx:543
+#: src/screens/Collection.tsx:546
 msgid "Target ×{0}"
 msgstr "Target ×{0}"
 
@@ -1039,7 +1021,7 @@ msgstr "Theorem Pack"
 msgid "This card is face down - play it to reveal it"
 msgstr "This card is face down - play it to reveal it"
 
-#: src/screens/Collection.tsx:674
+#: src/screens/Collection.tsx:677
 msgid "Time"
 msgstr "Time"
 
@@ -1055,7 +1037,7 @@ msgstr "Total score"
 msgid "Turn off"
 msgstr "Turn off"
 
-#: src/components/viewer/TaskViewer.tsx:240
+#: src/components/viewer/TaskViewer.tsx:237
 msgid "Undo (Ctrl+Z)"
 msgstr "Undo (Ctrl+Z)"
 
@@ -1067,14 +1049,6 @@ msgstr "Upcoming"
 #: src/components/game/PackOpen.tsx:77
 msgid "Use"
 msgstr "Use"
-
-#: src/components/viewer/TaskViewer.tsx:453
-msgid "Value range"
-msgstr "Value range"
-
-#: src/components/viewer/TaskViewer.tsx:455
-msgid "Value sign"
-msgstr "Value sign"
 
 #: src/components/game/OptionsPanel.tsx:39
 msgid "Video"
@@ -1096,7 +1070,7 @@ msgstr "Vouchers & Boss"
 msgid "Welcome back!"
 msgstr "Welcome back!"
 
-#: src/screens/Collection.tsx:634
+#: src/screens/Collection.tsx:637
 msgid "Won"
 msgstr "Won"
 
@@ -1108,33 +1082,33 @@ msgstr "Wrong PIN for this login"
 msgid "YOU WIN!"
 msgstr "YOU WIN!"
 
-#: src/components/viewer/TaskViewer.tsx:326
+#: src/components/viewer/TaskViewer.tsx:315
 msgid "Your answer"
 msgstr "Your answer"
 
-#: src/components/viewer/TaskViewer.tsx:436
+#: src/components/viewer/TaskViewer.tsx:417
 msgid "Your answer was right ✓"
 msgstr "Your answer was right ✓"
 
-#: src/components/viewer/TaskViewer.tsx:438
+#: src/components/viewer/TaskViewer.tsx:419
 msgid "Your answer was wrong ✗"
 msgstr "Your answer was wrong ✗"
-
-#: src/components/cards/TaskInfo.tsx:35
-msgid "Your note: {note}"
-msgstr "Your note: {note}"
 
 #: src/screens/MainMenu.tsx:243
 msgid "Your suggestion..."
 msgstr "Your suggestion..."
 
-#: src/components/viewer/TaskViewer.tsx:260
+#: src/components/viewer/TaskViewer.tsx:257
 msgid "Zoom in"
 msgstr "Zoom in"
 
-#: src/components/viewer/TaskViewer.tsx:256
+#: src/components/viewer/TaskViewer.tsx:253
 msgid "Zoom out"
 msgstr "Zoom out"
+
+#: src/components/viewer/TaskViewer.tsx:318
+msgid "Σ sum of all numbers"
+msgstr "Σ sum of all numbers"
 
 #: src/components/cards/TaskInfo.tsx:30
 msgid "Σ sum of numbers"

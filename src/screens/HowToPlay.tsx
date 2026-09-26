@@ -10,33 +10,24 @@ const PAGES = {
     {
       title: "Karty to zadania",
       lines: [
-        "Każda karta to prawdziwe zadanie z matury (CKE). Na karcie widzisz [a:kategorię], dział i skrót zadania.",
-        "[a:Wartość karty = wynik zadania.] Jest ukryta - musisz rozwiązać zadanie, żeby ją znać!",
-        "Karta z [a:Σ] jest warta [a:sumę wszystkich liczb] w odpowiedzi (np. oba rozwiązania równania).",
-      ],
-    },
-    {
-      title: "Otwórz i licz",
-      lines: [
-        "[a:Kliknij kartę], by otworzyć oryginalne zadanie z arkusza. Możesz po nim [a:rysować] - rysunki zostają.",
-        "Zanim zagrasz kartę, wpisz jej [a:odpowiedź]. Dobra odpowiedź = karta punktuje. Zła = [x:0] Żetonów i karta nie liczy się do układu.",
-        "Zaznacz kartę do zagrania: [a:prawy przycisk myszy], przycisk [a:+] nad kartą lub klawisze [a:1-9].",
+        "Każda karta to prawdziwe zadanie maturalne (CKE).",
+        "[a:Kliknij kartę], by je otworzyć. Możesz [a:rysować] po arkuszu.",
+        "Wpisz [a:odpowiedź] (liczbę albo [a:A-D] w zadaniach zamkniętych).",
       ],
     },
     {
       title: "Punktacja",
       lines: [
-        "Zagraj do 5 kart. Wszystkie zagrane karty dodają swoją wartość do [c:Żetonów] - [a:ujemne odejmują!]",
-        "Układ z kategorii i działów daje bazowe [c:Żetony] i [m:Mnożnik]: Para, Trójka, Kolor (5 z jednego działu), Przekrój (5 kategorii, wszystkie 4 działy)...",
-        "Wynik = [c:Żetony] × [m:Mnożnik]. Pokonaj próg punktowy, zanim skończą się ręce.",
+        "Dobra odpowiedź: [c:Żetony] za trudność i punkty zadania oraz [m:+1] Mnożnika.",
+        "Zła odpowiedź: [x:0], a karta nie liczy się do układu.",
+        "Działy tworzą układy (Para, Kolor...). Wynik = [c:Żetony] × [m:Mnożnik].",
       ],
     },
     {
       title: "Sklep i bossowie",
       lines: [
-        "Za wygrane dostajesz [$:$]. Kupuj [a:Jokery], [a:Ściągi] (np. ujawniają znak lub wartość karty) i [a:Twierdzenia] (podnoszą poziom układów).",
-        "Zadania ze sklepu trafią na rękę w następnej rundzie - kup to, co umiesz rozwiązać!",
-        "Co 3 progi czeka [a:Boss] z utrudnieniem, np. [a:Lustro] zmienia znak wszystkich wartości. Pokonaj 8 ant, by wygrać.",
+        "Za wygrane kupujesz [a:Jokery], [a:Ściągi] i [a:Twierdzenia].",
+        "Co 3 progi czeka [a:Boss] z utrudnieniem. Pokonaj 8 ante, by wygrać.",
       ],
     },
   ],
@@ -44,33 +35,24 @@ const PAGES = {
     {
       title: "Cards are tasks",
       lines: [
-        "Every card is a real matura (CKE) exam task. The card shows its [a:category], branch and a short summary.",
-        "[a:A card's value = the task's answer.] It's hidden - solve the task to know it!",
-        "A card with [a:Σ] is worth the [a:sum of all numbers] in the answer (e.g. both solutions).",
-      ],
-    },
-    {
-      title: "Open and solve",
-      lines: [
-        "[a:Click a card] to open the original task from the exam sheet. You can [a:draw] on it - drawings persist.",
-        "Before you play a card, type its [a:answer]. Right answer = the card scores. Wrong = [x:0] Chips and it doesn't count toward the hand.",
-        "Select a card to play: [a:right-click], the [a:+] tab above it, or keys [a:1-9].",
+        "Every card is a real matura (CKE) exam task.",
+        "[a:Click a card] to open it. You can [a:draw] on the sheet.",
+        "Type your [a:answer] (a number, or [a:A-D] on closed tasks).",
       ],
     },
     {
       title: "Scoring",
       lines: [
-        "Play up to 5 cards. Every played card adds its value to [c:Chips] - [a:negative ones subtract!]",
-        "Categories and branches form hands with base [c:Chips] and [m:Mult]: Pair, Three, Flush (5 of one branch), Cross-section (5 categories, all 4 branches)...",
-        "Score = [c:Chips] × [m:Mult]. Beat the blind before you run out of hands.",
+        "Right answer: [c:Chips] for the task's difficulty and points, plus [m:+1] Mult.",
+        "Wrong answer: [x:0], and the card doesn't count toward the hand.",
+        "Branches form hands (Pair, Flush...). Score = [c:Chips] × [m:Mult].",
       ],
     },
     {
       title: "Shop and bosses",
       lines: [
-        "Winning earns [$:$]. Buy [a:Jokers], [a:Cheat Sheets] (e.g. reveal a card's sign or value) and [a:Theorems] (level up hands).",
-        "Tasks bought in the shop are dealt first next round - buy what you can solve!",
-        "Every third blind is a [a:Boss] with a twist, e.g. [a:The Mirror] negates all values. Beat 8 antes to win.",
+        "Winning buys [a:Jokers], [a:Cheat Sheets] and [a:Theorems].",
+        "Every third blind is a [a:Boss] with a twist. Beat 8 antes to win.",
       ],
     },
   ],

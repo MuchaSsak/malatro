@@ -16,6 +16,7 @@ export default async function submitRun({ run }: SubmitRunServiceProps) {
     p_hands_played: run.stats.handsPlayed,
     p_seed: run.seed,
     p_play_time_ms: Math.round(run.stats.playTimeMs ?? 0),
+    p_is_cheated: !!run.isCheated,
   });
   if (error) throw error;
 }

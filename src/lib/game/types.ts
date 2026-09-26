@@ -52,6 +52,8 @@ export type TaskRecord = {
   fig?: boolean; // solving needs the sheet's figure: the English sheet shows the original crop too
   /** closed task: options A-D as [display LaTeX, answer to type]; exactly one matches `value` */
   opts?: [string, string][];
+  /** closed task: the correct option letter (typing or picking it counts as the right answer) */
+  key?: "A" | "B" | "C" | "D";
 };
 
 export type HandTypeId =
@@ -61,14 +63,16 @@ export type Edition = "foil" | "holo" | "poly" | "negative";
 export type Enhancement = "bonus" | "mult" | "glass" | "lucky" | "gold";
 export type RevealKind = "value" | "sign" | "range";
 
+export type CardMod = "dbl" | "rep" | "plus";
+
 export type CardInstance = {
   uid: string;
   taskId: string;
   enh?: Enhancement;
   edition?: Exclude<Edition, "negative">;
   reveal?: RevealKind;
-  /** value transforms applied by ściągi (negate / double / abs) */
-  mods?: ("neg" | "dbl" | "abs")[];
+  /** round-only chip mods from ściągi: double chips, score twice, +25 chips */
+  mods?: CardMod[];
   isFaceDown?: boolean;
   isDebuffed?: boolean;
 };

@@ -126,8 +126,8 @@ export const BOSSES: BossDef[] = [
     id: "zaokraglenie",
     name: { pl: "Zaokrąglenie w dół", en: "Round Down" },
     desc: {
-      pl: "Wartości kart są zaokrąglane w dół do liczb całkowitych",
-      en: "Card values are rounded down to integers",
+      pl: "Żetony kart są zaokrąglane w dół do pełnych dziesiątek",
+      en: "Card Chips are rounded down to whole tens",
     },
     minAnte: 1,
     color: "#5c6e91",
@@ -208,7 +208,7 @@ export const BOSSES: BossDef[] = [
   {
     id: "lustro",
     name: { pl: "Lustro", en: "The Mirror" },
-    desc: { pl: "Wartości wszystkich kart zmieniają znak", en: "All card values are negated" },
+    desc: { pl: "Dobre odpowiedzi nie dają [m:+1] Mnożnika", en: "Correct answers give no [m:+1] Mult" },
     minAnte: 3,
     color: "#b9cbe0",
     targetMult: 2,

@@ -22,18 +22,27 @@ Solving tasks (in the fullscreen viewer, with scratch drawing) = knowing your ca
 | value            | **hidden** | final answer; Σ badge = "sum of all numbers in the answer"                   |
 | player answer    | yes        | typed in the viewer; **required** to play a face-up card (2026-09-26) [user] |
 
-### Value rules [assumption, from user brief]
+### Answer rules
 
 - single numeric answer → that number (√2 → 1.414…, 1/6 → 0.1667, 30° → 30).
-- closed ABCD task with numeric options → numeric value of the correct option.
+- closed ABCD task → the player may type the number **or the option letter**; the letter is
+  checked against `key` (1,555 closed tasks carry one).
 - several numbers asked (roots, coordinates, a) + b)) → **sum** (Σ badge on card).
 - excluded from the pool: proofs, P/F, matching, intervals/sets, symbolic expressions, drawings.
-- **chip contribution per card = clamp(value, −CAP, +CAP)**, CAP _(tuned)_ = 25 (`VALUE_CAP` in
-  `src/lib/game/constants.ts`); value shown with ≤ 2 decimals.
+- **the answer's number does not score** [user, 2026-09-26: "base it on difficulty"]. It is only
+  checked, and read by jokers (even, prime, negative…) and by reveal ściągi.
+
+### Card chips
+
+- correct card → `taskChips = 6 + 5×difficulty + 3×points` (`src/lib/game/constants.ts`): a
+  2-dot 1-point basic task gives 19, a 5-dot 4-point extended one 43; plus **+1 Mult**
+  (`KNOWLEDGE_MULT`). Wrong card → 0.
+- ściąga mods (round-only): `dbl` ×2 chips (Podwojenie), `rep` scores twice (Powtórka),
+  `plus` +25 chips (Karta wzorów).
 
 ## Hand types (układy) — detected from played cards (1–5)
 
-All played cards add their chips (unlike Balatro, no "unscored" kickers) — knowing values is the game.
+All correctly answered played cards add their chips (unlike Balatro, no "unscored" kickers).
 
 | id        | PL             | EN              | condition                           | chips | mult | +chips/lvl | +mult/lvl |
 | --------- | -------------- | --------------- | ----------------------------------- | ----- | ---- | ---------- | --------- |
@@ -56,11 +65,10 @@ Level-ups come from **Twierdzenia** (planet analog), one per hand type.
    card effects and drops out of hand-type detection** (no guessing a flush). Face-down (boss)
    cards need no answer. [user, 2026-09-26]
 1. base chips/mult of hand type (level applied); boss modifiers (e.g. halve).
-2. each played card left→right: `+chips(value clamped)` → **knowledge bonus for a correct answer:
-   +(5 + 3×difficulty) chips and +1 Mult** (`knowledgeChips`, `KNOWLEDGE_MULT`; not for face-down
-   cards, not repeated on retriggers) [user, 2026-09-26: "reward mostly just having the knowledge"]
+2. each played card left→right: `+taskChips` (mods, boss) → **+1 Mult for a correct answer**
+   (not for face-down cards, not repeated on retriggers; the Lustro boss removes it)
    → card enhancement (+chips / +mult / ×mult)
-   → "on card scored" jokers (e.g. +4 Mult if value even) → retriggers repeat the card.
+   → "on card scored" jokers (e.g. +4 Mult if the answer is even) → retriggers repeat the card.
 3. jokers left→right "independent" effects (+mult, +chips, ×mult), then joker editions.
 4. score = chips × mult (may be negative) → added to round score (can go down).
 5. no money for correct answers (removed 2026-09-26 [user]); money comes from blinds, unused
@@ -92,13 +100,14 @@ Level-ups come from **Twierdzenia** (planet analog), one per hand type.
 
 - Jokers `src/lib/game/content/jokers.ts`, ściągi + twierdzenia `consumables.ts`, bosses `bosses.ts`,
   vouchers `vouchers.ts`, tags `tags.ts`. Names are math-themed PL with EN translations.
-- Info mechanics unique to Malatro: jokers/ściągi that reveal sign, range or value of cards;
-  "Lustro" boss negates values; "Moduł" joker counts |value|; a value-revealing ściąga literally
-  hands you the answer.
+- Info mechanics unique to Malatro: jokers/ściągi that reveal the sign, range or exact answer of
+  cards (the exact one literally hands you the answer); jokers keyed to answer properties
+  (even, prime, Fibonacci, perfect square, negative; Nieskończoność adds |answer| ≤ 50 as chips).
+- Bosses tied to chips: Zaokrąglenie floors card chips to tens, Lustro removes the +1 Mult.
 
 ## Balance principles
 
 - A player who solves ~half the cards and avoids negatives should beat antes 1–4 without
   great jokers; antes 6–8 need ×mult jokers + leveled hands. _(tuned)_
 - Random play (no solving) should usually die at ante 2–3.
-- Values are mostly small integers; clamp keeps combinatorics outliers from trivialising.
+- Chips track difficulty, so huge answers (10^10, combinatorics) no longer distort a hand.

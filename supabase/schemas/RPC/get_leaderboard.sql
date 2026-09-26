@@ -1,6 +1,6 @@
 begin;
 
-/* get_leaderboard - best run per player for one difficulty; exposes only slug + run numbers */
+/* get_leaderboard - best run per player for one difficulty; exposes only slug + run numbers; runs with cheats never show */
 create or replace function public.get_leaderboard (p_difficulty text, p_limit integer default 50)
 returns table (
   slug text,
@@ -23,7 +23,7 @@ as $$
       p.slug, r.user_id, r.ante, r.is_won, r.total_score, r.best_hand, r.correct_notes, r.created_at
     from public.runs r
     join public.profiles p on p.id = r.user_id
-    where r.difficulty = p_difficulty
+    where r.difficulty = p_difficulty and not r.is_cheated
     order by r.user_id, r.ante desc, r.total_score desc
   ) b
   order by b.ante desc, b.total_score desc

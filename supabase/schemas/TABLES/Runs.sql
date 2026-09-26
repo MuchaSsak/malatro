@@ -16,6 +16,8 @@ create table if not exists public.runs (
   correct_notes integer not null default 0,
   hands_played integer not null default 0,
   play_time_ms bigint not null default 0,
+  -- testing cheats were used: kept for the player's own stats, hidden from the leaderboard
+  is_cheated boolean not null default false,
   seed text not null default '',
   created_at timestamptz not null default now(),
   updated_at timestamptz not null default now(),

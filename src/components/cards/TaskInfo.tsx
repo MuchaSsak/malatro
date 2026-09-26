@@ -32,7 +32,12 @@ export default function TaskInfo({ task, note }: { task: TaskRecord; note?: stri
     >
       <MathText text={l(task.s)} className="card-tex block text-[20px] leading-snug" />
       <div className="mt-2 text-[17px] leading-tight text-ink/70">{examLabel(task, l, locale === "pl")}</div>
-      {note && <div className="mt-1 text-[19px] text-[#8a6d00]">{t`Your note: ${note}`}</div>}
+      {/* same sticky note as on the card */}
+      {note && (
+        <div className="mx-auto mt-2 w-fit max-w-full rotate-[-2deg] truncate rounded-[4px] bg-[#ffe477] px-3 py-1 font-pixel text-[22px] leading-none text-[#3a3000] shadow-hard-sm">
+          ≈ {note}
+        </div>
+      )}
     </InfoPanel>
   );
 }

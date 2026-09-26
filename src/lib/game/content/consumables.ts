@@ -1,4 +1,4 @@
-import type { HandTypeId, L10n, SuitId } from "~/lib/game/types";
+import type { CardMod, HandTypeId, L10n, SuitId } from "~/lib/game/types";
 
 /** Types */
 
@@ -21,7 +21,7 @@ export type SciagaDef = {
     | { kind: "copy" }
     | { kind: "destroy" }
     | { kind: "enhance"; enh: "bonus" | "mult" | "glass" | "lucky" }
-    | { kind: "mod"; mod: "neg" | "dbl" | "abs" }
+    | { kind: "mod"; mod: CardMod }
     | { kind: "money-double" }
     | { kind: "wheel" }
     | { kind: "create"; what: "twierdzenie" | "sciaga" | "joker" | "legendary"; count: number }
@@ -37,7 +37,7 @@ export const SCIAGI: SciagaDef[] = [
   {
     id: "klucz",
     name: { pl: "Klucz odpowiedzi", en: "Answer Key" },
-    desc: { pl: "Ujawnia [a:dokładną wartość] 1 wybranej karty", en: "Reveals the [a:exact value] of 1 selected card" },
+    desc: { pl: "Ujawnia [a:odpowiedź] 1 wybranej karty", en: "Reveals the [a:answer] of 1 selected card" },
     art: "🗝️",
     target: { min: 1, max: 1 },
     isRoundOnly: true,
@@ -47,7 +47,10 @@ export const SCIAGI: SciagaDef[] = [
   {
     id: "znak",
     name: { pl: "Test znaku", en: "Sign Test" },
-    desc: { pl: "Ujawnia [a:znak] wartości do 3 wybranych kart", en: "Reveals the [a:sign] of up to 3 selected cards" },
+    desc: {
+      pl: "Ujawnia [a:znak] odpowiedzi do 3 wybranych kart",
+      en: "Reveals the [a:sign] of up to 3 selected cards",
+    },
     art: "±",
     target: { min: 1, max: 3 },
     isRoundOnly: true,
@@ -58,8 +61,8 @@ export const SCIAGI: SciagaDef[] = [
     id: "szacunek",
     name: { pl: "Szacowanie", en: "Estimate" },
     desc: {
-      pl: "Ujawnia [a:przedział] wartości do 2 wybranych kart",
-      en: "Reveals the value [a:range] of up to 2 selected cards",
+      pl: "Ujawnia [a:przedział] odpowiedzi do 2 wybranych kart",
+      en: "Reveals the answer [a:range] of up to 2 selected cards",
     },
     art: "≈",
     target: { min: 1, max: 2 },
@@ -196,18 +199,18 @@ export const SCIAGI: SciagaDef[] = [
   },
   {
     id: "zmiana_znaku",
-    name: { pl: "Zmiana znaku", en: "Sign Flip" },
-    desc: { pl: "Zmienia [a:znak] wartości 1 wybranej karty", en: "Flips the [a:sign] of 1 selected card's value" },
-    art: "⇄",
+    name: { pl: "Powtórka", en: "Revision" },
+    desc: { pl: "1 wybrana karta punktuje [a:dwa razy]", en: "1 selected card scores [a:twice]" },
+    art: "⟳",
     target: { min: 1, max: 1 },
     isRoundOnly: true,
-    weight: 4,
-    effect: { kind: "mod", mod: "neg" },
+    weight: 3,
+    effect: { kind: "mod", mod: "rep" },
   },
   {
     id: "podwojenie",
     name: { pl: "Podwojenie", en: "Doubling" },
-    desc: { pl: "[a:Podwaja] wartość 1 wybranej karty", en: "[a:Doubles] the value of 1 selected card" },
+    desc: { pl: "[a:Podwaja] Żetony 1 wybranej karty", en: "[a:Doubles] the Chips of 1 selected card" },
     art: "×2",
     target: { min: 1, max: 1 },
     isRoundOnly: true,
@@ -216,16 +219,13 @@ export const SCIAGI: SciagaDef[] = [
   },
   {
     id: "wartosc_bezwzgledna",
-    name: { pl: "Wartość bezwzględna", en: "Absolute" },
-    desc: {
-      pl: "Wartość do 2 wybranych kart staje się [a:|x|]",
-      en: "The value of up to 2 selected cards becomes [a:|x|]",
-    },
-    art: "|·|",
+    name: { pl: "Karta wzorów", en: "Formula Sheet" },
+    desc: { pl: "Do 2 wybranych kart daje [c:+25] Żetonów", en: "Up to 2 selected cards give [c:+25] Chips" },
+    art: "📋",
     target: { min: 1, max: 2 },
     isRoundOnly: true,
-    weight: 3,
-    effect: { kind: "mod", mod: "abs" },
+    weight: 4,
+    effect: { kind: "mod", mod: "plus" },
   },
   {
     id: "kieszonkowe",

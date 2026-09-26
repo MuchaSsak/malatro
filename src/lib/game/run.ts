@@ -2,7 +2,7 @@
  * Run rules as pure-ish functions over a cloned draft `RunState`. `engine.ts` wraps them with
  * cloning, persistence and subscriptions. Every function here may mutate `run` freely.
  */
-import { evaluateAnswer } from "~/lib/game/answer";
+import { isNoteReadable } from "~/lib/game/answer";
 import { CATEGORIES } from "~/lib/game/categories";
 import {
   ANTE_BASE,
@@ -40,7 +40,7 @@ import { VOUCHER_BY_ID, VOUCHERS } from "~/lib/game/content/vouchers";
 import { buildDeck, makeCard, sampleTasks, type TaskPool } from "~/lib/game/deck";
 import { HAND_BY_ID, HAND_TYPES } from "~/lib/game/hands";
 import { Rng } from "~/lib/game/rng";
-import { activeBoss, effectiveValue, hasPassive, passiveSum, previewHand, scoreHand } from "~/lib/game/scoring";
+import { activeBoss, hasPassive, passiveSum, previewHand, scoreHand } from "~/lib/game/scoring";
 import type {
   BlindKind,
   BlindPlan,
@@ -415,7 +415,7 @@ export function validatePlay(run: RunState, pool: TaskPool): L10n | null {
   if (boss?.kind === "must-five" && round.selected.length !== 5)
     return { pl: "Musisz zagrać 5 kart", en: "Must play 5 cards" };
   const played = round.selected.map((u) => round.hand.find((c) => c.uid === u)!).filter(Boolean);
-  if (played.some((c) => !c.isFaceDown && evaluateAnswer(run.notes[c.taskId] ?? "") === null))
+  if (played.some((c) => !c.isFaceDown && !isNoteReadable(run.notes[c.taskId] ?? "", pool.byId.get(c.taskId) ?? {})))
     return { pl: "Wpisz odpowiedź na każdej zaznaczonej karcie", en: "Write an answer on every selected card" };
   const type = previewHand(run, round, played, pool).handType;
   if (boss?.kind === "eye" && round.handTypesPlayed.includes(type))
@@ -1127,7 +1127,7 @@ export function cardInsight(run: RunState, card: CardInstance): "value" | "range
 export function cardShownValue(run: RunState, card: CardInstance, pool: TaskPool): number | null {
   const t = pool.byId.get(card.taskId);
   if (!t) return null;
-  return effectiveValue(run, run.round, card, t);
+  return t.value;
 }
 
 export function valueRangeLabel(v: number): string {

@@ -132,7 +132,7 @@ export default function TaskCard({
       )}
       {mods.length > 0 && (
         <span className="tx absolute right-[0.35em] top-[4.4em] rounded-[0.3em] bg-purple px-[0.3em] font-pixel text-[0.8em] leading-[1.1] text-white">
-          {mods.map((m) => (m === "neg" ? "−x" : m === "dbl" ? "2x" : "|x|")).join(" ")}
+          {mods.map((m) => (m === "dbl" ? "×2" : m === "rep" ? "⟳" : "+25")).join(" ")}
         </span>
       )}
 

@@ -11,22 +11,20 @@ export const DECK_SIZE = 40;
 export const FINAL_ANTE = 8;
 
 /**
- * Per-card chip cap. Answers are heavy-tailed (median 4, p90 ~140, some in the thousands); at 25
- * an average card is worth ~9 chips, about a Balatro card (2-11), and a huge answer can't carry a hand.
+ * A correctly answered card scores chips from how hard the task is, not from its answer's number
+ * [user: "base it on difficulty"]: 6 + 5 per difficulty dot + 3 per exam point. A typical basic
+ * task (2 dots, 1 pt) gives 19, a hard extended one (5 dots, 4 pts) 43. Every correct answer also
+ * adds +1 Mult. A wrong answer scores nothing.
  */
-export const VALUE_CAP = 25;
-
-/**
- * Knowledge bonus for every correctly answered (face-up) card, on top of its value chips: the
- * score should mostly reward solving tasks, with poker hands as the multiplier on top. Harder tasks
- * pay more chips. [user: "reward mostly just having the knowledge to answer"]
- */
-export const KNOWLEDGE_CHIPS_BASE = 5;
-export const KNOWLEDGE_CHIPS_PER_DIFF = 3;
+export const CARD_CHIPS_BASE = 6;
+export const CARD_CHIPS_PER_DIFF = 5;
+export const CARD_CHIPS_PER_PT = 3;
 export const KNOWLEDGE_MULT = 1;
 
-export function knowledgeChips(diff: number): number {
-  return KNOWLEDGE_CHIPS_BASE + KNOWLEDGE_CHIPS_PER_DIFF * Math.max(1, Math.min(5, diff));
+export function taskChips(task: { diff: number; pts: number }): number {
+  const diff = Math.max(1, Math.min(5, task.diff));
+  const pts = Math.max(1, Math.min(6, task.pts));
+  return CARD_CHIPS_BASE + CARD_CHIPS_PER_DIFF * diff + CARD_CHIPS_PER_PT * pts;
 }
 
 /**

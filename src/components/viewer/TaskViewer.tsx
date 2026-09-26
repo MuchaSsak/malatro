@@ -12,11 +12,11 @@ import { useSettings } from "~/contexts/SettingsContext";
 import { useViewer, type ViewerTarget } from "~/contexts/ViewerContext";
 import { audio } from "~/lib/audio";
 import { drawingKey, getStrokes, setStrokes, type Stroke } from "~/lib/drawings";
-import { evaluateAnswer, formatValue, isAnswerCorrect } from "~/lib/game/answer";
+import { answerLetter, checkNote, evaluateAnswer, formatValue } from "~/lib/game/answer";
 import { CATEGORIES, SUITS } from "~/lib/game/categories";
-import { KNOWLEDGE_MULT, knowledgeChips, VALUE_CAP } from "~/lib/game/constants";
+import { KNOWLEDGE_MULT, taskChips } from "~/lib/game/constants";
 import { canAfford, cardInsight, cardShownValue, valueRangeLabel } from "~/lib/game/run";
-import { activeBoss, cardChips, effectiveValue } from "~/lib/game/scoring";
+import { activeBoss, cardChips, knowledgeMult } from "~/lib/game/scoring";
 import type { RunState, TaskRecord } from "~/lib/game/types";
 import { recordAttempts, setMarked, useTaskProgress } from "~/lib/progress";
 import { fetchStatements } from "~/lib/tasks";
@@ -108,13 +108,10 @@ function ViewerBody({
   const cat = CATEGORIES[task.cat];
   const suit = SUITS[cat.suit];
   const parsed = evaluateAnswer(note);
-  // chips this answer would score if it were right (card mods, boss and jokers applied, then the cap)
-  const chipsIfRight =
-    parsed === null
-      ? null
-      : run && card
-        ? cardChips(run, effectiveValue(run, round, card, { ...task, value: parsed }))
-        : Math.max(-VALUE_CAP, Math.min(VALUE_CAP, parsed));
+  const letter = task.key ? answerLetter(note) : null;
+  // what a correct answer scores on this card (ściąga mods and boss rules included)
+  const chipsIfRight = run && card ? cardChips(run, round, card, task) : taskChips(task);
+  const multIfRight = run && card ? knowledgeMult(run, round) : KNOWLEDGE_MULT;
 
   useEffect(() => {
     if (locale !== "en") return;
@@ -174,7 +171,7 @@ function ViewerBody({
   const handleCheck = () => {
     if (parsed === null || isChecked) return;
     setIsChecked(true);
-    const isCorrect = isAnswerCorrect(note, task.value, `${task.tex} ${task.ans ?? ""}`);
+    const isCorrect = checkNote(note, task);
     recordAttempts([{ taskId: task.id, isCorrect }]);
     audio.play(isCorrect ? "coin" : "error");
   };
@@ -300,40 +297,64 @@ function ViewerBody({
             </span>
             <span className="rounded bg-panel-light px-2 text-white">{task.pts} pkt</span>
             <span className="rounded bg-panel-light px-2 text-important">{"●".repeat(task.diff)}</span>
-          </div>
-        </div>
-        <div className="rounded-panel bg-white px-4 py-3 text-center font-pixel text-[21px] leading-snug text-ink">
-          {task.sum ? (
-            <Trans>
-              Card value = the <span className="text-important">sum of all numbers</span> in the final answer
-            </Trans>
-          ) : (
-            <Trans>Card value = the final answer (a number)</Trans>
-          )}
-          <div className="mt-1 text-[17px] text-ink/60">
-            <Trans>Chips per card are capped at ±{VALUE_CAP}</Trans>
-          </div>
-          <div className="mt-1 text-[18px] text-green">
-            <Trans>
-              Right answer bonus: +{knowledgeChips(task.diff)} chips, +{KNOWLEDGE_MULT} mult
-            </Trans>
+            <div className="flex-1" />
+            {/* what a right answer is worth */}
+            <span className="rounded bg-blue px-2 text-white" title={t`If right`}>
+              +{chipsIfRight}
+            </span>
+            {multIfRight > 0 && <span className="rounded bg-red px-2 text-white">+{multIfRight}</span>}
           </div>
         </div>
 
         {/* the player's own answer */}
         <div className="rounded-panel bg-inset-deep p-4">
-          <label className="tx mb-2 block font-pixel text-2xl text-white" htmlFor="note-input">
+          <label
+            className="tx mb-2 flex items-baseline justify-between font-pixel text-2xl text-white"
+            htmlFor="note-input"
+          >
             <Trans>Your answer</Trans>
+            {task.sum && (
+              <span className="text-lg text-important">
+                <Trans>Σ sum of all numbers</Trans>
+              </span>
+            )}
           </label>
           <input
             ref={inputRef}
             id="note-input"
             value={note}
             onChange={(e) => saveNote(e.target.value)}
-            placeholder={t`e.g. 12, -3/2, 2√3`}
+            placeholder={task.key ? t`number or A-D` : t`e.g. 12, -3/2, 2√3`}
             autoComplete="off"
             className="w-full rounded-lg border-4 border-panel-light bg-[#fffbe6] px-3 py-2 font-pixel text-3xl text-[#3a3000] outline-none focus:border-money"
           />
+          {/* closed task: pick the option letter */}
+          {task.key && (
+            <div className="mt-2 grid grid-cols-2 gap-1.5">
+              {LETTERS.map((l, i) => {
+                const tex = task.opts?.[i]?.[0];
+                return (
+                  <button
+                    key={l}
+                    type="button"
+                    onClick={() => saveNote(l)}
+                    className={cn(
+                      "flex h-11 items-center gap-2 overflow-hidden rounded-lg px-2 text-left shadow-hard-sm active:translate-y-[2px] active:shadow-none",
+                      letter === l ? "bg-money text-[#3a3000]" : "bg-panel-light text-white hover:bg-grey",
+                      !tex && "justify-center",
+                    )}
+                  >
+                    <span className="font-pixel text-2xl">{l}</span>
+                    {tex && (
+                      <span className="min-w-0 truncate text-[16px]">
+                        <Tex tex={tex} />
+                      </span>
+                    )}
+                  </button>
+                );
+              })}
+            </div>
+          )}
           <div className="mt-2 grid grid-cols-5 gap-1.5">
             {SYMBOLS.map((symbol) => (
               <button
@@ -348,45 +369,9 @@ function ViewerBody({
               </button>
             ))}
           </div>
-          {task.opts && (
-            <div className="mt-3">
-              <div className="tx mb-1 font-pixel text-lg text-white/70">
-                <Trans>Or pick the option</Trans>
-              </div>
-              <div className="grid grid-cols-2 gap-1.5">
-                {task.opts.map(([tex, answer], i) => (
-                  <button
-                    key={LETTERS[i]}
-                    type="button"
-                    onClick={() => saveNote(answer)}
-                    className={cn(
-                      "flex min-h-11 items-center gap-2 overflow-hidden rounded-lg px-2 py-1 text-left shadow-hard-sm active:translate-y-[2px] active:shadow-none",
-                      note === answer ? "bg-money text-[#3a3000]" : "bg-panel-light text-white hover:bg-grey",
-                    )}
-                  >
-                    <span className="font-pixel text-2xl">{LETTERS[i]}</span>
-                    <span className="min-w-0 truncate text-[16px]">
-                      <Tex tex={tex} />
-                    </span>
-                  </button>
-                ))}
-              </div>
-            </div>
-          )}
-          <div className="mt-2 min-h-[28px] font-pixel text-xl text-white/70">
-            {note && (parsed === null ? <Trans>Not a number I can read</Trans> : <>= {formatValue(parsed)}</>)}
-          </div>
-          {chipsIfRight !== null && (
-            <div className="font-pixel text-lg leading-tight text-blue">
-              <Trans>
-                If right: {formatValue(chipsIfRight + knowledgeChips(task.diff))} chips, +{KNOWLEDGE_MULT} mult
-              </Trans>
-              {parsed !== null && Math.abs(parsed) > VALUE_CAP && Math.abs(chipsIfRight) === VALUE_CAP && (
-                <span className="text-white/50">
-                  {" "}
-                  <Trans>(capped)</Trans>
-                </span>
-              )}
+          {note && !letter && (parsed === null || String(formatValue(parsed)) !== note.trim()) && (
+            <div className={cn("mt-2 font-pixel text-xl", parsed === null ? "text-red" : "text-white/70")}>
+              {parsed === null ? <Trans>Not a number I can read</Trans> : <>= {formatValue(parsed)}</>}
             </div>
           )}
           {isStudy ? (
@@ -394,16 +379,12 @@ function ViewerBody({
               tone="green"
               size="sm"
               className="mt-2 w-full"
-              disabled={parsed === null || isChecked}
+              disabled={(parsed === null && !letter) || isChecked}
               onClick={handleCheck}
             >
               <Trans>Check answer</Trans>
             </PixelButton>
-          ) : (
-            <div className="font-pixel text-[17px] leading-tight text-white/50">
-              <Trans>Required to play this card. A wrong answer scores 0 chips.</Trans>
-            </div>
-          )}
+          ) : null}
         </div>
 
         {/* study record across runs + the manual "don't know" mark */}
@@ -432,7 +413,7 @@ function ViewerBody({
             <div className="tx font-pixel text-4xl text-white">= {formatValue(task.value)}</div>
             {note && (
               <div className="tx mt-1 font-pixel text-2xl text-white">
-                {isAnswerCorrect(note, task.value, `${task.tex} ${task.ans ?? ""}`) ? (
+                {checkNote(note, task) ? (
                   <Trans>Your answer was right ✓</Trans>
                 ) : (
                   <Trans>Your answer was wrong ✗</Trans>
@@ -448,11 +429,11 @@ function ViewerBody({
           <div className="rounded-panel bg-planet/80 p-4 text-center shadow-hard">
             <div className="tx font-pixel text-2xl text-white">
               {insight === "value" ? (
-                <Trans>Revealed value</Trans>
+                <Trans>Revealed answer</Trans>
               ) : insight === "range" ? (
-                <Trans>Value range</Trans>
+                <Trans>Answer range</Trans>
               ) : (
-                <Trans>Value sign</Trans>
+                <Trans>Answer sign</Trans>
               )}
             </div>
             <div className="tx font-pixel text-5xl text-white">

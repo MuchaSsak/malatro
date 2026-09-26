@@ -3,9 +3,9 @@
  * card by card) plus final chips × mult. Mutates the given (already cloned) run for scaling
  * jokers, hand levels and play counters.
  */
-import { isAnswerCorrect } from "~/lib/game/answer";
+import { checkNote } from "~/lib/game/answer";
 import { CATEGORIES } from "~/lib/game/categories";
-import { KNOWLEDGE_MULT, knowledgeChips, VALUE_CAP } from "~/lib/game/constants";
+import { KNOWLEDGE_MULT, taskChips } from "~/lib/game/constants";
 import { BOSS_BY_ID, type BossEffect } from "~/lib/game/content/bosses";
 import { TWIERDZENIE_BY_ID } from "~/lib/game/content/consumables";
 import { type CardCtx, type Effect, type HandCtx, JOKER_BY_ID, type JokerDef } from "~/lib/game/content/jokers";
@@ -49,28 +49,19 @@ export function isCardDebuffed(run: RunState, round: RoundState | null, card: Ca
   return false;
 }
 
-/** Card value after ściąga mods, boss rules and joker transforms (before the chip cap). */
-export function effectiveValue(run: RunState, round: RoundState | null, card: CardInstance, task: TaskRecord): number {
-  let v = task.value;
-  for (const m of card.mods ?? []) {
-    if (m === "neg") v = -v;
-    else if (m === "dbl") v = 2 * v;
-    else if (m === "abs") v = Math.abs(v);
-  }
-  const boss = activeBoss(run, round);
-  if (boss?.kind === "mirror") v = -v;
-  if (boss?.kind === "round-down") v = Math.floor(v + 1e-9);
-  for (const j of run.jokers) {
-    if (j.isDisabled) continue;
-    const t = JOKER_BY_ID[j.id]?.transform;
-    if (t) v = t(v);
-  }
-  return v;
+/** Chips a correctly answered card scores: task difficulty and points, ściąga mods, boss rules. */
+export function cardChips(run: RunState, round: RoundState | null, card: CardInstance, task: TaskRecord): number {
+  let chips = taskChips(task);
+  const mods = card.mods ?? [];
+  if (mods.includes("plus")) chips += 25;
+  if (mods.includes("dbl")) chips *= 2;
+  if (activeBoss(run, round)?.kind === "round-down") chips = Math.floor(chips / 10) * 10;
+  return chips;
 }
 
-export function cardChips(run: RunState, v: number): number {
-  if (hasPassive(run, "noClamp")) return v;
-  return Math.max(-VALUE_CAP, Math.min(VALUE_CAP, v));
+/** Mult each correct answer adds (the Mirror boss takes it away). */
+export function knowledgeMult(run: RunState, round: RoundState | null): number {
+  return activeBoss(run, round)?.kind === "mirror" ? 0 : KNOWLEDGE_MULT;
 }
 
 const round2 = (n: number) => Math.round(n * 100) / 100;
@@ -126,7 +117,7 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
   const noteCorrect = played.map((c, i) => {
     if (isFaceDown[i]) return true;
     const note = run.notes[c.taskId];
-    return note ? isAnswerCorrect(note, tasks[i].value, `${tasks[i].tex} ${tasks[i].ans ?? ""}`) : false;
+    return note ? checkNote(note, tasks[i]) : false;
   });
   const correctNotes = noteCorrect.filter((ok, i) => ok && !isFaceDown[i]).length;
   const noteResults = played
@@ -146,7 +137,8 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
   run.handPlays[handType] = (run.handPlays[handType] ?? 0) + 1;
   round.handTypesPlayed.push(handType);
 
-  const values = played.map((c, i) => effectiveValue(run, round, c, tasks[i]));
+  // the answer's number no longer scores, but jokers still read it (even, prime, negative...)
+  const values = tasks.map((t) => t.value);
   const debuffed = played.map((c, i) => isCardDebuffed(run, round, c, tasks[i]));
   const isLastHand = round.handsLeft <= 1;
 
@@ -239,19 +231,20 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
       value,
       isNoteCorrect: noteCorrect[index],
     });
-    let reps = 1;
+    let reps = card.mods?.includes("rep") ? 2 : 1;
     run.jokers.forEach((j, ji) => {
       if (j.isDisabled) return;
       const r = resolveCopy(run, ji);
       if (r?.def.retrigger) reps += r.def.retrigger(cctx(r.inst));
     });
     for (let r = 0; r < reps; r++) {
-      const cv = round2(cardChips(run, value));
+      const cv = cardChips(run, round, card, task);
       chips += cv;
       events.push({ kind: "card", cardUid: card.uid, chips: cv, value, isRetrigger: r > 0 });
       if (r === 0 && !isFaceDown[index]) {
         events.push({ kind: "card-note", cardUid: card.uid, isCorrect: true });
-        apply({ chips: knowledgeChips(task.diff), mult: KNOWLEDGE_MULT }, { cardUid: card.uid });
+        const km = knowledgeMult(run, round);
+        if (km) apply({ mult: km }, { cardUid: card.uid });
         if (noteVoucher.chips) apply({ chips: noteVoucher.chips }, { cardUid: card.uid });
         if (noteVoucher.mult) apply({ mult: noteVoucher.mult }, { cardUid: card.uid });
       }
@@ -302,16 +295,7 @@ export function scoreHand({ run, round, played, pool, rng, faceDownUids = [] }: 
 
   chips = round2(chips);
   mult = round2(mult);
-  let total = Math.round(chips * mult);
-  const minus = run.jokers.find((j) => !j.isDisabled && j.id === "minusminus");
-  if (total < 0 && minus) {
-    total = -total;
-    events.push({
-      kind: "joker-text",
-      jokerUid: minus.uid,
-      text: { pl: "Minus razy minus!", en: "Minus times minus!" },
-    });
-  }
+  const total = Math.max(0, Math.round(chips * mult));
 
   return {
     handType,

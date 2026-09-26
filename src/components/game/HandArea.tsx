@@ -12,7 +12,7 @@ import { useSettings } from "~/contexts/SettingsContext";
 import { useViewer } from "~/contexts/ViewerContext";
 import { audio } from "~/lib/audio";
 import { hasDrawing } from "~/lib/drawings";
-import { evaluateAnswer } from "~/lib/game/answer";
+import { isNoteReadable } from "~/lib/game/answer";
 import { cardInsight, cardShownValue } from "~/lib/game/run";
 import { isCardDebuffed } from "~/lib/game/scoring";
 import type { CardInstance } from "~/lib/game/types";
@@ -141,17 +141,19 @@ export default function HandArea() {
                   </div>
                 </Juice>
                 {/* answers are required to play: flag selected cards that still need one */}
-                {isSelected && !c.isFaceDown && evaluateAnswer(run.notes[c.taskId] ?? "") === null && (
-                  <button
-                    type="button"
-                    onClick={() => handleOpen(c)}
-                    title={t`No answer`}
-                    aria-label={t`No answer`}
-                    className="tx absolute -top-[66px] left-1/2 z-[85] grid h-11 w-11 -translate-x-1/2 animate-bounce place-items-center rounded-full bg-red font-pixel text-2xl leading-none text-white shadow-hard-sm"
-                  >
-                    ✎
-                  </button>
-                )}
+                {isSelected &&
+                  !c.isFaceDown &&
+                  !isNoteReadable(run.notes[c.taskId] ?? "", pool.byId.get(c.taskId) ?? {}) && (
+                    <button
+                      type="button"
+                      onClick={() => handleOpen(c)}
+                      title={t`No answer`}
+                      aria-label={t`No answer`}
+                      className="tx absolute -top-[66px] left-1/2 z-[85] grid h-11 w-11 -translate-x-1/2 animate-bounce place-items-center rounded-full bg-red font-pixel text-2xl leading-none text-white shadow-hard-sm"
+                    >
+                      ✎
+                    </button>
+                  )}
                 {/* select toggle tab */}
                 {!isLocked && (hoverUid === c.uid || isSelected) && c.uid !== round.forcedUid && (
                   <button

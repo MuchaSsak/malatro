@@ -35,7 +35,7 @@ export type HandCtx = {
   isLastHand: boolean;
   /** number of played face-up cards answered correctly (answers are required, so wrong = 0 chips) */
   correctNotes: number;
-  /** effective values of played cards (after transforms, before clamp) */
+  /** answers of the correctly answered, scoring cards (their numbers, not their chips) */
   values: number[];
 };
 
@@ -61,8 +61,6 @@ export type JokerDef = {
   onCard?: (ctx: CardCtx) => Effect | void;
   retrigger?: (ctx: CardCtx) => number;
   onHand?: (ctx: HandCtx) => Effect | void;
-  /** value transform per played card (before clamp) */
-  transform?: (v: number) => number;
   onDiscard?: (ctx: { run: RunState; round: RoundState; joker: JokerInstance; count: number }) => void;
   onRoundEnd?: (ctx: { run: RunState; round: RoundState; joker: JokerInstance; rng: Rng }) => {
     money?: number;
@@ -76,7 +74,6 @@ export type JokerDef = {
     freeRerolls?: number;
     isFourFingers?: boolean;
     debtLimit?: number;
-    noClamp?: boolean;
     disablesBoss?: boolean;
     revealSign?: boolean;
     revealRange?: boolean;
@@ -279,8 +276,8 @@ export const JOKERS: JokerDef[] = [
     id: "parzysty",
     name: { pl: "Parzysty", en: "Even Steven" },
     desc: {
-      pl: "Karty o [a:parzystej] całkowitej wartości dają [m:+4] Mnożnika",
-      en: "Played cards with an [a:even] integer value give [m:+4] Mult",
+      pl: "Karty z [a:parzystą] całkowitą odpowiedzią dają [m:+4] Mnożnika",
+      en: "Played cards with an [a:even] integer answer give [m:+4] Mult",
     },
     rarity: "common",
     cost: 4,
@@ -292,8 +289,8 @@ export const JOKERS: JokerDef[] = [
     id: "nieparzysty",
     name: { pl: "Nieparzysty", en: "Odd Todd" },
     desc: {
-      pl: "Karty o [a:nieparzystej] całkowitej wartości dają [c:+31] Żetonów",
-      en: "Played cards with an [a:odd] integer value give [c:+31] Chips",
+      pl: "Karty z [a:nieparzystą] całkowitą odpowiedzią dają [c:+31] Żetonów",
+      en: "Played cards with an [a:odd] integer answer give [c:+31] Chips",
     },
     rarity: "common",
     cost: 4,
@@ -305,8 +302,8 @@ export const JOKERS: JokerDef[] = [
     id: "ulamek",
     name: { pl: "Ułamek", en: "Fraction" },
     desc: {
-      pl: "Karty o wartości [a:niecałkowitej] dają [m:+6] Mnożnika",
-      en: "Played cards with a [a:non-integer] value give [m:+6] Mult",
+      pl: "Karty z [a:niecałkowitą] odpowiedzią dają [m:+6] Mnożnika",
+      en: "Played cards with a [a:non-integer] answer give [m:+6] Mult",
     },
     rarity: "common",
     cost: 5,
@@ -317,7 +314,10 @@ export const JOKERS: JokerDef[] = [
   {
     id: "zero",
     name: { pl: "Zero absolutne", en: "Absolute Zero" },
-    desc: { pl: "Karty o wartości [a:0] dają [x:×3] Mnożnika", en: "Played cards with value [a:0] give [x:×3] Mult" },
+    desc: {
+      pl: "Karty z odpowiedzią [a:0] dają [x:×3] Mnożnika",
+      en: "Played cards with answer [a:0] give [x:×3] Mult",
+    },
     rarity: "common",
     cost: 4,
     art: "0️⃣",
@@ -550,30 +550,33 @@ export const JOKERS: JokerDef[] = [
     id: "modul",
     name: { pl: "Moduł", en: "Absolute Value" },
     desc: {
-      pl: "Ujemne wartości kart liczą się jako [a:dodatnie] |x|",
-      en: "Negative card values count as [a:positive] |x|",
+      pl: "Karty z [a:ujemną] odpowiedzią dają [c:+30] Żetonów",
+      en: "Cards with a [a:negative] answer give [c:+30] Chips",
     },
     rarity: "uncommon",
     cost: 7,
     art: "|x|",
-    transform: (v) => Math.abs(v),
+    onCard: (c) => (c.value < 0 ? { chips: 30 } : undefined),
+    isCopyable: true,
   },
   {
     id: "minusminus",
     name: { pl: "Minus razy minus", en: "Minus Times Minus" },
     desc: {
-      pl: "Jeśli wynik ręki jest [a:ujemny], zmienia znak na dodatni",
-      en: "If the hand score is [a:negative], it becomes positive",
+      pl: "[x:×2] Mnożnika, jeśli co najmniej 2 zagrane karty mają [a:ujemną] odpowiedź",
+      en: "[x:×2] Mult if 2 or more played cards have a [a:negative] answer",
     },
     rarity: "uncommon",
     cost: 6,
     art: "−·−",
+    onHand: (c) => (c.values.filter((v) => v < 0).length >= 2 ? { xmult: 2 } : undefined),
+    isCopyable: true,
   },
   {
     id: "intuicja",
     name: { pl: "Intuicja", en: "Intuition" },
     desc: {
-      pl: "Pokazuje [a:znak] (+/−) wartości każdej karty na ręce",
+      pl: "Pokazuje [a:znak] (+/−) odpowiedzi każdej karty na ręce",
       en: "Shows the [a:sign] (+/−) of every card in your hand",
     },
     rarity: "uncommon",
@@ -585,8 +588,8 @@ export const JOKERS: JokerDef[] = [
     id: "rzeczoznawca",
     name: { pl: "Rzeczoznawca", en: "Appraiser" },
     desc: {
-      pl: "Pokazuje [a:przedział] wartości każdej karty na ręce",
-      en: "Shows the value [a:range] of every card in your hand",
+      pl: "Pokazuje [a:przedział] odpowiedzi każdej karty na ręce",
+      en: "Shows the answer [a:range] of every card in your hand",
     },
     rarity: "uncommon",
     cost: 7,
@@ -597,8 +600,8 @@ export const JOKERS: JokerDef[] = [
     id: "wrozbita",
     name: { pl: "Wróżbita", en: "Fortune Teller" },
     desc: {
-      pl: "Po każdej zagranej ręce ujawnia [a:dokładną wartość] 1 losowej karty na ręce",
-      en: "After each hand played, reveals the [a:exact value] of 1 random card in hand",
+      pl: "Po każdej zagranej ręce ujawnia [a:odpowiedź] 1 losowej karty na ręce",
+      en: "After each hand played, reveals the [a:answer] of 1 random card in hand",
     },
     rarity: "uncommon",
     cost: 6,
@@ -608,8 +611,8 @@ export const JOKERS: JokerDef[] = [
     id: "fibonacci",
     name: { pl: "Fibonacci", en: "Fibonacci" },
     desc: {
-      pl: "Karty o wartości z [a:ciągu Fibonacciego] (1, 2, 3, 5, 8, 13…) dają [m:+8] Mnożnika",
-      en: "Cards whose value is a [a:Fibonacci number] (1, 2, 3, 5, 8, 13…) give [m:+8] Mult",
+      pl: "Karty z odpowiedzią z [a:ciągu Fibonacciego] (1, 2, 3, 5, 8, 13…) dają [m:+8] Mnożnika",
+      en: "Cards whose answer is a [a:Fibonacci number] (1, 2, 3, 5, 8, 13…) give [m:+8] Mult",
     },
     rarity: "uncommon",
     cost: 7,
@@ -621,8 +624,8 @@ export const JOKERS: JokerDef[] = [
     id: "pierwsza",
     name: { pl: "Liczba pierwsza", en: "Prime Time" },
     desc: {
-      pl: "Karty o wartości będącej [a:liczbą pierwszą] dają [c:+20] Żetonów i [m:+4] Mnożnika",
-      en: "Cards with a [a:prime] value give [c:+20] Chips and [m:+4] Mult",
+      pl: "Karty z odpowiedzią będącą [a:liczbą pierwszą] dają [c:+20] Żetonów i [m:+4] Mnożnika",
+      en: "Cards with a [a:prime] answer give [c:+20] Chips and [m:+4] Mult",
     },
     rarity: "uncommon",
     cost: 7,
@@ -634,8 +637,8 @@ export const JOKERS: JokerDef[] = [
     id: "odwrotny",
     name: { pl: "Przekorny", en: "Contrarian" },
     desc: {
-      pl: "Karty o wartości [a:ujemnej] dają Mnożnik równy [m:|wartości|]",
-      en: "Cards with a [a:negative] value give Mult equal to [m:|value|]",
+      pl: "Karty z [a:ujemną] odpowiedzią dają Mnożnik równy [m:|odpowiedzi|]",
+      en: "Cards with a [a:negative] answer give Mult equal to [m:|answer|]",
     },
     rarity: "uncommon",
     cost: 7,
@@ -795,24 +798,33 @@ export const JOKERS: JokerDef[] = [
   {
     id: "kwadrat",
     name: { pl: "Do kwadratu", en: "Squared" },
-    desc: { pl: "Wartości zagranych kart są podnoszone [a:do kwadratu]", en: "Played card values are [a:squared]" },
+    desc: {
+      pl: "Karty, których odpowiedź jest [a:kwadratem] liczby całkowitej (0, 1, 4, 9…), dają [x:×1.5] Mnożnika",
+      en: "Cards whose answer is a [a:perfect square] (0, 1, 4, 9…) give [x:×1.5] Mult",
+    },
     rarity: "rare",
     cost: 9,
     art: "x²",
-    transform: (v) => v * v,
+    onCard: (c) =>
+      isInt(c.value) && c.value >= 0 && Number.isInteger(Math.sqrt(Math.round(c.value))) ? { xmult: 1.5 } : undefined,
+    isCopyable: true,
   },
   {
     id: "nieskonczonosc",
     name: { pl: "Nieskończoność", en: "Infinity" },
     desc: {
-      pl: "Znosi [a:limit] wartości karty (±{cap})",
-      en: "Removes the per-card value [a:cap] (±{cap})",
+      pl: "Zagrane karty dodają też swoją [a:odpowiedź] |x| jako Żetony (maks. {cap})",
+      en: "Played cards also add their [a:answer] |x| as Chips (max {cap})",
     },
     rarity: "rare",
     cost: 9,
     art: "∞",
     vars: () => ({ cap: 50 }),
-    passive: { noClamp: true },
+    onCard: (c) => {
+      const chips = Math.round(Math.min(50, Math.abs(c.value)) * 100) / 100;
+      return chips > 0 ? { chips } : undefined;
+    },
+    isCopyable: true,
   },
   {
     id: "prymus",
@@ -891,8 +903,8 @@ export const JOKERS: JokerDef[] = [
     id: "ulam",
     name: { pl: "Stanisław Ulam", en: "Stanisław Ulam" },
     desc: {
-      pl: "Karty o wartości [a:pierwszej] dają [x:×2] Mnożnika (spirala Ulama)",
-      en: "Cards with a [a:prime] value give [x:×2] Mult (Ulam spiral)",
+      pl: "Karty z odpowiedzią [a:pierwszą] dają [x:×2] Mnożnika (spirala Ulama)",
+      en: "Cards with a [a:prime] answer give [x:×2] Mult (Ulam spiral)",
     },
     rarity: "legendary",
     cost: 20,

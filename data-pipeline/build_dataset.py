@@ -29,12 +29,23 @@ OUT = ROOT / "out"
 ANN = ROOT / "annotations"
 PUBLIC = APP / "public"
 REQUIRE_VERIFIED = "--require-verified" in sys.argv
+# closed tasks whose options aren't plain numbers: the correct letter, read by an agent from the
+# options against the verified value (id -> "A".."D"); numeric options get their letter below
+ANSWER_KEYS = json.loads((ROOT / "answer_keys.json").read_text(encoding="utf-8"))
 
 CATEGORIES = {
     "liczby", "wyrazenia", "rownania", "funkcje", "ciagi", "analiza", "trygonometria",
     "planimetria", "analityczna", "stereometria", "kombinatoryka", "prawdopodobienstwo", "statystyka",
 }
 DASH_RE = re.compile(r"[–—]")
+
+
+def opts_answer(value: float, like: str) -> str:
+    """The value formatted the way extract_options formats an option answer."""
+    v = float(value)
+    if like.endswith("%"):
+        return f"{v:g}%" if f"{v:g}%" == like else f"{v * 100:g}%"
+    return str(int(v)) if v.is_integer() else f"{v:.10g}"
 
 
 def clean(s: str | None) -> str:
@@ -152,6 +163,13 @@ def main():
                 # closed task: the answer panel offers A-D, each filling in its number
                 records[-1]["opts"] = opts
                 stats["with_options"] += 1
+                hits = [i for i, (_, ans) in enumerate(opts) if ans == opts_answer(value, ans)]
+                if len(hits) == 1:
+                    records[-1]["key"] = "ABCD"[hits[0]]
+            if "key" not in records[-1] and records[-1]["id"] in ANSWER_KEYS:
+                records[-1]["key"] = ANSWER_KEYS[records[-1]["id"]]
+            if "key" in records[-1]:
+                stats["with_key"] += 1
             if a.get("statement_en"):
                 statements[exam_id][key] = a["statement_en"].strip()
             stats["included"] += 1

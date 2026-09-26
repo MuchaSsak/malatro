@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test";
 
-import { evaluateAnswer, isAnswerCorrect } from "~/lib/game/answer";
-import { KNOWLEDGE_MULT, knowledgeChips, VALUE_CAP } from "~/lib/game/constants";
+import { checkNote, evaluateAnswer, isAnswerCorrect } from "~/lib/game/answer";
+import { KNOWLEDGE_MULT, taskChips } from "~/lib/game/constants";
 import { makePool } from "~/lib/game/deck";
 import { GameEngine } from "~/lib/game/engine";
 import { detectHand } from "~/lib/game/hands";
@@ -30,6 +30,14 @@ describe("answer parser", () => {
     expect(isAnswerCorrect("1.73", Math.sqrt(3))).toBe(true);
     expect(isAnswerCorrect("2", 3)).toBe(false);
   });
+  test("closed tasks accept the option letter", () => {
+    const closed = { ...task("liczby", 3), key: "C" as const };
+    expect(checkNote("c", closed)).toBe(true);
+    expect(checkNote(" C) ", closed)).toBe(true);
+    expect(checkNote("B", closed)).toBe(false);
+    expect(checkNote("3", closed)).toBe(true); // the number still works
+    expect(checkNote("C", task("liczby", 3))).toBe(false); // open task: a letter is not an answer
+  });
 });
 
 describe("hand detection", () => {
@@ -57,7 +65,7 @@ describe("hand detection", () => {
 });
 
 describe("scoring", () => {
-  test("chips = base + clamped values; negative values subtract", () => {
+  test("a right card scores chips from its difficulty and points, not its answer", () => {
     const tasks = [task("liczby", 12, "a"), task("liczby", -4, "b"), task("ciagi", 1000, "c")];
     const pool = makePool(tasks);
     const run = createRun("trywialne", "TEST", 0);
@@ -66,13 +74,14 @@ describe("scoring", () => {
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1) });
     expect(res.handType).toBe("pair");
-    // + the knowledge bonus of 3 correct answers (fixture tasks are difficulty 2)
-    expect(res.chips).toBe(10 + 12 - 4 + VALUE_CAP + 3 * knowledgeChips(2));
+    // fixture tasks: difficulty 2, 1 point -> 19 chips each, whatever the answer (12, -4 or 1000)
+    expect(taskChips(tasks[0])).toBe(19);
+    expect(res.chips).toBe(10 + 3 * 19);
     expect(res.mult).toBe(2 + 3 * KNOWLEDGE_MULT);
-    expect(res.total).toBe((10 + 8 + VALUE_CAP + 3 * knowledgeChips(2)) * (2 + 3 * KNOWLEDGE_MULT));
+    expect(res.total).toBe((10 + 3 * 19) * (2 + 3 * KNOWLEDGE_MULT));
   });
 
-  test("jokers: Moduł makes negatives positive, Kalkulator adds mult", () => {
+  test("jokers: Moduł pays for negative answers, Kalkulator adds mult", () => {
     const pool = makePool([task("liczby", -6, "a")]);
     const run = createRun("trywialne", "TEST", 0);
     run.jokers = [
@@ -83,7 +92,7 @@ describe("scoring", () => {
     run.notes.a = "-6";
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1) });
-    expect(res.chips).toBe(5 + 6 + knowledgeChips(2));
+    expect(res.chips).toBe(5 + 19 + 30);
     expect(res.mult).toBe(1 + 4 + KNOWLEDGE_MULT);
   });
 
@@ -99,7 +108,7 @@ describe("scoring", () => {
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1) });
     expect(res.handType).toBe("high"); // not a pair: the wrong card doesn't count
-    expect(res.chips).toBe(5 + 12 + knowledgeChips(2));
+    expect(res.chips).toBe(5 + 19);
     expect(res.mult).toBe(1 + KNOWLEDGE_MULT); // Prymus needs every card right
     expect(res.scoredUids).toEqual(["u0"]);
     expect(res.moneyGained).toBe(0);
@@ -117,8 +126,8 @@ describe("scoring", () => {
     run.round = emptyRound(cards);
     const res = scoreHand({ run, round: run.round, played: cards, pool, rng: new Rng(1), faceDownUids: ["u1"] });
     expect(res.correctNotes).toBe(1);
-    // the face-down card scores its value but no knowledge bonus (nobody answered it)
-    expect(res.chips).toBe(5 + 0.5 + 4 + knowledgeChips(2));
+    // the face-down card scores its chips but no +1 Mult (nobody answered it)
+    expect(res.chips).toBe(5 + 19 + 19);
     expect(res.moneyGained).toBe(0);
     expect(res.mult).toBe(1 + KNOWLEDGE_MULT); // Prymus: 1 correct of 2 played (the face-down one has no answer)
   });

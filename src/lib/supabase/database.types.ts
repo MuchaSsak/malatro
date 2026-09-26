@@ -36,6 +36,7 @@ export type Database = {
           hands_played: number;
           id: string;
           play_time_ms: number;
+          is_cheated: boolean;
           is_endless: boolean;
           is_won: boolean;
           run_id: string;
@@ -53,6 +54,7 @@ export type Database = {
           hands_played?: number;
           id?: string;
           play_time_ms?: number;
+          is_cheated?: boolean;
           is_endless?: boolean;
           is_won?: boolean;
           run_id: string;
@@ -70,6 +72,7 @@ export type Database = {
           hands_played?: number;
           id?: string;
           play_time_ms?: number;
+          is_cheated?: boolean;
           is_endless?: boolean;
           is_won?: boolean;
           run_id?: string;
@@ -144,6 +147,7 @@ export type Database = {
           p_correct_notes: number;
           p_difficulty: string;
           p_hands_played: number;
+          p_is_cheated?: boolean;
           p_is_endless: boolean;
           p_is_won: boolean;
           p_play_time_ms?: number;
