@@ -135,3 +135,5 @@ Added 10 more Kevin MacLeod CC BY 4.0 tracks: `main` playlist now 11, `shop` 9. 
 ## [2026-09-26] ui | Collection adds Jokers + Boss blinds tabs (all shown, no discovery lock); readiness estimate hidden below 10 answers per level, untouched categories shrink to the level accuracy (not 0.5); menu user panel + fullscreen/lang moved to the top row; TRYWIALNE scrim bleeds past the stage; reveal cheat is a toggle; cheat prompt ignores scrim clicks
 
 ## [2026-09-26] scoring | card chips now from difficulty + points (6+5d+3p, +1 Mult per right answer), answer number only checked + read by jokers; value transforms replaced (Moduł, Minus razy minus, Do kwadratu, Nieskończoność, ściągi Powtórka/Podwojenie/Karta wzorów, bosses Zaokrąglenie/Lustro); closed tasks take the option letter (`key`, 1,555 records, `data-pipeline/answer_keys.json`); runs.is_cheated + leaderboard filter (migration 20260926210000); music watchdog; viewer + How to play decluttered
+
+## [2026-09-26] difficulties | five decks: TRYWIALNE, TRYWIALNE+ (P 2+ dots), CIEKAWE (all R), CIEKAWE+ (R 3+), CIEKAWE++ (R 4-5); target scale per deck; runs_difficulty_check widened (migration 20260926220000)

@@ -43,27 +43,43 @@ export function decodeTaskSet(pool: TaskPool, encoded: string): Set<string> {
   return set;
 }
 
-/** Which tasks a difficulty mode may deal, with sampling weights. [user] */
+/** more exam points = a longer, harder task */
+const ptsBoost = (t: TaskRecord) => 1 + 0.25 * (Math.max(1, t.pts) - 1);
+
+/**
+ * Which tasks a difficulty mode may deal, with sampling weights. [user, 2026-09-26]
+ * TRYWIALNE: every basic task. TRYWIALNE+: basic without the 1-dot ones, leaning hard.
+ * CIEKAWE: every extended task. CIEKAWE+: extended from 3 dots, leaning hard.
+ * CIEKAWE++: extended 4-5 dots only, 5 dots and multi-point tasks first.
+ * `isHard` (hard-card draws) keeps only the top of each mode.
+ */
 export function modeWeight(mode: DifficultyMode, t: TaskRecord, isHard = false): number {
-  if (mode === "trywialne") {
-    if (t.level !== "P") return 0;
-    return isHard ? (t.diff >= 3 ? 1 : 0) : 1;
+  const d = t.diff;
+  switch (mode) {
+    case "trywialne":
+      if (t.level !== "P") return 0;
+      return isHard ? (d >= 3 ? 1 : 0) : 1;
+    case "trywialne_plus":
+      if (t.level !== "P" || d < 2) return 0;
+      if (isHard) return d >= 3 ? 1 : 0;
+      return (d === 2 ? 1 : d === 3 ? 2.5 : 3) * ptsBoost(t);
+    case "ciekawe":
+      if (t.level !== "R") return 0;
+      return isHard ? (d >= 4 ? 1 : 0) : 1;
+    case "ciekawe_plus":
+      if (t.level !== "R" || d < 3) return 0;
+      if (isHard) return d >= 4 ? 1 : 0;
+      return (d === 3 ? 1 : d === 4 ? 2 : 2.5) * ptsBoost(t);
+    case "ciekawe_plus_plus":
+      if (t.level !== "R" || d < 4) return 0;
+      if (isHard) return d >= 5 ? 1 : 0;
+      return (d >= 5 ? 3 : 1) * Math.max(1, t.pts);
   }
-  if (mode === "trywialne_plus") {
-    if (t.level === "P") return isHard ? (t.diff >= 3 ? 1 : 0) : 3;
-    if (t.diff > 3) return 0;
-    return isHard ? 3 : 1;
-  }
-  // ciekawe
-  if (t.level === "P") return !isHard && t.diff >= 3 ? 1 : 0;
-  return isHard ? (t.diff >= 4 ? 1 : 0) : 1 + Math.max(0, t.diff - 3) * 0.5;
 }
 
 /** Normalise weights so the P:R ratio follows the mode, not the raw pool sizes. */
 function levelShare(mode: DifficultyMode): { P: number; R: number } {
-  if (mode === "trywialne") return { P: 1, R: 0 };
-  if (mode === "trywialne_plus") return { P: 0.75, R: 0.25 };
-  return { P: 0.25, R: 0.75 };
+  return mode.startsWith("trywialne") ? { P: 1, R: 0 } : { P: 0, R: 1 };
 }
 
 export type DrawFilter = { suit?: SuitId; isHard?: boolean; exclude?: Set<string> };

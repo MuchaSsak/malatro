@@ -5,6 +5,8 @@ const BACK_COLORS: Record<DifficultyMode, [string, string]> = {
   trywialne: ["#2fae78", "#1d7a52"],
   trywialne_plus: ["#009dff", "#0a5fa0"],
   ciekawe: ["#fe5f55", "#b3342c"],
+  ciekawe_plus: ["#b26cbb", "#7a3f82"],
+  ciekawe_plus_plus: ["#3a3f44", "#15181b"],
 };
 
 type CardBackProps = { difficulty?: DifficultyMode; className?: string; style?: React.CSSProperties };

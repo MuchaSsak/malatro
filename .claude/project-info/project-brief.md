@@ -18,7 +18,7 @@ math task (CKE exam); a card's hidden chip value is the task's final numeric ans
 | Friction | login = short slug + short password/PIN, auto-register, straight into the game | [user] |
 
 ## Scope
-- In (v1): 3 difficulty modes (TRYWIALNE / TRYWIALNE+ / CIEKAWE), ante 1–8 with Small/Big/Boss
+- In (v1): 5 difficulty modes (TRYWIALNE / TRYWIALNE+ / CIEKAWE / CIEKAWE+ / CIEKAWE++), ante 1–8 with Small/Big/Boss
   blinds, boss debuffs, chips × mult scoring, hand types, jokers, consumables, planet-like
   hand leveling, booster packs, vouchers, shop with task cards, money/interest, fullscreen task
   viewer with persistent freehand drawing, drag-reorder hand, PL/EN switch, Supabase

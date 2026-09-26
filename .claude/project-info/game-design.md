@@ -79,8 +79,11 @@ Level-ups come from **Twierdzenia** (planet analog), one per hand type.
 
 ## Run structure
 
-- Difficulty (deck) chosen before run: **TRYWIALNE** (P only) · **TRYWIALNE+** (≈3:1 P : R with R
-  difficulty ≤ 3) · **CIEKAWE** (≈1:3 P-hard(≥3) : R). [user]
+- Difficulty (deck) chosen before run [user, 2026-09-26]: **TRYWIALNE** (every P task) ·
+  **TRYWIALNE+** (P, 2+ dots, leaning 3+ and multi-point) · **CIEKAWE** (every R task) ·
+  **CIEKAWE+** (R, 3+ dots, leaning 4-5) · **CIEKAWE++** (R 4-5 dots only, 5 dots and multi-point
+  first). Weights in `modeWeight` (`deck.ts`); targets scale ×1 / 1.1 / 1.2 / 1.25 / 1.3
+  (`TARGET_SCALE`, `constants.ts`) since harder tasks pay more chips.
 - 8 antes × (Small, Big, Boss). Small/Big skippable for a tag. Win after ante 8 boss; endless later.
 - Per blind a **fresh 40-card deck** is drawn from the mode pool, excluding tasks already dealt this
   run (fallback: least-recently seen). Cards bought in the shop / picked from packs are **reserved**

@@ -25,7 +25,7 @@ export type CategoryId =
   | "statystyka";
 
 export type Level = "P" | "R";
-export type DifficultyMode = "trywialne" | "trywialne_plus" | "ciekawe";
+export type DifficultyMode = "trywialne" | "trywialne_plus" | "ciekawe" | "ciekawe_plus" | "ciekawe_plus_plus";
 
 /** One matura task as shipped in `public/data/tasks.json` (short keys keep the file small). */
 export type TaskRecord = {

@@ -27,18 +27,28 @@ export function taskChips(task: { diff: number; pts: number }): number {
   return CARD_CHIPS_BASE + CARD_CHIPS_PER_DIFF * diff + CARD_CHIPS_PER_PT * pts;
 }
 
+/** Small-blind targets per ante (index 0 = ante 1) for TRYWIALNE. Big = x1.5, Boss = x BossDef.targetMult. */
+const BASE_TARGETS = [200, 400, 700, 1_050, 1_450, 1_900, 2_400, 3_000];
+
 /**
- * Small-blind target per ante (index 0 = ante 1). Big = x1.5, Boss = x BossDef.targetMult.
- * Hand-tuned from the value distribution (mean capped card ~9): an unsolved 5-card pair scores
- * ~110 and a solved, well-picked hand ~200-450, so ante 1 needs 2-3 decent hands and rewards
- * solving. Growth is far gentler than Balatro's (x10 over 8 antes vs x166), per the brief: no
- * five-digit blinds. CIEKAWE is 10% lower because its tasks are much harder to solve.
+ * Harder decks deal harder tasks, and card chips grow with difficulty (mean right card: 21 chips in
+ * TRYWIALNE, 26 / 37 / 41 / 45 in the harder decks), but fewer answers come out right. Targets
+ * rise less than the chips: x1.1 / 1.2 / 1.25 / 1.3.
  */
-export const ANTE_BASE: Record<DifficultyMode, number[]> = {
-  trywialne: [200, 400, 700, 1_050, 1_450, 1_900, 2_400, 3_000],
-  trywialne_plus: [200, 400, 700, 1_050, 1_450, 1_900, 2_400, 3_000],
-  ciekawe: [180, 360, 630, 950, 1_300, 1_700, 2_150, 2_700],
+const TARGET_SCALE: Record<DifficultyMode, number> = {
+  trywialne: 1,
+  trywialne_plus: 1.1,
+  ciekawe: 1.2,
+  ciekawe_plus: 1.25,
+  ciekawe_plus_plus: 1.3,
 };
+
+export const ANTE_BASE = Object.fromEntries(
+  (Object.keys(TARGET_SCALE) as DifficultyMode[]).map((m) => [
+    m,
+    BASE_TARGETS.map((v) => Math.round((v * TARGET_SCALE[m]) / 10) * 10),
+  ]),
+) as Record<DifficultyMode, number[]>;
 
 export function endlessBase(mode: DifficultyMode, ante: number): number {
   const a8 = ANTE_BASE[mode][7];
@@ -79,29 +89,32 @@ export const DIFFICULTIES: { id: DifficultyMode; name: string; desc: L10n; tone:
   {
     id: "trywialne",
     name: "TRYWIALNE",
-    desc: {
-      pl: "Tylko zadania z matury podstawowej",
-      en: "Basic-level matura tasks only",
-    },
+    desc: { pl: "Matura podstawowa, cały przekrój", en: "Basic matura, the full range" },
     tone: "#4bc292",
   },
   {
     id: "trywialne_plus",
     name: "TRYWIALNE+",
-    desc: {
-      pl: "Głównie podstawa, czasem łatwiejsze zadania z rozszerzenia (ok. 3:1)",
-      en: "Mostly basic level, sometimes easier extended-level tasks (about 3:1)",
-    },
+    desc: { pl: "Podstawa bez najłatwiejszych zadań", en: "Basic level without the easiest tasks" },
     tone: "#009dff",
   },
   {
     id: "ciekawe",
     name: "CIEKAWE",
-    desc: {
-      pl: "Najtrudniejsze z podstawy i głównie rozszerzenie",
-      en: "The hardest basic-level tasks and mostly extended level",
-    },
+    desc: { pl: "Matura rozszerzona, cały przekrój", en: "Extended matura, the full range" },
     tone: "#fe5f55",
+  },
+  {
+    id: "ciekawe_plus",
+    name: "CIEKAWE+",
+    desc: { pl: "Rozszerzenie bez najłatwiejszych zadań", en: "Extended level without the easiest tasks" },
+    tone: "#b26cbb",
+  },
+  {
+    id: "ciekawe_plus_plus",
+    name: "CIEKAWE++",
+    desc: { pl: "Tylko najtrudniejsze zadania", en: "Only the hardest tasks" },
+    tone: "#f3b958",
   },
 ];
 

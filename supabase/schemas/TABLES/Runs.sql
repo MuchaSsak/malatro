@@ -21,7 +21,7 @@ create table if not exists public.runs (
   seed text not null default '',
   created_at timestamptz not null default now(),
   updated_at timestamptz not null default now(),
-  constraint runs_difficulty_check check (difficulty in ('trywialne', 'trywialne_plus', 'ciekawe')),
+  constraint runs_difficulty_check check (difficulty in ('trywialne', 'trywialne_plus', 'ciekawe', 'ciekawe_plus', 'ciekawe_plus_plus')),
   constraint runs_ante_check check (ante between 1 and 100),
   constraint runs_play_time_check check (play_time_ms between 0 and 8640000000),
   constraint runs_run_id_length check (char_length(run_id) between 4 and 64)
